@@ -214,7 +214,7 @@ def build(domain, live=False, check_only=False, corpus=None):
     env = Environment(loader=FileSystemLoader(str(TPL)), autoescape=select_autoescape(["html"]))
     env.filters["domain_of"] = domain_of
 
-    hero_note = ("No forms · No obligation · Local "
+    hero_note = ("Upfront pricing · No obligation · Local "
                  f"{s['counties'][0]} County technician")
     disclosure = (
         f"This site is operated independently and is not itself a licensed contractor. "
