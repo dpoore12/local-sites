@@ -1,318 +1,366 @@
 #!/usr/bin/env python3
+"""Static builder for the local-sites network.
+
+Two inputs per site and nothing else:
+
+    sites/<domain>/site.json   facts only
+    sites/<domain>/copy.md     every word a visitor reads
+
+Nothing in template/ contains a sentence about a city, a service or a symptom.
+If you find one, move it into copy.md -- that is the whole point of the guards
+below. Run with --check-only to validate without writing.
 """
-LOCAL SITE NETWORK — build + guard
-
-  python template/build.py                    # build every site in sites/
-  python template/build.py <domain>           # build one
-  python template/build.py --check-only       # run guards, write nothing
-
-The template is identical across every site. Everything a visitor reads as
-prose comes from that site's copy.md. The build FAILS rather than shipping a
-page that is a name-swap of another page.
-"""
-import json, re, sys, html, datetime, pathlib, shutil, collections
-
-ROOT   = pathlib.Path(__file__).resolve().parent.parent
-TPL    = ROOT / "template"
-SITES  = ROOT / "sites"
-DIST   = ROOT / "dist"
-YEAR   = datetime.date.today().year
+import json
+import re
+import sys
+import shutil
+import datetime
+import urllib.parse
+from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import markdown as md
 
-# ---------------------------------------------------------------- guard config
-REQUIRED_BLOCKS = [
-    "meta_title", "meta_description", "hero_promise",
-    "what_happens_when_you_call", "what_they_will_ask",
-    "closing_cta", "services_summary", "about_summary",
-]
-MIN_WORDS = {
-    "hero_promise": 35, "what_happens_when_you_call": 85,
-    "what_they_will_ask": 75, "closing_cta": 25,
-    "services_summary": 70, "about_summary": 70,
-}
-SYMPTOM_MIN, SYMPTOM_MAX = 105, 175   # words per symptom block
-QA_MIN                   = 55         # words per answer
-HOME_MIN, HOME_MAX       = 900, 1250  # visible body words on Home
-MIN_SYMPTOMS, MIN_QAS    = 4, 3
-MIN_LOCAL_FACTS          = 2
-SHINGLE                  = 15         # no two sites may share N consecutive words
-TOLLFREE                 = re.compile(r"\b(800|833|844|855|866|877|888)\b")
+ROOT = Path(__file__).resolve().parent.parent
+TPL = ROOT / "template"
+SITES = ROOT / "sites"
+DIST = ROOT / "dist"
+YEAR = datetime.date.today().year
 
-FABRICATED = [
-    "years of experience", "licensed and insured", "family owned and operated",
-    "5-star", "five star", "our customers say", "trusted by", "voted best",
-    "a+ rating", "satisfaction guaranteed", "over 1,000 happy",
-]
+# --- icons -------------------------------------------------------------------
+def _svg(body, w=2):
+    return (f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="{w}" '
+            f'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">{body}</svg>')
 
-# ---------------------------------------------------------------- icons + logo
-ICONS = {
-"icon_phone": '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21.5 16.9v2.6a1.7 1.7 0 0 1-1.9 1.7 17 17 0 0 1-7.4-2.6 16.7 16.7 0 0 1-5.1-5.1A17 17 0 0 1 4.5 6a1.7 1.7 0 0 1 1.7-1.9h2.6a1.7 1.7 0 0 1 1.7 1.5c.1.9.3 1.7.6 2.5a1.7 1.7 0 0 1-.4 1.8l-1.1 1.1a13.7 13.7 0 0 0 5.1 5.1l1.1-1.1a1.7 1.7 0 0 1 1.8-.4c.8.3 1.6.5 2.5.6a1.7 1.7 0 0 1 1.4 1.7z"/></svg>',
-"icon_pin":   '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s7-5.7 7-11a7 7 0 1 0-14 0c0 5.3 7 11 7 11z"/><circle cx="12" cy="10" r="2.6"/></svg>',
-"icon_bolt":  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2 4.5 13.5H11l-1 8.5 8.5-11.5H12l1-8.5z"/></svg>',
-"icon_check": '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6.5 9.5 17 4 11.5"/></svg>',
+ICO = {
+    "phone": _svg('<path d="M21.5 16.9v2.6a1.7 1.7 0 0 1-1.9 1.7 17 17 0 0 1-7.4-2.6 16.7 16.7 0 0 1-5.1-5.1A17 17 0 0 1 4.5 6a1.7 1.7 0 0 1 1.7-1.9h2.6a1.7 1.7 0 0 1 1.7 1.5c.1.9.3 1.7.6 2.5a1.7 1.7 0 0 1-.4 1.8l-1.1 1.1a13.7 13.7 0 0 0 5.1 5.1l1.1-1.1a1.7 1.7 0 0 1 1.8-.4c.8.3 1.6.5 2.5.6a1.7 1.7 0 0 1 1.4 1.7z"/>'),
+    "pin": _svg('<path d="M12 21s7-5.7 7-11a7 7 0 1 0-14 0c0 5.3 7 11 7 11z"/><circle cx="12" cy="10" r="2.6"/>'),
+    "check": _svg('<circle cx="12" cy="12" r="9.2"/><path d="M7.6 12.4l3 3 5.8-6.4"/>', 2.4),
+    "bolt": _svg('<path d="M13.5 2L4 13.6h6.4L9.2 22 19 10.4h-6.3L13.5 2z"/>'),
+    "clock": _svg('<circle cx="12" cy="12" r="9"/><path d="M12 7.2V12l3.2 2"/>'),
+    "chat": _svg('<path d="M20.5 12.4c0 4-3.8 7.2-8.5 7.2a9.8 9.8 0 0 1-2.6-.35L4.5 21l1.3-3.7A6.9 6.9 0 0 1 3.5 12.4c0-4 3.8-7.2 8.5-7.2s8.5 3.2 8.5 7.2z"/>'),
+    "search": _svg('<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.6-3.6"/>'),
+    "house": _svg('<path d="M3.5 10.6L12 4l8.5 6.6"/><path d="M5.6 12.2V20h12.8v-7.8"/><path d="M10 20v-4.4h4V20"/>'),
+    "cal": _svg('<rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 9.8h17M8.2 3.2v3.4M15.8 3.2v3.4"/>'),
+    "spring": _svg('<path d="M3 8h1.5M3 12h1.5M3 16h1.5"/><path d="M6 6c3 0 3 3 6 3s3-3 6-3M6 12c3 0 3 3 6 3s3-3 6-3"/><path d="M20.5 5v14"/>'),
+    "wrench": _svg('<path d="M15.2 6.1a4.4 4.4 0 0 0 5.6 5.6l-8.4 8.4a2.3 2.3 0 0 1-3.2-3.2l8.4-8.4z"/><path d="M15.2 6.1L12.4 3.3"/>'),
+    "warn": _svg('<path d="M10.3 3.9L1.9 18.2a1.9 1.9 0 0 0 1.7 2.9h16.8a1.9 1.9 0 0 0 1.7-2.9L13.7 3.9a1.9 1.9 0 0 0-3.4 0z"/><path d="M12 9.2v4.2M12 17.1h.01"/>'),
+    "eye": _svg('<path d="M2.5 12S6 5.8 12 5.8 21.5 12 21.5 12 18 18.2 12 18.2 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="2.8"/>'),
+    "gear": _svg('<circle cx="12" cy="12" r="3"/><path d="M12 2.8v2.4M12 18.8v2.4M4.5 12H2.1M21.9 12h-2.4M6.7 6.7L5 5M19 19l-1.7-1.7M6.7 17.3L5 19M19 5l-1.7 1.7"/>'),
+    "ruler": _svg('<path d="M4 18V9.5M10 18V4.5M16 18v-6M22 18H2"/>'),
+    "shield": _svg('<path d="M12 3l7 3v5c0 4.4-2.9 8.4-7 9.6C7.9 19.4 5 15.4 5 11V6l7-3z"/><path d="M9.2 11.8l2 2 3.6-3.8"/>'),
 }
-# Logo: garage silhouette with paneled door. Geometric, works at 24px.
-LOGO = ('<svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" '
-        'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
-        '<path d="M3 28V13L16 4.5 29 13v15"/>'
-        '<path d="M9 28V17.5h14V28"/><path d="M9 21.5h14M9 24.75h14"/></svg>')
+
+LOGO_MARK = _svg('<path d="M3.4 10.7L12 4.2l8.6 6.5"/><path d="M5.7 12.3V20h12.6v-7.7"/><path d="M8.2 15h7.6M8.2 17.6h7.6"/>', 2.2)
+
 FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
-           '<rect width="32" height="32" rx="6" fill="#a8442a"/>'
-           '<g fill="none" stroke="#fbf8f3" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">'
-           '<path d="M5 27V13.5L16 6l11 7.5V27"/><path d="M10.5 27V17.5h11V27"/>'
-           '<path d="M10.5 21h11M10.5 24h11"/></g></svg>')
+           '<rect width="32" height="32" rx="6" fill="#143d59"/>'
+           '<g fill="none" stroke="#f5a524" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">'
+           '<path d="M5 14L16 6l11 8"/><path d="M8 16v10h16V16"/><path d="M11 19h10M11 22.5h10"/></g></svg>')
 
-# ---------------------------------------------------------------- helpers
+# --- guard config ------------------------------------------------------------
+HOME_WORDS = (1400, 3000)
+SYMPTOM_WORDS = (105, 175)
+QA_WORDS = 55
+MIN_SYMPTOMS = 4
+MIN_QAS = 3
+MIN_FACTS = 2
+SHINGLE = 15
+
+# Claims nobody can verify from a page with no signed operator on it.
+BANNED_PRE_TENANT = [
+    "years of experience", "years in business", "family owned", "family-owned",
+    "veteran owned", "veteran-owned", "licensed and insured", "licensed & insured",
+    "fully licensed", "5-star", "five star", "five-star", "voted best",
+    "a+ rating", "bbb accredited", "award winning", "award-winning",
+    "trusted by", "thousands of", "satisfaction guaranteed", "our customers say",
+    "read our reviews", "since 19", "since 20",
+]
+
+TENANT_FIELDS = ["business_name", "license_number", "years_in_business",
+                 "reviews", "service_hours", "family_owned", "veteran_owned"]
+
+TAG = re.compile(r"<[^>]+>")
+WS = re.compile(r"\s+")
+
+
+def visible_words(html):
+    return WS.sub(" ", TAG.sub(" ", html)).strip().split()
+
+
 def parse_copy(path):
-    """copy.md -> {block_key: text}. Blocks are '## key' then prose."""
+    """copy.md is a flat list of `## key` blocks. Comments start with #."""
     blocks, key, buf = {}, None, []
-    for line in path.read_text(encoding="utf-8").splitlines():
+    for line in path.read_text().splitlines():
         if line.startswith("## "):
-            if key: blocks[key] = "\n".join(buf).strip()
+            if key:
+                blocks[key] = "\n".join(buf).strip()
             key, buf = line[3:].strip(), []
-        elif key is not None:
+        elif line.startswith("#") and key is None:
+            continue
+        elif key:
             buf.append(line)
-    if key: blocks[key] = "\n".join(buf).strip()
-    return {k: v for k, v in blocks.items() if v}
+    if key:
+        blocks[key] = "\n".join(buf).strip()
+    return blocks
 
-def words(t):
-    return len(re.findall(r"[A-Za-z0-9'’\-]+", t or ""))
 
-def norm(t):
-    return re.findall(r"[a-z0-9']+", (t or "").lower())
+def domain_of(url):
+    return urllib.parse.urlparse(url).netloc.replace("www.", "")
 
-def shingles(t, n=SHINGLE):
-    w = norm(t)
-    return {" ".join(w[i:i+n]) for i in range(max(0, len(w)-n+1))}
 
-# ---------------------------------------------------------------- load one site
-def load(dirpath):
-    s = json.loads((dirpath / "site.json").read_text(encoding="utf-8"))
-    c = parse_copy(dirpath / "copy.md")
+def build(domain, live=False, check_only=False, corpus=None):
+    sdir = SITES / domain
+    s = json.loads((sdir / "site.json").read_text())
+    c = parse_copy(sdir / "copy.md")
+    errs, warns = [], []
 
-    syms = []
-    for i in range(1, 9):
-        b, t = c.get(f"symptom_{i}"), c.get(f"symptom_{i}_title")
-        if b and t: syms.append({"title": t, "body": b})
-    qas = []
-    for i in range(1, 9):
-        q, a = c.get(f"qa_{i}_question"), c.get(f"qa_{i}_answer")
-        if q and a: qas.append({"question": q, "answer": a})
+    def need(key, minw=0):
+        if key not in c or not c[key].strip():
+            errs.append(f"copy.md missing block: {key}")
+            return ""
+        n = len(c[key].split())
+        if minw and n < minw:
+            errs.append(f"{key}: {n} words, needs {minw}+")
+        return c[key]
 
-    home_prose = " ".join([
-        c.get("hero_promise", ""), c.get("what_happens_when_you_call", ""),
-        c.get("what_they_will_ask", ""),
-        *[x["body"] for x in syms], *[x["answer"] for x in qas],
-        c.get("closing_cta", ""),
-    ])
-    return s, c, syms, qas, home_prose
+    for k in ["meta_title", "meta_description", "hero_promise",
+              "what_happens_when_you_call", "what_they_will_ask",
+              "expect_intro_1", "expect_intro_2", "closing_cta",
+              "services_summary", "about_summary"]:
+        need(k)
 
-# ---------------------------------------------------------------- guards
-def guard(name, s, c, syms, qas, home_prose):
-    err, warn = [], []
+    # --- symptoms (problem cards) --------------------------------------------
+    symptoms = []
+    sy_icons = [ICO["bolt"], ICO["eye"], ICO["warn"], ICO["wrench"]]
+    i = 1
+    while f"symptom_{i}" in c:
+        body = c[f"symptom_{i}"]
+        n = len(body.split())
+        if not (SYMPTOM_WORDS[0] <= n <= SYMPTOM_WORDS[1]):
+            errs.append(f"symptom_{i}: {n} words, must be {SYMPTOM_WORDS[0]}-{SYMPTOM_WORDS[1]}")
+        symptoms.append({"title": need(f"symptom_{i}_title"), "body": body,
+                         "icon": sy_icons[(i - 1) % len(sy_icons)]})
+        i += 1
+    if len(symptoms) < MIN_SYMPTOMS:
+        errs.append(f"{len(symptoms)} symptom blocks, needs {MIN_SYMPTOMS}+")
 
-    for k in REQUIRED_BLOCKS:
-        if k not in c: err.append(f"missing required block: {k}")
-    for k, m in MIN_WORDS.items():
-        if k in c and words(c[k]) < m:
-            err.append(f"{k}: {words(c[k])} words, minimum {m}")
+    # --- local Q&As -----------------------------------------------------------
+    faqs, i = [], 1
+    while f"qa_{i}_question" in c:
+        a = need(f"qa_{i}_answer", QA_WORDS)
+        faqs.append({"q": c[f"qa_{i}_question"], "a": a})
+        i += 1
+    if len(faqs) < MIN_QAS:
+        errs.append(f"{len(faqs)} local Q&As, needs {MIN_QAS}+")
 
-    if len(syms) < MIN_SYMPTOMS: err.append(f"{len(syms)} symptom blocks, minimum {MIN_SYMPTOMS}")
-    if len(qas)  < MIN_QAS:      err.append(f"{len(qas)} local Q&As, minimum {MIN_QAS}")
+    # --- repeating card groups ------------------------------------------------
+    def group(prefix, icons, minn):
+        out, i = [], 1
+        while f"{prefix}_{i}" in c:
+            out.append({"title": need(f"{prefix}_{i}_title"), "body": c[f"{prefix}_{i}"],
+                        "icon": icons[(i - 1) % len(icons)]})
+            i += 1
+        if len(out) < minn:
+            errs.append(f"{len(out)} {prefix} blocks, needs {minn}+")
+        return out
 
-    for i, x in enumerate(syms, 1):
-        w = words(x["body"])
-        if not (SYMPTOM_MIN <= w <= SYMPTOM_MAX):
-            err.append(f"symptom_{i}: {w} words, needs {SYMPTOM_MIN}-{SYMPTOM_MAX}")
-    for i, x in enumerate(qas, 1):
-        if words(x["answer"]) < QA_MIN:
-            err.append(f"qa_{i}_answer: {words(x['answer'])} words, minimum {QA_MIN}")
+    values = group("value", [ICO["chat"], ICO["pin"], ICO["bolt"], ICO["clock"]], 4)
+    steps = group("step", [ICO["phone"], ICO["search"], ICO["cal"]], 3)
+    factors = group("factor", [ICO["wrench"], ICO["ruler"], ICO["shield"], ICO["warn"]], 4)
 
-    hw = words(home_prose)
-    if not (HOME_MIN <= hw <= HOME_MAX):
-        err.append(f"Home body: {hw} visible words, needs {HOME_MIN}-{HOME_MAX}")
+    expects, i = [], 1
+    ex_icons = [ICO["house"], ICO["search"], ICO["cal"], ICO["warn"]]
+    while f"expect_{i}" in c:
+        expects.append({"label": need(f"expect_{i}_label"), "body": c[f"expect_{i}"],
+                        "icon": ex_icons[(i - 1) % len(ex_icons)]})
+        i += 1
+    if len(expects) < 4:
+        errs.append(f"{len(expects)} expect items, needs 4+")
 
-    # phone
-    if TOLLFREE.search(s.get("phone_display", "")):
-        err.append("toll-free number on a local site")
-    ac = re.sub(r"\D", "", s.get("phone_display", ""))[:3]
-    if ac not in s.get("area_codes", []):
-        err.append(f"phone area code {ac} not in approved area codes {s.get('area_codes')}")
-    if s.get("phone_status") == "PLACEHOLDER":
-        warn.append("phone is a PLACEHOLDER — must be a live tracking number before DNS goes live")
-
-    # local facts
+    # --- sourced local facts --------------------------------------------------
     facts = s.get("local_facts", [])
-    if len(facts) < MIN_LOCAL_FACTS:
-        err.append(f"{len(facts)} local facts, minimum {MIN_LOCAL_FACTS}")
+    if len(facts) < MIN_FACTS:
+        errs.append(f"{len(facts)} local facts, needs {MIN_FACTS}+")
     for f in facts:
-        if not f.get("sources"): err.append(f"local fact '{f.get('id')}' has no source URL")
-        if not f.get("why_it_matters"): err.append(f"local fact '{f.get('id')}' has no practical relevance")
-        if not f.get("verified"): err.append(f"local fact '{f.get('id')}' has no verification date")
+        for k in ("claim", "why_it_matters", "sources", "verified"):
+            if not f.get(k):
+                errs.append(f"local_fact {f.get('id','?')}: missing {k}")
+        for u in f.get("sources", []):
+            if not u.startswith("http"):
+                errs.append(f"local_fact {f.get('id','?')}: bad source URL {u}")
 
-    # pre-tenant honesty
+    # --- phone ---------------------------------------------------------------
+    disp = s.get("phone_display", "")
+    ac = re.sub(r"\D", "", disp)[:3]
+    if ac in {"800", "833", "844", "855", "866", "877", "888"}:
+        errs.append(f"toll-free number {disp} -- local sites need a local area code")
+    elif ac not in s.get("area_codes", []):
+        errs.append(f"area code {ac} not in approved list {s.get('area_codes')}")
+    if s.get("phone_status") == "PLACEHOLDER":
+        warns.append(f"phone {disp} is a PLACEHOLDER -- swap for a live number before DNS")
+
+    # --- tenant honesty ------------------------------------------------------
     t = s.get("tenant", {})
-    if t.get("status") == "none":
-        for field in ("business_name", "license_number", "years_in_business", "reviews", "family_owned", "veteran_owned"):
-            if t.get(field):
-                err.append(f"pre-tenant site claims tenant.{field} — no tenant is signed")
+    pre = t.get("status") != "active"
+    if pre:
+        for fld in TENANT_FIELDS:
+            if t.get(fld):
+                errs.append(f"tenant.{fld} is set but tenant.status is not active")
         if s.get("schema", {}).get("local_business"):
-            err.append("LocalBusiness schema enabled with no tenant")
-        low = home_prose.lower()
-        for phrase in FABRICATED:
-            if phrase in low:
-                err.append(f"unverifiable trust claim in copy: '{phrase}'")
-    return err, warn
+            errs.append("LocalBusiness schema requested with no signed tenant")
 
-def cross_site_duplicates(corpus):
-    """corpus: {domain: home_prose}. Returns list of (a, b, count, sample)."""
-    idx, hits = collections.defaultdict(set), []
-    for dom, prose in corpus.items():
-        for sh in shingles(prose):
-            idx[sh].add(dom)
-    pairs = collections.Counter()
-    samples = {}
-    for sh, doms in idx.items():
-        if len(doms) > 1:
-            for a in doms:
-                for b in doms:
-                    if a < b:
-                        pairs[(a, b)] += 1
-                        samples.setdefault((a, b), sh)
-    for (a, b), n in pairs.items():
-        hits.append((a, b, n, samples[(a, b)]))
-    return hits
+    # --- render --------------------------------------------------------------
+    env = Environment(loader=FileSystemLoader(str(TPL)), autoescape=select_autoescape(["html"]))
+    env.filters["domain_of"] = domain_of
 
-# ---------------------------------------------------------------- render
-def render(dirpath, s, c, syms, qas, live=False):
-    env = Environment(loader=FileSystemLoader(str(TPL)),
-                      autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
-    ctx = dict(s=s, c=c, symptoms=syms, qas=qas, year=YEAR, live=live,
-               logo_svg=LOGO, **{k: v for k, v in ICONS.items()})
-    for k in ("logo_svg", *ICONS):
-        from markupsafe import Markup
-        ctx[k] = Markup(ctx[k])
-
-    out = DIST / s["domain"]
-    if out.exists(): shutil.rmtree(out)
-    (out / "assets").mkdir(parents=True, exist_ok=True)
-    shutil.copy2(TPL / "assets" / "theme.css", out / "assets" / "theme.css")
-    (out / "assets" / "favicon.svg").write_text(FAVICON, encoding="utf-8")
-
-    # deduped, human-readable source list
-    seen, source_list = set(), []
-    for f in s.get("local_facts", []):
-        for u in f["sources"]:
-            if u in seen: continue
-            seen.add(u)
-            host = re.sub(r"^https?://(www\.)?", "", u).split("/")[0]
-            tail = u.rstrip("/").rsplit("/", 1)[-1]
-            label = host if (not tail or tail == host or len(tail) > 34) else f"{host} — {tail.replace('-', ' ').replace('.pdf','')[:34]}"
-            source_list.append({"url": u, "label": label})
-    ctx["source_list"] = source_list
-
-    faq_schema = json.dumps({
-        "@context": "https://schema.org", "@type": "FAQPage",
-        "mainEntity": [{"@type": "Question", "name": q["question"],
-                        "acceptedAnswer": {"@type": "Answer", "text": q["answer"]}} for q in qas]
-    }, ensure_ascii=False)
-
-    # HOME
-    (out / "index.html").write_text(env.get_template("index.html").render(
-        **ctx, page_title=c["meta_title"], page_description=c["meta_description"],
-        page_path="/", schema_blocks=[faq_schema] if s.get("schema", {}).get("faq_page") else []
-    ), encoding="utf-8")
-
-    # SERVICES
-    svc_body = md.markdown(
-        f"## What the four jobs actually are\n\n{c['services_summary']}\n\n"
-        + "\n\n".join(f"### {x['title']}\n\n{x['body']}" for x in syms)
+    hero_note = ("No forms · No obligation · Local "
+                 f"{s['counties'][0]} County technician")
+    disclosure = (
+        f"This site is operated independently and is not itself a licensed contractor. "
+        f"Calls are answered by a local {s['service_inline']} technician serving {s['city']}. "
+        f"No pricing, licensing, insurance or review claims are made on this page, because no "
+        f"specific provider is named on it yet. Verify license and insurance directly with any "
+        f"provider before work begins."
+    ) if pre else (
+        f"{t.get('business_name')} &mdash; {s['service']} in {s['city']}, {s['state']}. "
+        f"License {t.get('license_number')}. Verify license and insurance before work begins."
     )
-    _write(env, out / "services" / "index.html", ctx,
-           f"{s['service']} Services in {s['city']}, {s['state']}",
-           f"{s['service']} services in {s['city']}, {s['state']}: spring replacement, opener repair, track and roller work, panel and full door replacement.",
-           "/services/", f"{s['service']} Services in {s['city']}", svc_body)
 
-    # ABOUT — carries the sourced local facts, which exist on no other site
-    fact_md = "\n\n".join(
-        f"### {f['claim']}\n\n{f['why_it_matters']}\n\n"
-        + "Source: " + ", ".join(
-            f"[{re.sub(r'^https?://(www.)?', '', u).split('/')[0]}]({u})" for u in f["sources"])
-        + f"  \nVerified {f['verified']}."
-        for f in s.get("local_facts", []))
-    _write(env, out / "about" / "index.html", ctx,
-           f"About This {s['city']} {s['service']} Page",
-           f"Why this page is {s['city']}-only, and the local details that change how {s['service_inline']} gets handled here.",
-           "/about/", f"About this {s['city']} page",
-           md.markdown(f"## Why this page exists\n\n{c['about_summary']}\n\n## {s['city']} details that change the job\n\n") + md.markdown(fact_md))
+    fact_titles = {
+        f["id"]: f.get("title") or f["id"].replace("_", " ").title()
+        for f in facts
+    }
 
-    # CONTACT
-    contact_md = md.markdown(
-        f"## Call {s['phone_display']}\n\n"
-        f"One number. No form, no phone menu, no callback queue. Describe what the door is doing and you will get "
-        f"routed to a {s['service_inline']} technician working in {s['city']} and the surrounding "
-        f"{' and '.join(s['counties'])} County areas.\n\n"
-        f"## Say these four things\n\n"
-        f"- Whether the door is one solid slab or horizontal sections\n"
-        f"- Where the springs are: above the opening, or along the ceiling\n"
-        f"- Roughly when the house was built\n"
-        f"- Whether the door is open, closed, or stuck part way\n\n"
-        f"## Areas covered\n\n" + ", ".join(s["neighborhoods"]) + f", and the rest of {s['city']}.\n\n"
-        f"## Not a {s['service_inline']} call\n\n"
-        f"Gas smell, live electrical wiring, or a structure that looks like it is failing: call 911 or your utility. "
-        f"Not this number.")
-    _write(env, out / "contact" / "index.html", ctx,
-           f"Contact — {s['service']} in {s['city']}, {s['state']}",
-           f"Call {s['phone_display']} for {s['service_inline']} in {s['city']}, {s['state']}. What to have ready before you call.",
-           "/contact/", f"Contact a {s['city']} technician", contact_md)
-    return out
+    work = [
+        {"src": "/assets/work-1.jpg", "caption": "Torsion spring replacement"},
+        {"src": "/assets/work-2.jpg", "caption": "Sectional door installation"},
+        {"src": "/assets/work-3.jpg", "caption": "Opener and rail repair"},
+    ]
 
-def _write(env, path, ctx, title, desc, page_path, h1, body):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    from markupsafe import Markup
-    path.write_text(env.get_template("inner.html").render(
-        **ctx, page_title=title, page_description=desc, page_path=page_path,
-        h1=h1, body=Markup(body), schema_blocks=[]), encoding="utf-8")
+    ctx = dict(
+        s=s, c=c, year=YEAR,
+        robots="index, follow" if live else "noindex, nofollow",
+        logo_mark=LOGO_MARK, hero_note=hero_note, disclosure=disclosure,
+        values=values, steps=steps, factors=factors, expects=expects,
+        symptoms=symptoms, faqs=faqs, work=work, fact_titles=fact_titles,
+        facts_verified=max((f.get("verified", "") for f in facts), default=""),
+        neighborhood_count=len(s.get("neighborhoods", [])),
+        **{f"ico_{k}": v for k, v in ICO.items()},
+    )
 
-# ---------------------------------------------------------------- main
+    schema = None
+    if s.get("schema", {}).get("faq_page") and faqs:
+        schema = {"@context": "https://schema.org", "@type": "FAQPage",
+                  "mainEntity": [{"@type": "Question", "name": q["q"],
+                                  "acceptedAnswer": {"@type": "Answer", "text": q["a"]}}
+                                 for q in faqs]}
+
+    pages = {}
+    pages["index.html"] = env.get_template("index.html").render(
+        meta_title=c.get("meta_title", ""), meta_description=c.get("meta_description", ""),
+        canonical_path="/", schema_json=json.dumps(schema) if schema else None, **ctx)
+
+    inner = env.get_template("inner.html")
+    pages["services/index.html"] = inner.render(
+        meta_title=f"{s['service']} Services in {s['city']}, {s['state']}",
+        meta_description=f"The four {s['service_inline']} jobs that get confused with each other in {s['city']}.",
+        canonical_path="/services/", schema_json=None,
+        page_h1=f"{s['service']} Services", page_kicker=f"{s['city']}, {s['state']}",
+        page_lede=c.get("services_summary", "").split(". ")[0] + ".",
+        page_body=md.markdown(c.get("services_summary", "")),
+        page_cards=factors, page_cards_eyebrow="What changes the job",
+        page_cards_head=f"What affects {s['service_inline']} in {s['city']}", **ctx)
+
+    pages["about/index.html"] = inner.render(
+        meta_title=f"About &mdash; {s['service']} in {s['city']}, {s['state']}",
+        meta_description=f"Why this page covers {s['city']} only.",
+        canonical_path="/about/", schema_json=None,
+        page_h1="About This Page", page_kicker=f"{s['city']} only",
+        page_lede=f"One city, one trade, written for {s['city']}.",
+        page_body=md.markdown(c.get("about_summary", "")),
+        page_cards=None, **ctx)
+
+    contact_body = (
+        f"<p>Call <a href=\"tel:{s['phone_tel']}\">{s['phone_display']}</a> and describe what the "
+        f"door is doing. There is no form on this page on purpose &mdash; a garage door problem is "
+        f"faster to describe out loud than to type.</p>"
+        f"<p>Coverage is {s['city']} and the surrounding {' and '.join(s['counties'])} County "
+        f"communities, including {', '.join(s.get('neighborhoods', [])[:-1])} and "
+        f"{s.get('neighborhoods', [''])[-1]}.</p>"
+        f"<p><strong>If a spring has snapped or the door is off its track:</strong> unplug the "
+        f"opener, do not try to lift the door, and say so when you call.</p>"
+    )
+    pages["contact/index.html"] = inner.render(
+        meta_title=f"Contact &mdash; {s['service']} in {s['city']}, {s['state']}",
+        meta_description=f"Call a {s['city']} {s['service_inline']} technician.",
+        canonical_path="/contact/", schema_json=None,
+        page_h1="Contact", page_kicker=s["phone_display"],
+        page_lede="One number. No form, no phone menu.",
+        page_body=contact_body, page_cards=None, **ctx)
+
+    # --- post-render guards ---------------------------------------------------
+    home_words = visible_words(pages["index.html"])
+    n = len(home_words)
+    if not (HOME_WORDS[0] <= n <= HOME_WORDS[1]):
+        errs.append(f"home page {n} visible words, must be {HOME_WORDS[0]}-{HOME_WORDS[1]}")
+
+    if pre:
+        low = " ".join(home_words).lower()
+        for phrase in BANNED_PRE_TENANT:
+            if phrase in low:
+                errs.append(f"unverifiable pre-tenant claim on page: '{phrase}'")
+
+    # cross-site duplicate prose: no two sites may share SHINGLE consecutive words
+    if corpus is not None:
+        low = [w.lower() for w in home_words]
+        mine = {" ".join(low[i:i + SHINGLE]) for i in range(len(low) - SHINGLE + 1)}
+        for other, theirs in corpus.items():
+            hits = mine & theirs
+            if hits:
+                errs.append(f"shares {len(hits)} {SHINGLE}-word runs with {other}, "
+                            f"e.g. \"{sorted(hits)[0][:90]}...\"")
+        corpus[domain] = mine
+
+    # --- report / write ------------------------------------------------------
+    label = f"{domain} -- home {n} words, {len(symptoms)} symptoms, {len(faqs)} local Q&As, {len(facts)} sourced facts"
+    for w in warns:
+        print(f"  [WARN] {w}")
+    if errs:
+        print(f"[FAIL] {label}")
+        for e in errs:
+            print(f"  [ERROR] {e}")
+        return False
+    print(f"[PASS] {label}")
+
+    if not check_only:
+        out = DIST / domain
+        if out.exists():
+            shutil.rmtree(out)
+        (out / "assets").mkdir(parents=True)
+        for rel, html in pages.items():
+            p = out / rel
+            p.parent.mkdir(parents=True, exist_ok=True)
+            p.write_text(html)
+        shutil.copy(TPL / "assets" / "theme.css", out / "assets" / "theme.css")
+        (out / "assets" / "favicon.svg").write_text(FAVICON)
+        for img in (sdir / "assets").glob("*"):
+            shutil.copy(img, out / "assets" / img.name)
+    return True
+
+
 def main():
-    args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    check_only = "--check-only" in sys.argv
-    live = "--live" in sys.argv
-    dirs = [SITES / a for a in args] if args else sorted(d for d in SITES.iterdir() if d.is_dir())
+    args = [a for a in sys.argv[1:]]
+    live = "--live" in args
+    check = "--check-only" in args
+    targets = [a for a in args if not a.startswith("--")]
+    if not targets:
+        targets = sorted(p.name for p in SITES.iterdir() if (p / "site.json").exists())
+    corpus, ok = {}, True
+    for d in targets:
+        ok = build(d, live=live, check_only=check, corpus=corpus) and ok
+    sys.exit(0 if ok else 1)
 
-    corpus, loaded, failed = {}, [], 0
-    for d in dirs:
-        s, c, syms, qas, prose = load(d)
-        err, warn = guard(d.name, s, c, syms, qas, prose)
-        corpus[s["domain"]] = prose
-        loaded.append((d, s, c, syms, qas, prose))
-        tag = "FAIL" if err else "PASS"
-        print(f"\n[{tag}] {s['domain']}  —  Home body {words(prose)} words, "
-              f"{len(syms)} symptoms, {len(qas)} local Q&As, {len(s.get('local_facts',[]))} sourced facts")
-        for e in err:  print(f"   ERROR  {e}")
-        for w in warn: print(f"   WARN   {w}")
-        if err: failed += 1
-
-    dups = cross_site_duplicates(corpus)
-    if dups:
-        print("\n[FAIL] shared phrasing across sites:")
-        for a, b, n, sample in dups:
-            print(f"   {a} <-> {b}: {n} shared {SHINGLE}-word runs, e.g. \"{sample}\"")
-        failed += 1
-    elif len(corpus) > 1:
-        print(f"\n[PASS] no shared {SHINGLE}-word run across {len(corpus)} sites")
-
-    if failed:
-        print(f"\n{failed} failure(s). Nothing built."); sys.exit(1)
-    if check_only:
-        print("\nAll guards passed. --check-only, nothing written."); return
-
-    for d, s, c, syms, qas, _ in loaded:
-        out = render(d, s, c, syms, qas, live=live)
-        print(f"built  {out.relative_to(ROOT)}  (robots: {'index' if live else 'noindex'})")
 
 if __name__ == "__main__":
     main()

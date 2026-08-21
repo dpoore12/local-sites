@@ -1,93 +1,213 @@
 {% extends "base.html" %}
-{% block content %}
 
-<section class="hero">
-  <div class="wrap">
-    <span class="eyebrow">{{ icon_pin }}{{ s.city }}, {{ s.state_full }} &middot; {{ s.counties | join(' &amp; ') | safe }} County</span>
-    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }}</h1>
-    <p class="hero-sub">{{ c.hero_promise }}</p>
-    <div class="cta-row">
-      <a class="btn-call" href="tel:{{ s.phone_tel }}">{{ icon_phone }}Call {{ s.phone_display }}</a>
-      <p class="cta-note">Describe the problem. No form, no phone menu.</p>
-    </div>
-    <div class="factbar">
-      <div>{{ icon_bolt }}Snapped springs and off-track doors treated as urgent</div>
-      <div>{{ icon_pin }}{{ s.city }} and surrounding {{ s.counties | join('/') }} County</div>
-      <div>{{ icon_check }}No obligation to hire anyone</div>
-    </div>
-  </div>
-</section>
-
-<section class="band">
-  <div class="wrap">
-    <div class="two">
-      <div>
-        <span class="eyebrow">Step one</span>
-        <h3 style="margin-top:.75rem">What happens when you call</h3>
-        <p>{{ c.what_happens_when_you_call }}</p>
-      </div>
-      <div>
-        <span class="eyebrow">Have this ready</span>
-        <h3 style="margin-top:.75rem">What they will ask you</h3>
-        <p>{{ c.what_they_will_ask }}</p>
-      </div>
+{% block hero %}
+<div class="hero">
+  <div class="hero-inner">
+    <span class="hero-eyebrow">{{ ico_pin | safe }}Serving {{ s.city }}, {{ s.state }}</span>
+    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }}<span class="hero-accent">Talk to a Local Technician</span></h1>
+    <p>{{ c.hero_promise }}</p>
+    <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="hero-note">{{ hero_note }}</p>
+    <div class="trust-band">
+      <ul>
+        <li>{{ ico_bolt | safe }}Springs and off-track doors treated as urgent</li>
+        <li>{{ ico_pin | safe }}{{ s.counties | join(" &amp; ") | safe }} County</li>
+        <li>{{ ico_check | safe }}No forms, no phone menu</li>
+      </ul>
     </div>
   </div>
-</section>
+</div>
+{% endblock %}
 
-<section class="band band-tint">
-  <div class="wrap">
+{% block main %}
+
+<div class="band band-white">
+  <div class="band-inner">
     <div class="band-head">
-      <span class="eyebrow">Figure out what broke</span>
-      <h2>Four things that go wrong, and what to do first</h2>
-      <p>Read the one that matches your door before you call. Knowing which of these you are dealing with changes what the technician puts on the truck.</p>
+      <span class="eyebrow">Why start with a call</span>
+      <h2>Thirty seconds on the phone beats an online form</h2>
+      <p>A garage door that will not move is not a project you schedule around. Describing it out loud is the fastest way to find out what broke.</p>
     </div>
-    <div class="symptoms">
-      {% for sym in symptoms %}
-      <article class="symptom">
-        <div class="symptom-num">{{ "%02d"|format(loop.index) }}</div>
-        <h3>{{ sym.title }}</h3>
-        <p>{{ sym.body }}</p>
-      </article>
+    <ul class="value-cards">
+      {% for v in values %}
+      <li class="value-card">
+        <span class="value-icon">{{ v.icon | safe }}</span>
+        <h3>{{ v.title }}</h3>
+        <p>{{ v.body }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="band band-navy">
+  <div class="band-inner">
+    <ul class="stat-strip">
+      <li class="stat">
+        <span class="stat-num is-text">No forms</span>
+        <span class="stat-label">to fill out</span>
+      </li>
+      <li class="stat">
+        <span class="stat-num is-text">No obligation</span>
+        <span class="stat-label">to book anything</span>
+      </li>
+      <li class="stat">
+        <span class="stat-num">{{ neighborhood_count }}</span>
+        <span class="stat-label">{{ s.city }} neighborhoods covered</span>
+      </li>
+      <li class="stat">
+        <span class="stat-badge" aria-hidden="true">{{ ico_check | safe }}</span>
+        <span class="stat-label">{{ s.counties | join(" and ") }} County coverage</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="steps-band">
+  <div class="steps-inner">
+    <div class="band-head">
+      <span class="eyebrow">How it works</span>
+      <h2>Three steps, one phone call</h2>
+      <p>There is nothing to fill in and nothing to buy. The call is the whole process.</p>
+    </div>
+    <ol class="steps">
+      {% for st in steps %}
+      <li class="step">
+        <span class="step-num">{{ loop.index }}</span>
+        <h3>{{ st.title }}</h3>
+        <p>{{ st.body }}</p>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</div>
+
+<div class="band band-navy work-band">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">The work itself</span>
+      <h2>What {{ s.service_inline }} actually involves</h2>
+      <p>Illustrative photographs of the three job types described on this page. No specific {{ s.city }} property is shown.</p>
+    </div>
+    <ul class="work-tiles">
+      {% for w in work %}
+      <li class="work-tile" style="background-image: linear-gradient(180deg, rgba(8,24,36,0) 45%, rgba(8,24,36,0.85) 100%), url('{{ w.src }}');">
+        <span class="work-caption">{{ w.caption }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="expect-layout">
+      <div>
+        <span class="eyebrow">Before you dial</span>
+        <h2>What you will be asked</h2>
+        <p class="section-lede">{{ c.expect_intro_1 }}</p>
+        <p class="section-lede">{{ c.expect_intro_2 }}</p>
+        <ul class="expect-list">
+          {% for e in expects %}
+          <li class="expect-item">
+            {{ e.icon | safe }}
+            <span><strong>{{ e.label }}</strong>{{ e.body }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="answer-box">
+        <h3>What happens on the call</h3>
+        <p>{{ c.what_happens_when_you_call }}</p>
+        <div class="band-cta"><a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="band band-tint">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">What changes the job</span>
+      <h2>What affects {{ s.service_inline }} in {{ s.city }}</h2>
+      <p>Every door is different. These are the four things that decide what gets loaded on the truck.</p>
+    </div>
+    <ul class="service-cards">
+      {% for f in factors %}
+      <li class="service-card">
+        <span class="card-icon">{{ f.icon | safe }}</span>
+        <h3 class="service-card-title">{{ f.title }}</h3>
+        <p>{{ f.body }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">Know before you call</span>
+      <h2>What usually prompts the call</h2>
+      <p>Four failures account for most {{ s.service_inline }} calls in {{ s.city }}. Being able to put words to yours is the whole diagnosis on the phone.</p>
+    </div>
+    <ul class="problem-cards">
+      {% for sy in symptoms %}
+      <li class="problem-card">
+        <span class="problem-icon">{{ sy.icon | safe }}</span>
+        <h3>{{ sy.title }}</h3>
+        <p>{{ sy.body }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="problem-nudge">None of this is a diagnosis. Only a technician looking at your door can tell you what is actually wrong &mdash; but knowing which of the four you are looking at means the right parts arrive the first time.</p>
+    <div class="band-cta"><a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a></div>
+  </div>
+</div>
+
+<div class="band band-navy">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">Local specifics</span>
+      <h2>Three things that are true about {{ s.city }}</h2>
+      <p>Checked against primary sources on {{ facts_verified }}. Every claim below links to where it came from.</p>
+    </div>
+    <div class="grid">
+      {% for f in s.local_facts %}
+      <div class="card">
+        <h3>{{ fact_titles[f.id] }}</h3>
+        <p>{{ f.claim }}</p>
+        <p><strong>Why it matters:</strong> {{ f.why_it_matters }}</p>
+        <p class="callout-note">Source{% if f.sources | length > 1 %}s{% endif %}:
+          {% for u in f.sources %}<a href="{{ u }}" rel="nofollow noopener" target="_blank">{{ u | domain_of }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
+        </p>
+      </div>
       {% endfor %}
     </div>
   </div>
-</section>
+</div>
 
-<section class="band">
-  <div class="wrap">
-    <div class="band-head">
-      <span class="eyebrow">{{ s.city }} specifics</span>
-      <h2>Questions that only matter here</h2>
-    </div>
-    <div class="qa">
-      {% for q in qas %}
+<div class="band band-tint">
+  <div class="band-inner">
+    <section class="faqs" aria-label="{{ s.service }} questions for {{ s.city }}">
+      <h2>{{ s.city }} questions</h2>
+      {% for q in faqs %}
       <details{% if loop.first %} open{% endif %}>
-        <summary>{{ q.question }}</summary>
-        <div class="answer"><p>{{ q.answer }}</p></div>
+        <summary><strong>{{ q.q }}</strong></summary>
+        <p>{{ q.a }}</p>
       </details>
       {% endfor %}
-    </div>
-    <div class="sources" style="margin-top:2rem">
-      <h4>Sources for the {{ s.city }} details above</h4>
-      <ol>
-        {% for src in source_list %}
-        <li><a href="{{ src.url }}" rel="nofollow noopener" target="_blank">{{ src.label }}</a></li>
-        {% endfor %}
-      </ol>
-    </div>
+    </section>
   </div>
-</section>
+</div>
 
-<section class="band band-ink">
-  <div class="wrap closing">
-    <span class="eyebrow">Before you do anything else</span>
-    <h2 style="margin-top:.75rem">Talk to someone who works on these doors</h2>
-    <p style="margin-top:1rem">{{ c.closing_cta }}</p>
-    <div class="cta-row">
-      <a class="btn-call" href="tel:{{ s.phone_tel }}">{{ icon_phone }}Call {{ s.phone_display }}</a>
-    </div>
+<div class="bottom-cta">
+  <div class="wrapper">
+    <h2>{{ s.service }} in {{ s.city }}</h2>
+    <p>{{ c.closing_cta }}</p>
+    <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="bottom-cta-note">{{ hero_note }}</p>
   </div>
-</section>
+</div>
 
 {% endblock %}

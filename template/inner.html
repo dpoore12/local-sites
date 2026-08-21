@@ -1,20 +1,52 @@
 {% extends "base.html" %}
-{% block content %}
 
-<section class="hero" style="padding-block:3.5rem 2.5rem">
-  <div class="wrap">
-    <span class="eyebrow">{{ icon_pin }}{{ s.city }}, {{ s.state }}</span>
-    <h1 style="font-size:clamp(1.9rem,4vw,2.7rem)">{{ h1 }}</h1>
-    <div class="cta-row">
-      <a class="btn-call" href="tel:{{ s.phone_tel }}">{{ icon_phone }}Call {{ s.phone_display }}</a>
+{% block hero %}
+<div class="hero">
+  <div class="hero-inner">
+    <span class="hero-eyebrow">{{ ico_pin | safe }}{{ s.city }}, {{ s.state }}</span>
+    <h1>{{ page_h1 }}<span class="hero-accent">{{ page_kicker }}</span></h1>
+    <p>{{ page_lede }}</p>
+    <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="hero-note">{{ hero_note }}</p>
+  </div>
+</div>
+{% endblock %}
+
+{% block main %}
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="section">
+      {{ page_body | safe }}
     </div>
   </div>
-</section>
+</div>
 
-<section class="band">
-  <div class="wrap">
-    <div class="prose">{{ body | safe }}</div>
+{% if page_cards %}
+<div class="band band-tint">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">{{ page_cards_eyebrow }}</span>
+      <h2>{{ page_cards_head }}</h2>
+    </div>
+    <ul class="service-cards">
+      {% for cd in page_cards %}
+      <li class="service-card">
+        <span class="card-icon">{{ cd.icon | safe }}</span>
+        <h3 class="service-card-title">{{ cd.title }}</h3>
+        <p>{{ cd.body }}</p>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
-</section>
+</div>
+{% endif %}
 
+<div class="bottom-cta">
+  <div class="wrapper">
+    <h2>{{ s.service }} in {{ s.city }}</h2>
+    <p>{{ c.closing_cta }}</p>
+    <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="bottom-cta-note">{{ hero_note }}</p>
+  </div>
+</div>
 {% endblock %}

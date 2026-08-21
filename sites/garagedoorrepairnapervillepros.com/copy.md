@@ -68,3 +68,99 @@ Garage door work in Naperville splits into four jobs that get confused with each
 
 ## about_summary
 This is a Naperville-only page. It exists to do one thing well: help someone standing in their garage at seven in the morning figure out what just broke, and put them in touch with a technician who works in DuPage and Will County rather than a lead marketplace that will sell the same call four times. The troubleshooting on this page was written for Naperville's specific housing mix, from the 1960s tilt-up doors in Cress Creek to the torsion-bar sectionals in the subdivisions built after 1990.
+
+## value_1_title
+You talk to a technician
+
+## value_1
+No phone menu, no form, no waiting for a callback. You describe what the door is doing and get an answer about whether it is urgent.
+
+## value_2_title
+Naperville and the surrounding towns
+
+## value_2
+DuPage and Will County. The troubleshooting on this page was written for Naperville's own housing mix, not copied from a national template.
+
+## value_3_title
+Springs and off-track doors first
+
+## value_3
+Those are the two failures that can injure someone. They get moved to the front of the day rather than slotted into next week.
+
+## value_4_title
+An honest answer about waiting
+
+## value_4
+Plenty of garage door problems are fine until morning. If yours is one of them, you will be told so instead of sold an after-hours visit.
+
+## step_1_title
+Call and describe it
+
+## step_1
+Say what the door is doing, what noise it made, and whether it moves at all. Thirty seconds of that is worth more than any form.
+
+## step_2_title
+Narrow it to spring, opener, or door
+
+## step_2
+Those are three different sets of parts. A few questions on the phone decides which ones need to be on the truck before anyone drives out.
+
+## step_3_title
+Get a time and a straight answer
+
+## step_3
+Urgent goes today. Everything else gets a real appointment. You will know which one you have before you hang up.
+
+## expect_intro_1
+The call is short and it is not a sales call. You will be asked what the door is doing, roughly when the house was built, and whether anything is currently holding the door up. That is usually enough to know whether this is a spring, an opener, or the door itself.
+
+## expect_intro_2
+Nobody is going to quote you a replacement door over the phone. The point of the call is to get the right parts on the truck and to find out whether you should be standing clear of the door in the meantime.
+
+## expect_1_label
+Sectional or one solid slab
+
+## expect_1
+Look at the door from inside. Horizontal panels that bend as it rolls up means sectional. One rigid slab that swings out and tilts up means a one-piece door, which is common in Naperville's 1960s and 70s sections. That single answer tells the technician which spring system you have.
+
+## expect_2_label
+Where the springs are
+
+## expect_2
+A spring wound tightly around a steel bar directly above the opening is a torsion system. Two long springs stretched along the ceiling tracks on either side are extension springs. If you can photograph them safely from a distance, do it before you call.
+
+## expect_3_label
+Roughly when the house was built
+
+## expect_3
+Not the exact year. The decade is enough. Naperville's stock runs from 1960s subdivisions through construction that is still going on, and the era narrows down the hardware faster than almost anything else you can tell someone.
+
+## expect_4_label
+Where the door is sitting right now
+
+## expect_4
+Open, closed, or stuck partway matters, and so does whether anything is propping it. A door held up only by a cable under tension is the situation where you stop touching it and wait.
+
+## factor_1_title
+Which system broke
+
+## factor_1
+A spring, an opener, and the door itself are three separate jobs with three separate parts lists. Sorting that out on the phone is the difference between one visit and two.
+
+## factor_2_title
+The age of the door
+
+## factor_2
+Hardware from the 1960s and 70s often means tight headroom and extension springs. Anything from the 1990s on is almost certainly a torsion bar. The tools are not the same.
+
+## factor_3_title
+Whether it is a safety problem
+
+## factor_3
+Snapped springs and doors off their track get priority regardless of the schedule, because both can drop a heavy door. A noisy roller does not.
+
+## factor_4_title
+Whether weather was involved
+
+## factor_4
+Wind damage looks like a dented panel and is usually bent track underneath. Saying a storm was involved changes what gets loaded on the truck.
