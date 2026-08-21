@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section class="hero">
+  <div class="wrap">
+    <span class="eyebrow">{{ icon_pin }}{{ s.city }}, {{ s.state_full }} &middot; {{ s.counties | join(' &amp; ') | safe }} County</span>
+    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }}</h1>
+    <p class="hero-sub">{{ c.hero_promise }}</p>
+    <div class="cta-row">
+      <a class="btn-call" href="tel:{{ s.phone_tel }}">{{ icon_phone }}Call {{ s.phone_display }}</a>
+      <p class="cta-note">Describe the problem. No form, no phone menu.</p>
+    </div>
+    <div class="factbar">
+      <div>{{ icon_bolt }}Snapped springs and off-track doors treated as urgent</div>
+      <div>{{ icon_pin }}{{ s.city }} and surrounding {{ s.counties | join('/') }} County</div>
+      <div>{{ icon_check }}No obligation to hire anyone</div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="two">
+      <div>
+        <span class="eyebrow">Step one</span>
+        <h3 style="margin-top:.75rem">What happens when you call</h3>
+        <p>{{ c.what_happens_when_you_call }}</p>
+      </div>
+      <div>
+        <span class="eyebrow">Have this ready</span>
+        <h3 style="margin-top:.75rem">What they will ask you</h3>
+        <p>{{ c.what_they_will_ask }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band band-tint">
+  <div class="wrap">
+    <div class="band-head">
+      <span class="eyebrow">Figure out what broke</span>
+      <h2>Four things that go wrong, and what to do first</h2>
+      <p>Read the one that matches your door before you call. Knowing which of these you are dealing with changes what the technician puts on the truck.</p>
+    </div>
+    <div class="symptoms">
+      {% for sym in symptoms %}
+      <article class="symptom">
+        <div class="symptom-num">{{ "%02d"|format(loop.index) }}</div>
+        <h3>{{ sym.title }}</h3>
+        <p>{{ sym.body }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="band-head">
+      <span class="eyebrow">{{ s.city }} specifics</span>
+      <h2>Questions that only matter here</h2>
+    </div>
+    <div class="qa">
+      {% for q in qas %}
+      <details{% if loop.first %} open{% endif %}>
+        <summary>{{ q.question }}</summary>
+        <div class="answer"><p>{{ q.answer }}</p></div>
+      </details>
+      {% endfor %}
+    </div>
+    <div class="sources" style="margin-top:2rem">
+      <h4>Sources for the {{ s.city }} details above</h4>
+      <ol>
+        {% for src in source_list %}
+        <li><a href="{{ src.url }}" rel="nofollow noopener" target="_blank">{{ src.label }}</a></li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</section>
+
+<section class="band band-ink">
+  <div class="wrap closing">
+    <span class="eyebrow">Before you do anything else</span>
+    <h2 style="margin-top:.75rem">Talk to someone who works on these doors</h2>
+    <p style="margin-top:1rem">{{ c.closing_cta }}</p>
+    <div class="cta-row">
+      <a class="btn-call" href="tel:{{ s.phone_tel }}">{{ icon_phone }}Call {{ s.phone_display }}</a>
+    </div>
+  </div>
+</section>
+
+{% endblock %}
