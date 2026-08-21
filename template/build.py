@@ -233,9 +233,9 @@ def build(domain, live=False, check_only=False, corpus=None):
     }
 
     work = [
-        {"src": "/assets/work-1.jpg", "caption": "Torsion spring replacement"},
-        {"src": "/assets/work-2.jpg", "caption": "Sectional door installation"},
-        {"src": "/assets/work-3.jpg", "caption": "Opener and rail repair"},
+        {"src": "assets/work-1.jpg", "caption": "Torsion spring replacement"},
+        {"src": "assets/work-2.jpg", "caption": "Sectional door installation"},
+        {"src": "assets/work-3.jpg", "caption": "Opener and rail repair"},
     ]
 
     ctx = dict(
@@ -259,13 +259,13 @@ def build(domain, live=False, check_only=False, corpus=None):
     pages = {}
     pages["index.html"] = env.get_template("index.html").render(
         meta_title=c.get("meta_title", ""), meta_description=c.get("meta_description", ""),
-        canonical_path="/", schema_json=json.dumps(schema) if schema else None, **ctx)
+        canonical_path="/", base="", schema_json=json.dumps(schema) if schema else None, **ctx)
 
     inner = env.get_template("inner.html")
     pages["services/index.html"] = inner.render(
         meta_title=f"{s['service']} Services in {s['city']}, {s['state']}",
         meta_description=f"The four {s['service_inline']} jobs that get confused with each other in {s['city']}.",
-        canonical_path="/services/", schema_json=None,
+        canonical_path="/services/", base="../", schema_json=None,
         page_h1=f"{s['service']} Services", page_kicker=f"{s['city']}, {s['state']}",
         page_lede=c.get("services_summary", "").split(". ")[0] + ".",
         page_body=md.markdown(c.get("services_summary", "")),
@@ -275,7 +275,7 @@ def build(domain, live=False, check_only=False, corpus=None):
     pages["about/index.html"] = inner.render(
         meta_title=f"About &mdash; {s['service']} in {s['city']}, {s['state']}",
         meta_description=f"Why this page covers {s['city']} only.",
-        canonical_path="/about/", schema_json=None,
+        canonical_path="/about/", base="../", schema_json=None,
         page_h1="About This Page", page_kicker=f"{s['city']} only",
         page_lede=f"One city, one trade, written for {s['city']}.",
         page_body=md.markdown(c.get("about_summary", "")),
@@ -294,12 +294,16 @@ def build(domain, live=False, check_only=False, corpus=None):
     pages["contact/index.html"] = inner.render(
         meta_title=f"Contact &mdash; {s['service']} in {s['city']}, {s['state']}",
         meta_description=f"Call a {s['city']} {s['service_inline']} technician.",
-        canonical_path="/contact/", schema_json=None,
+        canonical_path="/contact/", base="../", schema_json=None,
         page_h1="Contact", page_kicker=s["phone_display"],
         page_lede="One number. No form, no phone menu.",
         page_body=contact_body, page_cards=None, **ctx)
 
     # --- post-render guards ---------------------------------------------------
+    for page_name, page_html in pages.items():
+        check_no_absolute_paths(page_html, page_name, errs)
+    check_no_absolute_paths((TPL / "assets" / "theme.css").read_text(), "theme.css", errs)
+
     home_words = visible_words(pages["index.html"])
     n = len(home_words)
     if not (HOME_WORDS[0] <= n <= HOME_WORDS[1]):
@@ -347,6 +351,21 @@ def build(domain, live=False, check_only=False, corpus=None):
         for img in (sdir / "assets").glob("*"):
             shutil.copy(img, out / "assets" / img.name)
     return True
+
+
+def check_no_absolute_paths(html: str, page: str, problems: list) -> None:
+    """Root-relative asset and nav paths work on the live domain but break the
+    moment the site is served from a subfolder, which is exactly what every
+    preview does. A page that 404s its own stylesheet looks like raw HTML, so
+    this is a hard failure rather than a warning."""
+    for pat in ('href="/assets/', "href='/assets/", 'src="/assets/', "src='/assets/",
+                'url("/assets/', "url('/assets/", 'href="/services/', 'href="/about/',
+                'href="/contact/'):
+        if pat in html:
+            problems.append(f"{page}: absolute path {pat!r} -- must be relative to the page")
+    # href="/" as a home link is the same bug in a shorter form.
+    if 'href="/"' in html:
+        problems.append(f"{page}: absolute home link href=\"/\" -- use the relative base")
 
 
 def main():

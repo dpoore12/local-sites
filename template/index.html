@@ -91,7 +91,7 @@
     </div>
     <ul class="work-tiles">
       {% for w in work %}
-      <li class="work-tile" style="background-image: linear-gradient(180deg, rgba(8,24,36,0) 45%, rgba(8,24,36,0.85) 100%), url('{{ w.src }}');">
+      <li class="work-tile" style="background-image: linear-gradient(180deg, rgba(8,24,36,0) 45%, rgba(8,24,36,0.85) 100%), url('{{ base }}{{ w.src }}');">
         <span class="work-caption">{{ w.caption }}</span>
       </li>
       {% endfor %}

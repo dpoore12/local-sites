@@ -132,7 +132,7 @@
         background-image:
             var(--hero-scrim),
             linear-gradient(180deg, rgba(8, 24, 36, 0.60) 0%, rgba(8, 24, 36, 0.38) 42%, rgba(8, 24, 36, 0.88) 100%),
-            url("/assets/hero.jpg");
+            url("hero.jpg");
         background-size: cover;
         background-position: center 42%;
         background-repeat: no-repeat;
