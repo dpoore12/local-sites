@@ -111,6 +111,17 @@ def domain_of(url):
     return urllib.parse.urlparse(url).netloc.replace("www.", "")
 
 
+def is_draft(domain):
+    """True when a site has not been written yet: copy blocks still TODO, or no
+    sourced local facts. These are skipped rather than failed."""
+    d = SITES / domain
+    cm = (d / "copy.md")
+    s = json.loads((d / "site.json").read_text())
+    if not s.get("local_facts") or not s.get("neighborhoods"):
+        return True
+    return "\nTODO\n" in cm.read_text() if cm.exists() else True
+
+
 def build(domain, live=False, check_only=False, corpus=None):
     sdir = SITES / domain
     s = json.loads((sdir / "site.json").read_text())
@@ -357,12 +368,13 @@ def build(domain, live=False, check_only=False, corpus=None):
 
     # cross-site duplicate prose: no two sites may share SHINGLE consecutive words
     if corpus is not None:
-        low = [w.lower() for w in home_words]
+        authored = " ".join(str(v) for k, v in sorted(c.items()))
+        low = re.findall(r"[a-z0-9']+", authored.lower())
         mine = {" ".join(low[i:i + SHINGLE]) for i in range(len(low) - SHINGLE + 1)}
         for other, theirs in corpus.items():
             hits = mine & theirs
             if hits:
-                errs.append(f"shares {len(hits)} {SHINGLE}-word runs with {other}, "
+                errs.append(f"copy.md shares {len(hits)} {SHINGLE}-word runs with {other}, "
                             f"e.g. \"{sorted(hits)[0][:90]}...\"")
         corpus[domain] = mine
 
@@ -417,9 +429,16 @@ def main():
     targets = [a for a in args if not a.startswith("--")]
     if not targets:
         targets = sorted(p.name for p in SITES.iterdir() if (p / "site.json").exists())
-    corpus, ok = {}, True
+    corpus, ok, drafts = {}, True, []
     for d in targets:
+        if is_draft(d):
+            drafts.append(d)
+            continue
         ok = build(d, live=live, check_only=check, corpus=corpus) and ok
+    if drafts:
+        print(f"\n{len(drafts)} site(s) skipped as unwritten drafts "
+              f"(no copy, no sourced facts). `python3 scaffold.py --status` "
+              f"lists what each one still needs.")
     sys.exit(0 if ok else 1)
 
 

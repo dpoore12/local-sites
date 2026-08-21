@@ -29,8 +29,50 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "The median Fort Worth housing unit was built in 1998 (ACS 2024 1-year estimate), but roughly a third of the city's 397,600 units predate 1980: Arlington Heights was largely built out in the 1920s, Wedgwood was developed between the 1950s and the 1970s, and Walsh on the far west side did not receive its first homeowners until April 2017.",
+      "why_it_matters": "Post-1990 garages are nearly always sectional steel doors balanced on a single torsion shaft. The 1920s bungalow blocks and the 1950s-70s suburbs frequently have extension springs running along the side rails, sometimes on original one-piece doors, and detached alley garages often have too little headroom for a standard torsion mount. The parts, the tooling and the safe procedure differ, so the build era has to be established before the truck is loaded.",
+      "sources": [
+        "https://censusreporter.org/profiles/16000US4827000-fort-worth-tx/",
+        "https://data.census.gov/table/ACSDT1Y2024.B25035?g=160XX00US4827000",
+        "https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Fort_Worth,_Texas",
+        "https://wedgwoodhistoricalassociation.org/wedgwoods-history",
+        "https://walshtx.com/news/press/first-homeowners-set-move-fort-worths-newest-neighborhood/"
+      ],
+      "verified": "2026-08-21",
+      "title": "A 1998 median hides a lot of pre-1980 garages"
+    },
+    {
+      "id": "permit_rule",
+      "claim": "Fort Worth Development Services states on its residential permitting page that replacement or addition of exterior doors, windows or burglar bars requires a building permit, and that permits are required for work that changes, moves or repairs doors, while purely cosmetic remodels are exempt.",
+      "why_it_matters": "A garage door is an exterior door, so installing a new door in Fort Worth is permitted work and the filing belongs in the project timeline. Replacing a torsion spring, a lift cable, a set of rollers or an opener head is hardware service on the existing door rather than a door replacement. Homeowners should confirm their specific scope with Development Services at 817-392-2222 before ordering a door, and expect design review on top of the permit inside the city's historic districts.",
+      "sources": [
+        "https://www.fortworthtexas.gov/departments/development-services/permits/residential-information"
+      ],
+      "verified": "2026-08-21",
+      "title": "The city treats a garage door as an exterior door"
+    },
+    {
+      "id": "april_2026_hail_outbreak",
+      "claim": "The National Weather Service Fort Worth/Dallas office documented a multi-day severe weather episode from April 24-29, 2026: supercells developed along the dryline over the middle of the DFW Metroplex on April 27 with numerous reports of large hail up to teacup size, and on April 28 dozens of large hail reports up to softball size accompanied six confirmed tornadoes, including an EF3 with 145 mph winds near Mineral Wells in Palo Pinto and Parker Counties immediately west of Tarrant County.",
+      "why_it_matters": "Hail bruises the door skin, which is cosmetic and can wait for an insurance adjuster, but the damage that stops a door moving is a track pushed out of plumb and a strut bowed across the back of a section. Those keep destroying rollers on every cycle until they are corrected, so a storm-damaged door needs the rails and struts checked rather than the dents counted, and the technician should bring track sections.",
+      "sources": [
+        "https://www.weather.gov/fwd/april2026svrwx"
+      ],
+      "verified": "2026-08-21",
+      "title": "After the April hail, the bent track outranks the dent"
+    }
+  ],
+  "neighborhoods": [
+    "Fairmount",
+    "Ryan Place",
+    "Arlington Heights",
+    "Wedgwood",
+    "Tanglewood",
+    "Woodland Springs"
+  ],
   "symptoms": [
     "broken_torsion_spring",
     "door_reverses_before_closing",
