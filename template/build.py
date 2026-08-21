@@ -299,6 +299,10 @@ def build(domain, live=False, check_only=False, corpus=None):
         page_lede="One number. No form, no phone menu.",
         page_body=contact_body, page_cards=None, **ctx)
 
+    for key in ("hero_accent", "trust_third"):
+        if not s.get(key):
+            errs.append(f"site.json is missing {key!r} -- it appears in the H1 or the trust band")
+
     # --- post-render guards ---------------------------------------------------
     for page_name, page_html in pages.items():
         check_no_absolute_paths(page_html, page_name, errs)

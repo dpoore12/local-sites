@@ -4,7 +4,7 @@
 <div class="hero">
   <div class="hero-inner">
     <span class="hero-eyebrow">{{ ico_pin | safe }}Serving {{ s.city }}, {{ s.state }}</span>
-    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }}<span class="hero-accent">Talk to a Local Technician</span></h1>
+    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }}<span class="hero-accent">{{ s.hero_accent }}</span></h1>
     <p>{{ c.hero_promise }}</p>
     <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     <p class="hero-note">{{ hero_note }}</p>
@@ -12,7 +12,7 @@
       <ul>
         <li>{{ ico_bolt | safe }}Springs and off-track doors treated as urgent</li>
         <li>{{ ico_pin | safe }}{{ s.counties | join(" &amp; ") | safe }} County</li>
-        <li>{{ ico_check | safe }}No forms, no phone menu</li>
+        <li>{{ ico_check | safe }}{{ s.trust_third }}</li>
       </ul>
     </div>
   </div>

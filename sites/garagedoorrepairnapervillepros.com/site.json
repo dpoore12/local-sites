@@ -82,5 +82,7 @@
     "local_business": false,
     "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabricated claim.",
     "faq_page": true
-  }
+  },
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts"
 }
