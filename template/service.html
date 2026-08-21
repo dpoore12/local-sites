@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block hero %}
+<section class="hero" style="background-image:
+      linear-gradient(180deg, rgba(11,34,51,.82) 0%, rgba(11,34,51,.62) 45%, rgba(11,34,51,.88) 100%),
+      url('{{ base }}{{ svc.photo }}');">
+  <div class="hero-inner">
+    <span class="hero-eyebrow">{{ ico_pin | safe }}{{ s.city }}, {{ s.state }}</span>
+    <h1>{{ svc.h1 }} in {{ s.city }}, {{ s.state }}<span class="hero-accent">{{ svc.accent }}</span></h1>
+    <p class="hero-lede">{{ svc_lede }}</p>
+    <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="hero-note">{{ hero_note }}</p>
+  </div>
+</section>
+{% endblock %}
+
+{% block main %}
+<section class="band band-white">
+  <div class="band-inner">
+    <div class="section">
+      {{ svc_body | safe }}
+    </div>
+    <div class="answer-box">
+      <p><strong>{{ svc.h1 }} in {{ s.city }}.</strong> Call {{ s.phone_display }} and a technician is
+        dispatched with the parts on the truck. You get the price before the work starts.</p>
+      <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="band band-tint">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">The other three jobs</span>
+      <h2>Not what your door<br>is doing?</h2>
+    </div>
+    <div class="service-cards">
+      {% for o in s.services if o.slug != svc.slug %}
+      <a class="service-card" href="{{ base }}{{ o.slug }}/">
+        <span class="card-icon">{{ ico[o.icon] | safe }}</span>
+        <h3 class="service-card-title">{{ o.h1 }}</h3>
+        <p>{{ o.accent }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band band-navy">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">Local specifics</span>
+      <h2>Written for {{ s.city }},<br>not a national template</h2>
+    </div>
+    <div class="grid">
+      {% for f in s.local_facts %}
+      <div class="card">
+        <h3>{{ fact_titles[f.id] }}</h3>
+        <p>{{ f.claim }}</p>
+        <p><strong>Why it matters:</strong> {{ f.why_it_matters }}</p>
+        <p class="callout-note">Source{{ "s" if f.sources | length > 1 }}:
+          {% for u in f.sources %}<a href="{{ u }}" rel="nofollow noopener" target="_blank">{{ u | domain_of }}</a>{{ " · " if not loop.last }}{% endfor %}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bottom-cta">
+  <div class="band-inner">
+    <h2>{{ svc.h1 }} &mdash; {{ s.city }}</h2>
+    <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="bottom-cta-note">{{ hero_note }}</p>
+  </div>
+</section>
+
+{% endblock %}

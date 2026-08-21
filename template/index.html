@@ -99,32 +99,6 @@
   </div>
 </div>
 
-<div class="band band-white">
-  <div class="band-inner">
-    <div class="expect-layout">
-      <div>
-        <span class="eyebrow">Before the truck arrives</span>
-        <h2>What the technician<br>needs to know</h2>
-        <p class="section-lede">{{ c.expect_intro_1 }}</p>
-        <p class="section-lede">{{ c.expect_intro_2 }}</p>
-        <ul class="expect-list">
-          {% for e in expects %}
-          <li class="expect-item">
-            {{ e.icon | safe }}
-            <span><strong>{{ e.label }}</strong>{{ e.body }}</span>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="answer-box">
-        <h3>What happens on the call</h3>
-        <p>{{ c.what_happens_when_you_call }}</p>
-        <div class="band-cta"><a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a></div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="band band-tint">
   <div class="band-inner">
     <div class="band-head">
@@ -149,7 +123,7 @@
     <div class="band-head">
       <span class="eyebrow">Common failures</span>
       <h2>What usually prompts the call</h2>
-      <p>Four failures account for most {{ s.service_inline }} calls in {{ s.city }}. Being able to put words to yours is the whole diagnosis on the phone.</p>
+      <p>Four failures account for most {{ s.service_inline }} calls in {{ s.city }}. Find the one that matches your door and read the full breakdown.</p>
     </div>
     <ul class="problem-cards">
       {% for sy in symptoms %}
@@ -157,10 +131,11 @@
         <span class="problem-icon">{{ sy.icon | safe }}</span>
         <h3>{{ sy.title }}</h3>
         <p>{{ sy.body }}</p>
+        <p class="problem-more"><a href="{{ base }}{{ sy.slug }}/">{{ sy.link_text }}</a></p>
       </li>
       {% endfor %}
     </ul>
-    <p class="problem-nudge">None of this is a diagnosis. Only a technician looking at your door can tell you what is actually wrong &mdash; but knowing which of the four you are looking at means the right parts arrive the first time.</p>
+    <p class="problem-nudge">None of this is a diagnosis. Only a technician looking at your door can tell you what is actually wrong &mdash; but knowing which of the four you are looking at means the right parts arrive on the first visit.</p>
     <div class="band-cta"><a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a></div>
   </div>
 </div>

@@ -22,25 +22,25 @@ Four things move the conversation fastest. First, whether your door is one solid
 The door will not lift, and you heard a bang
 
 ## symptom_1
-A loud bang from the garage — often overnight, or on the first genuinely cold morning of the season — followed by a door that will not budge, is almost always a snapped torsion spring. Look at the bar running horizontally above the door opening. A clean gap in a tightly coiled spring is the answer. Do not try to lift the door by hand. On a two-car sectional door that spring was carrying somewhere between 100 and 200 pounds that is now unsupported, and the opener is not built to take that load — running it anyway strips the drive gear and turns a spring job into a spring and opener job. Unplug the opener, leave the door where it sits, and mention whether you see one spring or two, because most Naperville sectional doors in the 1990s subdivisions have two.
+A bang from the garage and then a door that will not lift means a spring, not the opener. The door now weighs its full weight because the counterbalance is gone. Look at the bar above the opening for a two-inch gap in the coil. Unplug the opener and leave the door down.
 
 ## symptom_2_title
 The door starts down, then goes back up
 
 ## symptom_2
-The door is doing exactly what it was designed to do: it believes something is underneath it. Two systems cause this. The photo eyes are the small sensors mounted a few inches off the floor on each track — if one is knocked out of alignment, has a spider web across the lens, or is catching low afternoon sun straight on, the door will refuse to close and will usually blink the opener light at you. Check that both indicator lights are steady rather than flickering, wipe both lenses, and make sure nothing is leaning against a bracket. If the sensors are clean and aligned and it still reverses, either the down-force setting on the opener has drifted, or the door is binding somewhere on the track and the opener is correctly reading that resistance as an obstruction. The second one is a real repair, not an adjustment.
+The door starts down and reverses back up. That is the safety system working. Usually it is the two photo-eye sensors near the floor being blocked, misaligned, or washed out by late-afternoon sun. Less often it is the close-force setting compensating for a door that has stiffened up.
 
 ## symptom_3_title
 The door is crooked, off its track, or a panel is caved in
 
 ## symptom_3
-A door that has jumped its track is the one failure where doing nothing is genuinely the right move. It is being held up by a cable under tension and a roller that is no longer where it belongs, and pulling on it can bring the whole assembly down. Get the cars out if you can do that safely, unplug the opener, and call. Wind damage is a specific version of this. After the August 11 derecho that NWS Chicago recorded across northern Illinois, a lot of doors in the western suburbs looked fine apart from a dented middle panel, and the actual problem underneath was a bowed strut and two bent sections of track. Say so if wind was involved, so the truck shows up carrying track and not just a panel.
+The door sits crooked, has come off its rail, or a panel is caved in. That is a cable, a roller, or bent track. It is unstable where it hangs, so do not run the opener to test it. After a storm the bent track matters far more than the dent.
 
 ## symptom_4_title
 The opener runs but the door stays put
 
 ## symptom_4
-You hear the motor, maybe a grinding noise, and nothing moves. Most often the trolley has come disconnected from the carriage — check whether the emergency release cord, the red one hanging down from the rail, has been pulled at some point. If it has, that is frequently a two-minute reconnect you can handle yourself. If the cord is properly seated and you hear grinding, the plastic drive gear inside the opener head has worn through, which is common on chain-drive units past roughly fifteen years. On most major brands that is a repair, not a replacement, and worth asking about before anyone quotes you a new opener. If the motor only hums and nothing turns at all, the capacitor is the more likely culprit.
+You hear the motor but the door does not move. Most often the trolley has disconnected from the carriage and needs a two-minute reconnect you can do yourself. If it grinds instead, the plastic drive gear inside the opener has worn through, which is a repair rather than a new unit.
 
 ## qa_1_question
 Do I need a permit to replace a garage door in Naperville?
@@ -164,3 +164,125 @@ Whether weather was involved
 
 ## factor_4
 Wind damage looks like a dented panel and is usually bent track underneath. Saying a storm was involved changes what gets loaded on the truck.
+
+## svc_garage_door_spring_repair_lede
+A snapped spring is the most common garage door failure in Naperville and the one people most often try to handle themselves. It is also the one that hurts people.
+
+## svc_garage_door_spring_repair_body
+### What a snapped spring sounds like
+
+Almost everyone describes it the same way: a bang from the garage, loud enough that they thought something fell off a shelf. Then the door will not lift. If you try the opener, the motor strains against a door that suddenly weighs its full one hundred and fifty to two hundred pounds instead of the near-zero it normally feels like. Walk out and look at the bar above the door. On a torsion setup you will see a coiled spring with a visible two-inch gap where it separated. On an older extension-spring door you will see a stretched spring hanging loose along the horizontal track.
+
+### Why the spring type matters in this city
+
+Naperville's garage stock spans about six decades, and the spring system tracks that age closely. The 1960s and 1970s subdivisions on the older side of town were built with extension springs running alongside the tracks, often on one-piece doors with tight headroom above the opening. Everything built from the 1990s onward is nearly always a sectional steel door on a single torsion bar mounted on the header. Those are different parts, different tools, and different failure behavior. A technician who assumes torsion and shows up without extension hardware makes a second trip, which is the whole reason we ask what your street looks like before dispatching.
+
+### Do not lift it and do not touch the winding cones
+
+A torsion spring holds several hundred pounds of stored energy even after it breaks, because the remaining half is still under partial tension. Winding bars are the only correct tool and there is no household substitute. Screwdrivers slip. This is the repair that sends people to Edward Hospital every winter. If the spring is broken: unplug the opener so nobody hits the button, leave the door down, and wait.
+
+### Springs are replaced in pairs
+
+If your door has two springs and one broke, the second one is the same age with the same cycle count and it is going to fail within months. Replacing both at once costs marginally more in parts and saves a second service call. A technician who quotes you one spring on a two-spring door is either not paying attention or is planning on the return visit. Standard residential springs are rated around ten thousand cycles, which for a household that opens the door four times a day works out to somewhere around seven years. High-cycle springs roughly double that for a modest premium and are worth it on the door you actually use as your front entrance.
+
+### What the visit involves
+
+The technician measures wire gauge, inside diameter and overall length off the old spring, or reads the numbers stamped on the cone if it is still legible. That determines the replacement. Both springs come off, the drums get reset, new springs go on and get wound to the correct number of turns for your door's height and weight. Cables get inspected while everything is loose, because a spring failure often frays a cable on the way down. Then the door gets balanced by hand: disconnected from the opener, it should hold still at waist height rather than dropping or flying up. That balance test is what tells you the job was done right, and you can ask to watch it.
+
+### Pricing
+
+You get the number before any work starts. Spring replacement is a parts-and-labor job with a fairly narrow range, and the variables are how many springs, what gauge, and whether the cables and drums also need replacing. Nobody should be quoting you a price for this over the phone without knowing the door height and the spring configuration, but you should absolutely get a firm number before the tools come out.
+
+## svc_garage_door_opener_repair_lede
+Two very different complaints get called opener problems: the door that starts down and reverses back up, and the motor that runs while the door sits still. Neither usually means you need a new opener.
+
+## svc_garage_door_opener_repair_body
+### The door goes down, then comes back up
+
+This is a safety system doing its job, correctly or incorrectly. Two photo-eye sensors sit about six inches off the floor on either side of the opening, and they have to see each other for the door to close. Sun angle through an open garage in late afternoon can wash one out. A bike, a recycling bin, a snow shovel leaned against the frame will break the beam. Sensors also drift out of alignment on their own over years of the door shaking the frame. Look at the small indicator light on each sensor: on most brands, a steady light on both means aligned, and a flickering or dark light on one means it is not seeing its partner.
+
+If the sensors are clean, aligned and lit, the next suspect is the close-force setting on the motor head. As a door gets stiffer with age, the opener needs more force to push it down, and when it hits the programmed limit it reads that resistance as an obstruction and reverses. Turning the force up is the wrong fix. It masks a door that has developed a mechanical problem, and it defeats the protection that makes the reversal happen in the first place.
+
+### The motor runs but nothing moves
+
+Look up at the rail while someone presses the button. If the chain or belt is moving and the door is not, the trolley has disconnected from the carriage. Usually that is the emergency release cord: somebody pulled it, or it got snagged, and the trolley never re-engaged. Re-seating it is a two-minute fix and you can do it yourself by pulling the cord toward the door and running the opener until it clicks back in.
+
+If the motor hums and the chain does not move at all, it is inside the unit. On chain-drive openers about fifteen years old the plastic drive gear is the usual answer — the nylon teeth wear down and stop grabbing the worm gear. Grinding noise with no movement is the signature. That is a repair, not a replacement, and it is worth asking about before someone quotes you a new opener. A motor that hums for a second and quits without any grinding is more often the capacitor.
+
+### When replacement is actually the right call
+
+If your opener predates 1993 it has no photo-eye sensors, because they were not required yet, and that is a genuine reason to replace rather than repair. Beyond that: parts availability on discontinued models, a cracked motor housing, or a unit that has already had two repairs in two years. Otherwise, most openers on Naperville houses are worth fixing. A quiet belt drive with a battery backup is a nice upgrade and is worth considering on an attached garage under a bedroom, but it is an upgrade, not a repair, and it should be presented to you that way.
+
+### Battery backup and Illinois law
+
+Illinois requires battery backup on new residential opener installations, so if you are replacing the unit entirely you are getting one whether you asked or not. It is genuinely useful here — a summer storm that knocks out power to your block otherwise leaves you lifting a heavy door by hand or parked on the driveway.
+
+### What you will be told
+
+Which of the above it is, what the part costs, and whether the repair is worth doing against the age of the unit. If the honest answer is that a fifteen-year-old opener will need something else within the year, you should hear that, along with the option to fix it anyway.
+
+## svc_off_track_garage_door_repair_lede
+A door hanging crooked in the opening is a cable, roller or track problem. It is also the failure mode most likely to get worse in the ten minutes you spend deciding what to do.
+
+## svc_off_track_garage_door_repair_body
+### Leave it exactly where it is
+
+A door off its track is held up by whatever is left of the cables and rollers, and that arrangement is not stable. Running the opener to see what happens is how a partial derailment turns into a door lying on a car hood. Unplug the opener, keep everyone out from under it, and do not try to muscle it back onto the rail. This one is genuinely urgent and gets moved to the front of the day.
+
+### The three things that cause it
+
+**A cable came off the drum.** Steel lift cables run from the bottom bracket up to a grooved drum at each end of the torsion bar. If one unspools — often after a spring break drops the door hard — that side loses support and the door racks in the opening. The tell is one side sitting noticeably lower than the other with a slack cable visible along the jamb.
+
+**A roller left the track.** Rollers are the small wheels on the edge of each section. Nylon ones go brittle and crack; steel ones seize when the bearings dry out. A seized roller drags instead of rolling, and eventually climbs out of the track, usually at the curve where the vertical section turns horizontal.
+
+**The track itself is bent.** Backing into it is the classic cause. Around here, so is wind. The August 11 derecho that came through northern Illinois bent a lot of track in this town, and that damage is far more consequential than the dents people call about. A door can look basically fine from the driveway and still be running through a track that has been pushed a quarter inch out of alignment, which will chew through rollers until it is corrected.
+
+### Why the dent is not the problem
+
+This is the single most common misunderstanding after a storm. Homeowners call about a visible dent in a panel, which is cosmetic and can wait, while the real damage is the bent track and bowed strut that are quietly destroying the rollers every cycle. If your door took wind damage, the question to ask is not how the panel looks. It is whether the track is still straight and whether the struts across the back of the sections are still flat.
+
+### Cables and rollers are wear items
+
+Lift cables fray at the bottom bracket where they take the most flex and where road salt collects over an Illinois winter. A frayed cable is a scheduled replacement; a snapped one is an emergency. Rollers on a door that gets daily use are typically good for ten to fifteen years. Both are inexpensive parts, and both are worth replacing as a set while the door is already apart rather than one at a time as they fail.
+
+### The repair
+
+The door gets secured with clamps below the bottom roller so it cannot move. Sections come back into alignment one at a time, rollers get re-seated or replaced, cables get respooled on the drums with equal tension on both sides, and any bent track gets straightened or swapped. Then the same hand-balance check as any other job: disconnected from the opener, the door should hold at waist height on its own. If it does not, the spring tension is off and the rollers will wear out again.
+
+### What it costs
+
+Rollers and cables are cheap. Track sections are moderate. What drives the number is how far the door came off and whether any sections got bent in the process. You get that number before work starts, and if a section is damaged badly enough that replacement makes more sense than repair, you get told that instead of being charged for both.
+
+## svc_garage_door_replacement_lede
+Replacing a door is the only garage door job in Naperville that can turn into a permit question, and only when you change the size or the style of the opening.
+
+## svc_garage_door_replacement_body
+### One panel or the whole door
+
+A single caved-in section can often be replaced on its own, and that is the cheaper path when it works. Two things determine whether it is available: whether the manufacturer still makes your panel, and how badly the color has aged. A ten-year-old almond door that has been facing south down a Naperville street has faded, and a factory-fresh panel of the same nominal color will not match it. Sometimes that is fine because the new section sits at the bottom where nobody looks closely. Sometimes it looks worse than the dent did. You should get an honest read on that before you commit, not after.
+
+Discontinued panels are the more common blocker. Doors older than roughly fifteen years frequently have no matching section still in production, at which point full replacement is the only real option.
+
+### The permit rule here, specifically
+
+Naperville's Guide to Building Permits requires a permit for door replacement when the work alters the size or the style of the opening, or when it puts a door in a new location. A straight like-for-like swap — same opening, same dimensions, same style — is not on the permit-required list.
+
+That distinction matters more than it sounds. If you are replacing a plain steel double door with another plain steel double door in the same opening, it is usually a same-visit job and there is nothing to file. If you want windows added across the top, or a carriage-house style instead of raised panel, or the opening widened, you are in permit territory and the timeline changes from a day to a few weeks. Confirm your specific job with the City of Naperville before work starts. Worth knowing: the city sits across both DuPage and Will County, so double-check which jurisdiction applies to your address if anything about your project is unusual.
+
+### What to actually choose
+
+**Insulation.** An attached garage sharing a wall with a bedroom or a finished bonus room above it benefits from an insulated door in a way a detached garage does not. R-values on residential doors run roughly from 6 on a basic insulated steel door up to 18 or so on a premium sandwich-construction door. In this climate the insulated option is generally worth it on an attached garage and generally not worth the premium on a detached one.
+
+**Construction.** Two-layer steel doors handle Illinois weather and dents better than single-layer, and they run quieter. Three-layer with a steel back skin is quieter still and stiffer, which matters if your opening is a wide double.
+
+**Wind and struts.** After the storms this area has had, the horizontal struts across the back of each section are worth paying attention to. They are what keeps a wide door from bowing under wind load, and they are also the first thing a cost-cut door leaves out.
+
+### The visit and the timeline
+
+Measurement comes first: opening width and height, headroom above the opening, sideroom on each side, and backroom depth. Older Naperville garages on the 1960s side of town frequently have limited headroom, which rules out standard torsion mounting and calls for a low-headroom track and a different spring position. That has to be caught at measurement, not on install day.
+
+A stock-size like-for-like door on a standard opening can often be ordered and installed inside a week. Custom sizes, custom styles and windows push that out to several weeks, because the door is built to order.
+
+### Pricing
+
+You get an itemized number covering the door, the hardware, the labor and the haul-away of the old door, before anything is ordered. Ask specifically whether new track and new springs are included, because the old spring is sized for the old door's weight and a heavier insulated replacement needs different spring specs to balance correctly.

@@ -59,12 +59,14 @@ FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
            '<path d="M5 14L16 6l11 8"/><path d="M8 16v10h16V16"/><path d="M11 19h10M11 22.5h10"/></g></svg>')
 
 # --- guard config ------------------------------------------------------------
-HOME_WORDS = (1400, 3000)
-SYMPTOM_WORDS = (105, 175)
+HOME_WORDS = (1300, 2300)
+SYMPTOM_WORDS = (40, 80)
 QA_WORDS = 55
 MIN_SYMPTOMS = 4
 MIN_QAS = 3
 MIN_FACTS = 2
+SERVICE_WORDS = (900, 1500)  # each service page, whole rendered page including the shared bands
+MIN_SERVICES = 4
 SHINGLE = 15
 
 # Claims nobody can verify from a page with no signed operator on it.
@@ -139,7 +141,16 @@ def build(domain, live=False, check_only=False, corpus=None):
         n = len(body.split())
         if not (SYMPTOM_WORDS[0] <= n <= SYMPTOM_WORDS[1]):
             errs.append(f"symptom_{i}: {n} words, must be {SYMPTOM_WORDS[0]}-{SYMPTOM_WORDS[1]}")
+        # Each home-page teaser hands off to the service page that covers it in
+        # full. symptom_service maps them in order.
+        target = s.get("symptom_service", [])
+        slug = target[i - 1] if i - 1 < len(target) else ""
+        if not slug:
+            errs.append(f"symptom_{i} has no service page in site.json symptom_service")
+        link = next((o for o in s.get("services", []) if o["slug"] == slug), None)
         symptoms.append({"title": need(f"symptom_{i}_title"), "body": body,
+                         "slug": slug,
+                         "link_text": f"Read about {link['name'].lower()}" if link else "",
                          "icon": sy_icons[(i - 1) % len(sy_icons)]})
         i += 1
     if len(symptoms) < MIN_SYMPTOMS:
@@ -246,6 +257,7 @@ def build(domain, live=False, check_only=False, corpus=None):
         symptoms=symptoms, faqs=faqs, work=work, fact_titles=fact_titles,
         facts_verified=max((f.get("verified", "") for f in facts), default=""),
         neighborhood_count=len(s.get("neighborhoods", [])),
+        ico=ICO,
         **{f"ico_{k}": v for k, v in ICO.items()},
     )
 
@@ -255,6 +267,10 @@ def build(domain, live=False, check_only=False, corpus=None):
                   "mainEntity": [{"@type": "Question", "name": q["q"],
                                   "acceptedAnswer": {"@type": "Answer", "text": q["a"]}}
                                  for q in faqs]}
+
+    services = s.get("services", [])
+    if len(services) < MIN_SERVICES:
+        errs.append(f"{len(services)} service pages, needs {MIN_SERVICES}+")
 
     pages = {}
     pages["index.html"] = env.get_template("index.html").render(
@@ -269,7 +285,7 @@ def build(domain, live=False, check_only=False, corpus=None):
         page_h1=f"{s['service']} Services", page_kicker=f"{s['city']}, {s['state']}",
         page_lede=c.get("services_summary", "").split(". ")[0] + ".",
         page_body=md.markdown(c.get("services_summary", "")),
-        page_cards=factors, page_cards_eyebrow="What changes the job",
+        page_links=services, page_cards=factors, page_cards_eyebrow="What changes the job",
         page_cards_head=f"What affects {s['service_inline']} in {s['city']}", **ctx)
 
     pages["about/index.html"] = inner.render(
@@ -296,12 +312,32 @@ def build(domain, live=False, check_only=False, corpus=None):
         meta_description=f"Call a {s['city']} {s['service_inline']} technician.",
         canonical_path="/contact/", base="../", schema_json=None,
         page_h1="Contact", page_kicker=s["phone_display"],
-        page_lede="One number. No form, no phone menu.",
-        page_body=contact_body, page_cards=None, **ctx)
+        page_lede="One number, and the four things worth having ready when you call.",
+        page_body=contact_body, page_cards=None, page_expects=expects, **ctx)
 
     for key in ("hero_accent", "trust_third"):
         if not s.get(key):
             errs.append(f"site.json is missing {key!r} -- it appears in the H1 or the trust band")
+
+    # --- service pages -------------------------------------------------------
+    svc_tpl = env.get_template("service.html")
+    for o in services:
+        key = o["slug"].replace("-", "_")
+        lede = c.get(f"svc_{key}_lede", "")
+        body = c.get(f"svc_{key}_body", "")
+        if not lede or not body:
+            errs.append(f"service {o['slug']}: missing svc_{key}_lede or svc_{key}_body in copy.md")
+            continue
+        html = svc_tpl.render(
+            meta_title=f"{o['h1']} in {s['city']}, {s['state']}",
+            meta_description=lede.split(". ")[0][:155] + ".",
+            canonical_path=f"/{o['slug']}/", base="../", schema_json=None,
+            svc=o, svc_lede=lede, svc_body=md.markdown(body), **ctx)
+        wc = len(visible_words(html))
+        if not (SERVICE_WORDS[0] <= wc <= SERVICE_WORDS[1]):
+            errs.append(f"service {o['slug']}: {wc} visible words, must be "
+                        f"{SERVICE_WORDS[0]}-{SERVICE_WORDS[1]}")
+        pages[f"{o['slug']}/index.html"] = html
 
     # --- post-render guards ---------------------------------------------------
     for page_name, page_html in pages.items():
@@ -340,6 +376,8 @@ def build(domain, live=False, check_only=False, corpus=None):
             print(f"  [ERROR] {e}")
         return False
     print(f"[PASS] {label}")
+    for name in sorted(pages):
+        print(f"         {len(visible_words(pages[name])):5d} words  /{name.replace('index.html', '')}")
 
     if not check_only:
         out = DIST / domain

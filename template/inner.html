@@ -21,6 +21,49 @@
   </div>
 </div>
 
+{% if page_links %}
+<div class="band band-navy">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">The four jobs</span>
+      <h2>Pick the one that<br>matches your door</h2>
+    </div>
+    <div class="grid">
+      {% for o in page_links %}
+      <div class="card">
+        <h3><a href="{{ base }}{{ o.slug }}/">{{ o.h1 }}</a></h3>
+        <p>{{ o.accent }}</p>
+        <p class="callout-note"><a href="{{ base }}{{ o.slug }}/">Read the full breakdown</a></p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if page_expects %}
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="expect-layout">
+      <div>
+        <span class="eyebrow">Before the truck arrives</span>
+        <h2>What the technician<br>needs to know</h2>
+        <p>{{ c.expect_intro_1 }}</p>
+        <p>{{ c.expect_intro_2 }}</p>
+      </div>
+      <ul class="expect-list">
+        {% for ex in page_expects %}
+        <li class="expect-item">
+          <span class="card-icon">{{ ex.icon | safe }}</span>
+          <div><h3>{{ ex.label }}</h3><p>{{ ex.body }}</p></div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 {% if page_cards %}
 <div class="band band-tint">
   <div class="band-inner">

@@ -984,3 +984,35 @@ html, body { overflow-x: hidden; max-width: 100%; }
    needs a measure of its own or the copy strands on the left of a wide band. */
 .band-inner > .section { max-width: 44rem; margin: 0 auto; }
 .band-inner > .section > *:first-child { margin-top: 0; }
+
+
+/* Each home-page failure card now points at the service page that covers it. */
+.problem-more { margin: .9rem 0 0; }
+.problem-more a {
+    font-weight: 700;
+    font-size: .95rem;
+    color: var(--brand-mid);
+    text-decoration: none;
+    border-bottom: 2px solid var(--cta);
+    padding-bottom: 1px;
+}
+.problem-more a:hover { color: var(--cta-deep); }
+.service-card { display: block; text-decoration: none; color: inherit; }
+.service-card:hover { border-color: var(--cta); }
+.service-card p { color: var(--muted, #5b6b78); }
+
+
+/* Service-page articles run 600-plus words, so their subheads need to read as
+   structure rather than as bold body copy. */
+.band-inner > .section h3 {
+    font-size: 1.32rem;
+    line-height: 1.25;
+    margin: 2.6rem 0 .7rem;
+    color: var(--brand);
+    letter-spacing: -.01em;
+}
+.band-inner > .section h3:first-child { margin-top: 0; }
+.band-inner > .section p { margin: 0 0 1.05rem; }
+.band-inner > .section p strong { color: var(--brand); }
+.band-navy .card h3 a { color: #fff; text-decoration: none; }
+.band-navy .card h3 a:hover { color: var(--cta); }

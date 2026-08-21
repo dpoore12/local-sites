@@ -43,4 +43,15 @@ Only when it is a bug that affects every site (a rendering fault, a broken path,
 an accessibility failure). Never for taste, and never for one site. If one site
 needs something different, the answer is different copy, not different CSS.
 
-Tagged in git as `template-v1`.
+Tagged in git as `template-v2`. v1 was the four-page version; v2 adds one page per
+service, which is what Kyle means by "add service-specific pages".
+
+## Page map (8 pages)
+
+    /                              ~2,100 words  the money page, targets niche + city
+    /<service-1..4>/               ~1,200 words each, targets service + city
+    /services/                     hub, links to all four
+    /about/  /contact/             short, /contact/ carries the what-to-have-ready block
+
+Every home-page failure card links to the service page that covers it, every
+service page cross-links the other three, and the footer lists all of them.
