@@ -1,0 +1,98 @@
+{
+  "domain": "tempeduilawyerpros.com",
+  "brand": "Tempe DUI Law Pros",
+  "service": "DUI Lawyer",
+  "service_inline": "dui lawyer",
+  "city": "Tempe",
+  "state": "AZ",
+  "state_full": "Arizona",
+  "counties": [
+    "Maricopa"
+  ],
+  "area_codes": [
+    "480"
+  ],
+  "phone_display": "(480) 555-0100",
+  "phone_tel": "+14805550100",
+  "phone_status": "PLACEHOLDER",
+  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 480 number before this domain resolves publicly.",
+  "emergency": false,
+  "timezone": "America/Phoenix",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [],
+  "neighborhoods": [],
+  "symptoms": [
+    "first_dui_arrest",
+    "license_suspension_notice",
+    "failed_breath_test",
+    "multiple_dui_charge"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Protect Your License and Record",
+  "trust_third": "Charges, deadlines, and options explained clearly",
+  "services": [
+    {
+      "slug": "first-offense-dui-defense",
+      "name": "First-Offense DUI Defense",
+      "nav": "First offense DUI",
+      "h1": "First-Offense DUI Lawyer",
+      "accent": "Charges, Deadlines and Defense Options",
+      "keyword": "first offense dui lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "dui-license-suspension",
+      "name": "License Suspension Defense",
+      "nav": "License suspension",
+      "h1": "DUI License Suspension Lawyer",
+      "accent": "Hearing Deadlines and Driving Privileges",
+      "keyword": "dui license suspension lawyer",
+      "icon": "pin"
+    },
+    {
+      "slug": "dui-breath-test-defense",
+      "name": "Breath Test Defense",
+      "nav": "Breath test defense",
+      "h1": "DUI Breath Test Defense Lawyer",
+      "accent": "Testing Process and Evidence Review",
+      "keyword": "dui breath test lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "felony-dui-defense",
+      "name": "Felony DUI Defense",
+      "nav": "Felony DUI",
+      "h1": "Felony DUI Lawyer",
+      "accent": "Serious Charges and Case Stages",
+      "keyword": "felony dui lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "first-offense-dui-defense",
+    "dui-license-suspension",
+    "dui-breath-test-defense",
+    "felony-dui-defense"
+  ],
+  "_market": {
+    "keyword": "tempe dui lawyer",
+    "monthly_price": 500,
+    "score": 65,
+    "volume": 400,
+    "cpc_usd": 35.0,
+    "weakest_competitor": "azduiteam.com",
+    "competitor_dr": 17.0
+  }
+}

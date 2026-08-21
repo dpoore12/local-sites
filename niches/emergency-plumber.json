@@ -1,0 +1,57 @@
+{
+  "service": "Emergency Plumbing",
+  "service_inline": "emergency plumbing",
+  "emergency": true,
+  "hero_accent": "Water Stopped Today, Price First",
+  "trust_third": "Price quoted before emergency work starts",
+  "services": [
+    {
+      "slug": "emergency-plumbing-repair",
+      "name": "Emergency Plumbing Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Plumbing Repair",
+      "accent": "Fast Help for Active Leaks",
+      "keyword": "emergency plumbing repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "burst-pipe-repair",
+      "name": "Burst Pipe Repair",
+      "nav": "Burst pipes",
+      "h1": "Burst Pipe Repair",
+      "accent": "Pipe Repaired Before More Damage",
+      "keyword": "burst pipe repair",
+      "icon": "drop"
+    },
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "nav": "Drain cleaning",
+      "h1": "Drain Cleaning",
+      "accent": "Clogs Cleared and Flow Restored",
+      "keyword": "drain cleaning",
+      "icon": "wrench"
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "nav": "Sewer line repair",
+      "h1": "Sewer Line Repair",
+      "accent": "Backups Stopped at the Source",
+      "keyword": "sewer line repair",
+      "icon": "warn"
+    }
+  ],
+  "symptoms": [
+    "burst_pipe",
+    "overflowing_drain",
+    "sewage_backup",
+    "no_running_water"
+  ],
+  "symptom_service": [
+    "burst-pipe-repair",
+    "drain-cleaning",
+    "sewer-line-repair",
+    "emergency-plumbing-repair"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "service": "Foundation Repair",
+  "service_inline": "foundation repair",
+  "emergency": false,
+  "hero_accent": "Foundation Stabilized, Repair Plan Clear",
+  "trust_third": "Repair scope and price outlined first",
+  "services": [
+    {
+      "slug": "foundation-crack-repair",
+      "name": "Foundation Crack Repair",
+      "nav": "Crack repair",
+      "h1": "Foundation Crack Repair",
+      "accent": "Foundation Cracks Sealed and Stabilized",
+      "keyword": "foundation crack repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "basement-waterproofing",
+      "name": "Basement Waterproofing",
+      "nav": "Basement waterproofing",
+      "h1": "Basement Waterproofing",
+      "accent": "Basements Kept Dry at the Source",
+      "keyword": "basement waterproofing",
+      "icon": "drop"
+    },
+    {
+      "slug": "house-leveling",
+      "name": "House Leveling",
+      "nav": "House leveling",
+      "h1": "House Leveling",
+      "accent": "Settling Structures Stabilized Properly",
+      "keyword": "house leveling",
+      "icon": "house"
+    },
+    {
+      "slug": "crawl-space-repair",
+      "name": "Crawl Space Repair",
+      "nav": "Crawl space repair",
+      "h1": "Crawl Space Repair",
+      "accent": "Crawl Spaces Reinforced and Protected",
+      "keyword": "crawl space repair",
+      "icon": "eye"
+    }
+  ],
+  "symptoms": [
+    "foundation_cracks",
+    "sloping_floors",
+    "water_in_basement",
+    "crawl_space_damage"
+  ],
+  "symptom_service": [
+    "foundation-crack-repair",
+    "house-leveling",
+    "basement-waterproofing",
+    "crawl-space-repair"
+  ]
+}

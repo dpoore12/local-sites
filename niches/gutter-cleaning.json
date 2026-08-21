@@ -1,0 +1,57 @@
+{
+  "service": "Gutter Cleaning",
+  "service_inline": "gutter cleaning",
+  "emergency": false,
+  "hero_accent": "Clear Gutters, Water Flowing Right",
+  "trust_third": "Service price quoted before work starts",
+  "services": [
+    {
+      "slug": "gutter-cleaning",
+      "name": "Gutter Cleaning",
+      "nav": "Gutter cleaning",
+      "h1": "Gutter Cleaning",
+      "accent": "Debris Cleared for Free Water Flow",
+      "keyword": "gutter cleaning",
+      "icon": "drop"
+    },
+    {
+      "slug": "gutter-repair",
+      "name": "Gutter Repair",
+      "nav": "Gutter repair",
+      "h1": "Gutter Repair",
+      "accent": "Leaking Gutters Repaired Properly",
+      "keyword": "gutter repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "gutter-guard-installation",
+      "name": "Gutter Guard Installation",
+      "nav": "Gutter guards",
+      "h1": "Gutter Guard Installation",
+      "accent": "Guards Installed to Cut Down Debris",
+      "keyword": "gutter guard installation",
+      "icon": "check"
+    },
+    {
+      "slug": "downspout-cleaning",
+      "name": "Downspout Cleaning",
+      "nav": "Downspout cleaning",
+      "h1": "Downspout Cleaning",
+      "accent": "Downspouts Cleared for Proper Drainage",
+      "keyword": "downspout cleaning",
+      "icon": "drop"
+    }
+  ],
+  "symptoms": [
+    "overflowing_gutters",
+    "clogged_downspouts",
+    "gutter_leaks",
+    "gutter_debris"
+  ],
+  "symptom_service": [
+    "gutter-cleaning",
+    "downspout-cleaning",
+    "gutter-repair",
+    "gutter-cleaning"
+  ]
+}

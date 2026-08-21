@@ -1,0 +1,57 @@
+{
+  "service": "Appliance Repair",
+  "service_inline": "appliance repair",
+  "emergency": true,
+  "hero_accent": "Appliances Fixed Today, Price First",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "refrigerator-repair",
+      "name": "Refrigerator Repair",
+      "nav": "Refrigerator repair",
+      "h1": "Refrigerator Repair",
+      "accent": "Cold Storage Restored Fast",
+      "keyword": "refrigerator repair",
+      "icon": "gear"
+    },
+    {
+      "slug": "washer-repair",
+      "name": "Washer Repair",
+      "nav": "Washer repair",
+      "h1": "Washer Repair",
+      "accent": "Wash Cycles Restored Without Guesswork",
+      "keyword": "washer repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "dryer-repair",
+      "name": "Dryer Repair",
+      "nav": "Dryer repair",
+      "h1": "Dryer Repair",
+      "accent": "Drying Restored Safely and Fast",
+      "keyword": "dryer repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "dishwasher-repair",
+      "name": "Dishwasher Repair",
+      "nav": "Dishwasher repair",
+      "h1": "Dishwasher Repair",
+      "accent": "Dishes Cleaning Properly Again",
+      "keyword": "dishwasher repair",
+      "icon": "drop"
+    }
+  ],
+  "symptoms": [
+    "refrigerator_not_cooling",
+    "washer_not_draining",
+    "dryer_not_heating",
+    "dishwasher_leaking"
+  ],
+  "symptom_service": [
+    "refrigerator-repair",
+    "washer-repair",
+    "dryer-repair",
+    "dishwasher-repair"
+  ]
+}

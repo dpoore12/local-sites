@@ -1,0 +1,57 @@
+{
+  "service": "Roof Inspection",
+  "service_inline": "roof inspection",
+  "emergency": false,
+  "hero_accent": "Roof Condition Checked Clearly",
+  "trust_third": "Inspection price confirmed before the visit",
+  "services": [
+    {
+      "slug": "roof-inspection",
+      "name": "Roof Inspection",
+      "nav": "Roof inspection",
+      "h1": "Roof Inspection",
+      "accent": "Roof Condition Checked From Edge to Edge",
+      "keyword": "roof inspection",
+      "icon": "eye"
+    },
+    {
+      "slug": "roof-leak-inspection",
+      "name": "Roof Leak Inspection",
+      "nav": "Leak inspection",
+      "h1": "Roof Leak Inspection",
+      "accent": "Leak Sources Traced Clearly",
+      "keyword": "roof leak inspection",
+      "icon": "search"
+    },
+    {
+      "slug": "storm-damage-roof-inspection",
+      "name": "Storm Damage Roof Inspection",
+      "nav": "Storm damage",
+      "h1": "Storm Damage Roof Inspection",
+      "accent": "Storm Damage Documented Thoroughly",
+      "keyword": "storm damage roof inspection",
+      "icon": "warn"
+    },
+    {
+      "slug": "roof-certification-inspection",
+      "name": "Roof Certification Inspection",
+      "nav": "Roof certification",
+      "h1": "Roof Certification Inspection",
+      "accent": "Roof Condition Documented for Your Records",
+      "keyword": "roof certification inspection",
+      "icon": "check"
+    }
+  ],
+  "symptoms": [
+    "visible_roof_damage",
+    "ceiling_water_stain",
+    "recent_storm_damage",
+    "needs_roof_certification"
+  ],
+  "symptom_service": [
+    "roof-inspection",
+    "roof-leak-inspection",
+    "storm-damage-roof-inspection",
+    "roof-certification-inspection"
+  ]
+}

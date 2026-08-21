@@ -1,0 +1,98 @@
+{
+  "domain": "tampacriminaldefenselawyerpros.com",
+  "brand": "Tampa Criminal Defense Law Pros",
+  "service": "Criminal Defense Lawyer",
+  "service_inline": "criminal defense lawyer",
+  "city": "Tampa",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Hillsborough"
+  ],
+  "area_codes": [
+    "813"
+  ],
+  "phone_display": "(813) 555-0100",
+  "phone_tel": "+18135550100",
+  "phone_status": "PLACEHOLDER",
+  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 813 number before this domain resolves publicly.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [],
+  "neighborhoods": [],
+  "symptoms": [
+    "arrested_for_felony",
+    "charged_with_misdemeanor",
+    "drug_charge_after_search",
+    "assault_charge_filed"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Protect Your Rights at Every Stage",
+  "trust_third": "Charges, evidence, and options reviewed clearly",
+  "services": [
+    {
+      "slug": "felony-defense-lawyer",
+      "name": "Felony Defense",
+      "nav": "Felony defense",
+      "h1": "Felony Defense Lawyer",
+      "accent": "Serious Charges and Case Stages",
+      "keyword": "felony defense lawyer",
+      "icon": "bolt"
+    },
+    {
+      "slug": "misdemeanor-defense-lawyer",
+      "name": "Misdemeanor Defense",
+      "nav": "Misdemeanor defense",
+      "h1": "Misdemeanor Defense Lawyer",
+      "accent": "Charges, Court Dates and Options",
+      "keyword": "misdemeanor defense lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "drug-crime-defense-lawyer",
+      "name": "Drug Crime Defense",
+      "nav": "Drug crime defense",
+      "h1": "Drug Crime Defense Lawyer",
+      "accent": "Searches, Evidence and Allegations",
+      "keyword": "drug crime defense lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "assault-charge-defense",
+      "name": "Assault Charge Defense",
+      "nav": "Assault charges",
+      "h1": "Assault Charge Defense Lawyer",
+      "accent": "Allegations, Evidence and Legal Process",
+      "keyword": "assault charge defense lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "felony-defense-lawyer",
+    "misdemeanor-defense-lawyer",
+    "drug-crime-defense-lawyer",
+    "assault-charge-defense"
+  ],
+  "_market": {
+    "keyword": "criminal defense lawyer tampa",
+    "monthly_price": 1500,
+    "score": 93,
+    "volume": 300,
+    "cpc_usd": 35.0,
+    "weakest_competitor": "jesseniarosaleslaw.com",
+    "competitor_dr": 4.3
+  }
+}

@@ -132,5 +132,14 @@
     "garage-door-opener-repair",
     "off-track-garage-door-repair",
     "garage-door-opener-repair"
-  ]
+  ],
+  "_market": {
+    "keyword": "garage door repair naperville",
+    "monthly_price": 1250,
+    "score": 90,
+    "volume": 300,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "oconnorgaragedoor.com",
+    "competitor_dr": 3.0
+  }
 }

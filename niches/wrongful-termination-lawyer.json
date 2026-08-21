@@ -1,0 +1,57 @@
+{
+  "service": "Wrongful Termination Lawyer",
+  "service_inline": "wrongful termination lawyer",
+  "emergency": false,
+  "hero_accent": "Protect Your Workplace Rights",
+  "trust_third": "Claim deadlines and options explained clearly",
+  "services": [
+    {
+      "slug": "wrongful-termination-lawyer",
+      "name": "Wrongful Termination Claims",
+      "nav": "Wrongful termination",
+      "h1": "Wrongful Termination Lawyer",
+      "accent": "Firing Reasons and Claim Options",
+      "keyword": "wrongful termination lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "retaliation-claim-lawyer",
+      "name": "Workplace Retaliation Claims",
+      "nav": "Workplace retaliation",
+      "h1": "Workplace Retaliation Lawyer",
+      "accent": "Protected Activity and Employer Actions",
+      "keyword": "workplace retaliation lawyer",
+      "icon": "bolt"
+    },
+    {
+      "slug": "workplace-discrimination-lawyer",
+      "name": "Workplace Discrimination Claims",
+      "nav": "Workplace discrimination",
+      "h1": "Workplace Discrimination Lawyer",
+      "accent": "Unequal Treatment and Claim Process",
+      "keyword": "workplace discrimination lawyer",
+      "icon": "eye"
+    },
+    {
+      "slug": "severance-agreement-review",
+      "name": "Severance Agreement Review",
+      "nav": "Severance agreements",
+      "h1": "Severance Agreement Lawyer",
+      "accent": "Terms, Releases and Deadlines",
+      "keyword": "severance agreement lawyer",
+      "icon": "search"
+    }
+  ],
+  "symptoms": [
+    "fired_after_complaint",
+    "retaliation_after_reporting",
+    "discrimination_at_work",
+    "severance_agreement_deadline"
+  ],
+  "symptom_service": [
+    "wrongful-termination-lawyer",
+    "retaliation-claim-lawyer",
+    "workplace-discrimination-lawyer",
+    "severance-agreement-review"
+  ]
+}

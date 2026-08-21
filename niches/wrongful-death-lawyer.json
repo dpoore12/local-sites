@@ -1,0 +1,57 @@
+{
+  "service": "Wrongful Death Lawyer",
+  "service_inline": "wrongful death lawyer",
+  "emergency": false,
+  "hero_accent": "No Fee Unless Money Is Recovered",
+  "trust_third": "No fee unless compensation is recovered",
+  "services": [
+    {
+      "slug": "fatal-car-accident-claim",
+      "name": "Fatal Car Accident Claims",
+      "nav": "Fatal car accidents",
+      "h1": "Fatal Car Accident Claim Lawyer",
+      "accent": "Evidence, Liability and Loss Claims",
+      "keyword": "fatal car accident lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "fatal-work-accident-claim",
+      "name": "Fatal Work Accident Claims",
+      "nav": "Fatal work accidents",
+      "h1": "Fatal Work Accident Claim Lawyer",
+      "accent": "Workplace Records and Liability Questions",
+      "keyword": "fatal work accident lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "medical-negligence-death-claim",
+      "name": "Medical Negligence Death Claims",
+      "nav": "Medical negligence",
+      "h1": "Medical Negligence Death Claim Lawyer",
+      "accent": "Records, Care and Causation Review",
+      "keyword": "medical negligence death lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "wrongful-death-damages-claim",
+      "name": "Wrongful Death Damages",
+      "nav": "Damages claims",
+      "h1": "Wrongful Death Damages Lawyer",
+      "accent": "Losses, Dependents and Claim Terms",
+      "keyword": "wrongful death damages lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptoms": [
+    "fatal_car_crash",
+    "fatal_workplace_accident",
+    "death_after_medical_care",
+    "family_needs_claim_guidance"
+  ],
+  "symptom_service": [
+    "fatal-car-accident-claim",
+    "fatal-work-accident-claim",
+    "medical-negligence-death-claim",
+    "wrongful-death-damages-claim"
+  ]
+}

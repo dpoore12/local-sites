@@ -1,0 +1,57 @@
+{
+  "service": "Leak Detection",
+  "service_inline": "leak detection",
+  "emergency": true,
+  "hero_accent": "Hidden Leak Found Today",
+  "trust_third": "Detection price explained before testing begins",
+  "services": [
+    {
+      "slug": "water-leak-detection",
+      "name": "Water Leak Detection",
+      "nav": "Water leaks",
+      "h1": "Water Leak Detection",
+      "accent": "Hidden Water Leaks Located Precisely",
+      "keyword": "water leak detection",
+      "icon": "search"
+    },
+    {
+      "slug": "slab-leak-detection",
+      "name": "Slab Leak Detection",
+      "nav": "Slab leaks",
+      "h1": "Slab Leak Detection",
+      "accent": "Slab Leaks Located Before Damage Spreads",
+      "keyword": "slab leak detection",
+      "icon": "drop"
+    },
+    {
+      "slug": "underground-leak-detection",
+      "name": "Underground Leak Detection",
+      "nav": "Underground leaks",
+      "h1": "Underground Leak Detection",
+      "accent": "Underground Leaks Traced Without Guesswork",
+      "keyword": "underground leak detection",
+      "icon": "pin"
+    },
+    {
+      "slug": "pool-leak-detection",
+      "name": "Pool Leak Detection",
+      "nav": "Pool leaks",
+      "h1": "Pool Leak Detection",
+      "accent": "Pool Leaks Found Before Water Loss Grows",
+      "keyword": "pool leak detection",
+      "icon": "eye"
+    }
+  ],
+  "symptoms": [
+    "high_water_bill",
+    "wet_spot_on_floor",
+    "low_water_pressure",
+    "pool_losing_water"
+  ],
+  "symptom_service": [
+    "water-leak-detection",
+    "slab-leak-detection",
+    "water-leak-detection",
+    "pool-leak-detection"
+  ]
+}

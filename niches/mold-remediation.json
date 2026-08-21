@@ -1,0 +1,57 @@
+{
+  "service": "Mold Remediation",
+  "service_inline": "mold remediation",
+  "emergency": false,
+  "hero_accent": "Mold Removed, Moisture Controlled",
+  "trust_third": "Remediation scope and price outlined first",
+  "services": [
+    {
+      "slug": "mold-removal",
+      "name": "Mold Removal",
+      "nav": "Mold removal",
+      "h1": "Mold Removal",
+      "accent": "Visible Mold Removed Safely",
+      "keyword": "mold removal",
+      "icon": "warn"
+    },
+    {
+      "slug": "black-mold-removal",
+      "name": "Black Mold Removal",
+      "nav": "Black mold removal",
+      "h1": "Black Mold Removal",
+      "accent": "Suspect Mold Contained and Removed",
+      "keyword": "black mold removal",
+      "icon": "warn"
+    },
+    {
+      "slug": "attic-mold-remediation",
+      "name": "Attic Mold Remediation",
+      "nav": "Attic mold",
+      "h1": "Attic Mold Remediation",
+      "accent": "Attic Mold Removed at the Source",
+      "keyword": "attic mold remediation",
+      "icon": "house"
+    },
+    {
+      "slug": "crawl-space-mold-remediation",
+      "name": "Crawl Space Mold Remediation",
+      "nav": "Crawl space mold",
+      "h1": "Crawl Space Mold Remediation",
+      "accent": "Crawl Space Mold Treated and Controlled",
+      "keyword": "crawl space mold remediation",
+      "icon": "eye"
+    }
+  ],
+  "symptoms": [
+    "visible_mold",
+    "musty_odor",
+    "attic_mold",
+    "crawl_space_mold"
+  ],
+  "symptom_service": [
+    "mold-removal",
+    "mold-removal",
+    "attic-mold-remediation",
+    "crawl-space-mold-remediation"
+  ]
+}

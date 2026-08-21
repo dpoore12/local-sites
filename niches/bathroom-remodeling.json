@@ -1,0 +1,57 @@
+{
+  "service": "Bathroom Remodeling",
+  "service_inline": "bathroom remodeling",
+  "emergency": false,
+  "hero_accent": "Bathroom Built Beautifully, On Plan",
+  "trust_third": "Project pricing outlined before work starts",
+  "services": [
+    {
+      "slug": "bathroom-remodel",
+      "name": "Bathroom Remodel",
+      "nav": "Bathroom remodel",
+      "h1": "Bathroom Remodel",
+      "accent": "Complete Bathroom Remodels Built Right",
+      "keyword": "bathroom remodel",
+      "icon": "house"
+    },
+    {
+      "slug": "shower-remodel",
+      "name": "Shower Remodel",
+      "nav": "Shower remodel",
+      "h1": "Shower Remodel",
+      "accent": "Showers Rebuilt for Daily Comfort",
+      "keyword": "shower remodel",
+      "icon": "drop"
+    },
+    {
+      "slug": "bathtub-replacement",
+      "name": "Bathtub Replacement",
+      "nav": "Bathtub replacement",
+      "h1": "Bathtub Replacement",
+      "accent": "New Tubs Installed Cleanly",
+      "keyword": "bathtub replacement",
+      "icon": "wrench"
+    },
+    {
+      "slug": "walk-in-shower-installation",
+      "name": "Walk-In Shower Installation",
+      "nav": "Walk-in shower",
+      "h1": "Walk-In Shower Installation",
+      "accent": "Accessible Showers Built for Everyday Use",
+      "keyword": "walk in shower installation",
+      "icon": "check"
+    }
+  ],
+  "symptoms": [
+    "outdated_bathroom",
+    "damaged_shower",
+    "cracked_bathtub",
+    "needs_accessible_shower"
+  ],
+  "symptom_service": [
+    "bathroom-remodel",
+    "shower-remodel",
+    "bathtub-replacement",
+    "walk-in-shower-installation"
+  ]
+}

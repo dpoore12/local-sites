@@ -1,0 +1,57 @@
+{
+  "service": "Criminal Defense Lawyer",
+  "service_inline": "criminal defense lawyer",
+  "emergency": false,
+  "hero_accent": "Protect Your Rights at Every Stage",
+  "trust_third": "Charges, evidence, and options reviewed clearly",
+  "services": [
+    {
+      "slug": "felony-defense-lawyer",
+      "name": "Felony Defense",
+      "nav": "Felony defense",
+      "h1": "Felony Defense Lawyer",
+      "accent": "Serious Charges and Case Stages",
+      "keyword": "felony defense lawyer",
+      "icon": "bolt"
+    },
+    {
+      "slug": "misdemeanor-defense-lawyer",
+      "name": "Misdemeanor Defense",
+      "nav": "Misdemeanor defense",
+      "h1": "Misdemeanor Defense Lawyer",
+      "accent": "Charges, Court Dates and Options",
+      "keyword": "misdemeanor defense lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "drug-crime-defense-lawyer",
+      "name": "Drug Crime Defense",
+      "nav": "Drug crime defense",
+      "h1": "Drug Crime Defense Lawyer",
+      "accent": "Searches, Evidence and Allegations",
+      "keyword": "drug crime defense lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "assault-charge-defense",
+      "name": "Assault Charge Defense",
+      "nav": "Assault charges",
+      "h1": "Assault Charge Defense Lawyer",
+      "accent": "Allegations, Evidence and Legal Process",
+      "keyword": "assault charge defense lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptoms": [
+    "arrested_for_felony",
+    "charged_with_misdemeanor",
+    "drug_charge_after_search",
+    "assault_charge_filed"
+  ],
+  "symptom_service": [
+    "felony-defense-lawyer",
+    "misdemeanor-defense-lawyer",
+    "drug-crime-defense-lawyer",
+    "assault-charge-defense"
+  ]
+}

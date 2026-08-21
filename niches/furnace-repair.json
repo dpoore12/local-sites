@@ -1,0 +1,57 @@
+{
+  "service": "Furnace Repair",
+  "service_inline": "furnace repair",
+  "emergency": true,
+  "hero_accent": "Heat Restored Today, Price First",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "furnace-repair",
+      "name": "Furnace Repair",
+      "nav": "Furnace repair",
+      "h1": "Furnace Repair",
+      "accent": "Heat Restored Fast",
+      "keyword": "furnace repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "furnace-tune-up",
+      "name": "Furnace Tune-Up",
+      "nav": "Furnace tune-up",
+      "h1": "Furnace Tune-Up",
+      "accent": "Heat Tuned for Reliable Performance",
+      "keyword": "furnace tune up",
+      "icon": "check"
+    },
+    {
+      "slug": "furnace-ignition-repair",
+      "name": "Furnace Ignition Repair",
+      "nav": "Ignition repair",
+      "h1": "Furnace Ignition Repair",
+      "accent": "Ignition Problems Fixed Safely",
+      "keyword": "furnace ignition repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "furnace-blower-motor-repair",
+      "name": "Furnace Blower Motor Repair",
+      "nav": "Blower motor repair",
+      "h1": "Furnace Blower Motor Repair",
+      "accent": "Airflow Restored to Every Room",
+      "keyword": "furnace blower motor repair",
+      "icon": "gear"
+    }
+  ],
+  "symptoms": [
+    "furnace_not_heating",
+    "furnace_wont_turn_on",
+    "furnace_blows_cold_air",
+    "furnace_making_noise"
+  ],
+  "symptom_service": [
+    "furnace-repair",
+    "furnace-ignition-repair",
+    "furnace-repair",
+    "furnace-blower-motor-repair"
+  ]
+}

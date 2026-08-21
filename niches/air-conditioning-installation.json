@@ -1,0 +1,57 @@
+{
+  "service": "Air Conditioning Installation",
+  "service_inline": "air conditioning installation",
+  "emergency": false,
+  "hero_accent": "New Cooling Installed Right",
+  "trust_third": "Installation price outlined before work starts",
+  "services": [
+    {
+      "slug": "air-conditioner-installation",
+      "name": "Air Conditioner Installation",
+      "nav": "AC installation",
+      "h1": "Air Conditioner Installation",
+      "accent": "New Cooling Sized and Installed Right",
+      "keyword": "air conditioner installation",
+      "icon": "house"
+    },
+    {
+      "slug": "ac-replacement",
+      "name": "AC Replacement",
+      "nav": "AC replacement",
+      "h1": "AC Replacement",
+      "accent": "Old Systems Replaced with Efficient Cooling",
+      "keyword": "ac replacement",
+      "icon": "gear"
+    },
+    {
+      "slug": "central-air-installation",
+      "name": "Central Air Installation",
+      "nav": "Central air",
+      "h1": "Central Air Installation",
+      "accent": "Whole-Home Cooling Installed Cleanly",
+      "keyword": "central air installation",
+      "icon": "house"
+    },
+    {
+      "slug": "ductless-mini-split-installation",
+      "name": "Ductless Mini-Split Installation",
+      "nav": "Mini-split installation",
+      "h1": "Ductless Mini-Split Installation",
+      "accent": "Targeted Cooling Without New Ductwork",
+      "keyword": "ductless mini split installation",
+      "icon": "bolt"
+    }
+  ],
+  "symptoms": [
+    "ac_old_or_inefficient",
+    "ac_needs_frequent_repairs",
+    "uneven_home_cooling",
+    "no_existing_ac"
+  ],
+  "symptom_service": [
+    "ac-replacement",
+    "ac-replacement",
+    "ductless-mini-split-installation",
+    "central-air-installation"
+  ]
+}

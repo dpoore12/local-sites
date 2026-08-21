@@ -1,0 +1,57 @@
+{
+  "service": "Domestic Violence Lawyer",
+  "service_inline": "domestic violence lawyer",
+  "emergency": false,
+  "hero_accent": "Rights and Next Steps Clearly Explained",
+  "trust_third": "Sensitive matters handled with clarity and care",
+  "services": [
+    {
+      "slug": "domestic-violence-defense-lawyer",
+      "name": "Domestic Violence Defense",
+      "nav": "Domestic violence defense",
+      "h1": "Domestic Violence Defense Lawyer",
+      "accent": "Charges, Evidence and Case Stages",
+      "keyword": "domestic violence defense lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "protective-order-defense",
+      "name": "Protective Order Defense",
+      "nav": "Protective order defense",
+      "h1": "Protective Order Defense Lawyer",
+      "accent": "Order Terms and Hearing Process",
+      "keyword": "protective order defense lawyer",
+      "icon": "check"
+    },
+    {
+      "slug": "restraining-order-hearing",
+      "name": "Restraining Order Hearings",
+      "nav": "Restraining order hearing",
+      "h1": "Restraining Order Hearing Lawyer",
+      "accent": "Evidence, Notices and Hearing Dates",
+      "keyword": "restraining order hearing lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "order-violation-defense",
+      "name": "Order Violation Defense",
+      "nav": "Order violations",
+      "h1": "Protective Order Violation Lawyer",
+      "accent": "Alleged Violations and Defense Options",
+      "keyword": "protective order violation lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptoms": [
+    "domestic_violence_charge",
+    "protective_order_served",
+    "restraining_order_hearing",
+    "accused_of_order_violation"
+  ],
+  "symptom_service": [
+    "domestic-violence-defense-lawyer",
+    "protective-order-defense",
+    "restraining-order-hearing",
+    "order-violation-defense"
+  ]
+}

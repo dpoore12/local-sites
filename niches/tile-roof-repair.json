@@ -1,0 +1,57 @@
+{
+  "service": "Tile Roof Repair",
+  "service_inline": "tile roof repair",
+  "emergency": true,
+  "hero_accent": "Roof Leaks Fixed Today",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "tile-roof-repair",
+      "name": "Tile Roof Repair",
+      "nav": "Tile roof repair",
+      "h1": "Tile Roof Repair",
+      "accent": "Tile Roof Problems Repaired Right",
+      "keyword": "tile roof repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "broken-roof-tile-repair",
+      "name": "Broken Roof Tile Repair",
+      "nav": "Broken tiles",
+      "h1": "Broken Roof Tile Repair",
+      "accent": "Broken Tiles Replaced Securely",
+      "keyword": "broken roof tile repair",
+      "icon": "warn"
+    },
+    {
+      "slug": "roof-leak-repair",
+      "name": "Roof Leak Repair",
+      "nav": "Roof leaks",
+      "h1": "Roof Leak Repair",
+      "accent": "Roof Leaks Stopped at the Source",
+      "keyword": "roof leak repair",
+      "icon": "drop"
+    },
+    {
+      "slug": "roof-tile-replacement",
+      "name": "Roof Tile Replacement",
+      "nav": "Tile replacement",
+      "h1": "Roof Tile Replacement",
+      "accent": "Missing Tiles Replaced to Protect the Roof",
+      "keyword": "roof tile replacement",
+      "icon": "house"
+    }
+  ],
+  "symptoms": [
+    "broken_roof_tiles",
+    "roof_leak",
+    "missing_roof_tiles",
+    "cracked_roof_tiles"
+  ],
+  "symptom_service": [
+    "broken-roof-tile-repair",
+    "roof-leak-repair",
+    "roof-tile-replacement",
+    "tile-roof-repair"
+  ]
+}

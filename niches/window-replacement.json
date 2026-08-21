@@ -1,0 +1,57 @@
+{
+  "service": "Window Replacement",
+  "service_inline": "window replacement",
+  "emergency": false,
+  "hero_accent": "New Windows, Lasting Comfort",
+  "trust_third": "Installation price outlined before work starts",
+  "services": [
+    {
+      "slug": "window-replacement",
+      "name": "Window Replacement",
+      "nav": "Window replacement",
+      "h1": "Window Replacement",
+      "accent": "Old Windows Replaced for Better Comfort",
+      "keyword": "window replacement",
+      "icon": "house"
+    },
+    {
+      "slug": "window-installation",
+      "name": "Window Installation",
+      "nav": "Window installation",
+      "h1": "Window Installation",
+      "accent": "New Windows Installed Precisely",
+      "keyword": "window installation",
+      "icon": "wrench"
+    },
+    {
+      "slug": "double-pane-window-replacement",
+      "name": "Double-Pane Window Replacement",
+      "nav": "Double-pane windows",
+      "h1": "Double-Pane Window Replacement",
+      "accent": "Fogged Glass Replaced for Clear Views",
+      "keyword": "double pane window replacement",
+      "icon": "eye"
+    },
+    {
+      "slug": "sliding-window-replacement",
+      "name": "Sliding Window Replacement",
+      "nav": "Sliding windows",
+      "h1": "Sliding Window Replacement",
+      "accent": "Sticking Sliders Replaced Smoothly",
+      "keyword": "sliding window replacement",
+      "icon": "gear"
+    }
+  ],
+  "symptoms": [
+    "drafty_windows",
+    "foggy_window_glass",
+    "broken_window",
+    "hard_to_open_windows"
+  ],
+  "symptom_service": [
+    "window-replacement",
+    "double-pane-window-replacement",
+    "window-replacement",
+    "sliding-window-replacement"
+  ]
+}

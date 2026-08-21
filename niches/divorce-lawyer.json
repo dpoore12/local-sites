@@ -1,0 +1,57 @@
+{
+  "service": "Divorce Lawyer",
+  "service_inline": "divorce lawyer",
+  "emergency": false,
+  "hero_accent": "Clear Terms for the Next Chapter",
+  "trust_third": "Priorities, timelines, and options explained clearly",
+  "services": [
+    {
+      "slug": "contested-divorce-lawyer",
+      "name": "Contested Divorce",
+      "nav": "Contested divorce",
+      "h1": "Contested Divorce Lawyer",
+      "accent": "Disputes, Evidence and Court Process",
+      "keyword": "contested divorce lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uncontested-divorce-lawyer",
+      "name": "Uncontested Divorce",
+      "nav": "Uncontested divorce",
+      "h1": "Uncontested Divorce Lawyer",
+      "accent": "Agreements, Filings and Next Steps",
+      "keyword": "uncontested divorce lawyer",
+      "icon": "check"
+    },
+    {
+      "slug": "high-asset-divorce-lawyer",
+      "name": "High-Asset Divorce",
+      "nav": "High-asset divorce",
+      "h1": "High-Asset Divorce Lawyer",
+      "accent": "Property, Accounts and Financial Terms",
+      "keyword": "high asset divorce lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "divorce-mediation-lawyer",
+      "name": "Divorce Mediation",
+      "nav": "Divorce mediation",
+      "h1": "Divorce Mediation Lawyer",
+      "accent": "Negotiation, Agreements and Process",
+      "keyword": "divorce mediation lawyer",
+      "icon": "search"
+    }
+  ],
+  "symptoms": [
+    "spouse_files_for_divorce",
+    "property_division_dispute",
+    "high_value_assets",
+    "seeking_divorce_mediation"
+  ],
+  "symptom_service": [
+    "contested-divorce-lawyer",
+    "contested-divorce-lawyer",
+    "high-asset-divorce-lawyer",
+    "divorce-mediation-lawyer"
+  ]
+}

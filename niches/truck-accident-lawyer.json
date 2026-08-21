@@ -1,0 +1,57 @@
+{
+  "service": "Truck Accident Lawyer",
+  "service_inline": "truck accident lawyer",
+  "emergency": false,
+  "hero_accent": "No Fee Unless Money Is Recovered",
+  "trust_third": "No fee unless compensation is recovered",
+  "services": [
+    {
+      "slug": "tractor-trailer-accident-lawyer",
+      "name": "Tractor-Trailer Accidents",
+      "nav": "Tractor-trailer crashes",
+      "h1": "Tractor-Trailer Accident Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "tractor trailer accident lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "delivery-truck-accident-lawyer",
+      "name": "Delivery Truck Accidents",
+      "nav": "Delivery truck crashes",
+      "h1": "Delivery Truck Accident Lawyer",
+      "accent": "Driver, Route and Coverage Questions",
+      "keyword": "delivery truck accident lawyer",
+      "icon": "house"
+    },
+    {
+      "slug": "truck-driver-fatigue-claim",
+      "name": "Truck Driver Fatigue Claims",
+      "nav": "Driver fatigue",
+      "h1": "Truck Driver Fatigue Claim Lawyer",
+      "accent": "Logs, Hours and Evidence Review",
+      "keyword": "truck driver fatigue accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "trucking-company-liability",
+      "name": "Trucking Company Liability",
+      "nav": "Company liability",
+      "h1": "Trucking Company Liability Lawyer",
+      "accent": "Hiring, Maintenance and Responsibility",
+      "keyword": "trucking company liability lawyer",
+      "icon": "gear"
+    }
+  ],
+  "symptoms": [
+    "hit_by_tractor_trailer",
+    "delivery_truck_crash",
+    "suspected_driver_fatigue",
+    "trucking_company_disputes_fault"
+  ],
+  "symptom_service": [
+    "tractor-trailer-accident-lawyer",
+    "delivery-truck-accident-lawyer",
+    "truck-driver-fatigue-claim",
+    "trucking-company-liability"
+  ]
+}

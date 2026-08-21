@@ -1,0 +1,57 @@
+{
+  "service": "Family Law Attorney",
+  "service_inline": "family law attorney",
+  "emergency": false,
+  "hero_accent": "Clear Terms for Family Transitions",
+  "trust_third": "Priorities, timelines, and options explained clearly",
+  "services": [
+    {
+      "slug": "child-custody-attorney",
+      "name": "Child Custody",
+      "nav": "Child custody",
+      "h1": "Child Custody Attorney",
+      "accent": "Parenting Time and Decision-Making Terms",
+      "keyword": "child custody attorney",
+      "icon": "house"
+    },
+    {
+      "slug": "child-support-attorney",
+      "name": "Child Support",
+      "nav": "Child support",
+      "h1": "Child Support Attorney",
+      "accent": "Support Terms and Modification Questions",
+      "keyword": "child support attorney",
+      "icon": "check"
+    },
+    {
+      "slug": "paternity-attorney",
+      "name": "Paternity Matters",
+      "nav": "Paternity",
+      "h1": "Paternity Attorney",
+      "accent": "Parentage, Rights and Responsibilities",
+      "keyword": "paternity attorney",
+      "icon": "search"
+    },
+    {
+      "slug": "spousal-support-attorney",
+      "name": "Spousal Support",
+      "nav": "Spousal support",
+      "h1": "Spousal Support Attorney",
+      "accent": "Financial Terms and Duration Questions",
+      "keyword": "spousal support attorney",
+      "icon": "gear"
+    }
+  ],
+  "symptoms": [
+    "child_custody_dispute",
+    "support_payment_change",
+    "parentage_question",
+    "spousal_support_request"
+  ],
+  "symptom_service": [
+    "child-custody-attorney",
+    "child-support-attorney",
+    "paternity-attorney",
+    "spousal-support-attorney"
+  ]
+}

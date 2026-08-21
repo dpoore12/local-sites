@@ -1,0 +1,57 @@
+{
+  "service": "Water Damage Restoration",
+  "service_inline": "water damage restoration",
+  "emergency": true,
+  "hero_accent": "Water Removed, Damage Controlled Today",
+  "trust_third": "Restoration scope and price explained first",
+  "services": [
+    {
+      "slug": "water-extraction",
+      "name": "Water Extraction",
+      "nav": "Water extraction",
+      "h1": "Water Extraction",
+      "accent": "Standing Water Removed Fast",
+      "keyword": "water extraction",
+      "icon": "drop"
+    },
+    {
+      "slug": "flood-damage-restoration",
+      "name": "Flood Damage Restoration",
+      "nav": "Flood restoration",
+      "h1": "Flood Damage Restoration",
+      "accent": "Flood Damage Dried and Restored",
+      "keyword": "flood damage restoration",
+      "icon": "warn"
+    },
+    {
+      "slug": "basement-water-damage-restoration",
+      "name": "Basement Water Damage Restoration",
+      "nav": "Basement damage",
+      "h1": "Basement Water Damage Restoration",
+      "accent": "Basement Dried Before Mold Takes Hold",
+      "keyword": "basement water damage restoration",
+      "icon": "house"
+    },
+    {
+      "slug": "sewage-cleanup",
+      "name": "Sewage Cleanup",
+      "nav": "Sewage cleanup",
+      "h1": "Sewage Cleanup",
+      "accent": "Contaminated Water Removed Safely",
+      "keyword": "sewage cleanup",
+      "icon": "warn"
+    }
+  ],
+  "symptoms": [
+    "standing_water",
+    "flooded_basement",
+    "sewage_backup",
+    "water_soaked_walls"
+  ],
+  "symptom_service": [
+    "water-extraction",
+    "basement-water-damage-restoration",
+    "sewage-cleanup",
+    "flood-damage-restoration"
+  ]
+}

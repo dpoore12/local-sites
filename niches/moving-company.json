@@ -1,0 +1,57 @@
+{
+  "service": "Moving Services",
+  "service_inline": "moving services",
+  "emergency": false,
+  "hero_accent": "Careful Moving, Clear Pricing",
+  "trust_third": "Move price outlined before moving day",
+  "services": [
+    {
+      "slug": "local-moving",
+      "name": "Local Moving",
+      "nav": "Local moving",
+      "h1": "Local Moving Services",
+      "accent": "Careful Moves Across Town",
+      "keyword": "local moving company",
+      "icon": "house"
+    },
+    {
+      "slug": "long-distance-moving",
+      "name": "Long-Distance Moving",
+      "nav": "Long-distance moving",
+      "h1": "Long-Distance Moving Services",
+      "accent": "Long-Distance Moves Planned Clearly",
+      "keyword": "long distance moving company",
+      "icon": "pin"
+    },
+    {
+      "slug": "apartment-moving",
+      "name": "Apartment Moving",
+      "nav": "Apartment moving",
+      "h1": "Apartment Moving Services",
+      "accent": "Apartment Moves Handled Carefully",
+      "keyword": "apartment movers",
+      "icon": "house"
+    },
+    {
+      "slug": "packing-services",
+      "name": "Packing Services",
+      "nav": "Packing services",
+      "h1": "Packing Services",
+      "accent": "Belongings Packed for a Safer Move",
+      "keyword": "packing services movers",
+      "icon": "check"
+    }
+  ],
+  "symptoms": [
+    "moving_locally",
+    "moving_long_distance",
+    "apartment_move",
+    "needs_packing_help"
+  ],
+  "symptom_service": [
+    "local-moving",
+    "long-distance-moving",
+    "apartment-moving",
+    "packing-services"
+  ]
+}
