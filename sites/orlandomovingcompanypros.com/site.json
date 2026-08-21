@@ -31,8 +31,50 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "mover_registration_rule",
+      "claim": "Chapter 507 of the Florida Statutes requires every mover doing intrastate household moves in Florida to register with the Florida Department of Agriculture and Consumer Services before operating or advertising. The registration number must appear on each estimate and contract, in advertising, and on a sign on the driver's-side door of the truck in lettering at least 1.5 inches tall. Operating unregistered draws an immediate cease and desist order and a civil penalty of up to $5,000, and withholding delivery of goods after the shipper has paid what the estimate states is a prohibited practice.",
+      "why_it_matters": "It gives an Orlando household three concrete things to check before load day: the number on the written estimate, the number in the advertisement, and the number on the door of the truck in the driveway. It also means the written estimate is a regulated document rather than a courtesy, and that goods cannot be held in storage as leverage once payment matches the estimate.",
+      "sources": [
+        "https://www.fdacs.gov/Business-Services/Moving-Companies",
+        "https://www.flsenate.gov/Laws/Statutes/2024/507.03",
+        "https://www.flsenate.gov/Laws/Statutes/2024/507.07"
+      ],
+      "verified": "2026-08-21",
+      "title": "Florida movers must carry a state registration number on the estimate and on the truck door"
+    },
+    {
+      "id": "orange_county_growth",
+      "claim": "The Census Bureau puts Orange County at 1,528,002 residents as of July 1, 2025, up 6.9 percent from the 1,429,910 counted in the 2020 census. The Orlando Economic Partnership reports the Orlando region added 37,690 residents in the year ending July 1, 2025, the sixth fastest growth among large U.S. regions.",
+      "why_it_matters": "Constant in-migration and turnover is why moving capacity in Orlando is tight at month end and why interstate loads arriving here are usually consolidated with other shipments. It also explains the mix of jobs: long hauls inbound from other states, and short cross-county moves as households shift between Orange, Osceola, Seminole and Brevard.",
+      "sources": [
+        "https://www.census.gov/quickfacts/fact/table/orangecountyflorida/PST045225",
+        "https://news.orlando.org/blog/orlando-population-growth-again-among-highest-in-nation/"
+      ],
+      "verified": "2026-08-21",
+      "title": "Orange County passed 1.5 million residents and the region added 37,690 people in a year"
+    },
+    {
+      "id": "rental_and_multifamily_mix",
+      "claim": "Census QuickFacts puts the owner-occupied housing rate in Orange County at 56.8 percent for 2020-2024, meaning roughly 43 to 44 percent of occupied homes are rented. Orange County's own fair housing analysis counts 209,073 renter-occupied units out of 444,543 occupied units, about 44 percent, and reports that apartment complexes make up about 28 percent of the county's housing stock against 56.5 percent single-family detached.",
+      "why_it_matters": "Apartment and condo moves are the most common household move in Orlando, and managed properties set the terms: a certificate of insurance naming the property, a reserved service elevator or loading window that is often weekday-only, gate codes and dock heights. Those requirements decide the arrival time and the crew size, and a crew that turns up without the paperwork is refused at the dock.",
+      "sources": [
+        "https://www.census.gov/quickfacts/fact/table/orangecountyflorida/PST045225",
+        "https://www.orangecountyfl.net/Portals/0/resource%20library/neighbors%20-%20housing/2016-2020%20Orange%20County%20Analysis%20of%20Impediments%20to%20Fair%20Housing%20Choice.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "About 44 percent of Orange County households rent, and building rules run the move"
+    }
+  ],
+  "neighborhoods": [
+    "College Park",
+    "Baldwin Park",
+    "Thornton Park",
+    "Audubon Park",
+    "Lake Nona",
+    "MetroWest"
+  ],
   "symptoms": [
     "moving_locally",
     "moving_long_distance",

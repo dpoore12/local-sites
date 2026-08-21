@@ -30,8 +30,52 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "San Jose's median home was built in 1975, and roughly 144,000 of the city's 343,000 housing units went up between 1960 and 1979. The city's own housing element reports about 80% of the stock was built in 1960 or later, leaving about 20% pre-1960. The eras are geographic: Willow Glen bungalows date largely to the 1910s-1940s, Cambrian is mid-century 1950s-60s tract housing, Joseph Eichler's San Jose tracts were built between 1952 and 1963, and Almaden Valley and Evergreen filled in from the 1970s onward.",
+      "why_it_matters": "Build era is the fastest predictor of what is in the wall. Pre-1960 San Jose houses commonly still carry galvanized steel supply lines that fail as rusty pinholes at threaded joints, and cast iron drain and sewer lines that scale up internally and catch everything. The 1960s and 70s boom houses are typically copper, which pits and weeps at solder joints. That difference decides whether a leak is a section repair, a repipe, or a drain line that needs a camera after it is cabled.",
+      "sources": [
+        "https://www.point2homes.com/US/Neighborhood/CA/Santa-Clara-County/San-Jose-Demographics.html",
+        "https://www.hcd.ca.gov/housing-elements/docs/san_jose_5th_draft100314.pdf",
+        "https://npgallery.nps.gov/GetAsset/2f497523-3628-4d23-aa75-28b253cc33ab"
+      ],
+      "verified": "2026-08-21",
+      "title": "Half the city was plumbed between 1960 and 1979"
+    },
+    {
+      "id": "water_hardness",
+      "claim": "San Jose Water publishes hardness by source: groundwater runs 11 to 26 grains per gallon, mountain surface water 5 to 12, and imported surface water 4 to 9. The utility's own threshold for calling water hard is 7 grains per gallon, or 120 parts per million.",
+      "why_it_matters": "Groundwater-served parts of San Jose are drinking water several times harder than the hard-water threshold. Dissolved calcium drops out as scale on the hottest surface it touches, which is the bottom of a water heater tank, and on every valve seat it passes. That is why tanks rumble and start leaking early here, why anode rods are consumed fast, and why angle stops and pressure regulators seize instead of turning.",
+      "sources": [
+        "https://www.sjwater.com/water-faqs/",
+        "https://www.sjwater.com/media/ixleehrg/ca4310011_ca4310018-sjw-2025-ccr-002.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "Groundwater here reaches 26 grains per gallon"
+    },
+    {
+      "id": "permit_rule",
+      "claim": "San Jose requires a plumbing permit to install or replace a water heater, to do a repipe or water service project, and to repair or replace a building drain or building sewer or install a property line cleanout. Separately, the city's sanitary sewer FAQ states the property owner is responsible for maintaining the entire lateral, and that the city maintains the lower portion out to the main only as a courtesy, and only where an approved property-line wye cleanout exists within five feet of the property side of the sidewalk.",
+      "why_it_matters": "An emergency water heater swap or a sewer line repair in San Jose is a permitted, inspected job, not a quiet midnight replacement. Single-family and duplex permits are pulled online at SJPermits.org and a permit card lists the required inspections. The cleanout rule matters just as much during a backup: without an approved property-line cleanout the whole lateral is the homeowner's, and that fitting is also the access point a plumber needs to reach the line at all.",
+      "sources": [
+        "https://www.sanjoseca.gov/businesses/development-services-permit-center/start-your-project/water-heaters",
+        "https://www.sanjoseca.gov/businesses/development-services-permit-center/start-your-project/repipe-water-service-projects",
+        "https://www.sanjoseca.gov/businesses/development-services-permit-center/start-your-project/sewer-projects",
+        "https://www.sanjoseca.gov/your-government/departments-offices/transportation/sewers-storm-drains/sanitary-sewer/frequently-asked-questions-about-sanitary-sewer-services"
+      ],
+      "verified": "2026-08-21",
+      "title": "Water heaters, repipes and sewers all need a permit"
+    }
+  ],
+  "neighborhoods": [
+    "Willow Glen",
+    "Cambrian Park",
+    "Almaden Valley",
+    "Berryessa",
+    "Evergreen",
+    "Rose Garden"
+  ],
   "symptoms": [
     "burst_pipe",
     "overflowing_drain",

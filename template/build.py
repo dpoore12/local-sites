@@ -255,11 +255,17 @@ def build(domain, live=False, check_only=False, corpus=None):
     env = Environment(loader=FileSystemLoader(str(TPL)), autoescape=select_autoescape(["html"]))
     env.filters["domain_of"] = domain_of
 
-    hero_note = ("Upfront pricing · No obligation · Local "
-                 f"{s['counties'][0]} County technician")
+    # A garage door site says "technician"; a wrongful death site must not. Derived
+    # rather than stored so a site.json rewritten by a writer cannot lose it.
+    legal = any(w in s["service"].lower() for w in ("lawyer", "attorney", "law"))
+    pro = "attorney" if legal else "technician"
+    entity = "law firm and does not provide legal advice" if legal else "licensed contractor"
+    hero_note = (("Free case review · No obligation · Local " if legal else
+                  "Upfront pricing · No obligation · Local ")
+                 + f"{s['counties'][0]} County {pro}")
     disclosure = (
-        f"This site is operated independently and is not itself a licensed contractor. "
-        f"Calls are answered by a local {s['service_inline']} technician serving {s['city']}. "
+        f"This site is operated independently and is not itself a {entity}. "
+        f"Calls are answered by a local {s['service_inline']} {pro} serving {s['city']}. "
         f"No pricing, licensing, insurance or review claims are made on this page, because no "
         f"specific provider is named on it yet. Verify license and insurance directly with any "
         f"provider before work begins."
@@ -273,11 +279,13 @@ def build(domain, live=False, check_only=False, corpus=None):
         for f in facts
     }
 
-    work = [
-        {"src": "assets/work-1.jpg", "caption": "Torsion spring replacement"},
-        {"src": "assets/work-2.jpg", "caption": "Sectional door installation"},
-        {"src": "assets/work-3.jpg", "caption": "Opener and rail repair"},
-    ]
+    # Captions come from the niche's own service names so nothing garage-door
+    # specific leaks onto the other 81 sites.
+    svc_names = [o.get("name", "") for o in s.get("services", [])]
+    while len(svc_names) < 3:
+        svc_names.append(s["service"])
+    work = [{"src": f"assets/work-{i}.jpg", "caption": svc_names[i - 1]}
+            for i in (1, 2, 3)]
 
     ctx = dict(
         s=s, c=c, year=YEAR,
@@ -334,18 +342,21 @@ def build(domain, live=False, check_only=False, corpus=None):
         page_cards=None, **ctx)
 
     contact_body = (
-        f"<p>Call <a href=\"tel:{s['phone_tel']}\">{s['phone_display']}</a> and describe what the "
-        f"door is doing. There is no form on this page on purpose &mdash; a garage door problem is "
-        f"faster to describe out loud than to type.</p>"
-        f"<p>Coverage is {s['city']} and the surrounding {' and '.join(s['counties'])} County "
-        f"communities, including {', '.join(s.get('neighborhoods', [])[:-1])} and "
+        f"<p>One number, answered by a {s['city']} {pro}: "
+        f"<a href=\"tel:{s['phone_tel']}\">{s['phone_display']}</a>. "
+        + ("There is no form on this page. A case review is arranged on the call.</p>"
+           if legal else
+           "There is no form on this page. A visit gets scheduled and the price is "
+           "quoted before any work starts.</p>")
+        + f"<p>Coverage is {s['city']} and the surrounding "
+        f"{' and '.join(s['counties'])} County communities, including "
+        f"{', '.join(s.get('neighborhoods', [])[:-1])} and "
         f"{s.get('neighborhoods', [''])[-1]}.</p>"
-        f"<p><strong>If a spring has snapped or the door is off its track:</strong> unplug the "
-        f"opener, do not try to lift the door, and say so when you call.</p>"
+        f"<p><strong>Before you call:</strong> {c.get('emergency_note', '')}</p>"
     )
     pages["contact/index.html"] = inner.render(
         meta_title=f"Contact &mdash; {s['service']} in {s['city']}, {s['state']}",
-        meta_description=f"Call a {s['city']} {s['service_inline']} technician.",
+        meta_description=f"Call a {s['city']} {s['service_inline']} {pro}.",
         canonical_path="/contact/", base="../", schema_json=None,
         page_h1="Contact", page_kicker=s["phone_display"],
         page_lede="One number, and the four things worth having ready when you call.",

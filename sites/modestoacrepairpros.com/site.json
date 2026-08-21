@@ -30,8 +30,54 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "title": "Half of Modesto's housing predates 1980",
+      "claim": "The median Modesto housing unit was built in 1979, and the 1970s alone account for 18,432 of the city's 75,882 units, the largest single decade. Roughly 51 percent of the housing stock predates 1980. The spread is wide: the streets around Modesto Junior College in the College Area were laid out in the 1920s and 1930s, while Village One on the northeast side was built mostly in the 1990s and early 2000s.",
+      "why_it_matters": "Vintage decides what a technician expects to find. Seventies and eighties tracts typically put the air handler in a hallway closet or a garage alcove, with undersized return grilles, one-inch filter slots and supply ducts that have baked in an attic for decades. Newer construction on the north and east edges usually has attic-mounted equipment and tighter ducts, which changes both the airflow diagnosis and where a failed condensate drain does damage.",
+      "sources": [
+        "https://censusreporter.org/profiles/16000US0648354-modesto-ca/",
+        "https://data.census.gov/table/ACSDT5Y2024.B25035",
+        "https://en.wikipedia.org/wiki/College_Area,_Modesto,_California"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "valley_heat_and_dust",
+      "title": "Long triple-digit runs, and valley air full of particulate",
+      "claim": "NWS Sacramento's Modesto climate summary for July 2026 recorded 26 days at or above 90 degrees, a monthly high of 104 on the 14th and 15th, and 0.00 inches of rain, with cooling degree days running 135 above the 1991-2020 normal for the year to date. Modesto Airport logged 45 days at or above 100 degrees in 2024. Meanwhile the San Joaquin Valley air basin is designated nonattainment for the federal fine particulate standard and nonattainment for both state particulate standards, and Stanislaus County harvested 217,352 acres of almonds in 2024, its highest-value crop, with harvest shakers and sweepers working dry orchard floors from August into October.",
+      "why_it_matters": "Long dry heat runs the equipment near its ceiling for months, and valley particulate plus orchard-season dust packs outdoor condenser fins and loads filters far faster than a coastal city would explain. A fouled coil cannot reject heat, so head pressure rises, capacity falls and the compressor draws more current at exactly the time of year it can least afford to. Coil cleaning and frequent filter changes are maintenance here, not an upsell.",
+      "sources": [
+        "https://forecast.weather.gov/product.php?site=CRH&issuedby=MOD&product=CLM&format=CI&version=1&glossary=0",
+        "https://www.weather.gov/sto/",
+        "https://www.valleyair.org/air-quality-information/ambient-air-quality-standards-valley-attainmnet-status/",
+        "https://www.stanag.org/pdf/cropreport/cropreport2024.pdf"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "permit_rule",
+      "title": "A changeout here needs a permit and a HERS test",
+      "claim": "The City of Modesto's Building Safety Division at 1010 Tenth Street issues the mechanical permit for HVAC work, and the city's expedited permit program lets a properly licensed contractor apply for, pay for and obtain an HVAC permit online. Modesto sits in California Building Climate Zone 12, and Title 24 requires refrigerant charge verification by an independent HERS rater on air-cooled air conditioner alterations in Climate Zones 2 and 8 through 15.",
+      "why_it_matters": "A capacitor or a drain clear is a straightforward repair with nothing to file. A condenser swap or a full system changeout is permitted work, and because Modesto falls inside the charge-verification climate zones, a compliant job includes third-party HERS verification and duct leakage testing. That is real cost and real scheduling, so ask any contractor whether the permit and the HERS registration are inside the quoted figure.",
+      "sources": [
+        "https://www.modestogov.com/2102/Expedited-Permits",
+        "https://www.modestogov.com/1281/Building-Permits",
+        "https://www.calbo.org/sites/main/files/file-attachments/residential_hvac_regulations.pdf?1525201917",
+        "https://www.energy.ca.gov/sites/default/files/2021-03/2019_Chapter%204%20-%20Building%20HVAC%20Requirements_ADA.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "College Area",
+    "La Loma",
+    "Bret Harte",
+    "Sherwood Forest",
+    "Sylvan",
+    "Village One"
+  ],
   "symptoms": [
     "ac_not_cooling",
     "ac_blows_warm_air",

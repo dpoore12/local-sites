@@ -30,8 +30,52 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "ACS 2024 estimates put Sacramento's median year of construction at 1978, with about 23,500 of roughly 212,000 city housing units \u2014 close to one in nine \u2014 built in 1939 or earlier. Inside the same county, Elk Grove's median year built is 2001.",
+      "why_it_matters": "Pre-war houses in Boulevard Park, Curtis Park, Midtown and Land Park were built with floor furnaces or wall heaters and no cooling ducts at all, so cooling arrived later as an attic coil, a hall-closet air handler or ductless heads, usually with the condenser squeezed into a narrow side yard. Postwar Tahoe Park and Oak Park houses tend to have a garage furnace with an add-on coil, and 1990s-2000s North Natomas homes have purpose-built systems with real access. Equipment location, access time and likely failure points differ in all three.",
+      "sources": [
+        "https://censusreporter.org/tables/B25035/",
+        "https://data.census.gov/table/ACSDT5Y2024.B25035",
+        "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034&geo_ids=16000US0664000,16000US0622020"
+      ],
+      "verified": "2026-08-21",
+      "title": "One Sacramento house in nine predates 1940, so cooling was retrofitted"
+    },
+    {
+      "id": "permit_rule",
+      "claim": "The City of Sacramento requires a building permit for repairs and replacements to mechanical systems, and its express planning exemption form allows an HVAC change-out only when the new unit goes back in the same location; a unit placed in a new location must be screened so it is not visible from any street view, and the form cannot be used on a landmark parcel or in a historic district. California's energy code adds independent field verification and diagnostic testing, with documentation required to close the permit.",
+      "why_it_matters": "A condenser change-out in Sacramento is not a cash-and-carry swap. Moving the outdoor unit out of a cramped side yard to somewhere easier to service triggers a screening requirement, and in the older designated districts near downtown the express exemption is off the table entirely. Field verification also means the finished job has to be tested, not just installed, which is worth knowing before anyone agrees to work with no permit.",
+      "sources": [
+        "https://www.cityofsacramento.gov/community-development/building/permit-services/required-permits.html",
+        "https://www.cityofsacramento.gov/content/dam/portal/cdd/Building/Forms/CDD-0035_Planning-Exemption-Form-Express.pdf",
+        "https://www.energy.ca.gov/programs-and-topics/programs/home-energy-rating-system-hers-program"
+      ],
+      "verified": "2026-08-21",
+      "title": "Change-outs need a city permit, and moving the condenser needs screening"
+    },
+    {
+      "id": "delta_breeze_swing",
+      "claim": "NOAA's 1991-2020 monthly normals for Sacramento Executive Airport give a July average high of 92.6F against a July average low of 59.2F, a daily swing of more than thirty degrees. NWS Sacramento attributes that evening cooling to the delta breeze, a sea breeze that pushes marine air inland through the Carquinez Strait, typically strengthening between about 2 and 4 p.m. Downtown Sacramento reached an all-time record 116F on September 6, 2022.",
+      "why_it_matters": "Overnight flushing by delta-breeze air masks weak cooling capacity for years: a system low on charge or short on airflow can still hold a house that starts each morning cool. The fault only shows during a stagnant, breezeless heat run, which is why calls cluster in the second week of a hot spell rather than the first. It also means the hottest indoor hours land inside SMUD's weekday 5-8 p.m. peak window, where summer power is priced at $0.3765 per kWh against $0.1550 off-peak, so an inefficient system runs longest when electricity costs the most.",
+      "sources": [
+        "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00023232&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL&format=json",
+        "https://www.weather.gov/media/aviation/CaseStudies/SACDeltaBreezeStratus_CaseStudy.pdf",
+        "https://www.smud.org/Rate-Information/Residential-rates"
+      ],
+      "verified": "2026-08-21",
+      "title": "Thirty-degree day-to-night swings hide a failing system until the breeze quits"
+    }
+  ],
+  "neighborhoods": [
+    "East Sacramento",
+    "Midtown",
+    "Land Park",
+    "Curtis Park",
+    "Oak Park",
+    "North Natomas"
+  ],
   "symptoms": [
     "ac_not_cooling",
     "ac_blows_warm_air",

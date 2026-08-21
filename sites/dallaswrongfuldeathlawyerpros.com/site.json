@@ -32,8 +32,50 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "who_may_file",
+      "claim": "Section 71.004 of the Texas Civil Practice and Remedies Code makes a wrongful death action the exclusive benefit of the surviving spouse, children and parents of the person who died, and allows one of them to bring it for the benefit of all. Siblings are not included. If no eligible relative has begun the action within three calendar months of the death, the statute directs the executor or administrator to bring it. Section 71.021 keeps the deceased person's own cause of action alive as a separate survival claim belonging to the heirs, legal representatives and estate.",
+      "why_it_matters": "Standing is the first thing that decides whether a claim exists at all. A brother or sister handling every arrangement after a Dallas death still cannot bring the wrongful death action in their own right, while an adult child living out of state can. Families who understand the two-claim structure early do not lose the estate's survival claim by filing only one of them.",
+      "sources": [
+        "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.71.htm",
+        "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-a/section-71-004/",
+        "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-b/section-71-021/"
+      ],
+      "verified": "2026-08-21",
+      "title": "Texas names three categories of relative, and siblings are not one of them"
+    },
+    {
+      "id": "dallas_county_traffic_deaths",
+      "claim": "TxDOT's 2024 crash records show Dallas County with 305 fatal crashes and 331 traffic deaths. The road-type table for the same year puts 133 of those fatal crashes on city streets and 81 on interstate highways.",
+      "why_it_matters": "Fatal collisions here are mostly a surface-street problem, not a freeway one. Liability on a Dallas arterial usually turns on signal phasing, turn movements, sight lines and pedestrian crossings, and the evidence sits with city traffic records and local police agencies rather than with highway patrol.",
+      "sources": [
+        "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/13.pdf",
+        "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/12.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "Most fatal Dallas County crashes happen on city streets"
+    },
+    {
+      "id": "dallas_county_filing_venue",
+      "claim": "Dallas County lists thirteen civil district courts, all sitting at the George L. Allen, Sr. Courts Building at 600 Commerce Street, plus five county courts at law. The county clerk states that a Dallas County court at law has concurrent jurisdiction with the district courts in civil cases where the amount in controversy exceeds $500, with no maximum, and that the party filing chooses between the two.",
+      "why_it_matters": "A Dallas wrongful death suit does not have one automatic destination. Choice of court is a real decision made at filing, and the surrounding practicalities -- where records are requested, where the clerk's civil counter is, which judge's procedures apply -- follow from it.",
+      "sources": [
+        "https://www.dallascounty.org/government/courts/civil_district/",
+        "https://www.dallascounty.org/government/county-clerk/civil-courts/faqs.php"
+      ],
+      "verified": "2026-08-21",
+      "title": "Thirteen civil district courts and five county courts at law, all on Commerce Street"
+    }
+  ],
+  "neighborhoods": [
+    "Oak Cliff",
+    "Lakewood",
+    "Pleasant Grove",
+    "Preston Hollow",
+    "Oak Lawn",
+    "Lake Highlands"
+  ],
   "symptoms": [
     "fatal_car_crash",
     "fatal_workplace_accident",
