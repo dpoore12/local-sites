@@ -59,8 +59,12 @@ FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
            '<path d="M5 14L16 6l11 8"/><path d="M8 16v10h16V16"/><path d="M11 19h10M11 22.5h10"/></g></svg>')
 
 # --- guard config ------------------------------------------------------------
-HOME_WORDS = (1300, 2300)
-SYMPTOM_WORDS = (40, 80)
+# A site is built in two phases. Phase 1 is home + about + contact and is what
+# goes live first: the symptom cards carry their full depth because there is no
+# service page to hand off to. Phase 2 is added once a market is earning -- the
+# symptom cards shrink to teasers and four long service pages absorb the detail.
+HOME_WORDS = {1: (1700, 3200), 2: (1300, 2300)}
+SYMPTOM_WORDS = {1: (200, 360), 2: (40, 80)}
 QA_WORDS = 55
 MIN_SYMPTOMS = 4
 MIN_QAS = 3
@@ -127,6 +131,9 @@ def build(domain, live=False, check_only=False, corpus=None):
     s = json.loads((sdir / "site.json").read_text())
     c = parse_copy(sdir / "copy.md")
     errs, warns = [], []
+    phase = int(s.get("phase", 1))
+    if phase not in (1, 2):
+        sys.exit(f"{s['domain']}: site.json phase must be 1 or 2, got {phase!r}")
 
     def need(key, minw=0):
         if key not in c or not c[key].strip():
@@ -140,25 +147,37 @@ def build(domain, live=False, check_only=False, corpus=None):
     for k in ["meta_title", "meta_description", "hero_promise",
               "what_happens_when_you_call", "what_they_will_ask",
               "expect_intro_1", "expect_intro_2", "closing_cta",
-              "services_summary", "about_summary"]:
+              "about_summary",
+              # Band headings and safety notes. These used to be hardcoded in the
+              # templates in garage-door language, which would have shipped "your
+              # door" onto 81 sites including the law firms. They are authored per
+              # site now, which also stops 14 same-niche sites sharing chrome.
+              "urgency_bullet", "values_eyebrow", "values_head", "values_lede",
+              "factors_lede", "problem_lede", "problem_nudge", "expect_head",
+              "emergency_note",
+              ] + (["services_summary", "services_pick_head", "crosslink_head"]
+                   if phase == 2 else []):
         need(k)
 
     # --- symptoms (problem cards) --------------------------------------------
     symptoms = []
     sy_icons = [ICO["bolt"], ICO["eye"], ICO["warn"], ICO["wrench"]]
+    sy_lo, sy_hi = SYMPTOM_WORDS[phase]
     i = 1
     while f"symptom_{i}" in c:
         body = c[f"symptom_{i}"]
         n = len(body.split())
-        if not (SYMPTOM_WORDS[0] <= n <= SYMPTOM_WORDS[1]):
-            errs.append(f"symptom_{i}: {n} words, must be {SYMPTOM_WORDS[0]}-{SYMPTOM_WORDS[1]}")
-        # Each home-page teaser hands off to the service page that covers it in
-        # full. symptom_service maps them in order.
-        target = s.get("symptom_service", [])
-        slug = target[i - 1] if i - 1 < len(target) else ""
-        if not slug:
-            errs.append(f"symptom_{i} has no service page in site.json symptom_service")
-        link = next((o for o in s.get("services", []) if o["slug"] == slug), None)
+        if not (sy_lo <= n <= sy_hi):
+            errs.append(f"symptom_{i}: {n} words, must be {sy_lo}-{sy_hi} (phase {phase})")
+        # In phase 2 each teaser hands off to the service page that covers it in
+        # full. In phase 1 the card IS the coverage, so there is nothing to link.
+        slug, link = "", None
+        if phase == 2:
+            target = s.get("symptom_service", [])
+            slug = target[i - 1] if i - 1 < len(target) else ""
+            if not slug:
+                errs.append(f"symptom_{i} has no service page in site.json symptom_service")
+            link = next((o for o in s.get("services", []) if o["slug"] == slug), None)
         symptoms.append({"title": need(f"symptom_{i}_title"), "body": body,
                          "slug": slug,
                          "link_text": f"Read about {link['name'].lower()}" if link else "",
@@ -279,9 +298,14 @@ def build(domain, live=False, check_only=False, corpus=None):
                                   "acceptedAnswer": {"@type": "Answer", "text": q["a"]}}
                                  for q in faqs]}
 
-    services = s.get("services", [])
-    if len(services) < MIN_SERVICES:
+    # Phase 1 ships no service pages. site.json still carries the service
+    # definitions so phase 2 is a copy-only job later, but nothing renders or
+    # links to them yet -- a nav link to a page that does not exist is worse
+    # than no link.
+    services = s.get("services", []) if phase == 2 else []
+    if phase == 2 and len(services) < MIN_SERVICES:
         errs.append(f"{len(services)} service pages, needs {MIN_SERVICES}+")
+    ctx["nav_services"] = services
 
     pages = {}
     pages["index.html"] = env.get_template("index.html").render(
@@ -289,7 +313,8 @@ def build(domain, live=False, check_only=False, corpus=None):
         canonical_path="/", base="", schema_json=json.dumps(schema) if schema else None, **ctx)
 
     inner = env.get_template("inner.html")
-    pages["services/index.html"] = inner.render(
+    if services:
+      pages["services/index.html"] = inner.render(
         meta_title=f"{s['service']} Services in {s['city']}, {s['state']}",
         meta_description=f"The four {s['service_inline']} jobs that get confused with each other in {s['city']}.",
         canonical_path="/services/", base="../", schema_json=None,
@@ -357,8 +382,9 @@ def build(domain, live=False, check_only=False, corpus=None):
 
     home_words = visible_words(pages["index.html"])
     n = len(home_words)
-    if not (HOME_WORDS[0] <= n <= HOME_WORDS[1]):
-        errs.append(f"home page {n} visible words, must be {HOME_WORDS[0]}-{HOME_WORDS[1]}")
+    hw_lo, hw_hi = HOME_WORDS[phase]
+    if not (hw_lo <= n <= hw_hi):
+        errs.append(f"home page {n} visible words, must be {hw_lo}-{hw_hi} (phase {phase})")
 
     if pre:
         low = " ".join(home_words).lower()

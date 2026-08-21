@@ -10,7 +10,7 @@
     <p class="hero-note">{{ hero_note }}</p>
     <div class="trust-band">
       <ul>
-        <li>{{ ico_bolt | safe }}Springs and off-track doors treated as urgent</li>
+        <li>{{ ico_bolt | safe }}{{ c.urgency_bullet }}</li>
         <li>{{ ico_pin | safe }}{{ s.counties | join(" &amp; ") | safe }} County</li>
         <li>{{ ico_check | safe }}{{ s.trust_third }}</li>
       </ul>
@@ -24,9 +24,9 @@
 <div class="band band-white">
   <div class="band-inner">
     <div class="band-head">
-      <span class="eyebrow">Why homeowners call us</span>
-      <h2>A technician at your door,<br>not a callback queue</h2>
-      <p>A garage door that will not move is not a project you schedule around. Describing it out loud is the fastest way to find out what broke.</p>
+      <span class="eyebrow">{{ c.values_eyebrow }}</span>
+      <h2>{{ c.values_head }}</h2>
+      <p>{{ c.values_lede }}</p>
     </div>
     <ul class="value-cards">
       {% for v in values %}
@@ -104,7 +104,7 @@
     <div class="band-head">
       <span class="eyebrow">What changes the job</span>
       <h2>What affects {{ s.service_inline }} in {{ s.city }}</h2>
-      <p>Every door is different. These are the four things that decide what gets loaded on the truck.</p>
+      <p>{{ c.factors_lede }}</p>
     </div>
     <ul class="service-cards">
       {% for f in factors %}
@@ -123,7 +123,7 @@
     <div class="band-head">
       <span class="eyebrow">Common failures</span>
       <h2>What usually prompts the call</h2>
-      <p>Four failures account for most {{ s.service_inline }} calls in {{ s.city }}. Find the one that matches your door and read the full breakdown.</p>
+      <p>{{ c.problem_lede }}</p>
     </div>
     <ul class="problem-cards">
       {% for sy in symptoms %}
@@ -131,11 +131,11 @@
         <span class="problem-icon">{{ sy.icon | safe }}</span>
         <h3>{{ sy.title }}</h3>
         <p>{{ sy.body }}</p>
-        <p class="problem-more"><a href="{{ base }}{{ sy.slug }}/">{{ sy.link_text }}</a></p>
+        {% if sy.slug %}<p class="problem-more"><a href="{{ base }}{{ sy.slug }}/">{{ sy.link_text }}</a></p>{% endif %}
       </li>
       {% endfor %}
     </ul>
-    <p class="problem-nudge">None of this is a diagnosis. Only a technician looking at your door can tell you what is actually wrong &mdash; but knowing which of the four you are looking at means the right parts arrive on the first visit.</p>
+    <p class="problem-nudge">{{ c.problem_nudge }}</p>
     <div class="band-cta"><a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a></div>
   </div>
 </div>

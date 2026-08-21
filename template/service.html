@@ -31,7 +31,7 @@
   <div class="band-inner">
     <div class="band-head">
       <span class="eyebrow">The other three jobs</span>
-      <h2>Not what your door<br>is doing?</h2>
+      <h2>{{ c.crosslink_head }}</h2>
     </div>
     <div class="service-cards">
       {% for o in s.services if o.slug != svc.slug %}

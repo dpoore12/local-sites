@@ -37,14 +37,14 @@
     <p><a href="tel:{{ s.phone_tel }}">{{ s.phone_display }}</a></p>
     <div class="internal-links">
       <a href="{{ base }}">Home</a>
-      <a href="{{ base }}services/">Services</a>
-      {% for o in s.services %}<a href="{{ base }}{{ o.slug }}/">{{ o.nav }}</a>
-      {% endfor %}      <a href="{{ base }}about/">About</a>
+      {% if nav_services %}<a href="{{ base }}services/">Services</a>
+      {% for o in nav_services %}<a href="{{ base }}{{ o.slug }}/">{{ o.nav }}</a>
+      {% endfor %}{% endif %}      <a href="{{ base }}about/">About</a>
       <a href="{{ base }}contact/">Contact</a>
     </div>
     <div class="lr-compliance-footer">
       <p>{{ disclosure }}</p>
-      <p>Emergency? If a garage door spring has snapped or the door has come off its track, do not attempt to lift or move the door. Unplug the opener and call.</p>
+      <p>{{ c.emergency_note }}</p>
       <p>&copy; {{ year }} {{ s.domain }}</p>
     </div>
   </div>

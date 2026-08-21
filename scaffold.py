@@ -38,7 +38,16 @@ BLOCKS = [
     "expect_intro_1", "expect_intro_2",
     *[f"expect_{i}{s}" for i in (1, 2, 3, 4) for s in ("_label", "")],
     *[f"factor_{i}{s}" for i in (1, 2, 3, 4) for s in ("_title", "")],
+    # Band headings and the footer safety note. Authored per site so no niche
+    # language is baked into the shared template and no two sites share chrome.
+    "urgency_bullet", "values_eyebrow", "values_head", "values_lede",
+    "factors_lede", "problem_lede", "problem_nudge", "expect_head",
+    "emergency_note",
 ]
+
+# Blocks only a phase-2 site needs, because they head bands that phase 1 does
+# not render at all.
+PHASE2_BLOCKS = ["services_summary", "services_pick_head", "crosslink_head"]
 
 STATE_ABBR = {
     "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR",
@@ -109,6 +118,11 @@ def build_site(row, pack):
     ac = row["area_codes"][0]
     return {
         "domain": pick_domain(row),
+        # Phase 1 = home + about + contact, which is what goes live and gets
+        # ranked. The four service pages are phase 2, added per market once it
+        # is earning. site.json still carries the service definitions now so
+        # phase 2 is purely a writing job later, not a config job.
+        "phase": 1,
         "brand": brand_for(city, pack["service"]),
         "service": pack["service"],
         "service_inline": pack["service_inline"],
@@ -160,10 +174,22 @@ def build_site(row, pack):
 
 def copy_stub(site):
     """A writer's worksheet: every block, in order, with the rules at the top."""
+    phase = site.get("phase", 1)
     svc_blocks = []
-    for o in site["services"]:
-        k = o["slug"].replace("-", "_")
-        svc_blocks += [f"svc_{k}_lede", f"svc_{k}_body"]
+    if phase == 2:
+        for o in site["services"]:
+            k = o["slug"].replace("-", "_")
+            svc_blocks += [f"svc_{k}_lede", f"svc_{k}_body"]
+    blocks = [b for b in BLOCKS if b not in PHASE2_BLOCKS]
+    if phase == 2:
+        blocks += PHASE2_BLOCKS
+    scope = (["- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.",
+              "- symptom_N blocks are 40-80 word teasers only. The depth goes on the",
+              "  service page they link to."] if phase == 2 else
+             ["- PHASE 1: this site is home + about + contact only. No service pages.",
+              "- Home page lands 1,700-3,200 visible words.",
+              "- symptom_N blocks are 200-360 words each. In phase 1 the card IS the",
+              "  coverage of that problem, so give it the full explanation."])
     lines = [
         f"# Copy — {site['domain']}",
         "",
@@ -178,16 +204,14 @@ def copy_stub(site):
         "  what it costs, when someone arrives.",
         "- Never name a business, a licence, a review count, a price or a year",
         "  in business. No tenant is signed, so none of it is true yet.",
-        "- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.",
-        "- symptom_N blocks are 40-80 word teasers only. The depth goes on the",
-        "  service page they link to.",
+        *scope,
         "- site.json needs 3 local_facts with a real source URL each, and 6",
         "  neighbourhoods, before this will build.",
         "",
         "---",
         "",
     ]
-    for b in BLOCKS + svc_blocks:
+    for b in blocks + svc_blocks:
         lines += [f"## {b}", "", "TODO", ""]
     return "\n".join(lines)
 

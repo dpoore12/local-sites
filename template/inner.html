@@ -26,7 +26,7 @@
   <div class="band-inner">
     <div class="band-head">
       <span class="eyebrow">The four jobs</span>
-      <h2>Pick the one that<br>matches your door</h2>
+      <h2>{{ c.services_pick_head }}</h2>
     </div>
     <div class="grid">
       {% for o in page_links %}
@@ -47,7 +47,7 @@
     <div class="expect-layout">
       <div>
         <span class="eyebrow">Before the truck arrives</span>
-        <h2>What the technician<br>needs to know</h2>
+        <h2>{{ c.expect_head }}</h2>
         <p>{{ c.expect_intro_1 }}</p>
         <p>{{ c.expect_intro_2 }}</p>
       </div>

@@ -286,3 +286,48 @@ A stock-size like-for-like door on a standard opening can often be ordered and i
 ### Pricing
 
 You get an itemized number covering the door, the hardware, the labor and the haul-away of the old door, before anything is ordered. Ask specifically whether new track and new springs are included, because the old spring is sized for the old door's weight and a heavier insulated replacement needs different spring specs to balance correctly.
+
+## urgency_bullet
+
+Snapped springs and off-track doors treated as urgent
+
+## values_eyebrow
+
+Why Naperville homeowners call
+
+## values_head
+
+A technician on the driveway, not a callback queue
+
+## values_lede
+
+A door that will not open is not something you schedule around next week. It gets looked at, priced, and fixed.
+
+## factors_lede
+
+No two Naperville garages are built the same. Four things decide what gets loaded on the truck before anyone leaves.
+
+## problem_lede
+
+Four failures account for most of the repair calls that come in from Naperville. Each one is covered in full on its own page.
+
+## problem_nudge
+
+None of this is a diagnosis. Only a technician standing in front of the door can say what actually failed. Knowing which of the four you are looking at is what gets the right parts on the truck the first time.
+
+## expect_head
+
+What the technician needs to know
+
+## emergency_note
+
+If a spring has snapped or the door has come off its track, do not try to lift or move it by hand. Unplug the opener and call.
+
+## services_pick_head
+
+Pick the job that matches what the door is doing
+
+## crosslink_head
+
+Not what your door is doing?
+

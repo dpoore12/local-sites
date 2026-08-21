@@ -10,9 +10,10 @@
   what it costs, when someone arrives.
 - Never name a business, a licence, a review count, a price or a year
   in business. No tenant is signed, so none of it is true yet.
-- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
-- symptom_N blocks are 40-80 word teasers only. The depth goes on the
-  service page they link to.
+- PHASE 1: this site is home + about + contact only. No service pages.
+- Home page lands 1,700-3,200 visible words.
+- symptom_N blocks are 200-360 words each. In phase 1 the card IS the
+  coverage of that problem, so give it the full explanation.
 - site.json needs 3 local_facts with a real source URL each, and 6
   neighbourhoods, before this will build.
 
@@ -95,10 +96,6 @@ TODO
 TODO
 
 ## closing_cta
-
-TODO
-
-## services_summary
 
 TODO
 
@@ -231,37 +228,5 @@ TODO
 TODO
 
 ## factor_4
-
-TODO
-
-## svc_gutter_cleaning_lede
-
-TODO
-
-## svc_gutter_cleaning_body
-
-TODO
-
-## svc_gutter_repair_lede
-
-TODO
-
-## svc_gutter_repair_body
-
-TODO
-
-## svc_gutter_guard_installation_lede
-
-TODO
-
-## svc_gutter_guard_installation_body
-
-TODO
-
-## svc_downspout_cleaning_lede
-
-TODO
-
-## svc_downspout_cleaning_body
 
 TODO

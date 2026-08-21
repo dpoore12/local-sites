@@ -367,3 +367,48 @@ A stock-size like-for-like door on a standard opening can usually be sourced and
 ### What it costs
 
 Before a door is ordered you get an itemised figure: the door itself, the hardware, the labour, the permit, and disposal of the old sections. Push on one detail in particular, which is whether fresh track and correctly sized springs are inside that total. The existing spring was wound to counterbalance the door you are throwing away, and a heavier insulated replacement needs its own spring specification to hang level.
+
+## urgency_bullet
+
+Springs and off-track doors treated as urgent
+
+## values_eyebrow
+
+Why Tarrant County homeowners call
+
+## values_head
+
+Someone shows up and fixes it
+
+## values_lede
+
+A stuck door in August heat is not a next-week problem. A technician comes out, quotes the price, and does the work on that visit.
+
+## factors_lede
+
+Fort Worth housing runs from 1920s bungalows to slab-built subdivisions finished last year. Four things decide which parts come along.
+
+## problem_lede
+
+Most Fort Worth calls trace back to one of four failures. Every one has a page of its own that walks through it properly.
+
+## problem_nudge
+
+Treat this as background, not a verdict. What actually broke gets confirmed on site, and narrowing it down beforehand is what keeps a second trip off the job.
+
+## expect_head
+
+What to have ready before the truck arrives
+
+## emergency_note
+
+A snapped spring or a door hanging off its track holds a lot of stored force. Leave it where it is, unplug the opener, and call.
+
+## services_pick_head
+
+Start with the failure you are actually seeing
+
+## crosslink_head
+
+Different problem than this one?
+
