@@ -6,7 +6,7 @@
 
 - Individual build: PASS (`python3 template/build.py cincinnatipersonalinjurylawyerpros.com`)
 - Full shared build / duplicate-prose check: PASS (`python3 template/build.py`)
-- Home page: 2,477 visible words
+- Home page: 2,475 visible words
 - About: 323 visible words
 - Contact: 475 visible words
 - Assets: `hero.jpg` at 1800×1200; `work-1.jpg`, `work-2.jpg`, `work-3.jpg` at 900×600, progressive JPEG.

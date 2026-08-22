@@ -268,10 +268,27 @@ def build(domain, live=False, check_only=False, corpus=None):
             return n + " County"
         if len(names) == 1:
             return one(names[0])
-        # "Harris & Fort Bend County" only reads right when both take the word
+
+        def series(parts):
+            """Three or more chained on the separator reads as a run-on:
+            "Denver & Adams & Arapahoe & Jefferson". Comma the leading ones and
+            keep the separator for the last join only."""
+            if len(parts) == 2:
+                return sep.join(parts)
+            return ", ".join(parts[:-1]) + sep + parts[-1]
+
+        # "Harris & Fort Bend County" only reads right when both take the word,
+        # and it has to pluralise once there is more than one of them.
         if all(not n.endswith((" City", " Parish", " Borough")) for n in names):
-            return sep.join(names) + " County"
-        return sep.join(one(n) for n in names)
+            return series(names) + (" Counties" if len(names) > 1 else " County")
+        return series([one(n) for n in names])
+    def counties_surrounding(names, sep=" and ", city=None):
+        """Denver sits in Denver County, so "Denver and the surrounding Denver
+        County communities" is redundant. Drop the county that shares the city's
+        name; if that empties the list, keep the original."""
+        rest = [n for n in names if n.strip().lower() != (city or "").strip().lower()]
+        return counties_phrase(rest or names, sep)
+    env.filters["counties_surrounding"] = counties_surrounding
     env.filters["counties_phrase"] = counties_phrase
     _cp = counties_phrase
 
@@ -424,8 +441,8 @@ def build(domain, live=False, check_only=False, corpus=None):
            if legal else
            "There is no form on this page. A visit gets scheduled and the price is "
            "quoted before any work starts.</p>")
-        + f"<p>Coverage is {s['city']} and the surrounding "
-        f"{_cp(s['counties'])} communities, including "
+        + f"<p>Coverage is {s['city']} and the surrounding communities across "
+        f"{counties_surrounding(s['counties'], city=s['city'])}, including "
         f"{', '.join(s.get('neighborhoods', [])[:-1])} and "
         f"{s.get('neighborhoods', [''])[-1]}.</p>"
         f"<p><strong>Before you call:</strong> {c.get('emergency_note', '')}</p>"
