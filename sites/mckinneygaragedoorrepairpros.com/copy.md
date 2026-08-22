@@ -244,6 +244,9 @@ Nearly every McKinney call traces back to one of four failures. Each is explaine
 
 Read this as background rather than a verdict. Only a technician with eyes on the door can confirm what broke. Sorting it into roughly the right category beforehand is how the correct parts end up on the truck the first time.
 
+## expect_eyebrow
+Before the van pulls up
+
 ## expect_head
 
 Worth having ready before the truck arrives

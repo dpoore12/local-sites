@@ -270,6 +270,9 @@ Four moves account for most of what comes in from Orlando. Each one is a differe
 
 None of this replaces a walkthrough. The crew size and the truck come from the actual inventory and the access at both ends. Knowing which of the four moves you are booking is what gets the estimate right the first time.
 
+## expect_eyebrow
+Before the crew loads anything
+
 ## expect_head
 
 What sets the crew size and the truck

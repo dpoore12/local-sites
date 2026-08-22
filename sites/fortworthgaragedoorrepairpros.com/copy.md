@@ -396,6 +396,9 @@ Most Fort Worth calls trace back to one of four failures. Every one has a page o
 
 Treat this as background, not a verdict. What actually broke gets confirmed on site, and narrowing it down beforehand is what keeps a second trip off the job.
 
+## expect_eyebrow
+Before the truck arrives
+
 ## expect_head
 
 What to have ready before the truck arrives

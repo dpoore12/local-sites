@@ -157,7 +157,7 @@ def build(domain, live=False, check_only=False, corpus=None):
               # door" onto 81 sites including the law firms. They are authored per
               # site now, which also stops 14 same-niche sites sharing chrome.
               "urgency_bullet", "values_eyebrow", "values_head", "values_lede",
-              "factors_lede", "problem_lede", "problem_nudge", "expect_head",
+              "factors_lede", "problem_lede", "problem_nudge", "expect_eyebrow", "expect_head",
               "emergency_note",
               ] + (["services_summary", "services_pick_head", "crosslink_head"]
                    if phase == 2 else []):
@@ -259,6 +259,22 @@ def build(domain, live=False, check_only=False, corpus=None):
     env = Environment(loader=FileSystemLoader(str(TPL)), autoescape=select_autoescape(["html"]))
     env.filters["domain_of"] = domain_of
 
+    def counties_phrase(names, sep=" and "):
+        """Virginia Beach City is an independent city, not "Virginia Beach City
+        County". Louisiana has parishes. Only append County where it belongs."""
+        def one(n):
+            if n.endswith(" City") or n.endswith(" Parish") or n.endswith(" Borough"):
+                return n
+            return n + " County"
+        if len(names) == 1:
+            return one(names[0])
+        # "Harris & Fort Bend County" only reads right when both take the word
+        if all(not n.endswith((" City", " Parish", " Borough")) for n in names):
+            return sep.join(names) + " County"
+        return sep.join(one(n) for n in names)
+    env.filters["counties_phrase"] = counties_phrase
+    _cp = counties_phrase
+
     # A garage door site says "technician"; a wrongful death site must not. Derived
     # rather than stored so a site.json rewritten by a writer cannot lose it.
     legal = any(w in s["service"].lower() for w in ("lawyer", "attorney", "law"))
@@ -266,8 +282,8 @@ def build(domain, live=False, check_only=False, corpus=None):
     entity = "law firm and does not provide legal advice" if legal else "licensed contractor"
     hero_note = (("No obligation · Written for " if legal else
                   "Upfront pricing · No obligation · Local ")
-                 + (f"{s['city']} · {s['counties'][0]} County" if legal
-                    else f"{s['counties'][0]} County {pro}"))
+                 + (f"{s['city']} · {_cp([s['counties'][0]])}" if legal
+                    else f"{_cp([s['counties'][0]])} {pro}"))
     # Pre-tenant, this page cannot claim a fee arrangement, a credential, or who
     # picks up the phone -- none of that exists until a tenant signs.
     disclosure = ((
@@ -362,7 +378,7 @@ def build(domain, live=False, check_only=False, corpus=None):
            "There is no form on this page. A visit gets scheduled and the price is "
            "quoted before any work starts.</p>")
         + f"<p>Coverage is {s['city']} and the surrounding "
-        f"{' and '.join(s['counties'])} County communities, including "
+        f"{_cp(s['counties'])} communities, including "
         f"{', '.join(s.get('neighborhoods', [])[:-1])} and "
         f"{s.get('neighborhoods', [''])[-1]}.</p>"
         f"<p><strong>Before you call:</strong> {c.get('emergency_note', '')}</p>"

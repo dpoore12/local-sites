@@ -258,6 +258,9 @@ Four situations account for most of the dog bite questions that come in from San
 
 None of this is legal advice about your situation. Only an attorney who has seen your records and the county file can say what your claim actually looks like. Knowing which of the four you are in makes that review faster.
 
+## expect_eyebrow
+Before the ten-day quarantine ends
+
 ## expect_head
 
 What matters most after a bite

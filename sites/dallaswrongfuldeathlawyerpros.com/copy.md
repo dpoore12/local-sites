@@ -266,6 +266,9 @@ Four situations account for most of what brings Dallas families to a page like t
 
 None of this is legal advice about your family's situation, and no page can be. Only an attorney who has looked at the records and the relationships can say which claims exist and what has to be filed. Knowing which of the four you are dealing with is what makes that first conversation useful.
 
+## expect_eyebrow
+Before the three-month mark
+
 ## expect_head
 
 What is worth having in mind before you call

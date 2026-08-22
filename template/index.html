@@ -11,7 +11,7 @@
     <div class="trust-band">
       <ul>
         <li>{{ ico_bolt | safe }}{{ c.urgency_bullet }}</li>
-        <li>{{ ico_pin | safe }}{{ s.counties | join(" &amp; ") | safe }} County</li>
+        <li>{{ ico_pin | safe }}{{ s.counties | counties_phrase(" &amp; ") | safe }}</li>
         <li>{{ ico_check | safe }}{{ s.trust_third }}</li>
       </ul>
     </div>
@@ -57,7 +57,7 @@
       </li>
       <li class="stat">
         <span class="stat-badge" aria-hidden="true">{{ ico_check | safe }}</span>
-        <span class="stat-label">{{ s.counties | join(" and ") }} County coverage</span>
+        <span class="stat-label">{{ s.counties | counties_phrase }} coverage</span>
       </li>
     </ul>
   </div>

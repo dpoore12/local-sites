@@ -315,6 +315,9 @@ Four failures account for most of the repair calls that come in from Naperville.
 
 None of this is a diagnosis. Only a technician standing in front of the door can say what actually failed. Knowing which of the four you are looking at is what gets the right parts on the truck the first time.
 
+## expect_eyebrow
+Before the tech gets there
+
 ## expect_head
 
 What the technician needs to know

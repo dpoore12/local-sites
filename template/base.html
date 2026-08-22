@@ -33,7 +33,7 @@
 
 <footer>
   <div class="wrapper">
-    <p><strong>{{ s.brand }}</strong> &mdash; {{ s.service }} in {{ s.city }}, {{ s.state }}. Serving {{ s.city }} and the surrounding {{ s.counties | join(" and ") }} County communities.</p>
+    <p><strong>{{ s.brand }}</strong> &mdash; {{ s.service }} in {{ s.city }}, {{ s.state }}. Serving {{ s.city }} and the surrounding {{ s.counties | counties_phrase }} communities.</p>
     <p><a href="tel:{{ s.phone_tel }}">{{ s.phone_display }}</a></p>
     <div class="internal-links">
       <a href="{{ base }}">Home</a>

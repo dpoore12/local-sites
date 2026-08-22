@@ -267,6 +267,9 @@ Four situations account for most of the calls that come in from Tampa. Each one 
 
 None of this is legal advice and none of it is a comment on any particular case. It is how the process works in this county. What applies to a specific charge takes a lawyer reading the specific documents.
 
+## expect_eyebrow
+Before the first appearance
+
 ## expect_head
 
 What is worth having in front of you

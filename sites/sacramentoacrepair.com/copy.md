@@ -189,6 +189,9 @@ The call is short and nobody is going to sell you equipment on it. You will be a
 
 Nothing gets diagnosed over the phone and no replacement gets quoted sight unseen. The questions exist to get the right parts onto the truck and to tell you whether the system should be switched off at the breaker until someone arrives.
 
+## expect_eyebrow
+Before the diagnostic begins
+
 ## expect_head
 
 What the technician needs to know before dispatch

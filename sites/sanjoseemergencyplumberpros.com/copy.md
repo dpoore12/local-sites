@@ -170,6 +170,9 @@ The call is short. You will be asked whether water is still moving, where it is 
 
 Nobody is going to price a repipe or a sewer replacement sight unseen over the phone. The point of the call is to get the right machine and the right fittings on board, and to make sure the water is off before anyone arrives.
 
+## expect_eyebrow
+Before the water gets shut off
+
 ## expect_head
 
 What the plumber needs to know before rolling

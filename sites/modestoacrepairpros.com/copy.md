@@ -265,6 +265,9 @@ Four failures account for most of the cooling calls that come out of Modesto. Ea
 
 None of this is a diagnosis. Only gauges and a meter on your own equipment will confirm the failure. Recognising which of these four patterns matches your house is simply what puts the correct parts in the van before it sets out.
 
+## expect_eyebrow
+Before the service call starts
+
 ## expect_head
 
 What the technician needs to know

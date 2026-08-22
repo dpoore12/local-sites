@@ -41,7 +41,7 @@ BLOCKS = [
     # Band headings and the footer safety note. Authored per site so no niche
     # language is baked into the shared template and no two sites share chrome.
     "urgency_bullet", "values_eyebrow", "values_head", "values_lede",
-    "factors_lede", "problem_lede", "problem_nudge", "expect_head",
+    "factors_lede", "problem_lede", "problem_nudge", "expect_eyebrow", "expect_head",
     "emergency_note",
 ]
 

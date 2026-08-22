@@ -260,6 +260,9 @@ None of the above is legal advice about your crash, and nothing here promises a 
 
 If you are hurt, get medical care before anything else. Photographs, the police report number and the names of witnesses are worth collecting early, because footage and memories disappear within days.
 
+## expect_eyebrow
+Before you give a statement
+
 ## expect_head
 
 What to have with you for the consultation
