@@ -8,3 +8,6 @@ dist/
 *-research*.json
 research_*.json
 *-secondary-search.json
+
+# One-off writer helper scripts, kept out of the root
+tools/

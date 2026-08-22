@@ -117,9 +117,12 @@ justice, no stock lawyer portraits.
 
     cd /home/user/workspace/local-sites && python3 template/build.py <your-domain>
 
-Fix every ERROR until it passes. A `PLACEHOLDER` phone WARN is expected and
-correct — leave it alone. If it reports shared word runs, rewrite the block it
-names; do not delete the block.
+Fix every ERROR until it passes. If it reports shared word runs, rewrite the
+block it names; do not delete the block.
+
+Every site now carries a real Telnyx number in its own area code, so there
+should be no phone warning at all. If you see one, stop and report it rather
+than editing the phone fields.
 
 Then run the full build to check yourself against every other site:
 
