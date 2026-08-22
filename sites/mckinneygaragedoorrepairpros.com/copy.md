@@ -1,5 +1,5 @@
 # mckinneygaragedoorrepairpros.com -- hand-written copy
-# Garage Door Repair in Mckinney, TX  |  target keyword: garage door repair mckinney
+# Garage Door Repair in McKinney, TX  |  target keyword: garage door repair mckinney
 # Phase 1: home, about and contact only. No service pages, so each symptom card
 # carries the whole explanation of that failure.
 # Written: 2026-08-21  |  Status: pre-tenant  |  Nothing here may be reused elsewhere.

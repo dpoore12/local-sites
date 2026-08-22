@@ -291,6 +291,20 @@ def build(domain, live=False, check_only=False, corpus=None):
     # "Common failures" is wrong on a divorce site and "to book anything" is wrong
     # on any legal site. Authored blocks win; the fallbacks at least split legal
     # from trade so nothing reads as nonsense.
+    # More repair-trade chrome: a crash-law site has no "job types" and nothing
+    # "prompts the call". Authored blocks win; fallbacks split legal from trade.
+    gallery_eyebrow = s.get("gallery_eyebrow") or (
+        "What the work involves" if legal else "The work itself")
+    gallery_note = s.get("gallery_note") or (
+        f"Illustrative photographs only. No specific {s['city']} case, client or "
+        f"property is shown."
+        if legal else
+        f"Illustrative photographs of the kinds of work described on this page. "
+        f"No specific {s['city']} property is shown.")
+    symptoms_head = s.get("symptoms_head") or (
+        "What people are usually dealing with" if legal
+        else "What usually prompts the call")
+
     symptoms_eyebrow = s.get("symptoms_eyebrow") or (
         "Common situations" if legal else "Common failures")
     stat_a_num = s.get("stat_a_num") or "No forms"
@@ -352,7 +366,8 @@ def build(domain, live=False, check_only=False, corpus=None):
         facts_verified=max((f.get("verified", "") for f in facts), default=""),
         neighborhood_count=len(s.get("neighborhoods", [])),
         steps_head=steps_head, steps_sub=steps_sub,
-        symptoms_eyebrow=symptoms_eyebrow,
+        symptoms_eyebrow=symptoms_eyebrow, symptoms_head=symptoms_head,
+        gallery_eyebrow=gallery_eyebrow, gallery_note=gallery_note,
         stat_a_num=stat_a_num, stat_a_label=stat_a_label,
         stat_b_num=stat_b_num, stat_b_label=stat_b_label,
         ico=ICO,

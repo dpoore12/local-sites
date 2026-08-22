@@ -36,7 +36,7 @@
     {
       "id": "newer_housing_stock",
       "title": "A buildout-era housing base",
-      "claim": "Frisco's 2023 comprehensive-plan appendix reports 58,574 single-family housing units; 39.6% were built in 2000–2009, 31.2% in 2010–2019, and 11.4% in 2020 or later.",
+      "claim": "Frisco's 2023 comprehensive-plan appendix reports 58,574 single-family housing units; 39.6% were built in 2000\u20132009, 31.2% in 2010\u20132019, and 11.4% in 2020 or later.",
       "why_it_matters": "Many doors may still have the original builder-installed springs, rollers, bearings, and opener parts, so the inspection should look beyond the one component that first caught the homeowner's attention.",
       "sources": [
         "https://www.friscotexas.gov/DocumentCenter/View/36063/2040-Comp-Plan-Appendices-PDF"
@@ -93,7 +93,7 @@
       "h1": "Garage Door Spring Repair",
       "accent": "Same-Day Spring Replacement",
       "photo": "assets/work-1.jpg",
-      "keyword": "garage door spring repair Naperville",
+      "keyword": "garage door spring repair Frisco",
       "icon": "bolt"
     },
     {
@@ -103,7 +103,7 @@
       "h1": "Garage Door Opener Repair",
       "accent": "Sensors, Gears and Full Replacement",
       "photo": "assets/work-3.jpg",
-      "keyword": "garage door opener repair Naperville",
+      "keyword": "garage door opener repair Frisco",
       "icon": "gear"
     },
     {
@@ -113,7 +113,7 @@
       "h1": "Off-Track Garage Door Repair",
       "accent": "Cables, Rollers and Bent Track",
       "photo": "assets/work-2.jpg",
-      "keyword": "off track garage door repair Naperville",
+      "keyword": "off track garage door repair Frisco",
       "icon": "warn"
     },
     {
@@ -123,7 +123,7 @@
       "h1": "Garage Door Replacement",
       "accent": "Single Panels and Full Doors",
       "photo": "assets/hero.jpg",
-      "keyword": "garage door replacement Naperville",
+      "keyword": "garage door replacement Frisco",
       "icon": "house"
     }
   ],

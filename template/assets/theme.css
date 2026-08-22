@@ -970,7 +970,7 @@
 /* No element may push the page wider than the viewport on a phone. */
 html, body { overflow-x: hidden; max-width: 100%; }
 
-/* A long local brand ("Naperville Garage Door Pros" vs a two-word national one)
+/* A long local brand ("Overland Park Garage Door Pros" vs a two-word national one)
    pushes the top call button off a 390px viewport, where overflow-x:hidden would
    silently clip it. The sticky bottom bar already carries the call action on
    phones, so the duplicate in the top bar comes out instead. */

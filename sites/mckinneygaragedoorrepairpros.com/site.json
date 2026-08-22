@@ -1,10 +1,10 @@
 {
   "domain": "mckinneygaragedoorrepairpros.com",
   "phase": 1,
-  "brand": "Mckinney Garage Door Repair Pros",
+  "brand": "McKinney Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
-  "city": "Mckinney",
+  "city": "McKinney",
   "state": "TX",
   "state_full": "Texas",
   "counties": [
@@ -38,7 +38,7 @@
       "why_it_matters": "An unusually large share of McKinney garages are still running the exact hardware the production builder specified, typically one torsion spring rated near ten thousand cycles on a double-wide door, plus an entry-level chain opener of the same vintage. Both reach the end of their service life at roughly the same point, which is where the boom-decade housing stock now sits. The small pre-1940 pocket near the downtown square is the opposite case: shallow headroom, side-mounted springs and occasionally an original one-piece door. The completion decade tells the technician which parts to load.",
       "sources": [
         "https://www.mckinneytexas.org/DocumentCenter/View/33676/Updated-Section-II-Housing-Profile-and-Affordability?bidId=",
-        "https://www.point2homes.com/US/Neighborhood/TX/Mckinney-Demographics.html",
+        "https://www.point2homes.com/US/Neighborhood/TX/McKinney-Demographics.html",
         "https://stonebridgeranch.com/our-history/",
         "https://communityimpact.com/mckinney/craig-ranch-development-approaches-build-land-parcels-expected-sold-2018/",
         "https://communityimpact.com/mckinney/trinity-falls-mckinney-acquired-johnson-development/"
@@ -96,7 +96,7 @@
       "h1": "Garage Door Spring Repair",
       "accent": "Same-Day Spring Replacement",
       "photo": "assets/work-1.jpg",
-      "keyword": "garage door spring repair Naperville",
+      "keyword": "garage door spring repair McKinney",
       "icon": "bolt"
     },
     {
@@ -106,7 +106,7 @@
       "h1": "Garage Door Opener Repair",
       "accent": "Sensors, Gears and Full Replacement",
       "photo": "assets/work-3.jpg",
-      "keyword": "garage door opener repair Naperville",
+      "keyword": "garage door opener repair McKinney",
       "icon": "gear"
     },
     {
@@ -116,7 +116,7 @@
       "h1": "Off-Track Garage Door Repair",
       "accent": "Cables, Rollers and Bent Track",
       "photo": "assets/work-2.jpg",
-      "keyword": "off track garage door repair Naperville",
+      "keyword": "off track garage door repair McKinney",
       "icon": "warn"
     },
     {
@@ -126,7 +126,7 @@
       "h1": "Garage Door Replacement",
       "accent": "Single Panels and Full Doors",
       "photo": "assets/hero.jpg",
-      "keyword": "garage door replacement Naperville",
+      "keyword": "garage door replacement McKinney",
       "icon": "house"
     }
   ],
