@@ -33,8 +33,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "consent_decree_infrastructure",
+   "claim": "Atlanta's combined-sewer-overflow and sanitary-sewer-overflow federal consent decrees were issued in 1998 and 1999 and require an estimated $4 billion in water and sewer improvements. The city says its MOST-funded program has repaired or replaced more than 387 miles of aged sewer lines.",
+   "why_it_matters": "A recurring backup in an older Atlanta property deserves a real investigation. Clearing water at one fixture may solve the immediate problem, but the technician still needs to determine whether the private drain or lateral has a structural defect, root entry, or a blockage farther down the line.",
+   "sources": [
+    "https://atlantawatershed.org/most/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Atlanta has a long, documented sewer-rebuild history"
+  },
+  {
+   "id": "clay_sewer_condition",
+   "claim": "On January 3, 2026, the City of Atlanta Department of Watershed Management investigated a Georgia Avenue SE sinkhole that field inspection associated with a 24-inch clay combination sewer pipe about 18 feet deep.",
+   "why_it_matters": "The city-side incident does not identify any home's private lateral, but it documents that clay sewer infrastructure remains part of Atlanta's ground conditions. A repeated sewage backup needs a camera inspection and a location-based repair plan rather than a guess from inside the house.",
+   "sources": [
+    "https://atlantawatershed.org/news-release-january-2026-4/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Clay sewer infrastructure is still a documented Atlanta condition"
+  },
+  {
+   "id": "tree_impact_review",
+   "claim": "Since June 25, 2025, Atlanta has required a completed formal Arborist Meeting before a permit application involving potential impacts to trees is submitted; the city says applications without that documentation will not be accepted.",
+   "why_it_matters": "A failed buried lateral under a mature tree is not just a drain-clearing job. If permanent repair could affect the tree, the pipe location, access method, and city review requirements must be considered together before excavation begins.",
+   "sources": [
+    "https://www.atlantaga.gov/government/departments/city-planning/about-dcp/office-of-buildings"
+   ],
+   "verified": "2026-08-22",
+   "title": "Tree impacts can add a mandatory review step to a repair project"
+  }
+ ],
+ "neighborhoods": [
+  "Virginia-Highland",
+  "Inman Park",
+  "Grant Park",
+  "Kirkwood",
+  "Candler Park",
+  "West End"
+ ],
  "symptoms": [
   "burst_pipe",
   "overflowing_drain",

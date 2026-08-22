@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "arkansas_comparative_fault",
+   "claim": "Arkansas Code § 16-64-122 compares a claimant's fault with the fault of the party or parties from whom damages are sought. A claimant whose fault is less may recover damages reduced in proportion to that fault; a claimant whose fault is equal to or greater may not recover.",
+   "why_it_matters": "Responsibility needs to be investigated early. In a Jonesboro injury claim, photographs, witness information, reports, visibility conditions, and the complete sequence of events may affect both whether there is a claim and how damages are evaluated.",
+   "sources": [
+    "https://www.arkleg.state.ar.us/Home/FTPDocument?path=/Bills/1991/Public/SB645.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Arkansas has a 50-percent comparative-fault bar"
+  },
+  {
+   "id": "dual_district_circuit_court",
+   "claim": "Craighead County Circuit Court operates from a Western District location at 511 South Main Street in Jonesboro and an Eastern District courthouse at 107 Cobean Boulevard in Lake City.",
+   "why_it_matters": "The right civil filing location depends on the facts and venue rules, not simply the nearest courthouse. Accurate incident locations, addresses, and party information help determine where a Craighead County matter belongs.",
+   "sources": [
+    "https://craigheadcountyar.gov/jury"
+   ],
+   "verified": "2026-08-22",
+   "title": "Craighead County has two circuit-court districts"
+  },
+  {
+   "id": "regional_medical_draw",
+   "claim": "UAMS Family Medical Center in Jonesboro states that it serves an 11-county region that includes Craighead and surrounding Northeast Arkansas counties.",
+   "why_it_matters": "Care after an injury may involve facilities and providers beyond the county where the incident occurred. Listing every provider, treatment date, and record location keeps a claim timeline complete.",
+   "sources": [
+    "https://uamshealth.com/location/fmc-jonesboro/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Jonesboro care often reaches beyond Craighead County"
+  }
+ ],
+ "neighborhoods": [
+  "West End",
+  "Downtown",
+  "Hill Park",
+  "Sage Meadows",
+  "Candlewood",
+  "Ridgepointe"
+ ],
  "symptoms": [
   "injured_on_property",
   "medical_care_after_accident",

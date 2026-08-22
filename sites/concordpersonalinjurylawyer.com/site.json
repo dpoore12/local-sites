@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "workers_comp_exclusive_remedy",
+   "claim": "North Carolina General Statute § 97-10.1 provides that when an employee and employer are subject to and comply with the Workers’ Compensation Act, the rights and remedies granted by the Act exclude other rights and remedies against the employer for the injury or death.",
+   "why_it_matters": "A covered Concord work injury may proceed through workers’ compensation instead of an ordinary personal-injury lawsuit against the employer. The first legal task is identifying the work relationship and whether a separate party, such as a contractor, property owner, or equipment maker, may be involved.",
+   "sources": [
+    "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_97/GS_97-10.1.html"
+   ],
+   "verified": "2026-08-22",
+   "title": "A job injury may have a different legal route"
+  },
+  {
+   "id": "industrial_commission_form_18",
+   "claim": "The North Carolina Industrial Commission’s Form 18 instructions say the form establishes a legal claim when filed within the stated period and that an employer’s Form 19 does not satisfy the employee’s obligation to file a claim.",
+   "why_it_matters": "After a Concord work injury, an employer incident report is not the same thing as the employee’s claim. Keeping copies, reporting promptly, and identifying the Industrial Commission process early can prevent the file from being treated as complete when it is not.",
+   "sources": [
+    "https://www.ic.nc.gov/media/326/download?attachment",
+    "https://www.ic.nc.gov/forms.html"
+   ],
+   "verified": "2026-08-22",
+   "title": "An employer report is not the employee’s claim"
+  },
+  {
+   "id": "concord_aviation_employment",
+   "claim": "The City of Concord reports that Concord-Padgett Regional Airport supports 4,430 local jobs, has 226 based aircraft, and is home to NASCAR’s air force and several flight schools.",
+   "why_it_matters": "A serious incident in Concord can arise in an airport, motorsports, manufacturing, or contractor setting with more than one company at the site. Sorting the employer, staffing company, contractor, property operator, and equipment roles directs the search for the right records and claim path.",
+   "sources": [
+    "https://concordnc.gov/Services/Community/News/ID/193/Concord-Padgett-Regional-Airport-Generates-$900-Million-Economic-Impact"
+   ],
+   "verified": "2026-08-22",
+   "title": "Concord work sites can involve several separate roles"
+  }
+ ],
+ "neighborhoods": [
+  "Gibson Mill Village",
+  "Logan",
+  "Wil-Mar Park",
+  "Beverly Hills",
+  "Highland Park",
+  "Underwood Park"
+ ],
  "symptoms": [
   "injured_on_property",
   "medical_care_after_accident",

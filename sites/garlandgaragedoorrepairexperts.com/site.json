@@ -31,8 +31,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "municipal_power_provider",
+   "claim": "Garland Power & Light is the City of Garland's municipally owned electric utility and the sole electricity provider for approximately 85% of Garland residents. Addresses outside its service area may use another electric provider.",
+   "why_it_matters": "A dark opener can be a garage-circuit or utility issue rather than an opener failure. Checking whether the outlet has power and which utility serves the address helps separate a service interruption from a repairable opener, sensor, or door-balance fault before parts are recommended.",
+   "sources": [
+    "https://www.garlandtx.gov/2119/Service-Providers-Connections"
+   ],
+   "verified": "2026-08-22",
+   "title": "Most Garland homes are on the city's own electric utility"
+  },
+  {
+   "id": "may_2024_power_outage",
+   "claim": "After the May 28, 2024 storm, the City of Garland reported that about 35,000 Garland Power & Light customers had lost power. It also reported that some outages required repairs and that street blockages had to be cleared before crews could access some neighborhoods.",
+   "why_it_matters": "After a major local outage, a dead or reset garage-door opener may be reacting to a powerless outlet, tripped breaker, or power-return event instead of needing immediate replacement. Technicians should check the power source and the door's mechanical balance before diagnosing the opener head.",
+   "sources": [
+    "https://www.garlandtx.gov/CivicAlerts.aspx?AID=3339"
+   ],
+   "verified": "2026-08-22",
+   "title": "Storm outages can change the first opener check"
+  },
+  {
+   "id": "ef4_tornado_2015",
+   "claim": "The National Weather Service identifies the Sunnyvale-Garland-Rowlett tornado of December 26, 2015 as an EF4 and reports the most intense damage of that North and Central Texas tornado outbreak occurred with that tornado.",
+   "why_it_matters": "After a wind event or falling debris, a dented garage-door panel is not the only concern. The inspection should also look for bent track, bowed reinforcement struts, shifted brackets, loose cables, and rollers that no longer sit correctly in the rail.",
+   "sources": [
+    "https://www.weather.gov/fwd/dec26tornadoes"
+   ],
+   "verified": "2026-08-22",
+   "title": "Garland has a documented severe-wind reason to inspect the whole door"
+  }
+ ],
+ "neighborhoods": [
+  "Williams",
+  "Western Heights",
+  "Freeman Heights",
+  "Quail Creek",
+  "Firewheel Farms",
+  "Duck Creek"
+ ],
  "symptoms": [
   "broken_torsion_spring",
   "door_reverses_before_closing",

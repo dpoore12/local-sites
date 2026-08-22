@@ -31,8 +31,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "ninth_circuit_pti_screen",
+   "title": "A local PTI screen, not an automatic result",
+   "claim": "The Ninth Judicial Circuit State Attorney\u2019s Pretrial Intervention program requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a reported alcohol level above .22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license.",
+   "why_it_matters": "Diversion is a local, fact-specific possibility rather than a result that follows automatically from a first DUI arrest. The charge, history, and case facts have to be screened early.",
+   "sources": [
+    "https://sao9th.com/second-chance-program/pretrial-intervention-pti/"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "florida_interlock_rules",
+   "title": "Ignition interlock can control when driving resumes",
+   "claim": "Florida Statute 322.2715 sets ignition-interlock minimums that vary by conviction and facts: at least six months in specified first-offense situations, at least one year for a second DUI, two years for a third DUI, and five years for a fourth or later DUI.",
+   "why_it_matters": "An interlock is tied to issuance of a permanent or restricted driver license. Its length and vehicle coverage need to be considered when evaluating the consequences of a proposed disposition.",
+   "sources": [
+    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.2715.html"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "orange_county_case_location",
+   "title": "The court location depends on the case and notice",
+   "claim": "Orange County Clerk says felony criminal cases are processed at the Orange County Courthouse in downtown Orlando, while misdemeanor cases can be processed at any of its locations, and directs people to their court paperwork for arraignment location.",
+   "why_it_matters": "A DUI defendant should follow the individual court notice for the correct time and place rather than assume that every Orange County criminal case starts at the same courthouse.",
+   "sources": [
+    "http://www.myorangeclerk.com/Divisions/Criminal/Criminal-Court"
+   ],
+   "verified": "2026-08-22"
+  }
+ ],
+ "neighborhoods": [
+  "Thornton Park",
+  "College Park",
+  "Parramore",
+  "Lake Nona",
+  "Baldwin Park",
+  "Audubon Park"
+ ],
  "symptoms": [
   "first_dui_arrest",
   "license_suspension_notice",

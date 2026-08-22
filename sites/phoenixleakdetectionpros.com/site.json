@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "water_hardness_2025",
+   "claim": "Phoenix\u2019s 2025 Water Quality Report lists total hardness at 172\u2013302 ppm, or 10\u201317.6 grains per gallon, and says hard water can cause scaling in pipes, water heaters, and plumbing fixtures.",
+   "why_it_matters": "Mineral scale is a useful condition to inspect in older copper and at fixtures when pressure or water-loss symptoms appear. It is not proof of a pinhole leak, so the technician still isolates and tests the affected system before recommending a repair.",
+   "sources": [
+    "https://www.phoenix.gov/content/dam/phoenix/waterservicessite/documents/wsdprimarywqr.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Phoenix water carries enough minerals to leave plumbing scale"
+  },
+  {
+   "id": "sewer_fee_review_2026",
+   "claim": "Phoenix Water Services says its Sewer Fee Review may adjust a sewer fee when higher-than-usual water use is caused by broken plumbing or outdoor irrigation equipment. For the 2026 review, requests received more than 60 days after the July bill date are not eligible, and prior years cannot be adjusted.",
+   "why_it_matters": "A sudden City Services bill is often the first practical sign of a hidden leak. Keeping bills and repair records gives a homeowner the documentation needed to check current eligibility, while prompt detection prevents additional loss.",
+   "sources": [
+    "https://www.phoenix.gov/administration/departments/waterservices/city-services-bill/submit-a-sewer-fee-review.html"
+   ],
+   "verified": "2026-08-22",
+   "title": "A bill spike has a time-sensitive city review path"
+  },
+  {
+   "id": "subsidence_earth_fissures",
+   "claim": "The Arizona Geological Survey says groundwater withdrawal can drive land subsidence and earth-fissure formation, and lists Maricopa County among counties that host earth fissures. It notes that fissures can damage utility lines, roads, and canals.",
+   "why_it_matters": "Ground movement is a reason to carefully evaluate a buried water-line route when testing points outside the house. It does not diagnose a fissure or establish the cause of a specific leak; the pipe still needs evidence-based detection at the property.",
+   "sources": [
+    "https://azgs.arizona.edu/earth-fissures-ground-subsidence/more-arizonas-earth-fissures"
+   ],
+   "verified": "2026-08-22",
+   "title": "Buried lines in Maricopa County may face changing ground conditions"
+  }
+ ],
+ "neighborhoods": [
+  "Arcadia",
+  "Coronado",
+  "Encanto-Palmcroft",
+  "Garfield",
+  "Willo",
+  "Roosevelt"
+ ],
  "symptoms": [
   "high_water_bill",
   "wet_spot_on_floor",

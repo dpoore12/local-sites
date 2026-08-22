@@ -29,8 +29,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "four_service_utility",
+   "claim": "Colorado Springs Utilities delivers electricity, natural gas, water, and wastewater services to the Pikes Peak region as a community-owned municipal utility.",
+   "why_it_matters": "A no-water or sewer complaint must be separated into a private plumbing failure and a possible utility-side problem. A technician repairs the property-side system; public utility infrastructure needs the utility response.",
+   "sources": [
+    "https://www.csu.org/about/"
+   ],
+   "verified": "2026-08-22",
+   "title": "One municipal utility handles four essential services"
+  },
+  {
+   "id": "altitude_freeze_thaw",
+   "claim": "The FAA lists Colorado Springs Municipal Airport at 6,147 feet above mean sea level. NWS 1991\u20132020 normals for Colorado Springs show a January high of 45.0\u00b0F and low of 18.5\u00b0F, putting thawing afternoons and freezing nights in the same ordinary winter day.",
+   "why_it_matters": "A vulnerable pipe can freeze overnight and reveal a split when it thaws. At this elevation, a gas water-heater replacement also needs the model-specific high-altitude instructions checked rather than a casual like-for-like assumption.",
+   "sources": [
+    "https://www.faa.gov/cos",
+    "https://www.weather.gov/pub/climateCosDailyNormalsRecords",
+    "https://assets.hotwater.com/damroot/Original/1000/100282340.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "More than 6,000 feet up, winter plumbing crosses freezing every day"
+  },
+  {
+   "id": "water_heater_permit_rule",
+   "claim": "Pikes Peak Regional Building Department requires permits and inspections for both gas and electric water-heater installations. Its local handout requires, among other checks, an appliance listed for the application, safe venting and combustion air, shutoffs, relief-valve discharge, and expansion control where applicable.",
+   "why_it_matters": "An emergency can require a leaking water heater to be isolated immediately, but replacing it is a permitted installation with specific safety checks. The immediate repair and a full replacement should be explained as distinct work.",
+   "sources": [
+    "https://www.pprbd.org/File/Resources/Downloads/ResidentialHandout/Water%20heater%20installation%20ACCESS.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Water-heater replacement is a permitted, inspected installation"
+  }
+ ],
+ "neighborhoods": [
+  "Downtown",
+  "Old Colorado City",
+  "Patty Jewett",
+  "Rockrimmon",
+  "Briargate",
+  "Old North End"
+ ],
  "symptoms": [
   "burst_pipe",
   "overflowing_drain",

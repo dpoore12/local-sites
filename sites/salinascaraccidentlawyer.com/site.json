@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "south_of_salinas_agricultural_corridor",
+   "claim": "Caltrans describes the approximately eight-mile US 101 corridor from south of Salinas to Chualar as a daily route for residents, commuters, farmworkers, freight operators, and regional agricultural transport. The corridor has 11 at-grade intersections and seven at-grade rail crossings.",
+   "why_it_matters": "A collision near Salinas can involve more than two privately owned cars. A crew vehicle, work pickup, produce truck, or other farm-related vehicle may require early attention to ownership, work use, vehicle markings, dispatch records, and the exact intersection or access point. Those facts do not establish fault, but they identify evidence that may not be obvious at the scene.",
+   "sources": [
+    "https://engage.dot.ca.gov/05-0h330"
+   ],
+   "verified": "2026-08-22",
+   "title": "Agricultural traffic changes the evidence search"
+  },
+  {
+   "id": "salinas_ots_crash_rankings_2023",
+   "claim": "California's Office of Traffic Safety recorded 503 people killed or injured in Salinas traffic crashes in 2023. Its Salinas ranking lists 57 hit-and-run and 63 speed-related fatal-and-injury collisions that year.",
+   "why_it_matters": "These figures do not decide an individual claim. They show why the specific report, scene location, vehicle evidence, witness information, treatment records, and insurance documents must be preserved instead of relying on a general account of how crashes happen in the city.",
+   "sources": [
+    "https://www.ots.ca.gov/rankings/salinas-2023/"
+   ],
+   "verified": "2026-08-22",
+   "title": "City-wide crash data is context, not proof"
+  },
+  {
+   "id": "monterey_civil_division_routing",
+   "claim": "Monterey County Superior Court's local rules place civil proceedings in the Monterey Division, with the civil division at the Monterey Courthouse. The rules allow non-mandatory electronic filings to be delivered at Salinas, Marina, or Monterey and provide that a filing received at an authorized courthouse is date-stamped when received before routing to the location with appropriate jurisdiction.",
+   "why_it_matters": "A Salinas crash does not mean every civil step takes place at the Salinas Courthouse. If a claim advances beyond insurance, the pleadings, venue, court rules, and timing need to be handled through the county's actual civil-division structure rather than assumed from the collision location.",
+   "sources": [
+    "https://www.monterey.courts.ca.gov/system/files/local-rules/local-rules-jc-january-2026-cycle.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Civil cases follow Monterey County's division rules"
+  }
+ ],
+ "neighborhoods": [
+  "Alisal",
+  "East Salinas",
+  "Monte Bella",
+  "Chinatown",
+  "Harden Ranch",
+  "Westridge"
+ ],
  "symptoms": [
   "rear_end_collision_injury",
   "hit_and_run_crash",

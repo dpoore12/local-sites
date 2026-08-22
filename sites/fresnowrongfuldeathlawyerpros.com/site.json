@@ -29,8 +29,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "california_claim_paths",
+   "claim": "California separates a wrongful death action for eligible survivors under Code of Civil Procedure section 377.60 from a survival action that passes the decedent's own claim to a personal representative or, if none, a successor in interest under section 377.30. Section 377.34 generally excludes the decedent's pain, suffering, and disfigurement from survival damages, subject to statutory exceptions.",
+   "why_it_matters": "The people who lost a family member may have their own wrongful death claim, while a different person may need authority to bring the survival action. Keeping those paths separate changes who is included, what documents are needed, and which losses are being evaluated.",
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=377.60.",
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=377.30.",
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=377.34."
+   ],
+   "verified": "2026-08-22",
+   "title": "California uses two different claim paths after a death"
+  },
+  {
+   "id": "fresno_civil_venue",
+   "claim": "Fresno County Superior Court states that Unlimited Civil cases are heard at the B. F. Sisk Courthouse, 1130 O Street, Fresno, CA 93721.",
+   "why_it_matters": "A wrongful death case can require an Unlimited Civil filing, but venue depends on the case facts. When Fresno Superior Court is the correct venue, the court's civil division and filing location are concrete local details rather than an abstract reference to 'the courthouse.'",
+   "sources": [
+    "https://www.fresno.courts.ca.gov/divisions/civil/civil-unlimited"
+   ],
+   "verified": "2026-08-22",
+   "title": "Fresno's Unlimited Civil cases have a named filing location"
+  },
+  {
+   "id": "agricultural_work",
+   "claim": "A Fresno County economic study found that agricultural production and processing directly supported 63,103 jobs in 2023.",
+   "why_it_matters": "A local work death may involve a farm, packing operation, processor, labor contractor, transportation provider, equipment maker, or property owner. Preserving the employer, worksite, equipment, and coworker records early helps determine which relationships need to be examined.",
+   "sources": [
+    "https://www.fresnocountyca.gov/files/sharedassets/county/v/1/agricultural-commissioner/ag-crop-reports/economic-contributions-of-fresno-county-agriculture.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Agriculture and processing shape Fresno County work records"
+  }
+ ],
+ "neighborhoods": [
+  "Downtown Fresno",
+  "Tower District",
+  "Fig Garden",
+  "Sunnyside",
+  "Woodward Park",
+  "Mural District"
+ ],
  "symptoms": [
   "fatal_car_crash",
   "fatal_workplace_accident",

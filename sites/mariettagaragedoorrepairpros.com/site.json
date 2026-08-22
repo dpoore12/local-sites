@@ -1,104 +1,143 @@
 {
- "domain": "mariettagaragedoorrepairpros.com",
- "phase": 1,
- "brand": "Marietta Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Marietta",
- "state": "GA",
- "state_full": "Georgia",
- "counties": [
-  "Cobb"
- ],
- "area_codes": [
-  "678",
-  "770"
- ],
- "phone_display": "(678) 719-4781",
- "phone_tel": "+16787194781",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [],
- "neighborhoods": [],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Marietta",
-   "icon": "bolt"
+  "domain": "mariettagaragedoorrepairpros.com",
+  "phase": 1,
+  "brand": "Marietta Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Marietta",
+  "state": "GA",
+  "state_full": "Georgia",
+  "counties": [
+    "Cobb"
+  ],
+  "area_codes": [
+    "678",
+    "770"
+  ],
+  "phone_display": "(678) 719-4781",
+  "phone_tel": "+16787194781",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Marietta",
-   "icon": "gear"
+  "local_facts": [
+    {
+      "id": "humid_north_georgia_climate",
+      "claim": "The National Weather Service describes north Georgia summers as long spells of warm, humid weather; the region averages 50 to 55 inches of rain and about 120 days with measurable rainfall in a typical year.",
+      "why_it_matters": "Damp air, rain, pollen, and grit can accelerate surface corrosion on steel cables, shafts, bearings, and fasteners, while wood panels or lower rails can absorb moisture and bind. The technician checks drag and balance rather than asking the opener to force a sticky door shut.",
+      "sources": [
+        "https://www.weather.gov/ffc/clisumlst"
+      ],
+      "verified": "2026-08-22",
+      "title": "Marietta garage doors work through a long wet season"
+    },
+    {
+      "id": "marietta_building_permit_scope",
+      "claim": "The City of Marietta says a permit is required whenever an owner or contractor intends to construct, enlarge, alter, repair, move, or demolish a building or structure; it processes permits online through SagesGov.",
+      "why_it_matters": "A spring, cable, roller, or opener repair is not the same project as replacing the door assembly or changing the opening. Because the city page gives no garage-door-only exemption, the address and scope should be confirmed with Building Inspections before a replacement order. Addresses outside the city limits may be under Cobb County instead.",
+      "sources": [
+        "https://www.mariettaga.gov/443/Building-Permits"
+      ],
+      "verified": "2026-08-22",
+      "title": "Door replacement can be a permit question in Marietta"
+    },
+    {
+      "id": "downtown_historic_review",
+      "claim": "Marietta requires a Certificate of Approval application to its Historic Board of Review for any exterior work in the Downtown Historic District, and states that building permits will not be issued without an approved certificate when one is required.",
+      "why_it_matters": "A visible door replacement downtown requires more than a size and insulation decision. Materials, color, window layout, and the appearance of a garage or other accessory building should be checked against the historic review process before a door is selected or ordered.",
+      "sources": [
+        "https://www.mariettaga.gov/DocumentCenter/View/1479/Application-for-Certificate-of-Approval",
+        "https://www.mariettaga.gov/DocumentCenter/View/605"
+      ],
+      "verified": "2026-08-22",
+      "title": "A downtown garage door can be subject to exterior review"
+    }
+  ],
+  "neighborhoods": [
+    "Charlton Forge",
+    "Dunleith",
+    "East Park Community",
+    "Frasier Park",
+    "North Marietta Neighborhood",
+    "Westside Subdivision"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Marietta",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Marietta",
-   "icon": "house"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Marietta",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Marietta",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Marietta",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Marietta",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair marietta",
+    "monthly_price": 500,
+    "score": 65,
+    "volume": 200,
+    "cpc_usd": 45.0,
+    "weakest_competitor": "all4seasonsgarages.com",
+    "competitor_dr": 19.0
   }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair marietta",
-  "monthly_price": 500,
-  "score": 65,
-  "volume": 200,
-  "cpc_usd": 45.0,
-  "weakest_competitor": "all4seasonsgarages.com",
-  "competitor_dr": 19.0
- }
 }

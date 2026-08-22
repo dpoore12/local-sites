@@ -30,8 +30,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "nevada_negligence_framework",
+   "claim": "Nevada has no statewide civil dog-bite statute imposing automatic owner liability. Civil dog-bite claims are generally analyzed under negligence principles, while NRS 202.500 separately defines and regulates dangerous and vicious dogs.",
+   "why_it_matters": "The evidence file must do more than show that a bite occurred. It should preserve how the dog was handled, who controlled it, any prior behavior or warnings, the precise place, and the injury record. Local animal-control rules may be important evidence but do not replace the civil analysis.",
+   "sources": [
+    "https://www.justia.com/injury/premises-liability/animal-dog-bites/dog-bite-law-50-state-survey/",
+    "https://www.leg.state.nv.us/nrs/nrs-202.html#NRS202Sec500"
+   ],
+   "verified": "2026-08-22",
+   "title": "Nevada uses negligence, not an automatic bite statute"
+  },
+  {
+   "id": "jurisdiction_split",
+   "claim": "Clark County Animal Protection Services serves unincorporated Clark County only and verifies jurisdiction for calls. The City of Las Vegas separately operates Animal Protection Services for the city jurisdiction, which it describes as spanning 140 square miles.",
+   "why_it_matters": "Many valley locations use a Las Vegas mailing address but are not inside the City of Las Vegas. The street address can determine which animal-control agency receives a bite report and which local ordinance record may exist, so a zip code alone is not enough.",
+   "sources": [
+    "https://www.clarkcountynv.gov/government/departments/administrative_services/animal_protection_services/report-a-complaint",
+    "https://www.lasvegasnevada.gov/Government/Departments/Public-Safety/Animal-Protection-Services"
+   ],
+   "verified": "2026-08-22",
+   "title": "City and county animal protection split at the boundary"
+  },
+  {
+   "id": "city_animal_code",
+   "claim": "Las Vegas Municipal Code \u00a7 7.04.100 defines a bite as a puncture or tear of the skin inflicted by an animal\u2019s teeth. The same chapter defines dangerous and vicious animals by reference to the declaration procedure in \u00a7 7.16.010.",
+   "why_it_matters": "For a bite within City of Las Vegas limits, the municipal animal-control process can create a local public-safety record and may identify the animal, owner, and incident details. It is separate from medical care and separate from a civil damages claim.",
+   "sources": [
+    "https://library.municode.com/nv/las_vegas/codes/code_of_ordinances?nodeId=TIT7AN_CH7.04DE"
+   ],
+   "verified": "2026-08-22",
+   "title": "The City has its own bite and dangerous-animal process"
+  }
+ ],
+ "neighborhoods": [
+  "Downtown Las Vegas",
+  "East Las Vegas",
+  "Twin Lakes",
+  "Summerlin North",
+  "Lone Mountain",
+  "Centennial Hills"
+ ],
  "symptoms": [
   "bitten_by_dog",
   "child_bitten_by_dog",

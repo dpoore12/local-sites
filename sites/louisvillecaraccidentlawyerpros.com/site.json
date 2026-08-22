@@ -29,8 +29,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "kentucky_no_fault_election",
+   "claim": "Kentucky generally treats drivers as having accepted motor-vehicle-reparations tort limitations, but a person can reject those limits only by a written or electronic form filed with the Department of Insurance before the crash. Basic reparation benefits for one person's economic loss are capped at $10,000 per accident.",
+   "why_it_matters": "A Louisville crash claim must start by finding the declarations page and any rejection form. A driver who accepted the limits may still qualify for a noneconomic claim through the statute's medical-expense threshold or serious-injury categories; a driver with a timely rejection retains full tort rights but may affect basic-reparation-benefit eligibility.",
+   "sources": [
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30030",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57854"
+   ],
+   "verified": "2026-08-22",
+   "title": "Your policy election can change the right to sue"
+  },
+  {
+   "id": "jefferson_circuit_court",
+   "claim": "The Kentucky Court of Justice lists the Jefferson County Judicial Center, 700 W. Jefferson St. in Louisville, as housing Circuit Court and identifies Circuit Civil/Criminal among its functions.",
+   "why_it_matters": "A lawsuit is a formal Jefferson County court process, not an insurer negotiation tactic. Before filing, the parties, evidence, coverage documents, pleading requirements, and applicable timing need to fit the actual case and court.",
+   "sources": [
+    "https://kycourts.gov/Courts/County-Information/Pages/Jefferson.aspx"
+   ],
+   "verified": "2026-08-22",
+   "title": "Civil auto-injury cases have a local court path"
+  },
+  {
+   "id": "jefferson_crashes_2024",
+   "claim": "KYTC's 2020-2024 traffic crash analysis reports 25,417 public-road crashes in Jefferson County in 2024; 4.2% were fatal or injury crashes in the county table.",
+   "why_it_matters": "The volume of Louisville-area collisions makes early preservation practical: obtain the report number, identify witnesses, document the scene and vehicles, and request any nearby video before it is overwritten.",
+   "sources": [
+    "https://transportation.ky.gov/HighwaySafety/KYTrafficCrashAnalysis/AnalysisTrafficCrash2020-2024.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Jefferson County's crash volume makes early evidence preservation matter"
+  }
+ ],
+ "neighborhoods": [
+  "Old Louisville",
+  "The Highlands",
+  "Germantown",
+  "NuLu",
+  "Clifton",
+  "Crescent Hill"
+ ],
  "symptoms": [
   "rear_end_collision_injury",
   "hit_and_run_crash",

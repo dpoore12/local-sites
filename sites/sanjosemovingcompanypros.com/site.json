@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "cal_t_and_not_to_exceed",
+   "claim": "For an intrastate household move that begins and ends in California, a mover's advertising and moving documents must show its Bureau-issued CAL-T number. California's Maximum Rate Tariff 4 requires a written Agreement for Moving Services with a Not to Exceed Price before service begins, subject to bona fide written change orders.",
+   "why_it_matters": "A San Jose household staying in California should verify the mover's Cal-T authority and read the completed agreement before loading. The Cal-T number is a checkable license identifier, and the written Not to Exceed Price is more protective than a verbal or generic online quote.",
+   "sources": [
+    "https://bhgs.dca.ca.gov/forms_pubs/20240101_maxtariff.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "A California move has a Cal-T number and a written price ceiling"
+  },
+  {
+   "id": "interstate_rule_change",
+   "claim": "A household move from San Jose to another state is governed by federal interstate rules rather than California's intrastate tariff. FMCSA says the carrier must provide a written estimate based on an actual or virtual inspection; a binding estimate protects the stated delivery amount, while a non-binding estimate is subject to a 110-percent collection limit at delivery.",
+   "why_it_matters": "A state line changes the paperwork, estimate protections, and carrier verification steps. A San Jose household moving out of California should ask whether its federal estimate is binding or non-binding rather than assuming that a California Not to Exceed agreement applies.",
+   "sources": [
+    "https://www.fmcsa.dot.gov/consumer-protection/protect-your-move/what-binding-move-estimate",
+    "https://www.fmcsa.dot.gov/consumer-protection/what-are-my-rights-and-responsibilities-when-moving"
+   ],
+   "verified": "2026-08-22",
+   "title": "The protections change when a San Jose move crosses a state line"
+  },
+  {
+   "id": "san_jose_curb_access",
+   "claim": "San José lists tow-away permits and Downtown lane-closure permits through its Department of Transportation. The City strongly recommends submitting a tow-away application at least two weeks in advance and says transportation-permit processing can take two business days or more.",
+   "why_it_matters": "For apartment buildings, Downtown addresses, and difficult curbs, truck access must be coordinated before moving day. Building permission alone does not create a legal loading space, so an access plan may require a City permit and an early reservation.",
+   "sources": [
+    "https://www.sanjoseca.gov/your-government/departments-offices/transportation/permits"
+   ],
+   "verified": "2026-08-22",
+   "title": "The curb can need as much planning as the apartment"
+  }
+ ],
+ "neighborhoods": [
+  "Downtown San Jose",
+  "Willow Glen",
+  "Japantown",
+  "Rose Garden",
+  "Almaden Valley",
+  "Evergreen"
+ ],
  "symptoms": [
   "moving_locally",
   "moving_long_distance",
