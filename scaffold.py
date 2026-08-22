@@ -123,6 +123,7 @@ def build_site(row, pack):
         # is earning. site.json still carries the service definitions now so
         # phase 2 is purely a writing job later, not a config job.
         "phase": 1,
+        **({"pro_noun": pack["pro_noun"]} if pack.get("pro_noun") else {}),
         "brand": brand_for(city, pack["service"]),
         "service": pack["service"],
         "service_inline": pack["service_inline"],

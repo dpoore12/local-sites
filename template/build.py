@@ -278,7 +278,9 @@ def build(domain, live=False, check_only=False, corpus=None):
     # A garage door site says "technician"; a wrongful death site must not. Derived
     # rather than stored so a site.json rewritten by a writer cannot lose it.
     legal = any(w in s["service"].lower() for w in ("lawyer", "attorney", "law"))
-    pro = "attorney" if legal else "technician"
+    # A mover is not a technician, a hauler is not a technician. Niche packs may
+    # override; anything unset falls back to technician.
+    pro = "attorney" if legal else (s.get("pro_noun") or "technician")
     entity = "law firm and does not provide legal advice" if legal else "licensed contractor"
     hero_note = (("No obligation · Written for " if legal else
                   "Upfront pricing · No obligation · Local ")
