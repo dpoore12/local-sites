@@ -84,8 +84,8 @@
     "local_business": false,
     "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
   "services": [
     {
       "slug": "rear-end-collision-lawyer",

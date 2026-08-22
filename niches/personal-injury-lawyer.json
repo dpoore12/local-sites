@@ -1,57 +1,57 @@
 {
-  "service": "Personal Injury Lawyer",
-  "service_inline": "personal injury lawyer",
-  "emergency": false,
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
-  "services": [
-    {
-      "slug": "slip-and-fall-lawyer",
-      "name": "Slip and Fall Claims",
-      "nav": "Slip and fall",
-      "h1": "Slip and Fall Lawyer",
-      "accent": "Hazards, Evidence and Injury Claims",
-      "keyword": "slip and fall lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "medical-malpractice-lawyer",
-      "name": "Medical Malpractice Claims",
-      "nav": "Medical malpractice",
-      "h1": "Medical Malpractice Lawyer",
-      "accent": "Records, Harm and Claim Review",
-      "keyword": "medical malpractice lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "product-liability-lawyer",
-      "name": "Product Liability Claims",
-      "nav": "Product liability",
-      "h1": "Product Liability Lawyer",
-      "accent": "Defects, Warnings and Liability",
-      "keyword": "product liability lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "catastrophic-injury-lawyer",
-      "name": "Catastrophic Injury Claims",
-      "nav": "Catastrophic injuries",
-      "h1": "Catastrophic Injury Lawyer",
-      "accent": "Long-Term Needs and Damages",
-      "keyword": "catastrophic injury lawyer",
-      "icon": "bolt"
-    }
-  ],
-  "symptoms": [
-    "injured_on_property",
-    "medical_care_after_accident",
-    "defective_product_injury",
-    "life_changing_injury"
-  ],
-  "symptom_service": [
-    "slip-and-fall-lawyer",
-    "medical-malpractice-lawyer",
-    "product-liability-lawyer",
-    "catastrophic-injury-lawyer"
-  ]
+ "service": "Personal Injury Lawyer",
+ "service_inline": "personal injury lawyer",
+ "emergency": false,
+ "hero_accent": "What An Injury Claim Actually Involves",
+ "trust_third": "Deadlines and liability rules, spelled out",
+ "services": [
+  {
+   "slug": "slip-and-fall-lawyer",
+   "name": "Slip and Fall Claims",
+   "nav": "Slip and fall",
+   "h1": "Slip and Fall Lawyer",
+   "accent": "Hazards, Evidence and Injury Claims",
+   "keyword": "slip and fall lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "medical-malpractice-lawyer",
+   "name": "Medical Malpractice Claims",
+   "nav": "Medical malpractice",
+   "h1": "Medical Malpractice Lawyer",
+   "accent": "Records, Harm and Claim Review",
+   "keyword": "medical malpractice lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "product-liability-lawyer",
+   "name": "Product Liability Claims",
+   "nav": "Product liability",
+   "h1": "Product Liability Lawyer",
+   "accent": "Defects, Warnings and Liability",
+   "keyword": "product liability lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "catastrophic-injury-lawyer",
+   "name": "Catastrophic Injury Claims",
+   "nav": "Catastrophic injuries",
+   "h1": "Catastrophic Injury Lawyer",
+   "accent": "Long-Term Needs and Damages",
+   "keyword": "catastrophic injury lawyer",
+   "icon": "bolt"
+  }
+ ],
+ "symptoms": [
+  "injured_on_property",
+  "medical_care_after_accident",
+  "defective_product_injury",
+  "life_changing_injury"
+ ],
+ "symptom_service": [
+  "slip-and-fall-lawyer",
+  "medical-malpractice-lawyer",
+  "product-liability-lawyer",
+  "catastrophic-injury-lawyer"
+ ]
 }

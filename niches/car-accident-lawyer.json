@@ -1,57 +1,57 @@
 {
-  "service": "Car Accident Lawyer",
-  "service_inline": "car accident lawyer",
-  "emergency": false,
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
-  "services": [
-    {
-      "slug": "rear-end-collision-lawyer",
-      "name": "Rear-End Collision Claims",
-      "nav": "Rear-end collisions",
-      "h1": "Rear-End Collision Lawyer",
-      "accent": "Fault, Evidence and Injury Claims",
-      "keyword": "rear end collision lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "uninsured-driver-claim-lawyer",
-      "name": "Uninsured Driver Claims",
-      "nav": "Uninsured driver claims",
-      "h1": "Uninsured Driver Claim Lawyer",
-      "accent": "Coverage Questions and Claim Options",
-      "keyword": "uninsured driver accident lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "commercial-truck-collision-lawyer",
-      "name": "Commercial Truck Collisions",
-      "nav": "Truck collisions",
-      "h1": "Commercial Truck Collision Lawyer",
-      "accent": "Records, Liability and Injury Claims",
-      "keyword": "commercial truck collision lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "injury-claim-negotiation",
-      "name": "Injury Claim Negotiation",
-      "nav": "Claim negotiation",
-      "h1": "Injury Claim Negotiation",
-      "accent": "Damages, Offers and Claim Terms",
-      "keyword": "car accident injury claim negotiation",
-      "icon": "check"
-    }
-  ],
-  "symptoms": [
-    "rear_end_collision_injury",
-    "hit_and_run_crash",
-    "uninsured_driver",
-    "insurer_low_offer"
-  ],
-  "symptom_service": [
-    "rear-end-collision-lawyer",
-    "uninsured-driver-claim-lawyer",
-    "uninsured-driver-claim-lawyer",
-    "injury-claim-negotiation"
-  ]
+ "service": "Car Accident Lawyer",
+ "service_inline": "car accident lawyer",
+ "emergency": false,
+ "hero_accent": "Deadlines, Evidence, What Comes Next",
+ "trust_third": "Filing deadlines and evidence steps, spelled out",
+ "services": [
+  {
+   "slug": "rear-end-collision-lawyer",
+   "name": "Rear-End Collision Claims",
+   "nav": "Rear-end collisions",
+   "h1": "Rear-End Collision Lawyer",
+   "accent": "Fault, Evidence and Injury Claims",
+   "keyword": "rear end collision lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "uninsured-driver-claim-lawyer",
+   "name": "Uninsured Driver Claims",
+   "nav": "Uninsured driver claims",
+   "h1": "Uninsured Driver Claim Lawyer",
+   "accent": "Coverage Questions and Claim Options",
+   "keyword": "uninsured driver accident lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "commercial-truck-collision-lawyer",
+   "name": "Commercial Truck Collisions",
+   "nav": "Truck collisions",
+   "h1": "Commercial Truck Collision Lawyer",
+   "accent": "Records, Liability and Injury Claims",
+   "keyword": "commercial truck collision lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "injury-claim-negotiation",
+   "name": "Injury Claim Negotiation",
+   "nav": "Claim negotiation",
+   "h1": "Injury Claim Negotiation",
+   "accent": "Damages, Offers and Claim Terms",
+   "keyword": "car accident injury claim negotiation",
+   "icon": "check"
+  }
+ ],
+ "symptoms": [
+  "rear_end_collision_injury",
+  "hit_and_run_crash",
+  "uninsured_driver",
+  "insurer_low_offer"
+ ],
+ "symptom_service": [
+  "rear-end-collision-lawyer",
+  "uninsured-driver-claim-lawyer",
+  "uninsured-driver-claim-lawyer",
+  "injury-claim-negotiation"
+ ]
 }

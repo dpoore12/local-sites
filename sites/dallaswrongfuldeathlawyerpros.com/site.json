@@ -8,8 +8,8 @@
   "state": "TX",
   "state_full": "Texas",
   "counties": [
-    "Collin",
-    "Dallas"
+    "Dallas",
+    "Collin"
   ],
   "area_codes": [
     "214",
@@ -86,8 +86,8 @@
     "local_business": false,
     "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
+  "hero_accent": "Who Can File, And By When",
+  "trust_third": "Who may bring a claim, spelled out",
   "services": [
     {
       "slug": "fatal-car-accident-claim",

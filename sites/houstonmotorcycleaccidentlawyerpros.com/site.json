@@ -8,8 +8,8 @@
   "state": "TX",
   "state_full": "Texas",
   "counties": [
-    "Fort Bend",
-    "Harris"
+    "Harris",
+    "Fort Bend"
   ],
   "area_codes": [
     "713",
@@ -84,8 +84,8 @@
     "local_business": false,
     "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
+  "hero_accent": "What A Rider's Claim Actually Involves",
+  "trust_third": "Rider-specific liability rules, spelled out",
   "services": [
     {
       "slug": "left-turn-motorcycle-accident",

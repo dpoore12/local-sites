@@ -1,57 +1,57 @@
 {
-  "service": "Motorcycle Accident Lawyer",
-  "service_inline": "motorcycle accident lawyer",
-  "emergency": false,
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
-  "services": [
-    {
-      "slug": "left-turn-motorcycle-accident",
-      "name": "Left-Turn Motorcycle Collisions",
-      "nav": "Left-turn crashes",
-      "h1": "Left-Turn Motorcycle Accident Lawyer",
-      "accent": "Fault, Visibility and Intersection Evidence",
-      "keyword": "left turn motorcycle accident lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "lane-change-motorcycle-accident",
-      "name": "Lane-Change Collisions",
-      "nav": "Lane-change crashes",
-      "h1": "Lane-Change Motorcycle Accident Lawyer",
-      "accent": "Road Position and Driver Awareness",
-      "keyword": "lane change motorcycle accident lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "uninsured-motorist-motorcycle-claim",
-      "name": "Uninsured Motorist Claims",
-      "nav": "Uninsured motorist",
-      "h1": "Uninsured Motorist Motorcycle Claim Lawyer",
-      "accent": "Coverage Questions and Claim Options",
-      "keyword": "uninsured motorist motorcycle accident lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "motorcycle-injury-claim-negotiation",
-      "name": "Motorcycle Injury Claim Negotiation",
-      "nav": "Claim negotiation",
-      "h1": "Motorcycle Injury Claim Negotiation",
-      "accent": "Damages, Offers and Claim Terms",
-      "keyword": "motorcycle injury claim lawyer",
-      "icon": "check"
-    }
-  ],
-  "symptoms": [
-    "driver_turned_into_motorcycle",
-    "driver_changed_lanes",
-    "uninsured_driver_crash",
-    "insurer_blames_rider"
-  ],
-  "symptom_service": [
-    "left-turn-motorcycle-accident",
-    "lane-change-motorcycle-accident",
-    "uninsured-motorist-motorcycle-claim",
-    "motorcycle-injury-claim-negotiation"
-  ]
+ "service": "Motorcycle Accident Lawyer",
+ "service_inline": "motorcycle accident lawyer",
+ "emergency": false,
+ "hero_accent": "What A Rider's Claim Actually Involves",
+ "trust_third": "Rider-specific liability rules, spelled out",
+ "services": [
+  {
+   "slug": "left-turn-motorcycle-accident",
+   "name": "Left-Turn Motorcycle Collisions",
+   "nav": "Left-turn crashes",
+   "h1": "Left-Turn Motorcycle Accident Lawyer",
+   "accent": "Fault, Visibility and Intersection Evidence",
+   "keyword": "left turn motorcycle accident lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "lane-change-motorcycle-accident",
+   "name": "Lane-Change Collisions",
+   "nav": "Lane-change crashes",
+   "h1": "Lane-Change Motorcycle Accident Lawyer",
+   "accent": "Road Position and Driver Awareness",
+   "keyword": "lane change motorcycle accident lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "uninsured-motorist-motorcycle-claim",
+   "name": "Uninsured Motorist Claims",
+   "nav": "Uninsured motorist",
+   "h1": "Uninsured Motorist Motorcycle Claim Lawyer",
+   "accent": "Coverage Questions and Claim Options",
+   "keyword": "uninsured motorist motorcycle accident lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "motorcycle-injury-claim-negotiation",
+   "name": "Motorcycle Injury Claim Negotiation",
+   "nav": "Claim negotiation",
+   "h1": "Motorcycle Injury Claim Negotiation",
+   "accent": "Damages, Offers and Claim Terms",
+   "keyword": "motorcycle injury claim lawyer",
+   "icon": "check"
+  }
+ ],
+ "symptoms": [
+  "driver_turned_into_motorcycle",
+  "driver_changed_lanes",
+  "uninsured_driver_crash",
+  "insurer_blames_rider"
+ ],
+ "symptom_service": [
+  "left-turn-motorcycle-accident",
+  "lane-change-motorcycle-accident",
+  "uninsured-motorist-motorcycle-claim",
+  "motorcycle-injury-claim-negotiation"
+ ]
 }

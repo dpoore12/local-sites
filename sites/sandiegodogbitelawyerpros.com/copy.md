@@ -30,9 +30,9 @@ A dog bit you and the owner is being pleasant about it
 
 The owner apologises on the sidewalk, says the dog has never done this, offers to cover the urgent care visit. That politeness is not a legal position, and it evaporates once an adjuster gets involved. California's dog bite statute makes the owner responsible for a bite suffered in a public place or anywhere you were lawfully present, including the owner's own property, and the dog's clean history does not help them. States on the older common law rule make an injured person prove the owner already knew the animal was dangerous. California removed that hurdle for bites.
 
-What still has to be proved is that it happened, that it happened where you say, and what it cost. So the paperwork matters more than the apology. San Diego County requires a bite by a rabies-capable animal to be reported, and treats twenty-four hours as the outer limit for anyone who knows about it. That report is the neutral record of the date, the address and the dog. A biting dog then sits through a ten-day quarantine even with current rabies shots, which independently confirms the animal existed and was identified.
+What still has to be proved is that it happened, where it happened, and what it cost. So the paperwork matters more than the apology. San Diego County requires a bite by a rabies-capable animal to be reported, and treats twenty-four hours as the outer limit for anyone who knows about it. A biting dog then sits through a ten-day quarantine even with current rabies shots, which independently confirms the animal was identified.
 
-Photograph the wound before it is dressed and again as it heals. Keep the discharge sheet. Write down the names of anyone who watched. Then a claim can be opened against the owner's liability coverage while the medical picture is still developing, rather than after the trail has gone cold. The deadline for a bite claim in California is two years from the day it happened, and a consultation is arranged well inside that window rather than near the end of it.
+Photograph the wound before it is dressed and again as it heals. Keep the discharge sheet. Write down the names of anyone who watched. Then a claim can be opened against the owner's liability coverage while the medical picture is still developing, rather than after the trail has gone cold. The deadline is two years from the day of the bite, and a consultation is arranged well inside that window rather than near the end of it.
 
 ## symptom_2_title
 
@@ -42,9 +42,9 @@ Your child was bitten, and the family knows the dog
 
 Most children are bitten by a dog they were allowed near. A neighbour's dog in North Park, a relative's dog at a barbecue, a friend's dog on a Clairemont Mesa cul-de-sac. Because a child is short, the bites land on the face, scalp, forearms and hands, and those are the injuries where the first repair is not the last one. Scar revision, a second surgery once growth finishes, and treatment for a genuine fear of dogs are all future costs, and they are the ones an early settlement offer ignores completely.
 
-The law treats a child differently in two ways worth knowing. California's deadline for personal injury claims is two years, but the clock for someone under eighteen is paused until their eighteenth birthday, so a bite at age six is not extinguished at age eight. Second, the provocation argument an insurer reaches for gets much weaker when the child is very young, because a toddler cannot be held to an adult's judgment about approaching an animal.
+The law treats a child differently in two ways worth knowing. California's deadline for injury claims is two years, but the clock for someone under eighteen is paused until their eighteenth birthday, so a bite at age six is not extinguished at age eight. Second, the provocation argument an insurer reaches for gets much weaker when the child is very young, because a toddler cannot be held to an adult's judgment about an animal.
 
-Practical steps first. Get the bite reported to the agency that covers the address so the dog's history exists in writing, which also matters if this dog has already bitten someone. Ask the pediatric provider to document depth, location and any nerve involvement rather than just closing the wound. Photograph it weekly. A San Diego claim involving a child usually needs a treating specialist's opinion on future care before any number is discussed, and a consultation is arranged with that sequence in mind. Nothing about a child's claim should be rushed to a cheque.
+Practical steps first. Get the bite reported to the agency that covers the address so the dog's history exists in writing, which also matters if this dog has bitten before. Ask the pediatric provider to document depth, location and any nerve involvement rather than just closing the wound. Photograph it weekly. A claim involving a child usually needs a treating specialist's opinion on future care before any number is discussed, and a consultation is arranged with that sequence in mind.
 
 ## symptom_3_title
 
@@ -54,9 +54,9 @@ The dog that bit you lives in a rental or a condo
 
 Tenants own dogs all over San Diego, and the tenant's own coverage is often the thin part of the claim. A renter's policy may have modest liability limits, an exclusion written around specific breeds, or nothing at all. That is when the property owner becomes part of the question, and California does not treat a landlord the way it treats the dog's owner. The statute that removes the prior-bite hurdle applies to the owner or keeper of the animal, not to whoever holds title to the land.
 
-A landlord's exposure is a negligence question instead, and it usually turns on two things: whether they actually knew the dog was dangerous, and whether they had the practical power to do something about it. Knowledge can look like earlier complaints from other tenants, a prior bite reported to an animal control agency, a written warning, or a lease clause about the animal. Power can look like the ability not to renew, or control over the shared walkway, courtyard, stairwell or gate where the bite happened. A bite in a common area of a Hillcrest or Golden Hill building sits differently from a bite inside a private unit.
+A landlord's exposure is a negligence question instead, and it usually turns on two things: whether they actually knew the dog was dangerous, and whether they had the practical power to do something about it. Knowledge can look like earlier complaints from other tenants, a prior bite reported to animal control, a written warning, or a lease clause about the animal. Power can look like the ability not to renew, or control over the shared walkway, courtyard, stairwell or gate where the bite happened. A bite in a common area of a Hillcrest or Golden Hill building sits differently from one inside a private unit.
 
-So the evidence to preserve is not only medical. The lease, any complaint the neighbours already made to the manager, prior county reports about that specific dog, photographs of a broken latch or a gate that does not self-close, and the name of the management company. A San Diego claim can proceed against the dog's owner and the property owner at the same time when the record supports it, and that record has to be gathered before the gate gets fixed and the tenant moves out.
+So the evidence to preserve is not only medical. The lease, any complaint the neighbours made to the manager, prior county reports about that dog, photographs of a broken latch or a gate that does not self-close, and the name of the management company. A claim can proceed against the dog's owner and the property owner at once when the record supports it, and that record has to be gathered before the gate gets fixed and the tenant moves out.
 
 ## symptom_4_title
 
@@ -68,7 +68,7 @@ The first offer usually arrives while the wound is still healing, and it is meas
 
 Two things quietly hurt these claims. The recorded statement is the first. An adjuster calling for your version early, before you know the diagnosis, is collecting sentences that get quoted back to you later. You are not obliged to give one on their schedule. The second is the gap in treatment. Six weeks with no documented care becomes the argument that you recovered, no matter how a hand actually feels when the swelling goes down.
 
-A stalled or lowballed San Diego bite claim is worked from the coverage up: which policies exist, whether a renter or a homeowner or a landlord policy responds, whether an umbrella layer sits above it, and what the exclusions truly say rather than what the letter summarises. The county bite report and the quarantine record are useful here because they are third-party documents the insurer did not create. Underneath all of it sits the same two-year California deadline, which does not extend because negotiations are still open. A consultation is arranged before a written denial becomes the reason nothing else was tried.
+A stalled or lowballed San Diego bite claim is worked from the coverage up: which policies exist, whether a renter, homeowner or landlord policy responds, whether an umbrella layer sits above it, and what the exclusions truly say rather than what the letter summarises. The county bite report and the quarantine record help here because they are third-party documents the insurer did not create. Underneath it all sits the same two-year deadline, which does not extend because negotiations are open.
 
 ## qa_1_question
 
@@ -76,7 +76,7 @@ Do I have to prove the dog bit someone before, like in other states?
 
 ## qa_1_answer
 
-No. California uses a strict liability statute for dog bites, Civil Code section 3342, and it makes the owner liable for a bite regardless of the animal's earlier viciousness or what the owner knew about it. Many other states still follow a version of the one-bite rule, where the injured person has to establish prior knowledge of danger. In California that argument is not the obstacle. What you do have to establish is that a bite occurred and that you were in a public place, or lawfully on private property, when it happened. An invited guest, a delivery driver and a mail carrier are all covered by that language. The statute carves out police and military dogs in defined circumstances, which is a narrow exception rather than a general one.
+No. California uses a strict liability statute for dog bites, Civil Code section 3342, and it makes the owner liable for a bite regardless of the animal's earlier viciousness or what the owner knew about it. Many other states still follow a version of the one-bite rule, where the injured person has to establish prior knowledge of danger. In California that argument is not the obstacle. What you do have to establish is that a bite occurred and that you were in a public place, or lawfully on private property, when it happened. An invited guest, a delivery driver and a mail carrier all fall inside that language. The statute carves out police and military dogs in defined circumstances, which is narrow rather than general.
 
 ## qa_2_question
 
@@ -84,7 +84,7 @@ How long do I have to bring a San Diego dog bite claim?
 
 ## qa_2_answer
 
-Two years from the date of the bite, under Code of Civil Procedure section 335.1, which sets the deadline for injury claims across California. Two wrinkles matter locally. If the bitten person is under eighteen, that period is tolled until their eighteenth birthday. And if the dog belonged to a public agency, a written claim generally has to be presented to that agency within six months of the injury before any lawsuit is possible, which is a far shorter fuse than most people expect. A suit that does get filed in the county goes to the Hall of Justice on West Broadway downtown, or to the North County Regional Center in Vista, since the El Cajon and Chula Vista civil business offices handle restraining orders only.
+Two years from the date of the bite, under Code of Civil Procedure section 335.1, which sets the deadline for injury claims across California. Two wrinkles matter locally. If the bitten person is under eighteen, that period is tolled until their eighteenth birthday. And if the dog belonged to a public agency, a written claim generally has to be presented to that agency within six months of the injury before any lawsuit is possible. A suit filed in this county goes to the Hall of Justice on West Broadway downtown, or the North County Regional Center in Vista, since the El Cajon and Chula Vista civil business offices handle restraining orders only.
 
 ## qa_3_question
 
@@ -92,7 +92,7 @@ Do I have to report the bite, and what happens to the dog?
 
 ## qa_3_answer
 
-Yes, and so does the treating physician and the dog's owner. The San Diego County Code puts that duty on the bitten person, the parent of a bitten child, any doctor who treats the bite and anyone else who knows about it, and treats a failure to report within twenty-four hours as a violation. The dog is then quarantined for ten days from the date of the bite even if its rabies vaccination is current, at home if there is a secure enclosure. Animal control may open a Dangerous Dog investigation where the dog has caused substantial injury or has bitten two people inside a forty-eight month window. Any money for your injury is separate from all of that and has to come out of a civil claim.
+Yes, and so does the treating physician and the dog's owner. The San Diego County Code puts that duty on the bitten person, the parent of a bitten child, any doctor who treats the bite and anyone else who knows about it, and treats a failure to report within twenty-four hours as a violation. The dog is then quarantined for ten days from the date of the bite even if its rabies vaccination is current, at home if there is a secure enclosure. Animal control may open a Dangerous Dog investigation where the dog caused substantial injury or bit two people inside a forty-eight month window. Any money for your injury is separate from that and comes out of a civil claim.
 
 ## closing_cta
 

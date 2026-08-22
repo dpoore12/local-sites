@@ -1,57 +1,57 @@
 {
-  "service": "Dog Bite Lawyer",
-  "service_inline": "dog bite lawyer",
-  "emergency": false,
-  "hero_accent": "No Fee Unless Money Is Recovered",
-  "trust_third": "No fee unless compensation is recovered",
-  "services": [
-    {
-      "slug": "dog-bite-injury-claim",
-      "name": "Dog Bite Injury Claims",
-      "nav": "Dog bite claims",
-      "h1": "Dog Bite Injury Lawyer",
-      "accent": "Injuries, Evidence and Liability",
-      "keyword": "dog bite injury lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "child-dog-bite-claim",
-      "name": "Child Dog Bite Claims",
-      "nav": "Child bite claims",
-      "h1": "Child Dog Bite Claim Lawyer",
-      "accent": "Medical Needs and Future Damages",
-      "keyword": "child dog bite lawyer",
-      "icon": "eye"
-    },
-    {
-      "slug": "landlord-dog-bite-liability",
-      "name": "Landlord Liability Claims",
-      "nav": "Landlord liability",
-      "h1": "Landlord Dog Bite Liability Lawyer",
-      "accent": "Property Control and Notice Questions",
-      "keyword": "landlord dog bite liability lawyer",
-      "icon": "house"
-    },
-    {
-      "slug": "dog-bite-insurance-claim",
-      "name": "Dog Bite Insurance Claims",
-      "nav": "Insurance claims",
-      "h1": "Dog Bite Insurance Claim Lawyer",
-      "accent": "Coverage, Offers and Claim Terms",
-      "keyword": "dog bite insurance claim lawyer",
-      "icon": "check"
-    }
-  ],
-  "symptoms": [
-    "bitten_by_dog",
-    "child_bitten_by_dog",
-    "dog_bite_at_rental",
-    "insurer_denied_claim"
-  ],
-  "symptom_service": [
-    "dog-bite-injury-claim",
-    "child-dog-bite-claim",
-    "landlord-dog-bite-liability",
-    "dog-bite-insurance-claim"
-  ]
+ "service": "Dog Bite Lawyer",
+ "service_inline": "dog bite lawyer",
+ "emergency": false,
+ "hero_accent": "What The Law Says About Dog Attacks",
+ "trust_third": "Liability rules explained before you call",
+ "services": [
+  {
+   "slug": "dog-bite-injury-claim",
+   "name": "Dog Bite Injury Claims",
+   "nav": "Dog bite claims",
+   "h1": "Dog Bite Injury Lawyer",
+   "accent": "Injuries, Evidence and Liability",
+   "keyword": "dog bite injury lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "child-dog-bite-claim",
+   "name": "Child Dog Bite Claims",
+   "nav": "Child bite claims",
+   "h1": "Child Dog Bite Claim Lawyer",
+   "accent": "Medical Needs and Future Damages",
+   "keyword": "child dog bite lawyer",
+   "icon": "eye"
+  },
+  {
+   "slug": "landlord-dog-bite-liability",
+   "name": "Landlord Liability Claims",
+   "nav": "Landlord liability",
+   "h1": "Landlord Dog Bite Liability Lawyer",
+   "accent": "Property Control and Notice Questions",
+   "keyword": "landlord dog bite liability lawyer",
+   "icon": "house"
+  },
+  {
+   "slug": "dog-bite-insurance-claim",
+   "name": "Dog Bite Insurance Claims",
+   "nav": "Insurance claims",
+   "h1": "Dog Bite Insurance Claim Lawyer",
+   "accent": "Coverage, Offers and Claim Terms",
+   "keyword": "dog bite insurance claim lawyer",
+   "icon": "check"
+  }
+ ],
+ "symptoms": [
+  "bitten_by_dog",
+  "child_bitten_by_dog",
+  "dog_bite_at_rental",
+  "insurer_denied_claim"
+ ],
+ "symptom_service": [
+  "dog-bite-injury-claim",
+  "child-dog-bite-claim",
+  "landlord-dog-bite-liability",
+  "dog-bite-insurance-claim"
+ ]
 }

@@ -80,6 +80,10 @@ BANNED_PRE_TENANT = [
     "fully licensed", "5-star", "five star", "five-star", "voted best",
     "a+ rating", "bbb accredited", "award winning", "award-winning",
     "trusted by", "thousands of", "satisfaction guaranteed", "our customers say",
+    # fee and outcome promises: there is no signed firm to make them
+    "no fee unless", "no win no fee", "no win, no fee", "free consultation",
+    "free case review", "contingency fee", "we recover", "we have recovered",
+    "millions recovered", "no upfront cost", "you pay nothing",
     "read our reviews", "since 19", "since 20",
 ]
 
@@ -260,16 +264,25 @@ def build(domain, live=False, check_only=False, corpus=None):
     legal = any(w in s["service"].lower() for w in ("lawyer", "attorney", "law"))
     pro = "attorney" if legal else "technician"
     entity = "law firm and does not provide legal advice" if legal else "licensed contractor"
-    hero_note = (("Free case review · No obligation · Local " if legal else
+    hero_note = (("No obligation · Written for " if legal else
                   "Upfront pricing · No obligation · Local ")
-                 + f"{s['counties'][0]} County {pro}")
-    disclosure = (
+                 + (f"{s['city']} · {s['counties'][0]} County" if legal
+                    else f"{s['counties'][0]} County {pro}"))
+    # Pre-tenant, this page cannot claim a fee arrangement, a credential, or who
+    # picks up the phone -- none of that exists until a tenant signs.
+    disclosure = ((
+        f"This site is operated independently, is not a {entity}, and is not itself "
+        f"a {s['service_inline']} provider. It exists to connect {s['city']} enquiries "
+        f"with a local {pro}. No fee arrangement, case result, price, licence, "
+        f"insurance or review claim is made anywhere on this page, because no specific "
+        f"provider is named on it yet. Confirm credentials directly with anyone you engage."
+    ) if legal else (
         f"This site is operated independently and is not itself a {entity}. "
-        f"Calls are answered by a local {s['service_inline']} {pro} serving {s['city']}. "
-        f"No pricing, licensing, insurance or review claims are made on this page, because no "
-        f"specific provider is named on it yet. Verify license and insurance directly with any "
-        f"provider before work begins."
-    ) if pre else (
+        f"It exists to connect {s['city']} {s['service_inline']} enquiries with a local "
+        f"{pro}. No pricing, licensing, insurance or review claims are made on this page, "
+        f"because no specific provider is named on it yet. Verify license and insurance "
+        f"directly with any provider before work begins."
+    )) if pre else (
         f"{t.get('business_name')} &mdash; {s['service']} in {s['city']}, {s['state']}. "
         f"License {t.get('license_number')}. Verify license and insurance before work begins."
     )
