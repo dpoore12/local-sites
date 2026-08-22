@@ -35,6 +35,12 @@ lives in `PLAYBOOK-LINKS.md`.
       assets/            hero.jpg + work-1..3.jpg for that city
     dist/<domain>/       Build output. Generated, do not edit.
     scaffold.py          Creates a new site directory from a screened market row
+    data/markets.json    The 83 screened markets. Input to every script.
+    data/registrar-snapshot.json  What Cloudflare says we own. Generated.
+    cf_sync.py           Pulls the Cloudflare Registrar account into a snapshot
+    domains.py           Rewrites the domain ledger from that snapshot
+    DOMAINS.csv          The ledger. Edit phone / tenant / hosting here only.
+    DOMAINS.md           Generated read-only view of the ledger. Never hand-edit.
     PLAYBOOK-LINKS.md    The off-site half: listings, links, the 8-week schedule
 
 ---
@@ -45,6 +51,9 @@ lives in `PLAYBOOK-LINKS.md`.
     python3 template/build.py --check    guards only, render nothing
     python3 scaffold.py                  create any missing site directories
     python3 scaffold.py --status         honest completion report for all 83
+    python3 cf_sync.py                  refresh the registrar snapshot (needs token)
+    python3 domains.py                  rewrite DOMAINS.csv + DOMAINS.md
+    python3 domains.py --check          exit 1 if the ledger is stale (for CI)
 
 `--status` is the one to trust. It counts filled copy blocks, sourced facts,
 neighbourhoods and photos per site, and only calls a site buildable when all
@@ -84,16 +93,21 @@ These are not style preferences. The build fails on all of them.
 - **Template: done and locked.** Tagged `template-v2`. Eight pages: home, four
   service pages, services hub, about, contact.
 - **Naperville garage door: complete.** The reference site. Copy this one's depth.
-- **Fort Worth garage door: in progress.** Site two, and the first real test of
-  the duplicate-phrasing guard since it is the same trade as Naperville.
-- **81 sites: scaffolded, no copy.** Directory, `site.json` with verified city
+- **32 sites written and passing.** 2,090 of 4,793 copy blocks done. Every one
+  builds clean and no two share 15 consecutive words. Phase 1 only: home, about,
+  contact. Service pages come in a second pass.
+- **51 sites: scaffolded, no copy.** Directory, `site.json` with verified city
   metadata, and a `copy.md` worksheet listing every required block.
 - **Off-site work: zero done.** Not one listing, not one link. This is 40% of
   ranking by Kyle's own weighting and it has not started.
-- **Domains: none bought yet.**
+- **Domains: all 83 registered.** Bought 2026-08-22 at Cloudflare, $10.46 each,
+  all active, all auto-renew on, all expiring 2027-08-22. See `DOMAINS.md`.
+- **Phone numbers: all 83 still placeholders.** Every site WARNs on build and
+  none may be published until real numbers land. This is now the live blocker
+  ahead of hosting.
 
 Run `python3 scaffold.py --status` for the live numbers rather than trusting
-this paragraph.
+this paragraph, and `python3 domains.py` before trusting the ledger.
 
 ---
 
@@ -104,7 +118,7 @@ this paragraph.
 | 1 | ~8,500 words of city-specific copy across 62 blocks | writing pass |
 | 2 | 3 sourced local facts + 6 neighbourhoods in `site.json` | writing pass |
 | 3 | 4 photos in `assets/` | image generation |
-| 4 | Domain registered (Cloudflare, ~$10.44 flat — not GoDaddy, they renew at $22.99) | Dan |
+| 4 | Domain registered — **done for all 83** | Dan |
 | 5 | Real Telnyx number in the local area code | Dan |
 | 6 | Build passes with zero errors | build |
 | 7 | Deploy, then the 8-week schedule in `PLAYBOOK-LINKS.md` | UG |
@@ -112,6 +126,50 @@ this paragraph.
 Steps 1–3 are the bottleneck. 81 sites × 62 blocks is about 5,000 blocks of
 original writing, and it cannot be shortcut by templating without tripping guard
 1 and taking the portfolio with it.
+
+---
+
+## Domains and hosting
+
+All 83 names are registered at **Cloudflare Registrar** on Dan's account
+(`Danpoore99@gmail.com`, account `a3bf1a13d93899d8408b9d1ea94df078`). Bought
+2026-08-22 via the Registrar API, $10.46 each, ~$868 for the set. Every one is
+active with auto-renew on and expires 2027-08-22.
+
+`DOMAINS.csv` is the ledger and the only file to hand-edit — and only the
+`phone`, `tenant` and `hosting` columns. Everything else is regenerated:
+
+    python3 cf_sync.py     # registrar -> data/registrar-snapshot.json
+    python3 domains.py     # snapshot  -> DOMAINS.csv + DOMAINS.md
+
+Run both after any registrar change and commit the result. `domains.py --check`
+fails if the ledger drifted, so it belongs in CI.
+
+### Things that will bite you
+
+- **One Cloudflare account caps at 100 registrar domains.** We are at 83. The
+  next 17 fit; batch two of the portfolio needs a second account.
+- **The Registrar API pages by cursor, not by page number.** A `page=2`
+  parameter is silently ignored and returns page one again. `cf_sync.py` already
+  handles this; do not "simplify" it back.
+- **`per_page` is capped at 50.** Anything larger is rejected outright.
+- **`httpx` does not pick up the sandbox HTTPS proxy** for this host, so the
+  token never gets injected and every call fails to connect. `curl` works.
+- **A registration can return `success: true` with `state: "failed"`.** One of
+  the 83 did exactly that and looked bought when it was not. Trust the account
+  listing, not the create response.
+- **Registrations are non-refundable.** Never register from a script without
+  checking the name first and getting Dan's sign-off on the total.
+
+### Hosting, not yet started
+
+Nothing is deployed. Cloudflare Pages free tier allows 100 projects per account
+and 500 builds/month, which covers 83 sites, and the domains are already on the
+same account so DNS is one step. When a site goes live, record where in the
+`hosting` column and re-run `domains.py`.
+
+No site may be published while its `phone` column reads `PLACEHOLDER`. That is
+all 83 right now.
 
 ---
 

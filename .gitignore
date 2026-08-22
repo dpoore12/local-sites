@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .DS_Store
 dist/
+
+# Per-site research scratch pulled during writing passes
+*-research*.json
+research_*.json
+*-secondary-search.json

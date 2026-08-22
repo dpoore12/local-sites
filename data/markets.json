@@ -1,0 +1,832 @@
+[
+ {
+  "domain": "houstonmotorcycleaccidentlawyerpros.com",
+  "city": "Houston",
+  "state": "TX",
+  "service": "Motorcycle Accident Lawyer",
+  "rent": 3000,
+  "vol": 1100,
+  "cpc": 85.0,
+  "built": true
+ },
+ {
+  "domain": "fortworthgaragedoorrepairpros.com",
+  "city": "Fort Worth",
+  "state": "TX",
+  "service": "Garage Door Repair",
+  "rent": 2500,
+  "vol": 900,
+  "cpc": 30.0,
+  "built": true
+ },
+ {
+  "domain": "sandiegodogbitelawyerpros.com",
+  "city": "San Diego",
+  "state": "CA",
+  "service": "Dog Bite Lawyer",
+  "rent": 2000,
+  "vol": 900,
+  "cpc": 60.0,
+  "built": true
+ },
+ {
+  "domain": "virginiabeachcaraccidentlawyerpros.com",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "service": "Car Accident Lawyer",
+  "rent": 2000,
+  "vol": 450,
+  "cpc": 95.0,
+  "built": true
+ },
+ {
+  "domain": "mckinneygaragedoorrepairpros.com",
+  "city": "McKinney",
+  "state": "TX",
+  "service": "Garage Door Repair",
+  "rent": 1500,
+  "vol": 700,
+  "cpc": 30.0,
+  "built": true
+ },
+ {
+  "domain": "modestoacrepairpros.com",
+  "city": "Modesto",
+  "state": "CA",
+  "service": "Air Conditioner Repair",
+  "rent": 1500,
+  "vol": 450,
+  "cpc": 25.0,
+  "built": true
+ },
+ {
+  "domain": "sacramentoacrepair.com",
+  "city": "Sacramento",
+  "state": "CA",
+  "service": "Air Conditioner Repair",
+  "rent": 1500,
+  "vol": 900,
+  "cpc": 20.0,
+  "built": true
+ },
+ {
+  "domain": "sanjoseemergencyplumberpros.com",
+  "city": "San Jose",
+  "state": "CA",
+  "service": "Emergency Plumbing",
+  "rent": 1500,
+  "vol": 450,
+  "cpc": 55.0,
+  "built": true
+ },
+ {
+  "domain": "tampacriminaldefenselawyerpros.com",
+  "city": "Tampa",
+  "state": "FL",
+  "service": "Criminal Defense Lawyer",
+  "rent": 1500,
+  "vol": 300,
+  "cpc": 35.0,
+  "built": true
+ },
+ {
+  "domain": "allenacrepairpros.com",
+  "city": "Allen",
+  "state": "TX",
+  "service": "Air Conditioner Repair",
+  "rent": 1250,
+  "vol": 400,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "dallaswrongfuldeathlawyerpros.com",
+  "city": "Dallas",
+  "state": "TX",
+  "service": "Wrongful Death Lawyer",
+  "rent": 1250,
+  "vol": 450,
+  "cpc": 75.0,
+  "built": true
+ },
+ {
+  "domain": "denverfurnacerepairpros.com",
+  "city": "Denver",
+  "state": "CO",
+  "service": "Furnace Repair",
+  "rent": 1250,
+  "vol": 200,
+  "cpc": 50.0,
+  "built": false
+ },
+ {
+  "domain": "garagedoorrepairnapervillepros.com",
+  "city": "Naperville",
+  "state": "IL",
+  "service": "Garage Door Repair",
+  "rent": 1250,
+  "vol": 300,
+  "cpc": 30.0,
+  "built": true
+ },
+ {
+  "domain": "losangelesdogbitelawyerpros.com",
+  "city": "Los Angeles",
+  "state": "CA",
+  "service": "Dog Bite Lawyer",
+  "rent": 1250,
+  "vol": 800,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "orlandomovingcompanypros.com",
+  "city": "Orlando",
+  "state": "FL",
+  "service": "Moving Services",
+  "rent": 1250,
+  "vol": 350,
+  "cpc": 12.0,
+  "built": true
+ },
+ {
+  "domain": "sacramentodogbitelawyerpros.com",
+  "city": "Sacramento",
+  "state": "CA",
+  "service": "Dog Bite Lawyer",
+  "rent": 1250,
+  "vol": 500,
+  "cpc": 70.0,
+  "built": false
+ },
+ {
+  "domain": "tucsonemergencyplumberpros.com",
+  "city": "Tucson",
+  "state": "AZ",
+  "service": "Emergency Plumbing",
+  "rent": 1250,
+  "vol": 250,
+  "cpc": 55.0,
+  "built": false
+ },
+ {
+  "domain": "arlingtonbathroomremodelingpros.com",
+  "city": "Arlington",
+  "state": "TX",
+  "service": "Bathroom Remodeling",
+  "rent": 1000,
+  "vol": 300,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "bocaratongaragedoorrepairpros.com",
+  "city": "Boca Raton",
+  "state": "FL",
+  "service": "Garage Door Repair",
+  "rent": 1000,
+  "vol": 400,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "carrolltongaragedoorrepairexperts.com",
+  "city": "Carrollton",
+  "state": "TX",
+  "service": "Garage Door Repair",
+  "rent": 1000,
+  "vol": 300,
+  "cpc": 25.0,
+  "built": false
+ },
+ {
+  "domain": "cincinnatipersonalinjurylawyerpros.com",
+  "city": "Cincinnati",
+  "state": "OH",
+  "service": "Personal Injury Lawyer",
+  "rent": 1000,
+  "vol": 500,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "coloradospringsfurnacerepair.com",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "service": "Furnace Repair",
+  "rent": 1000,
+  "vol": 350,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "denverdivorcelawyerpros.com",
+  "city": "Denver",
+  "state": "CO",
+  "service": "Divorce Lawyer",
+  "rent": 1000,
+  "vol": 600,
+  "cpc": 20.0,
+  "built": false
+ },
+ {
+  "domain": "friscogaragedoorrepairexperts.com",
+  "city": "Frisco",
+  "state": "TX",
+  "service": "Garage Door Repair",
+  "rent": 1000,
+  "vol": 200,
+  "cpc": 25.0,
+  "built": false
+ },
+ {
+  "domain": "longbeachpersonalinjurylawyerpros.com",
+  "city": "Long Beach",
+  "state": "CA",
+  "service": "Personal Injury Lawyer",
+  "rent": 1000,
+  "vol": 700,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "modestocaraccidentlawyerpros.com",
+  "city": "Modesto",
+  "state": "CA",
+  "service": "Car Accident Lawyer",
+  "rent": 1000,
+  "vol": 500,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "modestopersonalinjurylawyerpros.com",
+  "city": "Modesto",
+  "state": "CA",
+  "service": "Personal Injury Lawyer",
+  "rent": 1000,
+  "vol": 400,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "overlandparkgaragedoorrepairpros.com",
+  "city": "Overland Park",
+  "state": "KS",
+  "service": "Garage Door Repair",
+  "rent": 1000,
+  "vol": 200,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "tampatileroofrepair.com",
+  "city": "Tampa",
+  "state": "FL",
+  "service": "Tile Roof Repair",
+  "rent": 1000,
+  "vol": 300,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "annarborgaragedoorrepairpros.com",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "service": "Garage Door Repair",
+  "rent": 800,
+  "vol": 150,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "charlotteguttercleaningpros.com",
+  "city": "Charlotte",
+  "state": "NC",
+  "service": "Gutter Cleaning",
+  "rent": 800,
+  "vol": 500,
+  "cpc": 15.0,
+  "built": false
+ },
+ {
+  "domain": "kansascityemergencyplumber.com",
+  "city": "Kansas City",
+  "state": "MO",
+  "service": "Emergency Plumbing",
+  "rent": 800,
+  "vol": 500,
+  "cpc": 50.0,
+  "built": false
+ },
+ {
+  "domain": "lasvegasdogbitelawyerpros.com",
+  "city": "Las Vegas",
+  "state": "NV",
+  "service": "Dog Bite Lawyer",
+  "rent": 800,
+  "vol": 400,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "louisvillecaraccidentlawyerpros.com",
+  "city": "Louisville",
+  "state": "KY",
+  "service": "Car Accident Lawyer",
+  "rent": 800,
+  "vol": 200,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "oceansidepersonalinjurylawyerpros.com",
+  "city": "Oceanside",
+  "state": "CA",
+  "service": "Personal Injury Lawyer",
+  "rent": 800,
+  "vol": 150,
+  "cpc": 60.0,
+  "built": false
+ },
+ {
+  "domain": "orlandoduilawyerpros.com",
+  "city": "Orlando",
+  "state": "FL",
+  "service": "DUI Lawyer",
+  "rent": 800,
+  "vol": 350,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "parkergaragedoorrepairexperts.com",
+  "city": "Parker",
+  "state": "CO",
+  "service": "Garage Door Repair",
+  "rent": 800,
+  "vol": 150,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "sanjosemovingcompanypros.com",
+  "city": "San Jose",
+  "state": "CA",
+  "service": "Moving Services",
+  "rent": 800,
+  "vol": 350,
+  "cpc": 14.0,
+  "built": false
+ },
+ {
+  "domain": "scottsdalegaragedoorrepairpros.com",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "service": "Garage Door Repair",
+  "rent": 800,
+  "vol": 350,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "waterdamageaustinco.com",
+  "city": "Austin",
+  "state": "TX",
+  "service": "Water Damage Restoration",
+  "rent": 800,
+  "vol": 200,
+  "cpc": 55.0,
+  "built": false
+ },
+ {
+  "domain": "arvadaemergencyplumber.com",
+  "city": "Arvada",
+  "state": "CO",
+  "service": "Emergency Plumbing",
+  "rent": 650,
+  "vol": 200,
+  "cpc": 90.0,
+  "built": false
+ },
+ {
+  "domain": "atlantadogbitelawyerpros.com",
+  "city": "Atlanta",
+  "state": "GA",
+  "service": "Dog Bite Lawyer",
+  "rent": 650,
+  "vol": 200,
+  "cpc": 60.0,
+  "built": false
+ },
+ {
+  "domain": "austinroofinspectionpros.com",
+  "city": "Austin",
+  "state": "TX",
+  "service": "Roof Inspection",
+  "rent": 650,
+  "vol": 250,
+  "cpc": 25.0,
+  "built": false
+ },
+ {
+  "domain": "coloradospringsemergencyplumber.com",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "service": "Emergency Plumbing",
+  "rent": 650,
+  "vol": 150,
+  "cpc": 55.0,
+  "built": false
+ },
+ {
+  "domain": "coloradospringsmoldremediationexperts.com",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "service": "Mold Remediation",
+  "rent": 650,
+  "vol": 300,
+  "cpc": 25.0,
+  "built": false
+ },
+ {
+  "domain": "concordcaraccidentlawyerpros.com",
+  "city": "Concord",
+  "state": "NC",
+  "service": "Car Accident Lawyer",
+  "rent": 650,
+  "vol": 350,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "fortlauderdaledomesticviolencelawyer.com",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "service": "Domestic Violence Lawyer",
+  "rent": 650,
+  "vol": 200,
+  "cpc": 75.0,
+  "built": false
+ },
+ {
+  "domain": "fresnowrongfuldeathlawyerpros.com",
+  "city": "Fresno",
+  "state": "CA",
+  "service": "Wrongful Death Lawyer",
+  "rent": 650,
+  "vol": 350,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "garlandgaragedoorrepairexperts.com",
+  "city": "Garland",
+  "state": "TX",
+  "service": "Garage Door Repair",
+  "rent": 650,
+  "vol": 300,
+  "cpc": 20.0,
+  "built": false
+ },
+ {
+  "domain": "phoenixleakdetectionpros.com",
+  "city": "Phoenix",
+  "state": "AZ",
+  "service": "Leak Detection",
+  "rent": 650,
+  "vol": 250,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "raleighmovingcompanypros.com",
+  "city": "Raleigh",
+  "state": "NC",
+  "service": "Moving Services",
+  "rent": 650,
+  "vol": 450,
+  "cpc": 13.0,
+  "built": false
+ },
+ {
+  "domain": "santaanapersonalinjurylawyerpros.com",
+  "city": "Santa Ana",
+  "state": "CA",
+  "service": "Personal Injury Lawyer",
+  "rent": 650,
+  "vol": 700,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "tampafamilylawattorneypros.com",
+  "city": "Tampa",
+  "state": "FL",
+  "service": "Family Law Attorney",
+  "rent": 650,
+  "vol": 500,
+  "cpc": 10.0,
+  "built": false
+ },
+ {
+  "domain": "virginiabeachpersonalinjurylawyerpros.com",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "service": "Personal Injury Lawyer",
+  "rent": 650,
+  "vol": 250,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "appliancerepairtampaco.com",
+  "city": "Tampa",
+  "state": "FL",
+  "service": "Appliance Repair",
+  "rent": 500,
+  "vol": 700,
+  "cpc": 6.0,
+  "built": false
+ },
+ {
+  "domain": "atlantaemergencyplumberpros.com",
+  "city": "Atlanta",
+  "state": "GA",
+  "service": "Emergency Plumbing",
+  "rent": 500,
+  "vol": 350,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "austinwrongfuldeathlawyerpros.com",
+  "city": "Austin",
+  "state": "TX",
+  "service": "Wrongful Death Lawyer",
+  "rent": 500,
+  "vol": 250,
+  "cpc": 55.0,
+  "built": false
+ },
+ {
+  "domain": "bellevuebathroomremodeling.com",
+  "city": "Bellevue",
+  "state": "NE",
+  "service": "Bathroom Remodeling",
+  "rent": 500,
+  "vol": 500,
+  "cpc": 11.0,
+  "built": false
+ },
+ {
+  "domain": "birminghamtruckaccidentlawyerpros.com",
+  "city": "Birmingham",
+  "state": "AL",
+  "service": "Truck Accident Lawyer",
+  "rent": 500,
+  "vol": 150,
+  "cpc": 85.0,
+  "built": false
+ },
+ {
+  "domain": "concordpersonalinjurylawyer.com",
+  "city": "Concord",
+  "state": "NC",
+  "service": "Personal Injury Lawyer",
+  "rent": 500,
+  "vol": 300,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "dallaswindowreplacementexperts.com",
+  "city": "Dallas",
+  "state": "TX",
+  "service": "Window Replacement",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 9.0,
+  "built": false
+ },
+ {
+  "domain": "danvillegaragedoorrepairpros.com",
+  "city": "Danville",
+  "state": "CA",
+  "service": "Garage Door Repair",
+  "rent": 500,
+  "vol": 150,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "edenprairiegaragedoorrepairpros.com",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "service": "Garage Door Repair",
+  "rent": 500,
+  "vol": 300,
+  "cpc": 20.0,
+  "built": false
+ },
+ {
+  "domain": "foundationrepairaustinco.com",
+  "city": "Austin",
+  "state": "TX",
+  "service": "Foundation Repair",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 16.0,
+  "built": false
+ },
+ {
+  "domain": "harrisburgcaraccidentlawyerpros.com",
+  "city": "Harrisburg",
+  "state": "PA",
+  "service": "Car Accident Lawyer",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 65.0,
+  "built": false
+ },
+ {
+  "domain": "jacksonvilleemergencyplumberpros.com",
+  "city": "Jacksonville",
+  "state": "FL",
+  "service": "Emergency Plumbing",
+  "rent": 500,
+  "vol": 150,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "jacksonvillewrongfuldeathlawyerpros.com",
+  "city": "Jacksonville",
+  "state": "FL",
+  "service": "Wrongful Death Lawyer",
+  "rent": 500,
+  "vol": 250,
+  "cpc": 55.0,
+  "built": false
+ },
+ {
+  "domain": "jonesboropersonalinjurylawyerpros.com",
+  "city": "Jonesboro",
+  "state": "AR",
+  "service": "Personal Injury Lawyer",
+  "rent": 500,
+  "vol": 400,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "losangelesacinstall.com",
+  "city": "Los Angeles",
+  "state": "CA",
+  "service": "Air Conditioning Installation",
+  "rent": 500,
+  "vol": 250,
+  "cpc": 20.0,
+  "built": false
+ },
+ {
+  "domain": "mariettagaragedoorrepairpros.com",
+  "city": "Marietta",
+  "state": "GA",
+  "service": "Garage Door Repair",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "mesquiteacrepairpros.com",
+  "city": "Mesquite",
+  "state": "TX",
+  "service": "Air Conditioner Repair",
+  "rent": 500,
+  "vol": 150,
+  "cpc": 25.0,
+  "built": false
+ },
+ {
+  "domain": "neworleansmotorcycleaccidentlawyerpros.com",
+  "city": "New Orleans",
+  "state": "LA",
+  "service": "Motorcycle Accident Lawyer",
+  "rent": 500,
+  "vol": 350,
+  "cpc": 50.0,
+  "built": false
+ },
+ {
+  "domain": "newportbeachduilawyerpros.com",
+  "city": "Newport Beach",
+  "state": "CA",
+  "service": "DUI Lawyer",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 55.0,
+  "built": false
+ },
+ {
+  "domain": "newyorkdogbitelawyerpros.com",
+  "city": "New York",
+  "state": "NY",
+  "service": "Dog Bite Lawyer",
+  "rent": 500,
+  "vol": 250,
+  "cpc": 40.0,
+  "built": false
+ },
+ {
+  "domain": "oxnardcaraccidentlawyerpros.com",
+  "city": "Oxnard",
+  "state": "CA",
+  "service": "Car Accident Lawyer",
+  "rent": 500,
+  "vol": 400,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "salinascaraccidentlawyer.com",
+  "city": "Salinas",
+  "state": "CA",
+  "service": "Car Accident Lawyer",
+  "rent": 500,
+  "vol": 350,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "sandiegoleakdetectionpros.com",
+  "city": "San Diego",
+  "state": "CA",
+  "service": "Leak Detection",
+  "rent": 500,
+  "vol": 450,
+  "cpc": 20.0,
+  "built": false
+ },
+ {
+  "domain": "sandiegowrongfulterminationlaw.com",
+  "city": "San Diego",
+  "state": "CA",
+  "service": "Wrongful Termination Lawyer",
+  "rent": 500,
+  "vol": 500,
+  "cpc": 25.0,
+  "built": false
+ },
+ {
+  "domain": "sanjoseduilawyerpros.com",
+  "city": "San Jose",
+  "state": "CA",
+  "service": "DUI Lawyer",
+  "rent": 500,
+  "vol": 500,
+  "cpc": 20.0,
+  "built": false
+ },
+ {
+  "domain": "santabarbaracaraccidentlawyer.com",
+  "city": "Santa Barbara",
+  "state": "CA",
+  "service": "Car Accident Lawyer",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 45.0,
+  "built": false
+ },
+ {
+  "domain": "tempeduilawyerpros.com",
+  "city": "Tempe",
+  "state": "AZ",
+  "service": "DUI Lawyer",
+  "rent": 500,
+  "vol": 400,
+  "cpc": 35.0,
+  "built": false
+ },
+ {
+  "domain": "victorvillecaraccidentlawyerpros.com",
+  "city": "Victorville",
+  "state": "CA",
+  "service": "Car Accident Lawyer",
+  "rent": 500,
+  "vol": 200,
+  "cpc": 30.0,
+  "built": false
+ },
+ {
+  "domain": "westcovinacaraccidentlawyerpros.com",
+  "city": "West Covina",
+  "state": "CA",
+  "service": "Car Accident Lawyer",
+  "rent": 500,
+  "vol": 250,
+  "cpc": 70.0,
+  "built": false
+ }
+]
