@@ -1,141 +1,141 @@
 {
-  "domain": "allenacrepairpros.com",
-  "phase": 1,
-  "brand": "Allen Air Conditioner Repair Pros",
-  "service": "Air Conditioner Repair",
-  "service_inline": "air conditioner repair",
-  "city": "Allen",
-  "state": "TX",
-  "state_full": "Texas",
-  "counties": [
-    "Collin"
-  ],
-  "area_codes": [
-    "214",
-    "469",
-    "972"
-  ],
-  "phone_display": "(214) 555-0100",
-  "phone_tel": "+12145550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 214 number before this domain resolves publicly.",
-  "emergency": true,
-  "timezone": "America/Chicago",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "allenacrepairpros.com",
+ "phase": 1,
+ "brand": "Allen Air Conditioner Repair Pros",
+ "service": "Air Conditioner Repair",
+ "service_inline": "air conditioner repair",
+ "city": "Allen",
+ "state": "TX",
+ "state_full": "Texas",
+ "counties": [
+  "Collin"
+ ],
+ "area_codes": [
+  "214",
+  "469",
+  "972"
+ ],
+ "phone_display": "(214) 722-4321",
+ "phone_tel": "+12147224321",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+ "emergency": true,
+ "timezone": "America/Chicago",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "newer_housing_stock",
+   "title": "A city built around newer homes",
+   "claim": "A housing profile drawing on Census data lists Allen’s median year built as 2002.",
+   "why_it_matters": "A technician should read the equipment in front of them rather than assume a single era of controls, refrigerant practice or prior replacement history.",
+   "sources": [
+    "https://www.point2homes.com/US/Neighborhood/TX/Allen-Demographics.html"
+   ],
+   "verified": "2026-08-21"
   },
-  "local_facts": [
-    {
-      "id": "newer_housing_stock",
-      "title": "A city built around newer homes",
-      "claim": "A housing profile drawing on Census data lists Allen’s median year built as 2002.",
-      "why_it_matters": "A technician should read the equipment in front of them rather than assume a single era of controls, refrigerant practice or prior replacement history.",
-      "sources": [
-        "https://www.point2homes.com/US/Neighborhood/TX/Allen-Demographics.html"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "allen_hvac_registration",
-      "title": "Allen has a contractor process",
-      "claim": "Allen says all contractors must register annually, and its contractor form includes HVAC/Mechanical as a classification.",
-      "why_it_matters": "A repair and a full system change are different scopes. When work crosses into a replacement, the local contractor and permit process should be addressed rather than treated as an invisible swap.",
-      "sources": [
-        "https://www.cityofallen.org/1939/Contractor-and-Commercial-Services",
-        "https://cms3.revize.com/revize/allentx/Images/Documents/Departments/Community%20Development/Building%20and%20Permitting/Contractor%20and%20Commercial%20Services/Registration/Contractor%20Registration%20Form.pdf"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "north_texas_heat_2023",
-      "title": "A documented long heat run",
-      "claim": "The National Weather Service recorded 55 days at or above 100°F in Dallas-Fort Worth during 2023, including 21 consecutive 100-degree days from July 24 through August 13.",
-      "why_it_matters": "During long heat events, weak cooling, restricted airflow and marginal electrical parts become immediately disruptive, so a repair visit should identify the source instead of relying on a temporary thermostat adjustment.",
-      "sources": [
-        "https://www.weather.gov/fwd/danncon10",
-        "https://www.weather.gov/fwd/d100data"
-      ],
-      "verified": "2026-08-21"
-    }
-  ],
-  "neighborhoods": [
-    "Twin Creeks",
-    "Watters Crossing",
-    "Waterford Parks",
-    "Glendover Park",
-    "Starcreek",
-    "Lost Creek Ranch"
-  ],
-  "symptoms": [
-    "ac_not_cooling",
-    "ac_blows_warm_air",
-    "ac_leaking_water",
-    "ac_wont_turn_on"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "allen_hvac_registration",
+   "title": "Allen has a contractor process",
+   "claim": "Allen says all contractors must register annually, and its contractor form includes HVAC/Mechanical as a classification.",
+   "why_it_matters": "A repair and a full system change are different scopes. When work crosses into a replacement, the local contractor and permit process should be addressed rather than treated as an invisible swap.",
+   "sources": [
+    "https://www.cityofallen.org/1939/Contractor-and-Commercial-Services",
+    "https://cms3.revize.com/revize/allentx/Images/Documents/Departments/Community%20Development/Building%20and%20Permitting/Contractor%20and%20Commercial%20Services/Registration/Contractor%20Registration%20Form.pdf"
+   ],
+   "verified": "2026-08-21"
   },
-  "hero_accent": "Cool Air Restored Today",
-  "trust_third": "Repair price quoted before work begins",
-  "services": [
-    {
-      "slug": "air-conditioner-repair",
-      "name": "Air Conditioner Repair",
-      "nav": "AC repair",
-      "h1": "Air Conditioner Repair",
-      "accent": "Cool Air Restored Fast",
-      "keyword": "air conditioner repair",
-      "icon": "wrench"
-    },
-    {
-      "slug": "ac-compressor-repair",
-      "name": "AC Compressor Repair",
-      "nav": "Compressor repair",
-      "h1": "AC Compressor Repair",
-      "accent": "Compressor Problems Diagnosed Clearly",
-      "keyword": "ac compressor repair",
-      "icon": "gear"
-    },
-    {
-      "slug": "ac-refrigerant-leak-repair",
-      "name": "AC Refrigerant Leak Repair",
-      "nav": "Refrigerant leaks",
-      "h1": "AC Refrigerant Leak Repair",
-      "accent": "Leaks Found and Cooling Restored",
-      "keyword": "ac refrigerant leak repair",
-      "icon": "search"
-    },
-    {
-      "slug": "ac-tune-up",
-      "name": "AC Tune-Up",
-      "nav": "AC tune-up",
-      "h1": "AC Tune-Up",
-      "accent": "Cooling Tuned for Reliable Comfort",
-      "keyword": "ac tune up",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "air-conditioner-repair",
-    "ac-refrigerant-leak-repair",
-    "air-conditioner-repair",
-    "ac-compressor-repair"
-  ],
-  "_market": {
-    "keyword": "ac repair allen",
-    "monthly_price": 1250,
-    "score": 84,
-    "volume": 400,
-    "cpc_usd": 35.0,
-    "weakest_competitor": "acrepairallentx.com",
-    "competitor_dr": 8.0
+  {
+   "id": "north_texas_heat_2023",
+   "title": "A documented long heat run",
+   "claim": "The National Weather Service recorded 55 days at or above 100°F in Dallas-Fort Worth during 2023, including 21 consecutive 100-degree days from July 24 through August 13.",
+   "why_it_matters": "During long heat events, weak cooling, restricted airflow and marginal electrical parts become immediately disruptive, so a repair visit should identify the source instead of relying on a temporary thermostat adjustment.",
+   "sources": [
+    "https://www.weather.gov/fwd/danncon10",
+    "https://www.weather.gov/fwd/d100data"
+   ],
+   "verified": "2026-08-21"
   }
+ ],
+ "neighborhoods": [
+  "Twin Creeks",
+  "Watters Crossing",
+  "Waterford Parks",
+  "Glendover Park",
+  "Starcreek",
+  "Lost Creek Ranch"
+ ],
+ "symptoms": [
+  "ac_not_cooling",
+  "ac_blows_warm_air",
+  "ac_leaking_water",
+  "ac_wont_turn_on"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Cool Air Restored Today",
+ "trust_third": "Repair price quoted before work begins",
+ "services": [
+  {
+   "slug": "air-conditioner-repair",
+   "name": "Air Conditioner Repair",
+   "nav": "AC repair",
+   "h1": "Air Conditioner Repair",
+   "accent": "Cool Air Restored Fast",
+   "keyword": "air conditioner repair",
+   "icon": "wrench"
+  },
+  {
+   "slug": "ac-compressor-repair",
+   "name": "AC Compressor Repair",
+   "nav": "Compressor repair",
+   "h1": "AC Compressor Repair",
+   "accent": "Compressor Problems Diagnosed Clearly",
+   "keyword": "ac compressor repair",
+   "icon": "gear"
+  },
+  {
+   "slug": "ac-refrigerant-leak-repair",
+   "name": "AC Refrigerant Leak Repair",
+   "nav": "Refrigerant leaks",
+   "h1": "AC Refrigerant Leak Repair",
+   "accent": "Leaks Found and Cooling Restored",
+   "keyword": "ac refrigerant leak repair",
+   "icon": "search"
+  },
+  {
+   "slug": "ac-tune-up",
+   "name": "AC Tune-Up",
+   "nav": "AC tune-up",
+   "h1": "AC Tune-Up",
+   "accent": "Cooling Tuned for Reliable Comfort",
+   "keyword": "ac tune up",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "air-conditioner-repair",
+  "ac-refrigerant-leak-repair",
+  "air-conditioner-repair",
+  "ac-compressor-repair"
+ ],
+ "_market": {
+  "keyword": "ac repair allen",
+  "monthly_price": 1250,
+  "score": 84,
+  "volume": 400,
+  "cpc_usd": 35.0,
+  "weakest_competitor": "acrepairallentx.com",
+  "competitor_dr": 8.0
+ }
 }

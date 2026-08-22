@@ -8,17 +8,16 @@ sites sharing a number means you cannot tell a tenant what they are getting.
 
 - **73 numbers bought** at Telnyx, $0.79 one-time and $0.79/month each.
   $57.67 spent, $57.67/month recurring. All verified active on the account.
-- **10 markets still on a placeholder**, waiting on the question below.
+- **10 markets use numbers Dan already owned**, confirmed unused elsewhere.
 - 128 numbers now sit on the account: these 73 plus 55 that predate this.
 
-## The 10 markets still unresolved
+## The 10 markets on pre-existing numbers
 
-Dan already owned numbers matching these markets. They are **not** wired in,
-because Telnyx shows whether a number has a connection attached but cannot see
-whether it is live in MarketCall, Ringba, or an old campaign. A number already
-taking calls elsewhere must not go on a rental site.
+Dan confirmed on 2026-08-22 that these ten numbers, already on his account, are
+not live in MarketCall, Ringba or any other campaign. Each one is now assigned
+to the market whose area code it matches, so nothing extra had to be bought.
 
-| Market | Existing number |
+| Market | Number |
 |---|---|
 | Houston, TX — Motorcycle Accident Lawyer | `+17137154760` |
 | McKinney, TX — Garage Door Repair | `+12149355494` |
@@ -31,8 +30,9 @@ taking calls elsewhere must not go on a rental site.
 | Los Angeles, CA — AC Installation | `+12137719221` |
 | New York, NY — Dog Bite Lawyer | `+16469149310` |
 
-Either confirm each is free, or buy 10 more at $7.90. Buying is the cheaper
-mistake.
+**All 83 markets now have a real number and no two share one.** Zero
+placeholders remain, so the build no longer blocks any site from publishing on
+phone grounds.
 
 ## Area codes: what the audit found
 

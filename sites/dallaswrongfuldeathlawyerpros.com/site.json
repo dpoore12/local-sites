@@ -1,144 +1,144 @@
 {
-  "domain": "dallaswrongfuldeathlawyerpros.com",
-  "phase": 1,
-  "brand": "Dallas Wrongful Death Law Pros",
-  "service": "Wrongful Death Lawyer",
-  "service_inline": "wrongful death lawyer",
-  "city": "Dallas",
-  "state": "TX",
-  "state_full": "Texas",
-  "counties": [
-    "Dallas",
-    "Collin"
-  ],
-  "area_codes": [
-    "214",
-    "469",
-    "972"
-  ],
-  "phone_display": "(214) 555-0100",
-  "phone_tel": "+12145550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 214 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/Chicago",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "dallaswrongfuldeathlawyerpros.com",
+ "phase": 1,
+ "brand": "Dallas Wrongful Death Law Pros",
+ "service": "Wrongful Death Lawyer",
+ "service_inline": "wrongful death lawyer",
+ "city": "Dallas",
+ "state": "TX",
+ "state_full": "Texas",
+ "counties": [
+  "Dallas",
+  "Collin"
+ ],
+ "area_codes": [
+  "214",
+  "469",
+  "972"
+ ],
+ "phone_display": "(214) 617-0560",
+ "phone_tel": "+12146170560",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+ "emergency": false,
+ "timezone": "America/Chicago",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "who_may_file",
+   "claim": "Section 71.004 of the Texas Civil Practice and Remedies Code makes a wrongful death action the exclusive benefit of the surviving spouse, children and parents of the person who died, and allows one of them to bring it for the benefit of all. Siblings are not included. If no eligible relative has begun the action within three calendar months of the death, the statute directs the executor or administrator to bring it. Section 71.021 keeps the deceased person's own cause of action alive as a separate survival claim belonging to the heirs, legal representatives and estate.",
+   "why_it_matters": "Standing is the first thing that decides whether a claim exists at all. A brother or sister handling every arrangement after a Dallas death still cannot bring the wrongful death action in their own right, while an adult child living out of state can. Families who understand the two-claim structure early do not lose the estate's survival claim by filing only one of them.",
+   "sources": [
+    "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.71.htm",
+    "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-a/section-71-004/",
+    "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-b/section-71-021/"
+   ],
+   "verified": "2026-08-21",
+   "title": "Texas names three categories of relative, and siblings are not one of them"
   },
-  "local_facts": [
-    {
-      "id": "who_may_file",
-      "claim": "Section 71.004 of the Texas Civil Practice and Remedies Code makes a wrongful death action the exclusive benefit of the surviving spouse, children and parents of the person who died, and allows one of them to bring it for the benefit of all. Siblings are not included. If no eligible relative has begun the action within three calendar months of the death, the statute directs the executor or administrator to bring it. Section 71.021 keeps the deceased person's own cause of action alive as a separate survival claim belonging to the heirs, legal representatives and estate.",
-      "why_it_matters": "Standing is the first thing that decides whether a claim exists at all. A brother or sister handling every arrangement after a Dallas death still cannot bring the wrongful death action in their own right, while an adult child living out of state can. Families who understand the two-claim structure early do not lose the estate's survival claim by filing only one of them.",
-      "sources": [
-        "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.71.htm",
-        "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-a/section-71-004/",
-        "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-b/section-71-021/"
-      ],
-      "verified": "2026-08-21",
-      "title": "Texas names three categories of relative, and siblings are not one of them"
-    },
-    {
-      "id": "dallas_county_traffic_deaths",
-      "claim": "TxDOT's 2024 crash records show Dallas County with 305 fatal crashes and 331 traffic deaths. The road-type table for the same year puts 133 of those fatal crashes on city streets and 81 on interstate highways.",
-      "why_it_matters": "Fatal collisions here are mostly a surface-street problem, not a freeway one. Liability on a Dallas arterial usually turns on signal phasing, turn movements, sight lines and pedestrian crossings, and the evidence sits with city traffic records and local police agencies rather than with highway patrol.",
-      "sources": [
-        "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/13.pdf",
-        "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/12.pdf"
-      ],
-      "verified": "2026-08-21",
-      "title": "Most fatal Dallas County crashes happen on city streets"
-    },
-    {
-      "id": "dallas_county_filing_venue",
-      "claim": "Dallas County lists thirteen civil district courts, all sitting at the George L. Allen, Sr. Courts Building at 600 Commerce Street, plus five county courts at law. The county clerk states that a Dallas County court at law has concurrent jurisdiction with the district courts in civil cases where the amount in controversy exceeds $500, with no maximum, and that the party filing chooses between the two.",
-      "why_it_matters": "A Dallas wrongful death suit does not have one automatic destination. Choice of court is a real decision made at filing, and the surrounding practicalities -- where records are requested, where the clerk's civil counter is, which judge's procedures apply -- follow from it.",
-      "sources": [
-        "https://www.dallascounty.org/government/courts/civil_district/",
-        "https://www.dallascounty.org/government/county-clerk/civil-courts/faqs.php"
-      ],
-      "verified": "2026-08-21",
-      "title": "Thirteen civil district courts and five county courts at law, all on Commerce Street"
-    }
-  ],
-  "neighborhoods": [
-    "Oak Cliff",
-    "Lakewood",
-    "Pleasant Grove",
-    "Preston Hollow",
-    "Oak Lawn",
-    "Lake Highlands"
-  ],
-  "symptoms": [
-    "fatal_car_crash",
-    "fatal_workplace_accident",
-    "death_after_medical_care",
-    "family_needs_claim_guidance"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "dallas_county_traffic_deaths",
+   "claim": "TxDOT's 2024 crash records show Dallas County with 305 fatal crashes and 331 traffic deaths. The road-type table for the same year puts 133 of those fatal crashes on city streets and 81 on interstate highways.",
+   "why_it_matters": "Fatal collisions here are mostly a surface-street problem, not a freeway one. Liability on a Dallas arterial usually turns on signal phasing, turn movements, sight lines and pedestrian crossings, and the evidence sits with city traffic records and local police agencies rather than with highway patrol.",
+   "sources": [
+    "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/13.pdf",
+    "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/12.pdf"
+   ],
+   "verified": "2026-08-21",
+   "title": "Most fatal Dallas County crashes happen on city streets"
   },
-  "hero_accent": "Who Can File, And By When",
-  "trust_third": "Who may bring a claim, spelled out",
-  "services": [
-    {
-      "slug": "fatal-car-accident-claim",
-      "name": "Fatal Car Accident Claims",
-      "nav": "Fatal car accidents",
-      "h1": "Fatal Car Accident Claim Lawyer",
-      "accent": "Evidence, Liability and Loss Claims",
-      "keyword": "fatal car accident lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "fatal-work-accident-claim",
-      "name": "Fatal Work Accident Claims",
-      "nav": "Fatal work accidents",
-      "h1": "Fatal Work Accident Claim Lawyer",
-      "accent": "Workplace Records and Liability Questions",
-      "keyword": "fatal work accident lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "medical-negligence-death-claim",
-      "name": "Medical Negligence Death Claims",
-      "nav": "Medical negligence",
-      "h1": "Medical Negligence Death Claim Lawyer",
-      "accent": "Records, Care and Causation Review",
-      "keyword": "medical negligence death lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "wrongful-death-damages-claim",
-      "name": "Wrongful Death Damages",
-      "nav": "Damages claims",
-      "h1": "Wrongful Death Damages Lawyer",
-      "accent": "Losses, Dependents and Claim Terms",
-      "keyword": "wrongful death damages lawyer",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "fatal-car-accident-claim",
-    "fatal-work-accident-claim",
-    "medical-negligence-death-claim",
-    "wrongful-death-damages-claim"
-  ],
-  "_market": {
-    "keyword": "dallas wrongful death lawyer",
-    "monthly_price": 1250,
-    "score": 79,
-    "volume": 450,
-    "cpc_usd": 75.0,
-    "weakest_competitor": "aldouslaw.com",
-    "competitor_dr": 32.0
+  {
+   "id": "dallas_county_filing_venue",
+   "claim": "Dallas County lists thirteen civil district courts, all sitting at the George L. Allen, Sr. Courts Building at 600 Commerce Street, plus five county courts at law. The county clerk states that a Dallas County court at law has concurrent jurisdiction with the district courts in civil cases where the amount in controversy exceeds $500, with no maximum, and that the party filing chooses between the two.",
+   "why_it_matters": "A Dallas wrongful death suit does not have one automatic destination. Choice of court is a real decision made at filing, and the surrounding practicalities -- where records are requested, where the clerk's civil counter is, which judge's procedures apply -- follow from it.",
+   "sources": [
+    "https://www.dallascounty.org/government/courts/civil_district/",
+    "https://www.dallascounty.org/government/county-clerk/civil-courts/faqs.php"
+   ],
+   "verified": "2026-08-21",
+   "title": "Thirteen civil district courts and five county courts at law, all on Commerce Street"
   }
+ ],
+ "neighborhoods": [
+  "Oak Cliff",
+  "Lakewood",
+  "Pleasant Grove",
+  "Preston Hollow",
+  "Oak Lawn",
+  "Lake Highlands"
+ ],
+ "symptoms": [
+  "fatal_car_crash",
+  "fatal_workplace_accident",
+  "death_after_medical_care",
+  "family_needs_claim_guidance"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Who Can File, And By When",
+ "trust_third": "Who may bring a claim, spelled out",
+ "services": [
+  {
+   "slug": "fatal-car-accident-claim",
+   "name": "Fatal Car Accident Claims",
+   "nav": "Fatal car accidents",
+   "h1": "Fatal Car Accident Claim Lawyer",
+   "accent": "Evidence, Liability and Loss Claims",
+   "keyword": "fatal car accident lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "fatal-work-accident-claim",
+   "name": "Fatal Work Accident Claims",
+   "nav": "Fatal work accidents",
+   "h1": "Fatal Work Accident Claim Lawyer",
+   "accent": "Workplace Records and Liability Questions",
+   "keyword": "fatal work accident lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "medical-negligence-death-claim",
+   "name": "Medical Negligence Death Claims",
+   "nav": "Medical negligence",
+   "h1": "Medical Negligence Death Claim Lawyer",
+   "accent": "Records, Care and Causation Review",
+   "keyword": "medical negligence death lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "wrongful-death-damages-claim",
+   "name": "Wrongful Death Damages",
+   "nav": "Damages claims",
+   "h1": "Wrongful Death Damages Lawyer",
+   "accent": "Losses, Dependents and Claim Terms",
+   "keyword": "wrongful death damages lawyer",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "fatal-car-accident-claim",
+  "fatal-work-accident-claim",
+  "medical-negligence-death-claim",
+  "wrongful-death-damages-claim"
+ ],
+ "_market": {
+  "keyword": "dallas wrongful death lawyer",
+  "monthly_price": 1250,
+  "score": 79,
+  "volume": 450,
+  "cpc_usd": 75.0,
+  "weakest_competitor": "aldouslaw.com",
+  "competitor_dr": 32.0
+ }
 }

@@ -1,142 +1,142 @@
 {
-  "domain": "houstonmotorcycleaccidentlawyerpros.com",
-  "phase": 1,
-  "brand": "Houston Motorcycle Accident Law Pros",
-  "service": "Motorcycle Accident Lawyer",
-  "service_inline": "motorcycle accident lawyer",
-  "city": "Houston",
-  "state": "TX",
-  "state_full": "Texas",
-  "counties": [
-    "Harris",
-    "Fort Bend"
-  ],
-  "area_codes": [
-    "713",
-    "281",
-    "832",
-    "346"
-  ],
-  "phone_display": "(713) 555-0100",
-  "phone_tel": "+17135550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 713 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/Chicago",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "houstonmotorcycleaccidentlawyerpros.com",
+ "phase": 1,
+ "brand": "Houston Motorcycle Accident Law Pros",
+ "service": "Motorcycle Accident Lawyer",
+ "service_inline": "motorcycle accident lawyer",
+ "city": "Houston",
+ "state": "TX",
+ "state_full": "Texas",
+ "counties": [
+  "Harris",
+  "Fort Bend"
+ ],
+ "area_codes": [
+  "713",
+  "281",
+  "832",
+  "346"
+ ],
+ "phone_display": "(713) 715-4760",
+ "phone_tel": "+17137154760",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+ "emergency": false,
+ "timezone": "America/Chicago",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "harris_county_motorcycle_crashes",
+   "claim": "TxDOT's Crash Records Information System, queried on April 17, 2025 for the state's FY2026 highway safety grant application, ranked Harris County first in Texas for crashes involving a motorcycle and another motor vehicle in 2024, with 908. Dallas County was second at 438 and Fort Bend County recorded 74.",
+   "why_it_matters": "More rider-versus-driver collisions happen in this county than anywhere else in Texas, and the great majority of them are the ordinary kind: a car turning or merging into a motorcycle on a surface street or a freeway feeder. That is the crash pattern the explanations on this page are built around, and it is why physical evidence from the vehicles matters more here than a driver's account of not seeing the bike.",
+   "sources": [
+    "https://egrants.bts.txdot.gov/eGrantsHelp/Reports/FY26AGA.pdf"
+   ],
+   "verified": "2026-08-21",
+   "title": "Harris County leads Texas in motorcycle-versus-vehicle crashes"
   },
-  "local_facts": [
-    {
-      "id": "harris_county_motorcycle_crashes",
-      "claim": "TxDOT's Crash Records Information System, queried on April 17, 2025 for the state's FY2026 highway safety grant application, ranked Harris County first in Texas for crashes involving a motorcycle and another motor vehicle in 2024, with 908. Dallas County was second at 438 and Fort Bend County recorded 74.",
-      "why_it_matters": "More rider-versus-driver collisions happen in this county than anywhere else in Texas, and the great majority of them are the ordinary kind: a car turning or merging into a motorcycle on a surface street or a freeway feeder. That is the crash pattern the explanations on this page are built around, and it is why physical evidence from the vehicles matters more here than a driver's account of not seeing the bike.",
-      "sources": [
-        "https://egrants.bts.txdot.gov/eGrantsHelp/Reports/FY26AGA.pdf"
-      ],
-      "verified": "2026-08-21",
-      "title": "Harris County leads Texas in motorcycle-versus-vehicle crashes"
-    },
-    {
-      "id": "two_year_deadline",
-      "claim": "Texas Civil Practice and Remedies Code 16.003 requires a personal injury suit to be brought no later than two years after the day the cause of action accrues, and sets the same two-year period for an action for injury resulting in death, running from the date of death.",
-      "why_it_matters": "Houston suits are filed in the civil district courts at the Harris County Civil Courthouse, or in Fort Bend County where venue belongs there, and an insurance adjuster keeping a claim file open does nothing to stop that clock. Claims that involve a government-owned vehicle are worse, because those carry written notice requirements measured in months.",
-      "sources": [
-        "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm"
-      ],
-      "verified": "2026-08-21",
-      "title": "Two years, counted from the day the claim accrues"
-    },
-    {
-      "id": "proportionate_responsibility",
-      "claim": "Under Texas Civil Practice and Remedies Code 33.001 a claimant recovers nothing if their percentage of responsibility is greater than 50 percent, and under 33.012 a claimant below that line has their damages reduced by the percentage of responsibility assigned to them.",
-      "why_it_matters": "This is why an adjuster starts arguing about a rider's speed, lane position or helmet within days of the crash. Every percentage point moved onto the rider comes off the recovery, and 51 percent ends the claim entirely. Texas Transportation Code 661.003 matters here too: riders at least 21 years old who completed an approved operator training course or carry health insurance for motorcycle crash injuries are excepted from the helmet requirement, so lawful helmet-free riding is not evidence of causing a collision.",
-      "sources": [
-        "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm",
-        "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.661.htm"
-      ],
-      "verified": "2026-08-21",
-      "title": "Blame is split by percentage, and 51 percent ends it"
-    }
-  ],
-  "neighborhoods": [
-    "The Heights",
-    "Montrose",
-    "East End",
-    "Gulfton",
-    "Sharpstown",
-    "Spring Branch"
-  ],
-  "symptoms": [
-    "driver_turned_into_motorcycle",
-    "driver_changed_lanes",
-    "uninsured_driver_crash",
-    "insurer_blames_rider"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "two_year_deadline",
+   "claim": "Texas Civil Practice and Remedies Code 16.003 requires a personal injury suit to be brought no later than two years after the day the cause of action accrues, and sets the same two-year period for an action for injury resulting in death, running from the date of death.",
+   "why_it_matters": "Houston suits are filed in the civil district courts at the Harris County Civil Courthouse, or in Fort Bend County where venue belongs there, and an insurance adjuster keeping a claim file open does nothing to stop that clock. Claims that involve a government-owned vehicle are worse, because those carry written notice requirements measured in months.",
+   "sources": [
+    "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm"
+   ],
+   "verified": "2026-08-21",
+   "title": "Two years, counted from the day the claim accrues"
   },
-  "hero_accent": "What A Rider's Claim Actually Involves",
-  "trust_third": "Rider-specific liability rules, spelled out",
-  "services": [
-    {
-      "slug": "left-turn-motorcycle-accident",
-      "name": "Left-Turn Motorcycle Collisions",
-      "nav": "Left-turn crashes",
-      "h1": "Left-Turn Motorcycle Accident Lawyer",
-      "accent": "Fault, Visibility and Intersection Evidence",
-      "keyword": "left turn motorcycle accident lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "lane-change-motorcycle-accident",
-      "name": "Lane-Change Collisions",
-      "nav": "Lane-change crashes",
-      "h1": "Lane-Change Motorcycle Accident Lawyer",
-      "accent": "Road Position and Driver Awareness",
-      "keyword": "lane change motorcycle accident lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "uninsured-motorist-motorcycle-claim",
-      "name": "Uninsured Motorist Claims",
-      "nav": "Uninsured motorist",
-      "h1": "Uninsured Motorist Motorcycle Claim Lawyer",
-      "accent": "Coverage Questions and Claim Options",
-      "keyword": "uninsured motorist motorcycle accident lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "motorcycle-injury-claim-negotiation",
-      "name": "Motorcycle Injury Claim Negotiation",
-      "nav": "Claim negotiation",
-      "h1": "Motorcycle Injury Claim Negotiation",
-      "accent": "Damages, Offers and Claim Terms",
-      "keyword": "motorcycle injury claim lawyer",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "left-turn-motorcycle-accident",
-    "lane-change-motorcycle-accident",
-    "uninsured-motorist-motorcycle-claim",
-    "motorcycle-injury-claim-negotiation"
-  ],
-  "_market": {
-    "keyword": "houston motorcycle accident lawyer",
-    "monthly_price": 3000,
-    "score": 66,
-    "volume": 1100,
-    "cpc_usd": 85.0,
-    "weakest_competitor": "simmonsandfletcher.com",
-    "competitor_dr": 50.0
+  {
+   "id": "proportionate_responsibility",
+   "claim": "Under Texas Civil Practice and Remedies Code 33.001 a claimant recovers nothing if their percentage of responsibility is greater than 50 percent, and under 33.012 a claimant below that line has their damages reduced by the percentage of responsibility assigned to them.",
+   "why_it_matters": "This is why an adjuster starts arguing about a rider's speed, lane position or helmet within days of the crash. Every percentage point moved onto the rider comes off the recovery, and 51 percent ends the claim entirely. Texas Transportation Code 661.003 matters here too: riders at least 21 years old who completed an approved operator training course or carry health insurance for motorcycle crash injuries are excepted from the helmet requirement, so lawful helmet-free riding is not evidence of causing a collision.",
+   "sources": [
+    "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm",
+    "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.661.htm"
+   ],
+   "verified": "2026-08-21",
+   "title": "Blame is split by percentage, and 51 percent ends it"
   }
+ ],
+ "neighborhoods": [
+  "The Heights",
+  "Montrose",
+  "East End",
+  "Gulfton",
+  "Sharpstown",
+  "Spring Branch"
+ ],
+ "symptoms": [
+  "driver_turned_into_motorcycle",
+  "driver_changed_lanes",
+  "uninsured_driver_crash",
+  "insurer_blames_rider"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "What A Rider's Claim Actually Involves",
+ "trust_third": "Rider-specific liability rules, spelled out",
+ "services": [
+  {
+   "slug": "left-turn-motorcycle-accident",
+   "name": "Left-Turn Motorcycle Collisions",
+   "nav": "Left-turn crashes",
+   "h1": "Left-Turn Motorcycle Accident Lawyer",
+   "accent": "Fault, Visibility and Intersection Evidence",
+   "keyword": "left turn motorcycle accident lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "lane-change-motorcycle-accident",
+   "name": "Lane-Change Collisions",
+   "nav": "Lane-change crashes",
+   "h1": "Lane-Change Motorcycle Accident Lawyer",
+   "accent": "Road Position and Driver Awareness",
+   "keyword": "lane change motorcycle accident lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "uninsured-motorist-motorcycle-claim",
+   "name": "Uninsured Motorist Claims",
+   "nav": "Uninsured motorist",
+   "h1": "Uninsured Motorist Motorcycle Claim Lawyer",
+   "accent": "Coverage Questions and Claim Options",
+   "keyword": "uninsured motorist motorcycle accident lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "motorcycle-injury-claim-negotiation",
+   "name": "Motorcycle Injury Claim Negotiation",
+   "nav": "Claim negotiation",
+   "h1": "Motorcycle Injury Claim Negotiation",
+   "accent": "Damages, Offers and Claim Terms",
+   "keyword": "motorcycle injury claim lawyer",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "left-turn-motorcycle-accident",
+  "lane-change-motorcycle-accident",
+  "uninsured-motorist-motorcycle-claim",
+  "motorcycle-injury-claim-negotiation"
+ ],
+ "_market": {
+  "keyword": "houston motorcycle accident lawyer",
+  "monthly_price": 3000,
+  "score": 66,
+  "volume": 1100,
+  "cpc_usd": 85.0,
+  "weakest_competitor": "simmonsandfletcher.com",
+  "competitor_dr": 50.0
+ }
 }

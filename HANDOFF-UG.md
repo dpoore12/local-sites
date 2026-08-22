@@ -201,9 +201,9 @@ against the account rather than trusted from the order response.
 **None of them is routed.** A bought number rings nowhere. Setting destinations
 is separate work and it is not started.
 
-Ten markets are still on placeholder numbers because Dan already owns a number
-in that area code and we cannot see from the Telnyx API whether it is live in
-MarketCall or Ringba. See PHONES.md.
+Ten more markets use numbers Dan already owned; he confirmed they are not live
+in MarketCall, Ringba or anywhere else. **All 83 markets now have a real,
+unique number.** See PHONES.md.
 
 Hard rule, unchanged: **no site publishes while its phone_status reads
 PLACEHOLDER.** The build prints a warning for each one. `python3 phones.py`
