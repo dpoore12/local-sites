@@ -46,12 +46,29 @@ needs something different, the answer is different copy, not different CSS.
 Tagged in git as `template-v2`. v1 was the four-page version; v2 adds one page per
 service, which is what Kyle means by "add service-specific pages".
 
-## Page map (8 pages)
+## Page map — depends on the site's phase
 
-    /                              ~2,100 words  the money page, targets niche + city
-    /<service-1..4>/               ~1,200 words each, targets service + city
+`site.json` carries `"phase": 1` or `"phase": 2`. Phase 1 is what almost every
+site in the portfolio is right now; phase 2 is the later expansion.
+
+**Phase 1 — 3 pages.** The whole trade lives on the home page.
+
+    /                              1,700-3,200 words  the money page, targets niche + city
+    /about/  /contact/             short, /contact/ carries the what-to-have-ready block
+
+The four failure cards are full sections of 200-360 words each, because there are
+no service pages yet for them to hand off to.
+
+**Phase 2 — 8 pages.** Adds the service pages.
+
+    /                              1,300-2,300 words  the money page, targets niche + city
+    /<service-1..4>/               900-1,500 words each, targets service + city
     /services/                     hub, links to all four
     /about/  /contact/             short, /contact/ carries the what-to-have-ready block
 
-Every home-page failure card links to the service page that covers it, every
-service page cross-links the other three, and the footer lists all of them.
+At phase 2 the failure cards shrink to 40-80 word teasers, each linking to the
+service page that covers it. Every service page cross-links the other three, and
+the footer lists all of them.
+
+Only Naperville and Fort Worth are phase 2 today. All 83 site.json files already
+carry full `services` definitions, so promoting a site is a pure writing job.

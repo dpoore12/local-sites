@@ -288,6 +288,17 @@ def build(domain, live=False, check_only=False, corpus=None):
     # bathroom remodel. Sites may author these two lines; anything unset falls back
     # to a trade-correct derivation with no phone framing in it.
     _svc_l = s["service"].lower()
+    # "Common failures" is wrong on a divorce site and "to book anything" is wrong
+    # on any legal site. Authored blocks win; the fallbacks at least split legal
+    # from trade so nothing reads as nonsense.
+    symptoms_eyebrow = s.get("symptoms_eyebrow") or (
+        "Common situations" if legal else "Common failures")
+    stat_a_num = s.get("stat_a_num") or "No forms"
+    stat_a_label = s.get("stat_a_label") or "to fill out"
+    stat_b_num = s.get("stat_b_num") or "No obligation"
+    stat_b_label = s.get("stat_b_label") or (
+        "to go any further" if legal else "to book anything")
+
     steps_head = s.get("steps_head") or (
         f"How a {s['city']} {_svc_l} claim actually moves" if legal
         else f"How a {s['city']} {_svc_l} job actually goes")
@@ -341,6 +352,9 @@ def build(domain, live=False, check_only=False, corpus=None):
         facts_verified=max((f.get("verified", "") for f in facts), default=""),
         neighborhood_count=len(s.get("neighborhoods", [])),
         steps_head=steps_head, steps_sub=steps_sub,
+        symptoms_eyebrow=symptoms_eyebrow,
+        stat_a_num=stat_a_num, stat_a_label=stat_a_label,
+        stat_b_num=stat_b_num, stat_b_label=stat_b_label,
         ico=ICO,
         **{f"ico_{k}": v for k, v in ICO.items()},
     )

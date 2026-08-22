@@ -44,12 +44,12 @@
   <div class="band-inner">
     <ul class="stat-strip">
       <li class="stat">
-        <span class="stat-num is-text">No forms</span>
-        <span class="stat-label">to fill out</span>
+        <span class="stat-num is-text">{{ stat_a_num }}</span>
+        <span class="stat-label">{{ stat_a_label }}</span>
       </li>
       <li class="stat">
-        <span class="stat-num is-text">No obligation</span>
-        <span class="stat-label">to book anything</span>
+        <span class="stat-num is-text">{{ stat_b_num }}</span>
+        <span class="stat-label">{{ stat_b_label }}</span>
       </li>
       <li class="stat">
         <span class="stat-num">{{ neighborhood_count }}</span>
@@ -121,7 +121,7 @@
 <div class="band band-white">
   <div class="band-inner">
     <div class="band-head">
-      <span class="eyebrow">Common failures</span>
+      <span class="eyebrow">{{ symptoms_eyebrow }}</span>
       <h2>What usually prompts the call</h2>
       <p>{{ c.problem_lede }}</p>
     </div>
