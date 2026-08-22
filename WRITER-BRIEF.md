@@ -127,3 +127,14 @@ Then run the full build to check yourself against every other site:
 
 Report back: the three facts with URLs, the per-page word counts from the build
 output, and confirmation your site passes.
+
+## Temp image filenames (hard rule)
+
+Ten or more writers share this workspace at once. Generate every image with a
+**domain-prefixed** filename, never a generic one:
+
+    asi-generate-image '{"filename": "<yourdomain>-hero", ...}'
+
+`hero`, `work-1`, `work-2`, `work-3` as bare names WILL be deleted by another
+writer mid-run. Rename to the plain names only once the file is inside your own
+`sites/<domain>/assets/` directory.
