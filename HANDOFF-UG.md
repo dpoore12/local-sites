@@ -191,3 +191,28 @@ Highest value first, and none of this is blocked on Dan:
    documented in `template/LOCKED.md`.
 
 Questions to Dan, not to me.
+
+## Phone numbers
+
+73 Telnyx local numbers were bought 2026-08-22, one per market, each in that
+market's own area code. $57.67 one-time, $57.67/month. All verified active
+against the account rather than trusted from the order response.
+
+**None of them is routed.** A bought number rings nowhere. Setting destinations
+is separate work and it is not started.
+
+Ten markets are still on placeholder numbers because Dan already owns a number
+in that area code and we cannot see from the Telnyx API whether it is live in
+MarketCall or Ringba. See PHONES.md.
+
+Hard rule, unchanged: **no site publishes while its phone_status reads
+PLACEHOLDER.** The build prints a warning for each one. `python3 phones.py`
+re-reads the carrier and reports any drift between the sites and the account.
+
+Two API traps worth knowing before you touch Telnyx:
+
+- Square brackets in the URL **must be percent-encoded** (`page%5Bsize%5D=50`).
+  A raw `[` returns an empty body, not an error.
+- The rate limit is 5 requests/second and exceeding it returns **silent empty
+  pages, not 429s**. An empty result means retry, never zero. This produced a
+  completely false "23 area codes are out of stock" reading before it was caught.

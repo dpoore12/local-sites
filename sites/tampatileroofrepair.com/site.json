@@ -1,137 +1,137 @@
 {
-  "domain": "tampatileroofrepair.com",
-  "phase": 1,
-  "brand": "Tampa Tile Roof Repair Pros",
-  "service": "Tile Roof Repair",
-  "service_inline": "tile roof repair",
-  "city": "Tampa",
-  "state": "FL",
-  "state_full": "Florida",
-  "counties": [
-    "Hillsborough"
-  ],
-  "area_codes": [
-    "813"
-  ],
-  "phone_display": "(813) 555-0100",
-  "phone_tel": "+18135550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 813 number before this domain resolves publicly.",
-  "emergency": true,
-  "timezone": "America/New_York",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "tampatileroofrepair.com",
+ "phase": 1,
+ "brand": "Tampa Tile Roof Repair Pros",
+ "service": "Tile Roof Repair",
+ "service_inline": "tile roof repair",
+ "city": "Tampa",
+ "state": "FL",
+ "state_full": "Florida",
+ "counties": [
+  "Hillsborough"
+ ],
+ "area_codes": [
+  "813"
+ ],
+ "phone_display": "(813) 742-0423",
+ "phone_tel": "+18137420423",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": true,
+ "timezone": "America/New_York",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "tampa_roof_permits",
+   "title": "Tampa roof-work permit threshold",
+   "claim": "The City of Tampa says roof covering installation, recovering, reroofing, or repair at 500 square feet or less is exempt from a building permit; work above 500 square feet requires a permit. Its roofing guidance also says a tile roof needs a dry-in inspection before tile is installed.",
+   "why_it_matters": "A tile repair can remain narrow, but its measured area and the need to expose the underlayment determine when permitting and inspection enter the work plan.",
+   "sources": [
+    "https://www.tampa.gov/sites/default/files/content/files/migrated/P051Roofing.pdf"
+   ],
+   "verified": "2026-08-21"
   },
-  "local_facts": [
-    {
-      "id": "tampa_roof_permits",
-      "title": "Tampa roof-work permit threshold",
-      "claim": "The City of Tampa says roof covering installation, recovering, reroofing, or repair at 500 square feet or less is exempt from a building permit; work above 500 square feet requires a permit. Its roofing guidance also says a tile roof needs a dry-in inspection before tile is installed.",
-      "why_it_matters": "A tile repair can remain narrow, but its measured area and the need to expose the underlayment determine when permitting and inspection enter the work plan.",
-      "sources": [
-        "https://www.tampa.gov/sites/default/files/content/files/migrated/P051Roofing.pdf"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "florida_roof_section_rule",
-      "title": "Florida\u2019s roof-section repair line",
-      "claim": "Florida Building Code Existing Building section 706.1.1 states that no more than 25 percent of a total roof area or roof section may be repaired, replaced, or recovered within 12 months unless the entire existing roofing system or section is replaced to conform to code.",
-      "why_it_matters": "When several tile repairs are spreading across one section, the repair area must be documented before a scope is set; a tile roof cannot be treated as a series of unrelated spots.",
-      "sources": [
-        "https://floridabuilding.org/fbc/Commission/FBC_0421/DEC_Statement/DS-2021-007_Staff_Analysis.pdf"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "milton_tampa_bay",
-      "title": "Hurricane Milton\u2019s Tampa Bay conditions",
-      "claim": "Hurricane Milton made landfall at Siesta Key as a Category 3 hurricane on October 10, 2024. NOAA\u2019s final report says it caused hurricane conditions from Clearwater Beach and Tampa southward, with a reported 83-knot gust at Tampa International Airport.",
-      "why_it_matters": "After severe wind and rain, a tile repair needs a wider check of surrounding tile, exposed underlayment, flashings, and roof edges\u2014not only the piece that first looks damaged.",
-      "sources": [
-        "https://www.nhc.noaa.gov/data/tcr/AL142024_Milton.pdf"
-      ],
-      "verified": "2026-08-21"
-    }
-  ],
-  "neighborhoods": [
-    "Hyde Park",
-    "Seminole Heights",
-    "Davis Islands",
-    "Ybor City",
-    "Tampa Heights",
-    "West Tampa"
-  ],
-  "symptoms": [
-    "broken_roof_tiles",
-    "roof_leak",
-    "missing_roof_tiles",
-    "cracked_roof_tiles"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "florida_roof_section_rule",
+   "title": "Florida’s roof-section repair line",
+   "claim": "Florida Building Code Existing Building section 706.1.1 states that no more than 25 percent of a total roof area or roof section may be repaired, replaced, or recovered within 12 months unless the entire existing roofing system or section is replaced to conform to code.",
+   "why_it_matters": "When several tile repairs are spreading across one section, the repair area must be documented before a scope is set; a tile roof cannot be treated as a series of unrelated spots.",
+   "sources": [
+    "https://floridabuilding.org/fbc/Commission/FBC_0421/DEC_Statement/DS-2021-007_Staff_Analysis.pdf"
+   ],
+   "verified": "2026-08-21"
   },
-  "hero_accent": "Roof Leaks Fixed Today",
-  "trust_third": "Repair price quoted before work begins",
-  "services": [
-    {
-      "slug": "tile-roof-repair",
-      "name": "Tile Roof Repair",
-      "nav": "Tile roof repair",
-      "h1": "Tile Roof Repair",
-      "accent": "Tile Roof Problems Repaired Right",
-      "keyword": "tile roof repair",
-      "icon": "wrench"
-    },
-    {
-      "slug": "broken-roof-tile-repair",
-      "name": "Broken Roof Tile Repair",
-      "nav": "Broken tiles",
-      "h1": "Broken Roof Tile Repair",
-      "accent": "Broken Tiles Replaced Securely",
-      "keyword": "broken roof tile repair",
-      "icon": "warn"
-    },
-    {
-      "slug": "roof-leak-repair",
-      "name": "Roof Leak Repair",
-      "nav": "Roof leaks",
-      "h1": "Roof Leak Repair",
-      "accent": "Roof Leaks Stopped at the Source",
-      "keyword": "roof leak repair",
-      "icon": "drop"
-    },
-    {
-      "slug": "roof-tile-replacement",
-      "name": "Roof Tile Replacement",
-      "nav": "Tile replacement",
-      "h1": "Roof Tile Replacement",
-      "accent": "Missing Tiles Replaced to Protect the Roof",
-      "keyword": "roof tile replacement",
-      "icon": "house"
-    }
-  ],
-  "symptom_service": [
-    "broken-roof-tile-repair",
-    "roof-leak-repair",
-    "roof-tile-replacement",
-    "tile-roof-repair"
-  ],
-  "_market": {
-    "keyword": "tile roof repair tampa",
-    "monthly_price": 1000,
-    "score": 82,
-    "volume": 300,
-    "cpc_usd": 30.0,
-    "weakest_competitor": "tamparoofrepair.com",
-    "competitor_dr": 0.6
+  {
+   "id": "milton_tampa_bay",
+   "title": "Hurricane Milton’s Tampa Bay conditions",
+   "claim": "Hurricane Milton made landfall at Siesta Key as a Category 3 hurricane on October 10, 2024. NOAA’s final report says it caused hurricane conditions from Clearwater Beach and Tampa southward, with a reported 83-knot gust at Tampa International Airport.",
+   "why_it_matters": "After severe wind and rain, a tile repair needs a wider check of surrounding tile, exposed underlayment, flashings, and roof edges—not only the piece that first looks damaged.",
+   "sources": [
+    "https://www.nhc.noaa.gov/data/tcr/AL142024_Milton.pdf"
+   ],
+   "verified": "2026-08-21"
   }
+ ],
+ "neighborhoods": [
+  "Hyde Park",
+  "Seminole Heights",
+  "Davis Islands",
+  "Ybor City",
+  "Tampa Heights",
+  "West Tampa"
+ ],
+ "symptoms": [
+  "broken_roof_tiles",
+  "roof_leak",
+  "missing_roof_tiles",
+  "cracked_roof_tiles"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Roof Leaks Fixed Today",
+ "trust_third": "Repair price quoted before work begins",
+ "services": [
+  {
+   "slug": "tile-roof-repair",
+   "name": "Tile Roof Repair",
+   "nav": "Tile roof repair",
+   "h1": "Tile Roof Repair",
+   "accent": "Tile Roof Problems Repaired Right",
+   "keyword": "tile roof repair",
+   "icon": "wrench"
+  },
+  {
+   "slug": "broken-roof-tile-repair",
+   "name": "Broken Roof Tile Repair",
+   "nav": "Broken tiles",
+   "h1": "Broken Roof Tile Repair",
+   "accent": "Broken Tiles Replaced Securely",
+   "keyword": "broken roof tile repair",
+   "icon": "warn"
+  },
+  {
+   "slug": "roof-leak-repair",
+   "name": "Roof Leak Repair",
+   "nav": "Roof leaks",
+   "h1": "Roof Leak Repair",
+   "accent": "Roof Leaks Stopped at the Source",
+   "keyword": "roof leak repair",
+   "icon": "drop"
+  },
+  {
+   "slug": "roof-tile-replacement",
+   "name": "Roof Tile Replacement",
+   "nav": "Tile replacement",
+   "h1": "Roof Tile Replacement",
+   "accent": "Missing Tiles Replaced to Protect the Roof",
+   "keyword": "roof tile replacement",
+   "icon": "house"
+  }
+ ],
+ "symptom_service": [
+  "broken-roof-tile-repair",
+  "roof-leak-repair",
+  "roof-tile-replacement",
+  "tile-roof-repair"
+ ],
+ "_market": {
+  "keyword": "tile roof repair tampa",
+  "monthly_price": 1000,
+  "score": 82,
+  "volume": 300,
+  "cpc_usd": 30.0,
+  "weakest_competitor": "tamparoofrepair.com",
+  "competitor_dr": 0.6
+ }
 }

@@ -1,142 +1,142 @@
 {
-  "domain": "virginiabeachcaraccidentlawyerpros.com",
-  "phase": 1,
-  "brand": "Virginia Beach Car Accident Law Pros",
-  "service": "Car Accident Lawyer",
-  "service_inline": "car accident lawyer",
-  "city": "Virginia Beach",
-  "state": "VA",
-  "state_full": "Virginia",
-  "counties": [
-    "Virginia Beach City"
-  ],
-  "area_codes": [
-    "757"
-  ],
-  "phone_display": "(757) 555-0100",
-  "phone_tel": "+17575550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 757 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/New_York",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "virginiabeachcaraccidentlawyerpros.com",
+ "phase": 1,
+ "brand": "Virginia Beach Car Accident Law Pros",
+ "service": "Car Accident Lawyer",
+ "service_inline": "car accident lawyer",
+ "city": "Virginia Beach",
+ "state": "VA",
+ "state_full": "Virginia",
+ "counties": [
+  "Virginia Beach City"
+ ],
+ "area_codes": [
+  "757"
+ ],
+ "phone_display": "(757) 526-8901",
+ "phone_tel": "+17575268901",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": false,
+ "timezone": "America/New_York",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "contributory_negligence",
+   "claim": "Virginia still applies contributory negligence: Virginia appellate courts state that where a plaintiff fails to exercise reasonable care contemporaneously or concurrently with the defendant's negligent act, that contributory negligence bars the plaintiff's recovery. The General Assembly had to write a statutory exception, Virginia Code 8.01-58, just to keep contributory negligence from barring recovery for injured railroad employees.",
+   "why_it_matters": "In most states a share of the blame reduces a car crash recovery by a percentage. In Virginia it can end the claim outright, which is why an adjuster's questions about a burned-out brake light, a rolling stop or an apology at the roadside are not small talk. A related Virginia rule cuts the other way and is worth knowing: under Virginia Code 46.2-1094, a safety belt violation does not constitute negligence, cannot be considered in mitigation of damages, and is not admissible as evidence in a civil case.",
+   "sources": [
+    "https://www.vacourts.gov/opinions/opncavwp/1521221.pdf",
+    "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-58/",
+    "https://law.lis.virginia.gov/vacode/title46.2/chapter10/section46.2-1094/"
+   ],
+   "verified": "2026-08-21",
+   "title": "Any fault of your own can bar the claim entirely"
   },
-  "local_facts": [
-    {
-      "id": "contributory_negligence",
-      "claim": "Virginia still applies contributory negligence: Virginia appellate courts state that where a plaintiff fails to exercise reasonable care contemporaneously or concurrently with the defendant's negligent act, that contributory negligence bars the plaintiff's recovery. The General Assembly had to write a statutory exception, Virginia Code 8.01-58, just to keep contributory negligence from barring recovery for injured railroad employees.",
-      "why_it_matters": "In most states a share of the blame reduces a car crash recovery by a percentage. In Virginia it can end the claim outright, which is why an adjuster's questions about a burned-out brake light, a rolling stop or an apology at the roadside are not small talk. A related Virginia rule cuts the other way and is worth knowing: under Virginia Code 46.2-1094, a safety belt violation does not constitute negligence, cannot be considered in mitigation of damages, and is not admissible as evidence in a civil case.",
-      "sources": [
-        "https://www.vacourts.gov/opinions/opncavwp/1521221.pdf",
-        "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-58/",
-        "https://law.lis.virginia.gov/vacode/title46.2/chapter10/section46.2-1094/"
-      ],
-      "verified": "2026-08-21",
-      "title": "Any fault of your own can bar the claim entirely"
-    },
-    {
-      "id": "filing_deadline_and_venue",
-      "claim": "Virginia Code 8.01-243 requires that every action for personal injuries, whatever the theory of recovery, be brought within two years after the cause of action accrues. Virginia's general district courts can hear personal injury claims up to and including $50,000, so larger claims go to circuit court - in this city, the Virginia Beach Circuit Court at 2425 Nimmo Parkway, whose stated goal is to conclude civil cases within 18 months of filing.",
-      "why_it_matters": "The two-year window runs from the crash, not from the day symptoms got serious, and negotiation leverage vanishes the day it closes. The $50,000 dividing line decides which Virginia Beach courthouse a claim would be filed in and how long it is likely to take, which is part of what any early settlement offer is really being measured against.",
-      "sources": [
-        "https://law.lis.virginia.gov/vacode/title8.01/chapter4/section8.01-243/",
-        "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/",
-        "https://courts.virginiabeach.gov/circuit-court-clerks-office/circuit-court-civil"
-      ],
-      "verified": "2026-08-21",
-      "title": "Two years to file, and $50,000 decides the courthouse"
-    },
-    {
-      "id": "virginia_beach_crash_volume",
-      "claim": "The Virginia DMV's 2025 Virginia Traffic Crash Facts records 4,965 traffic crashes in Virginia Beach City, with 28 people killed and 3,102 injured. Within that total, 304 crashes were alcohol-related and caused 10 of the deaths, and 610 crashes were speed-related.",
-      "why_it_matters": "Injuries outnumbered deaths by more than a hundred to one here, so the overwhelming majority of Virginia Beach crash claims are injury claims argued with an insurer rather than headline fatalities. Alcohol and speed appear in enough of them that the police report's narrative and any citation issued at the scene often carry more weight than the vehicle damage does.",
-      "sources": [
-        "https://www.dmv.virginia.gov/sites/default/files/documents/VA-traffic-crash-2025.pdf",
-        "https://www.dmv.virginia.gov/safety/crash-data/traffic-crash-facts"
-      ],
-      "verified": "2026-08-21",
-      "title": "Virginia Beach logged 4,965 crashes and 3,102 injuries"
-    }
-  ],
-  "neighborhoods": [
-    "Kempsville",
-    "Great Neck",
-    "Hilltop",
-    "Bayside",
-    "Thalia",
-    "Sandbridge"
-  ],
-  "symptoms": [
-    "rear_end_collision_injury",
-    "hit_and_run_crash",
-    "uninsured_driver",
-    "insurer_low_offer"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "filing_deadline_and_venue",
+   "claim": "Virginia Code 8.01-243 requires that every action for personal injuries, whatever the theory of recovery, be brought within two years after the cause of action accrues. Virginia's general district courts can hear personal injury claims up to and including $50,000, so larger claims go to circuit court - in this city, the Virginia Beach Circuit Court at 2425 Nimmo Parkway, whose stated goal is to conclude civil cases within 18 months of filing.",
+   "why_it_matters": "The two-year window runs from the crash, not from the day symptoms got serious, and negotiation leverage vanishes the day it closes. The $50,000 dividing line decides which Virginia Beach courthouse a claim would be filed in and how long it is likely to take, which is part of what any early settlement offer is really being measured against.",
+   "sources": [
+    "https://law.lis.virginia.gov/vacode/title8.01/chapter4/section8.01-243/",
+    "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/",
+    "https://courts.virginiabeach.gov/circuit-court-clerks-office/circuit-court-civil"
+   ],
+   "verified": "2026-08-21",
+   "title": "Two years to file, and $50,000 decides the courthouse"
   },
-  "hero_accent": "Deadlines, Evidence, What Comes Next",
-  "trust_third": "Filing deadlines and evidence steps, spelled out",
-  "services": [
-    {
-      "slug": "rear-end-collision-lawyer",
-      "name": "Rear-End Collision Claims",
-      "nav": "Rear-end collisions",
-      "h1": "Rear-End Collision Lawyer",
-      "accent": "Fault, Evidence and Injury Claims",
-      "keyword": "rear end collision lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "uninsured-driver-claim-lawyer",
-      "name": "Uninsured Driver Claims",
-      "nav": "Uninsured driver claims",
-      "h1": "Uninsured Driver Claim Lawyer",
-      "accent": "Coverage Questions and Claim Options",
-      "keyword": "uninsured driver accident lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "commercial-truck-collision-lawyer",
-      "name": "Commercial Truck Collisions",
-      "nav": "Truck collisions",
-      "h1": "Commercial Truck Collision Lawyer",
-      "accent": "Records, Liability and Injury Claims",
-      "keyword": "commercial truck collision lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "injury-claim-negotiation",
-      "name": "Injury Claim Negotiation",
-      "nav": "Claim negotiation",
-      "h1": "Injury Claim Negotiation",
-      "accent": "Damages, Offers and Claim Terms",
-      "keyword": "car accident injury claim negotiation",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "rear-end-collision-lawyer",
-    "uninsured-driver-claim-lawyer",
-    "uninsured-driver-claim-lawyer",
-    "injury-claim-negotiation"
-  ],
-  "_market": {
-    "keyword": "virginia beach car accident lawyer",
-    "monthly_price": 2000,
-    "score": 89,
-    "volume": 450,
-    "cpc_usd": 95.0,
-    "weakest_competitor": "huffmanhuffman.com",
-    "competitor_dr": 24.0
+  {
+   "id": "virginia_beach_crash_volume",
+   "claim": "The Virginia DMV's 2025 Virginia Traffic Crash Facts records 4,965 traffic crashes in Virginia Beach City, with 28 people killed and 3,102 injured. Within that total, 304 crashes were alcohol-related and caused 10 of the deaths, and 610 crashes were speed-related.",
+   "why_it_matters": "Injuries outnumbered deaths by more than a hundred to one here, so the overwhelming majority of Virginia Beach crash claims are injury claims argued with an insurer rather than headline fatalities. Alcohol and speed appear in enough of them that the police report's narrative and any citation issued at the scene often carry more weight than the vehicle damage does.",
+   "sources": [
+    "https://www.dmv.virginia.gov/sites/default/files/documents/VA-traffic-crash-2025.pdf",
+    "https://www.dmv.virginia.gov/safety/crash-data/traffic-crash-facts"
+   ],
+   "verified": "2026-08-21",
+   "title": "Virginia Beach logged 4,965 crashes and 3,102 injuries"
   }
+ ],
+ "neighborhoods": [
+  "Kempsville",
+  "Great Neck",
+  "Hilltop",
+  "Bayside",
+  "Thalia",
+  "Sandbridge"
+ ],
+ "symptoms": [
+  "rear_end_collision_injury",
+  "hit_and_run_crash",
+  "uninsured_driver",
+  "insurer_low_offer"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Deadlines, Evidence, What Comes Next",
+ "trust_third": "Filing deadlines and evidence steps, spelled out",
+ "services": [
+  {
+   "slug": "rear-end-collision-lawyer",
+   "name": "Rear-End Collision Claims",
+   "nav": "Rear-end collisions",
+   "h1": "Rear-End Collision Lawyer",
+   "accent": "Fault, Evidence and Injury Claims",
+   "keyword": "rear end collision lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "uninsured-driver-claim-lawyer",
+   "name": "Uninsured Driver Claims",
+   "nav": "Uninsured driver claims",
+   "h1": "Uninsured Driver Claim Lawyer",
+   "accent": "Coverage Questions and Claim Options",
+   "keyword": "uninsured driver accident lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "commercial-truck-collision-lawyer",
+   "name": "Commercial Truck Collisions",
+   "nav": "Truck collisions",
+   "h1": "Commercial Truck Collision Lawyer",
+   "accent": "Records, Liability and Injury Claims",
+   "keyword": "commercial truck collision lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "injury-claim-negotiation",
+   "name": "Injury Claim Negotiation",
+   "nav": "Claim negotiation",
+   "h1": "Injury Claim Negotiation",
+   "accent": "Damages, Offers and Claim Terms",
+   "keyword": "car accident injury claim negotiation",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "rear-end-collision-lawyer",
+  "uninsured-driver-claim-lawyer",
+  "uninsured-driver-claim-lawyer",
+  "injury-claim-negotiation"
+ ],
+ "_market": {
+  "keyword": "virginia beach car accident lawyer",
+  "monthly_price": 2000,
+  "score": 89,
+  "volume": 450,
+  "cpc_usd": 95.0,
+  "weakest_competitor": "huffmanhuffman.com",
+  "competitor_dr": 24.0
+ }
 }

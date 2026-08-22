@@ -1,0 +1,828 @@
+{
+ "buy": [
+  {
+   "domain": "fortworthgaragedoorrepairpros.com",
+   "city": "Fort Worth",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "rent": 2500,
+   "codes": [
+    "682",
+    "817"
+   ]
+  },
+  {
+   "domain": "sandiegodogbitelawyerpros.com",
+   "city": "San Diego",
+   "state": "CA",
+   "service": "Dog Bite Lawyer",
+   "rent": 2000,
+   "codes": [
+    "619"
+   ]
+  },
+  {
+   "domain": "virginiabeachcaraccidentlawyerpros.com",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "service": "Car Accident Lawyer",
+   "rent": 2000,
+   "codes": [
+    "757"
+   ]
+  },
+  {
+   "domain": "modestoacrepairpros.com",
+   "city": "Modesto",
+   "state": "CA",
+   "service": "Air Conditioner Repair",
+   "rent": 1500,
+   "codes": [
+    "209",
+    "350"
+   ]
+  },
+  {
+   "domain": "sacramentoacrepair.com",
+   "city": "Sacramento",
+   "state": "CA",
+   "service": "Air Conditioner Repair",
+   "rent": 1500,
+   "codes": [
+    "916",
+    "279"
+   ]
+  },
+  {
+   "domain": "sanjoseemergencyplumberpros.com",
+   "city": "San Jose",
+   "state": "CA",
+   "service": "Emergency Plumbing",
+   "rent": 1500,
+   "codes": [
+    "408",
+    "669"
+   ]
+  },
+  {
+   "domain": "tampacriminaldefenselawyerpros.com",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Criminal Defense Lawyer",
+   "rent": 1500,
+   "codes": [
+    "813"
+   ]
+  },
+  {
+   "domain": "denverfurnacerepairpros.com",
+   "city": "Denver",
+   "state": "CO",
+   "service": "Furnace Repair",
+   "rent": 1250,
+   "codes": [
+    "303",
+    "720"
+   ]
+  },
+  {
+   "domain": "garagedoorrepairnapervillepros.com",
+   "city": "Naperville",
+   "state": "IL",
+   "service": "Garage Door Repair",
+   "rent": 1250,
+   "codes": [
+    "630",
+    "331"
+   ]
+  },
+  {
+   "domain": "orlandomovingcompanypros.com",
+   "city": "Orlando",
+   "state": "FL",
+   "service": "Moving Services",
+   "rent": 1250,
+   "codes": [
+    "321",
+    "407"
+   ]
+  },
+  {
+   "domain": "sacramentodogbitelawyerpros.com",
+   "city": "Sacramento",
+   "state": "CA",
+   "service": "Dog Bite Lawyer",
+   "rent": 1250,
+   "codes": [
+    "916",
+    "279"
+   ]
+  },
+  {
+   "domain": "tucsonemergencyplumberpros.com",
+   "city": "Tucson",
+   "state": "AZ",
+   "service": "Emergency Plumbing",
+   "rent": 1250,
+   "codes": [
+    "520"
+   ]
+  },
+  {
+   "domain": "bocaratongaragedoorrepairpros.com",
+   "city": "Boca Raton",
+   "state": "FL",
+   "service": "Garage Door Repair",
+   "rent": 1000,
+   "codes": [
+    "561"
+   ]
+  },
+  {
+   "domain": "carrolltongaragedoorrepairexperts.com",
+   "city": "Carrollton",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "rent": 1000,
+   "codes": [
+    "214",
+    "469",
+    "972"
+   ]
+  },
+  {
+   "domain": "cincinnatipersonalinjurylawyerpros.com",
+   "city": "Cincinnati",
+   "state": "OH",
+   "service": "Personal Injury Lawyer",
+   "rent": 1000,
+   "codes": [
+    "513"
+   ]
+  },
+  {
+   "domain": "coloradospringsfurnacerepair.com",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "service": "Furnace Repair",
+   "rent": 1000,
+   "codes": [
+    "719"
+   ]
+  },
+  {
+   "domain": "denverdivorcelawyerpros.com",
+   "city": "Denver",
+   "state": "CO",
+   "service": "Divorce Lawyer",
+   "rent": 1000,
+   "codes": [
+    "303",
+    "720"
+   ]
+  },
+  {
+   "domain": "friscogaragedoorrepairexperts.com",
+   "city": "Frisco",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "rent": 1000,
+   "codes": [
+    "214",
+    "469",
+    "972"
+   ]
+  },
+  {
+   "domain": "longbeachpersonalinjurylawyerpros.com",
+   "city": "Long Beach",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "rent": 1000,
+   "codes": [
+    "562"
+   ]
+  },
+  {
+   "domain": "modestocaraccidentlawyerpros.com",
+   "city": "Modesto",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "rent": 1000,
+   "codes": [
+    "209",
+    "350"
+   ]
+  },
+  {
+   "domain": "modestopersonalinjurylawyerpros.com",
+   "city": "Modesto",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "rent": 1000,
+   "codes": [
+    "209",
+    "350"
+   ]
+  },
+  {
+   "domain": "overlandparkgaragedoorrepairpros.com",
+   "city": "Overland Park",
+   "state": "KS",
+   "service": "Garage Door Repair",
+   "rent": 1000,
+   "codes": [
+    "913"
+   ]
+  },
+  {
+   "domain": "tampatileroofrepair.com",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Tile Roof Repair",
+   "rent": 1000,
+   "codes": [
+    "813"
+   ]
+  },
+  {
+   "domain": "arlingtonbathroomremodelingpros.com",
+   "city": "Arlington",
+   "state": "TX",
+   "service": "Bathroom Remodeling",
+   "rent": 1000,
+   "codes": [
+    "682",
+    "817"
+   ]
+  },
+  {
+   "domain": "annarborgaragedoorrepairpros.com",
+   "city": "Ann Arbor",
+   "state": "MI",
+   "service": "Garage Door Repair",
+   "rent": 800,
+   "codes": [
+    "734"
+   ]
+  },
+  {
+   "domain": "charlotteguttercleaningpros.com",
+   "city": "Charlotte",
+   "state": "NC",
+   "service": "Gutter Cleaning",
+   "rent": 800,
+   "codes": [
+    "704",
+    "980"
+   ]
+  },
+  {
+   "domain": "kansascityemergencyplumber.com",
+   "city": "Kansas City",
+   "state": "MO",
+   "service": "Emergency Plumbing",
+   "rent": 800,
+   "codes": [
+    "816"
+   ]
+  },
+  {
+   "domain": "lasvegasdogbitelawyerpros.com",
+   "city": "Las Vegas",
+   "state": "NV",
+   "service": "Dog Bite Lawyer",
+   "rent": 800,
+   "codes": [
+    "702",
+    "725"
+   ]
+  },
+  {
+   "domain": "louisvillecaraccidentlawyerpros.com",
+   "city": "Louisville",
+   "state": "KY",
+   "service": "Car Accident Lawyer",
+   "rent": 800,
+   "codes": [
+    "502"
+   ]
+  },
+  {
+   "domain": "oceansidepersonalinjurylawyerpros.com",
+   "city": "Oceanside",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "rent": 800,
+   "codes": [
+    "442",
+    "760"
+   ]
+  },
+  {
+   "domain": "orlandoduilawyerpros.com",
+   "city": "Orlando",
+   "state": "FL",
+   "service": "DUI Lawyer",
+   "rent": 800,
+   "codes": [
+    "321",
+    "407"
+   ]
+  },
+  {
+   "domain": "parkergaragedoorrepairexperts.com",
+   "city": "Parker",
+   "state": "CO",
+   "service": "Garage Door Repair",
+   "rent": 800,
+   "codes": [
+    "303",
+    "720"
+   ]
+  },
+  {
+   "domain": "sanjosemovingcompanypros.com",
+   "city": "San Jose",
+   "state": "CA",
+   "service": "Moving Services",
+   "rent": 800,
+   "codes": [
+    "408",
+    "669"
+   ]
+  },
+  {
+   "domain": "scottsdalegaragedoorrepairpros.com",
+   "city": "Scottsdale",
+   "state": "AZ",
+   "service": "Garage Door Repair",
+   "rent": 800,
+   "codes": [
+    "480"
+   ]
+  },
+  {
+   "domain": "waterdamageaustinco.com",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Water Damage Restoration",
+   "rent": 800,
+   "codes": [
+    "512",
+    "737"
+   ]
+  },
+  {
+   "domain": "arvadaemergencyplumber.com",
+   "city": "Arvada",
+   "state": "CO",
+   "service": "Emergency Plumbing",
+   "rent": 650,
+   "codes": [
+    "303",
+    "720"
+   ]
+  },
+  {
+   "domain": "austinroofinspectionpros.com",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Roof Inspection",
+   "rent": 650,
+   "codes": [
+    "512",
+    "737"
+   ]
+  },
+  {
+   "domain": "coloradospringsemergencyplumber.com",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "service": "Emergency Plumbing",
+   "rent": 650,
+   "codes": [
+    "719"
+   ]
+  },
+  {
+   "domain": "coloradospringsmoldremediationexperts.com",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "service": "Mold Remediation",
+   "rent": 650,
+   "codes": [
+    "719"
+   ]
+  },
+  {
+   "domain": "concordcaraccidentlawyerpros.com",
+   "city": "Concord",
+   "state": "NC",
+   "service": "Car Accident Lawyer",
+   "rent": 650,
+   "codes": [
+    "704",
+    "980"
+   ]
+  },
+  {
+   "domain": "fortlauderdaledomesticviolencelawyer.com",
+   "city": "Fort Lauderdale",
+   "state": "FL",
+   "service": "Domestic Violence Lawyer",
+   "rent": 650,
+   "codes": [
+    "754",
+    "954"
+   ]
+  },
+  {
+   "domain": "fresnowrongfuldeathlawyerpros.com",
+   "city": "Fresno",
+   "state": "CA",
+   "service": "Wrongful Death Lawyer",
+   "rent": 650,
+   "codes": [
+    "559"
+   ]
+  },
+  {
+   "domain": "garlandgaragedoorrepairexperts.com",
+   "city": "Garland",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "rent": 650,
+   "codes": [
+    "214",
+    "469",
+    "972"
+   ]
+  },
+  {
+   "domain": "raleighmovingcompanypros.com",
+   "city": "Raleigh",
+   "state": "NC",
+   "service": "Moving Services",
+   "rent": 650,
+   "codes": [
+    "919",
+    "984"
+   ]
+  },
+  {
+   "domain": "santaanapersonalinjurylawyerpros.com",
+   "city": "Santa Ana",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "rent": 650,
+   "codes": [
+    "657",
+    "714"
+   ]
+  },
+  {
+   "domain": "tampafamilylawattorneypros.com",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Family Law Attorney",
+   "rent": 650,
+   "codes": [
+    "813"
+   ]
+  },
+  {
+   "domain": "virginiabeachpersonalinjurylawyerpros.com",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "service": "Personal Injury Lawyer",
+   "rent": 650,
+   "codes": [
+    "757"
+   ]
+  },
+  {
+   "domain": "appliancerepairtampaco.com",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Appliance Repair",
+   "rent": 500,
+   "codes": [
+    "813"
+   ]
+  },
+  {
+   "domain": "austinwrongfuldeathlawyerpros.com",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Wrongful Death Lawyer",
+   "rent": 500,
+   "codes": [
+    "512",
+    "737"
+   ]
+  },
+  {
+   "domain": "bellevuebathroomremodeling.com",
+   "city": "Bellevue",
+   "state": "NE",
+   "service": "Bathroom Remodeling",
+   "rent": 500,
+   "codes": [
+    "402",
+    "531"
+   ]
+  },
+  {
+   "domain": "birminghamtruckaccidentlawyerpros.com",
+   "city": "Birmingham",
+   "state": "AL",
+   "service": "Truck Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "205"
+   ]
+  },
+  {
+   "domain": "concordpersonalinjurylawyer.com",
+   "city": "Concord",
+   "state": "NC",
+   "service": "Personal Injury Lawyer",
+   "rent": 500,
+   "codes": [
+    "704",
+    "980"
+   ]
+  },
+  {
+   "domain": "dallaswindowreplacementexperts.com",
+   "city": "Dallas",
+   "state": "TX",
+   "service": "Window Replacement",
+   "rent": 500,
+   "codes": [
+    "214",
+    "469",
+    "972"
+   ]
+  },
+  {
+   "domain": "danvillegaragedoorrepairpros.com",
+   "city": "Danville",
+   "state": "CA",
+   "service": "Garage Door Repair",
+   "rent": 500,
+   "codes": [
+    "925"
+   ]
+  },
+  {
+   "domain": "edenprairiegaragedoorrepairpros.com",
+   "city": "Eden Prairie",
+   "state": "MN",
+   "service": "Garage Door Repair",
+   "rent": 500,
+   "codes": [
+    "952"
+   ]
+  },
+  {
+   "domain": "foundationrepairaustinco.com",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Foundation Repair",
+   "rent": 500,
+   "codes": [
+    "512",
+    "737"
+   ]
+  },
+  {
+   "domain": "harrisburgcaraccidentlawyerpros.com",
+   "city": "Harrisburg",
+   "state": "PA",
+   "service": "Car Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "717"
+   ]
+  },
+  {
+   "domain": "jacksonvilleemergencyplumberpros.com",
+   "city": "Jacksonville",
+   "state": "FL",
+   "service": "Emergency Plumbing",
+   "rent": 500,
+   "codes": [
+    "904"
+   ]
+  },
+  {
+   "domain": "jacksonvillewrongfuldeathlawyerpros.com",
+   "city": "Jacksonville",
+   "state": "FL",
+   "service": "Wrongful Death Lawyer",
+   "rent": 500,
+   "codes": [
+    "904"
+   ]
+  },
+  {
+   "domain": "jonesboropersonalinjurylawyerpros.com",
+   "city": "Jonesboro",
+   "state": "AR",
+   "service": "Personal Injury Lawyer",
+   "rent": 500,
+   "codes": [
+    "870"
+   ]
+  },
+  {
+   "domain": "mariettagaragedoorrepairpros.com",
+   "city": "Marietta",
+   "state": "GA",
+   "service": "Garage Door Repair",
+   "rent": 500,
+   "codes": [
+    "678",
+    "770"
+   ]
+  },
+  {
+   "domain": "mesquiteacrepairpros.com",
+   "city": "Mesquite",
+   "state": "TX",
+   "service": "Air Conditioner Repair",
+   "rent": 500,
+   "codes": [
+    "214",
+    "469",
+    "972"
+   ]
+  },
+  {
+   "domain": "neworleansmotorcycleaccidentlawyerpros.com",
+   "city": "New Orleans",
+   "state": "LA",
+   "service": "Motorcycle Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "504"
+   ]
+  },
+  {
+   "domain": "newportbeachduilawyerpros.com",
+   "city": "Newport Beach",
+   "state": "CA",
+   "service": "DUI Lawyer",
+   "rent": 500,
+   "codes": [
+    "949"
+   ]
+  },
+  {
+   "domain": "oxnardcaraccidentlawyerpros.com",
+   "city": "Oxnard",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "805"
+   ]
+  },
+  {
+   "domain": "salinascaraccidentlawyer.com",
+   "city": "Salinas",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "831"
+   ]
+  },
+  {
+   "domain": "sandiegoleakdetectionpros.com",
+   "city": "San Diego",
+   "state": "CA",
+   "service": "Leak Detection",
+   "rent": 500,
+   "codes": [
+    "619"
+   ]
+  },
+  {
+   "domain": "sandiegowrongfulterminationlaw.com",
+   "city": "San Diego",
+   "state": "CA",
+   "service": "Wrongful Termination Lawyer",
+   "rent": 500,
+   "codes": [
+    "619"
+   ]
+  },
+  {
+   "domain": "sanjoseduilawyerpros.com",
+   "city": "San Jose",
+   "state": "CA",
+   "service": "DUI Lawyer",
+   "rent": 500,
+   "codes": [
+    "408",
+    "669"
+   ]
+  },
+  {
+   "domain": "santabarbaracaraccidentlawyer.com",
+   "city": "Santa Barbara",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "805"
+   ]
+  },
+  {
+   "domain": "tempeduilawyerpros.com",
+   "city": "Tempe",
+   "state": "AZ",
+   "service": "DUI Lawyer",
+   "rent": 500,
+   "codes": [
+    "480"
+   ]
+  },
+  {
+   "domain": "victorvillecaraccidentlawyerpros.com",
+   "city": "Victorville",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "442",
+    "760"
+   ]
+  },
+  {
+   "domain": "westcovinacaraccidentlawyerpros.com",
+   "city": "West Covina",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "rent": 500,
+   "codes": [
+    "626"
+   ]
+  }
+ ],
+ "reuse": [
+  {
+   "domain": "houstonmotorcycleaccidentlawyerpros.com",
+   "number": "+17137154760",
+   "area_code": "713"
+  },
+  {
+   "domain": "mckinneygaragedoorrepairpros.com",
+   "number": "+12149355494",
+   "area_code": "214"
+  },
+  {
+   "domain": "allenacrepairpros.com",
+   "number": "+12147224321",
+   "area_code": "214"
+  },
+  {
+   "domain": "dallaswrongfuldeathlawyerpros.com",
+   "number": "+12146170560",
+   "area_code": "214"
+  },
+  {
+   "domain": "losangelesdogbitelawyerpros.com",
+   "number": "+12139531047",
+   "area_code": "213"
+  },
+  {
+   "domain": "atlantadogbitelawyerpros.com",
+   "number": "+14046667615",
+   "area_code": "404"
+  },
+  {
+   "domain": "phoenixleakdetectionpros.com",
+   "number": "+16028940220",
+   "area_code": "602"
+  },
+  {
+   "domain": "atlantaemergencyplumberpros.com",
+   "number": "+14043414588",
+   "area_code": "404"
+  },
+  {
+   "domain": "losangelesacinstall.com",
+   "number": "+12137719221",
+   "area_code": "213"
+  },
+  {
+   "domain": "newyorkdogbitelawyerpros.com",
+   "number": "+16469149310",
+   "area_code": "646"
+  }
+ ]
+}

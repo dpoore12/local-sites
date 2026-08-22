@@ -1,102 +1,102 @@
 {
-  "domain": "waterdamageaustinco.com",
-  "phase": 1,
-  "brand": "Austin Water Damage Restoration Pros",
-  "service": "Water Damage Restoration",
-  "service_inline": "water damage restoration",
-  "city": "Austin",
-  "state": "TX",
-  "state_full": "Texas",
-  "counties": [
-    "Hays",
-    "Travis",
-    "Williamson"
-  ],
-  "area_codes": [
-    "512",
-    "737"
-  ],
-  "phone_display": "(512) 555-0100",
-  "phone_tel": "+15125550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 512 number before this domain resolves publicly.",
-  "emergency": true,
-  "timezone": "America/Chicago",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "waterdamageaustinco.com",
+ "phase": 1,
+ "brand": "Austin Water Damage Restoration Pros",
+ "service": "Water Damage Restoration",
+ "service_inline": "water damage restoration",
+ "city": "Austin",
+ "state": "TX",
+ "state_full": "Texas",
+ "counties": [
+  "Hays",
+  "Travis",
+  "Williamson"
+ ],
+ "area_codes": [
+  "512",
+  "737"
+ ],
+ "phone_display": "(512) 566-1943",
+ "phone_tel": "+15125661943",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": true,
+ "timezone": "America/Chicago",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [],
+ "neighborhoods": [],
+ "symptoms": [
+  "standing_water",
+  "flooded_basement",
+  "sewage_backup",
+  "water_soaked_walls"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Water Removed, Damage Controlled Today",
+ "trust_third": "Restoration scope and price explained first",
+ "services": [
+  {
+   "slug": "water-extraction",
+   "name": "Water Extraction",
+   "nav": "Water extraction",
+   "h1": "Water Extraction",
+   "accent": "Standing Water Removed Fast",
+   "keyword": "water extraction",
+   "icon": "drop"
   },
-  "local_facts": [],
-  "neighborhoods": [],
-  "symptoms": [
-    "standing_water",
-    "flooded_basement",
-    "sewage_backup",
-    "water_soaked_walls"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "slug": "flood-damage-restoration",
+   "name": "Flood Damage Restoration",
+   "nav": "Flood restoration",
+   "h1": "Flood Damage Restoration",
+   "accent": "Flood Damage Dried and Restored",
+   "keyword": "flood damage restoration",
+   "icon": "warn"
   },
-  "hero_accent": "Water Removed, Damage Controlled Today",
-  "trust_third": "Restoration scope and price explained first",
-  "services": [
-    {
-      "slug": "water-extraction",
-      "name": "Water Extraction",
-      "nav": "Water extraction",
-      "h1": "Water Extraction",
-      "accent": "Standing Water Removed Fast",
-      "keyword": "water extraction",
-      "icon": "drop"
-    },
-    {
-      "slug": "flood-damage-restoration",
-      "name": "Flood Damage Restoration",
-      "nav": "Flood restoration",
-      "h1": "Flood Damage Restoration",
-      "accent": "Flood Damage Dried and Restored",
-      "keyword": "flood damage restoration",
-      "icon": "warn"
-    },
-    {
-      "slug": "basement-water-damage-restoration",
-      "name": "Basement Water Damage Restoration",
-      "nav": "Basement damage",
-      "h1": "Basement Water Damage Restoration",
-      "accent": "Basement Dried Before Mold Takes Hold",
-      "keyword": "basement water damage restoration",
-      "icon": "house"
-    },
-    {
-      "slug": "sewage-cleanup",
-      "name": "Sewage Cleanup",
-      "nav": "Sewage cleanup",
-      "h1": "Sewage Cleanup",
-      "accent": "Contaminated Water Removed Safely",
-      "keyword": "sewage cleanup",
-      "icon": "warn"
-    }
-  ],
-  "symptom_service": [
-    "water-extraction",
-    "basement-water-damage-restoration",
-    "sewage-cleanup",
-    "flood-damage-restoration"
-  ],
-  "_market": {
-    "keyword": "water damage restoration austin texas",
-    "monthly_price": 800,
-    "score": 71,
-    "volume": 200,
-    "cpc_usd": 55.0,
-    "weakest_competitor": "americanwaterdamage.com",
-    "competitor_dr": 7.0
+  {
+   "slug": "basement-water-damage-restoration",
+   "name": "Basement Water Damage Restoration",
+   "nav": "Basement damage",
+   "h1": "Basement Water Damage Restoration",
+   "accent": "Basement Dried Before Mold Takes Hold",
+   "keyword": "basement water damage restoration",
+   "icon": "house"
+  },
+  {
+   "slug": "sewage-cleanup",
+   "name": "Sewage Cleanup",
+   "nav": "Sewage cleanup",
+   "h1": "Sewage Cleanup",
+   "accent": "Contaminated Water Removed Safely",
+   "keyword": "sewage cleanup",
+   "icon": "warn"
   }
+ ],
+ "symptom_service": [
+  "water-extraction",
+  "basement-water-damage-restoration",
+  "sewage-cleanup",
+  "flood-damage-restoration"
+ ],
+ "_market": {
+  "keyword": "water damage restoration austin texas",
+  "monthly_price": 800,
+  "score": 71,
+  "volume": 200,
+  "cpc_usd": 55.0,
+  "weakest_competitor": "americanwaterdamage.com",
+  "competitor_dr": 7.0
+ }
 }

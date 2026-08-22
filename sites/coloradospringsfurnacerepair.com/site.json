@@ -1,137 +1,137 @@
 {
-  "domain": "coloradospringsfurnacerepair.com",
-  "phase": 1,
-  "brand": "Colorado Springs Furnace Repair Pros",
-  "service": "Furnace Repair",
-  "service_inline": "furnace repair",
-  "city": "Colorado Springs",
-  "state": "CO",
-  "state_full": "Colorado",
-  "counties": [
-    "El Paso"
-  ],
-  "area_codes": [
-    "719"
-  ],
-  "phone_display": "(719) 555-0100",
-  "phone_tel": "+17195550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 719 number before this domain resolves publicly.",
-  "emergency": true,
-  "timezone": "America/Denver",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "coloradospringsfurnacerepair.com",
+ "phase": 1,
+ "brand": "Colorado Springs Furnace Repair Pros",
+ "service": "Furnace Repair",
+ "service_inline": "furnace repair",
+ "city": "Colorado Springs",
+ "state": "CO",
+ "state_full": "Colorado",
+ "counties": [
+  "El Paso"
+ ],
+ "area_codes": [
+  "719"
+ ],
+ "phone_display": "(719) 872-1436",
+ "phone_tel": "+17198721436",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": true,
+ "timezone": "America/Denver",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "regional_permit_authority",
+   "claim": "The Pikes Peak Regional Building Department issues and manages building permits for Colorado Springs and lists furnace construction, installation, and replacement as projects requiring a permit.",
+   "why_it_matters": "A diagnostic repair is distinct from a furnace replacement. When the scope becomes new equipment or associated permitted mechanical work, the PPRBD permit and inspection process belongs in the job plan before the equipment is installed.",
+   "sources": [
+    "https://www.pprbd.org/Information/HomeownerPermit"
+   ],
+   "verified": "2026-08-21",
+   "title": "Colorado Springs furnace permits run through PPRBD"
   },
-  "local_facts": [
-    {
-      "id": "regional_permit_authority",
-      "claim": "The Pikes Peak Regional Building Department issues and manages building permits for Colorado Springs and lists furnace construction, installation, and replacement as projects requiring a permit.",
-      "why_it_matters": "A diagnostic repair is distinct from a furnace replacement. When the scope becomes new equipment or associated permitted mechanical work, the PPRBD permit and inspection process belongs in the job plan before the equipment is installed.",
-      "sources": [
-        "https://www.pprbd.org/Information/HomeownerPermit"
-      ],
-      "verified": "2026-08-21",
-      "title": "Colorado Springs furnace permits run through PPRBD"
-    },
-    {
-      "id": "extreme_wind_2021",
-      "claim": "The National Weather Service documented an extreme wind event on December 15, 2021, including a 92 mph gust at Colorado Springs Airport at 12:54 PM MST.",
-      "why_it_matters": "A furnace that begins failing after a high-wind event may warrant an inspection that includes accessible exterior intake or exhaust terminations, vent connections, and the furnace's safety response. The timing is a clue, not a diagnosis.",
-      "sources": [
-        "https://www.weather.gov/pub/ExtremeWindEvent_20211215"
-      ],
-      "verified": "2026-08-21",
-      "title": "High wind can change the inspection path"
-    },
-    {
-      "id": "housing_vintage",
-      "claim": "Colorado Springs' housing-needs fact sheet reports a median year of construction of 1986.",
-      "why_it_matters": "A mid-1980s median points to a broad mix of original and later HVAC, thermostat, duct, and insulation work. The property age is useful background for an onsite inspection but does not decide whether a furnace can be repaired.",
-      "sources": [
-        "https://coloradosprings.gov/system/files/2025-07/hna_co_springs_factsheet_2025_07_10a_lv.pdf"
-      ],
-      "verified": "2026-08-21",
-      "title": "A 1986 median points to mixed system histories"
-    }
-  ],
-  "neighborhoods": [
-    "Briargate",
-    "Old Colorado City",
-    "Patty Jewett",
-    "Downtown",
-    "Broadmoor Hills",
-    "Northgate"
-  ],
-  "symptoms": [
-    "furnace_not_heating",
-    "furnace_wont_turn_on",
-    "furnace_blows_cold_air",
-    "furnace_making_noise"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "extreme_wind_2021",
+   "claim": "The National Weather Service documented an extreme wind event on December 15, 2021, including a 92 mph gust at Colorado Springs Airport at 12:54 PM MST.",
+   "why_it_matters": "A furnace that begins failing after a high-wind event may warrant an inspection that includes accessible exterior intake or exhaust terminations, vent connections, and the furnace's safety response. The timing is a clue, not a diagnosis.",
+   "sources": [
+    "https://www.weather.gov/pub/ExtremeWindEvent_20211215"
+   ],
+   "verified": "2026-08-21",
+   "title": "High wind can change the inspection path"
   },
-  "hero_accent": "Heat Restored Today, Price First",
-  "trust_third": "Repair price quoted before work begins",
-  "services": [
-    {
-      "slug": "furnace-repair",
-      "name": "Furnace Repair",
-      "nav": "Furnace repair",
-      "h1": "Furnace Repair",
-      "accent": "Heat Restored Fast",
-      "keyword": "furnace repair",
-      "icon": "wrench"
-    },
-    {
-      "slug": "furnace-tune-up",
-      "name": "Furnace Tune-Up",
-      "nav": "Furnace tune-up",
-      "h1": "Furnace Tune-Up",
-      "accent": "Heat Tuned for Reliable Performance",
-      "keyword": "furnace tune up",
-      "icon": "check"
-    },
-    {
-      "slug": "furnace-ignition-repair",
-      "name": "Furnace Ignition Repair",
-      "nav": "Ignition repair",
-      "h1": "Furnace Ignition Repair",
-      "accent": "Ignition Problems Fixed Safely",
-      "keyword": "furnace ignition repair",
-      "icon": "bolt"
-    },
-    {
-      "slug": "furnace-blower-motor-repair",
-      "name": "Furnace Blower Motor Repair",
-      "nav": "Blower motor repair",
-      "h1": "Furnace Blower Motor Repair",
-      "accent": "Airflow Restored to Every Room",
-      "keyword": "furnace blower motor repair",
-      "icon": "gear"
-    }
-  ],
-  "symptom_service": [
-    "furnace-repair",
-    "furnace-ignition-repair",
-    "furnace-repair",
-    "furnace-blower-motor-repair"
-  ],
-  "_market": {
-    "keyword": "furnace repair colorado springs",
-    "monthly_price": 1000,
-    "score": 80,
-    "volume": 350,
-    "cpc_usd": 40.0,
-    "weakest_competitor": "thewirenut.com",
-    "competitor_dr": 33.0
+  {
+   "id": "housing_vintage",
+   "claim": "Colorado Springs' housing-needs fact sheet reports a median year of construction of 1986.",
+   "why_it_matters": "A mid-1980s median points to a broad mix of original and later HVAC, thermostat, duct, and insulation work. The property age is useful background for an onsite inspection but does not decide whether a furnace can be repaired.",
+   "sources": [
+    "https://coloradosprings.gov/system/files/2025-07/hna_co_springs_factsheet_2025_07_10a_lv.pdf"
+   ],
+   "verified": "2026-08-21",
+   "title": "A 1986 median points to mixed system histories"
   }
+ ],
+ "neighborhoods": [
+  "Briargate",
+  "Old Colorado City",
+  "Patty Jewett",
+  "Downtown",
+  "Broadmoor Hills",
+  "Northgate"
+ ],
+ "symptoms": [
+  "furnace_not_heating",
+  "furnace_wont_turn_on",
+  "furnace_blows_cold_air",
+  "furnace_making_noise"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Heat Restored Today, Price First",
+ "trust_third": "Repair price quoted before work begins",
+ "services": [
+  {
+   "slug": "furnace-repair",
+   "name": "Furnace Repair",
+   "nav": "Furnace repair",
+   "h1": "Furnace Repair",
+   "accent": "Heat Restored Fast",
+   "keyword": "furnace repair",
+   "icon": "wrench"
+  },
+  {
+   "slug": "furnace-tune-up",
+   "name": "Furnace Tune-Up",
+   "nav": "Furnace tune-up",
+   "h1": "Furnace Tune-Up",
+   "accent": "Heat Tuned for Reliable Performance",
+   "keyword": "furnace tune up",
+   "icon": "check"
+  },
+  {
+   "slug": "furnace-ignition-repair",
+   "name": "Furnace Ignition Repair",
+   "nav": "Ignition repair",
+   "h1": "Furnace Ignition Repair",
+   "accent": "Ignition Problems Fixed Safely",
+   "keyword": "furnace ignition repair",
+   "icon": "bolt"
+  },
+  {
+   "slug": "furnace-blower-motor-repair",
+   "name": "Furnace Blower Motor Repair",
+   "nav": "Blower motor repair",
+   "h1": "Furnace Blower Motor Repair",
+   "accent": "Airflow Restored to Every Room",
+   "keyword": "furnace blower motor repair",
+   "icon": "gear"
+  }
+ ],
+ "symptom_service": [
+  "furnace-repair",
+  "furnace-ignition-repair",
+  "furnace-repair",
+  "furnace-blower-motor-repair"
+ ],
+ "_market": {
+  "keyword": "furnace repair colorado springs",
+  "monthly_price": 1000,
+  "score": 80,
+  "volume": 350,
+  "cpc_usd": 40.0,
+  "weakest_competitor": "thewirenut.com",
+  "competitor_dr": 33.0
+ }
 }

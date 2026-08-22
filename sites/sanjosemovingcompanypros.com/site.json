@@ -1,101 +1,101 @@
 {
-  "domain": "sanjosemovingcompanypros.com",
-  "phase": 1,
-  "brand": "San Jose Moving Services Pros",
-  "service": "Moving Services",
-  "service_inline": "moving services",
-  "city": "San Jose",
-  "state": "CA",
-  "state_full": "California",
-  "counties": [
-    "Santa Clara"
-  ],
-  "area_codes": [
-    "408",
-    "669"
-  ],
-  "phone_display": "(408) 555-0100",
-  "phone_tel": "+14085550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 408 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/Los_Angeles",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "sanjosemovingcompanypros.com",
+ "phase": 1,
+ "brand": "San Jose Moving Services Pros",
+ "service": "Moving Services",
+ "service_inline": "moving services",
+ "city": "San Jose",
+ "state": "CA",
+ "state_full": "California",
+ "counties": [
+  "Santa Clara"
+ ],
+ "area_codes": [
+  "408",
+  "669"
+ ],
+ "phone_display": "(408) 461-6238",
+ "phone_tel": "+14084616238",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": false,
+ "timezone": "America/Los_Angeles",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [],
+ "neighborhoods": [],
+ "symptoms": [
+  "moving_locally",
+  "moving_long_distance",
+  "apartment_move",
+  "needs_packing_help"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Careful Moving, Clear Pricing",
+ "trust_third": "Move price outlined before moving day",
+ "services": [
+  {
+   "slug": "local-moving",
+   "name": "Local Moving",
+   "nav": "Local moving",
+   "h1": "Local Moving Services",
+   "accent": "Careful Moves Across Town",
+   "keyword": "local moving company",
+   "icon": "house"
   },
-  "local_facts": [],
-  "neighborhoods": [],
-  "symptoms": [
-    "moving_locally",
-    "moving_long_distance",
-    "apartment_move",
-    "needs_packing_help"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "slug": "long-distance-moving",
+   "name": "Long-Distance Moving",
+   "nav": "Long-distance moving",
+   "h1": "Long-Distance Moving Services",
+   "accent": "Long-Distance Moves Planned Clearly",
+   "keyword": "long distance moving company",
+   "icon": "pin"
   },
-  "hero_accent": "Careful Moving, Clear Pricing",
-  "trust_third": "Move price outlined before moving day",
-  "services": [
-    {
-      "slug": "local-moving",
-      "name": "Local Moving",
-      "nav": "Local moving",
-      "h1": "Local Moving Services",
-      "accent": "Careful Moves Across Town",
-      "keyword": "local moving company",
-      "icon": "house"
-    },
-    {
-      "slug": "long-distance-moving",
-      "name": "Long-Distance Moving",
-      "nav": "Long-distance moving",
-      "h1": "Long-Distance Moving Services",
-      "accent": "Long-Distance Moves Planned Clearly",
-      "keyword": "long distance moving company",
-      "icon": "pin"
-    },
-    {
-      "slug": "apartment-moving",
-      "name": "Apartment Moving",
-      "nav": "Apartment moving",
-      "h1": "Apartment Moving Services",
-      "accent": "Apartment Moves Handled Carefully",
-      "keyword": "apartment movers",
-      "icon": "house"
-    },
-    {
-      "slug": "packing-services",
-      "name": "Packing Services",
-      "nav": "Packing services",
-      "h1": "Packing Services",
-      "accent": "Belongings Packed for a Safer Move",
-      "keyword": "packing services movers",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "local-moving",
-    "long-distance-moving",
-    "apartment-moving",
-    "packing-services"
-  ],
-  "_market": {
-    "keyword": "san jose moving company",
-    "monthly_price": 800,
-    "score": 73,
-    "volume": 350,
-    "cpc_usd": 14.0,
-    "weakest_competitor": "a2bmoversinc.com",
-    "competitor_dr": 16.0
+  {
+   "slug": "apartment-moving",
+   "name": "Apartment Moving",
+   "nav": "Apartment moving",
+   "h1": "Apartment Moving Services",
+   "accent": "Apartment Moves Handled Carefully",
+   "keyword": "apartment movers",
+   "icon": "house"
   },
-  "pro_noun": "crew"
+  {
+   "slug": "packing-services",
+   "name": "Packing Services",
+   "nav": "Packing services",
+   "h1": "Packing Services",
+   "accent": "Belongings Packed for a Safer Move",
+   "keyword": "packing services movers",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "local-moving",
+  "long-distance-moving",
+  "apartment-moving",
+  "packing-services"
+ ],
+ "_market": {
+  "keyword": "san jose moving company",
+  "monthly_price": 800,
+  "score": 73,
+  "volume": 350,
+  "cpc_usd": 14.0,
+  "weakest_competitor": "a2bmoversinc.com",
+  "competitor_dr": 16.0
+ },
+ "pro_noun": "crew"
 }

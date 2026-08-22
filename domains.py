@@ -86,10 +86,12 @@ def site_written(domain):
                 and len(meta.get("local_facts", [])) >= 3
                 and len(meta.get("neighborhoods", [])) >= 6
                 and len(list((d / "assets").glob("*.jpg"))) >= 4)
-    phone = meta.get("phone", "")
+    # site.json carries phone_display / phone_tel / phone_status. A PLACEHOLDER
+    # is reported as PLACEHOLDER rather than blank, so the ledger says out loud
+    # that a fake number is on the page instead of looking merely unfilled.
     if meta.get("phone_status") == "PLACEHOLDER":
-        phone = ""
-    return done, phone
+        return done, "PLACEHOLDER"
+    return done, meta.get("phone_tel") or meta.get("phone_display", "")
 
 
 def rows():

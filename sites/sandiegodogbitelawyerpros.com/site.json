@@ -1,139 +1,139 @@
 {
-  "domain": "sandiegodogbitelawyerpros.com",
-  "phase": 1,
-  "brand": "San Diego Dog Bite Law Pros",
-  "service": "Dog Bite Lawyer",
-  "service_inline": "dog bite lawyer",
-  "city": "San Diego",
-  "state": "CA",
-  "state_full": "California",
-  "counties": [
-    "San Diego"
-  ],
-  "area_codes": [
-    "619"
-  ],
-  "phone_display": "(619) 555-0100",
-  "phone_tel": "+16195550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 619 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/Los_Angeles",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "sandiegodogbitelawyerpros.com",
+ "phase": 1,
+ "brand": "San Diego Dog Bite Law Pros",
+ "service": "Dog Bite Lawyer",
+ "service_inline": "dog bite lawyer",
+ "city": "San Diego",
+ "state": "CA",
+ "state_full": "California",
+ "counties": [
+  "San Diego"
+ ],
+ "area_codes": [
+  "619"
+ ],
+ "phone_display": "(619) 658-9664",
+ "phone_tel": "+16196589664",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": false,
+ "timezone": "America/Los_Angeles",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "strict_liability_statute",
+   "claim": "California Civil Code section 3342 makes a dog's owner liable for a bite suffered in a public place, or anywhere the bitten person was lawfully present including the owner's own property, regardless of the dog's former viciousness or the owner's knowledge of it. Code of Civil Procedure section 335.1 gives an injured person two years from the date of the bite to sue.",
+   "why_it_matters": "States on the common law one-bite rule require proof that the owner already knew the animal was dangerous. California does not, so an owner saying the dog has never bitten anyone is not a defence. The two-year limit is the real pressure: it runs from the bite itself, it is not extended because an insurer is still negotiating, and a claim against a public agency's dog has to be presented within six months instead.",
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3342.&lawCode=CIV",
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=335.1&lawCode=CCP"
+   ],
+   "verified": "2026-08-21",
+   "title": "California does not make you prove an earlier bite"
   },
-  "local_facts": [
-    {
-      "id": "strict_liability_statute",
-      "claim": "California Civil Code section 3342 makes a dog's owner liable for a bite suffered in a public place, or anywhere the bitten person was lawfully present including the owner's own property, regardless of the dog's former viciousness or the owner's knowledge of it. Code of Civil Procedure section 335.1 gives an injured person two years from the date of the bite to sue.",
-      "why_it_matters": "States on the common law one-bite rule require proof that the owner already knew the animal was dangerous. California does not, so an owner saying the dog has never bitten anyone is not a defence. The two-year limit is the real pressure: it runs from the bite itself, it is not extended because an insurer is still negotiating, and a claim against a public agency's dog has to be presented within six months instead.",
-      "sources": [
-        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3342.&lawCode=CIV",
-        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=335.1&lawCode=CCP"
-      ],
-      "verified": "2026-08-21",
-      "title": "California does not make you prove an earlier bite"
-    },
-    {
-      "id": "county_bite_reporting",
-      "claim": "San Diego County Code section 62.615 requires the bitten person, the parent or guardian of a bitten child, the treating physician, the animal's owner and anyone else who knows of a bite by a rabies-capable animal to notify the Department or Health Officer, and deems a failure to report within 24 hours a violation. County Animal Services says a biting dog must then be quarantined for ten days from the date of the bite even if its rabies vaccination is current.",
-      "why_it_matters": "The report and the quarantine file are third-party documents that fix the date, the address and the identity of the dog before anyone's memory changes. They are often the strongest evidence in a claim the insurer did not create, and they also reveal whether this dog has bitten before. Which agency holds the file depends on the address: San Diego Humane Society handles field services for the City of San Diego, County Animal Services covers the unincorporated areas.",
-      "sources": [
-        "https://codelibrary.amlegal.com/codes/san_diego/latest/sandiego_regs/0-0-0-127231",
-        "https://www.sddac.com/content/sdc/das/license-laws/laws/dog_bites.html"
-      ],
-      "verified": "2026-08-21",
-      "title": "A San Diego bite is reportable within 24 hours"
-    },
-    {
-      "id": "grand_jury_bite_data",
-      "claim": "The 2023-2024 San Diego County Grand Jury dog bite report found that roughly 2,500 dog bites a year were reported by the county to the California Department of Public Health over the 2020 to 2022 period, that about 40 percent involved dogs that were unvaccinated or of unknown vaccination status, and that the true figure is higher because not every city files its statistics. It also recorded 9 to 18 Dangerous Dog hearings a year, of which 78 to 90 percent ended in a dangerous declaration.",
-      "why_it_matters": "Reported bites in this county run into the thousands every year, so an owner's claim that the incident was freakish carries little weight. The vaccination gap explains why so many San Diego bite victims face a rabies prophylaxis decision in the emergency room, which is a real cost item. And because a large share of Dangerous Dog hearings succeed, that county process can produce findings about the animal that sit alongside a civil claim.",
-      "sources": [
-        "https://www.sandiegocounty.gov/content/dam/sdc/grandjury/reports/2023-2024/dog-bites/23-24%20Dog%20Bite%20Report.pdf"
-      ],
-      "verified": "2026-08-21",
-      "title": "About 2,500 bites a year are reported here"
-    }
-  ],
-  "neighborhoods": [
-    "North Park",
-    "City Heights",
-    "Pacific Beach",
-    "Clairemont Mesa",
-    "Point Loma",
-    "Mira Mesa"
-  ],
-  "symptoms": [
-    "bitten_by_dog",
-    "child_bitten_by_dog",
-    "dog_bite_at_rental",
-    "insurer_denied_claim"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "county_bite_reporting",
+   "claim": "San Diego County Code section 62.615 requires the bitten person, the parent or guardian of a bitten child, the treating physician, the animal's owner and anyone else who knows of a bite by a rabies-capable animal to notify the Department or Health Officer, and deems a failure to report within 24 hours a violation. County Animal Services says a biting dog must then be quarantined for ten days from the date of the bite even if its rabies vaccination is current.",
+   "why_it_matters": "The report and the quarantine file are third-party documents that fix the date, the address and the identity of the dog before anyone's memory changes. They are often the strongest evidence in a claim the insurer did not create, and they also reveal whether this dog has bitten before. Which agency holds the file depends on the address: San Diego Humane Society handles field services for the City of San Diego, County Animal Services covers the unincorporated areas.",
+   "sources": [
+    "https://codelibrary.amlegal.com/codes/san_diego/latest/sandiego_regs/0-0-0-127231",
+    "https://www.sddac.com/content/sdc/das/license-laws/laws/dog_bites.html"
+   ],
+   "verified": "2026-08-21",
+   "title": "A San Diego bite is reportable within 24 hours"
   },
-  "hero_accent": "What The Law Says About Dog Attacks",
-  "trust_third": "Liability rules explained before you call",
-  "services": [
-    {
-      "slug": "dog-bite-injury-claim",
-      "name": "Dog Bite Injury Claims",
-      "nav": "Dog bite claims",
-      "h1": "Dog Bite Injury Lawyer",
-      "accent": "Injuries, Evidence and Liability",
-      "keyword": "dog bite injury lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "child-dog-bite-claim",
-      "name": "Child Dog Bite Claims",
-      "nav": "Child bite claims",
-      "h1": "Child Dog Bite Claim Lawyer",
-      "accent": "Medical Needs and Future Damages",
-      "keyword": "child dog bite lawyer",
-      "icon": "eye"
-    },
-    {
-      "slug": "landlord-dog-bite-liability",
-      "name": "Landlord Liability Claims",
-      "nav": "Landlord liability",
-      "h1": "Landlord Dog Bite Liability Lawyer",
-      "accent": "Property Control and Notice Questions",
-      "keyword": "landlord dog bite liability lawyer",
-      "icon": "house"
-    },
-    {
-      "slug": "dog-bite-insurance-claim",
-      "name": "Dog Bite Insurance Claims",
-      "nav": "Insurance claims",
-      "h1": "Dog Bite Insurance Claim Lawyer",
-      "accent": "Coverage, Offers and Claim Terms",
-      "keyword": "dog bite insurance claim lawyer",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "dog-bite-injury-claim",
-    "child-dog-bite-claim",
-    "landlord-dog-bite-liability",
-    "dog-bite-insurance-claim"
-  ],
-  "_market": {
-    "keyword": "san diego dog bite lawyer",
-    "monthly_price": 2000,
-    "score": 73,
-    "volume": 900,
-    "cpc_usd": 60.0,
-    "weakest_competitor": "dogbitelawgroup.com",
-    "competitor_dr": 18.0
+  {
+   "id": "grand_jury_bite_data",
+   "claim": "The 2023-2024 San Diego County Grand Jury dog bite report found that roughly 2,500 dog bites a year were reported by the county to the California Department of Public Health over the 2020 to 2022 period, that about 40 percent involved dogs that were unvaccinated or of unknown vaccination status, and that the true figure is higher because not every city files its statistics. It also recorded 9 to 18 Dangerous Dog hearings a year, of which 78 to 90 percent ended in a dangerous declaration.",
+   "why_it_matters": "Reported bites in this county run into the thousands every year, so an owner's claim that the incident was freakish carries little weight. The vaccination gap explains why so many San Diego bite victims face a rabies prophylaxis decision in the emergency room, which is a real cost item. And because a large share of Dangerous Dog hearings succeed, that county process can produce findings about the animal that sit alongside a civil claim.",
+   "sources": [
+    "https://www.sandiegocounty.gov/content/dam/sdc/grandjury/reports/2023-2024/dog-bites/23-24%20Dog%20Bite%20Report.pdf"
+   ],
+   "verified": "2026-08-21",
+   "title": "About 2,500 bites a year are reported here"
   }
+ ],
+ "neighborhoods": [
+  "North Park",
+  "City Heights",
+  "Pacific Beach",
+  "Clairemont Mesa",
+  "Point Loma",
+  "Mira Mesa"
+ ],
+ "symptoms": [
+  "bitten_by_dog",
+  "child_bitten_by_dog",
+  "dog_bite_at_rental",
+  "insurer_denied_claim"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "What The Law Says About Dog Attacks",
+ "trust_third": "Liability rules explained before you call",
+ "services": [
+  {
+   "slug": "dog-bite-injury-claim",
+   "name": "Dog Bite Injury Claims",
+   "nav": "Dog bite claims",
+   "h1": "Dog Bite Injury Lawyer",
+   "accent": "Injuries, Evidence and Liability",
+   "keyword": "dog bite injury lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "child-dog-bite-claim",
+   "name": "Child Dog Bite Claims",
+   "nav": "Child bite claims",
+   "h1": "Child Dog Bite Claim Lawyer",
+   "accent": "Medical Needs and Future Damages",
+   "keyword": "child dog bite lawyer",
+   "icon": "eye"
+  },
+  {
+   "slug": "landlord-dog-bite-liability",
+   "name": "Landlord Liability Claims",
+   "nav": "Landlord liability",
+   "h1": "Landlord Dog Bite Liability Lawyer",
+   "accent": "Property Control and Notice Questions",
+   "keyword": "landlord dog bite liability lawyer",
+   "icon": "house"
+  },
+  {
+   "slug": "dog-bite-insurance-claim",
+   "name": "Dog Bite Insurance Claims",
+   "nav": "Insurance claims",
+   "h1": "Dog Bite Insurance Claim Lawyer",
+   "accent": "Coverage, Offers and Claim Terms",
+   "keyword": "dog bite insurance claim lawyer",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "dog-bite-injury-claim",
+  "child-dog-bite-claim",
+  "landlord-dog-bite-liability",
+  "dog-bite-insurance-claim"
+ ],
+ "_market": {
+  "keyword": "san diego dog bite lawyer",
+  "monthly_price": 2000,
+  "score": 73,
+  "volume": 900,
+  "cpc_usd": 60.0,
+  "weakest_competitor": "dogbitelawgroup.com",
+  "competitor_dr": 18.0
+ }
 }

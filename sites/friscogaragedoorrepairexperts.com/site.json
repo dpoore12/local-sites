@@ -1,145 +1,145 @@
 {
-  "domain": "friscogaragedoorrepairexperts.com",
-  "phase": 1,
-  "brand": "Frisco Garage Door Repair Pros",
-  "service": "Garage Door Repair",
-  "service_inline": "garage door repair",
-  "city": "Frisco",
-  "state": "TX",
-  "state_full": "Texas",
-  "counties": [
-    "Collin",
-    "Denton"
-  ],
-  "area_codes": [
-    "214",
-    "469",
-    "972"
-  ],
-  "phone_display": "(214) 555-0100",
-  "phone_tel": "+12145550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 214 number before this domain resolves publicly.",
-  "emergency": true,
-  "timezone": "America/Chicago",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "friscogaragedoorrepairexperts.com",
+ "phase": 1,
+ "brand": "Frisco Garage Door Repair Pros",
+ "service": "Garage Door Repair",
+ "service_inline": "garage door repair",
+ "city": "Frisco",
+ "state": "TX",
+ "state_full": "Texas",
+ "counties": [
+  "Collin",
+  "Denton"
+ ],
+ "area_codes": [
+  "214",
+  "469",
+  "972"
+ ],
+ "phone_display": "(214) 997-0301",
+ "phone_tel": "+12149970301",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": true,
+ "timezone": "America/Chicago",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "newer_housing_stock",
+   "title": "A buildout-era housing base",
+   "claim": "Frisco's 2023 comprehensive-plan appendix reports 58,574 single-family housing units; 39.6% were built in 2000–2009, 31.2% in 2010–2019, and 11.4% in 2020 or later.",
+   "why_it_matters": "Many doors may still have the original builder-installed springs, rollers, bearings, and opener parts, so the inspection should look beyond the one component that first caught the homeowner's attention.",
+   "sources": [
+    "https://www.friscotexas.gov/DocumentCenter/View/36063/2040-Comp-Plan-Appendices-PDF"
+   ],
+   "verified": "2026-08-21"
   },
-  "local_facts": [
-    {
-      "id": "newer_housing_stock",
-      "title": "A buildout-era housing base",
-      "claim": "Frisco's 2023 comprehensive-plan appendix reports 58,574 single-family housing units; 39.6% were built in 2000\u20132009, 31.2% in 2010\u20132019, and 11.4% in 2020 or later.",
-      "why_it_matters": "Many doors may still have the original builder-installed springs, rollers, bearings, and opener parts, so the inspection should look beyond the one component that first caught the homeowner's attention.",
-      "sources": [
-        "https://www.friscotexas.gov/DocumentCenter/View/36063/2040-Comp-Plan-Appendices-PDF"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "doors_permits_and_hoas",
-      "title": "A city permit path and many HOAs",
-      "claim": "Frisco lists replacement doors among its residential self-service permit categories, and the City says Frisco has more than 200 HOAs.",
-      "why_it_matters": "A mechanical repair can often preserve the existing exterior; when a panel or full door must change, the homeowner can verify the city permit path and the applicable association review before finalizing a visible replacement.",
-      "sources": [
-        "https://www.friscotexas.gov/1696/Residential-Permits",
-        "https://www.friscotexas.gov/977/Neighborhoods"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "april_2014_hail",
-      "title": "A documented Frisco hail event",
-      "claim": "During the National Weather Service's April 3, 2014 North Texas severe-weather outbreak, trained spotters reported hail up to two inches in Frisco.",
-      "why_it_matters": "After hail or a wind event, a technician should check more than the face of the door: sections, hinges, track alignment, photo-eye brackets, and the door's full travel can all be affected.",
-      "sources": [
-        "https://www.weather.gov/fwd/storms040314"
-      ],
-      "verified": "2026-08-21"
-    }
-  ],
-  "neighborhoods": [
-    "Phillips Creek Ranch",
-    "Stonebriar",
-    "Panther Creek Estates",
-    "Christie Ranch",
-    "The Trails",
-    "Grayhawk"
-  ],
-  "symptoms": [
-    "broken_torsion_spring",
-    "door_reverses_before_closing",
-    "off_track_or_panel_damage",
-    "opener_runs_but_door_does_not_move"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "doors_permits_and_hoas",
+   "title": "A city permit path and many HOAs",
+   "claim": "Frisco lists replacement doors among its residential self-service permit categories, and the City says Frisco has more than 200 HOAs.",
+   "why_it_matters": "A mechanical repair can often preserve the existing exterior; when a panel or full door must change, the homeowner can verify the city permit path and the applicable association review before finalizing a visible replacement.",
+   "sources": [
+    "https://www.friscotexas.gov/1696/Residential-Permits",
+    "https://www.friscotexas.gov/977/Neighborhoods"
+   ],
+   "verified": "2026-08-21"
   },
-  "hero_accent": "Same-Day Repair, Upfront Pricing",
-  "trust_third": "Price quoted before the work starts",
-  "services": [
-    {
-      "slug": "garage-door-spring-repair",
-      "name": "Spring Repair",
-      "nav": "Spring repair",
-      "h1": "Garage Door Spring Repair",
-      "accent": "Same-Day Spring Replacement",
-      "photo": "assets/work-1.jpg",
-      "keyword": "garage door spring repair Frisco",
-      "icon": "bolt"
-    },
-    {
-      "slug": "garage-door-opener-repair",
-      "name": "Opener Repair",
-      "nav": "Opener repair",
-      "h1": "Garage Door Opener Repair",
-      "accent": "Sensors, Gears and Full Replacement",
-      "photo": "assets/work-3.jpg",
-      "keyword": "garage door opener repair Frisco",
-      "icon": "gear"
-    },
-    {
-      "slug": "off-track-garage-door-repair",
-      "name": "Off-Track and Cable Repair",
-      "nav": "Off-track door",
-      "h1": "Off-Track Garage Door Repair",
-      "accent": "Cables, Rollers and Bent Track",
-      "photo": "assets/work-2.jpg",
-      "keyword": "off track garage door repair Frisco",
-      "icon": "warn"
-    },
-    {
-      "slug": "garage-door-replacement",
-      "name": "Door and Panel Replacement",
-      "nav": "Door replacement",
-      "h1": "Garage Door Replacement",
-      "accent": "Single Panels and Full Doors",
-      "photo": "assets/hero.jpg",
-      "keyword": "garage door replacement Frisco",
-      "icon": "house"
-    }
-  ],
-  "symptom_service": [
-    "garage-door-spring-repair",
-    "garage-door-opener-repair",
-    "off-track-garage-door-repair",
-    "garage-door-opener-repair"
-  ],
-  "_market": {
-    "keyword": "frisco garage door repair",
-    "monthly_price": 1000,
-    "score": 76,
-    "volume": 200,
-    "cpc_usd": 25.0,
-    "weakest_competitor": "planooverhead.com",
-    "competitor_dr": 37.0
+  {
+   "id": "april_2014_hail",
+   "title": "A documented Frisco hail event",
+   "claim": "During the National Weather Service's April 3, 2014 North Texas severe-weather outbreak, trained spotters reported hail up to two inches in Frisco.",
+   "why_it_matters": "After hail or a wind event, a technician should check more than the face of the door: sections, hinges, track alignment, photo-eye brackets, and the door's full travel can all be affected.",
+   "sources": [
+    "https://www.weather.gov/fwd/storms040314"
+   ],
+   "verified": "2026-08-21"
   }
+ ],
+ "neighborhoods": [
+  "Phillips Creek Ranch",
+  "Stonebriar",
+  "Panther Creek Estates",
+  "Christie Ranch",
+  "The Trails",
+  "Grayhawk"
+ ],
+ "symptoms": [
+  "broken_torsion_spring",
+  "door_reverses_before_closing",
+  "off_track_or_panel_damage",
+  "opener_runs_but_door_does_not_move"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Same-Day Repair, Upfront Pricing",
+ "trust_third": "Price quoted before the work starts",
+ "services": [
+  {
+   "slug": "garage-door-spring-repair",
+   "name": "Spring Repair",
+   "nav": "Spring repair",
+   "h1": "Garage Door Spring Repair",
+   "accent": "Same-Day Spring Replacement",
+   "photo": "assets/work-1.jpg",
+   "keyword": "garage door spring repair Frisco",
+   "icon": "bolt"
+  },
+  {
+   "slug": "garage-door-opener-repair",
+   "name": "Opener Repair",
+   "nav": "Opener repair",
+   "h1": "Garage Door Opener Repair",
+   "accent": "Sensors, Gears and Full Replacement",
+   "photo": "assets/work-3.jpg",
+   "keyword": "garage door opener repair Frisco",
+   "icon": "gear"
+  },
+  {
+   "slug": "off-track-garage-door-repair",
+   "name": "Off-Track and Cable Repair",
+   "nav": "Off-track door",
+   "h1": "Off-Track Garage Door Repair",
+   "accent": "Cables, Rollers and Bent Track",
+   "photo": "assets/work-2.jpg",
+   "keyword": "off track garage door repair Frisco",
+   "icon": "warn"
+  },
+  {
+   "slug": "garage-door-replacement",
+   "name": "Door and Panel Replacement",
+   "nav": "Door replacement",
+   "h1": "Garage Door Replacement",
+   "accent": "Single Panels and Full Doors",
+   "photo": "assets/hero.jpg",
+   "keyword": "garage door replacement Frisco",
+   "icon": "house"
+  }
+ ],
+ "symptom_service": [
+  "garage-door-spring-repair",
+  "garage-door-opener-repair",
+  "off-track-garage-door-repair",
+  "garage-door-opener-repair"
+ ],
+ "_market": {
+  "keyword": "frisco garage door repair",
+  "monthly_price": 1000,
+  "score": 76,
+  "volume": 200,
+  "cpc_usd": 25.0,
+  "weakest_competitor": "planooverhead.com",
+  "competitor_dr": 37.0
+ }
 }

@@ -1,100 +1,100 @@
 {
-  "domain": "oceansidepersonalinjurylawyerpros.com",
-  "phase": 1,
-  "brand": "Oceanside Personal Injury Law Pros",
-  "service": "Personal Injury Lawyer",
-  "service_inline": "personal injury lawyer",
-  "city": "Oceanside",
-  "state": "CA",
-  "state_full": "California",
-  "counties": [
-    "San Diego"
-  ],
-  "area_codes": [
-    "442",
-    "760"
-  ],
-  "phone_display": "(442) 555-0100",
-  "phone_tel": "+14425550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 442 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/Los_Angeles",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "oceansidepersonalinjurylawyerpros.com",
+ "phase": 1,
+ "brand": "Oceanside Personal Injury Law Pros",
+ "service": "Personal Injury Lawyer",
+ "service_inline": "personal injury lawyer",
+ "city": "Oceanside",
+ "state": "CA",
+ "state_full": "California",
+ "counties": [
+  "San Diego"
+ ],
+ "area_codes": [
+  "442",
+  "760"
+ ],
+ "phone_display": "(442) 246-8708",
+ "phone_tel": "+14422468708",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": false,
+ "timezone": "America/Los_Angeles",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [],
+ "neighborhoods": [],
+ "symptoms": [
+  "injured_on_property",
+  "medical_care_after_accident",
+  "defective_product_injury",
+  "life_changing_injury"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "What An Injury Claim Actually Involves",
+ "trust_third": "Deadlines and liability rules, spelled out",
+ "services": [
+  {
+   "slug": "slip-and-fall-lawyer",
+   "name": "Slip and Fall Claims",
+   "nav": "Slip and fall",
+   "h1": "Slip and Fall Lawyer",
+   "accent": "Hazards, Evidence and Injury Claims",
+   "keyword": "slip and fall lawyer",
+   "icon": "warn"
   },
-  "local_facts": [],
-  "neighborhoods": [],
-  "symptoms": [
-    "injured_on_property",
-    "medical_care_after_accident",
-    "defective_product_injury",
-    "life_changing_injury"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "slug": "medical-malpractice-lawyer",
+   "name": "Medical Malpractice Claims",
+   "nav": "Medical malpractice",
+   "h1": "Medical Malpractice Lawyer",
+   "accent": "Records, Harm and Claim Review",
+   "keyword": "medical malpractice lawyer",
+   "icon": "search"
   },
-  "hero_accent": "What An Injury Claim Actually Involves",
-  "trust_third": "Deadlines and liability rules, spelled out",
-  "services": [
-    {
-      "slug": "slip-and-fall-lawyer",
-      "name": "Slip and Fall Claims",
-      "nav": "Slip and fall",
-      "h1": "Slip and Fall Lawyer",
-      "accent": "Hazards, Evidence and Injury Claims",
-      "keyword": "slip and fall lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "medical-malpractice-lawyer",
-      "name": "Medical Malpractice Claims",
-      "nav": "Medical malpractice",
-      "h1": "Medical Malpractice Lawyer",
-      "accent": "Records, Harm and Claim Review",
-      "keyword": "medical malpractice lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "product-liability-lawyer",
-      "name": "Product Liability Claims",
-      "nav": "Product liability",
-      "h1": "Product Liability Lawyer",
-      "accent": "Defects, Warnings and Liability",
-      "keyword": "product liability lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "catastrophic-injury-lawyer",
-      "name": "Catastrophic Injury Claims",
-      "nav": "Catastrophic injuries",
-      "h1": "Catastrophic Injury Lawyer",
-      "accent": "Long-Term Needs and Damages",
-      "keyword": "catastrophic injury lawyer",
-      "icon": "bolt"
-    }
-  ],
-  "symptom_service": [
-    "slip-and-fall-lawyer",
-    "medical-malpractice-lawyer",
-    "product-liability-lawyer",
-    "catastrophic-injury-lawyer"
-  ],
-  "_market": {
-    "keyword": "personal injury lawyer oceanside",
-    "monthly_price": 800,
-    "score": 89,
-    "volume": 150,
-    "cpc_usd": 60.0,
-    "weakest_competitor": "sargentlawfirm.com",
-    "competitor_dr": 21.0
+  {
+   "slug": "product-liability-lawyer",
+   "name": "Product Liability Claims",
+   "nav": "Product liability",
+   "h1": "Product Liability Lawyer",
+   "accent": "Defects, Warnings and Liability",
+   "keyword": "product liability lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "catastrophic-injury-lawyer",
+   "name": "Catastrophic Injury Claims",
+   "nav": "Catastrophic injuries",
+   "h1": "Catastrophic Injury Lawyer",
+   "accent": "Long-Term Needs and Damages",
+   "keyword": "catastrophic injury lawyer",
+   "icon": "bolt"
   }
+ ],
+ "symptom_service": [
+  "slip-and-fall-lawyer",
+  "medical-malpractice-lawyer",
+  "product-liability-lawyer",
+  "catastrophic-injury-lawyer"
+ ],
+ "_market": {
+  "keyword": "personal injury lawyer oceanside",
+  "monthly_price": 800,
+  "score": 89,
+  "volume": 150,
+  "cpc_usd": 60.0,
+  "weakest_competitor": "sargentlawfirm.com",
+  "competitor_dr": 21.0
+ }
 }

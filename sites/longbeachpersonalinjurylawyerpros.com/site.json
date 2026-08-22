@@ -1,138 +1,138 @@
 {
-  "domain": "longbeachpersonalinjurylawyerpros.com",
-  "phase": 1,
-  "brand": "Long Beach Personal Injury Law Pros",
-  "service": "Personal Injury Lawyer",
-  "service_inline": "personal injury lawyer",
-  "city": "Long Beach",
-  "state": "CA",
-  "state_full": "California",
-  "counties": [
-    "Los Angeles"
-  ],
-  "area_codes": [
-    "562"
-  ],
-  "phone_display": "(562) 555-0100",
-  "phone_tel": "+15625550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 562 number before this domain resolves publicly.",
-  "emergency": false,
-  "timezone": "America/Los_Angeles",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "longbeachpersonalinjurylawyerpros.com",
+ "phase": 1,
+ "brand": "Long Beach Personal Injury Law Pros",
+ "service": "Personal Injury Lawyer",
+ "service_inline": "personal injury lawyer",
+ "city": "Long Beach",
+ "state": "CA",
+ "state_full": "California",
+ "counties": [
+  "Los Angeles"
+ ],
+ "area_codes": [
+  "562"
+ ],
+ "phone_display": "(562) 586-9166",
+ "phone_tel": "+15625869166",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": false,
+ "timezone": "America/Los_Angeles",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "proposition_213",
+   "title": "Proposition 213 is a distinct vehicle-claim rule",
+   "claim": "California Civil Code section 3333.4 limits non-economic losses in specified motor-vehicle cases involving an uninsured owner or an operator unable to establish required financial responsibility; the statute lists pain, suffering, inconvenience, impairment, and disfigurement among those losses and includes a defined exception.",
+   "why_it_matters": "A Long Beach crash file should preserve insurance and ownership records at the outset. This rule can change the analysis independently of who caused the collision.",
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3333.4.&lawCode=CIV",
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16020."
+   ],
+   "verified": "2026-08-21"
   },
-  "local_facts": [
-    {
-      "id": "proposition_213",
-      "title": "Proposition 213 is a distinct vehicle-claim rule",
-      "claim": "California Civil Code section 3333.4 limits non-economic losses in specified motor-vehicle cases involving an uninsured owner or an operator unable to establish required financial responsibility; the statute lists pain, suffering, inconvenience, impairment, and disfigurement among those losses and includes a defined exception.",
-      "why_it_matters": "A Long Beach crash file should preserve insurance and ownership records at the outset. This rule can change the analysis independently of who caused the collision.",
-      "sources": [
-        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3333.4.&lawCode=CIV",
-        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16020."
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "designated_truck_routes",
-      "title": "Long Beach maintains designated truck routes",
-      "claim": "The City of Long Beach truck-route map identifies designated truck routes and shows harbor-area streets plus freeway connections including the 710, 405, 91, 605, and 103.",
-      "why_it_matters": "A collision involving a port-serving or other commercial vehicle may require early preservation of carrier identity, trailer details, and business-held records in addition to the usual crash evidence.",
-      "sources": [
-        "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/truckroutemap_web"
-      ],
-      "verified": "2026-08-21"
-    },
-    {
-      "id": "long_beach_civil_departments",
-      "title": "Civil trial departments are listed in Long Beach",
-      "claim": "Los Angeles Superior Court’s civil trial courtroom list identifies Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue, Long Beach, California 90802.",
-      "why_it_matters": "Court procedure and venue are case-specific, but a local claim may involve a courthouse close to the city rather than an abstract statewide process.",
-      "sources": [
-        "https://www.lacourt.org/division/civil/pdf/Trial_Courtrooms.pdf"
-      ],
-      "verified": "2026-08-21"
-    }
-  ],
-  "neighborhoods": [
-    "Bixby Knolls",
-    "California Heights",
-    "Carroll Park",
-    "Downtown",
-    "Bluff Park",
-    "Wrigley"
-  ],
-  "symptoms": [
-    "injured_on_property",
-    "medical_care_after_accident",
-    "defective_product_injury",
-    "life_changing_injury"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "designated_truck_routes",
+   "title": "Long Beach maintains designated truck routes",
+   "claim": "The City of Long Beach truck-route map identifies designated truck routes and shows harbor-area streets plus freeway connections including the 710, 405, 91, 605, and 103.",
+   "why_it_matters": "A collision involving a port-serving or other commercial vehicle may require early preservation of carrier identity, trailer details, and business-held records in addition to the usual crash evidence.",
+   "sources": [
+    "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/truckroutemap_web"
+   ],
+   "verified": "2026-08-21"
   },
-  "hero_accent": "What An Injury Claim Actually Involves",
-  "trust_third": "Deadlines and liability rules, spelled out",
-  "services": [
-    {
-      "slug": "slip-and-fall-lawyer",
-      "name": "Slip and Fall Claims",
-      "nav": "Slip and fall",
-      "h1": "Slip and Fall Lawyer",
-      "accent": "Hazards, Evidence and Injury Claims",
-      "keyword": "slip and fall lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "medical-malpractice-lawyer",
-      "name": "Medical Malpractice Claims",
-      "nav": "Medical malpractice",
-      "h1": "Medical Malpractice Lawyer",
-      "accent": "Records, Harm and Claim Review",
-      "keyword": "medical malpractice lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "product-liability-lawyer",
-      "name": "Product Liability Claims",
-      "nav": "Product liability",
-      "h1": "Product Liability Lawyer",
-      "accent": "Defects, Warnings and Liability",
-      "keyword": "product liability lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "catastrophic-injury-lawyer",
-      "name": "Catastrophic Injury Claims",
-      "nav": "Catastrophic injuries",
-      "h1": "Catastrophic Injury Lawyer",
-      "accent": "Long-Term Needs and Damages",
-      "keyword": "catastrophic injury lawyer",
-      "icon": "bolt"
-    }
-  ],
-  "symptom_service": [
-    "slip-and-fall-lawyer",
-    "medical-malpractice-lawyer",
-    "product-liability-lawyer",
-    "catastrophic-injury-lawyer"
-  ],
-  "_market": {
-    "keyword": "long beach personal injury lawyer",
-    "monthly_price": 1000,
-    "score": 71,
-    "volume": 700,
-    "cpc_usd": 30.0,
-    "weakest_competitor": "asherhoffmanlaw.com",
-    "competitor_dr": 13.0
+  {
+   "id": "long_beach_civil_departments",
+   "title": "Civil trial departments are listed in Long Beach",
+   "claim": "Los Angeles Superior Court’s civil trial courtroom list identifies Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue, Long Beach, California 90802.",
+   "why_it_matters": "Court procedure and venue are case-specific, but a local claim may involve a courthouse close to the city rather than an abstract statewide process.",
+   "sources": [
+    "https://www.lacourt.org/division/civil/pdf/Trial_Courtrooms.pdf"
+   ],
+   "verified": "2026-08-21"
   }
+ ],
+ "neighborhoods": [
+  "Bixby Knolls",
+  "California Heights",
+  "Carroll Park",
+  "Downtown",
+  "Bluff Park",
+  "Wrigley"
+ ],
+ "symptoms": [
+  "injured_on_property",
+  "medical_care_after_accident",
+  "defective_product_injury",
+  "life_changing_injury"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "What An Injury Claim Actually Involves",
+ "trust_third": "Deadlines and liability rules, spelled out",
+ "services": [
+  {
+   "slug": "slip-and-fall-lawyer",
+   "name": "Slip and Fall Claims",
+   "nav": "Slip and fall",
+   "h1": "Slip and Fall Lawyer",
+   "accent": "Hazards, Evidence and Injury Claims",
+   "keyword": "slip and fall lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "medical-malpractice-lawyer",
+   "name": "Medical Malpractice Claims",
+   "nav": "Medical malpractice",
+   "h1": "Medical Malpractice Lawyer",
+   "accent": "Records, Harm and Claim Review",
+   "keyword": "medical malpractice lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "product-liability-lawyer",
+   "name": "Product Liability Claims",
+   "nav": "Product liability",
+   "h1": "Product Liability Lawyer",
+   "accent": "Defects, Warnings and Liability",
+   "keyword": "product liability lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "catastrophic-injury-lawyer",
+   "name": "Catastrophic Injury Claims",
+   "nav": "Catastrophic injuries",
+   "h1": "Catastrophic Injury Lawyer",
+   "accent": "Long-Term Needs and Damages",
+   "keyword": "catastrophic injury lawyer",
+   "icon": "bolt"
+  }
+ ],
+ "symptom_service": [
+  "slip-and-fall-lawyer",
+  "medical-malpractice-lawyer",
+  "product-liability-lawyer",
+  "catastrophic-injury-lawyer"
+ ],
+ "_market": {
+  "keyword": "long beach personal injury lawyer",
+  "monthly_price": 1000,
+  "score": 71,
+  "volume": 700,
+  "cpc_usd": 30.0,
+  "weakest_competitor": "asherhoffmanlaw.com",
+  "competitor_dr": 13.0
+ }
 }

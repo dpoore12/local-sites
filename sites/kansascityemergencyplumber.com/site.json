@@ -1,140 +1,140 @@
 {
-  "domain": "kansascityemergencyplumber.com",
-  "phase": 1,
-  "brand": "Kansas City Emergency Plumbing Pros",
-  "service": "Emergency Plumbing",
-  "service_inline": "emergency plumbing",
-  "city": "Kansas City",
-  "state": "MO",
-  "state_full": "Missouri",
-  "counties": [
-    "Jackson",
-    "Clay",
-    "Platte"
-  ],
-  "area_codes": [
-    "816"
-  ],
-  "phone_display": "(816) 555-0100",
-  "phone_tel": "+18165550100",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 816 number before this domain resolves publicly.",
-  "emergency": true,
-  "timezone": "America/Chicago",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "kansascityemergencyplumber.com",
+ "phase": 1,
+ "brand": "Kansas City Emergency Plumbing Pros",
+ "service": "Emergency Plumbing",
+ "service_inline": "emergency plumbing",
+ "city": "Kansas City",
+ "state": "MO",
+ "state_full": "Missouri",
+ "counties": [
+  "Jackson",
+  "Clay",
+  "Platte"
+ ],
+ "area_codes": [
+  "816"
+ ],
+ "phone_display": "(816) 264-1558",
+ "phone_tel": "+18162641558",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": true,
+ "timezone": "America/Chicago",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "freeze_2021",
+   "claim": "National Weather Service records for Kansas City show minimum temperatures of -6°F on February 14, -10°F on February 15, and -13°F on February 16, 2021.",
+   "why_it_matters": "A hard freeze is not only a comfort problem. Pipes in exterior walls, garages, crawlspaces, and unheated areas can freeze; a failure may become visible as the pipe thaws. An active leak needs to be isolated before the repair is priced and made.",
+   "sources": [
+    "https://www.weather.gov/eax/kcrecnorm-feb"
+   ],
+   "verified": "2026-08-21",
+   "title": "Kansas City has documented hard-freeze exposure"
   },
-  "local_facts": [
-    {
-      "id": "freeze_2021",
-      "claim": "National Weather Service records for Kansas City show minimum temperatures of -6\u00b0F on February 14, -10\u00b0F on February 15, and -13\u00b0F on February 16, 2021.",
-      "why_it_matters": "A hard freeze is not only a comfort problem. Pipes in exterior walls, garages, crawlspaces, and unheated areas can freeze; a failure may become visible as the pipe thaws. An active leak needs to be isolated before the repair is priced and made.",
-      "sources": [
-        "https://www.weather.gov/eax/kcrecnorm-feb"
-      ],
-      "verified": "2026-08-21",
-      "title": "Kansas City has documented hard-freeze exposure"
-    },
-    {
-      "id": "cast_iron_housing",
-      "claim": "A Kansas City home-inspection source says cast-iron drain, waste, and vent piping was standard in homes built from the 1950s through the early 1980s, and documents original lead and cast-iron pipe at a 60-year-old Bannister Slopes home.",
-      "why_it_matters": "House age does not diagnose a backup, but it is a useful reason to identify pipe material and inspect a repeat problem rather than assuming every slow drain is a routine fixture clog. Cast iron needs its own condition check after flow is restored.",
-      "sources": [
-        "https://bulldoginspect.com/cast-iron-drain-lines-kansas-city-mo-homes/"
-      ],
-      "verified": "2026-08-21",
-      "title": "Older homes can have cast-iron drain systems"
-    },
-    {
-      "id": "two_states_two_systems",
-      "claim": "Kansas City, Missouri says permits are needed before most plumbing work, while the Board of Public Utilities says it serves water customers in Kansas City, Kansas. The shared metro name does not mean the two sides use the same permitting or water-service authority.",
-      "why_it_matters": "For a visit or a follow-up that becomes replacement work, the full street address and state determine which local utility and permitting information applies. This page is written for Kansas City, Missouri rather than treating the metro as one jurisdiction.",
-      "sources": [
-        "https://www.kcmo.gov/city-hall/departments/city-planning-development/electrical-plumbing-and-mechanical-permits",
-        "https://www.bpu.com/forhome/waterservice.aspx"
-      ],
-      "verified": "2026-08-21",
-      "title": "The State Line changes the local utility and permit path"
-    }
-  ],
-  "neighborhoods": [
-    "River Market",
-    "Westport",
-    "Hyde Park",
-    "Brookside",
-    "Waldo",
-    "Pendleton Heights"
-  ],
-  "symptoms": [
-    "burst_pipe",
-    "overflowing_drain",
-    "sewage_backup",
-    "no_running_water"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "cast_iron_housing",
+   "claim": "A Kansas City home-inspection source says cast-iron drain, waste, and vent piping was standard in homes built from the 1950s through the early 1980s, and documents original lead and cast-iron pipe at a 60-year-old Bannister Slopes home.",
+   "why_it_matters": "House age does not diagnose a backup, but it is a useful reason to identify pipe material and inspect a repeat problem rather than assuming every slow drain is a routine fixture clog. Cast iron needs its own condition check after flow is restored.",
+   "sources": [
+    "https://bulldoginspect.com/cast-iron-drain-lines-kansas-city-mo-homes/"
+   ],
+   "verified": "2026-08-21",
+   "title": "Older homes can have cast-iron drain systems"
   },
-  "hero_accent": "Water Stopped Today, Price First",
-  "trust_third": "Price quoted before emergency work starts",
-  "services": [
-    {
-      "slug": "emergency-plumbing-repair",
-      "name": "Emergency Plumbing Repair",
-      "nav": "Emergency repair",
-      "h1": "Emergency Plumbing Repair",
-      "accent": "Fast Help for Active Leaks",
-      "keyword": "emergency plumbing repair",
-      "icon": "bolt"
-    },
-    {
-      "slug": "burst-pipe-repair",
-      "name": "Burst Pipe Repair",
-      "nav": "Burst pipes",
-      "h1": "Burst Pipe Repair",
-      "accent": "Pipe Repaired Before More Damage",
-      "keyword": "burst pipe repair",
-      "icon": "drop"
-    },
-    {
-      "slug": "drain-cleaning",
-      "name": "Drain Cleaning",
-      "nav": "Drain cleaning",
-      "h1": "Drain Cleaning",
-      "accent": "Clogs Cleared and Flow Restored",
-      "keyword": "drain cleaning",
-      "icon": "wrench"
-    },
-    {
-      "slug": "sewer-line-repair",
-      "name": "Sewer Line Repair",
-      "nav": "Sewer line repair",
-      "h1": "Sewer Line Repair",
-      "accent": "Backups Stopped at the Source",
-      "keyword": "sewer line repair",
-      "icon": "warn"
-    }
-  ],
-  "symptom_service": [
-    "burst-pipe-repair",
-    "drain-cleaning",
-    "sewer-line-repair",
-    "emergency-plumbing-repair"
-  ],
-  "_market": {
-    "keyword": "emergency plumber kansas city",
-    "monthly_price": 800,
-    "score": 67,
-    "volume": 500,
-    "cpc_usd": 50.0,
-    "weakest_competitor": "rotorooter.com",
-    "competitor_dr": 74.0
+  {
+   "id": "two_states_two_systems",
+   "claim": "Kansas City, Missouri says permits are needed before most plumbing work, while the Board of Public Utilities says it serves water customers in Kansas City, Kansas. The shared metro name does not mean the two sides use the same permitting or water-service authority.",
+   "why_it_matters": "For a visit or a follow-up that becomes replacement work, the full street address and state determine which local utility and permitting information applies. This page is written for Kansas City, Missouri rather than treating the metro as one jurisdiction.",
+   "sources": [
+    "https://www.kcmo.gov/city-hall/departments/city-planning-development/electrical-plumbing-and-mechanical-permits",
+    "https://www.bpu.com/forhome/waterservice.aspx"
+   ],
+   "verified": "2026-08-21",
+   "title": "The State Line changes the local utility and permit path"
   }
+ ],
+ "neighborhoods": [
+  "River Market",
+  "Westport",
+  "Hyde Park",
+  "Brookside",
+  "Waldo",
+  "Pendleton Heights"
+ ],
+ "symptoms": [
+  "burst_pipe",
+  "overflowing_drain",
+  "sewage_backup",
+  "no_running_water"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "hero_accent": "Water Stopped Today, Price First",
+ "trust_third": "Price quoted before emergency work starts",
+ "services": [
+  {
+   "slug": "emergency-plumbing-repair",
+   "name": "Emergency Plumbing Repair",
+   "nav": "Emergency repair",
+   "h1": "Emergency Plumbing Repair",
+   "accent": "Fast Help for Active Leaks",
+   "keyword": "emergency plumbing repair",
+   "icon": "bolt"
+  },
+  {
+   "slug": "burst-pipe-repair",
+   "name": "Burst Pipe Repair",
+   "nav": "Burst pipes",
+   "h1": "Burst Pipe Repair",
+   "accent": "Pipe Repaired Before More Damage",
+   "keyword": "burst pipe repair",
+   "icon": "drop"
+  },
+  {
+   "slug": "drain-cleaning",
+   "name": "Drain Cleaning",
+   "nav": "Drain cleaning",
+   "h1": "Drain Cleaning",
+   "accent": "Clogs Cleared and Flow Restored",
+   "keyword": "drain cleaning",
+   "icon": "wrench"
+  },
+  {
+   "slug": "sewer-line-repair",
+   "name": "Sewer Line Repair",
+   "nav": "Sewer line repair",
+   "h1": "Sewer Line Repair",
+   "accent": "Backups Stopped at the Source",
+   "keyword": "sewer line repair",
+   "icon": "warn"
+  }
+ ],
+ "symptom_service": [
+  "burst-pipe-repair",
+  "drain-cleaning",
+  "sewer-line-repair",
+  "emergency-plumbing-repair"
+ ],
+ "_market": {
+  "keyword": "emergency plumber kansas city",
+  "monthly_price": 800,
+  "score": 67,
+  "volume": 500,
+  "cpc_usd": 50.0,
+  "weakest_competitor": "rotorooter.com",
+  "competitor_dr": 74.0
+ }
 }
