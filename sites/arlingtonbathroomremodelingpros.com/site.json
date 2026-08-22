@@ -31,8 +31,46 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "bath_remodel_permit",
+      "title": "Arlington identifies bath remodels as work that needs a permit",
+      "claim": "Arlington\u2019s December 2024 DIY permit guide identifies kitchen and bath remodels among the common home changes that require a permit. The same guide recommends using a licensed professional contractor for electrical and plumbing work for safety reasons.",
+      "why_it_matters": "A bathroom scope should be settled before finishes are ordered: moving a drain, adding a circuit, changing framing, or altering the shower layout can change the permit path. A clear work list makes it possible to plan the right sequence instead of discovering a permit question after walls are open.",
+      "sources": [
+        "https://www.arlingtontx.gov/News-Articles/2024/December/Do-I-Need-A-Permit-A-DIY-Guide"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "permit_inspection_timing",
+      "title": "Arlington\u2019s permit guide links plumbing and electrical work to inspections",
+      "claim": "Arlington\u2019s permitting guide lists electrical and plumbing among required permit categories, directs applicants to ArlingtonPermits.com to apply and schedule inspections, and says inspection requests made after 7 a.m. are scheduled for the following business day.",
+      "why_it_matters": "The wall-close and finish schedule has to leave room for the right checks. A remodel plan that separates demolition, rough plumbing and electrical work, inspection, waterproofing, tile, and fixtures avoids covering work before it can be checked and helps set a realistic finish date.",
+      "sources": [
+        "https://www.arlingtontx.gov/files/assets/city/v/1/code-compliance/documents/get-involved-code-compliance/do-i-need-a-permit.pdf"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "older_housing_stock",
+      "title": "Much of Arlington\u2019s single-family housing predates 1990",
+      "claim": "Arlington Economic Development Corporation\u2019s July 2024 single-family housing profile reports a 1984 median year built for a single-family property and says more than 65 percent of the city\u2019s housing stock was built before 1990, using 2023 Tarrant Appraisal District data.",
+      "why_it_matters": "In an older bath, the visible tile is not the whole scope. The crew should allow for an early look at the drain, supply lines, venting, framing, and prior repairs once access is opened. That is the practical way to turn an older-room remodel into a defined plan rather than a string of surprises.",
+      "sources": [
+        "https://arlingtontxedc.com/assets/main/singlefamilyhousingprofile_final.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "College Oaks",
+    "Elm Shadows",
+    "Glynn Oaks",
+    "Mill Creek Estates",
+    "Brasher-Keith Addition",
+    "South Center Street Historic District"
+  ],
   "symptoms": [
     "outdated_bathroom",
     "damaged_shower",

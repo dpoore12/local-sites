@@ -30,8 +30,46 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "dmv_sr1",
+      "title": "A crash report can still leave a separate 10-day DMV task",
+      "claim": "California DMV requires an SR-1 within 10 days when a crash causes any injury or death, or more than $1,000 in property damage; it is separate from a police, CHP, or insurance report.",
+      "why_it_matters": "A Modesto collision file can have a CHP or police report and still carry an independent DMV reporting deadline.",
+      "sources": [
+        "https://www.dmv.ca.gov/portal/dmv-virtual-office/accident-reporting/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "limits_2025",
+      "title": "The familiar 15/30/5 shorthand is not the current floor",
+      "claim": "California raised standard auto-policy minimum liability limits as policies renewed beginning January 1, 2025, from $15,000/$30,000/$5,000 to $30,000/$60,000/$15,000.",
+      "why_it_matters": "The crash and policy-renewal dates affect which limits are relevant, and a minimum limit is not a measure of the full loss.",
+      "sources": [
+        "https://www.insurance.ca.gov/0400-news/0102-alerts/2025/New-Year-Means-New-Changes-for-Insurance.cfm"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "stanislaus_2023",
+      "title": "Stanislaus County\u2019s traffic-injury volume makes early evidence practical",
+      "claim": "The California Office of Traffic Safety recorded 4,679 people killed or injured in Stanislaus County traffic collisions in 2023, including 389 fatal-and-injury hit-and-run collisions.",
+      "why_it_matters": "In a county with this volume of serious crash events, report requests, camera preservation, witness details, and insurance records need early attention.",
+      "sources": [
+        "https://www.ots.ca.gov/rankings/stanislaus-county-2023/"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown Modesto",
+    "La Loma",
+    "College Area",
+    "Village One",
+    "Coffee-Claratina",
+    "Pelandale-Snyder"
+  ],
   "symptoms": [
     "rear_end_collision_injury",
     "hit_and_run_crash",

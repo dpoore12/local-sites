@@ -8,9 +8,9 @@
   "state": "CO",
   "state_full": "Colorado",
   "counties": [
+    "Denver",
     "Adams",
     "Arapahoe",
-    "Denver",
     "Jefferson"
   ],
   "area_codes": [
@@ -33,8 +33,48 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "no_fault_standard",
+      "claim": "Colorado law makes irretrievable breakdown of the marriage relationship the sole basis for dissolution. A petition for dissolution must allege that the marriage is irretrievably broken.",
+      "why_it_matters": "The statutory basis for a Colorado divorce is different from proving marital misconduct. That rule does not resolve the separate questions about property, debt, parenting, support, disclosures, or an agreement in a particular case.",
+      "sources": [
+        "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-14.docx"
+      ],
+      "verified": "2026-08-21",
+      "title": "Colorado\u2019s divorce standard is irretrievable breakdown"
+    },
+    {
+      "id": "ninety_one_day_minimum",
+      "claim": "Colorado Judicial Branch instructions say a divorce has a 91-day waiting period even if spouses agree on all issues. The period begins when a joint petition is filed, or when the other spouse is served or signs a waiver in a separately filed matter.",
+      "why_it_matters": "Ninety-one days is a minimum court period, not a promise that a case will be finished on that date. Filing, service, financial documents, court directions, agreements, disagreements, and scheduling can affect the path after a case begins.",
+      "sources": [
+        "https://www.coloradojudicial.gov/sites/default/files/2025-07/JDF1010.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "The 91-day period is a minimum, not a completion date"
+    },
+    {
+      "id": "denver_court_and_disclosures",
+      "claim": "Denver District Court handles domestic-relations cases, including dissolution of marriage. Colorado\u2019s filing instructions say each spouse must file a Sworn Financial Statement and Certificate of Compliance within 42 days after filing or receiving the petition; Denver also publishes local family-law forms for use in Denver District Court only.",
+      "why_it_matters": "A Denver matter can involve both statewide Colorado requirements and Denver-only court materials. Organizing financial records and checking the correct court\u2019s instructions helps prevent a form or timing detail from being overlooked.",
+      "sources": [
+        "https://www.coloradojudicial.gov/denver-district-court?language=en",
+        "https://www.coloradojudicial.gov/sites/default/files/2025-07/JDF1010.pdf",
+        "https://www.coloradojudicial.gov/courts/trial-courts/denver-district/denver-local-forms"
+      ],
+      "verified": "2026-08-21",
+      "title": "Denver cases use statewide rules and Denver court materials"
+    }
+  ],
+  "neighborhoods": [
+    "Capitol Hill",
+    "Five Points",
+    "Highland",
+    "Cherry Creek",
+    "Washington Park",
+    "Park Hill"
+  ],
   "symptoms": [
     "spouse_files_for_divorce",
     "property_division_dispute",

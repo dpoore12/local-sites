@@ -29,8 +29,47 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "proposition_213",
+      "title": "Proposition 213 is a distinct vehicle-claim rule",
+      "claim": "California Civil Code section 3333.4 limits non-economic losses in specified motor-vehicle cases involving an uninsured owner or an operator unable to establish required financial responsibility; the statute lists pain, suffering, inconvenience, impairment, and disfigurement among those losses and includes a defined exception.",
+      "why_it_matters": "A Long Beach crash file should preserve insurance and ownership records at the outset. This rule can change the analysis independently of who caused the collision.",
+      "sources": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3333.4.&lawCode=CIV",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16020."
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "designated_truck_routes",
+      "title": "Long Beach maintains designated truck routes",
+      "claim": "The City of Long Beach truck-route map identifies designated truck routes and shows harbor-area streets plus freeway connections including the 710, 405, 91, 605, and 103.",
+      "why_it_matters": "A collision involving a port-serving or other commercial vehicle may require early preservation of carrier identity, trailer details, and business-held records in addition to the usual crash evidence.",
+      "sources": [
+        "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/truckroutemap_web"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "long_beach_civil_departments",
+      "title": "Civil trial departments are listed in Long Beach",
+      "claim": "Los Angeles Superior Court’s civil trial courtroom list identifies Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue, Long Beach, California 90802.",
+      "why_it_matters": "Court procedure and venue are case-specific, but a local claim may involve a courthouse close to the city rather than an abstract statewide process.",
+      "sources": [
+        "https://www.lacourt.org/division/civil/pdf/Trial_Courtrooms.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Bixby Knolls",
+    "California Heights",
+    "Carroll Park",
+    "Downtown",
+    "Bluff Park",
+    "Wrigley"
+  ],
   "symptoms": [
     "injured_on_property",
     "medical_care_after_accident",

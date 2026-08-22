@@ -8,8 +8,8 @@
   "state": "OH",
   "state_full": "Ohio",
   "counties": [
-    "Clermont",
-    "Hamilton"
+    "Hamilton",
+    "Clermont"
   ],
   "area_codes": [
     "513"
@@ -30,8 +30,49 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "ohio_deadline",
+      "title": "Ohio\u2019s general injury deadline",
+      "claim": "Ohio Revised Code section 2305.10 generally requires a bodily-injury or product-liability action to be brought within two years after the cause of action accrues; the statute also contains different accrual rules and product-liability provisions.",
+      "why_it_matters": "The incident date, discovery facts and claim type need to be identified at the outset. A general two-year rule does not resolve every Cincinnati injury question.",
+      "sources": [
+        "https://codes.ohio.gov/ohio-revised-code/section-2305.10",
+        "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "fault_and_damages",
+      "title": "Shared fault and damage categories",
+      "claim": "Ohio Revised Code section 2315.33 permits recovery only when a claimant\u2019s contributory fault is not greater than the combined tortious conduct of others, and proportionally reduces compensatory damages. Section 2315.18 separately defines economic and noneconomic loss and sets stated limits and exceptions for noneconomic damages in tort actions.",
+      "why_it_matters": "Scene evidence, witness accounts and records of economic loss can affect both liability and damages analysis; the statutory cap is not a single formula for every injury category.",
+      "sources": [
+        "https://codes.ohio.gov/ohio-revised-code/section-2315.33",
+        "https://codes.ohio.gov/ohio-revised-code/section-2315.18"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "hamilton_civil_records",
+      "title": "Hamilton County civil-case record path",
+      "claim": "The Civil Division of the Hamilton County Clerk of Courts maintains records for lawsuits including personal injury, and states that Common Pleas pleadings may be filed through e-filing.",
+      "why_it_matters": "For a Cincinnati lawsuit that belongs in Common Pleas, the local record and filing path is concrete; court and venue still require analysis of the particular claim.",
+      "sources": [
+        "https://www.courtclerk.org/civil-division/",
+        "https://hamiltoncountycourts.org/index.php/common-pleas/"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Over-the-Rhine",
+    "Oakley",
+    "Clifton",
+    "Northside",
+    "Westwood",
+    "Mount Washington"
+  ],
   "symptoms": [
     "injured_on_property",
     "medical_care_after_accident",

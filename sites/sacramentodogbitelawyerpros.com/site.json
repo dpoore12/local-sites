@@ -30,8 +30,47 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "sacramento_renter_housing_2024",
+      "title": "Nearly half of occupied Sacramento homes are rentals",
+      "claim": "California Department of Finance's 2024 American Community Survey table estimates that Sacramento city had 97,804 renter-occupied homes, or 49.2% of its 198,965 occupied housing units.",
+      "why_it_matters": "Rental-property dog attacks are not an edge case in a city where nearly half of occupied homes are rented. The evidence has to separate the tenant who owned or kept the dog from the manager or landlord who may have received notice and had authority under a lease.",
+      "sources": [
+        "https://dof.ca.gov/media/docs/reports/demographic-reports/american-community-survey/Web_ACS2024_Housing.xlsx"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "owner_rule_and_landlord_duty",
+      "title": "Owner liability and landlord duty are different inquiries",
+      "claim": "California Civil Code section 3342 makes a dog owner liable for damages from a bite suffered by a person lawfully in a public or private place, while Uccello v. Laudenslayer describes a landlord duty only where the landlord had actual knowledge of the dangerous dog and the right to have it removed from the premises.",
+      "why_it_matters": "At a rental, identifying the dog owner is only the beginning. A landlord-liability review needs documents showing both advance knowledge of this dog's dangerous propensities and meaningful authority to act, such as lease provisions, notices, or property-control records.",
+      "sources": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3342.&lawCode=CIV",
+        "https://law.justia.com/cases/california/court-of-appeal/3d/44/504.html"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "county_animal_hearing_and_quarantine",
+      "title": "Sacramento County keeps a separate animal-control record",
+      "claim": "Sacramento County Animal Care states that it quarantines a dog for 10 days from the date of a bite as required by law, and that a person who encounters a dangerous or vicious animal can file a vicious-animal affidavit within 30 days of the incident.",
+      "why_it_matters": "The animal-control file may preserve a date, location, dog description, owner details, witnesses, and official notices. It does not decide a civil damages claim, but it can be important evidence when a rental-property case turns on what was reported and when.",
+      "sources": [
+        "https://animalcare.saccounty.gov/Pages/RegulationsFines.aspx"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Midtown",
+    "East Sacramento",
+    "Land Park",
+    "Curtis Park",
+    "Oak Park",
+    "Pocket-Greenhaven"
+  ],
   "symptoms": [
     "bitten_by_dog",
     "child_bitten_by_dog",

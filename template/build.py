@@ -281,6 +281,20 @@ def build(domain, live=False, check_only=False, corpus=None):
     # A mover is not a technician, a hauler is not a technician. Niche packs may
     # override; anything unset falls back to technician.
     pro = "attorney" if legal else (s.get("pro_noun") or "technician")
+
+    # The steps band used to hard-code "Three steps, one phone call" and "The call
+    # is the whole process". That sells a phone conversation, which is exactly what
+    # the copy must never do, and it read as nonsense on a planned job like a
+    # bathroom remodel. Sites may author these two lines; anything unset falls back
+    # to a trade-correct derivation with no phone framing in it.
+    _svc_l = s["service"].lower()
+    steps_head = s.get("steps_head") or (
+        f"How a {s['city']} {_svc_l} claim actually moves" if legal
+        else f"How a {s['city']} {_svc_l} job actually goes")
+    steps_sub = s.get("steps_sub") or (
+        "Nothing is filed and nothing is owed until you decide what to do next."
+        if legal else
+        "There is nothing to fill in. The work is quoted before any of it starts.")
     entity = "law firm and does not provide legal advice" if legal else "licensed contractor"
     hero_note = (("No obligation · Written for " if legal else
                   "Upfront pricing · No obligation · Local ")
@@ -326,6 +340,7 @@ def build(domain, live=False, check_only=False, corpus=None):
         symptoms=symptoms, faqs=faqs, work=work, fact_titles=fact_titles,
         facts_verified=max((f.get("verified", "") for f in facts), default=""),
         neighborhood_count=len(s.get("neighborhoods", [])),
+        steps_head=steps_head, steps_sub=steps_sub,
         ico=ICO,
         **{f"ico_{k}": v for k, v in ICO.items()},
     )
@@ -373,9 +388,10 @@ def build(domain, live=False, check_only=False, corpus=None):
         page_cards=None, **ctx)
 
     contact_body = (
-        f"<p>One number, answered by a {s['city']} {pro}: "
+        f"<p>One number for {s['city']} {s['service_inline']}: "
         f"<a href=\"tel:{s['phone_tel']}\">{s['phone_display']}</a>. "
-        + ("There is no form on this page. A case review is arranged on the call.</p>"
+        + ("There is no form on this page. The deadlines that apply to the "
+           "situation get identified and the next step gets set.</p>"
            if legal else
            "There is no form on this page. A visit gets scheduled and the price is "
            "quoted before any work starts.</p>")
@@ -387,7 +403,11 @@ def build(domain, live=False, check_only=False, corpus=None):
     )
     pages["contact/index.html"] = inner.render(
         meta_title=f"Contact &mdash; {s['service']} in {s['city']}, {s['state']}",
-        meta_description=f"Call a {s['city']} {s['service_inline']} {pro}.",
+        meta_description=(
+            f"Reach a {s['city']} {s['service_inline']}."
+            if any(s['service_inline'].rstrip().endswith(w)
+                   for w in ("lawyer", "attorney", "lawyers", "attorneys"))
+            else f"Reach a {s['city']} {s['service_inline']} {pro}."),
         canonical_path="/contact/", base="../", schema_json=None,
         page_h1="Contact", page_kicker=s["phone_display"],
         page_lede="One number, and the four things worth having ready when you call.",

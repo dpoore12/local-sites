@@ -7,93 +7,31 @@
   "city": "Los Angeles",
   "state": "CA",
   "state_full": "California",
-  "counties": [
-    "Los Angeles"
-  ],
-  "area_codes": [
-    "213"
-  ],
+  "counties": ["Los Angeles"],
+  "area_codes": ["213"],
   "phone_display": "(213) 555-0100",
   "phone_tel": "+12135550100",
   "phone_status": "PLACEHOLDER",
   "phone_note": "Reserved 555-01XX fictional range. Replace with a real Telnyx 213 number before this domain resolves publicly.",
   "emergency": false,
   "timezone": "America/Los_Angeles",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
-  },
-  "local_facts": [],
-  "neighborhoods": [],
-  "symptoms": [
-    "bitten_by_dog",
-    "child_bitten_by_dog",
-    "dog_bite_at_rental",
-    "insurer_denied_claim"
+  "tenant": {"status": "none", "business_name": null, "license_number": null, "years_in_business": null, "reviews": null, "service_hours": null, "family_owned": null, "veteran_owned": null},
+  "local_facts": [
+    {"id": "city_restraint_rule", "title": "City leash rule", "claim": "Los Angeles Municipal Code section 53.06.2 requires a dog off its keeper’s premises to be under a competent person’s control on a substantial chain or leash no longer than six feet, except for the stated dog exercise or training-area exception.", "why_it_matters": "For a bite on a City sidewalk, street, or common area, the exact location and restraint details may be evidence worth preserving; this City rule is not automatically the rule for every County address.", "sources": ["https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-136443"], "verified": "2026-08-21"},
+    {"id": "county_dangerous_dog_process", "title": "County dangerous-dog process", "claim": "Los Angeles County Animal Care and Control says its Dangerous Dog Investigations Unit investigates reported dog bites and attacks; an investigating officer may prepare a petition for an administrative hearing officer, who may impose conditions or restrictions and, in some cases, order euthanasia.", "why_it_matters": "A dangerous-dog case is a public-safety process that can generate records, but it is separate from the Public Health report and from a civil injury claim.", "sources": ["https://animalcare.lacounty.gov/protecting-people/"], "verified": "2026-08-21"},
+    {"id": "county_dog_bite_volume", "title": "Documented County bite volume", "claim": "A Public Health Reports study using Los Angeles County Department of Public Health surveillance data recorded 23,103 reported dog bites from 2009 through 2011, 88% of 26,169 reported animal-to-human bites; Pasadena, Long Beach, and Vernon were excluded because they had separate health departments and rabies-control protocols.", "why_it_matters": "The dated data shows why the correct reporting jurisdiction matters and why an incident record should identify the exact city and agency rather than use “Los Angeles” as a catch-all.", "sources": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC5230840/"], "verified": "2026-08-21"}
   ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
-  },
-  "hero_accent": "What The Law Says About Dog Attacks",
-  "trust_third": "Liability rules explained before you call",
+  "neighborhoods": ["Echo Park", "Koreatown", "Silver Lake", "West Adams", "Highland Park", "Boyle Heights"],
+  "symptoms": ["bitten_by_dog", "child_bitten_by_dog", "dog_bite_at_rental", "insurer_denied_claim"],
+  "schema": {"local_business": false, "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."},
+  "hero_accent": "What Los Angeles Reports and Rules Actually Do",
+  "trust_third": "Liability rules explained before a referral",
   "services": [
-    {
-      "slug": "dog-bite-injury-claim",
-      "name": "Dog Bite Injury Claims",
-      "nav": "Dog bite claims",
-      "h1": "Dog Bite Injury Lawyer",
-      "accent": "Injuries, Evidence and Liability",
-      "keyword": "dog bite injury lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "child-dog-bite-claim",
-      "name": "Child Dog Bite Claims",
-      "nav": "Child bite claims",
-      "h1": "Child Dog Bite Claim Lawyer",
-      "accent": "Medical Needs and Future Damages",
-      "keyword": "child dog bite lawyer",
-      "icon": "eye"
-    },
-    {
-      "slug": "landlord-dog-bite-liability",
-      "name": "Landlord Liability Claims",
-      "nav": "Landlord liability",
-      "h1": "Landlord Dog Bite Liability Lawyer",
-      "accent": "Property Control and Notice Questions",
-      "keyword": "landlord dog bite liability lawyer",
-      "icon": "house"
-    },
-    {
-      "slug": "dog-bite-insurance-claim",
-      "name": "Dog Bite Insurance Claims",
-      "nav": "Insurance claims",
-      "h1": "Dog Bite Insurance Claim Lawyer",
-      "accent": "Coverage, Offers and Claim Terms",
-      "keyword": "dog bite insurance claim lawyer",
-      "icon": "check"
-    }
+    {"slug": "dog-bite-injury-claim", "name": "Dog Bite Injury Claims", "nav": "Dog bite claims", "h1": "Dog Bite Injury Lawyer", "accent": "Injuries, Evidence and Liability", "keyword": "dog bite injury lawyer", "icon": "warn"},
+    {"slug": "child-dog-bite-claim", "name": "Child Dog Bite Claims", "nav": "Child bite claims", "h1": "Child Dog Bite Claim Lawyer", "accent": "Medical Needs and Future Damages", "keyword": "child dog bite lawyer", "icon": "eye"},
+    {"slug": "landlord-dog-bite-liability", "name": "Landlord Liability Claims", "nav": "Landlord liability", "h1": "Landlord Dog Bite Liability Lawyer", "accent": "Property Control and Notice Questions", "keyword": "landlord dog bite liability lawyer", "icon": "house"},
+    {"slug": "dog-bite-insurance-claim", "name": "Dog Bite Insurance Claims", "nav": "Insurance claims", "h1": "Dog Bite Insurance Claim Lawyer", "accent": "Coverage, Offers and Claim Terms", "keyword": "dog bite insurance claim lawyer", "icon": "check"}
   ],
-  "symptom_service": [
-    "dog-bite-injury-claim",
-    "child-dog-bite-claim",
-    "landlord-dog-bite-liability",
-    "dog-bite-insurance-claim"
-  ],
-  "_market": {
-    "keyword": "dog bite lawyer los angeles",
-    "monthly_price": 1250,
-    "score": 73,
-    "volume": 800,
-    "cpc_usd": 45.0,
-    "weakest_competitor": "dogbitelawgroup.com",
-    "competitor_dr": 18.0
-  }
+  "symptom_service": ["dog-bite-injury-claim", "child-dog-bite-claim", "landlord-dog-bite-liability", "dog-bite-insurance-claim"],
+  "_market": {"keyword": "dog bite lawyer los angeles", "monthly_price": 1250, "score": 73, "volume": 800, "cpc_usd": 45.0, "weakest_competitor": "dogbitelawgroup.com", "competitor_dr": 18.0}
 }

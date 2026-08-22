@@ -1,0 +1,492 @@
+[
+  {
+    "query": {
+      "query": "California Government Claims Act 911.2 six months",
+      "domains": [
+        "leginfo.legislature.ca.gov"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=911.2",
+        "title": "Code Section",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "(a) A claim relating to a cause of action for death or for injury to person or to personal property or growing crops shall be presented as provided in Article 2 (commencing with Section 915) not later than six months after the accrual of the cause of action.\nA claim relating to any other cause of action shall be presented as provided in Article 2 (commencing with Section 915) not later than one year after the accrual of the cause of action.\n(b) For purposes of determining whether a claim was commenced within the period provided by law, the date the claim was presented to the Department of General Services is one of the following:\n(1) The date the claim is submitted with a twenty-five dollar ($25) filing fee.\n(2) If a fee waiver is granted, the date the claim was submitted with the affidavit requesting the fee waiver.\n(3) If a fee waiver is denied, the date the claim was submitted with the affidavit requesting the fee waiver, provided the filing fee is paid to the department within 10 calendar days of the mailing of the notice of the denial of the fee waiver.",
+        "last_updated": "2026-01-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=GOV&division=3.6.&title=1.&part=3.&chapter=2.&article=1.",
+        "title": "Code Section Group",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "(a) A claim may be amended at any time before the expiration of the period designated in Section 911.2 or before final action thereon is taken by the board, whichever is later, if the claim as amended relates to the same transaction or occurrence which gave rise to the original claim.\nThe amendment shall be considered a part of the original claim for all purposes.\n...\n(a) A claim relating to a cause of action for death or for injury to person or to personal property or growing crops shall be presented as provided in Article 2 (commencing with Section 915) not later than six months after the accrual of the cause of action.\nA claim relating to any other cause of action shall be presented as provided in Article 2 (commencing with Section 915) not later than one year after the accrual of the cause of action.\n...\n(a) When a claim that is required by Section 911.2 to be presented not later than six months after accrual of the cause of action is presented after such time without the application provided in Section 911.4, the board or other person designated by it may, at any time within 45 days after the claim is presented, give written notice to the person presenting the claim that the claim was not filed timely and that it is being returned without further action.\nThe notice shall be in substantially the following form:\n\u201cThe claim you presented to the (insert title of board or officer) on (indicate date) is being returned because it was not presented within six months after the event or occurrence as required by law.\nSee Sections 901 and 911.2 of the Government Code.\nBecause the claim was not presented within the time allowed by law, no action was taken on the claim.\nYour only recourse at this time is to apply without delay to (name of public entity) for leave to present a late claim.\nSee Sections 911.4 to 912.2, inclusive, and Section 946.6 of the Government Code.\nUnder some circumstances, leave to present a late claim will be granted.\nSee Section 911.6 of the Government Code.\n...\n(a) When a claim that is required by Section 911.2 to be presented not later than six months after the accrual of the cause of action is not presented within that time, a written application may be made to the public entity for leave to present that claim.\n(b) The application shall be presented to the public entity as provided in Article 2 (commencing with Section 915) within a reasonable time not to exceed one year after the accrual of the cause of action and shall state the reason for the delay in presenting the claim.\nThe proposed claim shall be attached to the application.\n(c) In computing the one-year period under subdivision (b), the following shall apply:",
+        "date": "1998-09-28",
+        "last_updated": "2025-02-27",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=911.3.&lawCode=GOV",
+        "title": "Code Section",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "(a) When a claim that is required by Section 911.2 to be presented not later than six months after accrual of the cause of action is presented after such time without the application provided in Section 911.4, the board or other person designated by it may, at any time within 45 days after the claim is presented, give written notice to the person presenting the claim that the claim was not filed timely and that it is being returned without further action.\nThe notice shall be in substantially the following form:\n\u201cThe claim you presented to the (insert title of board or officer) on (indicate date) is being returned because it was not presented within six months after the event or occurrence as required by law.\nSee Sections 901 and 911.2 of the Government Code.\nBecause the claim was not presented within the time allowed by law, no action was taken on the claim.\nYour only recourse at this time is to apply without delay to (name of public entity) for leave to present a late claim.\nSee Sections 911.4 to 912.2, inclusive, and Section 946.6 of the Government Code.\nUnder some circumstances, leave to present a late claim will be granted.\nSee Section 911.6 of the Government Code.\nYou may seek the advice of an attorney of your choice in connection with this matter.\nIf you desire to consult an attorney, you should do so immediately.\u201d\n(b) Any defense as to the time limit for presenting a claim described in subdivision (a) is waived by failure to give the notice set forth in subdivision (a) within 45 days after the claim is presented, except that no notice need be given and no waiver shall result when the claim as presented fails to state either an address to which the person presenting the claim desires notices to be sent or an address of the claimant.",
+        "last_updated": "2024-12-24",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB501",
+        "title": "Bill Text",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "Existing law, the Government Claims Act, prescribes the procedure for claims and actions against public entities, including local entities, and their employees.\nExisting law requires certain claims, such as those relating to causes of action for death or for injury to a person or personal property, to be presented within 6 months after their accrual.\nFor these actions, if a claim is not filed within the 6-month period, existing law authorizes an application for leave to present a claim to be made to the public entity within a reasonable time, not to exceed one year after the accrual of the cause of action, as specified.\nExisting law generally requires the relevant public entity review board to grant or deny the application for leave to present the claim within 45 days after it is presented.\nExisting law requires the application to be granted if one of several conditions is met, including that the person who sustained the alleged injury, damage, or loss was a minor or was physically and mentally incapacitated for the entire 6 months after the accrual of the cause of action, as specified.\nIf the person was physically or mentally incapacitated during that period, existing law requires that the failure to present a claim be a result of the person\u2019s disability.\nThis bill would additionally require a board to grant an application for leave to present a claim, as described above, if the person who sustained the alleged injury, damage, or loss was a minor or was physically or mentally incapacitated during any of the 6 months after the accrual of the cause of action, if the application is presented within 6 months of the person turning 18 years of age, or of the person no longer being physically or mentally incapacitated, as applicable, or a year after the claim accrues, whichever occurs first.\n...\nSection 911.6 of the Government Code is amended to read:\n911.6.\n(a) The board shall grant or deny the application within 45 days after it is presented to the board.\nThe claimant and the board may extend the period within which the board is required to act on the application by written agreement made before the expiration of the period.\n(b) The board shall grant the application if one or more of the following is applicable:\n(1) The failure to present the claim was through mistake, inadvertence, surprise, or excusable neglect and the public entity was not prejudiced in its defense of the claim by the failure to present the claim within the time specified in Section 911.2.\n(2) The person who sustained the alleged injury, damage, or loss was a minor during all of the time specified in Section 911.2 for the presentation of the claim.\n(3) The person who sustained the alleged injury, damage, or loss was a minor during any of the time specified in Section 911.2 for the presentation of the claim, provided the application is presented within six months of the person turning 18 years of age or a year after the claim accrues, whichever occurs first.\n(4) The person who sustained the alleged injury, damage, or loss was physically or mentally incapacitated during all of the time specified in Section 911.2 for the presentation of the claim and by reason of that disability failed to present a claim during that time.\n(5) The person who sustained the alleged injury, damage, or loss was physically or mentally incapacitated during any of the time specified in Section 911.2 for the presentation of the claim and by reason of that disability failed to present a claim during that time, provided the application is presented within six months of the person no longer being physically or mentally incapacitated, or a year after the claim accrues, whichever occurs first.\n(6) The person who sustained the alleged injury, damage, or loss died before the expiration of the time specified in Section 911.2 for the presentation of the claim.\n(c) If the board fails or refuses to act on an application within the time prescribed by this section, the application shall be deemed to have been denied on the 45th day or, if the period within which the board is required to act is extended by agreement pursuant to this section, the last day of the period specified in the agreement.\n...\n(a) If an application for leave to present a claim is denied or deemed to be denied pursuant to Section 911.6, a petition may be made to the court for an order relieving the petitioner from Section 945.4.\n...\n(b) The petition shall show each of the following:\n...\nThe petition shall be filed within six months after the application to the board is denied or deemed to be denied pursuant to Section 911.6.",
+        "date": "2021-09-23",
+        "last_updated": "2024-12-20",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=200120020AB2321&showamends=false",
+        "title": "Today's Law As Amended",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "(2) After the expiration of the period if an action based on the claim has not been commenced and is not yet barred by the period of limitations provided in Section 945.6.\n...\n(b) If the claim is\nrejected,\nrejected\nin whole or in part, the notice required by subdivision (a) shall include a warning in substantially the following form:\n\u201cWARNING\n\u201cSubject to certain exceptions, you have only six (6) months from the date this notice was personally delivered or deposited in the mail to file a court action on this claim.\nSee Government Code Section 945.6.\n\u201cYou may seek the advice of an attorney of your choice in connection with this matter.\nIf you desire to consult an attorney, you should do so immediately.\u201d\n...\n(a) If an application for leave to present a claim is denied or deemed to be denied pursuant to Section 911.6, a petition may be made to the court for an order relieving the petitioner from Section 945.4.\n...\n(2) The reason for failure to present the claim within the time limit specified in Section 911.2.\n(3) The information required by Section 910.\nThe petition shall be filed within six months after the application to the board is denied or deemed to be denied pursuant to Section 911.6.",
+        "date": "2001-01-01",
+        "last_updated": "2024-12-11",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=GOV&division=3.6.&title=1.&part=&chapter=&article=",
+        "title": "GOV",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "CHAPTER 4.5.\nPrompt Payment of Claims\n927-927.13",
+        "last_updated": "2026-01-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?lawCode=PROB&division=7.&title=&part=4.&chapter=3.&article=&goUp=Y",
+        "title": "PROB",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "9000-9399\n...\nTime for Filing Claims\n...\nARTICLE 4.",
+        "date": "2023-01-01",
+        "last_updated": "2025-02-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes.xhtml",
+        "title": "Code Search",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "Bill Number\nBill Keyword\n...\nBill Information\n...\nSection:\n...\nText Search",
+        "last_updated": "2025-03-06",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "California Labor Code 3602 exclusive remedy workers compensation",
+      "domains": [
+        "leginfo.legislature.ca.gov"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=3602.",
+        "title": "Code Section",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "(a) Where the conditions of compensation set forth in Section 3600 concur, the right to recover compensation is, except as specifically provided in this section and Sections 3706 and 4558, the sole and exclusive remedy of the employee or his or her dependents against the employer.\nThe fact that either the employee or the employer also occupied another or dual capacity prior to, or at the time of, the employee\u2019s industrial injury shall not permit the employee or his or her dependents to bring an action at law for damages against the employer.\n(b) An employee, or his or her dependents in the event of his or her death, may bring an action at law for damages\nagainst the employer, as if this division did not apply, in the following instances:\n(1) Where the employee\u2019s injury or death is proximately caused by a willful physical assault by the employer.\n(2) Where the employee\u2019s injury is aggravated by the employer\u2019s fraudulent concealment of the existence of the injury and its connection with the employment, in which case the employer\u2019s liability shall be limited to those damages proximately caused by the aggravation.\nThe burden of proof respecting apportionment of damages between the injury and any subsequent aggravation thereof is upon the employer.\n(3) Where the employee\u2019s injury or death is proximately caused by a defective product manufactured by the employer and\nsold, leased, or otherwise transferred for valuable consideration to an independent third person, and that product is thereafter provided for the employee\u2019s use by a third person.\n(c) In all cases where the conditions of compensation set forth in Section 3600 do not concur, the liability of the employer shall be the same as if this division had not been enacted.\n(d) (1) For the purposes of this division, including Sections 3700 and 3706, an employer may secure the payment of compensation on employees provided to it by agreement by another employer by entering into a valid and enforceable agreement with that other employer under which the other employer agrees to obtain, and has, in fact, obtained workers\u2019 compensation coverage for those employees.\nIn\nthose cases, both employers shall be considered to have secured the payment of compensation within the meaning of this section and Sections 3700 and 3706 if there is a valid and enforceable agreement between the employers to obtain that coverage, and that coverage, as specified in subdivision (a) or (b) of Section 3700, has been in fact obtained, and the coverage remains in effect for the duration of the employment providing legally sufficient coverage to the employee or employees who form the subject matter of the coverage.\nThat agreement shall not be made for the purpose of avoiding an employer\u2019s appropriate experience rating as defined in subdivision (c) of Section 11730 of the Insurance Code.\n(2) Employers who have complied with this subdivision shall not be subject to civil, criminal, or other penalties for failure to provide workers\u2019\ncompensation coverage or tort liability in the event of employee injury, but may, in the absence of compliance, be subject to all three.\n(e) As provided in paragraph (12) of subdivision (f) of Section 1202.4 of the Penal Code, in cases where an employer is convicted of a crime against an employee, a payment to the employee or the employee\u2019s dependent that is paid by the employer\u2019s workers\u2019 compensation insurance carrier shall not be used to offset the amount of the restitution order unless the court finds that the defendant substantially met the obligation to pay premiums for that insurance coverage.",
+        "date": "2013-01-01",
+        "last_updated": "2024-11-09",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=4.&title=&part=1.&chapter=3.&article",
+        "title": "Code Section Group",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "(a) Liability for the compensation provided by this division, in lieu of any other liability whatsoever to any person except as otherwise specifically provided in Sections 3602, 3706, and 4558, shall, without regard to negligence, exist against an employer for any injury sustained by his or her employees arising out of and in the course of the employment and for the death of any employee if the injury proximately causes death, in those cases where the following conditions of compensation concur:\n(1) Where, at the time of the injury, both the employer and the employee are subject to the compensation provisions of this division.\n(2) Where, at the time of the\ninjury, the employee is performing service growing out of and incidental to his or her employment and is acting within the course of his or her employment.\n(3) Where the injury is proximately caused by the employment, either with or without negligence.\n(4) Where the injury is not caused by the intoxication, by alcohol or the unlawful use of a controlled substance, of the injured employee.\nAs used in this paragraph, \u201ccontrolled substance\u201d shall have the same meaning as prescribed in Section 11007 of the Health and Safety Code.\n(5) Where the injury is not intentionally self-inflicted.\n(6) Where the employee has not willfully and deliberately caused his or her own death.\n(7) Where the injury\ndoes not arise out of an altercation in which the injured employee is the initial physical aggressor.\n(8) Where the injury is not caused by the commission of a felony, or a crime which is punishable as specified in subdivision (b) of Section 17 of the Penal Code, by the injured employee, for which he or she has been convicted.\n(9) Where the injury does not arise out of voluntary participation in any off-duty recreational, social, or athletic activity not constituting part of the employee\u2019s work-related duties, except where these activities are a reasonable expectancy of, or are expressly or impliedly required by, the employment.\nThe administrative director shall promulgate reasonable rules and regulations requiring employers to post and keep posted in a conspicuous place or places a notice advising employees of the provisions of this subdivision.\n...\n(10) Except for psychiatric injuries governed by subdivision (e) of Section 3208.3, where the claim for compensation is filed after notice of termination or layoff, including voluntary layoff, and the claim is for an injury occurring prior to the time of notice of termination or layoff, no compensation shall be paid unless the employee demonstrates by a preponderance of the evidence that one or more of the following conditions apply:\n(A) The employer has notice of the injury, as provided under Chapter 2 (commencing with Section 5400), prior to the notice of termination or layoff.\n(B) The employee\u2019s medical records, existing prior to the notice of termination or layoff, contain evidence of the injury.\n(C) The date of injury, as specified in Section 5411, is subsequent to the date of the notice of termination or layoff, but prior to the effective date of the termination or layoff.\n(D) The date of injury, as specified in Section 5412, is subsequent to the date of the notice of termination or layoff.\n...\n(b) Where an employee, or his or her dependents, receives the compensation provided by this division and secures a judgment for, or settlement of, civil damages pursuant to those specific exemptions to the employee\u2019s exclusive remedy set forth in subdivision (b) of Section 3602 and Section 4558, the compensation\npaid under this division shall be credited against the judgment or settlement, and the employer shall be relieved from the obligation to pay further compensation to, or on behalf of, the employee or his or her dependents up to the net amount of the judgment or settlement received by the employee or his or her heirs, or that portion of the judgment as has been satisfied.\n(c) For purposes of determining whether to grant or deny a workers\u2019 compensation claim, if an employee is injured or killed by a third party in the course of the employee\u2019s employment, no personal relationship or personal connection shall be deemed to exist between the employee and the third party based only on a determination that the third party injured or killed the employee solely because of the third party\u2019s personal beliefs relating to his or her perception of the employee\u2019s race, religious creed, color, national origin, age, disability, sex, gender, gender identity, gender expression, or sexual orientation.\n...\n(a) If an employee who has been hired or is regularly working in the state receives personal injury by accident arising out of and in the course of employment outside of this state, he or she, or his or her dependents, in the case of his or her death, shall be entitled to compensation according to the law of this state.\n(b) (1) An employee who has been hired outside of this state and his or her employer shall be exempted from the provisions of this division while the employee is temporarily within this state doing work for his or her employer if the employer has furnished workers\u2019 compensation insurance coverage under the workers\u2019\ncompensation insurance or similar laws of a state other than California, so as to cover the employee\u2019s work while in this state if both of the following apply:\n(A) The extraterritorial provisions of this division are recognized in the other state.\n(B) The employers and employees who are covered in this state are likewise exempted from the application of the workers\u2019 compensation insurance or similar laws of the other state.\n(2) In any case in which paragraph (1) is satisfied, the benefits under the workers\u2019 compensation insurance or similar laws of the other state, and other remedies under those laws, shall be the exclusive remedy against the employer for any injury, whether resulting in death or not,\nreceived by the employee while working for the employer in this state.\n...\n(a) Where the conditions of compensation set forth in Section 3600 concur, the right to recover such compensation, pursuant to the provisions of this division is, except as specifically provided in this section, the exclusive remedy for injury or death of an employee against any other employee of the employer acting within the scope of his or\nher employment, except that an employee, or his or her dependents in the event of his or her death, shall, in addition to the right to compensation against the employer, have a right to bring an action at law for damages against the other employee, as if this division did not apply, in either of the following cases:\n(1) When the injury or death is proximately caused by the willful and unprovoked physical act of aggression of the other employee.\n(2) When the injury or death is proximately caused by the intoxication of the other employee.\n(b) In no event, either by legal action or by agreement whether entered into by the other employee or on his or her behalf, shall the employer be held liable, directly or indirectly, for damages awarded against, or for a liability incurred by the other employee under paragraph (1) or (2) of subdivision (a).\n...\n(a) Where the conditions of compensation set forth in Section 3600 concur, the right to recover compensation is, except as specifically provided in this section and Sections 3706 and 4558, the sole and exclusive remedy of the employee or his or her dependents against the employer.\nThe fact that either the employee or the employer also occupied another or dual capacity prior to, or at the time of, the employee\u2019s industrial injury shall not permit the employee or his or her dependents to bring an action at law for damages against the employer.",
+        "date": "2012-01-01",
+        "last_updated": "2025-01-06",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201120120SB1177&showamends=false",
+        "title": "Today's Law As Amended",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "As Amends the Law on Nov 20, 2012\n...\nSection 3602 of the Labor Code is amended to read:\n3602.\n(a) Where the conditions of compensation set forth in Section 3600 concur, the right to recover compensation is, except as specifically provided in this section and Sections 3706 and 4558, the sole and exclusive remedy of the employee or his or her dependents against the employer.\nThe fact that either the employee or the employer also occupied another or dual capacity prior to, or at the time of, the employee\u2019s industrial injury shall not permit the employee or his or her dependents to bring an action at law for damages against the employer.\n(b) An employee, or his or her dependents in the event of his or her death, may bring an action at law for damages against the employer, as if this division did not apply, in the following instances:\n(1) Where the employee\u2019s injury or death is proximately caused by a willful physical assault by the employer.\n(2) Where the employee\u2019s injury is aggravated by the employer\u2019s fraudulent concealment of the existence of the injury and its connection with the employment, in which case the employer\u2019s liability shall be limited to those damages proximately caused by the aggravation.\nThe burden of proof respecting apportionment of damages between the injury and any subsequent aggravation thereof is upon the employer.\n(3) Where the employee\u2019s injury or death is proximately caused by a defective product manufactured by the employer and sold, leased, or otherwise transferred for valuable consideration to an independent third person, and that product is thereafter provided for the employee\u2019s use by a third person.\n(c) In all cases where the conditions of compensation set forth in Section 3600 do not concur, the liability of the employer shall be the same as if this division had not been enacted.\n(d) (1) For the purposes of this division, including Sections 3700 and 3706, an employer may secure the payment of compensation on employees provided to it by agreement by another employer by entering into a valid and enforceable agreement with that other employer under which the other employer agrees to obtain, and has, in fact, obtained workers\u2019 compensation coverage for those employees.\nIn those cases, both employers shall be considered to have secured the payment of compensation within the meaning of this section and Sections 3700 and 3706 if there is a valid and enforceable agreement between the employers to obtain that coverage, and that coverage, as specified in subdivision (a) or (b) of Section 3700, has been in fact obtained, and the coverage remains in effect for the duration of the employment providing legally sufficient coverage to the employee or employees who form the subject matter of the coverage.\n...\n(2) Employers who have complied with this subdivision shall not be subject to civil, criminal, or other penalties for failure to provide workers\u2019 compensation coverage or tort liability in the event of employee injury, but may, in the absence of compliance, be subject to all three.\n...\nin every case in which a victim has suffered economic loss as a result of the defendant\u2019s conduct, the court shall require that the defendant make restitution to the victim or victims in an amount established by court order, based on the amount of loss claimed by the victim or victims or any other showing to the court.",
+        "date": "2014-01-01",
+        "last_updated": "2025-02-05",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=4.&title=&part=1.&chapter=1.&article=",
+        "title": "Code Section Group",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "The Legislature hereby declares its intent that the term \u201cworkmen\u2019s compensation\u201d shall hereafter also be known as \u201cworkers\u2019 compensation, \u201d and that the \u201cWorkmen\u2019s Compensation Appeals Board\u201d shall hereafter be known as the \u201cWorkers\u2019 Compensation Appeals Board.\u201d\nIn furtherance of this policy it is the desire of the Legislature that references to the terms \u201cworkmen\u2019s compensation\u201d and \u201cWorkmen\u2019s Compensation Appeals Board\u201d in this code or elsewhere be changed to \u201cworkers\u2019 compensation\u201d and \u201cWorkers\u2019 Compensation Appeals Board\u201d when such laws are being amended for any purpose.\n...\n\u201cCompensation\u201d means compensation under this division and includes every benefit or payment conferred by this division upon an injured employee, or in the event of his or her death, upon his or her dependents, without regard to negligence.\n...\n(d) Notwithstanding any other provision of this division, no compensation shall be paid pursuant to this division for a psychiatric injury related to a claim against an employer unless the employee has been employed by that employer for at least six months.\nThe six months of employment need not be continuous.\nThis subdivision shall not apply if the psychiatric injury is caused by a sudden and extraordinary employment condition.\nNothing in this subdivision shall be construed to authorize an employee, or the employee\u2019s dependents, to bring an action at law or equity for damages against the employer for a psychiatric injury, where those rights would not exist pursuant to the exclusive remedy doctrine set forth in Section 3602 in the absence of the amendment of this section by the act adding this subdivision.",
+        "date": "1995-07-01",
+        "last_updated": "2025-03-02",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=lab",
+        "title": "lab",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "WORKERS' COMPENSATION AND INSURANCE\n3200 - 6002",
+        "last_updated": "2025-11-03",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://downloads.leginfo.legislature.ca.gov/",
+        "title": "Index of /",
+        "domain": "downloads.leginfo.legislature.ca.gov",
+        "snippet": "|Name|Last modified|Size|Description|\n...\n|pubinfo_load.zip|2021-05-26 12:35|15K| |",
+        "last_updated": "2026-08-21"
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=LAB&division=4.&title=&part=&chapter=&article=&nodetreepath=5",
+        "title": "LAB",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "DIVISION 4.\nWORKERS' COMPENSATION AND INSURANCE\n3200-6002\nPART 1.\nSCOPE AND OPERATION\n3200-4418\nCHAPTER 1.\n...\nConditions of Compensation Liability",
+        "last_updated": "2024-10-25",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://leginfo.legislature.ca.gov/faces/noDataFound.xhtml",
+        "title": "Law section",
+        "domain": "leginfo.legislature.ca.gov",
+        "snippet": "Bill Number\n...\nArticle:\nSection:\n...\nKeyword(s):\n...\nNo Data Found",
+        "last_updated": "2024-11-29",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California statutes, bills, codes, and official legislative records",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "Stanislaus County agriculture food processing employment official report",
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.stanag.org/pdf/cropreport/cropreportplus2018.pdf",
+        "title": "CROP REPORT PLUS Series",
+        "domain": "www.stanag.org",
+        "snippet": "This new study shows that in 2017, agriculture contributed a total of \n$7.148 billion to the county economy.\nThis far exceeds the $3.649 billion\nfigure from our 2017 Stanislaus County Agricultural Report.\nAgriculture \nsupported 29,192 direct employees, just over one of every eight jobs \nin the county.\nAdding multiplier effects brought total agriculturally-\nrelated employment to 34,425 jobs.\n...\nModesto, CA.\n...\n Phone: 209.525.4730\n...\n29,192 \ndirect employees\n5,233 \nadditional jobs \nattributable to \nmultiplier effects: \n...\nCounty directly\n...\n34,425\ntotal jobs\n...\nHow many people work in agricultural production?\nIn 2017, IMPLAN data indicate that agricultural production \ndirectly employed 26,551 people in Stanislaus County.\n...\nIt did \nnot include food processing jobs, which are discussed on pages 9 -11.\n...\nexample, supported 6,884 direct jobs plus an additional 555 indirect effects jobs and 352 more from induced \n...\ntotaled $7.148 billion.\nThis consisted of $4.827 billion in combined, direct output from \nproduction and processing, plus $2.320 billion in multiplier effects.\nFor perspective, agriculture pumped over nineteen million dollars per day into the \ncounty economy during 2017 ($19,583,734 to be exact), or $815,989 per hour.\nThe\n$4.827 billion in direct output represented 11.5% of the county\u2019s total economic \noutput of $42.06 billion, more than one out of every eight dollars.\nTotal agricultural employment covered in the scope of this study was 34,425.\nThis \nincluded 29,192 jobs directly in agriculture and 5,233 more attributable to multiplier\neffects.\nThe 29,192 direct agricultural jobs represented 11.4% of Stanislaus County\u2019s \ntotal employment.\nWith 255,019 jobs in the county, agriculture was responsible for \nnearly one out of every eight jobs.\n...\nThis report has documented the role that Stanislaus County agriculture plays as a local economic driver.\nIncluding \nlocal food processing and multiplier effects, agriculture contributed $7.148 billion to the county economy.\nAgriculture also played an important role in county employment, directly or indirectly supporting 34,425 jobs.",
+        "last_updated": "2025-05-10"
+      },
+      {
+        "url": "https://www.stanag.org/pdf/cropreport/cropreport2024.pdf",
+        "title": "2024 Stanislaus County Agricultural Report",
+        "domain": "www.stanag.org",
+        "snippet": "3800 CORNUCOPIA WAY, STE.\nB, MODESTO CA 95358\nPHONE: 209-525-4730, FAX 209-525-4790\nWWW.STANCOUNTY.COM",
+        "last_updated": "2026-08-11"
+      },
+      {
+        "url": "https://www.stanag.org/agricultural-statistics.shtm",
+        "title": "Agricultural Crop Report",
+        "domain": "www.stanag.org",
+        "snippet": "Annually each county in California prepares a report detailing the gross value and production of agricultural commodities grown within their county as required by the California Food and Agricultural Code.\n...\nBelow are current and archived Stanislaus County commodity reports.",
+        "date": "2023-01-01",
+        "last_updated": "2025-10-09"
+      },
+      {
+        "url": "https://www.stancounty.com/newsfeed/?storyid=20190814-agriculture",
+        "title": "20190814-agriculture - Stanislaus County NewsFeed",
+        "domain": "www.stancounty.com",
+        "snippet": "A new Agricultural Economic Report produced this year quantifies agriculture's total economic contributions through production, local processing, employment, and economic multiplier effects to document agriculture's broader role in sustaining a thriving local economy.\nThe report is based on 2017 agricultural and economic data and shows that agriculture contributed a total of $7.15 billion to the county economy, far exceeding the $3.65 billion figure from the Stanislaus County 2017 Agricultural Report.\nAgriculture supported 29,192 direct employees, just over one of every eight jobs in the county.\nAdding multiplier effects brought total agriculturally related employment to 34,425 jobs.\nThe report also examines economic diversification within agriculture, which the authors say has important implications for countywide economic resiliency.\nThe reports are available on the Agricultural Commissioner's website.",
+        "date": "2019-08-14",
+        "last_updated": "2026-06-29",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Stanislaus County public services, records, departments, and official local-government information in California.",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.stancounty.com/ceo/econ-dev/pdf/edac/2025/DRAFT-SECTION-I-Economic-Overview_Strategic-Framework.pdf",
+        "title": "[PDF] Section I Economic Overview Strategic Framework - Stanislaus County",
+        "domain": "www.stancounty.com",
+        "snippet": "\u25aa Economic Role: Stanislaus County anchors a major segment of the North San Joaquin Valley \neconomy, with leading industries in agriculture, food processing, logistics, and advanced \nmanufacturing.\n...\nStanislaus County has shown strong economic recovery and sector growth since the pandemic, \nwith clear signs of resilience and opportunity\u2014though structural challenges remain.\n...\nKey Economic Trends (2019\u20132024):\n...\n\u25aa Employment Recovery: \nJobs lost during pandemic were fully recovered by 2022, with continued growth to 2024 in \nkey sectors:  \n\u25aa Food Manufacturing:\n+3,100 jobs \u2014 This has been the strongest area of growth, contributing significantly \nto the region\u2019s \u201ctraded\u201d economy and strengthening economic resilience.\n\u25aa Healthcare: ",
+        "last_updated": "2026-03-21",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Stanislaus County public services, records, departments, and official local-government information in California.",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://dot.ca.gov/-/media/dot-media/programs/transportation-planning/documents/new-state-planning/transportation-economics/socioeconomic-forecasts/2022/stanislaus-2022-a11y.pdf",
+        "title": "Stanislaus County Economic Forecast",
+        "domain": "dot.ca.gov",
+        "snippet": "\u2022 The county added 4,100 jobs in 2021.\nThe pace for 2022 will \n...\nduring the pandemic recession.\n...\n\u2022 Employment in food and beverage processing comprises 47 \npercent of all manufacturing jobs in the county.\nIt will remain a \ncritical engine of growth over time.\n\u2022 The largest employers in food manufacturing and wholesaling start\n...\n2026",
+        "last_updated": "2024-12-15",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California transportation services, infrastructure, travel information, and official policy",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://stanworkforce.com/media/k13hurk1/sjvrpu_stanislauscountylabormarketprofile-data.pdf",
+        "title": "[PDF] San Joaquin Valley Regional Planning Unit Data Analysis",
+        "domain": "stanworkforce.com",
+        "snippet": "Figure 6.\nStanislaus County Agriculture, Forestry, Fishing and Hunting Employment, Four-Quarter \nMoving Average 2010-2020 \nSource: JobsEQ Labor & Wage Trends; Agriculture, Forestry, Fishing and Hunting; Four-Quarter Moving Average.\n2020Q1-\n2020Q2 is preliminary data.\nTable 11.\nStanislaus County Top Occupations in Agriculture \nSOC \nOccupation \nCurrent  \n4 Year Demand \nEmpl \nExits \nTransfers \nEmpl \nGrowth \nTotal \nDemand \n45-2092 \nFarmworkers and Laborers, \nCrop, Nursery, and\nGreenhouse \n7,729 \n1,280 \n...\n232 ",
+        "last_updated": "2025-12-22"
+      },
+      {
+        "url": "https://www.turlockjournal.com/news/local/report-ag-industry-vital-county-economy/",
+        "title": "Report: Ag industry vital to county economy",
+        "domain": "www.turlockjournal.com",
+        "snippet": "The study shows that in 2017, agriculture contributed a total of $7.148 billion to the county economy, far exceeding the $3.649 billion figure from the 2017 Stanislaus County Agricultural Report.\nWhile the annual agricultural report details crop production values and acreage, the economic contributions report goes even further, analyzing production, local processing, employment and economic multiplier effects.\nThe figure of $7.148 billion contributed by Stanislaus County agriculture in 2017 accounts for 11.5 percent of the county\u2019s total economic output for the year, said Dr. Jeff Langholz, who conducted the study along with Dr. Fernando DePaolis.\n...\nAgriculture supported 29,192 direct employees in Stanislaus County, accounting for just over one out of every eight jobs.\nWhen multiplier effects are added in, the total number of agriculture-related employees rises to 34,425.\n...\nTo view the entire Economic Contributions of Stanislaus County Agriculture report, visit stanag.org.",
+        "last_updated": "2025-03-26"
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "Stanislaus Superior Court civil division Modesto official",
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.stanislaus.courts.ca.gov/divisions/civil",
+        "title": "Civil | Superior Court of California | County of Stanislaus",
+        "domain": "www.stanislaus.courts.ca.gov",
+        "snippet": "**Effective August 17, 2026, all ex parte hearing requests must be emailed to crc_civil@stanct.org.**\nPlease include the **department number** and **\u201cEx Parte Hearing Request\u201d** in the subject line.",
+        "last_updated": "2026-08-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official Stanislaus County, California court rules, services, and case information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.stanislaus.courts.ca.gov/",
+        "title": "Home | Superior Court of California | County of Stanislaus",
+        "domain": "www.stanislaus.courts.ca.gov",
+        "snippet": "- ### City Towers Courthouse (Civil)\nCivil and Probate Division (Estates, Trusts and Conservatorships)\n(209) 530-3100\n801 10th Street\nModesto, CA 95354\nUnited States\n- ### Juvenile\n...\n- ### Main Courthouse\n800 11th Street\n(209) 530-3100\nModesto, CA 95354\nUnited States\n...\n###### City Towers Courthouse (Civil)\n801 10th Street, Modesto, CA 95354\n(209) 530-3100\n(209) 530-3100\n###### Juvenile\n...\n###### Main Courthouse\n800 11th Street, Modesto, CA 95354\n(209) 530-3100",
+        "last_updated": "2026-08-20",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official Stanislaus County, California court rules, services, and case information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.stanislaus.courts.ca.gov/general-information/locations-contact-info",
+        "title": "Locations & Contact Info | Superior Court of California",
+        "domain": "www.stanislaus.courts.ca.gov",
+        "snippet": "- ## 37.638536, -120.998504\n## City Towers Courthouse (Civil)\nDepartments 21 and 22 - Sixth Floor\nDepartments 23 and 24 - Fourth Floor\nCivil Clerk's Office - Fourth Floor\nHours:\nMonday - Friday: 8:15 am-4:00 pm\n- ## 37.662225, -121.042179\n...\n**Mailing address: PO Box 1098, Modesto, CA 95353**\nHours:\nMonday - Friday: 8:15 am-4:00 pm",
+        "last_updated": "2026-08-16",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official Stanislaus County, California court rules, services, and case information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.stanislaus.courts.ca.gov/divisions",
+        "title": "Divisions | Superior Court of California | County of Stanislaus",
+        "domain": "www.stanislaus.courts.ca.gov",
+        "snippet": "- The Civil Division of the Court handles cases where one party sues another to recover money or property, enforce a contract, collect damages or protect civil rights, in addition to petitions to change names and various writs.",
+        "last_updated": "2026-03-15",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official Stanislaus County, California court rules, services, and case information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.stanlaw.org/local%20resources.htm",
+        "title": "Local Courts - StanLawwww.stanlaw.org \u203a ...",
+        "domain": "www.stanlaw.org",
+        "snippet": "The self-help center (Family & Civil) is located in Room 220 of the main courthouse building, 800 11th Street\nModesto.\nCustomers are assisted on a first come, first served basis Monday \u2013 Friday 8:00 a.m. to 12 p.m.\n&\n1:00 p.m. to 4:00 p.m.\nEmail assistance is available with a 3-4 business day turn-around at\nself.help@stanct.gov\nVoicemail calls\nare returned Wednesdays between the hours of 8:00 a.m. and 3:30 p.m.\nVoicemail: (209) 548-6237\n...\n1100 I Street, Modesto\nP: 209-530-3100 x 7-1-1\n...\nCivil Division\n801 10th Street, 4th Floor\nP: 209-530-3100 x 6-1\nCivil & Probate hearings &\ntrials.\nCivil clerk.\n...\nThe self-help center (Family & Civil) is located in\nRoom 220 of the main courthouse building, 800 11th\nStreet Modesto.\nCustomers are assisted on a first\ncome, first served basis Monday \u2013 Friday 8:00 a.m. to\n12 p.m.\n& 1:00 p.m. to 4:00 p.m.\nEmail assistance is available with a 3-4 business day\nturn-around at\nself.help@stanct.gov\nVoicemail\ncalls are returned Wednesdays between the hours of\n8:00 a.m. and 3:30 p.m.\nVoicemail: (209) 548-6237\nIn addition to self-help the Court has a Small Claims\n...\nP: 209-530-3100 x 6-1",
+        "last_updated": "2026-02-02"
+      },
+      {
+        "url": "https://stanislauscountycourts.org/case-search/",
+        "title": "Case Search",
+        "domain": "stanislauscountycourts.org",
+        "snippet": "Follow these steps to use the official Stanislaus County Superior Court online case search:\n- **Visit the official case search page:**\nhttps://www.stanislaus.courts.ca.gov/online-services/search-case\n- **Find the Public Case Search link:**\nOn that page, look for**Public, Justice Partner, and Attorney Portal** or the \u201cCase Index Lookup\u201d option.\nSelect**Public Portal and Traffic Payments**.\n- **Accept any disclaimers:**\n...\nBelow is a breakdown of court divisions, addresses, contact information, and operating hours:\n|Court Division|Address|Phone|Hours|\n|--|--|--|--|\n|Civil Division|800 11th Street, Modesto, CA 95354|(209) 530-3000|Mon\u2013Fri: 8:30 AM \u2013 4:30 PM|\n|Criminal Division|800 11th Street, Modesto, CA 95354|(209) 530-3000|Mon\u2013Fri: 8:30 AM \u2013 4:30 PM|\n|Family Division|832 12th Street, Modesto, CA 95354|(209) 530-3020|Mon\u2013Fri: 8:30 AM \u2013 4:30 PM|\n|Probate Division|832 12th Street, Modesto, CA 95354|(209) 530-3030|Mon\u2013Fri: 8:30 AM \u2013 4:30 PM|\n|Traffic/Infraction Court|1100 I Street, Modesto, CA 95354|(209) 530-3040|Mon\u2013Fri: 8:30 AM \u2013 4:30 PM|",
+        "date": "2025-12-28",
+        "last_updated": "2026-06-17"
+      },
+      {
+        "url": "https://www.stanislaus.courts.ca.gov/location/city-towers-courthouse-civil",
+        "title": "City Towers Courthouse (Civil) | Superior Court of California",
+        "domain": "www.stanislaus.courts.ca.gov",
+        "snippet": "## 37.638536, -120.998504\n## City Towers Courthouse (Civil)\nDepartments 21 and 22 - Sixth Floor\nDepartments 23 and 24 - Fourth Floor\nCivil Clerk's Office - Fourth Floor\nHours:\nMonday - Friday: 8:15 am-4:00 pm",
+        "last_updated": "2026-06-05",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official Stanislaus County, California court rules, services, and case information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://stanislauscountycourt.org/",
+        "title": "Stanislaus County Court | Records Search",
+        "domain": "stanislauscountycourt.org",
+        "snippet": "**Locations**\nStanislaus County Superior Court\nCity Towers Courthouse (Civil)\nCivil and Probate Division (Estates, Trusts and Conservatorships)\n801 10th Street\nModesto, CA 95354\n(209) 530-3100\nStanislaus County Superior Court\nJuvenile Division\nDepartment 17 and Department 18\n2215 Blue Gum Avenue\nModesto, CA 95358\n(209) 530-3100\nStanislaus County Superior Court\nMain Courthouse\n800 11th Street\nModesto, CA 95354\n(209) 530-3100\nStanislaus County Superior Court\nTraffic Court\n2260 Floyd Avenue\nModesto, CA 95355\n(209) 530-3100\n...\nDonna Linder\nStanislaus County Clerk Recorder\n1021 I Street, Suite 101\nModesto, CA 95354\n(209) 525-5250\n...\nCivil courts hear cases that are not criminal in nature and usually involve a financial or property dispute between two people.\nThe Superior Court has jurisdiction over all civil cases, both limited and unlimited.\nLimited cases are those involving $35,000 or less.\nUnlimited cases involve more than $35,000.",
+        "last_updated": "2026-08-19"
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "Modesto California neighborhoods official",
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.modestoneighborhoods.com/",
+        "title": "Modesto Neighborhoods, Inc. \u2013 Our Mission: Building Communities ...",
+        "domain": "www.modestoneighborhoods.com",
+        "snippet": "**P**romoting a healthy quality of life to all who live/work in our communities.",
+        "date": "2024-07-10",
+        "last_updated": "2025-03-25"
+      },
+      {
+        "url": "https://www.modestoneighborhoods.com/directory-category/neighborhoods/",
+        "title": "Beyer/Sylvan at The Lakes",
+        "domain": "www.modestoneighborhoods.com",
+        "snippet": "Neighborhoods\nBeyer/Sylvan at The Lakes\nin\nNeighborhoods\nMore Info\nCollege Area Neighborhood Alliance (CANA)\nin\nNeighborhoods\nMore Info\nDelwood Neighborhood Alliance (DNA)\nin\nNeighborhoods\nMore Info\nJohn Muir Park Community Partnership\nin\nNeighborhoods\nMore Info\nLa Loma Neighborhood\nin\nNeighborhoods\nMore Info\nNeighbors of Lakewood\nin\nNeighborhoods\nMore Info\nNorthwest Modesto Neighborhood\nin\nNeighborhoods\nMore Info\nWest Modesto People of Action Council\nin\nNeighborhoods\nMore Info\nWoodland West Community Neighborhood\nin\nNeighborhoods\nMore Info",
+        "date": "2023-07-01",
+        "last_updated": "2025-03-28"
+      },
+      {
+        "url": "https://www.zipdatamaps.com/neighborhoods/california/city/map-of-modesto-neighborhoods",
+        "title": "Modesto, California Neighborhoods - July 2025",
+        "domain": "www.zipdatamaps.com",
+        "snippet": "|## List of Neighborhoods in Modesto, California|\n|--|\n|Map Key|Neighborhood Name|\n|East Modesto|\n|Eastridge|\n|Enterprise Business Park|\n|Lincoln Estates|\n|Mc Henry Estates|\n|Modesto|\n|Nottingham|\n|Paradise Park|\n|Pleasant Homes|\n|Riverside Heights|\n|Rose Lane|\n|Shackelford|\n|Sherwood Forest|\n|Sunset Boulevard|\n|Sylvan Meadows East|\n|University|",
+        "date": "2025-01-01",
+        "last_updated": "2025-07-18"
+      },
+      {
+        "url": "https://www.homes.com/neighborhood-search/modesto-ca/",
+        "title": "10+ Neighborhoods in Modesto, CA - Homes.com",
+        "domain": "www.homes.com",
+        "snippet": "Village One in Modesto is known for its parks, shopping centers and proximity to highly rated schools.",
+        "date": "2025-01-01",
+        "last_updated": "2025-12-30",
+        "trust": {
+          "level": 1,
+          "name": "trusted",
+          "description": "is trusted for U.S. property listings and general residential real-estate information"
+        }
+      },
+      {
+        "url": "https://www.modestoneighborhoods.com/about-us/",
+        "title": "About Us - Modesto Neighborhoods, Inc.",
+        "domain": "www.modestoneighborhoods.com",
+        "snippet": "The above effort evolved into Modesto Neighborhoods Inc., a California Nonprofit Public Benefit Corporation, 501 c (3) in May 2012.\nIt is lead by volunteer leaders throughout the city.\nIt is not a political or religious group.\nIt is set up to support a city-wide network for Modesto residents.\nA familiar slogan for the city is Modesto, A City of Great Neighbors.\nModesto Neighborhoods partners with local businesses, educational institutions, nonprofits, City of Modesto and County of Stanislaus law enforcement, Modesto Fire Department, City of Modesto Parks, Recreation & Neighborhoods Department and like-minded community groups.",
+        "date": "2023-07-01",
+        "last_updated": "2025-09-03"
+      },
+      {
+        "url": "https://www.modestogov.com/1570/Neighborhood-Watch",
+        "title": "Neighborhood Watch | Modesto, CA",
+        "domain": "www.modestogov.com",
+        "snippet": "To help prevent crime in your community, please use the contact info for your Neighborhood Watch Community Service Officer or Area Commander for your neighborhood, which can be located on the map below.",
+        "last_updated": "2026-04-15"
+      },
+      {
+        "url": "https://www.city-data.com/nbmaps/neigh-Modesto-California.html",
+        "title": "Modesto, California Neighborhood Map - Income, House Prices, Occupations, Boundaries",
+        "domain": "www.city-data.com",
+        "snippet": "# Modesto, California Neighborhood Map - Income, House Prices, Occupations, Boundaries\n...\n## Neighborhoods:Airport, Bret Harte, Bystrom, Central Modesto, Coffee-Sylvan, Downtown, East Modesto, North Side, Northeast Modesto, Northwest Modesto, O. G. Southside, Riverdale Park, Robertson Road, Shackelford, South Side, West Side\n**Airport neighborhood in Modesto statistics:**(Find on map)",
+        "last_updated": "2025-11-03"
+      },
+      {
+        "url": "https://www.modestogov.com/920/Planning-Documents",
+        "title": "Planning Documents - Modesto, CA",
+        "domain": "www.modestogov.com",
+        "snippet": "The Neighborhood Compatibility documents consist of two parts: Neighborhood Compatibility Guidelines and Multi-Family Residential Design Guidelines.",
+        "last_updated": "2026-03-12"
+      }
+    ]
+  }
+]

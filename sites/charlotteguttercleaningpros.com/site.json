@@ -30,8 +30,49 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "tree_canopy",
+      "title": "Charlotte\u2019s 2022 canopy assessment measured 47% cover",
+      "claim": "Charlotte\u2019s published 2022 Tree Canopy Assessment reports 47% canopy cover inside the city. The City also estimates 200,000 street trees and says a significant percentage are willow oaks. The assessment attributes 34 million gallons of annual runoff prevention to the tree canopy.",
+      "why_it_matters": "A city with mature tree cover sends leaf, twig and needle debris to roof valleys and gutters in a way an open-lot market does not. The practical maintenance plan should fit the trees above the roof: many canopy-covered homes need a spring cleanout and a second post-leaf-drop visit, while an open lot may need less. Clear outlets also keep concentrated roof runoff from reaching the foundation edge.",
+      "sources": [
+        "https://treescharlotte.org/wp-content/uploads/2023/11/Charlotte-NC-Tree-Canopy-Assessment-Factsheet.pdf",
+        "https://www.charlottenc.gov/City-Government/Departments/General-Services/Tree-Management/Commonly-Asked-Questions"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "tree_ordinance",
+      "title": "Charlotte\u2019s tree ordinance protects heritage trees",
+      "claim": "Charlotte defines a heritage tree as a North Carolina native tree with a trunk diameter at breast height of 30 inches or greater. The ordinance states that heritage trees are protected in city limits and that qualifying removals require a City-issued tree work permit and approval.",
+      "why_it_matters": "For a property with a large mature tree over the roof, gutter cleaning and sensible maintenance are not a shortcut to aggressive tree removal. A crew can clear the drainage path and point out a branch conflict; pruning or removal that affects protected trees is a separate tree-care decision governed by the City\u2019s rules.",
+      "sources": [
+        "https://www.charlottenc.gov/files/sharedassets/city/v/1/growth-and-development/getting-started/documents/charlotte-tree-ordinance-adopted.pdf",
+        "https://www.charlottenc.gov/Growth-and-Development/Getting-Started-on-Your-Project/Urban-Forestry"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "stormwater_context",
+      "title": "Charlotte regulates drainage to reduce private flood losses",
+      "claim": "Charlotte\u2019s stormwater regulations state that local rules seek to promote public health and safety, minimize public and private losses due to flood conditions, and protect surface waters. The City says its stormwater system is maintained and improved to move rainwater safely through the community.",
+      "why_it_matters": "Routine gutter cleaning is not a city permit issue, but it is the first private link in a roof-drainage path. A blocked downspout or a discharge at the foundation corner concentrates roof runoff where a homeowner does not want it: beside trim, mulch, a foundation wall or a crawlspace. The visit should verify where water leaves the house, not stop at debris removal.",
+      "sources": [
+        "https://www.charlottenc.gov/Services/Stormwater/Stormwater-Regulations",
+        "https://www.charlottenc.gov/Services/Stormwater"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Myers Park",
+    "Dilworth",
+    "Plaza Midwood",
+    "NoDa",
+    "Elizabeth",
+    "Ballantyne"
+  ],
   "symptoms": [
     "overflowing_gutters",
     "clogged_downspouts",

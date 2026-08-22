@@ -29,8 +29,46 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "winter_salt_exposure",
+      "title": "Deicing material reaches the streets and the garage threshold",
+      "claim": "Ann Arbor treats 346 lane miles of Priority 1 and 2 roads with anti-icing agents, plowing and salt to bare pavement, and the city supplies residents up to five gallons of sand/salt mixture per visit during winter.",
+      "why_it_matters": "Vehicles carry wet deicing residue into a garage. On a door that already has rust at the lower edge, that is a reason to inspect the bottom brackets, cable hardware, rollers and vertical tracks rather than treating a noisy door as an opener-only problem.",
+      "sources": [
+        "https://www.a2gov.org/public-works/street-maintenance/street-snow-removal/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "historic_district_review",
+      "title": "A visible garage change can enter historic review",
+      "claim": "The City of Ann Arbor states that all exterior work in its historic districts is regulated by the Historic District Commission and requires an application and approved Certificate of Appropriateness; proposed changes to existing accessory structures should be checked with staff for the needed review.",
+      "why_it_matters": "Repairing rollers, cables or a spring on an existing door is different from selecting a new visible garage door, changing an opening, or replacing material. Owners should confirm the property\u2019s district status and the applicable review before ordering a replacement design.",
+      "sources": [
+        "https://www.a2gov.org/planning/historic-preservation/applications/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "rental_housing",
+      "title": "Downtown repair calls often involve renters and a separate approver",
+      "claim": "Ann Arbor\u2019s downtown study area was 76.7% renter-occupied in 2020, while the city\u2019s surrounding primary study area was 54.1% renter-occupied. The city\u2019s housing assessment notes that the downtown development district includes the University of Michigan Central Campus and cites nearly 48,000 students in Ann Arbor in fall 2020.",
+      "why_it_matters": "The person who discovers a door that will not close may be a tenant, while the landlord or manager authorizes repair. Dispatch, access, documentation and approval need to be handled as separate steps rather than assuming every caller owns the garage.",
+      "sources": [
+        "https://www.a2gov.org/media/oo1kzbww/ann-arbor-mi-downtown-housing-needs-assessment.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Lower Burns Park",
+    "Old West Side",
+    "Old Fourth Ward",
+    "Northside",
+    "Water Hill",
+    "Pattengill"
+  ],
   "symptoms": [
     "broken_torsion_spring",
     "door_reverses_before_closing",

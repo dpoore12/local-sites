@@ -8,9 +8,9 @@
   "state": "CO",
   "state_full": "Colorado",
   "counties": [
+    "Denver",
     "Adams",
     "Arapahoe",
-    "Denver",
     "Jefferson"
   ],
   "area_codes": [
@@ -33,8 +33,48 @@
     "family_owned": null,
     "veteran_owned": null
   },
-  "local_facts": [],
-  "neighborhoods": [],
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "Denver\u2019s 1950s produced roughly 31,000 single-family detached homes, the city\u2019s top decade for that construction. The period\u2019s development included Harvey Park, Virginia Village and Washington-Virginia Vale.",
+      "why_it_matters": "A furnace repair in a mid-century ranch often starts with checking the original or later-added vent path, return-air arrangement and closet or utility-room clearances, rather than assuming today\u2019s equipment footprint or duct layout. Those details change the diagnostic path and the parts a technician may need.",
+      "sources": [
+        "https://denverurbanism.com/2012/05/denvers-single-family-homes-by-decade-1950s.html"
+      ],
+      "verified": "2026-08-21",
+      "title": "Denver has a large mid-century furnace footprint"
+    },
+    {
+      "id": "mile_high_setup_and_permit",
+      "claim": "Denver\u2019s official elevation is 5,280 feet. Rheem\u2019s high-altitude instructions say covered furnaces above 2,000 feet are derated 4% per thousand feet, require a pressure-switch change at 5,000 feet, and may need an orifice change. Denver\u2019s March 2023 code briefing says like-for-like gas-furnace replacements cannot use a Quick Permit except for an emergency replacement; it lists sizing, gas-piping testing and an electrification feasibility report among the replacement requirements.",
+      "why_it_matters": "At this elevation, diagnosing a gas furnace means confirming the unit\u2019s input and setup for the actual site\u2014not merely replacing a part. For a replacement, the permit route and required project documents belong in the plan before equipment is ordered, while a no-heat repair is diagnosed on its own condition and safety findings.",
+      "sources": [
+        "https://www.ucdenver.edu/international-admissions/about-cu-denver/about-denver-co",
+        "http://pts.myrheem.com/docstore/webdocs/ServiceDocs/HistLib/pdfs/Accessories/RXGY/92-24096-01-06_RXGY-F04_F05_F06_F07.pdf",
+        "https://denver.prelive.opencities.com/files/assets/public/v/1/community-planning-and-development/documents/ds/building-codes/code-adoption/2022-building-code-adoption-briefing-presentation.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "Mile-high combustion and the replacement route both matter"
+    },
+    {
+      "id": "arctic_front_2022",
+      "claim": "The National Weather Service\u2019s 2022 Denver climate summary says an Arctic front on December 21 dropped the DIA temperature 37\u00b0F in one hour. The low on December 22 was -24\u00b0F and the day\u2019s average temperature was -15\u00b0F, Denver\u2019s second-coldest day on record.",
+      "why_it_matters": "Sudden deep cold turns a marginal ignition, airflow or combustion problem into a no-heat call. A technician needs to know whether the failure started during the temperature drop, whether the furnace is attempting to start, and whether some rooms still receive air, so the diagnosis can begin at the right part of the heating sequence.",
+      "sources": [
+        "https://www.weather.gov/media/bou/2022DenverClimateSummary.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "A hard Front Range cold snap exposes weak links"
+    }
+  ],
+  "neighborhoods": [
+    "Capitol Hill",
+    "Five Points",
+    "Highland",
+    "Washington Park",
+    "Park Hill",
+    "Harvey Park"
+  ],
   "symptoms": [
     "furnace_not_heating",
     "furnace_wont_turn_on",
