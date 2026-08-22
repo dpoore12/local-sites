@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "contributory_negligence",
+   "claim": "Alabama follows the pure contributory-negligence rule. The Alabama Supreme Court affirmed an instruction that the “slightest bit” of contributory negligence bars recovery on a negligence claim.",
+   "why_it_matters": "In a truck claim, a small disputed statement about speed, lane position, following distance, distraction, or reaction can become central. Evidence has to be preserved and the crash sequence examined before anyone accepts a shared-fault label.",
+   "sources": [
+    "https://law.justia.com/cases/alabama/supreme-court/1988/519-so-2d-1314-1.html"
+   ],
+   "verified": "2026-08-22",
+   "title": "In Alabama, even slight claimant fault can bar a negligence recovery"
+  },
+  {
+   "id": "interstate_convergence",
+   "claim": "A Federal Highway Administration report on ALDOT’s I-59/20 reconstruction says the Downtown Birmingham project reached from Arkadelphia Road to east of the I-65 interchange, included I-59/20–I-65 interchange modifications, and affected approximately 250,000 vehicles per day.",
+   "why_it_matters": "On a high-volume interchange, lane position, ramp selection, traffic movement, and the sequence of vehicles can be important evidence. A crash report alone may not answer those questions, so scene evidence and carrier data should be preserved early.",
+   "sources": [
+    "https://highways.dot.gov/media/203331"
+   ],
+   "verified": "2026-08-22",
+   "title": "Birmingham’s I-20/I-59 and I-65 interchange carries heavy traffic"
+  },
+  {
+   "id": "jefferson_civil_court",
+   "claim": "The Tenth Judicial Circuit states that Jefferson County has separate civil and criminal divisions. The Birmingham Division Circuit Clerk is located at the Jefferson County Courthouse, 716 Richard Arrington Jr. Blvd. N., Birmingham.",
+   "why_it_matters": "A traffic citation or criminal case is separate from a civil injury claim. Venue and filing depend on the specific parties and events, so the correct court and civil procedure have to be evaluated from the actual case facts.",
+   "sources": [
+    "https://jefferson.alacourt.gov/circuit-court/",
+    "https://jeffersoncircuitclerk.alacourt.gov/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Jefferson County separates civil cases from criminal proceedings"
+  }
+ ],
+ "neighborhoods": [
+  "Five Points South",
+  "Glen Iris",
+  "Highland Park",
+  "Forest Park/South Avondale",
+  "Crestwood South",
+  "Redmont Park"
+ ],
  "symptoms": [
   "hit_by_tractor_trailer",
   "delivery_truck_crash",

@@ -32,8 +32,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "energy_code_2023",
+   "claim": "Dallas adopted its 2021 Energy Conservation Code effective May 12, 2023. Its residential fenestration tables set maximum U-factor and solar heat-gain-coefficient (SHGC) requirements, so a replacement-window specification needs to account for more than frame size and appearance.",
+   "why_it_matters": "U-factor and SHGC are practical inputs for choosing replacement glass in sun-exposed Dallas rooms. The technician checks the opening and discusses the glass package along with shade, orientation, and frame condition before the installation is scoped.",
+   "sources": [
+    "https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/DCH%20documents/pdf/code_amendments/2021_codes/23-0472.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Dallas window replacements are subject to current energy-code performance limits"
+  },
+  {
+   "id": "window_permit_rule",
+   "claim": "The City of Dallas says replacing and repairing damaged windows typically does not require a permit. Its permit FAQ also says that work affecting structural elements and exterior work in historic, conservation, or planned-development districts can follow different approval requirements.",
+   "why_it_matters": "A straightforward damaged-window replacement can be planned differently from an opening resize, structural repair, or work in a special district. The project scope should be checked before materials are ordered rather than relying on a generic doors-and-windows rule.",
+   "sources": [
+    "https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/pages/building_inspection_faqs.aspx"
+   ],
+   "verified": "2026-08-22",
+   "title": "Dallas has a window-specific permit distinction"
+  },
+  {
+   "id": "midcentury_window_stock",
+   "claim": "Dallas has extensive mid-century housing, and a Dallas history publication describes aluminum windows as a common feature of 1960s houses. Preservation Dallas has also documented properties built before 1965 across 28 Dallas neighborhoods.",
+   "why_it_matters": "Older aluminum frames, single-pane glass, narrow openings, and layered renovation work call for an on-site inspection of the frame, sill, and exterior detailing before selecting an insert, new sash, or full-window replacement.",
+   "sources": [
+    "https://texashistory.unt.edu/ark:/67531/metapth586973/m2/1/high_res_d/Legacies%20Fall%202014.pdf",
+    "https://preservationdallas.org/wp-content/uploads/2020/11/Discover-Dallas-neighborhood-directory.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Dallas mid-century homes need frame-aware window work"
+  }
+ ],
+ "neighborhoods": [
+  "Lakewood",
+  "Lochwood",
+  "Casa Linda",
+  "Kessler Park",
+  "Wynnewood North",
+  "Lake Highlands"
+ ],
  "symptoms": [
   "drafty_windows",
   "foggy_window_glass",

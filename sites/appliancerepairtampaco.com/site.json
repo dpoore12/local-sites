@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "humid_hours",
+   "claim": "NOAA engineering weather data for Tampa records 5,093 annual hours meeting its humid-area criterion of wet-bulb temperature above 67°F.",
+   "why_it_matters": "Long humid periods make marginal refrigerator door seals, condensation control, and dryer exhaust performance show up quickly during an appliance inspection.",
+   "sources": [
+    "https://www.ncei.noaa.gov/pub/data/EngineeringWeatherData_CDROM/engwx/tampa_fl.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Tampa’s humid hours expose weak seals and airflow"
+  },
+  {
+   "id": "water_hardness",
+   "claim": "The City of Tampa reported average finished-water hardness of 211 mg/L, or 12.3 grains per gallon, in its 2025 water quality report.",
+   "why_it_matters": "Mineral scale can affect dishwasher spray paths, filters, valve screens, and water-heating components, so a technician checks the appliance before blaming the machine alone.",
+   "sources": [
+    "https://www.tampa.gov/sites/default/files/document/2026/2025-water-quality-report.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Hard water is part of a Tampa dishwasher diagnosis"
+  },
+  {
+   "id": "rental_apartment_mix",
+   "claim": "Tampa’s 2022 housing data counted 77,745 renter-occupied homes, 49.5% of occupied units, and 70,201 apartment units, 40.58% of all units.",
+   "why_it_matters": "Appliance work often requires coordination with a property manager or association and access through compact utility closets, elevators, gates, or building water-shutoff procedures.",
+   "sources": [
+    "https://planhillsborough.org/wp-content/uploads/2025/07/Tampa-Housing-Section-Data-23.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Tampa appliance repairs often run through multifamily access"
+  }
+ ],
+ "neighborhoods": [
+  "Hyde Park",
+  "Seminole Heights",
+  "Ybor City",
+  "Tampa Heights",
+  "Davis Islands",
+  "Ballast Point"
+ ],
  "symptoms": [
   "refrigerator_not_cooling",
   "washer_not_draining",

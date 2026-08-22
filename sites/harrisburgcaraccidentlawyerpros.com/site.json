@@ -29,8 +29,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "tort_election",
+   "claim": "Pennsylvania drivers may select limited tort or full tort. The Pennsylvania Insurance Department explains that limited tort preserves recovery of out-of-pocket medical and other expenses but limits certain damages, such as pain and suffering, unless an exception applies; full tort retains unrestricted rights to bring suit against a negligent party.",
+   "why_it_matters": "The election on the injured person's own auto policy can change the damages analysis after a Harrisburg collision. The declarations page should be preserved with the crash and medical records before anyone discusses a final release.",
+   "sources": [
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/insurance/documents/documents/auto_guide.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "The tort choice on your own policy can shape an injury claim"
+  },
+  {
+   "id": "dauphin_court_process",
+   "claim": "The Dauphin County Court of Common Pleas is located in the Dauphin County Courthouse at 101 Market Street in Harrisburg. Dauphin County says civil matters are submitted by the Prothonotary's Office to Civil, Family and Orphans' Court Administration for review and assignment to a judge.",
+   "why_it_matters": "An insurer claim is not the same as a civil case. If a crash claim requires a filing, the local court has a specific courthouse, filing office, and assignment process that should be understood before a deadline becomes urgent.",
+   "sources": [
+    "https://www.dauphincounty.gov/government/court-departments/court-of-common-pleas-judges",
+    "https://www.dauphincounty.gov/government/court-departments/court-administration/civil-family-orphans-court-administration"
+   ],
+   "verified": "2026-08-22",
+   "title": "Civil cases have a local filing path at the Dauphin County Courthouse"
+  },
+  {
+   "id": "dauphin_crashes_2024",
+   "claim": "PennDOT's Dauphin County Crash Statistics workbook records 2,914 total crashes in Dauphin County in 2024.",
+   "why_it_matters": "A countywide figure cannot determine fault in any one wreck, but it is a reminder to preserve the report, photographs, witness information, medical records, and insurance papers while the evidence for a specific collision is still available.",
+   "sources": [
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/travelinpa/safety/documents/crash_statistics.xlsx"
+   ],
+   "verified": "2026-08-22",
+   "title": "Dauphin County recorded 2,914 crashes in 2024"
+  }
+ ],
+ "neighborhoods": [
+  "Allison Hill",
+  "South Allison Hill",
+  "Midtown",
+  "Uptown",
+  "Shipoke",
+  "Academy Manor"
+ ],
  "symptoms": [
   "rear_end_collision_injury",
   "hit_and_run_crash",

@@ -112,6 +112,10 @@ def parse_copy(path):
             buf.append(line)
     if key:
         blocks[key] = "\n".join(buf).strip()
+    # RULES is the writer's instruction header, not copy a visitor ever reads.
+    # It is identical in every stub, so leaving it in the corpus makes the
+    # duplication guard fire on whichever site kept it second.
+    blocks.pop("RULES", None)
     return blocks
 
 

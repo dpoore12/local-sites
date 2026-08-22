@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "oxnard_101_corridor",
+   "claim": "Caltrans identifies the City of Oxnard segment of US 101 as running from Telephone Road to Rice Avenue. Its corridor plan identifies ramp, merging, weaving, and congestion locations near Victoria Avenue, Oxnard Boulevard, Vineyard Avenue, Rose Avenue, and Rice Avenue.",
+   "why_it_matters": "A crash described only as happening 'on the 101' is hard to investigate. The travel direction, lane, nearest interchange, time, and traffic movement can help identify the correct collision record, scene evidence, and possible camera sources before those details fade.",
+   "sources": [
+    "https://dot.ca.gov/-/media/dot-media/district-5/documents/csmp-slo-101-vensb-plan-a11y.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "The Oxnard stretch of Highway 101 is not one generic crash location"
+  },
+  {
+   "id": "ventura_civil_venue",
+   "claim": "The Superior Court of California, County of Ventura states that its civil division is where civil matters are filed and that general civil cases are heard at the Ventura Courthouse.",
+   "why_it_matters": "An Oxnard collision claim that becomes a general civil case follows Ventura County's civil-court structure. A well-organized collision, medical, and insurance file is useful long before filing is considered.",
+   "sources": [
+    "https://ventura.courts.ca.gov/divisions/civil"
+   ],
+   "verified": "2026-08-22",
+   "title": "General civil cases for Ventura County are heard in Ventura"
+  },
+  {
+   "id": "ventura_county_crash_data",
+   "claim": "California's Office of Traffic Safety recorded 5,130 people killed or injured in Ventura County traffic crashes in 2023, including 1,030 in speed-related fatal-and-injury collisions and 318 in hit-and-run fatal-and-injury collisions.",
+   "why_it_matters": "County totals do not prove an individual claim. They do show why it is important to preserve a particular crash's report, scene evidence, witness information, treatment records, and insurance notices instead of relying on a general description of what happened.",
+   "sources": [
+    "https://www.ots.ca.gov/rankings/ventura-county-2023/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Ventura County crash figures show the scale, not fault in one case"
+  }
+ ],
+ "neighborhoods": [
+  "La Colonia",
+  "Riverpark",
+  "Oxnard Shores",
+  "Silver Strand",
+  "Lemonwood / Eastmont",
+  "Hobson Park West"
+ ],
  "symptoms": [
   "rear_end_collision_injury",
   "hit_and_run_crash",

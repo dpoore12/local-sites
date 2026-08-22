@@ -1,100 +1,138 @@
 {
- "domain": "santaanapersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Santa Ana Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Santa Ana",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Orange"
- ],
- "area_codes": [
-  "657",
-  "714"
- ],
- "phone_display": "(657) 359-9924",
- "phone_tel": "+16573599924",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [],
- "neighborhoods": [],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
+  "domain": "santaanapersonalinjurylawyerpros.com",
+  "phase": 1,
+  "brand": "Santa Ana Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "city": "Santa Ana",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Orange"
+  ],
+  "area_codes": [
+    "657",
+    "714"
+  ],
+  "phone_display": "(657) 359-9924",
+  "phone_tel": "+16573599924",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "central_justice_center",
+      "claim": "Orange County Superior Court lists the Central Justice Center in Santa Ana as handling limited civil, unlimited civil, and small-claims matters for Orange County cities. The court identifies the location as 700 Civic Center Drive West, Santa Ana.",
+      "why_it_matters": "A personal-injury matter does not become a courthouse case simply because an injury occurred, but venue, amount, and case type matter when a civil filing is appropriate. Knowing that limited and unlimited civil matters are handled at the Central Justice Center keeps the local court discussion specific to Santa Ana rather than treating the Orange County system as one generic building.",
+      "sources": [
+        "https://www.occourts.org/location/central-justice-center"
+      ],
+      "verified": "2026-08-22",
+      "title": "Santa Ana is where Orange County civil cases are handled"
+    },
+    {
+      "id": "population_density",
+      "claim": "The City of Santa Ana reports a 2023 population of 310,539 and a density of 12,471.5 people per square mile, describing itself as the fourth-most densely populated U.S. place with 300,000 or more residents.",
+      "why_it_matters": "On a dense city block, the people, businesses, apartments, cameras, and property conditions connected to an injury can be close together and change quickly. Preserving the exact location, route, witness details, photographs, and incident report early matters because a busy scene may be altered soon after an event.",
+      "sources": [
+        "https://www.santa-ana.org/public-information-and-media-relations/"
+      ],
+      "verified": "2026-08-22",
+      "title": "A dense city makes early scene evidence more important"
+    },
+    {
+      "id": "industrial_employment",
+      "claim": "Santa Ana approved the South Coast Technology Center for light industrial uses that may include research and development, light manufacturing, and warehousing. The City says the project is anticipated to generate 687 permanent jobs and 555 one-time construction jobs.",
+      "why_it_matters": "Industrial, warehouse, construction, and office settings can involve different incident records, equipment, contractors, and workplace processes. When someone is hurt, identifying the exact worksite, employer, staffing arrangement, equipment, and every organization involved is more useful than assuming all job injuries follow the same path.",
+      "sources": [
+        "https://www.santa-ana.org/south-coast-technology-center/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Santa Ana\u2019s industrial activity requires careful worksite identification"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown",
+    "Floral Park",
+    "French Park",
+    "Fisher Park",
+    "Lacy",
+    "Logan"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "personal injury lawyer santa ana",
+    "monthly_price": 650,
+    "score": 71,
+    "volume": 700,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "wshapiro.com",
+    "competitor_dr": 26.0
   }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "personal injury lawyer santa ana",
-  "monthly_price": 650,
-  "score": 71,
-  "volume": 700,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "wshapiro.com",
-  "competitor_dr": 26.0
- }
 }

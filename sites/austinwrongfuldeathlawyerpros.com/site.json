@@ -32,8 +32,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "texas_survival_action",
+   "title": "A survival action can be separate from wrongful death",
+   "claim": "Texas Civil Practice and Remedies Code section 71.021 says a personal-injury cause of action does not abate because the injured person died and survives to the heirs, legal representatives, and estate.",
+   "why_it_matters": "A death-related review may need to distinguish the family's losses from an injury claim that belonged to the person who died. The records and estate questions can differ.",
+   "sources": [
+    "https://statutes.capitol.texas.gov/StatutesByDate.aspx?code=CP&level=SE&value=71.021&date=3/12/2015"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "travis_civil_district_courts",
+   "title": "Austin has a local civil-court process",
+   "claim": "Travis County lists its Civil and Family Courts at 1700 Guadalupe Street in Austin. Its District Civil Courts have original jurisdiction over civil matters involving damages of $200 or more, and the District Clerk says attorneys must e-file civil documents.",
+   "why_it_matters": "Death-related civil matters require attention to local filing, service, record, and scheduling procedures rather than informal paperwork alone.",
+   "sources": [
+    "https://www.traviscountytx.gov/courts/civil/district",
+    "https://www.traviscountytx.gov/district-clerk/civil-division"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "travis_traffic_fatalities_2024",
+   "title": "Fatal crashes are a documented Travis County issue",
+   "claim": "TxDOT's 2024 Crashes and Injuries by County table reports 139 fatal crashes and 155 traffic fatalities in Travis County.",
+   "why_it_matters": "A fatal-crash review may need to preserve crash reports, vehicle information, witness material, video, and insurance communications before the record becomes harder to reconstruct.",
+   "sources": [
+    "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/13.pdf"
+   ],
+   "verified": "2026-08-22"
+  }
+ ],
+ "neighborhoods": [
+  "Hyde Park",
+  "Mueller",
+  "East Cesar Chavez",
+  "Clarksville",
+  "Zilker",
+  "Bouldin Creek"
+ ],
  "symptoms": [
   "fatal_car_crash",
   "fatal_workplace_accident",

@@ -30,8 +30,39 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+   {
+     "id": "broward_clerk_injunction_path",
+     "claim": "The Broward County Clerk accepts domestic-violence injunction petitions through the ePortal or in person, charges no filing fee, makes the decision on an accepted petition the same day, and says that if an injunction is granted the hearing is within 15 days or fewer.",
+     "why_it_matters": "An injunction petition in Fort Lauderdale is not a generic form that waits in a queue for weeks. The same-day decision and short hearing window make it important to keep the ruling, hearing notice, and supporting records organized from the start.",
+     "sources": [
+       "https://www.browardclerk.org/Divisions/DomesticViolence"
+     ],
+     "verified": "2026-08-22",
+     "title": "Broward\u2019s injunction filing path can move the same day"
+   },
+   {
+     "id": "civil_criminal_separation",
+     "claim": "Florida Courts explains that an injunction is handled in civil court, while a related arrest or criminal charge is handled in criminal court; the injunction hearing is separate from the criminal case and is recorded.",
+     "why_it_matters": "A person in Fort Lauderdale may have an injunction hearing and a criminal case tied to the same events. The documents, court obligations, and risks of speaking can overlap without becoming one case, so both files need to be identified and reviewed.",
+     "sources": [
+       "https://www.flcourts.gov/Resources-Services/Office-of-Family-Courts/Family-Court-in-Florida/Domestic-Violence/Overview-for-Respondents"
+     ],
+     "verified": "2026-08-22",
+     "title": "An injunction and a criminal charge are separate court matters"
+   },
+   {
+     "id": "seventeenth_judicial_circuit",
+     "claim": "The Seventeenth Judicial Circuit is the circuit court for Broward County and is headquartered in Fort Lauderdale.",
+     "why_it_matters": "Broward injunction hearings and related circuit-court matters are administered locally through this circuit. The hearing notice\u2014not a general assumption about court location\u2014controls where and when a person must appear.",
+     "sources": [
+       "https://news.flcourts.gov/All-Court-News/The-17th-Judicial-Circuit-Welcomes-Our-Newest-Judge-Johnathan-D.-Lott"
+     ],
+     "verified": "2026-08-22",
+     "title": "Broward\u2019s circuit court is based in Fort Lauderdale"
+   }
+ ],
+ "neighborhoods": ["Flagler Village", "Victoria Park", "Las Olas Isles", "Rio Vista", "Sailboat Bend", "Central Beach"],
  "symptoms": [
   "domestic_violence_charge",
   "protective_order_served",

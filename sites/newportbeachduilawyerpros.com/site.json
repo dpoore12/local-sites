@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "harbor_justice_center",
+   "claim": "Orange County Superior Court states that the Harbor Justice Center \u2013 Newport Beach handles traffic, minor offenses, and criminal matters. Its criminal and traffic mailing address is 4601 Jamboree Road, Newport Beach, CA 92660-2595.",
+   "why_it_matters": "A Newport Beach criminal matter should be organized around the court date and department shown in the person\u2019s own paperwork, with the Harbor Justice Center\u2019s local criminal process in mind. The citation, release papers, and any later notice should be retained so an appearance is not missed and the setting can be confirmed.",
+   "sources": [
+    "https://www.occourts.org/location/harbor-justice-center-newport-beach"
+   ],
+   "verified": "2026-08-22",
+   "title": "Newport Beach has a local criminal court venue"
+  },
+  {
+   "id": "boating_under_influence",
+   "claim": "California Harbors and Navigation Code section 655 prohibits operating a vessel while under the influence of alcohol, drugs, or their combined influence, and separately prohibits operating a recreational vessel with a blood alcohol concentration of 0.08 percent or more.",
+   "why_it_matters": "An alleged impaired operation on Newport Harbor is a vessel-law matter. The response may need to examine who was operating, the vessel\u2019s location and course, the Harbor Patrol contact, testing timing and method, passengers, and the records maintained by the responding agency.",
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=HNC&division=3.&title=&part=&chapter=5.&article=1."
+   ],
+   "verified": "2026-08-22",
+   "title": "Newport Harbor allegations can involve vessel DUI law"
+  },
+  {
+   "id": "harbor_patrol",
+   "claim": "The City of Newport Beach says that the Orange County Sheriff\u2019s Department Harbor Patrol-Marine Operations Bureau manages the emergency and law-enforcement services of Newport Harbor.",
+   "why_it_matters": "For a boating-under-the-influence allegation, the responding agency, written report, dispatch or radio records, and exact place of the contact may be important evidence. That differs from the record trail in an ordinary roadway stop.",
+   "sources": [
+    "https://www.newportbeachca.gov/government/departments/harbor/contact-us/sheriff-s-harbor-patrol"
+   ],
+   "verified": "2026-08-22",
+   "title": "Harbor Patrol records can be central evidence"
+  }
+ ],
+ "neighborhoods": [
+  "Balboa Peninsula",
+  "Balboa Island",
+  "Lido Isle",
+  "Corona del Mar",
+  "Newport Coast",
+  "Dover Shores"
+ ],
  "symptoms": [
   "first_dui_arrest",
   "license_suspension_notice",

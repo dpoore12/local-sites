@@ -1,0 +1,658 @@
+[
+  {
+    "query": {
+      "query": "Santa Clara Superior Court DUI arraignment Hall Justice",
+      "domains": [
+        "scscourt.org"
+      ],
+      "limit": 10
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.scscourt.org/",
+        "title": "Home | Superior Court of California | County of Santa Clara",
+        "domain": "www.scscourt.org",
+        "snippet": "- ### Downtown Superior Court (DTS)\n191 North First Street\nSan Jose, CA 95113\nUnited States\n- ### Family Justice Center Courthouse (FJCC)\n201 N.\nFirst Street\nSan Jose, CA 95113\nUnited States\n- ### Hall of Justice (HOJ)\n190-200 West Hedding Street\nSan Jose, CA 95110\nUnited States\n- ### Juvenile Justice Courthouse\n...\n270 Grant Avenue\nPalo Alto, CA 94306\nUnited States\n- ### Santa Clara Courthouse\n1095 Homestead Road\nSanta Clara, CA 95050\nUnited States\nTemporarily Closed\n...\n301 Diana Avenue\nMorgan Hill, CA 95037\nUnited States\n...\n191 North First Street, San Jose, CA 95113\n...\n###### Hall of Justice (HOJ)\n190-200 West Hedding Street, San Jose, CA 95110",
+        "last_updated": "2026-08-10"
+      },
+      {
+        "url": "http://m.scscourt.org/",
+        "title": "Court News/RSS Feed",
+        "domain": "m.scscourt.org",
+        "snippet": "Self-Help Center\n...\n\u00a9 Superior Court of California,\nCounty of Santa Clara",
+        "date": "2021-12-20",
+        "last_updated": "2026-02-08"
+      },
+      {
+        "url": "https://www.scscourt.org/court_divisions/criminal/crimcalendar.shtml",
+        "title": "Criminal Calendars | Superior Court of California",
+        "domain": "www.scscourt.org",
+        "snippet": "Divisions Criminal Division Criminal Calendars Criminal Calendars In this section Criminal Division Bail Bonds Filed Report Criminal Bail Schedule Criminal Calendars Criminal Justice Realignment Forensic Evaluator Resources Sealing Criminal Records",
+        "last_updated": "2024-10-30"
+      },
+      {
+        "url": "http://m.scscourt.org/site/scscourt/find-us?dm_try_mode=true&dm_device=mobile",
+        "title": "Find Us - Santa Clara County Superior Court",
+        "domain": "m.scscourt.org",
+        "snippet": "Tentative Rulings Dept.\n1\n...\nHOJ\nMap\n...\nMap",
+        "date": "2021-12-20",
+        "last_updated": "2025-10-06"
+      },
+      {
+        "url": "http://m.scscourt.org/site/scscourt/call-us---civil",
+        "title": "Call Us",
+        "domain": "m.scscourt.org",
+        "snippet": "For Civil Downtown Superior Court (DTS) above, select option 6 first, then 5 for Appeals, 6 for Arbitration, 4 for Calendar, 5 for Law & Motion, 7 for Clerk's Office, or 3 for Records",
+        "date": "2021-12-20",
+        "last_updated": "2025-08-15"
+      },
+      {
+        "url": "https://www.scscourt.org/general_info/contact/phones.shtml",
+        "title": "Court Telephone Numbers & Email Addresses",
+        "domain": "www.scscourt.org",
+        "snippet": "> **Courthouse Building Hours: ** Monday - Friday 8:00 a.m.\n- 5:00 p.m.\n> **Clerk's Office & Telephone Business Hours:\u00a0** Monday - Thursday 8:30 a.m.\n- 3:00 p.m. and Friday 8:30 a.m.\n- 12:00 p.m.\n...\n|**Office**|**Telephone Number**|**Email Address/Webpage**|\n...\n|Main Number|408-882-2700|Superior Court of Santa Clara County Home page|\n...\n|**Criminal** Location: Various|**Telephone Number**|**Email Address/Webpage**|\n|Hall of Justice Clerk\u2019s Office 190-200 W.\nHedding St., San Jose|408-808-6611|sscriminfo@scscourt.org \u00a0Records Inquiries:sscriminalrecords@scscourt.org|\n|Hall of Justice Clerk\u2019s Office ADA/TDD Line|408-808-6626| |\n|Palo Alto Clerk\u2019s Office270 Grant Ave., Palo Alto|650-462-3810|sscriminfo@scscourt.org|\n|Palo Alto Clerk\u2019s Office ADA/TDD Line|650-470-3921| |\n|South County Clerk\u2019s Office (Morgan Hill) 301 Diana Ave., Morgan Hill|408-695-5014|sscriminfo@scscourt.org|\n|South County Clerk\u2019s Office ADA/TDD Line|408-695-5199| |\n|Family Justice Center Drug Court Clerk\u2019s Office 201 North First Street, San Jose|408-491-4811|sscriminfo@scscourt.org|\n|Family Justice Center Drug Court Clerk's Office ADA/TDD Line|408-491-4719| |\n|**Traffic** Location: 301 Diana Ave., Morgan Hill|**Telephone Number**|**Email Address/Webpage**|\n|Traffic Court Clerk\u2019s OfficeVirtual Traffic Counter (speak to a clerk face-to-face online)|408-556-3000|sstrafficinfo@scscourt.org|\n|Traffic Court Clerk\u2019s Office ADA/TDD Line|408-556-3093| |\n|Pay-By-Phone|408-878-0098|N/A|",
+        "last_updated": "2025-09-03"
+      },
+      {
+        "url": "https://www.scscourt.org/court_divisions/criminal/criminal_home.shtml",
+        "title": "Criminal Division | Superior Court of California",
+        "domain": "www.scscourt.org",
+        "snippet": "Criminal cases are heard in the Hall of Justice in downtown San Jose, as well as in the Family Justice Center (Drug Court), Palo Alto, and South County Courthouses.",
+        "last_updated": "2025-07-25"
+      },
+      {
+        "url": "http://m.scscourt.org/site/scscourt/call-us---probate?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true",
+        "title": "Call Us - Probate - Santa Clara court",
+        "domain": "m.scscourt.org",
+        "snippet": "After calling, select option 7, then 1\n...\n\u00a9 Superior Court of California,\nCounty of Santa Clara\nCreate",
+        "date": "2021-12-20",
+        "last_updated": "2026-01-06"
+      },
+      {
+        "url": "https://www.scscourt.org/general_info/contact/courthouses/hoj.shtml",
+        "title": "Hall of Justice (HOJ) | Superior Court of California",
+        "domain": "www.scscourt.org",
+        "snippet": "# Hall of Justice (HOJ)\n190-200 West Hedding Street San Jose, CA 95110\nBuilding hours: Monday - Friday:\n8:00am - 5:00pm\n- **Phone:**\n408-808-6611\n** Email:**\nsscriminfo@scscourt.org\n**Service Hours:**\nPhone:\nMonday - Thursday&nbsp8:30 a.m.-3:00 p.m.\nPhone:\nFriday&nbsp8:30 a.m.-12:00 p.m.\n...\n### Mailing Address\n191 N.\nFirst Street San Jose, CA 95113\n### Parking and Transportation\n...\n> **Juror Parking at HOJ: ** Jurors should park in the Civic Center Parking Garage across the street from HOJ.\nJurors should bring their parking stub from this garage to the Jury counter for validation.\n**If you are cited for any illegal parking, it will be your responsibility to pay for any citations that are issued to you**.\n...\nThe drop box is located in the lobby.\nThe lobby is open from 8:00 a.m. to 5:00 p.m., Monday through Friday.",
+        "last_updated": "2026-05-07"
+      },
+      {
+        "url": "https://www.scscourt.org/locations",
+        "title": "Santa Clara County Courthouse Locations",
+        "domain": "www.scscourt.org",
+        "snippet": "> **Courthouse Building Hours: ** Monday - Friday 8:00 a.m.\n- 5:00 p.m.\n> **Clerk's Office & Telephone Business Hours:\u00a0** Monday - Thursday 8:30 a.m.\n- 3:00 p.m. and Friday 8:30 a.m.\n- 12:00 p.m.\n...\n1-16\n191 N.\nFirst St., San Jose, CA 95113\n- Family, Juvenile Dependency, Drug Court, Traffic, and Self-Help;\u00a0Depts.\n60-79\n201 N.\nFirst Street, San Jose, CA 95113\n- Criminal; Depts.\n23-54\n190 W.\nHedding, San Jose, CA 95110\n- Juvenile Justice;\u00a0Depts.\n...\n161 North First Street, San Jose, CA 95113\n- Criminal;\u00a0Depts.\n84-89\n270 Grant Avenue, Palo Alto, CA 94306\n- Temporarily Closed\n- Criminal and Traffic;\u00a0Depts.\n105-110\n301 Diana Avenue, Morgan Hill, CA 95037",
+        "last_updated": "2026-03-25"
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "California DMV administrative per se DUI hearing 10 days",
+      "domains": [
+        "dmv.ca.gov"
+      ],
+      "limit": 10
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/",
+        "title": "Driving Under the Influence (DUI)",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "You have the right to request a hearing from the DMV within 10 days of receipt of the suspension or revocation order.\nIf the review shows there is no basis for the suspension or revocation, the action will be set aside.\nYou will be notified by the DMV in writing only if the suspension or revocation is set aside following the administrative review.\n...\nYou may drive for 30 days from the date the order of suspension or revocation was issued, provided you have a California driver\u2019s license and your driver\u2019s license is not expired, or your driving privilege is not suspended or revoked for some other reason.\nA hearing is your opportunity to show that the suspension or revocation is not justified.\n...\nNo. A request for a restricted license cannot be considered at the DMV hearing.\nYou may apply for an Ignition Interlock Device (IID) or a restricted license to drive to and from work.\n...\nThe DMV suspension or revocation is an immediate administrative action taken against your driving privilege only.\nThis is called Administrative Per Se (APS).\nAny sanctions imposed by DMV under APS are independent of any court-imposed jail sentence, fine, or other criminal penalty imposed when a person is convicted for driving under the influence (DUI).\n...\nNo. The DMV hearing is an administrative proceeding regarding your driving privilege and the circumstances surrounding the arrest, not whether you are innocent or guilty of a criminal act.\nOnly the following issues will be discussed:\nIf you took a blood, breath or a urine test (if applicable):\n- Did the peace officer have reasonable cause to believe you were driving a motor vehicle in violation of CVC \u00a723140 , 23152 , or 23153?\n- Were you placed under lawful arrest or detained while on DUI probation?\n- Were you driving a motor vehicle when you had 0.08% or more by weight of alcohol in your blood?\nIf you refused or failed to complete a blood, breath test, or a urine test (if applicable):\n- Did the peace officer have reasonable cause to believe you were driving a motor vehicle in violation of CVC \u00a723140 , 23152 , or 23153?\n...\nNo. You are not required to request a DMV hearing if you do not want one.\n...\nYou may request a hearing from DMV within 10 days of receipt of the suspension by contacting a local Driver Safety Office.\nNo. The DMV hearing officer can only set aside the administrative action against your driving privilege.\nThis decision is separate and/or independent from any criminal charge, sanction, penalty, or decision.\n...\nIf DMV orders a discretionary action against a person\u2019s driving privilege, that person has the right to a hearing before DMV to challenge the action and review the evidence supporting it.",
+        "date": "2026-08-07",
+        "last_updated": "2026-08-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/",
+        "title": "Section 9: Alcohol and Drugs",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "If you are arrested for DUI:\n- California\u2019s Administrative Per Se law requires DMV to suspend your driving privilege.\n- The law enforcement officer may take your driver\u2019s license and give you a temporary driver\u2019s license for 30 days.\n- You may request a DMV administrative hearing within 10 days from the date of your arrest.",
+        "date": "2026-04-20",
+        "last_updated": "2026-08-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/es/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/",
+        "title": "Driving Under the Influence (DUI) (DUI) - California DMV",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "You have the right to request a hearing from the DMV within 10 days of receipt of the suspension or revocation order.\nIf the review shows there is no basis for the suspension or revocation, the action will be set aside.\nYou will be notified by the DMV in writing only if the suspension or revocation is set aside following the administrative review.\n...\nYou may drive for 30 days from the date the order of suspension or revocation was issued, provided you have a California driver\u2019s license and your driver\u2019s license is not expired, or your driving privilege is not suspended or revoked for some other reason.\nA hearing is your opportunity to show that the suspension or revocation is not justified.\n...\nNo. A request for a restricted license cannot be considered at the DMV hearing.\nYou may apply for an Ignition Interlock Device (IID) or a restricted license to drive to and from work.\n...\nThe DMV suspension or revocation is an immediate administrative action taken against your driving privilege only.\nThis is called Administrative Per Se (APS).\nAny sanctions imposed by DMV under APS are independent of any court-imposed jail sentence, fine, or other criminal penalty imposed when a person is convicted for driving under the influence (DUI).\n...\nNo. The DMV hearing is an administrative proceeding regarding your driving privilege and the circumstances surrounding the arrest, not whether you are innocent or guilty of a criminal act.\nOnly the following issues will be discussed:\nIf you took a blood, breath or a urine test (if applicable):\n- Did the peace officer have reasonable cause to believe you were driving a motor vehicle in violation of CVC \u00a723140 , 23152 , or 23153?\n- Were you placed under lawful arrest or detained while on DUI probation?\n- Were you driving a motor vehicle when you had 0.08% or more by weight of alcohol in your blood?\nIf you refused or failed to complete a blood, breath test, or a urine test (if applicable):\n...\nNo. You are not required to request a DMV hearing if you do not want one.\n...\nYou may request a hearing from DMV within 10 days of receipt of the suspension by contacting a local Driver Safety Office.\nNo. The DMV hearing officer can only set aside the administrative action against your driving privilege.\nThis decision is separate and/or independent from any criminal charge, sanction, penalty, or decision.\n...\nIf DMV orders a discretionary action against a person\u2019s driving privilege, that person has the right to a hearing before DMV to challenge the action and review the evidence supporting it.",
+        "date": "2023-05-24",
+        "last_updated": "2025-05-02",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/administrative-hearings/",
+        "title": "Administrative Hearings - California DMV - CA.gov",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "If DMV orders a discretionary action against a person\u2019s driving privilege, that person has the right to a hearing before DMV to challenge the action and review the evidence supporting it.\nA person must request a hearing within 10 days of receiving notice of the action against their driving privilege.\nThe hearings are recorded and are conducted remotely or in person.\nThe hearing is held before a Driver Safety Hearing Officer from DMV.\n...\nDMV\u2019s Driver Safety Branch may hold hearings remotely via Microsoft Teams videoconference.\n...\nIf the decision from the hearing is against you, you have the right to request DMV to conduct an administrative review of the decision, as well as the right to appeal the decision to Superior Court.\nOn or after January 1, 2003, new legislation authorizes DMV to collect a $120 fee for a departmental review following an Administrative Per Se (APS) hearing.\nCVC \u00a7\u00a713353 and 13353.2 Questions regarding this fee should be directed to the DMV Driver Safety Office where your hearing was conducted.\nRequests for the administrative review or to appeal the decision in court must be made within a certain time period dependent on the type of hearing and as described in the Vehicle Code.\nThese time periods and other specific information concerning your rights will be stated on the notice containing the hearing decision.\nCheck the notice you received advising you of the action against your driving privilege.\nIf the notice indicates you have the right to a hearing, you have 10 days following receipt of the notice to request a hearing.\nIf you would like to request a hearing or have questions regarding this matter, contact the DMV Driver Safety at dmv.ca.gov/driversafety or call (833) 543-7703.\nBe sure to identify yourself by your full name, your driver license number, and your date of birth.\nYou will also be asked to verify your correct mailing address.",
+        "date": "2025-08-19",
+        "last_updated": "2025-10-03",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/uploads/2020/06/1st_Offender_Alcohol_Non-Injury.pdf",
+        "title": "DUI FIRST OFFENDERS Alcohol Involved - Non-Injury 21 and Older",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "ADMINISTRATIVE HEARING OPTION\nYou have the right to request a hearing from the DMV within 10 days of receipt of the suspension or revocation order.\nIf the review \nshows there is no basis for the suspension or revocation, the action will be set aside.\nThe DMV hearing is an administrative \nproceeding regarding your driving privilege and the circumstances surrounding the arrest, not whether you are innocent or guilty of\na criminal act.\nMore information regarding APS hearings can be found on the DMV\u2019s website, www.dmv.ca.gov.\nEmployment/Treatment Program",
+        "last_updated": "2026-08-08",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont2/",
+        "title": "Section 7: Laws and Rules of the Road (Continued)",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "### Administrative Hearing\nAdministrative hearings are conducted by DMV.\nIf you received notification that a proposed action is being taken against your driving privilege, you must request a hearing within 10 days of being served or 14 days from the date the notice is mailed.\nIf you do not make a timely request, your right to a hearing will be lost.\nThis hearing provides you with an opportunity to be heard before an action is taken against your driving privilege.\nYou may also have to appear in court for the same reason.\nAny action taken by the court is independent of the action taken by DMV.\n### Your Hearing Rights\nYou have the right to:\n- Present relevant evidence and witnesses on your behalf.\n- Testify on your behalf or be represented by an attorney or other representative at your expense.\nRepresentation by an attorney is not required.\n- Review the evidence and cross examine the testimony of any witness.\nDMV bases its case only on written documents.\nIf you wish to question someone who prepared a document or is listed on a document used as evidence, it is your responsibility to acquire a subpoena.\nFor more information regarding Administrative Hearings, visit dmv.ca.gov/driversafety.",
+        "date": "2026-04-13",
+        "last_updated": "2026-08-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/es/driver-education-and-safety/educational-materials/driving-under-the-influence-ffdl-36/",
+        "title": "Driving Under the Influence - California DMV",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "The DMV is required to suspend or revoke the driving privilege of any person under age 21 who was detained and/or arrested for driving under the influence (DUI) of alcohol, or a combination of alcohol and drugs, who:\n...\nThe temporary DL will be valid for 30 days from the issue date (usually the date you were detained and/or arrested).\nAt the end of the 30 days, the suspension/revocation action goes into effect.\n...\nYou have\n**10 days** from receipt of the Suspension/Revocation Order (DS 367/367M) to request a hearing to show that the APS suspension/revocation is not justified.\nThe APS Zero Tolerance suspension/revocation will not be stayed (delayed) unless:\n- You request a hearing within 10 days from the issue date of the order,\n**y**\n- DMV cannot provide a hearing appointment before the effective date of the suspension/revocation.\nBefore the hearing, and upon request, you may see and/or obtain copies of DMV\u2019s evidence.\n...\nAfter the hearing decision, if the action is upheld, you may submit a written request for a department review within 15 days of the effective date of the decision.\nThe fee for a department review is $120 (CVC \u00a7\u00a7 14105.5, 14907).\nApart from the department review process, you may request a court review within 30 days following the issuance of the notice of the hearing decision (CVC \u00a713559).\n...\nYour need for a DL is not an issue at the APS Zero Tolerance hearing.\nOnly the following issues will be discussed:\n**A.\nIf you took a PAS or other chemical test:**\n...\nA. If you took a PAS or chemical test, and the results showed a 0.01% BAC level or more, your driving privilege will be\n**suspended for one year**.\nB. If you refused, or failed to complete, a PAS or other chemical test your driving privilege will be:\n- Suspended for one year, for a first offense.\n- Revoked for two years, for a second offense in 10 years\n- Revoked for three years, for three or more offenses in 10 years.\n...\nContact one of the following Driver Safety offices for an Application for Critical Need Restriction (DS 694), or visit the DMV website at www.dmv.ca.gov for the application.\n## Driver Safety Offices\n|Location|Telephone|\n|--|--|\n|LocationBakersfield|Telephone(661) 833-2103|\n|LocationCity of Commerce|Telephone(323) 724-4000|\n|LocationCity of Orange|Telephone(714) 703-2511|\n|LocationCovina|Telephone(626) 974-7137|\n|LocationEl Segundo|Telephone(310) 615-3500|\n|LocationFresno|Telephone(559) 445-6399|\n|LocationOakland|Telephone(510) 563-8900|\n|LocationOxnard|Telephone(805) 988-3050|\n|LocationRedding|Telephone(530) 224-4755|\n|LocationSacramento|Telephone(916) 227-2970|\n|LocationSan Bernardino|Telephone(909) 383-7413|\n|LocationSan Diego|Telephone(858) 627-3901|\n|LocationSan Francisco|Telephone(415) 557-1170|\n|LocationSan Jose|Telephone(408) 229-7100|\n|LocationVan Nuys|Telephone(818) 376-4217|",
+        "date": "2023-05-19",
+        "last_updated": "2025-06-26",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/file/identifying-barriers-to-driving-privilege-reinstatement-among-california-dui-offenders/",
+        "title": "Identifying Barriers to Driving Privilege Reinstatement ...",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "Most drivers arrested for DUI in California during the sampling year used for the present study\n(2004) would have typically received a 4-month administrative license suspension (APS) that \nwould begin after a delay of 30 days if certain conditions were met upon arrest, such as having \nblood alcohol concentration (BAC) levels of .08% or higher.\nIf drivers had a prior APS \nsuspension or DUI conviction, the length of their APS suspension would be 1 year.\nIn addition,\n...\n10 \n...\nOf the various recommendations offered to improve upon information provided to DUI offenders \nby arresting officers (Table 26), the most commonly offered across all occupation groups were: \nthat the arresting officers should emphasize to the offenders upon arrest that they will have only \n10 days to request DMV hearings; that their temporary licenses are valid for only 30 days; and to\n\u2026\n...\nEmphasize that they have 10 days to request a DMV hearing, temp \nDL good for 30 days, etc.\nMake sure offender has DS367.\n40 \n2\n...\nEmphasize that they have 10 days to request a DMV hearing.\nMake \nsure offender has DS 367.\nIf needed, info on court date.",
+        "last_updated": "2026-08-12",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/file/first-offender-non-injury-restriction-options-pdf",
+        "title": "DUI Drug-Only Offenses for First and Repeat Offenders, 21 and Older",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "The Department of Motor Vehicles (DMV) is required to suspend or revoke the driving privilege of any person arrested for DUI of\n...\nADMINISTRATIVE HEARING OPTION \nYou have the right to request a hearing from the DMV within 10 days of receipt of the suspension or revocation order.\nIf the review \nshows there is no basis for the suspension or revocation, the action will be set aside.\nThe DMV hearing is an administrative \nproceeding regarding your driving privilege and the circumstances surrounding the arrest, not whether you are innocent or guilty of\na criminal act.\nMore information regarding APS hearings can be found on the DMV\u2019s website, www.dmv.ca.gov.\nRESTRICTED LICENSE OPTIONS ",
+        "last_updated": "2025-11-16",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/driver-education-and-safety/educational-materials/fast-facts/driving-under-the-influence-age-21-and-older-ffdl-35/",
+        "title": "Driving Under the Influence: Age 21 and Older - California DMV",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "At the end of the 30 days, the action goes into effect.\n...\nYou have 10 days from the receipt of the Order of Suspension/Revocation to request a hearing to show that the APS action is not justified.\nDMV will conduct a telephone hearing unless you request an in-person hearing.\nThe APS action will not be stayed (delayed) unless:\n- You request a hearing within 10 days from the issue date of the order\n**and**DMV cannot provide a hearing before the effective date of the action.\nBefore the hearing, and upon request, you may see and/or obtain copies of DMV evidence.\nIf you want copies released to someone else, such as an attorney, you must give the person signed permission.\nYou have the right to have a sign or language interpreter present at your hearing.\nImmediately notify DMV if you require an interpreter.\nYou may represent yourself or, at your own expense, an attorney or another person may represent you at the hearing.\nYou may present oral testimony and other evidence.\nYour testimony will be taken under oath or affirmation and the hearing will be recorded.\n...\nAfter the hearing decision, you may submit a written request for a departmental review, pursuant to CVC \u00a714105.5 within 15 days of the effective date of the notice.\n...\nYour need for a DL is not an issue at the APS hearing.\n...\n**To reinstate your driving privilege after an APS suspension/revocation, you must:**\n- Pay a $125 reissue fee to DMV (CVC \u00a714905).\n...\nIf you have any questions, please contact the Driver Safety Branch Office at (833) 543-7703.",
+        "date": "2025-08-15",
+        "last_updated": "2026-02-11",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "Santa Clara County DUI crash statistics California OTS",
+      "domains": [
+        "ots.ca.gov"
+      ],
+      "limit": 10
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.ots.ca.gov/media-and-research/crash-rankings/",
+        "title": "OTS Crash Rankings - Office of Traffic Safety - CA.gov",
+        "domain": "www.ots.ca.gov",
+        "snippet": "Contact the OTS at contactots@ots.ca.gov or by calling our office at 916-509-3030.\n...\n- *DUI Arrests \u2013 DUI arrest figures are shown for cities only, not counties.\nThe number of cities ranked against may be different than from the number of cities in the other categories.\nNot all cities report DUI arrests to the Department of Justice.",
+        "last_updated": "2026-08-09",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/wp-content/uploads/sites/67/2024/09/FY-2023-Annual-Report-Final.pdf",
+        "title": "California Annual Report 2023",
+        "domain": "www.ots.ca.gov",
+        "snippet": "1,370 in 2021.\nThe alcohol-impaired driving fatality rate increased 2 percent from 2020 to 2021,\n...\nSANTA CLARA COUNTY \n1 \nDrug-Impaired Driving \n(DI) Evaluation \nSanta Clara County \n2 \n...\nSanta Clara County \n6 \n...\nActual \n625 \n635 \n634 \n782 \n878 \n5-Year Rolling \nAverage \n560 \n584 \n615 \n657 \n711 \nC-5 \nAlcohol-Impaired Driving Fatalities (FARS) \nActual \n1,141 \n1,116 \n966 \n1,180 \n1,370 \n5-Year Rolling\nAverage \n983 \n1,030 \n1,048 \n1,103 \n1,155 \n...\n2018 \n2019 \n2020 \n2021 \n2022 \nStatewide DUI Arrests* \n127,437 \n124,141 \n95,957 \nNot Yet \nAvailable \nNot Yet\nAvailable \n Statewid e D UI Convict ion Rate  Statewide DUI Conviction Rate *\n71.1% \n68.9% \nNot Yet \nAvailable \n...\n*DMV DUI Management Information System Report.\nMost recent data available is posted.\n**Data provided by DMV.",
+        "last_updated": "2026-08-14",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-county-2020-2/",
+        "title": "SANTA CLARA COUNTY 2020 | Office of Traffic Safety - CA.gov",
+        "domain": "www.ots.ca.gov",
+        "snippet": "# SANTA CLARA COUNTY 2020\n|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|San Jose|2020|SANTA CLARA COUNTY|A|991144|6139303|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|2444|12/15|\n|Alcohol Involved|310|13/15|\n|Had Been Drinking Driver < 21|28|2/15|\n|Had Been Drinking Driver 21 \u2013 34|87|11/15|\n|Motorcycles|39|14/15|\n|Pedestrians|241|13/15|\n|Pedestrians < 15|27|5/15|\n|Pedestrians 65+|45|8/15|\n|Bicyclists|185|10/15|\n|Bicyclists < 15|15|6/15|\n|Composite|1417|11/15|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n...\n|Speed Related|448|11/15|\n|Nighttime (9:00pm \u2013 2:59am)|304|12/15|\n|Hit and Run|240|13/15|\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|605| |5/15|",
+        "last_updated": "2026-04-04",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-2023/",
+        "title": "Santa Clara 2023 - California Office of Traffic Safety",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Santa Clara|2023|SANTA CLARA COUNTY|B|133829|1147960|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|463|42/62|\n|Alcohol Involved|44|44/62|\n|Had Been Drinking Driver < 21|8|20/62|\n|Had Been Drinking Driver 21 \u2013 34|19|45/62|\n|Motorcycles|28|30/62|\n|Pedestrians|30|39/62|\n|Pedestrians < 15|1|57/62|\n|Pedestrians 65+|5|27/62|\n|Bicyclists|29|32/62|\n|Bicyclists < 15|3|29/62|\n|Composite|215|41/62|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n...\n|Speed Related|69|39/62|\n|Nighttime (9:00pm \u2013 2:59am)|48|37/62|\n|Hit and Run|27|51/62|\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|108| |11/62|",
+        "last_updated": "2026-03-29",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-county-2022/",
+        "title": "Santa Clara County 2022 - California Office of Traffic Safety - CA.gov",
+        "domain": "www.ots.ca.gov",
+        "snippet": "# Santa Clara County 2022\n|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Santa Clara County|2022|SANTA CLARA COUNTY| |1902799|34994.4291|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|8648|18/58|\n|Alcohol Involved|1083|51/58|\n|Had Been Drinking Driver < 21|111|26/58|\n|Had Been Drinking Driver 21 \u2013 34|542|48/58|\n|Motorcycles|369|55/58|\n|Pedestrians|532|32/58|\n...\n|Pedestrians 65+|74|42/58|\n|Bicyclists|526|9/58|\n|Bicyclists < 15|80|10/58|\n|Composite| |NA|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n...\n|Speed Related|2321|4/58|\n|Nighttime (9:00pm \u2013 2:59am)|976|42/58|\n|Hit and Run|713|26/58|",
+        "last_updated": "2026-03-20",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-county-2023/",
+        "title": "Santa Clara County 2023 - California Office of Traffic Safety - CA.gov",
+        "domain": "www.ots.ca.gov",
+        "snippet": "# Santa Clara County 2023\n|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Santa Clara County|2023|SANTA CLARA COUNTY|1921406|34686700|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|8745|44/58|\n|Alcohol Involved|1030|51/58|\n|Had Been Drinking Driver < 21|78|52/58|\n|Had Been Drinking Driver 21 \u2013 34|482|31/58|\n|Motorcycles|368|23/58|\n...\n|Pedestrians 65+|73|41/58|\n|Bicyclists|540|8/58|\n|Bicyclists < 15|61|21/58|\n|Composite|NA|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n...\n|Speed Related|2403|26/58|\n|Nighttime (9:00pm \u2013 2:59am)|977|46/58|\n|Hit and Run|746|23/58|",
+        "date": "2012-11-05",
+        "last_updated": "2026-01-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/milpitas-2022/",
+        "title": "Milpitas 2022",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Milpitas|2022|SANTA CLARA COUNTY|C|81635|418.3025|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|282|23/104|\n|Alcohol Involved|26|47/104|\n|Had Been Drinking Driver < 21|0|86/104|\n|Had Been Drinking Driver 21 \u2013 34|12|47/104|\n|Motorcycles|15|32/104|\n|Pedestrians|15|66/104|\n|Pedestrians < 15|2|57/104|\n|Pedestrians 65+|4|40/104|\n|Bicyclists|19|33/104|\n|Bicyclists < 15|0|102/104|\n|Composite|145|42/104|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n|--|--|--|\n|Speed Related|61|7/104|\n|Nighttime (9:00pm \u2013 2:59am)|25|42/104|\n|Hit and Run|21|38/104|\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|135|67/104|",
+        "date": "2012-11-05",
+        "last_updated": "2025-08-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-2021/",
+        "title": "Santa Clara 2021",
+        "domain": "www.ots.ca.gov",
+        "snippet": "# Santa Clara 2021\n|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Santa Clara|2021|SANTA CLARA COUNTY|B|130462|1292864|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|264|58/60|\n|Alcohol Involved|28|57/60|\n|Had Been Drinking Driver < 21|2|45/60|\n|Had Been Drinking Driver 21 \u2013 34|11|57/60|\n|Motorcycles|20|47/60|\n|Pedestrians|17|54/60|\n|Pedestrians < 15|0|60/60|\n|Pedestrians 65+|2|44/60|\n|Bicyclists|6|58/60|\n|Bicyclists < 15|0|59/60|\n|Composite|138|58/60|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n...\n|Speed Related|47|53/60|\n|Nighttime (9:00pm \u2013 2:59am)|31|55/60|\n|Hit and Run|19|50/60|\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|88|6/60|",
+        "date": "2012-11-05",
+        "last_updated": "2025-08-28",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/mountain-view-2023/",
+        "title": "Mountain View 2023 - California Office of Traffic Safety",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Mountain View|2023|SANTA CLARA COUNTY|C|86674|490460|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|215|76/103|\n|Alcohol Involved|15|91/103|\n|Had Been Drinking Driver < 21|0|101/103|\n|Had Been Drinking Driver 21 \u2013 34|5|89/103|\n|Motorcycles|5|88/103|\n|Pedestrians|23|45/103|\n|Pedestrians < 15|2|56/103|\n|Pedestrians 65+|3|56/103|\n|Bicyclists|40|7/103|\n|Bicyclists < 15|6|18/103|\n|Composite|93|88/103|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n|--|--|--|\n|Speed Related|37|59/103|\n|Nighttime (9:00pm \u2013 2:59am)|19|75/103|\n|Hit and Run|17|60/103|\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|165|61/103|",
+        "date": "2012-11-05",
+        "last_updated": "2026-02-08",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/cupertino-2022/",
+        "title": "Cupertino 2022 - California Office of Traffic Safety",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Cupertino|2022|SANTA CLARA COUNTY|C|59656|316.2474|\n|TYPE OF COLLISION|VICTIMS KILLED & INJURED|OTS RANKING|\n|--|--|--|\n|Total Fatal and Injury|124|69/104|\n|Alcohol Involved|3|101/104|\n|Had Been Drinking Driver < 21|0|74/104|\n|Had Been Drinking Driver 21 \u2013 34|3|84/104|\n|Motorcycles|3|91/104|\n|Pedestrians|8|82/104|\n|Pedestrians < 15|0|92/104|\n|Pedestrians 65+|4|27/104|\n|Bicyclists|21|13/104|\n|Bicyclists < 15|5|15/104|\n|Composite|37|93/104|\n|TYPE OF COLLISION|FATAL & INJURY COLLISIONS|OTS RANKING|\n...\n|Speed Related|24|50/104|\n|Nighttime (9:00pm \u2013 2:59am)|4|101/104|\n|Hit and Run|3|95/104|\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|29|12/104|",
+        "date": "2012-11-05",
+        "last_updated": "2025-11-17",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "Santa Clara County DUI arrest data official",
+      "domains": [
+        "ca.gov"
+      ],
+      "limit": 10
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-2023/",
+        "title": "Santa Clara 2023 - California Office of Traffic Safety",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Santa Clara|2023|SANTA CLARA COUNTY|B|133829|1147960|\n...\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|108| |11/62|",
+        "last_updated": "2026-03-29",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://santaclara.courts.ca.gov/divisions/criminal-division/criminal-case-records",
+        "title": "Criminal Case Records | Superior Court of California",
+        "domain": "santaclara.courts.ca.gov",
+        "snippet": "There are three ways to get the case number:\n1. If the case was filed in 2004 or later, use the criminal case index search.\nYou can search for a case number using either the defendant's name and date of birth, or the defendant's name plus the month and year the case was filed.\n2. Go to the Clerk\u2019s Office where the case is filed.\nThe information below will help you identify Courthouses where criminal cases are filed in Santa Clara County: - Hall of Justice, 190 West Hedding Street, San Jose, CA 95110 (handles criminal matters for San Jose, Milpitas, Los Gatos, Saratoga, Monte Sereno, and Santa Clara)\n- South County Courthouse, 301 Diana Avenue, Morgan Hill, CA 95037 (handles criminal matters for San Martin, Morgan Hill, and Gilroy)\n- Palo Alto Courthouse, 270 Grant Avenue, Palo Alto, CA 94306 (handles criminal matters for Cupertino, Mountain View, Palo Alto, and Sunnyvale)\nAt the courthouse you can search the criminal index online, or search the microfiche.\nIf the case was filed before 2004, it will not be in the online index.\nTo search the microfiche, you will need the defendant's name, date of birth, and the year the case was filed.\n3. Mail or take a letter to the Clerk\u2019s Office asking them to search for you.\nYour letter must include the: - defendant\u2019s name,\n- defendant\u2019s date of birth and\n- years you want searched.\n...\nGo to the Sheriff\u2019s Office\n55 West Younger Avenue,\nSan Jose, CA 95110\n[Open 24 hours]\nTo make an appointment, call:\n(408) 808-4705\nBring identification and be prepared to pay a fee.\n...\nIf you were the victim, contact the police agency that investigated the crime.",
+        "last_updated": "2026-08-08",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Santa Clara County court procedures, rules, forms, contacts, and self-help information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://qr.dmv.ca.gov/portal/uploads/2023/09/2022-DUI-MIS-Report.pdf",
+        "title": "[PDF] ANNUAL REPORT OF THE CALIFORNIA DUI MANAGEMENT ...",
+        "domain": "qr.dmv.ca.gov",
+        "snippet": "P.O.\nBox 932382 \nSacramento, CA 94232-3820 \n...\n\uf0a8 In 2019, 68.9% of DUI arrests resulted in convictions for DUI offenses (see Table 6).",
+        "last_updated": "2026-03-25",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, and DMV online services",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/dmv-research-reports/research-development-data-dashboards/dui-management-information-system-dashboards/",
+        "title": "Dui Arrests",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "These dashboards show data on DUI arrests and DUI convictions in California.\n...\n(DUI-MIS Section 1) \u2013 These dashboards show statewide parameters, county variations, ad demographic characteristics of DUI arrests in California.\nThese visualizations are based primarily on data collected annually by the Department of Justice, Criminal Justice Statistics Center, Monthly Arrest and Citation Register system and reported by individual law enforcement agencies throughout the state.",
+        "date": "2026-03-18",
+        "last_updated": "2026-08-11",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://oag.ca.gov/crime",
+        "title": "Crime Data | State of California - Department of Justice",
+        "domain": "oag.ca.gov",
+        "snippet": "This site contains crime data submitted by county and local law enforcement agencies, as well as current and historical publications on crime, juvenile justice, homicide, and hate crimes in California.",
+        "date": "2010-12-27",
+        "last_updated": "2026-08-10",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California laws, enforcement, consumer protection, and official public-safety information.",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/es/dmv-research-reports/research-development-data-dashboards/dui-management-information-system-dashboards/",
+        "title": "DUI Management Information System Dashboards - California DMV",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "These dashboards show data on DUI arrests and DUI convictions in California.\n...\n(DUI-MIS Section 1) \u2013 These dashboards show statewide parameters, county variations, ad demographic characteristics of DUI arrests in California.\nThese visualizations are based primarily on data collected annually by the Department of Justice, Criminal Justice Statistics Center, Monthly Arrest and Citation Register system and reported by individual law enforcement agencies throughout the state.",
+        "date": "2023-05-24",
+        "last_updated": "2025-04-05",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.dmv.ca.gov/portal/dmv-research-reports/research-development-data-dashboards/dui-management-information-system-dashboards/dui-arrests/",
+        "title": "DUI Arrests - California DMV - CA.gov",
+        "domain": "www.dmv.ca.gov",
+        "snippet": "When interacting with the Department of Motor Vehicles (DMV) Virtual Assistant, please do not include any personal information.",
+        "date": "2021-12-21",
+        "last_updated": "2026-03-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California driver licensing, vehicle registration, identification, and motor-vehicle regulations",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-2021/",
+        "title": "Santa Clara 2021",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|Santa Clara|2021|SANTA CLARA COUNTY|B|130462|1292864|\n...\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|88|6/60|",
+        "date": "2012-11-05",
+        "last_updated": "2025-08-28",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.ots.ca.gov/rankings/santa-clara-county-2020-2/",
+        "title": "SANTA CLARA COUNTY 2020 - California Office of Traffic Safety",
+        "domain": "www.ots.ca.gov",
+        "snippet": "|Agency|Year|County|Group|Population (Avg)|DVMT|\n...\n|San Jose|2020|SANTA CLARA COUNTY|A|991144|6139303|\n...\n|TYPE OF ARRESTS|ARRESTS|% RATE|OTS RANKING*|\n|--|--|--|--|\n|DUI Arrests|605| |5/15|",
+        "last_updated": "2026-04-04",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for California traffic-safety programs, grants, crash data, and public safety guidance",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://santaclara.courts.ca.gov/online-services/case-information-online",
+        "title": "Case Information Online | Superior Court of California",
+        "domain": "santaclara.courts.ca.gov",
+        "snippet": "- **Online through Case Information Online (when available), or**\n- **\u00a0In person at public access terminals located at the courthouse.**",
+        "last_updated": "2026-08-11",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Santa Clara County court procedures, rules, forms, contacts, and self-help information",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "query": {
+      "query": "San Jose neighborhoods official city",
+      "domains": [
+        "sanjoseca.gov"
+      ],
+      "limit": 10
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.sanjoseca.gov/your-government/departments-offices/mayor-and-city-council/district-1/in-the-district",
+        "title": "Neighborhoods | City of San Jos\u00e9",
+        "domain": "www.sanjoseca.gov",
+        "snippet": "Neighbors in our district form associations to bring community members together.\nThis is a list of all known active neighborhood, homeowner, and property owner associations as of January 2025.\nView the Neighborhood Association Map to see all throughout the city.\n- Baker West Neighborhood Association (BWNA)\n- Cadillac Winchester Neighborhood Association (CWNA)\n- Eden Neighborhood Association (ENA)\n- English Estates Neighborhood Association (EENA)\n- Hamann Park Neighborhood Association (HPNA)\n- Moreland West Neighborhood Association (MWNA)\n- Murdock Neighborhood Association (MNA)\n- Winchester Orchard Neighborhood Association (WONA)\n- Strawberry Park Neighborhood Association (SPNA)\n- Strawberry Square Home Owners Association (SSHOA)\n- Winchester Neighborhood Action Coalition (WNAC)\n- Woodglen Home Owners Association (WHOA)",
+        "date": "2006-12-31",
+        "last_updated": "2025-10-10",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for San Jos\u00e9 municipal services, departments, laws, and official city communications",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.sanjoseca.gov/your-government/departments-offices/mayor-and-city-council/neighborhood-and-business-associations-map",
+        "title": "Neighborhood and Business Associations | City of San Jos\u00e9",
+        "domain": "www.sanjoseca.gov",
+        "snippet": "This map includes the contact information and approximate geographic areas of interest for several types of neighborhood groups and associations, including neighborhood associations, business associations, homeowners associations, and youth and senior councils.\n...\nFor further information about this map or to request updates, please contact GeneralPlanStaff@sanjoseca.gov.\n...\n1. To get Association contact information and other details for a specific property, click directly on the property.\nYou can use the address search bar at the top-left of the map to find the property.\n...\n2. Use the selection tool to get Association details for multiple properties at the same time.\na. Click the \u2018Select\u2019 tool below the address search bar (circled in the red box below)\nb. Outline the area of interest (circled in the red box below); double click when complete to close the selection box.\nThe total number of selected Associations will appear in the Select menu (circled in the purple box below).\n...\nHold down the Shift key after selecting an initial area of interest to include additional areas of interest in your selection.\nc. Once you have selected all desired areas, click the ellipses in the \u2018Select\u2019 menu (the three horizontal dots circled in the red box below) and select \u2018Export to CSV file.\u2019\nThe downloaded CSV file will include the names and contact information for all Associations in the areas you have selected.",
+        "date": "2006-12-31",
+        "last_updated": "2026-02-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for San Jos\u00e9 municipal services, departments, laws, and official city communications",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.sanjoseca.gov/your-government/departments-offices/public-works/city-maps/city-pdf-maps",
+        "title": "City PDF Maps | City of San Jos\u00e9",
+        "domain": "www.sanjoseca.gov",
+        "snippet": "Please enable JavaScript in your browser for a better user experience.\n...\nOfficial City Records",
+        "date": "2006-12-31",
+        "last_updated": "2025-10-11",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for San Jos\u00e9 municipal services, departments, laws, and official city communications",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.sanjoseca.gov/",
+        "title": "City of San Jos\u00e9 | Home",
+        "domain": "www.sanjoseca.gov",
+        "snippet": "Check the status of a code violation cases from the past two years.",
+        "date": "2006-12-31",
+        "last_updated": "2026-08-21",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for San Jos\u00e9 municipal services, departments, laws, and official city communications",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://data.sanjoseca.gov/dataset/neighborhoods",
+        "title": "Neighborhoods - Dataset - San Jose CA Open Data Portal",
+        "domain": "data.sanjoseca.gov",
+        "snippet": "|Field|Value|\n...\n|Contact Name|sanjose|\n|Contact Email|[email protected]|\n...\n|Spatial|{\"type\": \"Polygon\", \"coordinates\": [[[-122.0535,37.1193],[-122.0535,37.4722],[-121.6721,37.4722],[-121.6721,37.1193],[-122.0535,37.1193]]]}|\n...\n|Source Link|https://gisdata-csj.opendata.arcgis.com/datasets/CSJ::neighborhoods-1|",
+        "date": "2026-02-11",
+        "last_updated": "2026-08-22"
+      },
+      {
+        "url": "https://data.sanjoseca.gov/dataset/23f2035a-d346-4b18-b643-e21831dd6c90/resource/afc11914-92f8-4884-9c1d-016067d59759",
+        "title": "Neighborhoods - ArcGIS Hub Dataset - San Jose CA Open Data Portal",
+        "domain": "data.sanjoseca.gov",
+        "snippet": "# ArcGIS Hub Dataset\nURL: https://gisdata-csj.opendata.arcgis.com/datasets/CSJ::neighborhoods-1\n## Dataset description:\n> In 2020, neighborhood boundaries were established throughout the City in partnership with Council offices.\nThese neighborhoods are collections of one or more census block groups....",
+        "last_updated": "2026-08-19"
+      },
+      {
+        "url": "https://data.sanjoseca.gov/dataset/neighborhoods/resource/afc11914-92f8-4884-9c1d-016067d59759",
+        "title": "Neighborhoods - ArcGIS Hub Dataset - San Jose CA Open Data Portal",
+        "domain": "data.sanjoseca.gov",
+        "snippet": "URL: https://gisdata-csj.opendata.arcgis.com/datasets/CSJ::neighborhoods-1\n## Dataset description:\n> In 2020, neighborhood boundaries were established throughout the City in partnership with Council offices.\nThese neighborhoods are collections of one or more census block groups....",
+        "date": "2025-03-12",
+        "last_updated": "2026-02-28"
+      },
+      {
+        "url": "https://www.sanjoseca.gov/your-government/departments-offices/mayor-and-city-council/district-2",
+        "title": "San Jos\u00e9 District 2",
+        "domain": "www.sanjoseca.gov",
+        "snippet": "Welcome to the official San Jose District 2 webpage!\nI'm incredibly grateful for the opportunity to serve the diverse and vibrant communities of South San Jose.\n...\n### Contact Us\nDistrict 2\n(408) 535-4902\n200 East Santa Clara St, 18th Floor\nSan Jose, CA 95113\nCity Support",
+        "date": "2006-12-31",
+        "last_updated": "2026-01-20",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for San Jos\u00e9 municipal services, departments, laws, and official city communications",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.sanjoseca.gov/Home/Components/News/News/6468/4765",
+        "title": "Two San Jos\u00e9 Business Neighborhoods Invest in Their ...",
+        "domain": "www.sanjoseca.gov",
+        "snippet": "San Jos\u00e9 is a diverse city with unique neighborhoods like Little Saigon, East San Jos\u00e9, Japantown, Calle Willow, Downtown reflecting the city's rich cultural identity.\n...\nAfter an outreach process where businesses could provide input, both BIDs became official on January 17, 2025.",
+        "date": "2025-02-12",
+        "last_updated": "2026-06-14",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for San Jos\u00e9 municipal services, departments, laws, and official city communications",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://data.sanjoseca.gov/dataset/neighborhoods/resource/d2e37347-a785-4702-bee0-3a0d669edca8",
+        "title": "Neighborhoods - CSV - San Jose CA Open Data Portal",
+        "domain": "data.sanjoseca.gov",
+        "snippet": "URL: https://gisdata-csj.opendata.arcgis.com/api/download/v1/items/9c03b6eb70e14284b903460de164aba1/csv?layers=549\n### Dataset description:\nIn 2020, neighborhood boundaries were established throughout the City in partnership with Council offices.\nThese neighborhoods are collections of one or more census block groups....",
+        "date": "2025-03-12",
+        "last_updated": "2026-01-31"
+      }
+    ]
+  }
+]

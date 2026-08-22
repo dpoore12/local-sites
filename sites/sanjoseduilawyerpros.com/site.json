@@ -30,8 +30,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+   {
+     "id": "dmv_aps_track",
+     "claim": "California DMV describes Administrative Per Se as an immediate action against driving privilege only. DMV says its sanctions are independent of court-imposed criminal penalties, and a person has the right to request a hearing within 10 days of receiving a suspension or revocation order.",
+     "why_it_matters": "A San Jose DUI arrest can create a DMV licensing matter before the criminal case progresses. The hearing request and the court appearance must be treated as separate jobs, because waiting on the criminal calendar can cost the chance to contest the DMV action.",
+     "sources": [
+       "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/"
+     ],
+     "verified": "2026-08-22",
+     "title": "The DMV case is a separate track with its own deadline"
+   },
+   {
+     "id": "hall_of_justice_venue",
+     "claim": "Santa Clara County Superior Court lists the Hall of Justice at 190 West Hedding Street in San Jose as the criminal courthouse handling matters for San Jose, Milpitas, Los Gatos, Saratoga, Monte Sereno, and Santa Clara.",
+     "why_it_matters": "For a San Jose criminal DUI case, the court notice must be checked against the local criminal venue, department, and appearance date. A DMV hearing is separate from this court process, so one notice never replaces the other.",
+     "sources": [
+       "https://santaclara.courts.ca.gov/divisions/criminal-division/criminal-case-records"
+     ],
+     "verified": "2026-08-22",
+     "title": "San Jose criminal cases have a specific Santa Clara County venue"
+   },
+   {
+     "id": "county_alcohol_crashes_2023",
+     "claim": "The California Office of Traffic Safety recorded 8,745 people killed or injured in fatal-and-injury crashes in Santa Clara County in 2023, including 1,030 in alcohol-involved collisions.",
+     "why_it_matters": "A DUI accusation can arise from a routine stop or a collision, and a collision creates a wider evidence record. Vehicle damage, scene documentation, dispatch audio, witnesses, medical records, and test records may all require prompt review alongside the DMV action.",
+     "sources": [
+       "https://www.ots.ca.gov/rankings/santa-clara-county-2023/"
+     ],
+     "verified": "2026-08-22",
+     "title": "Alcohol-involved crashes are a documented Santa Clara County issue"
+   }
+ ],
+ "neighborhoods": [
+  "Downtown",
+  "Japantown",
+  "Willow Glen",
+  "Alum Rock",
+  "Berryessa",
+  "Evergreen"
+],
  "symptoms": [
   "first_dui_arrest",
   "license_suspension_notice",

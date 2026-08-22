@@ -30,8 +30,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "camp_pendleton_federal_claims",
+   "title": "Camp Pendleton claims may use a federal process",
+   "claim": "Marine Corps Base Camp Pendleton states that personal-injury, property-damage and wrongful-death claims caused by a government employee acting within the scope of employment may be recoverable under the Federal Tort Claims Act or Military Claims Act. Its Civil Law page directs completed claim packages to the appropriate federal processing agency and states that claims must be delivered within two years of accrual.",
+   "why_it_matters": "Oceanside borders Camp Pendleton. When an incident may involve base operations, a federal employee or government-owned equipment, the exact location, employer and agency record need to be identified early instead of assuming an ordinary California civil filing path.",
+   "sources": [
+    "https://www.pendleton.marines.mil/Main-Menu/Staff-Agencies/Legal-Assistance/Civil-Law/"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "north_county_civil_court",
+   "title": "North County Superior Court in Vista hears civil matters",
+   "claim": "The San Diego Superior Court identifies the North County Regional Center at 325 South Melrose Drive in Vista as a full-service branch court that hears civil cases and has a venue encompassing most of Northern San Diego County.",
+   "why_it_matters": "The proper court and venue remain case-specific, but Oceanside claim review should preserve the incident address and full party names because North County court services are part of the local civil-court path.",
+   "sources": [
+    "https://www.sdcourt.ca.gov/sdcourt/generalinformation/courtlocations/northcountycourthouse"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "oceanside_coastal_rail_corridor",
+   "title": "Oceanside\u2019s coastal rail corridor has changing right-of-way conditions",
+   "claim": "North County Transit District documents separate fencing conditions along the Oceanside coastal rail corridor, including the segments from Morse Street to Cassidy Street, Cassidy Street to Vista Way, and Vista Way to Eaton Street.",
+   "why_it_matters": "An injury near the coastal corridor may sit beside different public, rail and private boundaries. A precise location, direction of travel, warning devices and responder information are more useful than a general description of being near the tracks.",
+   "sources": [
+    "https://gonctd.com/about-nctd/safety-security/trespasser-mitigation/eee/"
+   ],
+   "verified": "2026-08-22"
+  }
+ ],
+ "neighborhoods": [
+  "Downtown Oceanside",
+  "South Oceanside",
+  "Fire Mountain",
+  "Loma Alta",
+  "San Luis Rey",
+  "Rancho Del Oro"
+ ],
  "symptoms": [
   "injured_on_property",
   "medical_care_after_accident",

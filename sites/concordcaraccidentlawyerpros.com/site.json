@@ -1,100 +1,139 @@
 {
- "domain": "concordcaraccidentlawyerpros.com",
- "phase": 1,
- "brand": "Concord Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "Concord",
- "state": "NC",
- "state_full": "North Carolina",
- "counties": [
-  "Cabarrus"
- ],
- "area_codes": [
-  "704",
-  "980"
- ],
- "phone_display": "(704) 951-1636",
- "phone_tel": "+17049511636",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [],
- "neighborhoods": [],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "domain": "concordcaraccidentlawyerpros.com",
+  "phase": 1,
+  "brand": "Concord Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "city": "Concord",
+  "state": "NC",
+  "state_full": "North Carolina",
+  "counties": [
+    "Cabarrus"
+  ],
+  "area_codes": [
+    "704",
+    "980"
+  ],
+  "phone_display": "(704) 951-1636",
+  "phone_tel": "+17049511636",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "contributory_negligence",
+      "claim": "North Carolina uses contributory negligence: an injured person\u2019s negligence that joins with the other party\u2019s negligence can bar recovery even if the contribution was comparatively small.",
+      "why_it_matters": "Fault statements and evidence must be handled carefully after a Concord crash; the collision report, scene evidence, witnesses and policy documents need to be checked before fault is conceded.",
+      "sources": [
+        "https://law.justia.com/cases/north-carolina/supreme-court/1968/278-0.html"
+      ],
+      "verified": "2026-08-22",
+      "title": "A small fault allegation can have an outsized effect"
+    },
+    {
+      "id": "cabarrus_court",
+      "claim": "Cabarrus County is in Superior Court District 25 and District Court District 25; the Cabarrus County Courthouse is at 61 Union Street South in Concord.",
+      "why_it_matters": "If a collision claim cannot be resolved, the proper court and local filing procedure matter. The early claim file should therefore preserve the report, evidence, records and insurance documents that may be needed later.",
+      "sources": [
+        "https://www.nccourts.gov/locations/cabarrus-county",
+        "https://www.nccourts.gov/locations/cabarrus-county/cabarrus-county-courthouse"
+      ],
+      "verified": "2026-08-22",
+      "title": "Cabarrus civil cases have a local court structure"
+    },
+    {
+      "id": "i85_interchanges",
+      "claim": "NCDOT\u2019s I-85 Cabarrus project calls for an eight-lane divided facility over about 6.8 miles from south of Bruton Smith Boulevard/Concord Mills Boulevard to north of N.C. 73, with interchange modifications.",
+      "why_it_matters": "Crashes around Concord\u2019s I-85 interchanges can involve multiple lanes, ramp movements and short-lived video evidence, so the exact location, direction of travel and scene records should be preserved quickly.",
+      "sources": [
+        "https://connect.ncdot.gov/letting/design%20build%20program/i-3803b/rfp%20final.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "The I-85 corridor has complex interchange evidence"
+    }
+  ],
+  "neighborhoods": [
+    "Beverly Hills",
+    "Coleman-Franklin-Cannon Mill Village",
+    "Highland Park",
+    "Logan",
+    "Sidestown-Shankletown",
+    "Wil-Mar Park"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "car accident lawyer concord nc",
+    "monthly_price": 650,
+    "score": 75,
+    "volume": 350,
+    "cpc_usd": 45.0,
+    "weakest_competitor": "demayolaw.com",
+    "competitor_dr": 39.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "car accident lawyer concord nc",
-  "monthly_price": 650,
-  "score": 75,
-  "volume": 350,
-  "cpc_usd": 45.0,
-  "weakest_competitor": "demayolaw.com",
-  "competitor_dr": 39.0
- }
 }

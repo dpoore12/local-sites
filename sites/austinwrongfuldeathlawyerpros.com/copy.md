@@ -2,231 +2,231 @@
 
 **Wrongful Death Lawyer in Austin, TX** · target keyword `wrongful death lawyer austin`
 
-## RULES
-
-- Write for this city. Every block must be unreusable on another site.
-  The build fails if any 15 consecutive words match another site.
-- Never promise a phone consultation. Sell the work: what gets fixed,
-  what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year
-  in business. No tenant is signed, so none of it is true yet.
-- PHASE 1: this site is home + about + contact only. No service pages.
-- Home page lands 1,700-3,200 visible words.
-- symptom_N blocks are 200-360 words each. In phase 1 the card IS the
-  coverage of that problem, so give it the full explanation.
-- site.json needs 3 local_facts with a real source URL each, and 6
-  neighbourhoods, before this will build.
-
----
-
 ## meta_title
-
-TODO
+Wrongful Death Lawyer in Austin, TX — Travis County Claim Guidance
 
 ## meta_description
-
-TODO
+Plain guidance after a death caused by another person or company: records, claim types, survival actions, and the Travis County civil-court process.
 
 ## hero_promise
-
-TODO
+After a sudden death, the legal questions tend to arrive before anyone is ready for them. This Austin page explains the first practical steps: what records to protect, why a wrongful-death claim may be different from a survival action, and how a Travis County civil case is handled. It is written for families who need a clear place to begin, not a sales pitch.
 
 ## what_happens_when_you_call
+The first contact should be calm and private. A case review starts with the basic facts: who died, when and where it happened, whether a report or records already exist, and whether anyone has contacted the family about insurance or a release. The point is to identify what needs protection now, not to make a decision before the family has had time to grieve.
 
-TODO
+A legal team can request and organize records, look at the possible claims, and explain the next procedural step in plain terms. If the matter needs more investigation, that work may include locating reports, preserving photographs or video, identifying witnesses, and checking whether a vehicle, employer, property owner, provider, or another party may hold relevant information. No one should pressure a family to sign a release or accept an explanation before the underlying facts have been reviewed.
 
 ## what_they_will_ask
+Have only what is easy to reach. The deceased person’s full name, the date and place of death, and any incident, crash, workplace, or medical record number are useful. So are letters, emails, insurance claim numbers, photographs, discharge papers, and the names of people who saw what happened. Do not delay contact because the file is incomplete. Many important records are held by a police agency, hospital, employer, business, or insurer rather than by the family.
 
-TODO
+The questions also usually cover the family’s immediate needs: whether an estate has been opened, whether there are minor children, whether a funeral home has records, and whether a deadline, court notice, or insurance request has already arrived. Those details help separate urgent preservation work from information that can wait.
 
 ## symptom_1_title
-
-TODO
+A death followed a vehicle crash
 
 ## symptom_1
+A fatal crash leaves several records moving on separate tracks. There may be an officer’s report, dispatch audio, photographs, body-camera or in-car video, witness accounts, vehicle data, roadway evidence, and insurance communications. Some are easier to obtain early than later. A family does not need to reconstruct the collision by itself, but it is sensible to save every paper, photograph, message, and claim number that reaches the house.
 
-TODO
+The scale of this issue is local, not abstract. TxDOT reports 139 fatal crashes and 155 traffic deaths in Travis County during 2024. That number includes crashes on different kinds of roads, from city streets to interstates, and it does not answer what happened in any individual case. It does explain why reports, vehicle evidence, and insurance positions should be checked carefully instead of relying on an initial summary.
+
+A review of a crash death usually begins with the timeline: where each vehicle was, what the traffic control or road condition was, what witnesses reported, and whether any driver, employer, vehicle owner, or other entity may have had a role. Commercial vehicles, rideshare trips, borrowed vehicles, and work-related travel can add records and insurance layers that are not apparent at first. A preserved vehicle should not be repaired, sold, or released without understanding whether its condition may matter.
+
+The immediate task is not to decide fault from a few sentences in a report. It is to preserve the material that allows the facts to be tested. That protects the family’s ability to make an informed decision after the shock has eased.
 
 ## symptom_2_title
-
-TODO
+A death happened at work or during a job
 
 ## symptom_2
+When a person dies while working, the employer’s internal account is only one piece of the picture. The location may have a supervisor’s reports, training records, equipment inspections, time records, camera footage, contractor agreements, and witness information. A general contractor, staffing company, property owner, equipment maker, driver, or another outside business may also be connected to the event. Which records exist depends on the job and the site, so it is important not to assume the first explanation is the complete one.
 
-TODO
+Workers’ compensation can affect the path forward, but it is not a substitute for sorting out the facts or identifying every potentially responsible party. Whether a policy applies, what benefits may be available, and whether another person or company was involved are questions that need careful review. A family should keep any notices from an employer, insurer, or state agency, along with pay records, safety documents, texts about the shift, and the names of coworkers who may have seen the incident.
+
+The most useful early work is practical: preserve equipment when possible; obtain the incident report; identify the worksite and every company present; and record who has control of video, tools, vehicles, or the area where the death occurred. Do not alter equipment, discard clothing, or sign an employer or insurer statement simply to make the paperwork go away. Those choices may affect later fact-finding.
+
+A legal review can place the work records alongside medical, investigative, and third-party records. It should give the family a clearer account of what needs to be requested, what needs to be preserved, and what can wait until there is more information.
 
 ## symptom_3_title
-
-TODO
+A death followed medical care or a delayed diagnosis
 
 ## symptom_3
+A death after treatment can leave a family with a long list of questions and very few direct answers. The fact that care was given does not by itself establish that something was done wrong, and a tragic outcome is not automatically a legal claim. What matters is the actual course of care: the symptoms reported, examinations and tests performed, results received, decisions made, referrals considered, medication or procedure records, and the medical cause of death.
 
-TODO
+The first need is usually a complete timeline. Hospitals, clinics, imaging centers, pharmacies, ambulance providers, and specialists can each hold a different portion of it. Save discharge instructions, patient-portal messages, appointment notes, medication lists, bills, and the names of every facility involved. If an autopsy was performed, preserve the report and related correspondence. A family should not have to rely on memory alone while grieving.
+
+A careful review asks whether the records support the explanation given for the outcome and whether expert medical review is needed. That is different from looking for a quick answer in a single chart entry. It may take time to understand which provider made a decision, what information was available at the time, and whether another course of care would have changed the outcome.
+
+There can also be two different legal interests after a death. A claim concerning the family’s own losses is not necessarily the same as the injured person’s claim for pain, medical expenses, or other injury before death. Texas calls the latter type a survival action. Keeping the records intact allows those distinctions to be assessed without asking the family to answer every question immediately.
 
 ## symptom_4_title
-
-TODO
+The family needs to understand claims before signing anything
 
 ## symptom_4
+Insurance letters and calls often arrive when a family is still arranging a funeral. A request for a recorded statement, medical authorization, release, or settlement paperwork can sound routine. It may not be wise to sign first and ask questions later. Keep the envelope, save the email, note the claim number, and ask for time to read the document. A release can carry consequences that are difficult to undo.
 
-TODO
+One source of confusion is the difference between a wrongful-death claim and a survival action. A wrongful-death claim addresses losses suffered because a person died. Texas Civil Practice and Remedies Code section 71.021 separately says that a personal-injury cause of action does not end merely because the injured person dies; it can survive in favor of the person’s heirs, legal representatives, and estate. In plain terms, a case may need to consider both the family’s losses and the injury-related claim that belonged to the person who died. They are related, but they are not interchangeable.
+
+That distinction affects the records requested, the estate questions that may need attention, and how a claim is organized. It does not mean every death produces both claims. The facts, the available evidence, and the relevant legal rules matter. A case review should explain which questions are open and which documents are needed before any final decision is made.
+
+For a Travis County matter, the process may also involve the county’s civil district courts. Legal counsel can handle filings and deadlines while the family decides how to proceed. The important immediate step is simpler: do not let a deadline, a release, or a missing record force a decision before the family understands what is being asked of them.
 
 ## qa_1_question
-
-TODO
+What is the difference between a wrongful-death claim and a survival action in Texas?
 
 ## qa_1_answer
+They address different losses. A wrongful-death claim concerns losses caused to the people left behind by a death. A survival action concerns the personal-injury claim that belonged to the person who was injured before death. Texas Civil Practice and Remedies Code section 71.021 states that a personal-injury cause of action does not abate because the injured person died and that it survives to and in favor of the heirs, legal representatives, and estate.
 
-TODO
+That is why an early review should not reduce the situation to one label. Medical bills, conscious pain, lost earnings before death, funeral-related issues, and the family’s own losses can raise different questions. The presence of an estate, the available records, and the facts of the injury all matter. This page cannot decide which claims apply to a particular family, but it can make one point clear: preserving records now gives the family room to understand the difference later.
 
 ## qa_2_question
-
-TODO
+Where are Travis County civil cases handled?
 
 ## qa_2_answer
+Travis County lists its Civil and Family Courts at 1700 Guadalupe Street in Austin. The county’s District Civil Courts have original jurisdiction over civil matters involving damages of $200 or more, among other matters. That does not mean every death-related matter will follow the same path or land in the same court; jurisdiction, venue, parties, and the specific claims all need to be evaluated.
 
-TODO
+The local filing process is also more formal than a stack of mailed papers. Travis County’s District Clerk says attorneys must e-file civil documents, while self-represented filers have separate options. Court filings, service, records requests, and hearing settings carry their own requirements. Knowing that this work is centered in a local civil-court system helps a family understand why the first legal work often involves documents and deadlines rather than an immediate courtroom appearance.
 
 ## qa_3_question
-
-TODO
+Do we need every record before asking for help?
 
 ## qa_3_answer
+No. Start with the papers already in hand and a simple written timeline. A death certificate, incident number, crash report, discharge paperwork, insurance letter, employer notice, photographs, or a list of names can be enough to identify what should be requested next. Missing records are common, particularly when several organizations were involved.
 
-TODO
+Do not wait to preserve time-sensitive material just because a full file has not been assembled. Video systems may overwrite footage, witnesses may become harder to reach, and an insurer may set a response date. At the same time, there is no need to fill gaps by guessing. A good record list distinguishes what the family knows, what a report says, and what still needs confirmation. That approach is more useful than rushing to explain events that have not yet been investigated.
 
 ## closing_cta
-
-TODO
+When the family is ready, begin with the records already available and a short timeline of what happened. Preserve letters, reports, and messages. Before signing a release or giving a recorded statement, make sure the document and its effect have been explained clearly.
 
 ## about_summary
-
-TODO
+This Austin page is for families facing a death that may have been caused by another person, business, vehicle, workplace condition, or course of care. It focuses on the early legal work: protecting records, separating a survival action from a wrongful-death claim, and understanding the Travis County civil-court setting. It does not promise an outcome or ask a grieving family to make a rushed decision. Its purpose is to replace some of the fog with practical next steps.
 
 ## value_1_title
-
-TODO
+Plain next steps, not pressure
 
 ## value_1
-
-TODO
+A family can start by preserving records and learning what needs review. No release or final decision should be rushed simply because an insurer asks for one.
 
 ## value_2_title
-
-TODO
+The claim types kept separate
 
 ## value_2
-
-TODO
+A family’s wrongful-death losses and an injury claim that survives through an estate can require different analysis. They should not be blurred into one vague label.
 
 ## value_3_title
-
-TODO
+Evidence protected early
 
 ## value_3
-
-TODO
+Reports, video, equipment, vehicles, medical records, and witness information can change over time. Identifying what exists is meaningful early work.
 
 ## value_4_title
-
-TODO
+Travis County process in view
 
 ## value_4
-
-TODO
+Austin civil matters have a local court and clerk process. Understanding the setting helps make paperwork and deadlines less opaque.
 
 ## step_1_title
-
-TODO
+Gather what is already there
 
 ## step_1
-
-TODO
+Put reports, letters, photographs, messages, and claim numbers in one place. A simple date-by-date timeline is enough; it does not need to be perfect.
 
 ## step_2_title
-
-TODO
+Identify what must be preserved
 
 ## step_2
-
-TODO
+The important question is often who holds the evidence: a police agency, hospital, employer, insurer, business, or another person involved in the event.
 
 ## step_3_title
-
-TODO
+Review the claims before deciding
 
 ## step_3
-
-TODO
+A careful review separates known facts from unanswered questions and explains whether a wrongful-death claim, survival action, or another process may be relevant.
 
 ## expect_intro_1
-
-TODO
+A family does not need a polished story before beginning. The first review should make room for uncertainty. It should identify immediate deadlines, records that may disappear, and documents that should not be signed yet.
 
 ## expect_intro_2
-
-TODO
+The goal is a working record, not an instant verdict. Each fact can be matched to a source: a report, chart, photo, witness, policy, invoice, or official filing. That is how a case is investigated without asking grieving people to carry the entire burden alone.
 
 ## expect_1_label
-
-TODO
+What happened, in order
 
 ## expect_1
-
-TODO
+Write down the date, location, and basic sequence as you understand it. Mark what you personally know and what came from another person or a document. It is fine if parts are missing.
 
 ## expect_2_label
-
-TODO
+The records you already have
 
 ## expect_2
-
-TODO
+Bring or save incident numbers, correspondence, photographs, billing papers, medical records, employment paperwork, and insurance claim information. An incomplete file is still a useful starting point.
 
 ## expect_3_label
-
-TODO
+Who may hold more information
 
 ## expect_3
-
-TODO
+Think beyond the family file. A police department, medical provider, employer, property owner, vehicle owner, contractor, or insurer may have records that need to be identified promptly.
 
 ## expect_4_label
-
-TODO
+Any paper asking for a response
 
 ## expect_4
-
-TODO
+A deadline notice, release, authorization, or request for a recorded statement should be saved exactly as received. Its language and timing may matter, even if it appears routine.
 
 ## factor_1_title
-
-TODO
+The kind of incident
 
 ## factor_1
-
-TODO
+A crash, workplace event, medical course of care, or another incident creates different sources of evidence and different people or companies to investigate.
 
 ## factor_2_title
-
-TODO
+The records still available
 
 ## factor_2
-
-TODO
+A case often turns on material held outside the family: video, equipment, reports, chart entries, dispatch data, policies, or witness accounts. Finding it early matters.
 
 ## factor_3_title
-
-TODO
+Whether an estate issue is involved
 
 ## factor_3
-
-TODO
+A survival action may involve the injured person’s own claim. That can make estate administration and authority to act important parts of the review.
 
 ## factor_4_title
-
-TODO
+Time-sensitive requests or deadlines
 
 ## factor_4
+A letter from an insurer or a notice from a court should not be ignored. It should also not force a rushed decision before its terms have been understood.
 
-TODO
+## urgency_bullet
+Protect records and do not rush a release
+
+## values_eyebrow
+A careful first step for Austin families
+
+## values_head
+Clarity before decisions
+
+## values_lede
+After a death, legal work should begin with facts, records, and time to understand them. It should never begin with pressure.
+
+## factors_lede
+The details that shape a death-related claim are often held in records outside the family’s home. These four areas help organize the first review.
+
+## problem_lede
+Four situations commonly bring families to this page. Each needs its own records, questions, and careful handling from the start.
+
+## problem_nudge
+This is general information, not a conclusion about any death. The facts need to be checked against the actual records before anyone can say which claim or process applies.
+
+## expect_eyebrow
+Before a case review
+
+## expect_head
+What helps without asking you to have every answer
+
+## emergency_note
+This is not an emergency service. If there is an immediate safety concern or a crime in progress, call 911. For legal paperwork, keep the original documents and give yourself time before signing.
+
+## services_pick_head
+Start with the situation closest to what happened
+
+## crosslink_head
+Need a different kind of information?

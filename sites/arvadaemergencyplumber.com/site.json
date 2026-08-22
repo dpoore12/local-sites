@@ -30,8 +30,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "water_hardness",
+   "claim": "Arvada says its water is soft to moderately hard, ranging from about 20 mg/L to 100 mg/L, with an average of 84 mg/L (about five grains per gallon).",
+   "why_it_matters": "The city says moderate hardness can build scale on pipes. Mineral residue around aerators and valves can be a useful inspection clue, but it is not an emergency diagnosis; a technician still has to locate the actual leak, restriction, or failed part.",
+   "sources": [
+    "https://www.arvadaco.gov/FAQ.aspx?QID=405"
+   ],
+   "verified": "2026-08-22",
+   "title": "Arvada water is soft to moderately hard"
+  },
+  {
+   "id": "housing_span",
+   "claim": "Arvada's Stocke Addition was formally platted in 1904 and the Walter subdivision in 1920, while Candelas home sales opened in 2012.",
+   "why_it_matters": "A technician should not assume the same shutoff locations, cleanout access, remodel history, or under-slab layout across the city. Historic areas may have multiple generations of plumbing, while newer western communities have different utility and slab configurations.",
+   "sources": [
+    "https://www.arvadaco.gov/425/Historic-Neighborhoods",
+    "https://www.candelaslife.com/news/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Arvada houses span a century of plumbing layouts"
+  },
+  {
+   "id": "expansive_soil_plumbing",
+   "claim": "A 2022 soils and foundation summary filed in Arvada's permit system for an Arvada Point townhome project identified expansive soil and bedrock, and recommends pressure-testing under-slab plumbing, using flexible couplings, and isolating plumbing that passes through slabs.",
+   "why_it_matters": "That is a site-specific reminder not to treat a recurring below-slab or buried-line issue as merely a surface leak. On an affected property, movement and the line route matter to the repair plan as much as the visible symptom.",
+   "sources": [
+    "https://www.arvadapermits.org/etrakit3/viewAttachment.aspx?Group=PERMIT&ActivityNo=RES23-00889&key=AH:2311280950190498",
+    "https://planningforhazards.colorado.gov/soil-hazards"
+   ],
+   "verified": "2026-08-22",
+   "title": "Some Arvada sites require plumbing allowances for soil movement"
+  }
+ ],
+ "neighborhoods": [
+  "Olde Town",
+  "Reno Park",
+  "Stocke-Walter",
+  "Allendale",
+  "Candelas",
+  "Leyden Rock"
+ ],
  "symptoms": [
   "burst_pipe",
   "overflowing_drain",

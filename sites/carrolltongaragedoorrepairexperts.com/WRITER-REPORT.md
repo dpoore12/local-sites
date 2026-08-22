@@ -18,3 +18,13 @@ Neighborhood names used: Castle Hills, Country Place, Indian Creek, Josey Ranch,
 
 ## Limits / unsourced items
 No Carrollton-specific NWS event-summary page that directly tied hail size to a Carrollton address was used. The page relies on the City’s documented May 28, 2024 80–95 mph straight-line-wind event for the dated local storm condition. No license, business identity, reviews, operating hours, prices, or business-age claims were added because there is no signed tenant.
+
+
+## From research_carrollton_local_facts.md
+
+# Carrollton research notes — 2026-08-21
+
+1. Housing age: Point2Homes reports Carrollton median year built 1988, based on Census data. Census table link: https://data.census.gov/table/ACSDT5Y2024.B25035?g=160XX00US4813000
+2. Permit: City of Carrollton says same-size door/window replacement does not require a permit; changing the opening does. https://www.cityofcarrollton.com/departments/departments-a-f/building-inspection/my-home/remodels-additions
+3. Weather: City reports May 28, 2024 straight-line winds of 80–95 mph, affecting all 37.1 square miles of Carrollton. https://www.cityofcarrollton.com/Home/Components/News/News/4848/27
+4. Neighborhood names: Castle Hills, Country Place, Indian Creek, Josey Ranch, Oak Creek Estates, and Rosemeade appear in this local directory: https://www.viprealestate.com/carrollton-neighborhood-directory.php

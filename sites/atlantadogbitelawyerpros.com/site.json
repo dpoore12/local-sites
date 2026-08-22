@@ -33,8 +33,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "georgia_vicious_propensity_rule",
+   "claim": "Georgia Code § 51-2-7 does not make every dog bite automatic liability. It addresses injury caused by a vicious or dangerous animal through careless management or allowing the animal to go at liberty, and it requires that the injured person did not provoke the injury.",
+   "why_it_matters": "The dog’s prior behavior, what its owner or keeper knew, and how it was being handled are evidence questions in an Atlanta dog-bite claim. A first-bite explanation is not the end of the inquiry, but the incident needs a fact-specific review.",
+   "sources": [
+    "https://law.justia.com/codes/georgia/title-51/chapter-2/section-51-2-7/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Georgia uses a proof-based rule, not automatic bite liability"
+  },
+  {
+   "id": "atlanta_dekalb_dog_control",
+   "claim": "In the portion of Atlanta within DeKalb County, the city code prohibits an owner or person in control from permitting a dog to be out of control and unattended off the owner’s premises or on another person’s property without permission; the code defines control to include a leash, being at heel, or being beside and obedient to a competent person.",
+   "why_it_matters": "Georgia Code § 51-2-7 says it can be sufficient to prove vicious propensity when a local ordinance required a dog at heel or on a leash and the dog was not restrained as required. The exact attack address is therefore important before anyone states what rule applied.",
+   "sources": [
+    "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO",
+    "https://law.justia.com/codes/georgia/title-51/chapter-2/section-51-2-7/"
+   ],
+   "verified": "2026-08-22",
+   "title": "An Atlanta restraint rule can change the evidence question"
+  },
+  {
+   "id": "fulton_animal_services_bite_response",
+   "claim": "Fulton County Animal Services lists dog bites as a reason residents can request field service and says animal bites are among the emergencies for which officers are available after regular hours.",
+   "why_it_matters": "A county animal-services report can create information worth locating after an attack, but it does not replace the injured person’s own photos, witness details, treatment records, and documentation of the dog’s restraint or the condition of the property.",
+   "sources": [
+    "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/animal-services/report-a-stray"
+   ],
+   "verified": "2026-08-22",
+   "title": "Fulton County treats animal bites as a field-service matter"
+  }
+ ],
+ "neighborhoods": [
+  "Ansley Park",
+  "Buckhead",
+  "Candler Park",
+  "East Atlanta",
+  "Grant Park",
+  "Kirkwood"
+ ],
  "symptoms": [
   "bitten_by_dog",
   "child_bitten_by_dog",

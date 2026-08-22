@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "consolidated_response_geography",
+   "claim": "Jacksonville and Duval County consolidated in 1968. A City financial report describes the City/County area as 840.1 square miles, with four separate municipalities remaining within Duval County.",
+   "why_it_matters": "Emergency-plumbing routing cannot treat \u201cJacksonville\u201d as one compact service area. The exact address establishes the response route and helps distinguish central neighborhoods from far-out Duval locations before a technician is dispatched.",
+   "sources": [
+    "https://www.jacksonville.gov/getContentAsset/00fd9c5d-d3c7-47d1-b81e-ab03f6ca9a38/135b97c9-84fa-4e82-b956-0fbccec4aa1f/2010-CAFR-sec.pdf?language=en"
+   ],
+   "verified": "2026-08-22",
+   "title": "Jacksonville\u2019s service map is much larger than a typical city call area"
+  },
+  {
+   "id": "septic_phase_out",
+   "claim": "At a January 22, 2024 City meeting, the Septic Tank Phase Out Program reported 35 septic tank failure areas and approximately 23,000 failing septic tanks in Duval County. The program had four active areas: Biltmore, Beverly Hills, Christobel, and Riverview.",
+   "why_it_matters": "A wastewater backup cannot be assumed to be a public sewer-line problem. The property may use septic infrastructure or JEA sewer, and that distinction changes how the technician traces the failure and what repair can address it.",
+   "sources": [
+    "https://www.jacksonville.gov/departments/neighborhoods/neighborhood-services-office/docs/southesast-cpac/se-summaries-2024/01-22-24-se-cpac-meeting-summary.aspx"
+   ],
+   "verified": "2026-08-22",
+   "title": "Some Jacksonville backups start with septic, not sewer"
+  },
+  {
+   "id": "shallow_water_table_and_slab_plumbing",
+   "claim": "A U.S. Geological Survey report states that, throughout most of Duval County, the water table is within 5 feet of land surface and can fluctuate as much as 5 feet between wet and dry seasons. City residential inspection guidance requires underground plumbing to be inspected before a slab inspection when plumbing is included in the project.",
+   "why_it_matters": "Water showing at a slab edge or through flooring needs careful locating before concrete is opened. The visible wet area may be some distance from the failed buried line, so an emergency repair begins with isolation and tracing rather than a guess at where to break the slab.",
+   "sources": [
+    "https://fl.water.usgs.gov/PDF_files/wri93_4130_phelps.pdf",
+    "https://www.jacksonville.gov/Departments/public-works/Building-Inspection-Division/Residential-Inspection"
+   ],
+   "verified": "2026-08-22",
+   "title": "Shallow groundwater makes under-slab water evidence worth tracing carefully"
+  }
+ ],
+ "neighborhoods": [
+  "Riverside",
+  "Avondale",
+  "San Marco",
+  "Springfield",
+  "Mandarin",
+  "Arlington"
+ ],
  "symptoms": [
   "burst_pipe",
   "overflowing_drain",

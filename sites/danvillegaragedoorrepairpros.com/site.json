@@ -29,8 +29,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "hillside_topography",
+   "claim": "Town planning materials state that nearly 50 percent of Danville is located on hillsides, including the Las Trampas Ridge area and the hills paralleling Sycamore Valley.",
+   "why_it_matters": "Steep driveways, narrow approaches, and hillside garages change the practical setup for a repair visit: safe truck placement, access to the opening, and how an out-of-service door is secured. Mentioning those conditions before dispatch helps the technician plan the visit without guessing.",
+   "sources": [
+    "https://www.danville.ca.gov/DocumentCenter/View/10792/Appendix-B---Constraints"
+   ],
+   "verified": "2026-08-22",
+   "title": "Nearly half of Danville sits on hillsides"
+  },
+  {
+   "id": "wildfire_ember_gaps",
+   "claim": "Danville identifies its undeveloped and open-space edges, including grassland and oak woodland, as Very High Fire Hazard Severity Zone areas. CAL FIRE says garage-door gaps and missing gasketing can allow ember intrusion.",
+   "why_it_matters": "A service visit should include a look at damaged bottom and side seals, warped panels, and visible gaps. A routine repair does not automatically trigger a code project, but a garage near open space has a concrete reason to keep its exterior seals intact and to ask the Town about requirements for a larger replacement.",
+   "sources": [
+    "https://www.danville.ca.gov/DocumentCenter/View/10792/Appendix-B---Constraints",
+    "https://www.fire.ca.gov/home-hardening"
+   ],
+   "verified": "2026-08-22",
+   "title": "Garage-door gaps matter near Danville open space"
+  },
+  {
+   "id": "design_review_exteriors",
+   "claim": "Danville\u2019s Design Review Board evaluates proposed site design and architecture for consistency with Town standards, and its submittal requirements call for exterior doors, materials, and colors to be identified on plans.",
+   "why_it_matters": "A simple repair is different from a larger exterior project. When a new door changes the facade, accompanies new construction, or is part of a hillside or ridgeline project, the homeowner should check address-specific Town planning requirements before ordering. The technician still measures the opening and hardware at the property so the door fits.",
+   "sources": [
+    "https://www.danville.ca.gov/276/Design-Review-Board",
+    "https://www.danville.ca.gov/DocumentCenter/View/1724/Design-Review-Board-Requirements"
+   ],
+   "verified": "2026-08-22",
+   "title": "Exterior-door changes can be a design-review question"
+  }
+ ],
+ "neighborhoods": [
+  "Greenbrook",
+  "Sycamore",
+  "Danville South",
+  "Diablo Highlands",
+  "Tassajara Ranch",
+  "Shadow Creek"
+ ],
  "symptoms": [
   "broken_torsion_spring",
   "door_reverses_before_closing",

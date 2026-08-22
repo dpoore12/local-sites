@@ -1,8 +1,0 @@
-# Research sources — Denver Furnace Repair Pros
-
-Verified 2026-08-21
-
-1. Denver Urbanism says roughly 31,000 single-family detached homes were built in Denver from 1950 through 1959, including development in Harvey Park, Virginia Village and Washington-Virginia Vale. https://denverurbanism.com/2012/05/denvers-single-family-homes-by-decade-1950s.html
-2. CU Denver identifies Denver's official elevation as 5,280 feet. Rheem's high-altitude-kit instructions state furnaces above 2,000 feet require 4% per 1,000-foot derating, a pressure-switch change at 5,000 feet for covered models, and possible orifice changes based on elevation and gas heating value. https://www.ucdenver.edu/international-admissions/about-cu-denver/about-denver-co and http://pts.myrheem.com/docstore/webdocs/ServiceDocs/HistLib/pdfs/Accessories/RXGY/92-24096-01-06_RXGY-F04_F05_F06_F07.pdf
-3. Denver's building-code briefing says that, since March 1, 2023, a like-for-like gas-furnace replacement cannot use a Quick Permit except for an emergency replacement; it also lists sizing, gas-piping testing and an electrification feasibility report as the relevant replacement requirements. https://denver.prelive.opencities.com/files/assets/public/v/1/community-planning-and-development/documents/ds/building-codes/code-adoption/2022-building-code-adoption-briefing-presentation.pdf
-4. National Weather Service Boulder documented that the December 21–22, 2022 Arctic front dropped DIA 37°F in one hour, with a December 22 low of -24°F and average of -15°F, Denver's second-coldest day on record. https://www.weather.gov/media/bou/2022DenverClimateSummary.pdf
