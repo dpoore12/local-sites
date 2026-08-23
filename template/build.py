@@ -538,11 +538,36 @@ def build(domain, live=False, check_only=False, corpus=None):
             p = out / rel
             p.parent.mkdir(parents=True, exist_ok=True)
             p.write_text(html)
+        write_sitemap(out, domain, pages, live=live)
         shutil.copy(TPL / "assets" / "theme.css", out / "assets" / "theme.css")
         (out / "assets" / "favicon.svg").write_text(FAVICON)
         for img in (sdir / "assets").glob("*"):
             shutil.copy(img, out / "assets" / img.name)
     return True
+
+
+def write_sitemap(out, domain, pages, live=False):
+    """A sitemap listing every page on this site, plus a robots.txt pointing at
+    it. Until a site is live we keep search engines out entirely, so the
+    robots.txt says stay away and the sitemap is still written for testing."""
+    today = datetime.date.today().isoformat()
+    urls = []
+    for rel in sorted(pages):
+        path = rel[:-len("index.html")] if rel.endswith("index.html") else rel
+        urls.append((f"https://{domain}/{path}", "1.0" if path == "" else "0.8"))
+
+    body = "\n".join(
+        f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{today}</lastmod>\n"
+        f"    <priority>{pri}</priority>\n  </url>"
+        for loc, pri in urls)
+    (out / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{body}\n</urlset>\n")
+
+    rules = "User-agent: *\nAllow: /\n" if live else "User-agent: *\nDisallow: /\n"
+    (out / "robots.txt").write_text(
+        f"{rules}\nSitemap: https://{domain}/sitemap.xml\n")
 
 
 def check_no_absolute_paths(html: str, page: str, problems: list) -> None:
