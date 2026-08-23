@@ -231,3 +231,19 @@ Telnyx handler per market so every call is attributable to exactly one site.
 What is left for you here: nothing blocking. If you want to help, a daily cron
 that runs `python3 call-desk/call_log.py` and commits `call-desk/log/calls.csv`
 would make the log fully hands-off.
+
+## Hosting (deploy_sites.py)
+
+The 83 sites go on Cloudflare Pages, one project per domain, apex + www on each.
+DNS is in the same Cloudflare account so attaching the domain writes the CNAME.
+
+    python3 deploy_sites.py            # everything not yet live
+    python3 deploy_sites.py --status    # what is live, what is not
+    python3 deploy_sites.py --only x.com
+
+It is safe to re-run: projects and domains are reused, and progress is kept in
+data/hosting.json so a re-run only picks up what failed.
+
+Needs the Cloudflare credential, and the token needs two permissions:
+Account > Cloudflare Pages > Edit, and Zone > DNS > Edit.
+Deploys run through wrangler 3 (wrangler 4 wants Node 22, sandbox has 20).
