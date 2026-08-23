@@ -216,3 +216,18 @@ Two API traps worth knowing before you touch Telnyx:
 - The rate limit is 5 requests/second and exceeding it returns **silent empty
   pages, not 429s**. An empty result means retry, never zero. This produced a
   completely false "23 area codes are out of stock" reading before it was caught.
+
+## Call routing (added 2026-08-22)
+
+`call-desk/` holds everything that decides what happens when one of the 83
+numbers rings. Read `call-desk/README.md` first — it covers the two states a
+market can be in, the one-command flip, the call log, and the two gotchas that
+cost us time (Telnyx returns empty bodies instead of 429s when rate limited, and
+the whisper only works with `url` on `<Number>`, not on `<Dial>`).
+
+Pure static hosting, no server, no database, no secrets in that project. One
+Telnyx handler per market so every call is attributable to exactly one site.
+
+What is left for you here: nothing blocking. If you want to help, a daily cron
+that runs `python3 call-desk/call_log.py` and commits `call-desk/log/calls.csv`
+would make the log fully hands-off.
