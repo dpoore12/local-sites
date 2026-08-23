@@ -1,3 +1,9 @@
-build_xml.py
-routes.json
+*.py
 __pycache__
+log/
+routes.json
+index.json
+wiring.json
+log_slug.txt
+README.md
+.gitignore

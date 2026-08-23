@@ -79,3 +79,6 @@ whisper. Nothing is recorded except voicemail messages.
 
 Verified by real test calls: voicemail path records and logs; forwarding path
 plays the whisper to the contractor, then bridges, preserving the caller's number.
+
+Call log page: https://call-desk-xi.vercel.app/calls-46b11d3e1d66ba86 (private link).
+Updates itself daily at 7:00am Pacific.

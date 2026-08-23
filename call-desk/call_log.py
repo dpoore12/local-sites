@@ -126,6 +126,9 @@ def main():
     events = page_all(f"/call_events?filter%5Boccurred_at%5D%5Bgte%5D={since}")
     print(f"{len(events)} events on the account in that window")
 
+    # our own numbers only ever appear as the caller on test calls we placed
+    ours = {m["tracking_number"] for m in by_app.values()}
+
     legs = {}
     for e in events:
         if e.get("name") not in WANT or e.get("type") != "call_scripting_webhook":
@@ -133,6 +136,8 @@ def main():
         m = by_app.get(str(e.get("connection_id")))
         if not m:
             continue  # not one of our 83 markets
+        if e.get("from") in ours:
+            continue  # a test call we placed ourselves, not a customer
         leg = legs.setdefault(e["leg_id"], {"m": m, "from": e.get("from"),
                                             "to": e.get("to"), "t": {}})
         leg["t"].setdefault(e["name"], parse_ts(e["occurred_at"]))

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Call Log</title>
+<style>
+:root{--ink:#12212f;--brand:#143d59;--brand-deep:#0b2233;--brand-mid:#1b4f70;
+--brand-tint:#eaf0f5;--cta:#f5a524;--cta-deep:#b8730a;--surface:#f7f6f2;--card:#fff;--line:#e2dfd6}
+*{box-sizing:border-box}
+body{margin:0;background:var(--surface);color:var(--ink);
+font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+header{background:var(--brand-deep);color:#fff;padding:1.6rem 1.5rem}
+header .wrap{max-width:1180px;margin:0 auto;display:flex;justify-content:space-between;
+align-items:baseline;gap:1rem;flex-wrap:wrap}
+header h1{margin:0;font-size:1.3rem;letter-spacing:.02em}
+header h1 span{color:var(--cta)}
+header .stamp{color:#a9bece;font-size:.85rem}
+main{max-width:1180px;margin:0 auto;padding:1.5rem 1.5rem 4rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:.9rem;margin-bottom:1.8rem}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1rem 1.1rem}
+.card b{display:block;font-size:1.9rem;line-height:1.1;color:var(--brand)}
+.card span{font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--brand-mid)}
+h2{font-size:1rem;text-transform:uppercase;letter-spacing:.07em;color:var(--brand-mid);
+margin:2rem 0 .7rem;border-bottom:2px solid var(--cta);padding-bottom:.4rem;display:inline-block}
+.tablewrap{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:auto}
+table{border-collapse:collapse;width:100%;font-size:.9rem}
+th{background:var(--brand-tint);color:var(--brand-deep);text-align:left;font-weight:600;
+padding:.6rem .8rem;position:sticky;top:0;white-space:nowrap;font-size:.78rem;
+text-transform:uppercase;letter-spacing:.05em}
+td{padding:.55rem .8rem;border-top:1px solid var(--line);white-space:nowrap}
+td.wrap{white-space:normal}
+tbody tr:hover{background:#fbf8f1}
+.num{font-variant-numeric:tabular-nums}
+.yes{color:#1c6b3a;font-weight:600}.no{color:#8a8578}
+.empty{padding:2.5rem 1.2rem;text-align:center;color:var(--brand-mid)}
+input[type=search]{width:100%;max-width:340px;padding:.55rem .8rem;border:1px solid var(--line);
+border-radius:8px;font-size:.95rem;margin-bottom:.8rem;background:#fff}
+footer{max-width:1180px;margin:0 auto;padding:0 1.5rem 3rem;color:var(--brand-mid);font-size:.85rem}
+</style></head><body>
+<header><div class="wrap">
+<h1>Call <span>Log</span></h1>
+<div class="stamp">updated Aug 23, 2026 2:25 AM &middot; 0 of 83 markets have had a call</div>
+</div></header>
+<main>
+<div class="cards">
+<div class="card"><b class="num">0</b><span>calls, all time</span></div>
+<div class="card"><b class="num">0</b><span>last 7 days</span></div>
+<div class="card"><b class="num">0</b><span>last 30 days</span></div>
+<div class="card"><b class="num">0</b><span>messages left</span></div>
+</div>
+
+<h2>By market</h2>
+<div class="tablewrap"><table>
+<thead><tr><th>Market</th><th>City</th><th>Service</th><th>Calls</th><th>Messages</th>
+<th>Last call</th><th>Live to</th></tr></thead>
+<tbody><tr><td colspan="7" class="empty">No calls yet. All 83 numbers are live and taking messages.</td></tr></tbody></table></div>
+
+<h2>Every call</h2>
+<input type="search" id="q" placeholder="Filter by city, market or number">
+<div class="tablewrap"><table>
+<thead><tr><th>When (Pacific)</th><th>Market</th><th>City</th><th>Caller</th>
+<th>Site number</th><th>Seconds</th><th>Message</th></tr></thead>
+<tbody id="calls"><tr><td colspan="7" class="empty">Nothing yet.</td></tr></tbody></table></div>
+</main>
+<footer>No calls are recorded. Only voicemail messages are kept, and only until you delete them.
+A caller who hangs up before the beep is still counted here but leaves nothing to listen to.</footer>
+<script>
+const q=document.getElementById('q'),rows=[...document.querySelectorAll('#calls tr')];
+q&&q.addEventListener('input',()=>{const t=q.value.toLowerCase();
+rows.forEach(r=>{r.style.display=r.textContent.toLowerCase().includes(t)?'':'none'})});
+</script>
+</body></html>

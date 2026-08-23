@@ -74,6 +74,25 @@ python3 call_log.py --report   # summary per market, no API calls
 Telnyx only keeps raw call events for a short window, so run `call_log.py` on a
 schedule. Once it is in the CSV it is ours forever.
 
+### The page
+
+**https://call-desk-xi.vercel.app/calls-46b11d3e1d66ba86**
+
+Totals at the top, a per-market table, then every call with a filter box. Long
+random path, `noindex`, and the raw CSV is not published — but treat the link as
+private, it has customers' phone numbers on it. Rebuild it with
+`python3 build_log_page.py` (the path is stored in `log_slug.txt` so it never
+changes).
+
+### It updates itself
+
+A scheduled task runs every day at 7:00am Pacific: pull the repo, pull new calls
+from Telnyx, rebuild the page, deploy, commit and push. It reports back how many
+calls came in and from which markets, or says nothing came in.
+
+Test calls we place ourselves are skipped automatically — any call whose caller
+is one of our own 83 numbers is ignored, so the log only ever holds real ones.
+
 Voicemail audio is at `GET /v2/recordings` on Telnyx; each download link is
 signed and expires 10 minutes after it is issued, so fetch it fresh when needed.
 
@@ -99,6 +118,8 @@ be done about that short of recording every call, which we are not doing.
 | `wire_numbers.py` | one-time: create the Telnyx app per market and attach its number |
 | `verify_wiring.py` | read the truth back off Telnyx and off the live site and check it |
 | `t/test.xml` | a 90-second pause, used only for placing test calls |
+| `build_log_page.py` | writes the log page from `log/calls.csv` |
+| `log_slug.txt` | the random path the log page is published at |
 
 ## Verifying after any change
 
