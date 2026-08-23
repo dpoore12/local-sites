@@ -1,0 +1,1080 @@
+batch,domain,city,niche,monthly value,listing,where,status,note
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Yellow Pages,yellowpages.com,todo,free tier
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,HG.org,hg.org,hold until a firm signs,free basic tier
+1,houstonmotorcycleaccidentlawyerpros.com,Houston,legal,3000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Yellow Pages,yellowpages.com,todo,free tier
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Angi,angi.com/companylist,todo,expect sales calls
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Thumbtack,thumbtack.com/pro,todo,free to list
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Porch,porch.com/pro,todo,contractor directory
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,BuildZoom,buildzoom.com,todo,free claim
+1,fortworthgaragedoorrepairpros.com,Fort Worth,home services,2500,Networx,networx.com/contractor,todo,contractor directory
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Yellow Pages,yellowpages.com,todo,free tier
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,HG.org,hg.org,hold until a firm signs,free basic tier
+1,sandiegodogbitelawyerpros.com,San Diego,legal,2000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Yellow Pages,yellowpages.com,todo,free tier
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,HG.org,hg.org,hold until a firm signs,free basic tier
+1,virginiabeachcaraccidentlawyerpros.com,Virginia Beach,legal,2000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Yellow Pages,yellowpages.com,todo,free tier
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Angi,angi.com/companylist,todo,expect sales calls
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Thumbtack,thumbtack.com/pro,todo,free to list
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Porch,porch.com/pro,todo,contractor directory
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,BuildZoom,buildzoom.com,todo,free claim
+1,mckinneygaragedoorrepairpros.com,McKinney,home services,1500,Networx,networx.com/contractor,todo,contractor directory
+1,modestoacrepairpros.com,Modesto,home services,1500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,modestoacrepairpros.com,Modesto,home services,1500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,modestoacrepairpros.com,Modesto,home services,1500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,modestoacrepairpros.com,Modesto,home services,1500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,modestoacrepairpros.com,Modesto,home services,1500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,modestoacrepairpros.com,Modesto,home services,1500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,modestoacrepairpros.com,Modesto,home services,1500,Yellow Pages,yellowpages.com,todo,free tier
+1,modestoacrepairpros.com,Modesto,home services,1500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+1,modestoacrepairpros.com,Modesto,home services,1500,Angi,angi.com/companylist,todo,expect sales calls
+1,modestoacrepairpros.com,Modesto,home services,1500,Thumbtack,thumbtack.com/pro,todo,free to list
+1,modestoacrepairpros.com,Modesto,home services,1500,Porch,porch.com/pro,todo,contractor directory
+1,modestoacrepairpros.com,Modesto,home services,1500,BuildZoom,buildzoom.com,todo,free claim
+1,modestoacrepairpros.com,Modesto,home services,1500,Networx,networx.com/contractor,todo,contractor directory
+1,sacramentoacrepair.com,Sacramento,home services,1500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,sacramentoacrepair.com,Sacramento,home services,1500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,sacramentoacrepair.com,Sacramento,home services,1500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,sacramentoacrepair.com,Sacramento,home services,1500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,sacramentoacrepair.com,Sacramento,home services,1500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,sacramentoacrepair.com,Sacramento,home services,1500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,sacramentoacrepair.com,Sacramento,home services,1500,Yellow Pages,yellowpages.com,todo,free tier
+1,sacramentoacrepair.com,Sacramento,home services,1500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+1,sacramentoacrepair.com,Sacramento,home services,1500,Angi,angi.com/companylist,todo,expect sales calls
+1,sacramentoacrepair.com,Sacramento,home services,1500,Thumbtack,thumbtack.com/pro,todo,free to list
+1,sacramentoacrepair.com,Sacramento,home services,1500,Porch,porch.com/pro,todo,contractor directory
+1,sacramentoacrepair.com,Sacramento,home services,1500,BuildZoom,buildzoom.com,todo,free claim
+1,sacramentoacrepair.com,Sacramento,home services,1500,Networx,networx.com/contractor,todo,contractor directory
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Yellow Pages,yellowpages.com,todo,free tier
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Angi,angi.com/companylist,todo,expect sales calls
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Thumbtack,thumbtack.com/pro,todo,free to list
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Porch,porch.com/pro,todo,contractor directory
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,BuildZoom,buildzoom.com,todo,free claim
+1,sanjoseemergencyplumberpros.com,San Jose,home services,1500,Networx,networx.com/contractor,todo,contractor directory
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Yellow Pages,yellowpages.com,todo,free tier
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,HG.org,hg.org,hold until a firm signs,free basic tier
+2,tampacriminaldefenselawyerpros.com,Tampa,legal,1500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+2,allenacrepairpros.com,Allen,home services,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,allenacrepairpros.com,Allen,home services,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,allenacrepairpros.com,Allen,home services,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,allenacrepairpros.com,Allen,home services,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,allenacrepairpros.com,Allen,home services,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,allenacrepairpros.com,Allen,home services,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,allenacrepairpros.com,Allen,home services,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,allenacrepairpros.com,Allen,home services,1250,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+2,allenacrepairpros.com,Allen,home services,1250,Angi,angi.com/companylist,todo,expect sales calls
+2,allenacrepairpros.com,Allen,home services,1250,Thumbtack,thumbtack.com/pro,todo,free to list
+2,allenacrepairpros.com,Allen,home services,1250,Porch,porch.com/pro,todo,contractor directory
+2,allenacrepairpros.com,Allen,home services,1250,BuildZoom,buildzoom.com,todo,free claim
+2,allenacrepairpros.com,Allen,home services,1250,Networx,networx.com/contractor,todo,contractor directory
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,HG.org,hg.org,hold until a firm signs,free basic tier
+2,dallaswrongfuldeathlawyerpros.com,Dallas,legal,1250,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+2,denverfurnacerepairpros.com,Denver,home services,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,denverfurnacerepairpros.com,Denver,home services,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,denverfurnacerepairpros.com,Denver,home services,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,denverfurnacerepairpros.com,Denver,home services,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,denverfurnacerepairpros.com,Denver,home services,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,denverfurnacerepairpros.com,Denver,home services,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,denverfurnacerepairpros.com,Denver,home services,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,denverfurnacerepairpros.com,Denver,home services,1250,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+2,denverfurnacerepairpros.com,Denver,home services,1250,Angi,angi.com/companylist,todo,expect sales calls
+2,denverfurnacerepairpros.com,Denver,home services,1250,Thumbtack,thumbtack.com/pro,todo,free to list
+2,denverfurnacerepairpros.com,Denver,home services,1250,Porch,porch.com/pro,todo,contractor directory
+2,denverfurnacerepairpros.com,Denver,home services,1250,BuildZoom,buildzoom.com,todo,free claim
+2,denverfurnacerepairpros.com,Denver,home services,1250,Networx,networx.com/contractor,todo,contractor directory
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Angi,angi.com/companylist,todo,expect sales calls
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Thumbtack,thumbtack.com/pro,todo,free to list
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Porch,porch.com/pro,todo,contractor directory
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,BuildZoom,buildzoom.com,todo,free claim
+2,garagedoorrepairnapervillepros.com,Naperville,home services,1250,Networx,networx.com/contractor,todo,contractor directory
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,HG.org,hg.org,hold until a firm signs,free basic tier
+2,losangelesdogbitelawyerpros.com,Los Angeles,legal,1250,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Angi,angi.com/companylist,todo,expect sales calls
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Thumbtack,thumbtack.com/pro,todo,free to list
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Porch,porch.com/pro,todo,contractor directory
+2,orlandomovingcompanypros.com,Orlando,home services,1250,BuildZoom,buildzoom.com,todo,free claim
+2,orlandomovingcompanypros.com,Orlando,home services,1250,Networx,networx.com/contractor,todo,contractor directory
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Yellow Pages,yellowpages.com,todo,free tier
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,HG.org,hg.org,hold until a firm signs,free basic tier
+2,sacramentodogbitelawyerpros.com,Sacramento,legal,1250,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Yellow Pages,yellowpages.com,todo,free tier
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Angi,angi.com/companylist,todo,expect sales calls
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Thumbtack,thumbtack.com/pro,todo,free to list
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Porch,porch.com/pro,todo,contractor directory
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,BuildZoom,buildzoom.com,todo,free claim
+3,tucsonemergencyplumberpros.com,Tucson,home services,1250,Networx,networx.com/contractor,todo,contractor directory
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Porch,porch.com/pro,todo,contractor directory
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+3,arlingtonbathroomremodelingpros.com,Arlington,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Porch,porch.com/pro,todo,contractor directory
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+3,bocaratongaragedoorrepairpros.com,Boca Raton,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Porch,porch.com/pro,todo,contractor directory
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+3,carrolltongaragedoorrepairexperts.com,Carrollton,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,HG.org,hg.org,hold until a firm signs,free basic tier
+3,cincinnatipersonalinjurylawyerpros.com,Cincinnati,legal,1000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Porch,porch.com/pro,todo,contractor directory
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+3,coloradospringsfurnacerepair.com,Colorado Springs,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+3,denverdivorcelawyerpros.com,Denver,legal,1000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+3,denverdivorcelawyerpros.com,Denver,legal,1000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+3,denverdivorcelawyerpros.com,Denver,legal,1000,HG.org,hg.org,hold until a firm signs,free basic tier
+3,denverdivorcelawyerpros.com,Denver,legal,1000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Porch,porch.com/pro,todo,contractor directory
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+3,friscogaragedoorrepairexperts.com,Frisco,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Yellow Pages,yellowpages.com,todo,free tier
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,HG.org,hg.org,hold until a firm signs,free basic tier
+4,longbeachpersonalinjurylawyerpros.com,Long Beach,legal,1000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Yellow Pages,yellowpages.com,todo,free tier
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,HG.org,hg.org,hold until a firm signs,free basic tier
+4,modestocaraccidentlawyerpros.com,Modesto,legal,1000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Yellow Pages,yellowpages.com,todo,free tier
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,HG.org,hg.org,hold until a firm signs,free basic tier
+4,modestopersonalinjurylawyerpros.com,Modesto,legal,1000,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Porch,porch.com/pro,todo,contractor directory
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+4,overlandparkgaragedoorrepairpros.com,Overland Park,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+4,tampatileroofrepair.com,Tampa,home services,1000,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,tampatileroofrepair.com,Tampa,home services,1000,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,tampatileroofrepair.com,Tampa,home services,1000,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,tampatileroofrepair.com,Tampa,home services,1000,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,tampatileroofrepair.com,Tampa,home services,1000,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,tampatileroofrepair.com,Tampa,home services,1000,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,tampatileroofrepair.com,Tampa,home services,1000,Yellow Pages,yellowpages.com,todo,free tier
+4,tampatileroofrepair.com,Tampa,home services,1000,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+4,tampatileroofrepair.com,Tampa,home services,1000,Angi,angi.com/companylist,todo,expect sales calls
+4,tampatileroofrepair.com,Tampa,home services,1000,Thumbtack,thumbtack.com/pro,todo,free to list
+4,tampatileroofrepair.com,Tampa,home services,1000,Porch,porch.com/pro,todo,contractor directory
+4,tampatileroofrepair.com,Tampa,home services,1000,BuildZoom,buildzoom.com,todo,free claim
+4,tampatileroofrepair.com,Tampa,home services,1000,Networx,networx.com/contractor,todo,contractor directory
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Porch,porch.com/pro,todo,contractor directory
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,BuildZoom,buildzoom.com,todo,free claim
+4,annarborgaragedoorrepairpros.com,Ann Arbor,home services,800,Networx,networx.com/contractor,todo,contractor directory
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Porch,porch.com/pro,todo,contractor directory
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,BuildZoom,buildzoom.com,todo,free claim
+4,charlotteguttercleaningpros.com,Charlotte,home services,800,Networx,networx.com/contractor,todo,contractor directory
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Porch,porch.com/pro,todo,contractor directory
+4,kansascityemergencyplumber.com,Kansas City,home services,800,BuildZoom,buildzoom.com,todo,free claim
+4,kansascityemergencyplumber.com,Kansas City,home services,800,Networx,networx.com/contractor,todo,contractor directory
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Yellow Pages,yellowpages.com,todo,free tier
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,HG.org,hg.org,hold until a firm signs,free basic tier
+5,lasvegasdogbitelawyerpros.com,Las Vegas,legal,800,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Yellow Pages,yellowpages.com,todo,free tier
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,HG.org,hg.org,hold until a firm signs,free basic tier
+5,louisvillecaraccidentlawyerpros.com,Louisville,legal,800,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Yellow Pages,yellowpages.com,todo,free tier
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,HG.org,hg.org,hold until a firm signs,free basic tier
+5,oceansidepersonalinjurylawyerpros.com,Oceanside,legal,800,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+5,orlandoduilawyerpros.com,Orlando,legal,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,orlandoduilawyerpros.com,Orlando,legal,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,orlandoduilawyerpros.com,Orlando,legal,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,orlandoduilawyerpros.com,Orlando,legal,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,orlandoduilawyerpros.com,Orlando,legal,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,orlandoduilawyerpros.com,Orlando,legal,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,orlandoduilawyerpros.com,Orlando,legal,800,Yellow Pages,yellowpages.com,todo,free tier
+5,orlandoduilawyerpros.com,Orlando,legal,800,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+5,orlandoduilawyerpros.com,Orlando,legal,800,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+5,orlandoduilawyerpros.com,Orlando,legal,800,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+5,orlandoduilawyerpros.com,Orlando,legal,800,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+5,orlandoduilawyerpros.com,Orlando,legal,800,HG.org,hg.org,hold until a firm signs,free basic tier
+5,orlandoduilawyerpros.com,Orlando,legal,800,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Porch,porch.com/pro,todo,contractor directory
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,BuildZoom,buildzoom.com,todo,free claim
+5,parkergaragedoorrepairexperts.com,Parker,home services,800,Networx,networx.com/contractor,todo,contractor directory
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Porch,porch.com/pro,todo,contractor directory
+5,sanjosemovingcompanypros.com,San Jose,home services,800,BuildZoom,buildzoom.com,todo,free claim
+5,sanjosemovingcompanypros.com,San Jose,home services,800,Networx,networx.com/contractor,todo,contractor directory
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Porch,porch.com/pro,todo,contractor directory
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,BuildZoom,buildzoom.com,todo,free claim
+5,scottsdalegaragedoorrepairpros.com,Scottsdale,home services,800,Networx,networx.com/contractor,todo,contractor directory
+5,waterdamageaustinco.com,Austin,home services,800,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+5,waterdamageaustinco.com,Austin,home services,800,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+5,waterdamageaustinco.com,Austin,home services,800,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+5,waterdamageaustinco.com,Austin,home services,800,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+5,waterdamageaustinco.com,Austin,home services,800,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+5,waterdamageaustinco.com,Austin,home services,800,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+5,waterdamageaustinco.com,Austin,home services,800,Yellow Pages,yellowpages.com,todo,free tier
+5,waterdamageaustinco.com,Austin,home services,800,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+5,waterdamageaustinco.com,Austin,home services,800,Angi,angi.com/companylist,todo,expect sales calls
+5,waterdamageaustinco.com,Austin,home services,800,Thumbtack,thumbtack.com/pro,todo,free to list
+5,waterdamageaustinco.com,Austin,home services,800,Porch,porch.com/pro,todo,contractor directory
+5,waterdamageaustinco.com,Austin,home services,800,BuildZoom,buildzoom.com,todo,free claim
+5,waterdamageaustinco.com,Austin,home services,800,Networx,networx.com/contractor,todo,contractor directory
+6,arvadaemergencyplumber.com,Arvada,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,arvadaemergencyplumber.com,Arvada,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,arvadaemergencyplumber.com,Arvada,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,arvadaemergencyplumber.com,Arvada,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,arvadaemergencyplumber.com,Arvada,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,arvadaemergencyplumber.com,Arvada,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,arvadaemergencyplumber.com,Arvada,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+6,arvadaemergencyplumber.com,Arvada,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+6,arvadaemergencyplumber.com,Arvada,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+6,arvadaemergencyplumber.com,Arvada,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+6,arvadaemergencyplumber.com,Arvada,home services,650,Porch,porch.com/pro,todo,contractor directory
+6,arvadaemergencyplumber.com,Arvada,home services,650,BuildZoom,buildzoom.com,todo,free claim
+6,arvadaemergencyplumber.com,Arvada,home services,650,Networx,networx.com/contractor,todo,contractor directory
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+6,atlantadogbitelawyerpros.com,Atlanta,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+6,austinroofinspectionpros.com,Austin,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,austinroofinspectionpros.com,Austin,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,austinroofinspectionpros.com,Austin,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,austinroofinspectionpros.com,Austin,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,austinroofinspectionpros.com,Austin,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,austinroofinspectionpros.com,Austin,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,austinroofinspectionpros.com,Austin,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+6,austinroofinspectionpros.com,Austin,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+6,austinroofinspectionpros.com,Austin,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+6,austinroofinspectionpros.com,Austin,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+6,austinroofinspectionpros.com,Austin,home services,650,Porch,porch.com/pro,todo,contractor directory
+6,austinroofinspectionpros.com,Austin,home services,650,BuildZoom,buildzoom.com,todo,free claim
+6,austinroofinspectionpros.com,Austin,home services,650,Networx,networx.com/contractor,todo,contractor directory
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Porch,porch.com/pro,todo,contractor directory
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,BuildZoom,buildzoom.com,todo,free claim
+6,coloradospringsemergencyplumber.com,Colorado Springs,home services,650,Networx,networx.com/contractor,todo,contractor directory
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Porch,porch.com/pro,todo,contractor directory
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,BuildZoom,buildzoom.com,todo,free claim
+6,coloradospringsmoldremediationexperts.com,Colorado Springs,home services,650,Networx,networx.com/contractor,todo,contractor directory
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+6,concordcaraccidentlawyerpros.com,Concord,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+6,fortlauderdaledomesticviolencelawyer.com,Fort Lauderdale,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+6,fresnowrongfuldeathlawyerpros.com,Fresno,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Porch,porch.com/pro,todo,contractor directory
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,BuildZoom,buildzoom.com,todo,free claim
+7,garlandgaragedoorrepairexperts.com,Garland,home services,650,Networx,networx.com/contractor,todo,contractor directory
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Porch,porch.com/pro,todo,contractor directory
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,BuildZoom,buildzoom.com,todo,free claim
+7,phoenixleakdetectionpros.com,Phoenix,home services,650,Networx,networx.com/contractor,todo,contractor directory
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Yellow Pages,yellowpages.com,todo,free tier
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Angi,angi.com/companylist,todo,expect sales calls
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Thumbtack,thumbtack.com/pro,todo,free to list
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Porch,porch.com/pro,todo,contractor directory
+7,raleighmovingcompanypros.com,Raleigh,home services,650,BuildZoom,buildzoom.com,todo,free claim
+7,raleighmovingcompanypros.com,Raleigh,home services,650,Networx,networx.com/contractor,todo,contractor directory
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+7,santaanapersonalinjurylawyerpros.com,Santa Ana,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+7,tampafamilylawattorneypros.com,Tampa,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+7,tampafamilylawattorneypros.com,Tampa,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+7,tampafamilylawattorneypros.com,Tampa,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+7,tampafamilylawattorneypros.com,Tampa,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Yellow Pages,yellowpages.com,todo,free tier
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,HG.org,hg.org,hold until a firm signs,free basic tier
+7,virginiabeachpersonalinjurylawyerpros.com,Virginia Beach,legal,650,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+7,appliancerepairtampaco.com,Tampa,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,appliancerepairtampaco.com,Tampa,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,appliancerepairtampaco.com,Tampa,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,appliancerepairtampaco.com,Tampa,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,appliancerepairtampaco.com,Tampa,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,appliancerepairtampaco.com,Tampa,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,appliancerepairtampaco.com,Tampa,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+7,appliancerepairtampaco.com,Tampa,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+7,appliancerepairtampaco.com,Tampa,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+7,appliancerepairtampaco.com,Tampa,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+7,appliancerepairtampaco.com,Tampa,home services,500,Porch,porch.com/pro,todo,contractor directory
+7,appliancerepairtampaco.com,Tampa,home services,500,BuildZoom,buildzoom.com,todo,free claim
+7,appliancerepairtampaco.com,Tampa,home services,500,Networx,networx.com/contractor,todo,contractor directory
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Porch,porch.com/pro,todo,contractor directory
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,BuildZoom,buildzoom.com,todo,free claim
+7,atlantaemergencyplumberpros.com,Atlanta,home services,500,Networx,networx.com/contractor,todo,contractor directory
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+8,austinwrongfuldeathlawyerpros.com,Austin,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Porch,porch.com/pro,todo,contractor directory
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,BuildZoom,buildzoom.com,todo,free claim
+8,bellevuebathroomremodeling.com,Bellevue,home services,500,Networx,networx.com/contractor,todo,contractor directory
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+8,birminghamtruckaccidentlawyerpros.com,Birmingham,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+8,concordpersonalinjurylawyer.com,Concord,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+8,concordpersonalinjurylawyer.com,Concord,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+8,concordpersonalinjurylawyer.com,Concord,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+8,concordpersonalinjurylawyer.com,Concord,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Porch,porch.com/pro,todo,contractor directory
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,BuildZoom,buildzoom.com,todo,free claim
+8,dallaswindowreplacementexperts.com,Dallas,home services,500,Networx,networx.com/contractor,todo,contractor directory
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Porch,porch.com/pro,todo,contractor directory
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,BuildZoom,buildzoom.com,todo,free claim
+8,danvillegaragedoorrepairpros.com,Danville,home services,500,Networx,networx.com/contractor,todo,contractor directory
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Porch,porch.com/pro,todo,contractor directory
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,BuildZoom,buildzoom.com,todo,free claim
+8,edenprairiegaragedoorrepairpros.com,Eden Prairie,home services,500,Networx,networx.com/contractor,todo,contractor directory
+8,foundationrepairaustinco.com,Austin,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+8,foundationrepairaustinco.com,Austin,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+8,foundationrepairaustinco.com,Austin,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+8,foundationrepairaustinco.com,Austin,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+8,foundationrepairaustinco.com,Austin,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+8,foundationrepairaustinco.com,Austin,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+8,foundationrepairaustinco.com,Austin,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+8,foundationrepairaustinco.com,Austin,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+8,foundationrepairaustinco.com,Austin,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+8,foundationrepairaustinco.com,Austin,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+8,foundationrepairaustinco.com,Austin,home services,500,Porch,porch.com/pro,todo,contractor directory
+8,foundationrepairaustinco.com,Austin,home services,500,BuildZoom,buildzoom.com,todo,free claim
+8,foundationrepairaustinco.com,Austin,home services,500,Networx,networx.com/contractor,todo,contractor directory
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+9,harrisburgcaraccidentlawyerpros.com,Harrisburg,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Porch,porch.com/pro,todo,contractor directory
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,BuildZoom,buildzoom.com,todo,free claim
+9,jacksonvilleemergencyplumberpros.com,Jacksonville,home services,500,Networx,networx.com/contractor,todo,contractor directory
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+9,jacksonvillewrongfuldeathlawyerpros.com,Jacksonville,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+9,jonesboropersonalinjurylawyerpros.com,Jonesboro,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+9,losangelesacinstall.com,Los Angeles,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,losangelesacinstall.com,Los Angeles,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,losangelesacinstall.com,Los Angeles,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,losangelesacinstall.com,Los Angeles,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,losangelesacinstall.com,Los Angeles,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,losangelesacinstall.com,Los Angeles,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,losangelesacinstall.com,Los Angeles,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+9,losangelesacinstall.com,Los Angeles,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+9,losangelesacinstall.com,Los Angeles,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+9,losangelesacinstall.com,Los Angeles,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+9,losangelesacinstall.com,Los Angeles,home services,500,Porch,porch.com/pro,todo,contractor directory
+9,losangelesacinstall.com,Los Angeles,home services,500,BuildZoom,buildzoom.com,todo,free claim
+9,losangelesacinstall.com,Los Angeles,home services,500,Networx,networx.com/contractor,todo,contractor directory
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Porch,porch.com/pro,todo,contractor directory
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,BuildZoom,buildzoom.com,todo,free claim
+9,mariettagaragedoorrepairpros.com,Marietta,home services,500,Networx,networx.com/contractor,todo,contractor directory
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Porch,porch.com/pro,todo,contractor directory
+9,mesquiteacrepairpros.com,Mesquite,home services,500,BuildZoom,buildzoom.com,todo,free claim
+9,mesquiteacrepairpros.com,Mesquite,home services,500,Networx,networx.com/contractor,todo,contractor directory
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+9,neworleansmotorcycleaccidentlawyerpros.com,New Orleans,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,newportbeachduilawyerpros.com,Newport Beach,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,newyorkdogbitelawyerpros.com,New York,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,newyorkdogbitelawyerpros.com,New York,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,newyorkdogbitelawyerpros.com,New York,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,newyorkdogbitelawyerpros.com,New York,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,oxnardcaraccidentlawyerpros.com,Oxnard,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,salinascaraccidentlawyer.com,Salinas,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,salinascaraccidentlawyer.com,Salinas,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,salinascaraccidentlawyer.com,Salinas,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,salinascaraccidentlawyer.com,Salinas,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Yellow Pages,yellowpages.com,todo,free tier
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Houzz,houzz.com/pro,todo,"followed link, free pro profile"
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Angi,angi.com/companylist,todo,expect sales calls
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Thumbtack,thumbtack.com/pro,todo,free to list
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Porch,porch.com/pro,todo,contractor directory
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,BuildZoom,buildzoom.com,todo,free claim
+10,sandiegoleakdetectionpros.com,San Diego,home services,500,Networx,networx.com/contractor,todo,contractor directory
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,sandiegowrongfulterminationlaw.com,San Diego,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,sanjoseduilawyerpros.com,San Jose,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,sanjoseduilawyerpros.com,San Jose,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,sanjoseduilawyerpros.com,San Jose,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,sanjoseduilawyerpros.com,San Jose,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+10,santabarbaracaraccidentlawyer.com,Santa Barbara,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+11,tempeduilawyerpros.com,Tempe,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+11,tempeduilawyerpros.com,Tempe,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+11,tempeduilawyerpros.com,Tempe,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+11,tempeduilawyerpros.com,Tempe,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+11,tempeduilawyerpros.com,Tempe,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+11,tempeduilawyerpros.com,Tempe,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+11,tempeduilawyerpros.com,Tempe,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+11,tempeduilawyerpros.com,Tempe,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+11,tempeduilawyerpros.com,Tempe,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+11,tempeduilawyerpros.com,Tempe,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+11,tempeduilawyerpros.com,Tempe,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+11,tempeduilawyerpros.com,Tempe,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+11,tempeduilawyerpros.com,Tempe,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+11,victorvillecaraccidentlawyerpros.com,Victorville,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Google Search Console,search.google.com/search-console,todo,not a link -- how we see indexing
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Bing Webmaster Tools,bing.com/webmasters,todo,import from Search Console in one click
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Yelp,biz.yelp.com,todo,"real call volume; claim only, never solicit reviews"
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Nextdoor Business,business.nextdoor.com,todo,genuinely local
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Apple Business Connect,businessconnect.apple.com,todo,feeds Apple Maps and Siri
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Better Business Bureau,bbb.org,todo,free listing; skip paid accreditation
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Yellow Pages,yellowpages.com,todo,free tier
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Justia,lawyers.justia.com,hold until a firm signs,strong followed link
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Avvo,avvo.com/claim-your-profile,hold until a firm signs,free claim
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,FindLaw,lawyers.findlaw.com,hold until a firm signs,free basic tier
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,Lawyers.com,lawyers.com,hold until a firm signs,free basic tier
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,HG.org,hg.org,hold until a firm signs,free basic tier
+11,westcovinacaraccidentlawyerpros.com,West Covina,legal,500,State bar directory,varies by state,hold until a firm signs,best local legal link there is
