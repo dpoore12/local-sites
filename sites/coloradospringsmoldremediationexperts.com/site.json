@@ -29,8 +29,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "no_state_mold_license",
+   "claim": "Colorado has no statewide mold-remediation licensing or registration program. In 2025, HB25-1202 proposed a Mold Awareness and Registration Act that would have required registration for mold assessment and remediation providers, but the bill was lost.",
+   "why_it_matters": "A homeowner cannot rely on a state mold license lookup. The written scope, training or third-party certifications, containment plan, moisture-source plan, and a clear boundary between cleaning and removal are the practical ways to compare proposed work.",
+   "sources": [
+    "https://leg.colorado.gov/bills/hb25-1202"
+   ],
+   "verified": "2026-08-22",
+   "title": "There is no Colorado mold license to look up"
+  },
+  {
+   "id": "semi_arid_climate",
+   "claim": "Colorado Springs has a 1991\u20132020 annual precipitation normal of 15.91 inches, according to the National Weather Service.",
+   "why_it_matters": "Low outdoor humidity can make residents dismiss a musty room. At a property with mold, the inspection should follow a localized indoor water source such as a slow plumbing leak, roof entry, appliance connection, or damp below-grade area rather than blaming the regional climate.",
+   "sources": [
+    "https://www.weather.gov/pub/climateCosDailyNormalsRecords"
+   ],
+   "verified": "2026-08-22",
+   "title": "Dry outdoor air can hide a wet wall cavity"
+  },
+  {
+   "id": "housing_age_mix",
+   "claim": "Colorado Springs planning data lists a median year of construction of 1986. Its 2020\u20132024 consolidated plan says 42% of owner-occupied and 47% of renter-occupied homes were built before 1980, totaling more than 77,000 homes.",
+   "why_it_matters": "The housing stock spans many renovation histories, insulation conditions, roof repairs, and concealed plumbing routes. An attic, wall, or crawl-space scope should be based on the actual water path and accessible materials rather than a one-size assumption about the building.",
+   "sources": [
+    "https://coloradosprings.gov/system/files/2025-07/hna_co_springs_factsheet_2025_07_10a_lv.pdf",
+    "https://coloradosprings.gov/system/files/2024-04/colorado_springs_2020-2024_conplan_amendment_3-comp.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "The city\u2019s housing stock has many hidden water paths"
+  }
+ ],
+ "neighborhoods": [
+  "Old Colorado City",
+  "Downtown",
+  "Ivywild",
+  "Broadmoor",
+  "Briargate",
+  "Rockrimmon"
+ ],
  "symptoms": [
   "visible_mold",
   "musty_odor",

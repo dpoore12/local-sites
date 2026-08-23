@@ -31,8 +31,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "midcentury_attic_stock",
+   "title": "Older homes make the attic part of the diagnosis",
+   "claim": "Mesquite's 2026 Hazard Mitigation Action Plan, citing 2023 Census estimates, says approximately 36 percent of the city's housing stock was built before 1970. The same plan documents the city's suburban growth from 1,696 residents in 1950 to 55,131 in 1970.",
+   "why_it_matters": "A repair visit cannot assume every house has the same purpose-built cooling layout. In older homes, the age and location of attic ducts, returns, insulation, electrical changes and drain protection are worth checking when cooling disappears late in the day.",
+   "sources": [
+    "https://apps.cityofmesquite.com/city_secweb/resolutions/2026-01.pdf"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "mechanical_permit_and_license",
+   "title": "Mesquite mechanical work has a local inspection path",
+   "claim": "Mesquite's Building Inspection Division says mechanical installations for new or remodel projects must be installed and permitted by a mechanical contractor licensed with the State of Texas; it lists mechanical duct rough-in and mechanical final inspections.",
+   "why_it_matters": "Repair work and a permitted project are not automatically the same scope. When a job changes into permitted mechanical work, the homeowner can ask who is pulling the permit, what inspection applies, and whether the contractor's Texas credential is active.",
+   "sources": [
+    "https://www.cityofmesquite.com/486/Inspection-Summary",
+    "https://www.tdlr.texas.gov/LicenseSearch/"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "texas_heat_grid_demand",
+   "title": "Texas heat puts pressure on cooling and the grid",
+   "claim": "The National Weather Service logged 23 days at or above 100°F at DFW in 2024, including a 107°F summer high on August 19. ERCOT reported its 2024 summer peak telemetered load of 85,559 MW on August 20 and said summer load stayed similar to 2023 despite lower temperatures.",
+   "why_it_matters": "When attic heat peaks and a system is already losing capacity, a small electrical, airflow or refrigerant fault becomes obvious fast. The priority is a measured repair that restores normal operation, while households follow any official ERCOT conservation guidance that is safe for them.",
+   "sources": [
+    "https://www.weather.gov/fwd/d100data",
+    "https://www.ercot.com/files/docs/2024/10/03/7-summer-2024-operational-and-market-review.pdf"
+   ],
+   "verified": "2026-08-22"
+  }
+ ],
+ "neighborhoods": [
+  "Truman Heights",
+  "Casa View Heights",
+  "Mesquite Park",
+  "Sherwood Forest",
+  "Falcons Lair",
+  "Hillside at Falcons Lair"
+ ],
  "symptoms": [
   "ac_not_cooling",
   "ac_blows_warm_air",

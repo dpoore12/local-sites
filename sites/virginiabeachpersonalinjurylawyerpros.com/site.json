@@ -29,8 +29,49 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "court_jurisdiction",
+   "claim": "Virginia Beach General District Court has a $50,000 jurisdictional limit for personal-injury and wrongful-death claims. Virginia Beach is an independent city with its own local court system.",
+   "why_it_matters": "The amount sought can affect whether the case may be heard in General District Court or requires a Circuit Court analysis. The city is not sitting in a county court system, so the court and filing path need to be matched to the specific matter.",
+   "sources": [
+    "https://courts.virginiabeach.gov/general-district-court/civil-division",
+    "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Virginia Beach has its own court path and a $50,000 injury-claim limit"
+  },
+  {
+   "id": "nas_oceana_federal_connection",
+   "claim": "NAS Oceana, in Virginia Beach, is the Navy's East Coast Master Jet Base and includes Dam Neck Annex and Naval Auxiliary Landing Field Fentress. The installation reports about 10,500 active Navy personnel, 10,000 family members and 4,500 civilian personnel.",
+   "why_it_matters": "An injury involving a service member, federal employee, contractor, government equipment or military property may need a different first review from an ordinary Virginia private-party claim. Precise details about the person, place and activity can determine whether a federal administrative process is relevant.",
+   "sources": [
+    "https://cnrma.cnic.navy.mil/installations/NAS-Oceana/",
+    "https://www.congress.gov/crs-product/R45732"
+   ],
+   "verified": "2026-08-22",
+   "title": "A military or federal connection can change the first question"
+  },
+  {
+   "id": "oceanfront_resort_district",
+   "claim": "Virginia Beach's Oceanfront District includes a three-mile boardwalk, the Atlantic and Pacific Avenue beach-related corridors, and more than 40 beachfront hotels and resorts.",
+   "why_it_matters": "A fall or other injury near the Oceanfront can involve a hotel, restaurant, parking area, beach access, public walkway or another adjoining area. A precise location is essential for identifying who controlled the condition and what records or video may exist.",
+   "sources": [
+    "https://s3.us-east-1.amazonaws.com/virginia-beach-departments-docs/communications/Hot-Topics/Atlantic-Park/SiteWorks-VB-The-Wave-Final-Report.pdf",
+    "https://planning.virginiabeach.gov/zoning/form-based-code/oceanfront-resort-district"
+   ],
+   "verified": "2026-08-22",
+   "title": "The Oceanfront is a dense resort setting, not one property"
+  }
+ ],
+ "neighborhoods": [
+  "Kempsville",
+  "Great Neck",
+  "Hilltop",
+  "Bayside",
+  "Oceanfront",
+  "Sandbridge"
+ ],
  "symptoms": [
   "injured_on_property",
   "medical_care_after_accident",

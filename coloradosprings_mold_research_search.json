@@ -1,0 +1,512 @@
+[
+  {
+    "spec": {
+      "query": "Colorado mold remediation license state",
+      "domains": [
+        "co.gov"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.trinidad.co.gov/services/community_development/building_inspections___permits.php",
+        "title": "Building Inspections, Contractor Licenses & Permits",
+        "domain": "www.trinidad.co.gov",
+        "snippet": "Tara Booth, Development Services Administrator\nPO Box 880 / 135 N.\nAnimas\nTrinidad, CO 81082\nOffice: 719-846-9843 ext.\n136\n719-846-9843 ext.\n128\nFax: 719-846-4140\nMission Statement\n...\n- Before beginning any project, please verify with the City of Trinidad that the Contractor chosen is licensed.",
+        "last_updated": "2025-11-03"
+      },
+      {
+        "url": "https://www.trinidad.co.gov/services/city_clerk/liquor___marijuana_licenses.php",
+        "title": "Liquor & Marijuana Licenses",
+        "domain": "www.trinidad.co.gov",
+        "snippet": "For more information contact Audra Garrett, City Clerk at 719-846-9843 ext 135.",
+        "last_updated": "2025-11-03"
+      }
+    ]
+  },
+  {
+    "spec": {
+      "query": "Colorado Springs climate average humidity precipitation",
+      "domains": [
+        "weather.gov"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://forecast.weather.gov/product.php?site=pub&product=cli&issuedby=cos",
+        "title": "Climatological Report (Daily)",
+        "domain": "forecast.weather.gov",
+        "snippet": "TEMPERATURE (F) YESTERDAY MAXIMUM 70 134 PM 71 1996 45 25 39 MINIMUM 30 447 AM -22 1933 19 11 15 AVERAGE 50 32 18 27 PRECIPITATION (IN) YESTERDAY\n0.00 0.32 1966 0.02 -0.02 0.00 MONTH TO DATE 0.00 0.10 -0.10 0.00 SINCE JAN 1 1.02 0.39 0.63 0.64 SNOWFALL\n(IN) YESTERDAY 0.0 5.8 1966 0.2 -0.2 0.0 MONTH TO DATE T 1.5 -1.5 0.0 SINCE JUL 1 21.4 17.6 3.8 36.2 SNOW DEPTH 0 DEGREE DAYS HEATING YESTERDAY 15 33 -18 38 MONTH TO DATE 190 297 -107 229 SINCE JUL 1 2960 3719 -759 3426 ...................................................................NO SIGNIFICANT WEATHER WAS OBSERVED.\nRELATIVE HUMIDITY (PERCENT) HIGHEST 54 200 AM LOWEST 8 200 PM AVERAGE 31 ..........................................................\nTHE COLORADO SPRINGS CO CLIMATE NORMALS FOR TODAY NORMAL RECORD YEAR MAXIMUM TEMPERATURE (F) 45 77 2017 MINIMUM TEMPERATURE (F) 19 -18 1933 SUNRISE AND SUNSET FEBRUARY 10 2026......",
+        "date": "2026-02-10",
+        "last_updated": "2026-02-10",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. weather forecasts, warnings, observations, and climate information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/pub/climateCosDailyNormalsRecords",
+        "title": "Normals and Extremes -- Colorado Springs",
+        "domain": "www.weather.gov",
+        "snippet": "### Disclaimer <table><tr><td rowspan=\"2\">**Month**</td><td colspan=\"3\">**Temperature Normals (deg F)**</td><td rowspan=\"2\">**Precipitation Normals (inches)**</td><td>**Snowfall**</td><td colspan=\"2\">**Mean # of Days with**</td><td rowspan=\"2\">Daily normals</td><td rowspan=\"2\">Daily extremes</td></tr><tr><td>**High**</td><td>**Low**</td><td>**Average**</td><td>**(inches)**</td></tr><tr><td>**January**</td><td>**45.0**</td><td>**18.5**</td><td>**31.7**</td><td>**0.29**</td><td>**4.9**</td><td>\n### JAN </td><td>\n### JAN </td></tr><tr><td>**February**</td><td>**46.5**</td><td>**20.2**</td><td>**33.4**</td><td>**0.32**</td><td>**4.6**</td><td>\n### FEB </td><td>\n### FEB </td></tr><tr><td>**March**</td><td>**54.9**</td><td>**27.3**</td><td>**41.1**</td><td>**0.79**</td><td>**5.7**</td><td>\n### MAR </td><td>\n### MAR </td></tr><tr><td>**April**</td><td>**61.0**</td><td>**34.0**</td><td>**47.5**</td><td>**1.45**</td><td>**5.5**</td><td>\n### APR </td><td>\n### APR </td></tr><tr><td>**May**</td><td>**70.7**</td><td>**43.5**</td><td>**57.1**</td><td>**1.99**</td><td>**0.6**</td><td>\n...\n### MAY </td></tr><tr><td>**June**</td><td>**81.6**</td><td>**52.8**</td><td>**67.2**</td><td>**2.27**</td><td>**0**</td><td>\n...\n### JUN </td></tr><tr><td>**July**</td><td>**86.5**</td><td>**58.2**</td><td>**72.4**</td><td>**3.12**</td><td>**0**</td><td>\n...\n### DEC </td></tr><tr><td>**ANNUAL**</td><td>**64.1**</td><td>**36.8**</td><td> **50.4**</td><td>**15.91**</td><td>**32.5**</td></tr></table>",
+        "date": "2021-05-04",
+        "last_updated": "2026-08-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://forecast.weather.gov/product.php?site=BOX&issuedby=COS&product=CLI&format=CI&version=1&glossary=1",
+        "title": "Glossary On",
+        "domain": "forecast.weather.gov",
+        "snippet": "TEMPERATURE (F) YESTERDAY MAXIMUM 80 1200 PM 98 2002 84 -4 87 MINIMUM 57 552 AM 43 1915 57 0 63 AVERAGE 69 70 -1 75 PRECIPITATION (IN)\nYESTERDAY 0.11 1.48 2008 0.10 0.01 T MONTH TO DATE 0.40 1.76 -1.36 0.02 SINCE JAN 1 6.53 11.99 -5.46 10.36\n...\nTHUNDERSTORM LIGHT RAIN FOG RELATIVE HUMIDITY (PERCENT) HIGHEST 93 400 AM LOWEST 42 1200 PM AVERAGE 68 ..........................................................\nTHE COLORADO SPRINGS CO CLIMATE NORMALS FOR TODAY NORMAL RECORD YEAR MAXIMUM TEMPERATURE (F) 84 95 1962 MINIMUM TEMPERATURE (F) 57 42 1920 SUNRISE AND SUNSET AUGUST 17 2026........",
+        "date": "2026-08-17",
+        "last_updated": "2026-08-17",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. weather forecasts, warnings, observations, and climate information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://forecast.weather.gov/product.php?site=ARX&product=CLI&issuedby=COS",
+        "title": "National Weather Service",
+        "domain": "forecast.weather.gov",
+        "snippet": "TEMPERATURE (F) YESTERDAY MAXIMUM 70 409 PM 84 1996 63 7 68 2012 MINIMUM 33 520 AM 18 2013 36 -3 47 AVERAGE 52 49 3 58 PRECIPITATION (\nIN) YESTERDAY 0.00 2.00 1997 0.06 -0.06 0.02 MONTH TO DATE 0.08 1.08 -1.00 0.31 SINCE JAN 1 2.18 2.48 -0.30\n...\nNO SIGNIFICANT WEATHER WAS OBSERVED.\nRELATIVE HUMIDITY (PERCENT) HIGHEST 53 1100 PM LOWEST 5 400 PM AVERAGE 29 ..........................................................\nTHE COLORADO SPRINGS CO CLIMATE NORMALS FOR TODAY NORMAL RECORD YEAR MAXIMUM TEMPERATURE (F) 63 81 1949 1981 2012 MINIMUM TEMPERATURE (F) 36 20 1907 1924 SUNRISE AND SUNSET APRIL 25 2026.........",
+        "date": "2026-04-25",
+        "last_updated": "2026-04-25",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. weather forecasts, warnings, observations, and climate information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://forecast.weather.gov/zipcity.php?inputstring=Colorado%20springs,CO",
+        "title": "Colorado Springs CO",
+        "domain": "forecast.weather.gov",
+        "snippet": "Mostly Cloudy\n82\u00b0F\n28\u00b0C\n|**Humidity**|37%|",
+        "date": "2026-08-22",
+        "last_updated": "2026-08-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. weather forecasts, warnings, observations, and climate information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/pub/climate2025JuneReviewJulyPreview",
+        "title": "June Weather Review across Southern Colorado",
+        "domain": "www.weather.gov",
+        "snippet": "The preliminary average temperature in Colorado Springs for the past month of June was 66.5 degrees.\nThis is 0.7 degrees below normal but still makes June of 2025 tied as the 37th warmest June on record.\nThis is well behind the warmest June of 2012, when the average June temperature was 73.3 degrees.\nThe June average maximum temperature in Colorado Springs was 80.0 degrees, which is 1.6 degrees below normal.\nThe average June minimum temperature in Colorado Springs was 52.9 degrees, which is 0.1 degrees above normal.\nColorado Springs recorded 3.22 inches of precipitation through the month of June.\nThis is 0.95 inches above normal and makes June of 2025 the 28th wettest on record.\nThis is well below the wettest June of 2023, when 9.62 inches of precipitation was recorded in Colorado Springs.\n(COS POR: 1894-2024)\n...\nThe average temperature for the month of July in Colorado Springs is 72.4 degrees.\nColorado Springs averages 3.12 inches of precipitation through the month of July.",
+        "date": "2025-07-01",
+        "last_updated": "2026-06-12",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/pub/climateCOS2025",
+        "title": "Annual Summary 2025 -- Colorado Springs",
+        "domain": "www.weather.gov",
+        "snippet": "**...THE COLORADO SPRINGS CO CLIMATE SUMMARY FOR THE YEAR OF 2025...\nCLIMATE NORMAL PERIOD 1991 TO 2020\nCLIMATE RECORD PERIOD 1894 TO 2026\nWEATHER OBSERVED NORMAL DEPART\nVALUE DATE(S) VALUE FROM\n...\nTEMPERATURE (F)\n...\nAVG.\nMAXIMUM 65.2 64.1 1.1\nAVG.\nMINIMUM 37.8 36.8 1.0\nMEAN 51.5 50.4 1.1\nDAYS MAX >= 90 22\n...\nPRECIPITATION (INCHES)\nRECORD\nMAXIMUM 27.58 1999\nMINIMUM 6.07 1939\nTOTALS 16.28 15.91 0.37\nDAILY AVG.\n0.05 0.04 0.01\nDAYS >= .01 94\nDAYS >= .10 44\nDAYS >= .50 7\nDAYS >= 1.00 2\nGREATEST",
+        "date": "2026-01-05",
+        "last_updated": "2026-08-13",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://forecast.weather.gov/product.php?site=OKX&issuedby=COS&product=CLI&format=CI&version=48&glossary=0",
+        "title": "Climatological Report (Daily)",
+        "domain": "forecast.weather.gov",
+        "snippet": "TEMPERATURE (F) TODAY MAXIMUM 93 98 1981 87 MINIMUM 66 47 1897 59 1958 AVERAGE 80 PRECIPITATION (IN) TODAY 0.00 1.00 1930 0.12 -0.12 MONTH\nTO DATE 0.17 1.96 -1.79 SINCE JUN 1 0.86 4.23 -3.37 SINCE JAN 1 4.84 9.07 -4.23 SNOWFALL (IN) TODAY MM T 2024 0.0 MONTH TO DATE 0.0 0.0 SINCE JUN 1 T 0.0 SINCE JUL 1 0.0 0.0 DEGREE DAYS HEATING TODAY 0 COOLING TODAY 15 .........................................................",
+        "date": "2026-08-06",
+        "last_updated": "2026-08-06",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. weather forecasts, warnings, observations, and climate information",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "spec": {
+      "query": "Colorado Springs home median year built",
+      "domains": [
+        "censusreporter.org",
+        "census.gov"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://data.census.gov/table/ACSDT1Y2024.B25035",
+        "title": "B25035: Median Year Structure Built - Census Bureau Table",
+        "domain": "data.census.gov",
+        "snippet": "Survey/Program: American Community Survey\nUniverse: Housing units\nYear: 2024\nEstimates: 1-Year\nTable ID: B25035",
+        "last_updated": "2026-08-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://data.census.gov/table/ACSDT5Y2022.B25035",
+        "title": "Explore Census Data",
+        "domain": "data.census.gov",
+        "snippet": "Survey/Program: American Community Survey Universe: Housing units Year: 2022 Estimates: 5-Year Table ID: B25035",
+        "last_updated": "2026-08-07",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://data.census.gov/table/ACSDT5Y2024.B25035?tid=ACSDT5Y2024.B25035",
+        "title": "B25035: Median Year Structure Built - Census Bureau Table",
+        "domain": "data.census.gov",
+        "snippet": "2024\n...\n|median-|The median falls in the lowest interval of an open-ended distribution (for example \"2,500-\")|\n|median+|The median falls in the highest interval of an open-ended distribution (for example \"250,000+\").|",
+        "last_updated": "2026-08-08",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.census.gov/quickfacts/fact/table/coloradospringscitycolorado/PST040224",
+        "title": "U.S. Census Bureau QuickFacts: Colorado Springs city, Colorado",
+        "domain": "www.census.gov",
+        "snippet": "|Median value of owner-occupied housing units, 2019-2023|$420,700|",
+        "date": "2024-07-01",
+        "last_updated": "2024-12-26",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for authoritative U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.census.gov/quickfacts/fact/table/coloradospringscitycolorado/RTN130222",
+        "title": "U.S. Census Bureau QuickFacts: Colorado Springs city, Colorado",
+        "domain": "www.census.gov",
+        "snippet": "|Median value of owner-occupied housing units, 2019-2023|$420,700|",
+        "date": "2024-07-01",
+        "last_updated": "2025-06-07",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for authoritative U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-total-housing-units.html",
+        "title": "National, State, and County Housing Unit Totals: 2020-2025",
+        "domain": "www.census.gov",
+        "snippet": "This page features files containing national, state, and county housing unit totals for years 2020 to 2025.",
+        "date": "2026-05-06",
+        "last_updated": "2026-05-17",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for authoritative U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://data.census.gov/table/ACSDT5Y2023.B25034?g=160XX00US3457300",
+        "title": "B25034: Year Structure Built - Census Bureau Table",
+        "domain": "data.census.gov",
+        "snippet": "|(X)|The estimate or margin of error is not applicable or not available.|\n|median-|The median falls in the lowest interval of an open-ended distribution (for example \"2,500-\")|\n|median+|The median falls in the highest interval of an open-ended distribution (for example \"250,000+\").|\n|**|The margin of error could not be computed because there were an insufficient number of sample observations.|\n|***|The margin of error could not be computed because the median falls in the lowest interval or highest interval of an open-ended distribution.|",
+        "last_updated": "2026-08-15",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://data.census.gov/table/ACSDT5Y2011.B25035",
+        "title": "B25035: MEDIAN YEAR STRUCTURE BUILT - Census Bureau Table",
+        "domain": "data.census.gov",
+        "snippet": "Survey/Program: American Community Survey Universe: Housing units Year: 2011 Estimates: 5-Year Table ID: B25035",
+        "last_updated": "2026-06-07",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for U.S. population, demographic, geographic, housing, and economic statistics",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "spec": {
+      "query": "Colorado Springs neighborhoods official",
+      "domains": [
+        "coloradosprings.gov"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://coloradosprings.gov/document/neighborhoods.pdf",
+        "title": "neighborhoods.pdf - City of Colorado Springs",
+        "domain": "coloradosprings.gov",
+        "snippet": "Developer Neighborhood Meetings\nWestside Community Center\n...\nHomelessness Prevention and Response",
+        "date": "2004-02-01",
+        "last_updated": "2025-10-22",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://coloradosprings.gov/plancos/book/vibrant-neighborhoods-framework",
+        "title": "Vibrant Neighborhoods: Framework",
+        "domain": "coloradosprings.gov",
+        "snippet": "Developer Neighborhood Meetings\nWestside Community Center\n...\nHomelessness Prevention and Response",
+        "date": "2004-02-01",
+        "last_updated": "2025-09-18",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://mayor.coloradosprings.gov/system/files/plancos_ch2_neighborhoods_framework_map.pdf",
+        "title": "[PDF] \u00a7\u00a8\u00a625 \u00a7\u00a8\u00a625 - City of Colorado Springs",
+        "domain": "mayor.coloradosprings.gov",
+        "snippet": "Hancock Expy\n...\nG\na\nte Bl\nv\nd\n\u00dc\nBROADMOOR\nOAKS\nBROADMOOR\nHILLS\nBROADMOOR\nBLUFFS\nQUAIL\nLAKE\nOLD\nBROADMOOR\nUPPER\nSKYWAY\nLOWER\nSKYWAY\nIVYWILD\nSTRATTON\nMEADOWS\nPIKES\nPEAK PARK\nSOUTH\nDEERFIELD\nHILLS\nSOARING\nEAGLES\nSOUTHBOROUGH\nAIRPORT\nGOLD\nHILL MESA\nMIDLAND\nBANNING LEWIS RANCH\n(FUTURE NEIGHBORHOODS)\nGATEWAY\nPARK\nEASTBOROUGH\nVALLEY HI\nEAST\nLAKE\nHILLSIDE\nDOWNTOWN\nRUSTIC\nHILLS\nVILLA LOMA\nSPRINGS\nRANCH\nAUSTIN\nESTATES\nPARK\nHILL\nKNOB\nHILL\nMIDDLE\nSHOOKS\nRUN\nPATTY\nJEWETT\nOLD\nNORTH\nEND\nWESTSIDE\nOLD\nCOLORADO\nCITY\nPALMER\nPARK\nWASSON\nKITTY HAWK/\nBONNYVILLE\nMESA\nCEDAR\nHEIGHTS\nGARDEN OF THE\nGODS/PLEASANT\nVALLEY\nKISSING\nCAMELS\nMOUNTAIN\nSHADOWS\nPEREGRINE\nROCKRIMMON\nPINECLIFF\nHOLLAND\nPARK\nPULPIT\nROCK\nNORTH NEVADA/\nTHE STUDIO\nCRAGMOOR\nVISTA\nGRANDE\nGARDEN\nRANCH\nVILLAGE\nSEVEN\nOLD\nFARM\nBLR\nVILLAGES\nSTETSON HILLS\nRIDGEVIEW\nSUNSET\nMESA\nCOTTONWOOD CREEK\nFALCON ESTATES\nBRIARGATE\nWEST\nBRIARGATE\nFAIRFAX\nCORDERA\nGATEHOUSE\nSUMMERFIELD\nPINE CREEK\nWOLF\nRANCH\nWOODMEN HEIGHTS/\nDUBLIN NORTH\nNORTHGATE\nFLYING\nHORSE\nRANCH\nTHE\nFARM\nKETTLE\nCREEK\nINTERQUEST\nPIKES PEAK \nPARK NORTH\nDIVINE\nREDEEMER\nROSWELL\nMESA\nSPRINGS\nPALMER\nHEIGHTS\nMANITOU SPRINGS\nUS AIR FORCE\nACADEMY\nFORT CARSON\nCIMARRON HILLS\nU\n...\nVibrant Neighborhoods\nFramework\nPredominant Typology\nDowntown\nInterstate 25\nCity Boundary\nNewer Developing Neighborhood\nChanging Neighborhood\nEstablished Historic Neighborhood\nMajor Roads\n0\nMiles\n1\n2\nEstablished Traditional Neighborhood\nEstablished Suburban Neighborhood\nAirport\nFuture Neighborhood",
+        "last_updated": "2025-11-07"
+      },
+      {
+        "url": "https://coloradosprings.gov/neighborhoodplans",
+        "title": "Neighborhood Planning Program | City of Colorado Springs",
+        "domain": "coloradosprings.gov",
+        "snippet": "Developer Neighborhood Meetings\nWestside Community Center\nAccounting\n...\nHomelessness Prevention and Response",
+        "date": "2004-02-01",
+        "last_updated": "2025-12-10",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://coloradosprings.gov/news/city-council-approves-community-led-vision-future-southeast-colorado-springs",
+        "title": "City Council approves community-led vision for the future ...",
+        "domain": "coloradosprings.gov",
+        "snippet": "The Southeast Strong Neighborhood Plan, adopted today by City Council, will help guide investment, development and neighborhood improvements in six southeast neighborhoods for years to come.\nEncompassing the Deerfield Hills, Pikes Peak Park North, Pikes Peak Park South, Soaring Eagles, Southborough and Spring Creek neighborhoods, the new plan helps inform future land use decisions, capital investments, grant opportunities and community partnerships.\n...\nThe Southeast Strong Neighborhood Plan is available at ColoradoSprings.gov/SECommunityPlan.",
+        "date": "2026-07-28",
+        "last_updated": "2026-07-29",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://coloradosprings.gov/police-department/page/your-neighborhood",
+        "title": "Your Neighborhood",
+        "domain": "coloradosprings.gov",
+        "snippet": "Developer Neighborhood Meetings\nWestside Community Center\nAccounting\n...\nHomelessness Prevention and Response",
+        "date": "2022-07-01",
+        "last_updated": "2025-12-05",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://coloradosprings.gov/",
+        "title": "City of Colorado Springs: Home Page",
+        "domain": "coloradosprings.gov",
+        "snippet": "A new, interactive map is available at PPROEM.com/alerts to provide real-time, verified information during emergencies, including incident locations, evacuation areas, and road closures.",
+        "date": "2026-05-13",
+        "last_updated": "2026-05-14",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://coloradosprings.gov/document/2c2masterstreetlist2021-2025.pdf",
+        "title": "2c2_master_street_list_2021-2025.pdf",
+        "domain": "coloradosprings.gov",
+        "snippet": "Developer Neighborhood Meetings\nWestside Community Center\n...\nHomelessness Prevention and Response",
+        "date": "2004-02-01",
+        "last_updated": "2025-09-21",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for Colorado Springs municipal services, laws, departments, and public information",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  },
+  {
+    "spec": {
+      "query": "Colorado Springs snowmelt flooding April",
+      "domains": [
+        "coloradosprings.gov",
+        "weather.gov",
+        "elpasoco.com"
+      ],
+      "limit": 8
+    },
+    "ok": true,
+    "hits": [
+      {
+        "url": "https://www.weather.gov/owp/2026NHA",
+        "title": "Office of Water Prediction",
+        "domain": "www.weather.gov",
+        "snippet": "** **Widespread major flooding is not expected this spring across the Continental U.S. (CONUS), with a normal to below normal flood risk over much of the U.S.\n...\n## Colorado Basin **At this time, spring snowmelt flooding is not expected in the Colorado River Basin.\nGenerally, mid-March is usually too early to determine spring snowmelt flooding potential with any confidence due to snowmelt across the basin, as snowpacks at higher elevations may continue to build through the spring.\nHowever, this year, the well below normal snowpack over the basin will severely limit any snowmelt related flooding.**",
+        "date": "2026-03-19",
+        "last_updated": "2026-07-28",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/media/bou/SpringOutlookwebpagenew.pdf",
+        "title": "* Near average risk of minor snowmelt flooding in the North ...",
+        "domain": "www.weather.gov",
+        "snippet": "* Slightly above average risk of minor snowmelt flooding in the headwaters of the Colorado * Slightly above average risk of minor snowmelt flooding in the headwaters of the Colorado * Slightly above average risk of minor snowmelt flooding in the headwaters of the Colorado \nRiver in north central Colorado.\nAreas prone to flooding in the past may experience issues again River in north central Colorado.\nAreas prone to flooding in the past may experience issues again River in north central Colorado.\nAreas prone to flooding in the past may experience issues again\nthis year.\n...\n* Significant flooding due to mountain snow runoff alone is not likely.\nHowever, it is still early in * Significant flooding due to mountain snow runoff alone is not likely.\nHowever, it is still early in * Significant flooding due to mountain snow runoff alone is not likely.\nHowever, it is still early in\nthe snow accumulation season and conditions could change before the runoff begins.\nthe snow accumulation season and conditions could change before the runoff begins.\nthe snow accumulation season and conditions could change before the runoff begins.\nFlooding from snowmelt typically occurs in May and early June.\nThe flood potential is very dependent on \nweather conditions from now until the melt.\nThe amount of additional snow and rain and the timing of\npeak flows will have a significant effect on whether it floods.\n...\nMountain snowpack does not typically peak \nuntil April so we time to accumulate more snow.",
+        "last_updated": "2025-09-24",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/abq/springsnowmeltrunoff",
+        "title": "New Mexico Spring Runoff",
+        "domain": "www.weather.gov",
+        "snippet": "(updated May 9, 2024)\nThere are no longer any significant areas of concern for snowmelt runoff this spring.\nFlood advisories for the Rio Chama will continue to be monitored for the latest reservoir releases and associated hydrologic response.\nSnow pack is greatly reduced and nonexistent in some areas after a very warm, dry and sunny April resulted in an earlier than usual snowpack reduction.\nHazards to area rivers and streams will likely shift to rain-driven or infrastructure (dam release or breach) flooding concerns only.\n...\nSnowmelt flooding occurs when the major source of water involved in a flood is caused by melting snow.\n...\nAlbuquerque, NM 2341 Clark Carr Loop SE\nAlbuquerque, NM 87106-5633\n(505) 243-0702\nComments?",
+        "date": "2024-05-10",
+        "last_updated": "2026-02-13",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/bou/neco_spring_storm_041815",
+        "title": "NE Colorado Spring Storm Totals - 01815 - National Weather Service",
+        "domain": "www.weather.gov",
+        "snippet": "|3 Day Liquid Precipitation Totals: NOTE: Marker locations are approximate and are not accurate to street level.",
+        "date": "2015-04-21",
+        "last_updated": "2025-12-25",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/pub/SpringRunoff",
+        "title": "Spring Runoff",
+        "domain": "www.weather.gov",
+        "snippet": "Spring snowmelt and runoff has started in south-central Colorado.\nA first wave has passed through the San Luis Valley and more is expected.\nWaters have been rising in the Arkansas basin but that snowmelt usually peaks later in May or even well into June on the main stem of the river.\nThis year\u2019s heavy snowpack is likely to produce higher-than-normal water in lakes and streams across south-central and southeast Colorado.\nWhile these waters are a boon to farmers and communities across the state, they can create hazardous conditions along our streams and rivers.\n...\nStay away from rivers and streams during the snowmelt.\nIf you must be near them, wear a life jacket.\n...\nNational Weather Service\nPueblo, CO\n3 Eaton Way\nPueblo, CO 81001-4856\n(719) 948-9429\nComments?",
+        "date": "2019-05-03",
+        "last_updated": "2026-07-28",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/media/gjt/Research/NWS_WFO_GJT_Abstract_NHWC.pdf",
+        "title": "I don't know what to write\u2026",
+        "domain": "www.weather.gov",
+        "snippet": "By late April, several \nheadwater river basins topped 150 percent of \nnormal snow water equivalent with some \nmainstem river basins averaging over 120% of \nnormal snow water equivalent (Tables 1 and 2).\n...\nThirteen main \nrivers and creeks went above bankfull stage, \nincluding 22 gauge sites.\nThree of the rivers (four \ngauge sites) reached or exceeded flood stage.",
+        "last_updated": "2025-11-25",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/media/gjt/April2023_ClimateSummary.pdf",
+        "title": "April 2023 Climate Summary for Eastern Utah and Western Colorado",
+        "domain": "www.weather.gov",
+        "snippet": "Certainly, to all weary of\nwinter, this felt like a wonderful change of pace, but it also brought increased threats\nof runoff flooding.\nFlows on several rivers began to creep up as lower elevation\nsnowpacks started to melt out.\nAreas along the Yampa and the Dolores, as well as\ntheir tributaries, were the first to feel these effects.\nAnd snow continued to\n...\nAs March transitioned into April, the cooler and stormy pattern finally gave way to a\nmore seasonal and drier one.\nWhile the sunshine and warmer temperatures felt\nwonderful, they did begin to eat away at the above normal snowpack across eastern\nUtah and western Colorado.\nBy mid-month, areas across northwest Colorado and\nsouthwest Colorado began to see increasing river flows and flooding threat.\nThe\nDolores River has been one of the biggest threats, between high natural flows and\nincreased\nreleases\nfrom\nMcPhee\nreservoir\nimpacting\nroads,\nbridges,\nand\ncampgrounds.\n...\nDeparture from Normal \n...\nAs conditions in April began to warm and dry,\nsnow melt began across eastern Utah and\nwestern Colorado.\nDespite that, all basins\nremain with above normal snowpacks.\nThe\nYampa-White-Little\nSnake,\nGunnison,\nand\nSan Miguel-Dolores-Animas-San Juan basins\nare at 150-200% of normal, with the Colorado\nHeadwaters at 120-130% of normal.\nIn eastern\nUtah, the Northeastern Uintas and Duchesne\nbasins are sitting at 185-195% of normal,\nwhile the Southeastern Utah basin is at a\nwhopping 410-420% of normal.",
+        "last_updated": "2025-05-31",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      },
+      {
+        "url": "https://www.weather.gov/pub/blog",
+        "title": "NWS Pueblo Blog",
+        "domain": "www.weather.gov",
+        "snippet": "### NWS Pueblo Student Volunteer Program Now Accepting Applications for Summer 2024!",
+        "date": "2016-07-08",
+        "last_updated": "2026-05-15",
+        "trust": {
+          "level": 3,
+          "name": "trusted",
+          "description": "is a government source for official U.S. weather forecasts, warnings, observations, and safety information",
+          "type_of_trust": "government"
+        }
+      }
+    ]
+  }
+]

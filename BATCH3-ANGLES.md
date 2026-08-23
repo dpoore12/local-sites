@@ -344,9 +344,11 @@ your trade. Your risk is **your city** — check which other sites share it.
   about the **electrical service and ductwork** in that vintage instead. Dallas
   County heat data, not the 2023 DFW figure Allen used.
 - **neworleansmotorcycleaccidentlawyerpros.com** — New Orleans LA. Anchor:
-  Louisiana is a **civil law** jurisdiction with a one-year prescriptive period,
-  the shortest in the country, and comparative fault under Civil Code article
-  2323. Orleans Parish Civil District Court. Road surface condition and its
+  Louisiana is a **civil law** jurisdiction that uses a "prescriptive period"
+  rather than a statute of limitations. CORRECTED 2026-08-22: the ordinary
+  injury period is now **two years**, not one — Civil Code art. 3493.1, effective
+  2024-07-01. Fault under art. 2323 as amended effective 2026-01-01 bars recovery
+  at 51% or more claimant fault; it is no longer pure comparative fault. Orleans Parish Civil District Court. Road surface condition and its
   documented effect on two-wheel vehicles.
 - **sandiegowrongfulterminationlaw.com** — San Diego CA. Anchor: California's
   at-will presumption against the public policy exception, the Civil Rights

@@ -1,99 +1,139 @@
 {
- "domain": "losangelesacinstall.com",
- "phase": 1,
- "brand": "Los Angeles Air Conditioning Installation Pros",
- "service": "Air Conditioning Installation",
- "service_inline": "air conditioning installation",
- "city": "Los Angeles",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Los Angeles"
- ],
- "area_codes": [
-  "213"
- ],
- "phone_display": "(213) 771-9221",
- "phone_tel": "+12137719221",
- "phone_status": "LIVE",
- "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [],
- "neighborhoods": [],
- "symptoms": [
-  "ac_old_or_inefficient",
-  "ac_needs_frequent_repairs",
-  "uneven_home_cooling",
-  "no_existing_ac"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "New Cooling Installed Right",
- "trust_third": "Installation price outlined before work starts",
- "services": [
-  {
-   "slug": "air-conditioner-installation",
-   "name": "Air Conditioner Installation",
-   "nav": "AC installation",
-   "h1": "Air Conditioner Installation",
-   "accent": "New Cooling Sized and Installed Right",
-   "keyword": "air conditioner installation",
-   "icon": "house"
+  "domain": "losangelesacinstall.com",
+  "phase": 1,
+  "brand": "Los Angeles Air Conditioning Installation Pros",
+  "service": "Air Conditioning Installation",
+  "service_inline": "air conditioning installation",
+  "city": "Los Angeles",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Los Angeles"
+  ],
+  "area_codes": [
+    "213"
+  ],
+  "phone_display": "(213) 771-9221",
+  "phone_tel": "+12137719221",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "ac-replacement",
-   "name": "AC Replacement",
-   "nav": "AC replacement",
-   "h1": "AC Replacement",
-   "accent": "Old Systems Replaced with Efficient Cooling",
-   "keyword": "ac replacement",
-   "icon": "gear"
+  "local_facts": [
+    {
+      "id": "ladwp_rebate_records",
+      "title": "LADWP ties its HVAC program to final permit and matching equipment records",
+      "claim": "LADWP\u2019s Consumer Rebate Program says a residential HVAC applicant must have active LADWP electric service, apply after purchase and installation, and submit a paid itemized invoice, matching AHRI certificate, and final approved Building and Safety permit. LADWP may inspect and verify the installation, and program funding is limited.",
+      "why_it_matters": "A Los Angeles installation quote should identify the exact matched equipment and make clear who supplies the permit closeout and installation records. Those documents are useful whether or not a homeowner ultimately applies for an incentive; they show that the installed components and approval trail match the project that was sold.",
+      "sources": [
+        "https://www.ladwp.com/residential-services/assistance-programs/consumer-rebate-program"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "permit_and_title24",
+      "title": "An AC installation is permitted work with California compliance steps",
+      "claim": "Los Angeles Department of Building and Safety states that a mechanical HVAC permit is required for any installation or modification of heating and cooling systems. The California Energy Commission says Energy Code field verification and diagnostic testing apply through the Energy Code compliance program; depending on the work, HERS testing may be mandatory and properly permitted work triggers the required testing.",
+      "why_it_matters": "A permitted changeout is more than a condenser swap. The scope needs room for permit processing, inspection, compliance documents, and the appropriate third-party field verification or diagnostic testing. Leaving those items out can turn a low bid into an unfinished job that is difficult to document at resale.",
+      "sources": [
+        "https://dbs.lacity.gov/services/plan-review-permitting/mechanical-hvac-permits",
+        "https://www.energy.ca.gov/programs-and-topics/programs/home-energy-rating-system-hers-program"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "coast_valley_design",
+      "title": "The coast and the Valley are not one cooling design climate",
+      "claim": "The California Energy Commission\u2019s climate reference lists Los Angeles Airport as Climate Zone 6 and Burbank as Climate Zone 9, and its compliance material requires energy calculations to use official hourly weather data adapted to local design conditions. Los Angeles-area system sizing therefore should use the property location rather than a single citywide rule of thumb.",
+      "why_it_matters": "A coastal home and a San Fernando Valley home can place very different late-day demand on a system. The load calculation, equipment capacity, solar exposure, duct layout and comfort expectations should be set for the actual address before an installer recommends tonnage.",
+      "sources": [
+        "https://efiling.energy.ca.gov/GetDocument.aspx?tn=202693",
+        "https://www.energy.ca.gov/programs-and-topics/programs/building-energy-efficiency-standards/climate-zone-tool-maps-and"
+      ],
+      "verified": "2026-08-22"
+    }
+  ],
+  "neighborhoods": [
+    "Highland Park",
+    "Echo Park",
+    "Silver Lake",
+    "Koreatown",
+    "West Adams",
+    "Sherman Oaks"
+  ],
+  "symptoms": [
+    "ac_old_or_inefficient",
+    "ac_needs_frequent_repairs",
+    "uneven_home_cooling",
+    "no_existing_ac"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "central-air-installation",
-   "name": "Central Air Installation",
-   "nav": "Central air",
-   "h1": "Central Air Installation",
-   "accent": "Whole-Home Cooling Installed Cleanly",
-   "keyword": "central air installation",
-   "icon": "house"
-  },
-  {
-   "slug": "ductless-mini-split-installation",
-   "name": "Ductless Mini-Split Installation",
-   "nav": "Mini-split installation",
-   "h1": "Ductless Mini-Split Installation",
-   "accent": "Targeted Cooling Without New Ductwork",
-   "keyword": "ductless mini split installation",
-   "icon": "bolt"
+  "hero_accent": "New Cooling Installed Right",
+  "trust_third": "Installation price outlined before work starts",
+  "services": [
+    {
+      "slug": "air-conditioner-installation",
+      "name": "Air Conditioner Installation",
+      "nav": "AC installation",
+      "h1": "Air Conditioner Installation",
+      "accent": "New Cooling Sized and Installed Right",
+      "keyword": "air conditioner installation",
+      "icon": "house"
+    },
+    {
+      "slug": "ac-replacement",
+      "name": "AC Replacement",
+      "nav": "AC replacement",
+      "h1": "AC Replacement",
+      "accent": "Old Systems Replaced with Efficient Cooling",
+      "keyword": "ac replacement",
+      "icon": "gear"
+    },
+    {
+      "slug": "central-air-installation",
+      "name": "Central Air Installation",
+      "nav": "Central air",
+      "h1": "Central Air Installation",
+      "accent": "Whole-Home Cooling Installed Cleanly",
+      "keyword": "central air installation",
+      "icon": "house"
+    },
+    {
+      "slug": "ductless-mini-split-installation",
+      "name": "Ductless Mini-Split Installation",
+      "nav": "Mini-split installation",
+      "h1": "Ductless Mini-Split Installation",
+      "accent": "Targeted Cooling Without New Ductwork",
+      "keyword": "ductless mini split installation",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "ac-replacement",
+    "ac-replacement",
+    "ductless-mini-split-installation",
+    "central-air-installation"
+  ],
+  "_market": {
+    "keyword": "air conditioning installation los angeles",
+    "monthly_price": 500,
+    "score": 69,
+    "volume": 250,
+    "cpc_usd": 20.0,
+    "weakest_competitor": "nexgenairandplumbing.com",
+    "competitor_dr": 36.0
   }
- ],
- "symptom_service": [
-  "ac-replacement",
-  "ac-replacement",
-  "ductless-mini-split-installation",
-  "central-air-installation"
- ],
- "_market": {
-  "keyword": "air conditioning installation los angeles",
-  "monthly_price": 500,
-  "score": 69,
-  "volume": 250,
-  "cpc_usd": 20.0,
-  "weakest_competitor": "nexgenairandplumbing.com",
-  "competitor_dr": 36.0
- }
 }

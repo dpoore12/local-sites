@@ -29,8 +29,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "i10_bridge_preservation",
+   "claim": "Caltrans scheduled bridge-preservation work on eastbound I-10 in West Covina between Pacific Avenue/West Covina Parkway and Sunset Avenue, with recurring weekend ramp and lane closures continuing through fall 2026.",
+   "why_it_matters": "A freeway crash file should identify the travel direction, nearest ramp, lane, time, and any work-zone or detour condition. \u201cI-10 in West Covina\u201d is too broad to reconstruct the traffic setup or locate the right records.",
+   "sources": [
+    "https://dot.ca.gov/caltrans-near-me/district-7/district-7-news/d7-55hr-extended-lane-closure-eb-i10-westcovina-bridge-preservation"
+   ],
+   "verified": "2026-08-22",
+   "title": "The I-10 scene may include ramp and work-zone conditions"
+  },
+  {
+   "id": "local_collision_patterns",
+   "claim": "West Covina\u2019s 2022 Local Roadway Safety Plan, using 2017\u20132021 collision data, lists unsafe speed as the leading recorded cause at 24.4%, followed by improper turning at 19.5%; 34% of collisions occurred at night or during dusk or dawn.",
+   "why_it_matters": "Those are citywide patterns, not proof in one case. They show why the exact movement, signal or ramp, lighting, traffic conditions, and source of speed evidence should be documented rather than assumed.",
+   "sources": [
+    "https://records.westcovina.org/WebLink/DocView.aspx?id=68598&dbid=0&repo=WestCovina"
+   ],
+   "verified": "2026-08-22",
+   "title": "The location, lighting, and movement deserve to be recorded precisely"
+  },
+  {
+   "id": "east_district_civil_path",
+   "claim": "Los Angeles Superior Court lists West Covina as an East District court location and notes that Pomona civil cases were reassigned to the West Covina Courthouse on June 1, 2012. The Court also cautions that an address\u2019s district does not necessarily determine where a case is or must be assigned.",
+   "why_it_matters": "A West Covina injury case should not be assumed to belong in the downtown courthouse merely because it is in Los Angeles County. Case type, local rules, and the facts govern the civil filing path.",
+   "sources": [
+    "https://www.lacourt.org/division/civil/pdf/civilcasenumbermatrix.pdf",
+    "https://www.lacourt.org/page/FL0105"
+   ],
+   "verified": "2026-08-22",
+   "title": "Los Angeles County civil filing has a local East District path"
+  }
+ ],
+ "neighborhoods": [
+  "South Hills",
+  "Woodside Village",
+  "Eastland",
+  "Azusa-Cameron",
+  "Cortez Park",
+  "Westside West Covina"
+ ],
  "symptoms": [
   "rear_end_collision_injury",
   "hit_and_run_crash",

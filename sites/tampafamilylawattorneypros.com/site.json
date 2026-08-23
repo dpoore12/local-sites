@@ -29,8 +29,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "alimony_2023",
+   "claim": "For Florida dissolution and support cases pending or filed on or after July 1, 2023, section 61.08 lists temporary, bridge-the-gap, rehabilitative, and durational alimony; permanent alimony is no longer listed. The statute classifies marriages as short-term (under 10 years), moderate-term (10 to 20 years), or long-term (20 years or more), and sets presumptive durational limits of 50%, 60%, and 75% of the marriage length respectively.",
+   "why_it_matters": "A Tampa resident who remembers the former permanent-alimony framework may be working from outdated assumptions. Support analysis now starts with actual need and ability to pay, then applies the current statutory form and duration rules to the particular evidence.",
+   "sources": [
+    "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/Sections/0061.08.html"
+   ],
+   "verified": "2026-08-22",
+   "title": "Florida's current alimony framework is different from the one many people remember"
+  },
+  {
+   "id": "waiting_and_disclosure",
+   "claim": "Florida generally bars entry of a final dissolution judgment until 20 days after the original petition is filed, unless delay would cause injustice. In most original and supplemental family cases, mandatory disclosure is served within 45 days after service of the initial or supplemental petition on the respondent and includes a financial affidavit plus listed financial records.",
+   "why_it_matters": "The 20-day rule is only a minimum, while disclosure can require tax, income, account, debt, property, retirement, and insurance records. Missing information can slow an agreement or make a proposed support or property term difficult to evaluate.",
+   "sources": [
+    "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/Sections/0061.19.html",
+    "https://www.flcourts.gov/content/download/685889/7661881"
+   ],
+   "verified": "2026-08-22",
+   "title": "Florida's minimum waiting period does not replace financial disclosure"
+  },
+  {
+   "id": "thirteenth_circuit_minor_children",
+   "claim": "The Thirteenth Judicial Circuit's standing temporary order for Hillsborough County family-law cases with minor children requires both parents to complete an approved parent-education course within 60 days after filing. Without both certificates in the court file, the court may not sign a final judgment; the order also requires mediation before temporary-relief and final hearings can be scheduled.",
+   "why_it_matters": "A Tampa case involving children has local steps in addition to statewide family-law statutes and forms. The standing order should be read with the petition, notices, and any division-specific directions rather than treated as background paperwork.",
+   "sources": [
+    "https://www.fljud13.org/Portals/0/Forms/pdfs/family/StandingTempOrderWithMinorKidsOrd.pdf",
+    "https://www.fljud13.org/AdministrativeOrders/FamilyLaw.aspx"
+   ],
+   "verified": "2026-08-22",
+   "title": "Hillsborough minor-child cases have a local parent-education and mediation path"
+  }
+ ],
+ "neighborhoods": [
+  "Hyde Park",
+  "Seminole Heights",
+  "Ybor City",
+  "Davis Islands",
+  "Palma Ceia",
+  "Tampa Heights"
+ ],
  "symptoms": [
   "child_custody_dispute",
   "support_payment_change",

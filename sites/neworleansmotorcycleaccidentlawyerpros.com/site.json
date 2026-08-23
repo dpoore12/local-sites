@@ -30,8 +30,49 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "current_prescription",
+   "claim": "Louisiana Civil Code article 3493.1 now gives delictual actions a two-year liberative prescription beginning the day injury or damage is sustained. Acts 2024, No. 423 made the current rule effective July 1, 2024; the former one-year rule is not the current period for a new ordinary injury claim.",
+   "why_it_matters": "Louisiana uses the civil-law term prescription rather than statute of limitations. A rider who acts on an old one-year warning may make rushed decisions, while a rider who merely assumes a carrier will keep the file open can still lose a two-year claim. The crash date and any special notice rules need to be identified early.",
+   "sources": [
+    "https://www.legis.la.gov/legis/Law.aspx?d=1386443"
+   ],
+   "verified": "2026-08-22",
+   "title": "Louisiana's current ordinary injury period is two years"
+  },
+  {
+   "id": "current_fault_and_venue",
+   "claim": "Under the current version of Civil Code article 2323, effective January 1, 2026, a claimant assigned less than 51% fault has damages reduced proportionally; a claimant assigned 51% or more cannot recover damages. Orleans Parish Civil District Court is located at 421 Loyola Avenue in New Orleans.",
+   "why_it_matters": "The old description of Louisiana as a pure comparative-fault state is outdated. In a motorcycle claim, evidence about each person's movement and the rider's available path can directly affect recovery. A qualifying Orleans Parish civil case is handled in Civil District Court, though venue depends on the specific facts and parties.",
+   "sources": [
+    "https://www.legis.la.gov/legis/law.aspx?d=109387",
+    "https://www.orleanscivildistrictcourt.org/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Current fault rule and Orleans Parish civil venue"
+  },
+  {
+   "id": "subsidence_and_roadway_hazards",
+   "claim": "The City says subsidence occurs throughout the New Orleans planning area and has caused extensive road and drainage-system damage. Its citywide pavement assessment reported roughly 65% of streets in poor-or-worse condition; New Orleans also operates streetcar tracks that require particular attention around crossings.",
+   "why_it_matters": "A motorcycle claim may turn on the rider's escape path as well as the other driver's movement. Broken pavement, drainage features, and streetcar rails should be photographed in context before weather, traffic, or repairs change the scene. A bad street alone does not decide liability, but it can be important evidence.",
+   "sources": [
+    "https://ready.nola.gov/hazard-mitigation/hazards/subsidence/",
+    "https://ose.nola.gov/about/",
+    "https://www.norta.com/ride-with-us/know-before-you-go/safety-and-security/stay-safe-around-tracks-and-trains"
+   ],
+   "verified": "2026-08-22",
+   "title": "Subsidence, pavement failure, and tracks are real scene evidence"
+  }
+ ],
+ "neighborhoods": [
+  "Mid-City",
+  "Bywater",
+  "Marigny",
+  "Gentilly",
+  "Algiers Point",
+  "Lakeview"
+ ],
  "symptoms": [
   "driver_turned_into_motorcycle",
   "driver_changed_lanes",

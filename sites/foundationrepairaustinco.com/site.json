@@ -32,8 +32,48 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "balcones_geology",
+   "claim": "The USGS description of the Austin quadrangle divides the area into a higher western district of the Edwards Plateau and a lower eastern district at the Coastal Plain margin. The Balcones escarpment runs through the Austin area as a major topographic and structural boundary.",
+   "why_it_matters": "A house west of the divide can encounter shallow limestone while an east-side lot may have a very different soil profile. An Austin foundation assessment has to follow the actual lot and structure rather than applying one repair method across the city.",
+   "sources": [
+    "https://pubs.usgs.gov/gf/076/text.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "The Balcones boundary makes Austin ground change fast"
+  },
+  {
+   "id": "austin_clays",
+   "claim": "A City of Austin geologic appendix says the Taylor Group in the Austin area weathers to calcareous, montmorillonitic clay and marly clay generally referred to as Taylor Clay. The USDA's Houston Black series description identifies a Travis County type location and classifies the soil as smectitic clay.",
+   "why_it_matters": "Taylor Clay and Houston Black soil are not generic dirt conditions. Their clay mineralogy and moisture response make it important to measure the structure and understand the site before selecting stabilization work.",
+   "sources": [
+    "https://www.austintexas.gov/sites/default/files/files/Appendices%20C.pdf",
+    "https://soilseries.sc.egov.usda.gov/OSD_Docs/H/HOUSTON_BLACK.html"
+   ],
+   "verified": "2026-08-22",
+   "title": "East Austin-area clay has a named geologic story"
+  },
+  {
+   "id": "drought_moisture_swings",
+   "claim": "A City of Austin rainfall study records 19.68 inches at Camp Mabry in 2011. The city's 2022 Watershed Protection annual report also records 2.96 inches of rain in one hour at Camp Mabry after 51 days with no measurable rainfall.",
+   "why_it_matters": "Long dry periods followed by abrupt rainfall can change moisture conditions around a clay-supported foundation. The useful response is to document structural changes over time and diagnose the house itself, not to assume every symptom has the same cause.",
+   "sources": [
+    "https://services.austintexas.gov/edims/document.cfm?id=297205",
+    "https://www.austintexas.gov/sites/default/files/files/Watershed/2022WPD-AnnualReport_OFFICIAL_v2_interactive.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Austin records sharp dry-to-wet moisture swings"
+  }
+ ],
+ "neighborhoods": [
+  "Tarrytown",
+  "Hyde Park",
+  "Mueller",
+  "East Cesar Chavez",
+  "Circle C Ranch",
+  "Onion Creek"
+ ],
  "symptoms": [
   "foundation_cracks",
   "sloping_floors",

@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "offutt_capehart_housing_vintage",
+   "claim": "Bellevue Public Schools records that on May 20, 1959, it and the Secretary of the Air Force entered a lease for a school within the Offutt Family Housing Annex known as Capehart Housing; the first of three elementary schools there was dedicated in 1961.",
+   "why_it_matters": "Base-adjacent Bellevue housing spans a long period, so a bathroom scope should be based on the room in front of the remodeler. Compact layouts, limited wall depth, layered finishes, tight access, and earlier updates need to be measured before fixtures and tile are selected.",
+   "sources": [
+    "https://ne50000580.schoolwires.net/domain/288"
+   ],
+   "verified": "2026-08-22",
+   "title": "Base-adjacent housing has a distinct mid-century chapter"
+  },
+  {
+   "id": "missouri_river_flood_2019",
+   "claim": "During the March 2019 Missouri River flood, water began reaching Offutt Air Force Base on March 15; two days later the Air Force reported water affecting roughly 30 base buildings and stated that personnel were battling historic flood conditions.",
+   "why_it_matters": "For basement bathrooms and lower-level finish work, the 2019 event makes it sensible to inspect for moisture evidence, prior repairs, and suitable substrate before new flooring, wall finishes, or a shower assembly conceal the space. It does not mean assuming every lower level has damage.",
+   "sources": [
+    "https://www.offutt.af.mil/News/Article/1787242/team-offutt-battling-flood-waters/",
+    "https://www.bellevue.net/information/flood-information"
+   ],
+   "verified": "2026-08-22",
+   "title": "The 2019 flood is relevant to lower-level bathroom planning"
+  },
+  {
+   "id": "bellevue_permits_inspections",
+   "claim": "Bellevue\u2019s Permits and Inspection Division says regulated construction, alteration, repair, improvement, or conversion requires a permit unless exempted, and separate plumbing, mechanical, and electrical permits are required unless exempt. It also says replacement plumbing material or rearrangement of pipes or fixtures is new work for which permits and inspections are required.",
+   "why_it_matters": "A bathroom project that changes drains, supply lines, fixtures, ventilation, walls, or electrical work needs its permit-sensitive scope identified before demolition. Those review and inspection points belong in the construction sequence before new walls, tile, or flooring conceal the work.",
+   "sources": [
+    "https://www.bellevue.net/332/Building-Permits"
+   ],
+   "verified": "2026-08-22",
+   "title": "Behind-the-wall bathroom changes must be planned around City requirements"
+  }
+ ],
+ "neighborhoods": [
+  "Olde Towne",
+  "Twin Ridge",
+  "Golden Hills",
+  "Twin Creek",
+  "Tregaron",
+  "Fontenelle Hills"
+ ],
  "symptoms": [
   "outdated_bathroom",
   "damaged_shower",

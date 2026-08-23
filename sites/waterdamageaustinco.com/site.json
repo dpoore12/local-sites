@@ -32,8 +32,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "floodpro_mapping",
+   "claim": "Austin Watershed Protection's FloodPro shows floodplain maps, storm-drain systems, models, and elevation certificates; the city says about 10% of Austin land lies in floodplain.",
+   "why_it_matters": "A restoration visit must separate outdoor flooding and drainage exposure from an internal plumbing failure, then document the source and affected areas before drying decisions are made.",
+   "sources": [
+    "https://www.austintexas.gov/services/view-floodplain-maps-and-storm-drain-infrastructure",
+    "https://www.austintexas.gov/watershed-protection/atx-flood-safety"
+   ],
+   "verified": "2026-08-22",
+   "title": "Floodplain and storm-drain information is address-specific"
+  },
+  {
+   "id": "halloween_flood_2013",
+   "claim": "During Austin's October 31, 2013 Halloween Flood, Onion Creek at US 183 reached a record 41 feet and rose 11 feet in 15 minutes; 659 homes in the Onion Creek neighborhood were damaged.",
+   "why_it_matters": "Flash-flood water can arrive and spread fast, so outdoor water is treated as potentially contaminated and removal, cleaning, containment, and drying begin as soon as access is safe.",
+   "sources": [
+    "https://data.austintexas.gov/stories/s/2013-Halloween-Flood/fr92-dkxr/"
+   ],
+   "verified": "2026-08-22",
+   "title": "Onion Creek rose 11 feet in 15 minutes in 2013"
+  },
+  {
+   "id": "creek_floodplain_exposure",
+   "claim": "Austin Watershed Protection reports more than 9,000 buildings in the city's 100-year floodplain and more than 300 bridges subject to flooding.",
+   "why_it_matters": "Creek and floodplain exposure is a local reality. A clear record of where water entered helps distinguish flood damage from a burst pipe and guides safe restoration scope.",
+   "sources": [
+    "https://www.austintexas.gov/watershed-protection/projects/creek-flooding"
+   ],
+   "verified": "2026-08-22",
+   "title": "Creek-flood exposure is part of Austin restoration planning"
+  }
+ ],
+ "neighborhoods": [
+  "Zilker",
+  "Mueller",
+  "Hyde Park",
+  "Allandale",
+  "East Cesar Chavez",
+  "Onion Creek"
+ ],
  "symptoms": [
   "standing_water",
   "flooded_basement",

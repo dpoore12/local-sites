@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "at_will_rule",
+   "claim": "California Labor Code section 2922 provides that employment with no specified term may be terminated at the will of either party on notice to the other.",
+   "why_it_matters": "At-will is the starting rule, not the end of the analysis. A firing becomes a potential wrongful-termination claim when it was motivated by a reason the law prohibits, such as discrimination, retaliation, protected reporting, refusal to break the law, or an enforceable employment protection.",
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=3.&title=&part=&chapter=2.&article=4."
+   ],
+   "verified": "2026-08-22",
+   "title": "California starts with at-will employment"
+  },
+  {
+   "id": "crd_deadline",
+   "claim": "California's Civil Rights Department says that, in general, an employment discrimination complaint must be filed within three years from the date an alleged discriminatory act occurred, and that a CRD complaint is required even if the person wishes to go directly to court.",
+   "why_it_matters": "The administrative filing is a real clock. An employee can request an immediate right-to-sue notice at the time of filing, but waiting to decide whether to sue can risk the CRD deadline.",
+   "sources": [
+    "https://calcivilrights.ca.gov/employment/"
+   ],
+   "verified": "2026-08-22",
+   "title": "The CRD employment filing clock is generally three years"
+  },
+  {
+   "id": "hall_of_justice",
+   "claim": "San Diego County Superior Court's Hall of Justice at 330 West Broadway houses the Civil Independent Calendar courtrooms and Civil Business Office.",
+   "why_it_matters": "A CRD filing and a court case are different stages. When a civil employment dispute proceeds in local Superior Court, filings, discovery, service, and court-specific deadlines become part of the work.",
+   "sources": [
+    "https://www.sdcourt.ca.gov/sdcourt/generalinformation/courtlocations/hallofjustice%20courthouse"
+   ],
+   "verified": "2026-08-22",
+   "title": "San Diego civil court has a central downtown venue"
+  }
+ ],
+ "neighborhoods": [
+  "Downtown",
+  "Hillcrest",
+  "North Park",
+  "Mira Mesa",
+  "Kearny Mesa",
+  "La Jolla"
+ ],
  "symptoms": [
   "fired_after_complaint",
   "retaliation_after_reporting",

@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "personal_representative",
+   "title": "One representative brings the action",
+   "claim": "Florida Statute section 768.20 requires the decedent’s personal representative to bring the wrongful death action for the benefit of the survivors and estate. Section 768.18 defines survivors as a spouse, children, parents, and, when partly or wholly dependent on the decedent for support or services, certain blood relatives and adopted siblings.",
+   "why_it_matters": "A Jacksonville family does not each file a separate wrongful death lawsuit. Identifying the estate representative and all possible statutory survivors comes before assumptions about who can sign, settle, or speak for the claim.",
+   "sources": [
+    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.20.html",
+    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.18.html"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "two_year_deadline",
+   "title": "Florida’s ordinary filing deadline",
+   "claim": "Florida Statute section 95.11(5)(e) places an action for wrongful death in the two-year limitations period. The statute also contains a separate provision for certain intentional torts resulting in death.",
+   "why_it_matters": "The death date needs to be preserved early. The ordinary two-year period is important, but related claims and the facts of a particular death can require a more specific legal review.",
+   "sources": [
+    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.11.html"
+   ],
+   "verified": "2026-08-22"
+  },
+  {
+   "id": "fourth_judicial_circuit",
+   "title": "Duval County’s circuit court",
+   "claim": "Duval County is served by Florida’s Fourth Judicial Circuit. The circuit lists the Duval County Courthouse at 501 West Adams Street in Jacksonville and serves Clay, Duval, and Nassau Counties.",
+   "why_it_matters": "A Jacksonville family may encounter probate and civil court questions in the Fourth Judicial Circuit. The court location is useful local context, while the proper venue for a particular action depends on its facts.",
+   "sources": [
+    "https://www.jud4.org/news/2021-03-30-welcome-to-the-official-website-of-the-4th-judicial-circuit-court"
+   ],
+   "verified": "2026-08-22"
+  }
+ ],
+ "neighborhoods": [
+  "Riverside",
+  "Avondale",
+  "San Marco",
+  "Springfield",
+  "Mandarin",
+  "Arlington"
+ ],
  "symptoms": [
   "fatal_car_crash",
   "fatal_workplace_accident",

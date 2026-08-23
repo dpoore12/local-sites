@@ -30,8 +30,47 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+    "id": "newer_housing_and_growth",
+    "claim": "Parker's median year structure built is 2003, and the Census Bureau estimates the town grew from 58,495 residents at the 2020 estimates base to 65,473 in July 2024, an 11.9% increase.",
+    "why_it_matters": "Parker has a large concentration of newer sectional doors and original builder-installed openers, springs, rollers and sensor hardware. Similar installation eras can produce similar wear patterns, but every spring and opener part still has to be measured and tested on site rather than guessed from the neighborhood.",
+    "sources": [
+      "https://www.point2homes.com/US/Neighborhood/CO/Parker-Demographics.html",
+      "https://www.census.gov/quickfacts/fact/table/parkertowncolorado/PST045223"
+    ],
+    "verified": "2026-08-22",
+    "title": "A fast-growing town with a newer garage-door base"
+  },
+  {
+    "id": "door_replacement_permit",
+    "claim": "The Town of Parker states that permits are required for all window and door replacements, and processes applications online through eTRAKiT.",
+    "why_it_matters": "Replacing a spring, cable, roller, sensor or opener component is repair work on an existing system. A full door replacement is an exterior-door project that should include the Town's permit process before a door is ordered; changes to framing or electrical equipment may create additional review needs.",
+    "sources": [
+      "https://www.parkerco.gov/451/When-Permits-are-Required"
+    ],
+    "verified": "2026-08-22",
+    "title": "A new garage door belongs in Parker's permit timeline"
+  },
+  {
+    "id": "hoa_improvement_review",
+    "claim": "The Town of Parker's HOA resource page says an HOA may require a homeowner to provide a plan showing proposed improvements to the property.",
+    "why_it_matters": "An identical repair may be simple, while a full replacement with different windows, color or panel profile can be an exterior change that needs association review. Checking the governing documents while the door is being measured avoids ordering a style that has not been approved.",
+    "sources": [
+      "https://www.parkerco.gov/2361/HOA-Resources"
+    ],
+    "verified": "2026-08-22",
+    "title": "Exterior changes can carry an association review step"
+  }
+],
+ "neighborhoods": [
+  "Anthology",
+  "Canterberry Crossing",
+  "Clarke Farms",
+  "Cottonwood",
+  "The Pinery",
+  "Stonegate"
+],
  "symptoms": [
   "broken_torsion_spring",
   "door_reverses_before_closing",

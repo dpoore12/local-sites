@@ -29,8 +29,46 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "pressure_regulator",
+   "claim": "City of San Diego Public Utilities says water pressure varies by location and demand. Under the California Plumbing Code, a property needs a water-pressure regulator when local pressure exceeds 80 psi, and the regulator is the property owner's responsibility.",
+   "why_it_matters": "San Diego's mesas, canyons, and pressure zones mean a reading from another address is not enough. A leak investigation checks static and flowing pressure at the property and tests the regulator before treating weak, surging, or excessive pressure as evidence of a failed buried line.",
+   "sources": [
+    "https://www.sandiego.gov/public-utilities/customer-support/meter-water-pressure-plumbing-system"
+   ],
+   "verified": "2026-08-22",
+   "title": "Pressure is local, and the regulator is part of the diagnosis"
+  },
+  {
+   "id": "older_sewer_laterals",
+   "claim": "The City of San Diego says older private sewer laterals of concrete, clay, or cast iron can develop root intrusion or deteriorated sections, and that the property owner is generally responsible for maintenance of the lateral to the City sewer main.",
+   "why_it_matters": "Damp ground, odor, or a drainage problem does not automatically indicate a pressurized water leak. When the evidence points to an older sewer lateral, the investigation may need a cleanout or camera inspection instead of water-line pressure testing.",
+   "sources": [
+    "https://www.sandiego.gov/sites/default/files/legacy/mwwd/pdf/sewerlateral.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "An older lateral can be a separate drainage investigation"
+  },
+  {
+   "id": "marine_corrosion",
+   "claim": "The City's Water Facility Design Guidelines state that much of San Diego is exposed to a marine environment, where airborne salts and wet-dry cycling in chlorides can create significant corrosion activity on exposed metal surfaces.",
+   "why_it_matters": "At coastal and near-coastal properties, exposed fittings, valves, clamps, backflow assemblies, and pool or irrigation equipment deserve a close visual inspection before a hidden line is blamed or a deck is opened.",
+   "sources": [
+    "https://www.sandiego.gov/sites/default/files/water-facility-design-guidelines-2021.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Salt air makes exposed equipment worth checking first"
+  }
+ ],
+ "neighborhoods": [
+  "La Jolla",
+  "Pacific Beach",
+  "North Park",
+  "Mira Mesa",
+  "University City",
+  "Kensington-Talmadge"
+ ],
  "symptoms": [
   "high_water_bill",
   "wet_spot_on_floor",

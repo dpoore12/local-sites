@@ -35,8 +35,49 @@
   "family_owned": null,
   "veteran_owned": null
  },
- "local_facts": [],
- "neighborhoods": [],
+ "local_facts": [
+  {
+   "id": "medical_costs_split",
+   "claim": "New York Agriculture and Markets Law §123(10) makes the owner or lawful custodian of a dangerous dog strictly liable for medical costs resulting from an injury caused by that dog.",
+   "why_it_matters": "That medical-cost rule is narrower than many people expect. A claim for pain, lost income or other damages still commonly depends on proof that the owner knew or should have known the dog had dangerous or vicious tendencies, so the file must preserve both treatment evidence and proof of prior behavior.",
+   "sources": [
+    "https://www.nysenate.gov/legislation/laws/AGM/123",
+    "https://www.nycourts.gov/courts/AD2/Handdowns/2024/Decisions/D74332.pdf"
+   ],
+   "verified": "2026-08-22",
+   "title": "Medical costs and the rest of the claim are not the same question"
+  },
+  {
+   "id": "health_reporting",
+   "claim": "NYC Health requires any type of animal bite to be reported within 24 hours of the event, and the city coordinates follow-up with the animal, owner and person bitten to assess rabies risk.",
+   "why_it_matters": "The Health Department report is a time-stamped public-health record that can help identify the dog and owner. It should be made promptly alongside medical care, while the separate evidence of notice, prior behavior and property control is preserved.",
+   "sources": [
+    "https://www.nyc.gov/site/doh/health/health-topics/animals-and-wildlife-report-animal-bite.page",
+    "https://portal.311.nyc.gov/article/?kanumber=KA-01109"
+   ],
+   "verified": "2026-08-22",
+   "title": "A bite report is due within 24 hours"
+  },
+  {
+   "id": "bite_data_2024",
+   "claim": "NYC Health reported 3,814 dog bites to city residents in 2024, the highest count in the 2015-2024 period and a 51% increase from 2015.",
+   "why_it_matters": "The citywide count underscores why a prompt Health Department report and a careful evidence record matter. A report addresses public-health follow-up; a civil claim still needs facts about the dog's prior behavior, the owner's notice and, in a building, any party with control.",
+   "sources": [
+    "https://www.nyc.gov/assets/doh/downloads/pdf/survey/dog-bites-2026.pdf",
+    "https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg"
+   ],
+   "verified": "2026-08-22",
+   "title": "Reported bites reached a ten-year high in 2024"
+  }
+ ],
+ "neighborhoods": [
+  "Harlem",
+  "Upper West Side",
+  "Chelsea",
+  "East Village",
+  "Washington Heights",
+  "Lower East Side"
+ ],
  "symptoms": [
   "bitten_by_dog",
   "child_bitten_by_dog",
