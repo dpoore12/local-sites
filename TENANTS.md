@@ -1,5 +1,18 @@
 # Getting paid for 83 local lead-generating websites without making sales calls
 
+> **CORRECTION, 23 August 2026 — read `DISCLAIMERS.md` before acting on this file.**
+> Route 1 below (selling the calls into pay-per-call networks, auction-routed) was
+> ranked first here on commercial grounds only. Legal research since then found it is
+> likely **prohibited outright** for the 17 California and 3 Texas legal sites, because
+> distributing calls among unrelated firms makes the site an uncertified lawyer referral
+> service and both states close that certification to for-profit operators. It also
+> requires rewriting the first-person copy across all 43 home-services sites, since
+> California makes advertising licensed construction work unlicensed a misdemeanor
+> "with or without any limiting qualifications." Route 1 is **on hold pending a lawyer
+> review**. Nothing in this file has been deleted — the ranking below is preserved as
+> written so the reasoning stays auditable — but its top-ranked route is not currently
+> actionable and the ranking should be re-run with the legal constraint applied.
+
 Written for an operator with 83 live sites (43 home services — garage door repair, plumbing, AC repair; 40 legal — car accident, criminal defense), each with its own tracking number and call log, no tenants yet, no meaningful traffic yet, and a hard rule against phone selling.
 
 **How to read the sourcing.** Every number below is followed by a link to the page it came from. Where a page is published by a company that sells a course, a rental-brokerage service, or leads, it is labeled **[vendor/marketing claim]**. Where a number comes from a first-hand operator writing in a forum, it is labeled **[first-hand, unverified]**. Where a figure could not be confirmed on a fetched page, it says **not found** rather than an estimate.

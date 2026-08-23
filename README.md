@@ -7,14 +7,23 @@ and it is not connected to any call-routing product.
 **Start with `UG-STATUS.md`** for the current state of all 83 sites. As of
 23 August 2026 they are built, live, indexed and in Search Console.
 
-> **Open question, added 23 August 2026.** This repo states above that it is not a
-> per-call marketplace, and the pages carry no routing disclaimers because each
-> site is rented to one named operator. The researched tenant plan in
-> `TENANTS.md` ranks selling the calls into pay-per-call networks first, because
-> Dan does not do phone selling. If that route is taken, calls do get distributed
-> and the disclaimer position changes. **Do not deploy any copy change on this
-> basis, and do not connect any site to a call network, until Dan has ruled on
-> it.** Flagged rather than quietly resolved.
+> **Answered 23 August 2026 — see `DISCLAIMERS.md`.** The open question was whether
+> the pay-per-call tenant route in `TENANTS.md` changes the legal position, since
+> that route distributes calls instead of sending them to one named operator.
+> It does, badly. Distributing calls turns each site from an advertisement for one
+> identified provider into a referral intermediary that describes itself as the
+> provider. For the 17 California and 3 Texas legal sites that is likely prohibited
+> outright, disclaimer or not, because both states gate lawyer referral services
+> behind certifications closed to for-profit operators. The home-services sites are
+> fixable but not by adding a footer — California makes it a misdemeanor to
+> advertise licensed construction work unlicensed "with or without any limiting
+> qualifications," so the first-person "we fix it" copy itself has to change.
+>
+> **The single-tenant subscription model stated above remains the operating model.**
+> Nothing in the sites changes. Do not connect any site to a call network, do not
+> add routing disclaimers, and do not rewrite copy. `TENANTS.md` still ranks the
+> non-phone-selling routes, but its first-ranked route is now known to be blocked
+> across half the legal portfolio and is on hold pending a lawyer review.
 
 **This is a separate repository from `lead-router` on purpose.** Different product,
 different deploy target, different content rules, and — critically — different legal
