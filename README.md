@@ -4,6 +4,18 @@ Rank-and-rent network. One domain per niche + city. Each site is rented to **one
 local operator for a **flat monthly subscription**. This is not a per-call marketplace
 and it is not connected to any call-routing product.
 
+**Start with `UG-STATUS.md`** for the current state of all 83 sites. As of
+23 August 2026 they are built, live, indexed and in Search Console.
+
+> **Open question, added 23 August 2026.** This repo states above that it is not a
+> per-call marketplace, and the pages carry no routing disclaimers because each
+> site is rented to one named operator. The researched tenant plan in
+> `TENANTS.md` ranks selling the calls into pay-per-call networks first, because
+> Dan does not do phone selling. If that route is taken, calls do get distributed
+> and the disclaimer position changes. **Do not deploy any copy change on this
+> basis, and do not connect any site to a call network, until Dan has ruled on
+> it.** Flagged rather than quietly resolved.
+
 **This is a separate repository from `lead-router` on purpose.** Different product,
 different deploy target, different content rules, and — critically — different legal
 posture. `lead-router` pages carry routing disclaimers because calls get distributed.

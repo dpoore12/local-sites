@@ -135,3 +135,37 @@ already ranking. The work is front-loaded on purpose so it ends.
 - `LISTINGS.md` — the short version of this plan
 - `PLAYBOOK-LINKS.md` — the full reasoning and where each number came from
 - `HANDOFF-UG.md` — how the sites are built, hosted and wired to phones
+
+---
+
+## Updated 23 August 2026 — what changed since this brief was written
+
+Two things happened after this was written and both matter to you.
+
+**All 83 sites are now in Search Console.** Ownership confirmed, sitemaps
+submitted, zero errors. So the first item in the old playbook — submit each site
+to Search Console — is already done. Skip it and go straight to the directories.
+Details in `SEARCH-CONSOLE.md`.
+
+Note what that does and does not mean. It did not make the sites live; they
+already were. It means Google now has a direct list of every page and we can
+watch what it stores. It does nothing for rankings. Your listings and links are
+what move that.
+
+**The tenant question is answered and it changes what the sites are for.** Dan
+does not do phone selling, so the usual way of renting these out was off the
+table. The researched answer is to sell the calls into pay-per-call networks
+through a bid auction, which needs no selling at all and pays from day one.
+Full reasoning in `TENANTS.md`.
+
+The one consequence for your work: **every call must be attributable to exactly
+one site.** Routing already guarantees this, one handler per market. So never
+share a phone number between two sites in any listing, and never substitute a
+number you think looks better — always copy from `nap.csv`.
+
+That also sharpens the first of the never-do rules earlier in this brief. Google's own guidelines list lead generation
+companies as ineligible for a Business Profile and allow them to revoke one. So
+"never create a Google Business Profile" is not just about the 83-addresses
+problem — a profile is not something we are entitled to in the first place.
+
+**Read `UG-STATUS.md`** for the full current state of the portfolio.

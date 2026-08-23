@@ -1,5 +1,11 @@
 # Handoff — UG
 
+**Read `UG-STATUS.md` first.** It is the current state of the portfolio as of
+23 August 2026 and it supersedes any status claim in this file. This file is the
+architecture, the rules, and the traps — all still accurate. Anything here that
+sounds like a to-do has probably already been done.
+
+
 Everything you need to work on this repo without asking me anything first.
 Read `README.md` for how the builder works. This file is the current state and
 what is actually open.
@@ -88,29 +94,6 @@ These are not style preferences. The build fails on all of them.
 
 ---
 
-## Current state, honestly
-
-- **Template: done and locked.** Tagged `template-v2`. Eight pages: home, four
-  service pages, services hub, about, contact.
-- **Naperville garage door: complete.** The reference site. Copy this one's depth.
-- **32 sites written and passing.** 2,090 of 4,793 copy blocks done. Every one
-  builds clean and no two share 15 consecutive words. Phase 1 only: home, about,
-  contact. Service pages come in a second pass.
-- **51 sites: scaffolded, no copy.** Directory, `site.json` with verified city
-  metadata, and a `copy.md` worksheet listing every required block.
-- **Off-site work: zero done.** Not one listing, not one link. This is 40% of
-  ranking by Kyle's own weighting and it has not started.
-- **Domains: all 83 registered.** Bought 2026-08-22 at Cloudflare, $10.46 each,
-  all active, all auto-renew on, all expiring 2027-08-22. See `DOMAINS.md`.
-- **Phone numbers: all 83 still placeholders.** Every site WARNs on build and
-  none may be published until real numbers land. This is now the live blocker
-  ahead of hosting.
-
-Run `python3 scaffold.py --status` for the live numbers rather than trusting
-this paragraph, and `python3 domains.py` before trusting the ledger.
-
----
-
 ## What each site actually needs to go live
 
 | Step | What | Who |
@@ -161,36 +144,7 @@ fails if the ledger drifted, so it belongs in CI.
 - **Registrations are non-refundable.** Never register from a script without
   checking the name first and getting Dan's sign-off on the total.
 
-### Hosting, not yet started
-
-Nothing is deployed. Cloudflare Pages free tier allows 100 projects per account
-and 500 builds/month, which covers 83 sites, and the domains are already on the
-same account so DNS is one step. When a site goes live, record where in the
-`hosting` column and re-run `domains.py`.
-
-No site may be published while its `phone` column reads `PLACEHOLDER`. That is
-all 83 right now.
-
 ---
-
-## Where to start, UG
-
-Highest value first, and none of this is blocked on Dan:
-
-1. **Read `PLAYBOOK-LINKS.md` and start Tier 1 on Naperville.** Search Console,
-   Bing, and the free listings. It is the only site with finished content, so it
-   is the only one that can start earning position. Note the section on why
-   Google Business Profile is deliberately excluded — that is a decision, not an
-   oversight.
-2. **Sanity-check the 28 niche packs in `niches/`.** Each defines the four
-   service pages for a trade. If the four sub-jobs for a trade are wrong, every
-   site in that trade inherits the mistake. Cheapest possible time to catch it.
-3. **Build the Tier 3 prospect list for Naperville** — 10 to 15 local sites that
-   might link. The method is in the playbook.
-4. Do not start on template changes. It is locked for a reason and the reason is
-   documented in `template/LOCKED.md`.
-
-Questions to Dan, not to me.
 
 ## Phone numbers
 
@@ -232,18 +186,3 @@ What is left for you here: nothing blocking. If you want to help, a daily cron
 that runs `python3 call-desk/call_log.py` and commits `call-desk/log/calls.csv`
 would make the log fully hands-off.
 
-## Hosting (deploy_sites.py)
-
-The 83 sites go on Cloudflare Pages, one project per domain, apex + www on each.
-DNS is in the same Cloudflare account so attaching the domain writes the CNAME.
-
-    python3 deploy_sites.py            # everything not yet live
-    python3 deploy_sites.py --status    # what is live, what is not
-    python3 deploy_sites.py --only x.com
-
-It is safe to re-run: projects and domains are reused, and progress is kept in
-data/hosting.json so a re-run only picks up what failed.
-
-Needs the Cloudflare credential, and the token needs two permissions:
-Account > Cloudflare Pages > Edit, and Zone > DNS > Edit.
-Deploys run through wrangler 3 (wrangler 4 wants Node 22, sandbox has 20).
