@@ -1,8 +1,17 @@
-# mckinneygaragedoorrepairpros.com -- hand-written copy
-# Garage Door Repair in McKinney, TX  |  target keyword: garage door repair mckinney
-# Phase 1: home, about and contact only. No service pages, so each symptom card
-# carries the whole explanation of that failure.
-# Written: 2026-08-21  |  Status: pre-tenant  |  Nothing here may be reused elsewhere.
+# Copy — mckinneygaragedoorrepairpros.com
+
+**Garage Door Repair in McKinney, TX** · target keyword `garage door repair mckinney`
+
+## RULES
+
+- Make every paragraph recognizably McKinney. Text that could describe another city does not belong here.
+- Do not make a phone consultation part of the offer. Explain the repair, the arrival, and when the total is set.
+- No named operator, licence claim, rating, price, or company age appears until a real operator is in place.
+- The home page needs 1,300–2,300 visible words; every service page needs 900–1,500.
+- Each symptom card is a 40–80 word handoff. The service pages carry the diagnosis and repair detail.
+- The source data in site.json must retain three real local facts and six named McKinney neighborhoods.
+
+---
 
 ## meta_title
 
@@ -30,7 +39,7 @@ Something let go with a crack and the door will not rise now
 
 ## symptom_1
 
-A sharp report from inside the garage, loud enough that people assume a rafter split, then a door that refuses to travel upward. That is the counterbalance, not the motor. Everything the spring was carrying has transferred onto the cables and the opener, and the panels now weigh their honest hundred and fifty to two hundred and fifty pounds. Walk in and look along the steel shaft crossing the header. A torsion coil that has failed shows a clean break with the halves relaxed roughly two inches apart. This is the most frequent repair in McKinney and the reason is straightforward arithmetic. Four out of five houses here were finished after 1990 and two fifths of the stock went up in a single decade, which means an enormous number of garages are running the exact hardware the production builder specified. That was usually one spring on a double-wide door, wound for about ten thousand cycles. A household that raises the door five or six times daily uses that allowance in five or six years, so a 2004 house is on its second or third set by now whether anyone noticed the first two swaps or not. Until a technician arrives, treat the garage as a hazard zone. Pull the plug on the opener so nobody presses a button from habit, leave the panels resting on the slab, and keep cars and children out of the opening. A broken torsion spring still holds real force in the half that survived, and winding bars are the only tool that belongs anywhere near the cones. Screwdrivers and lengths of rebar come out of a loaded cone hard enough to break bone.
+A bang from above the opening followed by a door that will barely lift normally means its lift spring has snapped. From the floor, a broken torsion coil is usually visible as a gap in the coil above the header. Do not pull the release or ask the opener to haul the door; switch the opener off and leave the panels down.
 
 ## symptom_2_title
 
@@ -38,7 +47,7 @@ It travels a foot toward the slab and climbs straight back up
 
 ## symptom_2
 
-A door that reverses partway down has been stopped by its own safety circuit, and nine times out of ten the culprit is the pair of beam sensors mounted a few inches above the concrete on each side of the opening. They have to see one another the whole way down. In McKinney the reasons they stop seeing one another are seasonal and local. West-facing garages catch flat evening sun straight through the opening in spring and autumn, which blinds one lens outright. North of the loop, where new phases are still being framed and streets are still being poured, fine pale grit drifts into every garage on the block and films over the lenses within weeks. Bicycles, a bag of lawn fertiliser, a recycling cart nudged against the bracket will all cut the beam. And the brackets themselves creep out of true after years of a heavy door shaking the jamb. Look for the small indicator lamp on each housing. Both should hold steady. One dark or blinking means that eye has lost its partner, and wiping the lenses with a dry cloth then nudging the bracket until both lamps settle fixes a surprising share of these calls at no cost. If the lenses are clean, squared and lit and the door still retreats, attention moves to the closing force limit inside the motor head. A door whose rollers have dried out and stiffened needs more push to descend, and once the opener meets that resistance it reads an obstruction and backs off. Winding the force setting up is the wrong response. It hides a mechanical fault in the door and blunts the one protection that made the door reverse in the first place.
+When a closing door reverses without touching anything, start with the photo eyes at the bottom of the opening. A blinking or unlit indicator, dust on a lens, or a shifted bracket can interrupt the beam. If both indicators stay solid, the resistance may be in the door instead. Do not compensate by turning the closing force higher.
 
 ## symptom_3_title
 
@@ -46,7 +55,7 @@ One corner hangs low, a section left the rail, or hail punched the skin
 
 ## symptom_3
 
-A door sitting at an angle in the opening, a section popped out of its channel, or a panel dimpled by stones all trace back to the same short list: a cable off its drum, a seized roller, or rail that is no longer straight. Nothing about that arrangement is stable, so leave the opener switched off and do not try to lever the door back into the channel. Collin County homeowners tend to call about the wrong half of the damage after a storm. When an intense supercell crossed North Texas on the afternoon of 11 April 2016, it dropped baseball-sized stones on Wylie, damaged four fifths of the houses there, ran up more than three hundred million dollars in claims and produced a five and a quarter inch hailstone, the largest the Fort Worth forecast office has on record. Doors across this county came out of that afternoon looking pockmarked. The pockmarks are cosmetic and can sit on an adjuster's timetable indefinitely. What actually stops a door moving is a vertical rail knocked out of plumb and a brace bowed across the back of a section, and both of those keep grinding rollers apart on every cycle until somebody corrects them. There is a second McKinney-specific cause worth naming. The Blackland Prairie clay under these subdivisions swells through a wet spring and shrinks hard through August, and a garage opening that has racked even slightly will fight a square door forever, popping the same roller out at the curve month after month. Cables and rollers are inexpensive wear parts and are worth replacing as a set while the door is already unloaded rather than one at a time as each gives up.
+A low corner, loose cable, roller outside its track, or panel struck in a storm calls for an off-track inspection, not another press of the remote. The April 2016 hailstorm reached maximum intensity in Collin County, so check tracks and reinforcement braces as well as visible dents. Keep power off and leave the opening alone.
 
 ## symptom_4_title
 
@@ -54,7 +63,7 @@ The motor whirs, the chain moves, the door does not
 
 ## symptom_4
 
-Motor noise with a stationary door usually means the carriage has parted company with the trolley that pulls the door along the rail. Somebody hauled on the red emergency cord to get a car out during a power cut, or a roof box caught it on the way in, and it never latched again. Stand under the rail and watch while a helper presses the wall button. If chain or belt is travelling happily and nothing else is, tug the cord toward the door and run the opener until the latch snaps back over the carriage. Two minutes, no tools, nothing to pay for. If instead the head grinds and the chain sits dead, the trouble is inside the housing, and in this city it is nearly always the nylon drive gear. Production builders fitted enormous numbers of the same entry-level chain heads through the 2000s construction boom, and those gears round their teeth off somewhere past a decade of service, which is precisely where the housing stock now sits. That is a gear kit and an afternoon, not a new opener, and it is worth insisting on the distinction before anyone quotes a replacement unit. A head that buzzes for a second and quits with no grinding at all points at the starting capacitor instead. Two situations do justify replacing the whole unit rather than repairing it: a cracked motor housing, and any opener old enough to have no beam sensors at the floor, since that machine cannot protect anything underneath it. Everything between those extremes is generally worth fixing, and an honest read on the remaining life of the head should come with the quote.
+A running opener and a motionless door are not automatically a replacement-opener problem. The release trolley may be disengaged, or an internal gear, capacitor, or control component may need attention. McKinney’s long hot spells make intermittent symptoms worth noting: report whether it fails only after the garage has heated up, then works again later.
 
 ## qa_1_question
 
@@ -62,7 +71,7 @@ Does McKinney require a permit to put in a new garage door?
 
 ## qa_1_answer
 
-The city's own home repairs guidance lists doors and windows among the projects that need a permit, so a new garage door hung in a McKinney house is permitted work and the filing belongs inside the schedule for the job. Servicing what is already there is a different matter: a spring, a cable, a roller set or an opener head is hardware maintenance on the existing door, not a replacement of it. There is a second layer downtown. Any property inside the Historic Overlay District near the square needs a Certificate of Appropriateness before a permit issues, and that letter covers alterations and changes of material visible from the street. Repairs and in-kind replacement are exempt from that review. Confirm your own scope with Building Inspections, and with the Historic Preservation Office too if your address sits in the overlay, before anything gets ordered.
+The City of McKinney places “Doors and Windows” in its list of repairs that require permits. That makes a new garage door a permit question to settle before it is ordered, rather than a detail for installation morning. The page does not expressly classify springs, cables, rollers, or opener repairs, so do not treat a web summary as a permit exemption: confirm the exact scope with Building Inspections. In the Historic Overlay District, exterior alterations visible from the public right of way may also need a Certificate of Appropriateness before permit issuance. City guidance says ordinary maintenance and matching in-kind repairs are typically outside that approval, but asks owners to discuss the plan with Historic Preservation first.
 
 ## qa_2_question
 
@@ -83,6 +92,14 @@ That depends entirely on what has failed. A broken counterbalance spring or a do
 ## closing_cta
 
 Get a technician onto the driveway, a firm figure before the tools come out, and a door that runs again today. If the spring has broken or a section has left its rail, cut power to the opener and leave everything sitting exactly as it is.
+
+## services_summary
+
+Garage-door trouble is often labelled “the opener” even when the motor is not the part at fault. Spring work restores the force that counterbalances the door. Opener work deals with the machine that moves a correctly balanced door, including the safety eyes and travel controls. An off-track visit concerns cables, rollers, hinges, panels, and rail geometry. Replacement is the different job of choosing and installing a new exterior door.
+
+That distinction matters especially in McKinney. A Stonebridge Ranch or Craig Ranch garage may have a builder-era torsion system and an opener installed at the same time; a downtown or East McKinney outbuilding may have tight clearance that changes the counterbalance layout; a hail-damaged door can be dented yet mechanically sound, or look modestly marked while a bent rail is chewing up rollers. The inspection separates those conditions before anyone treats a symptom as a diagnosis.
+
+For every route, the work is scoped at the opening. The technician identifies the failed component, checks the rest of the moving system, explains whether repair or replacement fits the condition, and gives the figure before work begins.
 
 ## about_summary
 
@@ -254,3 +271,149 @@ Worth having ready before the truck arrives
 ## emergency_note
 
 A broken counterbalance spring or a door off its rail is holding a lot of stored force. Leave it untouched, cut power at the opener, and call.
+
+## services_pick_head
+
+Choose the repair that matches the symptom
+
+## crosslink_head
+
+Need a different garage-door repair?
+
+## svc_garage_door_spring_repair_lede
+
+A counterbalance spring does not open the garage door; it makes the door light enough for a person and opener to move safely. In McKinney’s large post-2000 housing stock, the common surprise is an original-style torsion setup reaching its cycle limit, while older East McKinney garages demand a closer look at clearance and spring layout.
+
+## svc_garage_door_spring_repair_body
+
+### Start with the sound and the weight
+
+A sharp crack from the garage followed by a door that suddenly feels impossibly heavy is the usual spring-failure sequence. A sectional door may still look normal from the driveway, yet without its counterbalance it is carrying its full weight on the bottom brackets, cables, and any opener asked to move it. With the door resting on the slab, look from a safe distance at the shaft over the header. A torsion spring that has parted commonly shows an open space between its two relaxed ends. Do not stand under the shaft, touch the winding cone, or use the red release to prove the point.
+
+### Why the age of a McKinney house changes the first assumption
+
+McKinney expanded at a remarkable pace. The City’s East McKinney study records a rise from 55,264 residents in 2000 to 131,359 in 2010, followed by another 76,866 residents by 2021. Its housing table puts 66.2% of citywide units in the 2000-and-later category. That is why a sectional steel door and torsion shaft are the sensible opening assumption in Stonebridge Ranch, Craig Ranch, Trinity Falls, Adriatica, Eldorado, and Tucker Hill—not a guarantee, but a useful parts-loading decision.
+
+The exception is important. The same City study reports that about 65% of East McKinney units were built before 1979, compared with 9.6% citywide. Around the historic core, smaller detached garages and service-alley structures can leave little room above the header. Some use extension springs along the horizontal track; others need low-headroom torsion hardware. The technician measures before choosing a spring system, because a conventional shaft location cannot simply be wished into a shallow garage.
+
+### Torsion and extension springs do different work
+
+A torsion system stores twist in coils mounted on a shaft above the opening. Cable drums at the ends of that shaft wind and unwind the lift cables as the door travels. It is compact and common on newer double doors. Extension springs stretch along the side tracks and need restraint cables through their centers; they are more likely where the header arrangement will not accept a torsion shaft.
+
+Neither system should be guessed from a blurry view. A photograph from several steps back can identify the layout without putting anyone beneath a loaded part. Door size, weight, drum size, and configuration all influence spring selection.
+
+
+### Heat matters around the spring, too
+
+DFW normals put July and August near 96°F, with frequent 100°F days. In an unconditioned McKinney garage, lubricant thins and old residue plus grit can add drag at hinges, rollers, and bearings.
+
+Heat alone does not diagnose a snapped spring. After replacement, bearings and hinges need suitable garage-door lubricant; tracks are kept clean, not greased.
+
+### What happens during a spring visit
+
+First, the door is secured so it cannot run while its counterbalance is being handled. The technician records the door dimensions and the existing spring configuration, then selects springs sized for the actual door rather than a generic opener rating. Worn cables, drums, and bearing points are checked while the system is safely unloaded. New springs are installed, the drums are set with matched cable tension, and the shaft is wound with the proper tooling.
+
+The important final step is a manual balance check. With the opener disengaged by the technician, the door should remain controllable and reasonably neutral through its travel; it should not crash down from waist height or race upward. Only after that is the opener reconnected and its travel confirmed. The repair total is agreed before the replacement work starts. What changes the range is spring type and count, access arrangement, door size and weight, and whether a related cable, drum, or bearing needs correction.
+## svc_garage_door_opener_repair_lede
+
+An opener is a motor, drive system, controls, and safety circuit—not a verdict that the overhead machine must be replaced. McKinney calls often begin with a reversing door or a running motor, and the answer may be a photo-eye alignment, trolley engagement, gear, capacitor, board, or a mechanical door fault that the opener is correctly refusing to force.
+
+## svc_garage_door_opener_repair_body
+
+### The door that closes briefly, then returns upward
+
+This is commonly a safety-eye issue. The two photo eyes face each other near the floor, and the controller will not complete a close cycle if the beam is absent or interrupted. Look at the small indicators on the housings. A lamp that is off or flickering points to alignment, wiring, contamination, or an obstruction. A broom, stroller wheel, fertilizer bag, or shifted bracket can be enough.
+
+In McKinney, dry debris at the threshold and bright late-day light in an open garage can complicate the signal. Wipe lenses gently, remove objects from the beam, and look for a bracket that has been nudged out of line. If both indicators are steady and the door still reverses, do not keep altering settings. Closing force and travel limits should be tested only after the moving door hardware is verified.
+
+### Motor noise but no door travel
+
+Watch the rail rather than the ceiling box. If the belt or chain moves while the door does not, the trolley may be disconnected from the carriage after the release cord was used or snagged. If the motor grinds while the rail does not move, internal drive parts are more likely. Many chain-drive heads use a nylon gear that can wear before the motor does; a brief hum followed by a stop can point toward a start component or electrical fault. Those are diagnosis paths, not reasons to order a replacement before the housing is assessed.
+
+### Summer heat and intermittent opener behavior
+
+NWS climate normals show July and August around 96°F for Dallas/Fort Worth, plus frequent triple-digit days. In a closed garage, that is a harsh environment for the controller, receiver, capacitor, and wiring connections housed above the door. Heat does not diagnose a board by itself, but it can make an existing weak connection or aging component show up as a unit that behaves normally in the morning and becomes unreliable later in the afternoon.
+
+Useful notes for the visit are specific: whether the wall control works when remotes do not; whether the lights flash; whether the problem follows a hot afternoon; whether the unit loses travel settings; and whether a breaker has tripped. That information lets the technician test supply voltage, safety circuit, controls, capacitor, motor behavior, and board response in a sensible sequence. Electronics should be judged by tests, not by a guess based on the day’s temperature.
+
+### The lubrication issue is outside the motor head
+
+Opening the operator housing to spray lubricant is not maintenance. The places that need attention are the moving door components: hinges, roller bearings, and appropriate points on the spring and shaft assembly. Temperature changes lubricant viscosity; old product can migrate, collect dust, or harden after repeated heat cycles. That added door resistance can make an otherwise healthy opener act as if the close path is obstructed.
+
+Tracks are not a grease channel. Keeping them straight and clean lets rollers do their job. When the door moves freely and the opener still fails, repair attention returns to the head unit rather than masking the symptom with excess force or lubricant.
+
+### Repair, upgrade, or replacement
+
+A misaligned photo eye, damaged wiring, worn gear, capacitor, receiver, or available control board can make repair sensible. A cracked housing, unavailable critical board, unsafe obsolete setup, or multiple serious failures can move the conversation toward a new unit. Any older operator lacking functioning photo eyes calls for particular caution; reversing protection is part of a safe automated door system.
+
+An upgrade can be useful without being mandatory. Quiet belt drive, battery backup, smart controls, and better lighting are choices to compare after the fault is named. The decision should distinguish necessary repair from elective convenience, and the exact price should be provided before work begins.
+## svc_off_track_garage_door_repair_lede
+
+An off-track door is unstable. A slipped cable, escaped roller, bent hinge, or shifted section can leave the remaining hardware carrying uneven load. After a Collin County storm or driveway impact, the visible panel may be the least important part of the inspection.
+
+## svc_off_track_garage_door_repair_body
+
+### Treat a crooked door as a stop sign
+
+If one side of the door is lower, a cable is slack, or a roller is visibly outside the track, stop operating it. The remote will not re-square the door; it can pull the lifted side harder and turn a repairable misalignment into bent sections or a fallen door. Switch off the opener at the outlet, keep clear of the opening, and do not brace the door with a ladder, vehicle, or loose lumber.
+
+The risk comes from unequal support. When a cable unwinds from a drum, one side no longer lifts with the other. When a roller exits near the curved section of track, the panel can bind as the door changes direction. That geometry needs to be secured and reset under controlled conditions, not forced back with a pry bar.
+
+### Common causes look different at the opening
+
+A **cable issue** often leaves a loose loop near a side jamb and one bottom corner low. It may follow a spring failure, an obstruction under the door, or a drum that lost its cable path. A **roller issue** can grind before it becomes a derailment: nylon can crack, steel can seize, and hinge wear can put a roller stem at the wrong angle. A **track or hinge issue** can follow a vehicle bump, loose fasteners, movement at the opening, or storm force. Alignment is measured against the door, not judged by one visible dent.
+
+### What the 2016 Collin County hail record actually means
+
+The National Weather Service documented an intense supercell on April 11, 2016 that reached maximum intensity in Collin County. It reported more than 50 severe hail and wind reports; Wylie saw baseball-size hail, 80% of homes affected, and damage above $300 million. The event also produced the 5.25-inch record hailstone for the NWS Fort Worth forecast area.
+
+For a garage door, hail often leaves a field of shallow steel dimples. That can be an appearance and insurance documentation issue without preventing operation. The mechanical questions are different: are the vertical tracks still plumb, do the horizontal braces remain straight, did a section bow, are hinge fasteners tight, and does the top panel meet the header evenly? Hail and wind can affect more than the skin, but an inspection should identify actual mechanical damage rather than assuming every dent has ruined the door.
+
+
+### McKinney openings are not all built the same way
+
+Most recent subdivision garages have standard sectional doors on conventional tracks, so replacement rollers and cable components are widely predictable. The city’s housing history adds exceptions. In East McKinney, with a much older building mix, detached garages can have a shorter header-to-ceiling distance, nonstandard track transitions, or spring layouts that deserve inspection before any rail section is selected. Historic-area work also requires consideration of what is visible from the public right of way if a door or material is being changed.
+
+That is why “off track” does not automatically mean the same repair at a Tucker Hill house as at an older property nearer downtown. The safety procedure is similar; the hardware plan may not be.
+
+### How an off-track repair proceeds
+
+The technician first secures the door against movement and relieves the load in the appropriate sequence. Damaged rollers, hinges, or cable sections are identified rather than simply pushed back into place. Tracks are examined for loose fasteners, bends, and proper spacing; the cable drums are reset with even tension; and the door is brought back through the track path in a controlled manner.
+
+After reassembly, the door must be balanced and cycled by hand before the opener is asked to operate it. That is how a technician detects a remaining rail pinch or counterbalance problem that would quickly undo the repair. The quoted total is based on the extent of derailment, parts actually damaged, access, and whether a panel or rail segment is beyond sensible correction. It is provided before the repair begins.
+## svc_garage_door_replacement_lede
+
+A new garage door is a building-envelope change as well as a moving mechanical system. In McKinney, the City places doors and windows on its permit-required repair list, and properties in the Historic Overlay District may have a second approval question before a visible exterior change can begin.
+
+## svc_garage_door_replacement_body
+
+### Replacement begins with the City’s process
+
+The City of McKinney lists “Doors and Windows” among repairs requiring permits. It does not name garage doors separately, so confirm the scope with Building Inspections before ordering, especially if the opening, framing, or operator electrical work changes.
+
+A spring, cable, roller, or opener repair is not the same project as a new exterior door, but the City page does not publish a garage-door maintenance exemption. Ask about the actual job; resolve permits before delivery.
+
+### Historic Overlay properties have another checkpoint
+
+McKinney’s Historic Preservation guidance says a Certificate of Appropriateness can be required before work and permit issuance for exterior changes visible from the public right of way in the Historic Overlay District, including alterations and material changes. Its FAQ also says ordinary maintenance, repairs, and matching in-kind replacement typically do not require permission, while advising owners to discuss the plan with the Historic Preservation Office first.
+
+For an older detached garage near downtown, that means separating a repair from a visible redesign. Restoring a functioning existing component may be a different review question from changing the door’s panel pattern, material, windows, or exterior appearance. Confirm the property’s overlay status and proposed scope before choosing a door. A good measurement visit can document the existing opening and clearance; it does not replace City review.
+
+
+### Measure the opening before selecting the door
+
+The opening width and height are only the beginning. A proper replacement plan records headroom above the header, side room at the jambs, backroom depth, ceiling obstructions, slab level, jamb condition, and the opener location. Standard track and torsion hardware require space in specific places. A small detached garage in the older part of town may need low-headroom track or a different counterbalance arrangement; a recent Craig Ranch or Trinity Falls opening may accept a stock sectional configuration.
+
+The door’s weight matters as much as its fit. An insulated replacement, decorative overlays, windows, or heavier gauge steel can change the counterbalance requirement. Existing springs were selected for the door coming down. New springs must be selected for the door going up, and track condition should be evaluated rather than automatically reused.
+
+### Hail damage, steel panels, and insurance records
+
+The April 2016 NWS event is a useful reminder that Collin County can see substantial hail. Hail can dimple a steel face, crack paint, deform a window insert, or, with other wind effects, contribute to bent braces and track misalignment. The inspection must distinguish visual damage from movement damage. A panel that still sits flat, tracks cleanly, and has intact reinforcement is a different replacement decision from a panel that has folded around a hinge or bowed under a brace.
+
+Take broad and close photographs before removal, including the inside of affected sections. If an insurance claim is involved, preserve the documented condition and ask how the carrier wants damaged material handled. Do not let a claim conversation delay an urgent repair to a rail, cable, or door that is unsafe to operate; instead, document that mechanical work separately.
+
+### Choose the construction for the garage you have
+
+A basic single-layer steel door is a different product from insulated steel with a thermal break, upgraded reinforcement, or a finish designed to disguise minor marks. The useful choice depends on whether the garage is attached, faces intense afternoon sun, contains stored items sensitive to heat, or sits detached behind an older home. DFW normal highs in July and August are near 96°F, so insulation can reduce heat transfer through the door; it is not a promise that an unconditioned garage will match indoor temperature.
+
+Reinforcement and wind considerations belong in the measurement conversation. Window placement, section design, exterior style, and material choice may also matter in historic or homeowner-association settings. The total should identify the door, hardware, track where needed, springs sized for the new weight, removal, and the permit-related scope before the order is placed.

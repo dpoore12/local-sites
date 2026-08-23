@@ -1,6 +1,6 @@
 {
  "domain": "sacramentoacrepair.com",
- "phase": 1,
+ "phase": 2,
  "brand": "Sacramento Air Conditioner Repair Pros",
  "service": "Air Conditioner Repair",
  "service_inline": "air conditioner repair",
@@ -33,7 +33,7 @@
  "local_facts": [
   {
    "id": "housing_vintage",
-   "claim": "ACS 2024 estimates put Sacramento's median year of construction at 1978, with about 23,500 of roughly 212,000 city housing units — close to one in nine — built in 1939 or earlier. Inside the same county, Elk Grove's median year built is 2001.",
+   "claim": "ACS 2024 estimates put Sacramento's median year of construction at 1978, with about 23,500 of roughly 212,000 city housing units \u2014 close to one in nine \u2014 built in 1939 or earlier. Inside the same county, Elk Grove's median year built is 2001.",
    "why_it_matters": "Pre-war houses in Boulevard Park, Curtis Park, Midtown and Land Park were built with floor furnaces or wall heaters and no cooling ducts at all, so cooling arrived later as an attic coil, a hall-closet air handler or ductless heads, usually with the condenser squeezed into a narrow side yard. Postwar Tahoe Park and Oak Park houses tend to have a garage furnace with an add-on coil, and 1990s-2000s North Natomas homes have purpose-built systems with real access. Equipment location, access time and likely failure points differ in all three.",
    "sources": [
     "https://censusreporter.org/tables/B25035/",

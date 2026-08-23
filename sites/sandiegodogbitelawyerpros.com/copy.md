@@ -1,270 +1,442 @@
 # Copy — sandiegodogbitelawyerpros.com
-# Dog Bite Lawyer, San Diego, CA. Pre-tenant. No firm, no attorney, no result claimed.
-# Every block written for San Diego County only.
+# Dog Bite Lawyer, San Diego, CA. Pre-tenant. No firm, attorney, or outcome is claimed.
+# Written for San Diego County only.
+
+## RULES
+
+- Write for this city. Every block must be unreusable on another site.
+  The build fails if any 15 consecutive words match another site.
+- Never promise legal advice by phone. Explain the legal subject, not a phone service.
+- Never name a business, a licence, a review count, a price or a year
+  in business. No tenant is signed, so none of it is true yet.
+- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
+- symptom_N blocks are 40-80 word teasers only. The depth goes on the
+  service page they link to.
+- Legal pages use inquiry and the person calling. They do not use prohibited
+  legal-marketing language or imply that anyone has been assessed.
+
+---
 
 ## meta_title
 
-Dog Bite Lawyer in San Diego, CA — California Strict Liability Claims
+Dog Bite Lawyer in San Diego, CA — County Reporting and California Rules
 
 ## meta_description
 
-Bitten by a dog in San Diego? California holds the owner liable without any prior bite. What the county requires within 24 hours, the two-year deadline, and how a claim is opened.
+San Diego dog bite information: California Civil Code 3342, the County’s 24-hour bite-report rule, 10-day observation, insurance policy questions, and filing deadlines.
 
 ## hero_promise
 
-California does not make you prove the dog had bitten anyone before. Under the state's dog bite statute the owner is on the hook once you show you were bitten somewhere you were allowed to be. A San Diego claim gets opened on that footing: the county bite report tracked down, the treating records collected, the homeowner or renter policy identified, and the two-year filing deadline calendared before it can quietly expire.
+A San Diego dog bite has two tracks from the first day: health care and the local animal-control record. California Civil Code section 3342 puts a defined rule around an owner’s responsibility when a dog bites a person in public or where that person was allowed to be. San Diego County then requires notice of a bite by a rabies-capable animal, generally within 24 hours. This page separates those rules from the insurance-policy and property-control questions that often arrive afterward.
 
 ## what_happens_when_you_call
 
-The bite gets written down as a claim, not a conversation. Date, cross streets, which agency took the report, who was holding the leash, what the wound needed. That record is what a San Diego dog bite lawyer reviews to decide whether the claim stands up, and a consultation is arranged from there. Nobody on this page can tell you what a bite is worth. What can be done is the sequence: report confirmed, quarantine status checked, insurer put on notice, deadline docketed.
+The person calling can give the date, location, dog and owner information, medical provider, and the agency that received the bite report. That is an inquiry record, not a verdict on anybody’s rights. The next practical question is usually which documents exist already: discharge instructions, photos, witness contact details, the report number, and any letter from an insurer. An attorney of the caller’s choosing can explain how those facts may matter.
 
 ## what_they_will_ask
 
-Five things shape a San Diego bite claim. Where it happened, because a leashed-area sidewalk, a fenced yard you were invited into, and one of the city's off-leash beaches are three different liability pictures. Who controlled the dog, which is not always who owns it. Whether the bite was reported to an animal control agency, and which one. What treatment you have had, including any rabies or tetanus decision made in the emergency room. And whether anyone has already contacted you about a payment.
+Location matters in San Diego. A bite on a North Park sidewalk, inside a City Heights apartment, at a Pacific Beach park, on a Clairemont Mesa block, near Point Loma, or in Mira Mesa can mean a different report holder and different surrounding evidence. The useful details are whether the skin broke, whether the dog was on a lead or inside an enclosure, whether the person was invited onto private property, who owned or controlled the dog, and what treatment followed.
 
 ## symptom_1_title
 
-A dog bit you and the owner is being pleasant about it
+A dog broke your skin and the owner says it has never happened before
 
 ## symptom_1
 
-The owner apologises on the sidewalk, says the dog has never done this, offers to cover the urgent care visit. That politeness is not a legal position, and it evaporates once an adjuster gets involved. California's dog bite statute makes the owner responsible for a bite suffered in a public place or anywhere you were lawfully present, including the owner's own property, and the dog's clean history does not help them. States on the older common law rule make an injured person prove the owner already knew the animal was dangerous. California removed that hurdle for bites.
-
-What still has to be proved is that it happened, where it happened, and what it cost. So the paperwork matters more than the apology. San Diego County requires a bite by a rabies-capable animal to be reported, and treats twenty-four hours as the outer limit for anyone who knows about it. A biting dog then sits through a ten-day quarantine even with current rabies shots, which independently confirms the animal was identified.
-
-Photograph the wound before it is dressed and again as it heals. Keep the discharge sheet. Write down the names of anyone who watched. Then a claim can be opened against the owner's liability coverage while the medical picture is still developing, rather than after the trail has gone cold. The deadline is two years from the day of the bite, and a consultation is arranged well inside that window rather than near the end of it.
+A dog’s lack of an earlier bite does not answer the statutory question in California. Preserve the ordinary proof instead: photographs, treatment paperwork, the address, names of witnesses, and the dog owner’s contact information. In San Diego County, reporting the bite promptly also begins the rabies-observation record. The injury page explains the statute’s location requirement and the documents that usually matter first.
 
 ## symptom_2_title
 
-Your child was bitten, and the family knows the dog
+A child was bitten by a dog known to the family
 
 ## symptom_2
 
-Most children are bitten by a dog they were allowed near. A neighbour's dog in North Park, a relative's dog at a barbecue, a friend's dog on a Clairemont Mesa cul-de-sac. Because a child is short, the bites land on the face, scalp, forearms and hands, and those are the injuries where the first repair is not the last one. Scar revision, a second surgery once growth finishes, and treatment for a genuine fear of dogs are all future costs, and they are the ones an early settlement offer ignores completely.
-
-The law treats a child differently in two ways worth knowing. California's deadline for injury claims is two years, but the clock for someone under eighteen is paused until their eighteenth birthday, so a bite at age six is not extinguished at age eight. Second, the provocation argument an insurer reaches for gets much weaker when the child is very young, because a toddler cannot be held to an adult's judgment about an animal.
-
-Practical steps first. Get the bite reported to the agency that covers the address so the dog's history exists in writing, which also matters if this dog has bitten before. Ask the pediatric provider to document depth, location and any nerve involvement rather than just closing the wound. Photograph it weekly. A claim involving a child usually needs a treating specialist's opinion on future care before any number is discussed, and a consultation is arranged with that sequence in mind.
+A familiar dog can still produce a difficult record, especially when the wound is on a child’s face, hand, or arm. The first priority is medical care and a report to the agency responsible for the address. Ask the provider to describe location and depth before the wound changes. The child-bite page covers the County’s reporting rule, the observation process, and why future treatment should be documented carefully.
 
 ## symptom_3_title
 
-The dog that bit you lives in a rental or a condo
+The dog belongs to a tenant or the bite happened around a rental
 
 ## symptom_3
 
-Tenants own dogs all over San Diego, and the tenant's own coverage is often the thin part of the claim. A renter's policy may have modest liability limits, an exclusion written around specific breeds, or nothing at all. That is when the property owner becomes part of the question, and California does not treat a landlord the way it treats the dog's owner. The statute that removes the prior-bite hurdle applies to the owner or keeper of the animal, not to whoever holds title to the land.
-
-A landlord's exposure is a negligence question instead, and it usually turns on two things: whether they actually knew the dog was dangerous, and whether they had the practical power to do something about it. Knowledge can look like earlier complaints from other tenants, a prior bite reported to animal control, a written warning, or a lease clause about the animal. Power can look like the ability not to renew, or control over the shared walkway, courtyard, stairwell or gate where the bite happened. A bite in a common area of a Hillcrest or Golden Hill building sits differently from one inside a private unit.
-
-So the evidence to preserve is not only medical. The lease, any complaint the neighbours made to the manager, prior county reports about that dog, photographs of a broken latch or a gate that does not self-close, and the name of the management company. A claim can proceed against the dog's owner and the property owner at once when the record supports it, and that record has to be gathered before the gate gets fixed and the tenant moves out.
+A rental address does not automatically make the property owner responsible for a dog bite. California’s bite statute names the dog’s owner, while a building owner or manager raises separate questions about knowledge, control, lease terms, and the place where the event happened. Save notices, lease material, gate or fence photos, and the management contact. The landlord-liability page explains the difference without assuming an answer.
 
 ## symptom_4_title
 
-The insurer denied it, delayed it, or offered too little
+An insurance letter arrived before the medical picture is clear
 
 ## symptom_4
 
-The first offer usually arrives while the wound is still healing, and it is measured against what has been billed so far rather than what the injury will actually cost. Denials tend to travel on a short list of reasons. The policy excludes dogs, or excludes that breed. The dog was not the insured's. The bite happened away from the insured address. You provoked it. Or the claim is being handled under medical payments coverage, which pays some treatment and closes without touching the rest.
-
-Two things quietly hurt these claims. The recorded statement is the first. An adjuster calling for your version early, before you know the diagnosis, is collecting sentences that get quoted back to you later. You are not obliged to give one on their schedule. The second is the gap in treatment. Six weeks with no documented care becomes the argument that you recovered, no matter how a hand actually feels when the swelling goes down.
-
-A stalled or lowballed San Diego bite claim is worked from the coverage up: which policies exist, whether a renter, homeowner or landlord policy responds, whether an umbrella layer sits above it, and what the exclusions truly say rather than what the letter summarises. The county bite report and the quarantine record help here because they are third-party documents the insurer did not create. Underneath it all sits the same two-year deadline, which does not extend because negotiations are open.
+A letter can concern medical-payments coverage, personal-liability coverage, a reservation of rights, or a denial based on policy language. None of those labels tells the whole story by itself. Keep the envelope, policy information, and every attachment; do not rely on a verbal summary. The insurance page describes the coverage categories California’s consumer guide identifies and the policy questions worth putting in writing.
 
 ## qa_1_question
 
-Do I have to prove the dog bit someone before, like in other states?
+What does California Civil Code section 3342 actually cover?
 
 ## qa_1_answer
 
-No. California uses a strict liability statute for dog bites, Civil Code section 3342, and it makes the owner liable for a bite regardless of the animal's earlier viciousness or what the owner knew about it. Many other states still follow a version of the one-bite rule, where the injured person has to establish prior knowledge of danger. In California that argument is not the obstacle. What you do have to establish is that a bite occurred and that you were in a public place, or lawfully on private property, when it happened. An invited guest, a delivery driver and a mail carrier all fall inside that language. The statute carves out police and military dogs in defined circumstances, which is narrow rather than general.
+Read the statute as a sequence, rather than as a slogan. It concerns a person bitten by a dog; it makes the dog’s owner the named responsible party; and it requires the bite to have happened in a public place or a private place where the person was lawfully present. The owner’s property is expressly included when lawful presence exists. The text says the dog’s prior viciousness and the owner’s knowledge of it do not change that statutory rule. An uninvited entry can therefore matter because the statute requires lawful presence; a dog that merely knocks someone down raises a different analysis because the section addresses bites.
 
 ## qa_2_question
 
-How long do I have to bring a San Diego dog bite claim?
+Who must report a San Diego dog bite, and what happens to the dog?
 
 ## qa_2_answer
 
-Two years from the date of the bite, under Code of Civil Procedure section 335.1, which sets the deadline for injury claims across California. Two wrinkles matter locally. If the bitten person is under eighteen, that period is tolled until their eighteenth birthday. And if the dog belonged to a public agency, a written claim generally has to be presented to that agency within six months of the injury before any lawsuit is possible. A suit filed in this county goes to the Hall of Justice on West Broadway downtown, or the North County Regional Center in Vista, since the El Cajon and Chula Vista civil business offices handle restraining orders only.
+County Code section 62.615 assigns notice duties broadly. It covers the bitten person, a parent or guardian when a minor is bitten, the treating physician, the animal’s owner or custodian, and any person who knows of a bite by an animal subject to rabies. A person with knowledge who does not report within 24 hours violates the section unless earlier reporting was impossible. Under section 62.617, a dog or cat may be ordered into approved confinement and observation for at least 10 days; the County may allow an earlier release only after the stated veterinary-observation process. The agency, not the dog owner, controls release approval.
 
 ## qa_3_question
 
-Do I have to report the bite, and what happens to the dog?
+How long is the ordinary California deadline after a dog bite?
 
 ## qa_3_answer
 
-Yes, and so does the treating physician and the dog's owner. The San Diego County Code puts that duty on the bitten person, the parent of a bitten child, any doctor who treats the bite and anyone else who knows about it, and treats a failure to report within twenty-four hours as a violation. The dog is then quarantined for ten days from the date of the bite even if its rabies vaccination is current, at home if there is a secure enclosure. Animal control may open a Dangerous Dog investigation where the dog caused substantial injury or bit two people inside a forty-eight month window. Any money for your injury is separate from that and comes out of a civil claim.
+Code of Civil Procedure section 335.1 sets a two-year period for an action for injury to, or death of, a person. That general deadline is different from the Government Claims Act procedure for an injury connected to a public entity: Government Code section 911.2 says a claim for personal injury must be presented within six months after accrual. A government or police dog also has a particular rule in Civil Code section 3342. The statute limits the special dog-bite action in specified law-enforcement or military circumstances, preserves it for certain uninvolved people, and requires a written agency dog-use policy for that limitation to apply. These are reasons not to treat a public-agency incident like an ordinary private-owner inquiry.
 
 ## closing_cta
 
-If you were bitten in San Diego, get the medical record and the county bite report in place, then have the claim looked at before the insurer's first offer becomes the whole conversation. A consultation is arranged from the details of what happened, and the two-year deadline runs from the day of the bite.
+For a San Diego dog-bite inquiry, keep the treatment record, report number, photographs, owner information, and any insurance correspondence together. The person calling can use that file to speak with an attorney of their choosing before a statutory deadline becomes the immediate problem.
+
+## services_summary
+
+“Dog bite lawyer” can describe four different jobs, and mixing them together obscures the question that needs answering. An injury page begins with the bite, the statutory location rule, medical documentation, and the animal-control file. A child-bite page focuses on the same rules through a family’s immediate medical and documentation needs. A rental page asks who had the dog and who controlled the surrounding property. An insurance page reads the coverage issue separately from responsibility for the bite.
+
+San Diego adds a useful local distinction. County Code section 62.615 creates a fast reporting obligation, while the City’s park rules require an eight-foot-or-shorter leash in parks, trails, and canyons unless the dog is within a posted off-leash boundary. The report, the photo record, the address, and the policy letter may all describe the same event but serve different purposes. They should not be treated as substitutes for each other.
+
+The current local numbers show why records matter. The San Diego Humane Society’s FY 2024-25 City report lists 1,218 bite reports, while County Animal Services states that it receives more than 2,500 dog-bite reports each year. A number alone does not decide an individual inquiry; it does show why a contemporaneous report is more dependable than a later reconstruction.
 
 ## about_summary
 
-This page covers dog bites in San Diego County and nothing else. It exists because the useful information after a bite is scattered across three places at once: a state statute in Sacramento that decides liability, a county code section that decides who has to report the bite and when, and an insurance policy that decides who pays. Someone sitting at home with a bandaged hand should not have to assemble that themselves. So the page sets out what California's strict liability rule actually says, what San Diego County requires within twenty-four hours of a bite, how the ten-day quarantine creates a paper record you can use, and where a civil case in this county is filed. No firm is named here and no outcome is promised, because neither would be true. What is offered is a consultation arranged with a San Diego dog bite lawyer, and enough local detail to walk into it knowing what questions to ask.
+This is a San Diego County information page, not a law firm page. It collects the practical rules that are otherwise scattered between California Legislative Information, the County animal-control code, City park guidance, and a residential-insurance consumer guide. The focus is narrow: what must be reported, what the statutory dog-bite rule actually asks, what the observation period does, and what policy paperwork may mean.
+
+The neighborhoods named here are North Park, City Heights, Pacific Beach, Clairemont Mesa, Point Loma, and Mira Mesa. The point is not that one neighborhood changes state law. It is that the exact address determines the local setting: a public way, a private home, a rental common area, a City park, or a posted off-leash zone. A precise address also helps identify the animal-control agency that holds the report.
+
+No attorney is identified, no result is predicted, and no fee arrangement is claimed. The material is background for an inquiry and does not replace individualized legal advice from an attorney selected by the person calling.
 
 ## value_1_title
 
-The liability rule is already in your favour
+The statute has a location condition
 
 ## value_1
 
-California's bite statute removes the prior-bite hurdle that other states still put in front of an injured person. The clean-record defence an owner offers on the sidewalk does not survive contact with the statute.
+Civil Code section 3342 does not ask whether the dog had a reputation. It asks whether there was a bite and whether the person was in public or lawfully in the private place where it occurred.
 
 ## value_2_title
 
-County paperwork used as evidence
+The County file has its own deadline
 
 ## value_2
 
-The bite report and the ten-day quarantine file are records San Diego agencies create, not the insurer. Pulled early, they fix the date, the address and the dog's identity in third-party documents.
+The reporting rule reaches more than the dog owner. It covers the bitten person, a minor’s parent or guardian, a treating physician, and other people with knowledge of a covered bite.
 
 ## value_3_title
 
-San Diego County, start to finish
+Observation is an agency process
 
 ## value_3
 
-Bites in the city and the unincorporated county fall under different animal control agencies, and civil filings land at downtown's Hall of Justice or the regional center in Vista. Local footing matters.
+A dog may need approved confinement and observation after a bite. The ten-day default for dogs and cats is not simply a private agreement between the dog owner and the bitten person.
 
 ## value_4_title
 
-Nothing owed unless money comes in
+An insurance label is not an answer
 
 ## value_4
 
-Bite claims are handled on contingency, so the review costs you nothing and no fee is owed unless compensation is actually recovered. No promise is made here about what any claim will produce.
+Personal-liability and medical-payments provisions are separate categories in residential policies. The declarations, exclusions, insured persons, and event location still need to be read.
 
 ## step_1_title
 
-The bite gets recorded properly
+Put health and reporting first
 
 ## step_1
 
-Date, location, dog, owner, witnesses, treatment so far, and which agency has the report. That written record is the claim's foundation and it gets built first, not last.
+Seek appropriate medical care, identify the dog and its owner if safely possible, and make sure the agency responsible for the bite location receives the report required by County Code section 62.615.
 
 ## step_2_title
 
-Liability and coverage are sorted out
+Build one factual file
 
 ## step_2
 
-Owner, keeper, landlord, property manager. Homeowner, renter, umbrella. Which of those actually responds to your bite decides who the claim is presented to.
+Keep the report number, photos, treatment records, witness details, address, and every insurance letter together. The same contemporaneous file is useful even when the legal questions differ.
 
 ## step_3_title
 
-A consultation gets arranged
+Use the inquiry to ask precise questions
 
 ## step_3
 
-If the facts support a claim, a San Diego dog bite lawyer reviews it with you and the deadline goes on a calendar. No outcome is predicted at that stage by anyone honest.
+The person calling can ask an attorney of their choosing about the statute, property control, a public-agency deadline, and policy language without assuming any conclusion beforehand.
 
 ## expect_intro_1
 
-The call is short and it is not a sales pitch. You will be asked where the bite happened, who had control of the dog, whether an animal control agency already has a report, and what a doctor has done so far. That is usually enough to tell whether the claim runs against a dog owner, a property owner, or both.
+A useful inquiry starts with a reliable timeline, not a long narrative. Write down when and where the bite occurred, which body area was injured, whether the dog was identified, and the name of the agency that received notice. If an emergency department or urgent-care provider treated the injury, retain the discharge paperwork and bills.
 
 ## expect_intro_2
 
-Nobody is going to value your injury over the phone, and you should be suspicious of anyone who does. The point of the call is to protect the two-year deadline, stop the insurer's version of events from becoming the only one on file, and set up a proper review of the medical picture.
+Do not erase the local detail. A public sidewalk in North Park, a rental walkway in City Heights, a Pacific Beach park, a Clairemont Mesa yard, Point Loma property, and a Mira Mesa home can generate different documents. The statute and the County code stay the same; the records and the people with information do not.
 
 ## expect_1_label
 
-Where you were standing
+The exact address
 
 ## expect_1
 
-A public sidewalk, a park with a leash rule, one of the city's designated off-leash areas, a fenced yard you were invited into, or the shared walkway of an apartment building. Each one changes the argument, and off-leash beaches change it most.
+An address establishes the setting and identifies the local agency with animal-control responsibility. Keep cross streets, unit numbers, park names, and photographs of signs or gates if they exist.
 
 ## expect_2_label
 
-Who had the leash
+The bite report number
 
 ## expect_2
 
-The owner, a family member, a dog walker, a friend minding the animal for the weekend. The person keeping the dog can be liable alongside the registered owner, and a walker often carries separate coverage.
+Ask which agency received the report and record its incident or report number. That makes it easier to locate the quarantine or follow-up material later.
 
 ## expect_3_label
 
-Whether a report exists
+The dog and its custodian
 
 ## expect_3
 
-San Diego Humane Society handles animal field services for the City of San Diego, while County Animal Services covers unincorporated areas, and other cities contract elsewhere. Knowing which one took the report saves days of chasing it.
+Name, phone number, dog description, license information if known, vaccination information if provided, and the name of the person physically handling the dog are all basic facts worth preserving.
 
 ## expect_4_label
 
-What the medical record says
+The policy paperwork
 
 ## expect_4
 
-Where you were treated, whether the wound was closed or left open, whether rabies or tetanus prophylaxis was given, and whether a hand or facial specialist was involved. Depth and nerve involvement matter more than stitch count.
+Save declarations pages, letters, email attachments, and any request for a statement or records. A policy’s actual terms control more than an oral description of coverage.
 
 ## factor_1_title
 
-The address, not just the city
+Public place or lawful private presence
 
 ## factor_1
 
-City of San Diego, an incorporated neighbour, or unincorporated county all mean a different animal control agency holding the file, and different contracted enforcement behind it.
+That distinction appears in Civil Code section 3342 itself. An invitation, a work duty, a postal duty, and the facts of entry can all be relevant to the statute’s private-property condition.
 
 ## factor_2_title
 
-Leashed area or off-leash area
+City park or posted dog area
 
 ## factor_2
 
-Away from home the county rule is a hand-held leash of six feet or less. Inside one of the city's designated off-leash areas, including its two dog beaches, the expectations are not the same and the analysis shifts.
+City guidance keeps dogs on a leash of no more than eight feet in parks, trails, and canyons, except within posted off-leash boundaries. Photograph the setting and posted rules.
 
 ## factor_3_title
 
-Who else had control of the property
+Private owner, renter, or public entity
 
 ## factor_3
 
-A bite in a rental courtyard or a condo stairwell brings the landlord's knowledge and their power to act into play. A bite inside a private unit usually does not.
+The dog owner named by the statute, a tenant, a building manager, a landlord, and a government agency are not interchangeable categories. Their roles require separate questions.
 
 ## factor_4_title
 
-What the injury will still need
+How the injury develops
 
 ## factor_4
 
-A puncture that closes in a fortnight is not the same claim as a crushed hand, a nerve injury, or a facial scar on a child that will need revision years later.
+Puncture depth, infection, scarring, hand function, nerve symptoms, and follow-up care should be recorded by the treating professional. Do not let a first-day photograph become the only medical record.
 
 ## urgency_bullet
 
-County bite reports treated as time-sensitive
+County bite reporting is time-sensitive
 
 ## values_eyebrow
 
-Why people call after a San Diego bite
+San Diego rules before legal marketing
 
 ## values_head
 
-A claim opened on the record, not on an apology
+Start with the record the County and the statute require
 
 ## values_lede
 
-The owner's version and the adjuster's version both get written down early. Yours should too, with the county file and the medical notes behind it.
+A person does not need a polished legal story on day one. They need medical attention where appropriate, a timely report, and a file that preserves what happened.
 
 ## factors_lede
 
-No two San Diego bites sit in the same legal position. Four things decide who the claim is presented to and what has to be proved.
+Four local questions separate an ordinary dog-bite inquiry from a guess: where the bite happened, who had the dog, which agency holds the record, and what the policy actually says.
 
 ## problem_lede
 
-Four situations account for most of the dog bite questions that come in from San Diego. Each is explained in full below.
+These four situations are often described with the same words even though they call for different documents and different legal questions. Each service page takes one of them apart.
 
 ## problem_nudge
 
-None of this is legal advice about your situation. Only an attorney who has seen your records and the county file can say what your claim actually looks like. Knowing which of the four you are in makes that review faster.
+This is general information, not advice about a particular event. A lawyer selected by the person calling can apply the statute and the available records to the facts without treating an inquiry as a predetermined result.
 
 ## expect_eyebrow
-Before the ten-day quarantine ends
+
+Before the County’s observation period closes
 
 ## expect_head
 
-What matters most after a bite
+What to write down while details are still fresh
 
 ## emergency_note
 
-A bite that broke the skin needs medical attention the same day, and anyone who knows about a bite in San Diego County is expected to report it within twenty-four hours. Do both of those before worrying about a claim.
+If a bite breaks skin, seek appropriate medical care promptly. In San Diego County, a person with knowledge of a covered bite generally must notify the Department or Health Officer within 24 hours unless earlier reporting was impossible.
+
+## services_pick_head
+
+Choose the question that matches the record you need
+
+## crosslink_head
+
+A different dog-bite question in San Diego?
+
+## svc_dog_bite_injury_claim_lede
+
+The first question after a dog bite is not how aggressively the dog behaved. It is whether the injury, location, dog ownership, and local report can be documented accurately. In San Diego, that means taking the medical record and the County’s 24-hour reporting rule seriously from the start.
+
+## svc_dog_bite_injury_claim_body
+
+### Care and documentation begin together
+
+Seek medical care appropriate to the injury, then preserve the facts while they are fresh. Keep discharge instructions, bills, photographs, the time and exact address, dog description, owner contact information, and witness names. A later account cannot replace a first-day record of where the teeth landed or whether the skin broke. These basics help a person describe an event without guessing about dog history, coverage, or legal responsibility.
+
+### The statute is a short checklist
+
+Civil Code section 3342 concerns a dog bite, the dog’s owner, and a person bitten in a public place or while lawfully in a private place. The owner’s property is included when lawful presence exists. The text also says that former viciousness and the owner’s knowledge do not change this statutory rule. A fall, a collision, an ownership dispute, or an entry without lawful authority needs separate analysis; do not treat every dog-related injury as identical.
+
+### Why lawful presence needs proof
+
+The statute describes lawful presence through an express or implied invitation and performance of a duty imposed by California or postal law. Save invitations, delivery or work records, photos of gates and signs, and witness accounts. “Near Pacific Beach” is less useful than an address, path name, or cross streets. A public sidewalk, a rental corridor, a private kitchen, and a posted dog area can produce different records even when the injury sounds similar.
+
+### Report the bite and obtain the number
+
+County Code section 62.615 covers the bitten person, a minor’s parent or guardian, the treating physician, the animal’s owner or custodian, and others with knowledge of a bite by an animal subject to rabies. Failure to report within 24 hours is a violation unless earlier reporting was impossible. Ask the agency for its report number. That number links the date and address to the animal-control record; it does not decide civil responsibility or payment.
+
+### What the observation period does—and does not—do
+
+Under County Code section 62.617, the Department or Health Officer may order approved strict confinement and observation. Dogs and cats generally require at least ten days, with a narrow veterinarian-certified alternative. The agency must approve release. County Animal Services says current rabies vaccination does not remove the quarantine requirement. The file can confirm practical facts about the dog and owner, but it is primarily a public-health record, not a civil decision.
+
+### Preserve a park or public-space setting
+
+The City says dogs in parks, trails, and canyons must have a leash no longer than eight feet except inside a posted off-leash boundary. Photograph entrance signs, boundaries, the lead if present, and the route of travel. This is especially useful around North Park, City Heights, Pacific Beach, Clairemont Mesa, Point Loma, and Mira Mesa, where the neighborhood name is only a starting point; the exact setting identifies the relevant people and records.
+
+### Government dogs and the filing calendar
+
+Section 3342 separately limits the special statutory action against a governmental agency using a police or military dog in specified circumstances, including certain law-enforcement functions and defined self-defense. It preserves the provision for a person not involved in, participating in, or suspected of the conduct that prompted dog use, and the limitation requires an agency written policy. Government Code section 911.2 generally requires a personal-injury claim against a public entity within six months. For an ordinary private-owner injury action, Code of Civil Procedure section 335.1 provides two years. Keep both calendars distinct.
+
+### A factual injury inquiry
+
+Bring medical records, photos, a timeline, the animal-control report number, owner and witness details, the address, and insurance correspondence. Mark unknown facts as unknown. The person calling can use that file to ask an attorney of their choosing focused questions about the statute, the report, and the applicable deadlines.
+
+## svc_child_dog_bite_claim_lede
+
+When a child is bitten, the first task is care, not a legal narrative. San Diego’s reporting and observation rules still apply, but a child’s changing wound, treatment needs, and the location of the bite make detailed medical documentation especially important.
+
+## svc_child_dog_bite_claim_body
+
+### Put the child’s medical record first
+
+A child’s injury should be treated by the appropriate provider, not by a legal narrative. Keep the provider’s description of body area, depth, repair, infection concerns, sensation or movement findings, and follow-up instructions. Photograph the injury in good light as it changes, following medical guidance. A face, scalp, hand, forearm, or leg wound may look different once swelling falls. One photo and a parent’s memory are not a complete record.
+
+### A familiar dog still requires a report
+
+County Code section 62.615 expressly names the parent or guardian of a minor who is bitten. The treating physician and animal owner or custodian have duties too, but a parent should not assume another person reported it. The code generally requires notice within 24 hours unless earlier reporting was impossible. Ask the agency responsible for the address how to confirm the report, then retain its number with the medical paperwork.
+
+### Quarantine is a public-health process
+
+County Code section 62.617 allows the Department or Health Officer to order approved confinement and observation. A dog or cat ordinarily requires at least ten days; the code provides a limited, veterinarian-certified alternative. County Animal Services says the requirement can apply even when the dog is currently vaccinated and that a secure home enclosure may be allowed only under agency direction. The child’s provider guides medical care; the observation file has a different purpose.
+
+### Record why and where the child was there
+
+Civil Code section 3342 concerns a bite by a dog whose owner is named in the statute, when the person bitten was in public or lawfully in a private place. The owner’s property can qualify. It also says prior viciousness and owner knowledge do not control that rule. Preserve text invitations, photos of gates, names of adults present, and the reason for the visit. A relationship with the dog-owning family does not erase these factual questions.
+
+### Photograph the public setting too
+
+The City’s park guidance requires dogs to be on a leash no longer than eight feet in parks, trails, and canyons except within posted off-leash boundaries. If the bite occurred near a playground, beach path, trail, or dog area, photograph the posted boundary, not only the injury. That is useful in Pacific Beach, Point Loma, Clairemont Mesa, or any neighborhood location where the sign, lead, and route can disappear by the next day.
+
+### Do not predict future medical needs from a website
+
+Some injuries resolve quickly; others require specialist follow-up, scar management, physical therapy, counseling, or further treatment. Preserve each treating record and documented school or caregiver impact rather than predicting an outcome early. Insurance letters may arrive before that work is complete. Keep them, but distinguish a medical-payments discussion from a personal-liability discussion and read any release before signing it.
+
+### Dangerous-dog proceedings are separate
+
+County Animal Services describes a dangerous dog as one that attacked or bit two people within 48 months, or once caused substantial injury or death. Under section 62.674, the Department can send notice of intent, identify incidents, explain a hearing right, and require a written request within ten days; it may impound a dog first when safety requires. That process serves public safety. It does not replace the child’s medical file or resolve every civil question.
+
+### A calm family file
+
+Keep medical records, dated photos, parent notes, the report number, witness contacts, the address, dog and owner information, and insurance letters together. Do not coach a child or ask for repeated recordings of the event. The person calling can bring an orderly file to an attorney of their choosing for advice tailored to the family’s situation.
+
+## svc_landlord_dog_bite_liability_lede
+
+A bite at a rental property raises two different subjects that are often collapsed into one: who owned or controlled the dog, and who controlled the property conditions around it. California’s dog-bite statute names the dog’s owner; a landlord or manager requires a separate, fact-specific inquiry.
+
+## svc_landlord_dog_bite_liability_body
+
+### Start with the dog, not the building deed
+
+Civil Code section 3342 names the dog’s owner in its bite rule when the statute’s conditions are met. Building ownership is not dog ownership. Identify the animal’s actual owner, the person handling it, and the exact location of the bite. Keep names, unit information, contact details if available, and the animal-control report number. A dog in a tenant’s unit, a shared stairwell, a broken gate, or temporary care can involve different records.
+
+### Preserve the property layout immediately
+
+Photograph the place broadly and closely: gates, latches, fence openings, signs, stairs, hallways, parking areas, doors, and lighting where relevant. Repairs or move-outs can erase the setting fast. Record the exact address and unit. A City Heights duplex, a Clairemont Mesa complex, a North Park corridor, a Point Loma property, a Pacific Beach rental, or a Mira Mesa building needs more than a neighborhood label; the physical location explains what can be checked.
+
+### Keep dog-control and property-control records apart
+
+Animal-control reports, dog-owner messages, witness details, and information about who held the lead belong in one group. Leases, pet addenda, management emails, maintenance requests, complaint logs, and common-area photos belong in another. Do not turn a neighbor’s account into a conclusion about prior incidents. Preserve the speaker’s name and what they personally saw. An official report is more dependable than rumor, but it is not a public list of every complaint.
+
+### A common area is not an automatic answer
+
+A lobby, courtyard, walkway, or parking lot may raise questions about property control, but its existence does not decide responsibility for a landlord or manager. The inquiry needs facts about notice, ability to act, and the rules or condition actually in place. Retain complete documents. A pet clause, warning, noise complaint, or repair request can mean something different depending on its date, wording, and surrounding pages.
+
+### The County reporting duty still applies
+
+The rental setting does not alter section 62.615. It covers the bitten person, a minor’s parent or guardian, a treating physician, the owner or custodian, and others with knowledge of a covered bite. The code generally requires notice within 24 hours unless earlier reporting was impossible. Under section 62.617, a dog or cat may require approved observation for at least ten days. The report can identify the dog and address; it does not replace lease or maintenance evidence.
+
+### Policy questions require the actual policy
+
+The California Department of Insurance residential guide lists personal-liability and medical-payments-to-others categories for homeowners and renters policies. It does not say every event is covered. A renter, dog owner, property owner, manager, or association can raise separate coverage questions. Save declarations pages, complete policies, endorsements, and letters. Do not assume a landlord policy responds merely because the bite occurred at a rental address.
+
+### The dangerous-dog process has a different purpose
+
+County guidance describes a dangerous dog as one that bit or attacked two people in 48 months, or once caused substantial injury or death. Section 62.674 permits notice of intent, a hearing request process, and immediate impoundment when safety requires. Those public-safety steps are not a decision about landlord responsibility. Preserve any notices or hearing material for their dates and agency contacts, but do not call a dog legally dangerous without the paperwork.
+
+### Build a checkable rental inquiry
+
+Keep the medical file, property photos, address and unit, report number, dog-owner and witness information, lease and management records, repair evidence, and insurance letters. Make a timeline of the bite, report, treatment, messages, repairs, and move-out. The person calling can use it to ask an attorney of their choosing targeted questions without deciding in advance who is responsible.
+
+## svc_dog_bite_insurance_claim_lede
+
+Insurance after a dog bite is a document question before it is a negotiation question. California’s consumer guide identifies personal-liability and medical-payments-to-others coverage categories in residential policies, but only the particular policy tells whether, how, and to whom coverage may respond.
+
+## svc_dog_bite_insurance_claim_body
+
+### Begin with the policy documents
+
+A declarations page can identify the named insured, policy period, coverage limits, property address, and some endorsements. Keep it with the complete policy and every letter. A dog bite may raise questions about a homeowners, condominium, or renters policy, but the answer is never that insurance always responds or never responds. The policy terms and the actual facts decide what is available to examine.
+
+### Two coverage categories are often confused
+
+The California Department of Insurance guide describes Coverage E as personal liability and Coverage F as medical payments to others in residential policies. They are separate categories. A letter discussing one does not silently decide the other. Preserve the claim number, adjuster name, attachments, and response date. If a check or release arrives, read the complete document before signing; it may address more than the payment shown on its face.
+
+### Dog owner, policyholder, and handler are different labels
+
+The dog’s owner matters under Civil Code section 3342. A named insured, resident relative, renter, property owner, and dog custodian may matter under a policy. They are not interchangeable. Write down who owned the dog, who physically controlled it, where it usually lived, whose address the policy covers, and where the bite occurred. A visiting dog in Point Loma, a tenant dog in Pacific Beach, or a dog being walked in North Park calls for facts, not assumptions.
+
+### Read reservations and exclusions precisely
+
+A reservation of rights, request for more information, coverage acceptance, and denial are different documents. An exclusion may depend on defined terms, endorsements, household facts, location, or another condition. Ask for the complete policy form and the cited endorsement if a letter quotes only a fragment. A careful inquiry asks whether the correct policy was identified, whether all pages were supplied, and whether the insurer’s factual description is accurate. Keep the envelope or email metadata too.
+
+### The animal-control file is not an insurance decision
+
+County Code section 62.615 requires prompt reporting by the people it names for a bite by an animal subject to rabies. Section 62.617 permits approved isolation and observation; a dog or cat ordinarily has at least ten days. Those rules do not determine insurance coverage, but the report can establish a third-party timeline. Ask for the report number. The agency depends on the address: the Grand Jury report identifies San Diego Humane Society as the City’s contracted provider and County Animal Services for unincorporated areas.
+
+### Public-agency dog events need a separate check
+
+Civil Code section 3342 has special limits for a governmental agency using a police or military dog in defined settings. The limitation does not apply to a person not involved in, participating in, or suspected of the conduct that prompted use of the dog, and it requires the agency’s written dog-use policy. Government Code section 911.2 generally requires a personal-injury claim against a public entity to be presented within six months. Identify an agency connection before waiting on a coverage discussion.
+
+### Keep the ordinary deadline visible
+
+For an ordinary private-owner personal-injury action, Code of Civil Procedure section 335.1 provides two years. A request for records, ongoing treatment, or insurer delay does not replace attention to that calendar. Special facts can change the analysis, so an attorney should be asked about the actual situation early enough to respond meaningfully. A website cannot calculate a deadline from a short description.
+
+### Organize a policy-centered inquiry
+
+Keep the declarations page, policy forms, endorsements, letters, report number, medical records and bills, photos, witness information, and a dated contact log in one place. The person calling can take an orderly insurance inquiry to an attorney of their choosing instead of attempting to reconstruct policy terms while recovering from an injury.

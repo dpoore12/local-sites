@@ -1,6 +1,6 @@
 {
  "domain": "houstonmotorcycleaccidentlawyerpros.com",
- "phase": 1,
+ "phase": 2,
  "brand": "Houston Motorcycle Accident Law Pros",
  "service": "Motorcycle Accident Lawyer",
  "service_inline": "motorcycle accident lawyer",
@@ -47,7 +47,7 @@
   {
    "id": "two_year_deadline",
    "claim": "Texas Civil Practice and Remedies Code 16.003 requires a personal injury suit to be brought no later than two years after the day the cause of action accrues, and sets the same two-year period for an action for injury resulting in death, running from the date of death.",
-   "why_it_matters": "Houston suits are filed in the civil district courts at the Harris County Civil Courthouse, or in Fort Bend County where venue belongs there, and an insurance adjuster keeping a claim file open does nothing to stop that clock. Claims that involve a government-owned vehicle are worse, because those carry written notice requirements measured in months.",
+   "why_it_matters": "A two-year filing date is easy to lose track of while treatment, insurance calls, and motorcycle storage compete for attention. Recording the date early helps the person involved seek individualized advice before relying on a general website explanation.",
    "sources": [
     "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm"
    ],
@@ -57,7 +57,7 @@
   {
    "id": "proportionate_responsibility",
    "claim": "Under Texas Civil Practice and Remedies Code 33.001 a claimant recovers nothing if their percentage of responsibility is greater than 50 percent, and under 33.012 a claimant below that line has their damages reduced by the percentage of responsibility assigned to them.",
-   "why_it_matters": "This is why an adjuster starts arguing about a rider's speed, lane position or helmet within days of the crash. Every percentage point moved onto the rider comes off the recovery, and 51 percent ends the claim entirely. Texas Transportation Code 661.003 matters here too: riders at least 21 years old who completed an approved operator training course or carry health insurance for motorcycle crash injuries are excepted from the helmet requirement, so lawful helmet-free riding is not evidence of causing a collision.",
+   "why_it_matters": "A percentage dispute can make the road sequence, vehicle damage, video, and witness accounts important. The helmet statute has its own requirement and statutory exceptions; this site does not make an evidence or damages statement about helmet use.",
    "sources": [
     "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm",
     "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.661.htm"

@@ -1,279 +1,435 @@
 # Copy — tampacriminaldefenselawyerpros.com
-# Criminal Defense Lawyer in Tampa, FL · target keyword `criminal defense lawyer tampa`
-# Written 2026-08-21 · pre-tenant · no firm, no attorney, no result claimed anywhere.
-# Nothing on this page predicts an outcome or comments on guilt.
+# Tampa criminal-defense procedure resource. Written 2026-08-23.
+
+## RULES
+
+- Write for Tampa and Hillsborough County; do not reuse prose from another site.
+- This is a general-information resource, not a law practice, directory, matching
+  program, or service that receives, assesses, selects, or routes inquiries.
+- Never name a business, lawyer, licence number, review count, price, or time in
+  business. No provider is identified on this site.
+- Home page lands 1,300-2,300 visible words. Each service page lands 900-1,500
+  visible words. Symptom teasers must be 40-80 words.
+- Legal wording: do not use “client,” “case,” “referral,” “we recommend,”
+  “top-rated,” “we matched you,” or language suggesting a person calling has been
+  screened, evaluated, or paired with a lawyer.
+
+---
 
 ## meta_title
 
-Criminal Defense Lawyer in Tampa, FL — Arrest, Bond, Hillsborough Court Dates
+Tampa Criminal Defense Information — Arrest, Bond, DUI and Court Dates
 
 ## meta_description
 
-Arrested in Hillsborough County and unsure what happens next? Plain answers on first appearance, the county bond schedule, filing decisions and arraignment notices in Tampa, and a number that reaches a defense lawyer.
+Plain Florida and Hillsborough County criminal-process information for Tampa: first appearance, bond, charges, DUI deadlines, records relief, and a listed phone number.
 
 ## hero_promise
 
-Charges move on a schedule set by the court, not by how the arrest felt. In Hillsborough County the clock starts at booking, a judge is supposed to see the arrested person inside a day, and the State Attorney's filing decision comes later and separately. One call here arranges a consultation with a Tampa defense lawyer who can be in place before the next hearing rather than after it.
+An arrest in Tampa starts several separate tracks: custody and first appearance, a prosecutor’s charging decision, court notices, and deadlines that may run outside the courthouse. This page explains those tracks with Florida statutes, court rules, and Hillsborough County sources. It is general information only; it does not judge facts, predict an outcome, or offer individualized legal advice.
 
 ## what_happens_when_you_call
 
-You reach someone who arranges a consultation with a defense lawyer covering Hillsborough County, and the first thing established is timing. If somebody is sitting in the jail on Orient Road right now, the near-term question is when first appearance is calendared and whether the arrest charge is one a booking officer can bond at all. If paperwork already arrived in the mail with a court date on it, the question is which division and courtroom it names and how much room is left before that date. No outcome is promised on this page, no fee is quoted on it, and nobody here will tell you what a judge is going to do.
+This is a plain-information resource with a phone number. It is not a law practice, a lawyer directory, a matching program, or a service that takes facts and decides where an inquiry should go. The site does not receive documents, rank lawyers, transmit an inquiry to a lawyer, or promise that a lawyer will answer the number. The person calling should not use a recorded line to discuss the underlying events. For advice about an individual charge, choose and contact a Florida lawyer directly.
 
 ## what_they_will_ask
 
-A short list of details decides how urgent the next step is. What the arrest paperwork or the booking sheet actually lists as the charge, in the words printed on it, rather than a summary of what happened. Whether the person is still in custody or was released, and on what kind of bond. Whether first appearance has already happened, and whether a judge set any conditions at it. Whether any papers have arrived by mail from the Clerk with a date on them. Whether the person was on probation, community control or pretrial release from an earlier case when this arrest happened, because that single fact changes what a booking officer is permitted to do.
+The most useful information to put in order is for the person calling, not for this website: the charge exactly as printed, the booking or release paperwork, any bond terms, and every court notice. Note whether the person is still in custody, whether a first appearance has happened, and whether an address used at booking is still reliable for mail. That preparation helps when the person independently seeks legal advice and helps avoid missing a Hillsborough court date.
 
 ## symptom_1_title
 
-Somebody was arrested on a felony and is still in the county jail
+An arrest on a felony and a first appearance still ahead
 
 ## symptom_1
 
-After a Hillsborough arrest the person is booked into county custody and the paperwork begins moving without them. Florida Rule of Criminal Procedure 3.130 requires that an arrested person who has not already been released be brought before a judicial officer within twenty-four hours, and in this county that hearing is normally conducted over an audiovisual link from the jail rather than in a courtroom downtown. At it the judge states the charge, hands over a copy of the complaint, advises the person that nothing has to be said, and addresses counsel and release conditions.
-
-Two separate things are often collapsed into one. The arrest charge is what a deputy wrote. The filed charge is what the Office of the State Attorney for the Thirteenth Judicial Circuit decides to pursue after reviewing the file the Clerk's felony department assembles from the jail paperwork. Those can differ in degree, in count, or in whether anything is filed at all, and the decision arrives on the State's timetable.
-
-Rule 3.130 also carries a provision worth knowing while somebody is still inside. If the defendant has hired counsel, or is able to and wants to, the judge is to allow reasonable time to send for that lawyer and, on request, have an officer carry a message to the named lawyer without cost when the lawyer is in the county.
-
-Practical, and often ignored: calls out of the jail are recorded, and the case is the worst possible subject for them. The useful action in the first day is getting a defense lawyer engaged so someone is standing in that video hearing prepared, and so the next date on the calendar is not the first time anyone looked at the file.
+Florida Rule 3.130 generally requires an arrested person who has not been lawfully released to go before a judicial officer within 24 hours. Hillsborough duty judges conduct first appearances by audiovisual device from Courtroom 17 in the Courthouse Annex. The booking bond schedule is not the judge’s decision; it applies only to the booking officer and excludes many arrests. Read the felony-defense page for the sequence and documents.
 
 ## symptom_2_title
 
-A misdemeanor charge, a notice to appear, and a court date in the mail
+A misdemeanor notice, bond paperwork, or an arraignment letter
 
 ## symptom_2
 
-Plenty of Hillsborough cases never involve a night in custody. A deputy or a Tampa officer issues a notice to appear, or the person bonds out within hours, and the matter then goes quiet for weeks. That silence is routinely mistaken for the case going away. It has not. Misdemeanors are prosecuted in county court, and the case becomes real again when the Clerk mails an arraignment date.
-
-Where that letter goes matters more than people expect. The Hillsborough County Clerk of Court sends notice to the address given at the time of arrest. A person who was staying somewhere temporarily, gave an old apartment in Tampa Heights out of habit, or moved between the arrest and the filing may never see the envelope, and the court date arrives all the same. Missing it does not pause anything; it invites a warrant on top of the original charge.
-
-At arraignment the filed charge is read and a plea is entered, and a pretrial date, sometimes a trial date, is set from there. That is a procedural station, not a verdict. Florida Statutes 775.15 gives the State two years to commence prosecution of a first-degree misdemeanor and one year for a second-degree misdemeanor, with the count starting the day after the offense date, so a case can surface long after most people assume it has expired.
-
-The reason to have a defense lawyer on a misdemeanor is unglamorous and concrete. Somebody reviews what was actually filed against the charge as written, appears on the noticed date, and handles the paperwork the court expects on its own schedule rather than yours. Nothing about the size of the charge is promised here, and no result is predicted.
+A misdemeanor can feel distant after release, but the court calendar proceeds independently. Keep the address used at booking current, preserve every notice, and read the charge degree rather than relying on a verbal summary. First-degree and second-degree misdemeanors have different statutory limitation periods, while individual court dates create nearer obligations. The misdemeanor-defense page separates arrest, filing, arraignment, and records questions.
 
 ## symptom_3_title
 
-A drug charge that came out of a search, a stop, or a car
+A drug allegation after a stop, vehicle search, or residence search
 
 ## symptom_3
 
-Drug charges in Hillsborough County usually begin with a traffic stop on the interstate, a call to a residence, or a search of a vehicle, and what the paperwork alleges was found is only part of the file. The rest is how the encounter unfolded: what the stop was based on, what was said, whether consent was given or claimed, and what a lab later reports about the substance and its weight.
-
-Weight and statute subsection do most of the work in how a Florida drug charge is written. The difference between a possession count and a trafficking count is not a matter of tone. It is a threshold in the statute, and it changes the degree of the felony, whether the offense sits on the county's bond schedule at all, and what the sentencing framework looks like. That is a legal reading of the charging language, not an opinion about what happened.
-
-Timing also runs quietly. The substance is analyzed and reported, and the State Attorney's filing decision can land weeks after the arrest, sometimes on different counts than the arrest sheet listed. Meanwhile the Clerk's file is already open and the arraignment notice is already routed to whatever address was recorded at booking.
-
-Nothing here suggests a defense or a result. What it argues for is having a defense lawyer read the actual documents early: the affidavit, the property receipt, the lab report when it exists, and any video. Those are the records a court works from. Discussing the case on a recorded jail line or with anyone other than a lawyer is how avoidable damage gets done.
+Drug paperwork often lists the substance, amount, statute subsection, and the place where officers say it was recovered. Those details matter: ordinary controlled-substance possession, cannabis possession, possession with intent, and trafficking are not interchangeable labels in Florida law. Preserve the arrest affidavit, property receipt, and later laboratory paperwork. The drug-charge page explains the statutory categories and why a search timeline should be documented early.
 
 ## symptom_4_title
 
-An assault or battery allegation has been filed and there are release conditions
+An assault or battery allegation with no-contact terms
 
 ## symptom_4
 
-Assault and battery allegations move faster into court and slower out of it than people expect, and the release rules are where that first shows up. The Thirteenth Judicial Circuit's bond schedule order, adopted for Hillsborough County and effective through the end of 2026, applies only to the booking officer, and a long list of offenses is carved out of it. Felony battery, domestic battery by strangulation, domestic violence as defined in Florida Statutes 741.28, stalking, and battery on a person sixty-five or older are all on that carve-out list, along with first- and second-degree felonies generally.
-
-The practical effect is simple: for those charges nobody is bonded at the jail counter. The person waits for a judge, who then makes an individualized decision on release and conditions under Florida Statutes 903.011 and 903.046 and Rule 3.131. Conditions attached at that hearing frequently include no contact with the alleged victim, and sometimes a stay-away term covering a residence.
-
-Those conditions are a court order from the moment they are spoken, and they hold regardless of what the other person wants, texts, or says later. Contact initiated by them does not cancel the order. Violating it can generate a new case and put release itself at risk, which is often more immediately damaging than the original charge.
-
-One more thing people misread. Whether the case proceeds is not the complaining witness's decision. The State Attorney's office decides what to file and whether to pursue it. A defense lawyer engaged early can appear at first appearance and at the hearings that follow and can address conditions through the court, which is the only channel that legally counts. No outcome is promised here.
+Do not treat a no-contact or stay-away term as informal. A release condition remains in force unless a court changes it, even if another person initiates a message or asks for contact. Florida’s bond order for Hillsborough recognizes individualized release decisions, and the local pre-first-appearance schedule excludes many violence-related allegations. The assault-charge page distinguishes ordinary battery, felony battery, and the immediate paperwork to preserve.
 
 ## qa_1_question
 
-How long after a Tampa arrest should someone see a judge?
+How quickly should an arrested person see a judge in Tampa?
 
 ## qa_1_answer
 
-Within twenty-four hours. Florida Rule of Criminal Procedure 3.130 says every arrested person who has not already been released in a lawful manner must be taken before a judicial officer inside that window, in person or by electronic audiovisual device at the court's discretion. In Hillsborough County that hearing is generally run by video from the jail. The judge states the charge, provides a copy of the complaint, advises the person of the right to remain silent and the right to counsel, and addresses release under Rule 3.131. A separate rule, 3.133, sets a forty-eight-hour outer limit for a nonadversary probable cause determination when the defendant is in custody.
+Florida Rule of Criminal Procedure 3.130 says that an arrested person who has not already been released in a lawful manner must be taken before a judicial officer within 24 hours of arrest. At that hearing the judge gives the charge, provides a complaint copy, and advises the person about silence and counsel. Rule 3.133 addresses a separate nonadversary probable-cause determination for a person held in custody, generally within 48 hours. In Hillsborough, the duty-judge administrative order assigns first appearances and bond motions by audiovisual device from Courtroom 17 in the Courthouse Annex; weekday proceedings commence at 9:00 a.m., with weekend and holiday proceedings following juvenile detention and shelter hearings.
 
 ## qa_2_question
 
-Why was no bond available at the jail before first appearance?
+Why might no bond be available from booking before first appearance?
 
 ## qa_2_answer
 
-Because the schedule a booking officer uses does not cover every charge. Administrative Order S-2025-063 in the Thirteenth Judicial Circuit adopts the statewide uniform bond schedule for Hillsborough County without change for calendar year 2026, and states plainly that the schedule binds the booking officer only, not a judge. It also excludes a substantial list of arrests: capital, life, first- and second-degree felonies, homicide, robbery, burglary, carjacking, kidnapping, trafficking in a controlled substance, injunction violations, and anyone who was on probation, community control or pretrial release at the time of a felony arrest, or who has three or more arrests in the preceding six months. Those arrestees wait for an individualized determination by a judge.
+Hillsborough’s 2026 administrative order adopts the statewide bond schedule without change, but the schedule applies to the booking officer rather than to a judge. It excludes numerous arrest categories, including capital, life, first-degree, and second-degree felonies; robbery, burglary, carjacking, kidnapping, trafficking, felony battery, domestic battery by strangulation, stalking, injunction violations, and several supervision-status situations. A person excluded from the schedule may not be released before first appearance under that order. When a judge addresses release, the order calls for an individualized inquiry under Florida statutes and Rule 3.131 rather than a mechanical schedule amount.
 
 ## qa_3_question
 
-The arrest happened but nothing has been filed. Is the case over?
+Does silence after an arrest mean formal charges will never be filed?
 
 ## qa_3_answer
 
-Not necessarily, and the gap is normal. An arrest and a formal charge are separate events in Florida. The Hillsborough County Clerk of Court receives the initial paperwork from the jail, its felony department builds the official court file with the arrest document and any release forms, and that file goes to the State Attorney, who decides whether to file formal charges. When charges are filed, the Clerk mails an arraignment date to the address given at arrest, and the bond agent is notified too if the person bonded out. Florida Statutes 775.15 sets the outer limits: four years for a first-degree felony, three for most other felonies, two for a first-degree misdemeanor.
+No. The arrest paperwork and an information filed by a prosecutor are separate steps. The Hillsborough Clerk explains that felony arrest paperwork goes from the jail to the Clerk’s felony department, which prepares the official court file and forwards it to the State Attorney for a filing decision. When formal charges are filed, the Clerk sends an arraignment notice to the address supplied at arrest and also notifies a bond agent when applicable. Florida Statute 775.15 generally sets four years for a first-degree felony, three years for another felony, two years for a first-degree misdemeanor, and one year for a second-degree misdemeanor, subject to statutory exceptions.
 
 ## closing_cta
 
-Court dates in Hillsborough County arrive by mail and do not move because you were not ready. Call to arrange a consultation with a Tampa defense lawyer, bring the arrest paperwork and any notice you have received, and get somebody reading the file before the next date rather than after it. No result is promised, on this page or on that call.
+Use this page to understand the public process and to keep paperwork organized. A particular charge, release condition, or deadline calls for legal advice from a Florida lawyer chosen independently by the person involved. The listed phone number does not change that: this website does not review facts, identify a lawyer, or route an inquiry.
+
+## services_summary
+
+“Criminal defense” is a broad label that can hide four very different procedural paths. Felony allegations commonly make first appearance, release, filing, and circuit-court notices central. Misdemeanor allegations may move through county court after a notice to appear or a short booking period. Drug allegations add a search, property inventory, laboratory, and statutory-schedule layer. Assault and battery allegations often place immediate attention on release conditions and the charge level.
+
+The confusion matters because the same arrest sheet can contain multiple counts, a statutory degree, and conditions that do not all move together. A court notice is not a substitute for the booking record; a booking record is not the final charging document; and a driver-license suspension following a DUI arrest can have its own administrative timetable. Read the page that matches the written charge first, then preserve the original paperwork.
 
 ## about_summary
 
-This page covers one county and one kind of trouble. It exists so that somebody who was arrested in Tampa last night, or who opened an envelope from the Clerk this morning, can find out what the process actually requires of them next, in the order it happens: booking, first appearance inside twenty-four hours under Rule 3.130, a filing decision made by the Office of the State Attorney for the Thirteenth Judicial Circuit, then an arraignment date mailed to the address recorded at arrest. Every legal claim here is drawn from the Florida rules and statutes, the circuit's own administrative orders, or the Hillsborough County Clerk of Court, and each is linked to its source. No firm, no lawyer and no case history is named anywhere on this site, because none is signed to it yet. Nothing here is legal advice about a particular case, and nothing here predicts what any court will do.
+This website is a Tampa and Hillsborough County public-information resource. It describes the order in which criminal procedure commonly appears in local records: arrest and booking, a first appearance, possible release conditions, a prosecutor’s filing decision, and later notices from the Clerk. Its legal facts come from Florida statutes and criminal rules, the Thirteenth Judicial Circuit, and the Hillsborough Clerk.
+
+No law practice, lawyer, or paid participant is identified here. The resource does not offer legal services, make lawyer selections, accept charge details, or send an inquiry to anyone. Nothing here is legal advice for a particular person or a prediction about what a court will do.
 
 ## value_1_title
 
-The next date is the priority
+The calendar starts before the paperwork feels complete
 
 ## value_1
 
-Whether it is a video first appearance from the jail or a mailed arraignment notice, the calendared date is what governs. Arranging representation before it beats explaining afterwards why nobody appeared.
+First appearance, bond, filing, arraignment, and an administrative driving deadline are separate events. Keeping their documents apart prevents a missed step from being mistaken for a final answer.
 
 ## value_2_title
 
-Hillsborough procedure, not general advice
+Hillsborough procedure has local details
 
 ## value_2
 
-Filing decisions here come from the Thirteenth Circuit State Attorney, files are built by the county Clerk, and release before a judge follows this circuit's own bond order. Those specifics shape the first week.
+First appearances are assigned to a duty judge by audiovisual device from the Courthouse Annex, while felony filing paperwork moves from the jail through the Clerk and State Attorney.
 
 ## value_3_title
 
-Facts, with the source attached
+The statute number changes the question
 
 ## value_3
 
-Every rule referenced on this page is linked to the Florida Rules of Criminal Procedure, the Florida Statutes, the circuit's administrative orders, or the Clerk of Court. Verify any of it yourself.
+The degree printed on a charge can affect court level, limitation period, booking-bond treatment, and whether ordinary language such as “battery” or “possession” is too broad.
 
 ## value_4_title
 
-No prediction, ever
+No individual assessment is offered here
 
 ## value_4
 
-Nobody can tell you how a charge resolves, and anyone who does is guessing with your life. What can be arranged is a consultation and a lawyer who reads the actual documents.
+This page explains publicly available law and procedure. It does not assess facts, rank any legal professional, or tell the person involved what result to expect.
 
 ## step_1_title
 
-Call and get the timing pinned down
+Read the written charge, not a memory of the arrest
 
 ## step_1
 
-First appearance already held or still pending, custody or released, any paperwork received. Those three answers decide whether this is a today problem or a this-week problem.
+Put the arrest affidavit, booking sheet, notice to appear, bond papers, and every Clerk notice in date order. Copy the statute number, degree, and count exactly as printed.
 
 ## step_2_title
 
-A consultation gets arranged
+Separate court deadlines from driving deadlines
 
 ## step_2
 
-You are put in touch with a defense lawyer covering Hillsborough County for a consultation about the charge as it is actually written, not as it was described to you.
+For a DUI arrest, the criminal proceeding and the administrative license suspension are different tracks. The notice date can control a very short review-request period.
 
 ## step_3_title
 
-Somebody is in place before the date
+Use independent legal advice for individual decisions
 
 ## step_3
 
-The point of moving early is having counsel engaged ahead of the next hearing, with the arrest documents and any notice from the Clerk already read.
+General information cannot answer whether a charge, search, condition, or record is eligible for a particular form of relief. The person involved may choose a Florida lawyer directly.
 
 ## expect_intro_1
 
-The call is short and it is not a sales script. What gets established is where the case sits on the court's timeline: whether a judge has seen the person yet, whether release happened and on what terms, and whether anything has arrived from the Clerk of Court. Those facts set the urgency, and they decide what a consultation needs to cover first.
+Before using any legal-information page, gather original records. An arrest affidavit may use a different description than a later charging document. A bond form may contain a condition not repeated in a Clerk notice. A suspension notice can carry a date that matters even when no criminal court date has been assigned yet.
 
 ## expect_intro_2
 
-Nobody will assess the strength of a charge over the phone, and nobody should. Documents decide that, and they get read in a consultation. Have whatever paper exists within reach, including the booking sheet, the notice to appear, the bond paperwork, and any envelope from the courthouse on Twiggs Street.
+The person calling should avoid sharing a narrative of the underlying events through any recorded channel. The useful preparation is documentary: charge wording, dates, court division, the address used at booking, and every condition written or announced by the court. That lets the person independently seek tailored legal advice without relying on an internet summary.
 
 ## expect_1_label
 
-The charge exactly as it is written
+The charge exactly as printed
 
 ## expect_1
 
-Read it off the paperwork word for word, including statute numbers and the degree, and note the counts. A summary in your own words loses the details that determine which court the case sits in and whether the arrest charge was bondable at the jail at all.
+Write down the Florida statute section, subsection, degree, count, arrest date, and agency. “Drug charge” or “battery” is too broad to describe the statutory question.
 
 ## expect_2_label
 
-In custody or released, and how
+The custody and release record
 
 ## expect_2
 
-Still at the jail, released on a surety bond, on your own recognizance, or issued a notice to appear on the street. Each puts the case at a different stage and carries different obligations, and pretrial conditions may already be attached.
+Keep the booking sheet, any bond receipt, and every written condition. A condition may affect contact, travel, substances, reporting, or a residence before any later court date.
 
 ## expect_3_label
 
-Whether first appearance has happened
+Every date on every notice
 
 ## expect_3
 
-If a judge has already appeared on a screen and read the charge, that hearing has been held and any conditions set at it are live. If it has not happened yet, the twenty-four-hour window under Rule 3.130 is running and that changes what matters today.
+Separate the arrest date, first-appearance date, notice date, arraignment date, and a DUI suspension-notice date. They arise from different officials and do not replace each other.
 
 ## expect_4_label
 
-Any paperwork received since
+The booking address
 
 ## expect_4
 
-Arraignment notices come by mail from the Clerk to the address given at arrest. If one arrived, the date, the division and the courtroom on it are the most important lines in the file. If mail may have gone to an old address, say so.
+For a Hillsborough felony filing, the Clerk says arraignment notice is mailed to the address provided at arrest. If mail reliability changed, do not assume silence ends the proceeding.
 
 ## factor_1_title
 
-The degree of the charge
+Charge degree and statute
 
 ## factor_1
 
-A second-degree misdemeanor and a first-degree felony are not the same case in any respect: different court, different release rules, different limitation period under Florida Statutes 775.15.
+Florida distinguishes felony from misdemeanor by the authorized place and length of incarceration, and individual statutes can raise or lower the charge level based on allegations or prior convictions.
 
 ## factor_2_title
 
-Where the case is on the clock
+The stage of the proceeding
 
 ## factor_2
 
-Pre-first-appearance, awaiting a filing decision, or already arraigned. Each stage has different deadlines, and what can still be done narrows as the case moves along.
+Arrest, first appearance, filing, arraignment, and trial preparation are different stages. Each produces different public paperwork and different questions for independently retained counsel.
 
 ## factor_3_title
 
-Prior supervision status
+Release conditions
 
 ## factor_3
 
-Being on probation, community control or pretrial release at the time of a felony arrest removes access to the jail bond schedule under this circuit's order and puts release entirely in a judge's hands.
+No-contact, stay-away, and supervision terms are orders, not suggestions. A later message from another person does not itself erase a condition imposed by a judge.
 
 ## factor_4_title
 
-Conditions already imposed
+Related administrative action
 
 ## factor_4
 
-No-contact terms, stay-away distances and reporting requirements set at first appearance are court orders. They constrain daily life immediately and are modified only through the court.
+A DUI arrest can trigger a driver-license suspension process under a motor-vehicle statute. It has an independent ten-day review-request deadline that deserves immediate attention.
 
 ## urgency_bullet
 
-First appearance is calendared within 24 hours of arrest
+First appearance generally follows within 24 hours when a person remains in custody
 
 ## values_eyebrow
 
-Why people in Hillsborough County call
+Tampa criminal-procedure information
 
 ## values_head
 
-Someone reads the file before the next court date
+Documents, deadlines, and public rules in one place
 
 ## values_lede
 
-An arrest starts a process that keeps moving whether or not anyone is watching it for you. The useful move is representation, early, and no promise beyond that.
+An arrest produces paperwork from different agencies. This resource explains what each document usually means without deciding what should happen in an individual proceeding.
 
 ## factors_lede
 
-No two Hillsborough cases sit at the same place on the calendar. Four things decide what the next week actually looks like.
+Four facts change the procedural question before anyone reaches a conclusion: the statute, the degree, the current stage, and any written condition.
 
 ## problem_lede
 
-Four situations account for most of the calls that come in from Tampa. Each one is explained in full below, with the Florida and Hillsborough County procedure that applies to it.
+These four starting points lead to different records and deadlines. Each linked page explains the public rules behind the written charge.
 
 ## problem_nudge
 
-None of this is legal advice and none of it is a comment on any particular case. It is how the process works in this county. What applies to a specific charge takes a lawyer reading the specific documents.
+This material is not legal advice and does not assess the underlying facts. It is a guide to public procedure and official sources for a person seeking independent legal advice.
 
 ## expect_eyebrow
-Before the first appearance
+
+Before relying on a court date
 
 ## expect_head
 
-What is worth having in front of you
+Records worth keeping in one folder
 
 ## emergency_note
 
-Calls placed from the county jail are recorded. The case is not a safe subject for them, or for social media, and you are never required to answer questions without a lawyer.
+Do not discuss the underlying events on a recorded jail line or social media. Preserve paperwork, comply with written release terms, and seek direct legal advice from a Florida lawyer of the person’s own choosing.
+
+## services_pick_head
+
+Start with the charge type printed on the paperwork
+
+## crosslink_head
+
+Looking for a different charge category?
+
+## svc_felony_defense_lawyer_lede
+
+Felony procedure in Tampa usually turns first on custody, first appearance, the bond order, and the later filing decision. An arrest affidavit is an important record, but it is not the same document as a prosecutor’s formal charge.
+
+## svc_felony_defense_lawyer_body
+
+### Start with the degree and the exact statute
+
+Florida calls an offense a felony when it is punishable by death or imprisonment in a state penitentiary; a misdemeanor is ordinarily punishable by county incarceration not exceeding one year. Write down the statute subsection and degree exactly as printed. The word “felony” alone does not identify the conduct alleged, the evidence listed, or the court division that will later handle the proceeding.
+
+### The first 24 hours and first appearance
+
+Florida Rule of Criminal Procedure 3.130 generally requires an arrested person who has not been lawfully released to appear before a judicial officer within 24 hours. The judge states the charge, provides a complaint copy, and advises the person about silence and counsel.
+
+Hillsborough duty judges conduct first appearances and bond motions by audiovisual device from Courtroom 17 in the Courthouse Annex.
+
+### Booking bond and a judge’s release decision are separate
+
+Hillsborough’s 2026 order adopts the statewide uniform bond schedule without change. The order says plainly that the schedule applies to a booking officer, not to a judge, and that it does not bind a first-appearance or bail-bond hearing. A judge considers an individualized release question under the cited statutes and criminal rule.
+
+The order also excludes many arrests from pre-first-appearance release under the schedule. Examples include capital, life, first-degree, and second-degree felonies; robbery; burglary; carjacking; kidnapping; trafficking; felony battery; domestic battery by strangulation; stalking; protective-injunction violations; and specified prior-supervision or recent-arrest histories. The list is important because an amount associated with a different charge does not mean the booking officer can release every person. Read the current order rather than relying on a bond amount repeated online.
+
+### An arrest does not settle the filing question
+
+For a Hillsborough felony arrest, the Clerk describes a sequence in which jail paperwork reaches the felony department, an official court file is prepared, and the file is forwarded to the State Attorney for a filing decision. The formal charging document may differ from the initial arrest paperwork, may include more than one count, or may not be filed. Keep every version of the paperwork; replacing the arrest affidavit with a verbal retelling loses dates, witnesses, statute sections, and property descriptions that can matter later.
+
+When charges are filed, the Clerk says an arraignment notice is mailed to the address provided at arrest, with notice also sent to a bond agent where applicable. Check that address. A temporary address, a move from Seminole Heights to another part of town, or mail left at a former residence can create a practical problem even though the courthouse record continues.
+
+### Conditions are active until a court changes them
+
+Release paperwork may restrict contact, travel, substances, possession of weapons, or entry to an address. The local bond order says a person released before trial must refrain from criminal activity and from contact with a victim except through pretrial discovery; it also states that a violation may lead to revocation of bond. Read the written terms as they stand. A text, invitation, apology, or informal agreement with another person is not a court modification.
+
+This is especially important where the allegation involves a household member, a co-worker, or a nearby address. Ordinary daily movement can overlap with a stay-away term. Questions about the scope of an order call for direct legal advice and, where appropriate, a court filing through counsel—not private workarounds.
+
+Make one chronological folder with the booking sheet, arrest affidavit, complaint copy, bond receipt, release conditions, property receipt, notices from the Clerk, and any DUI suspension notice. Do not alter photographs, messages, location records, or other material that might later be relevant. This is a guide to Florida and Hillsborough procedure, not a determination about evidence or an outcome.
+
+## svc_misdemeanor_defense_lawyer_lede
+
+A misdemeanor charge can involve a notice to appear, a short booking period, or bond paperwork, then a court date that arrives later. The lower degree does not make the mail, release conditions, or statutory timing rules optional.
+
+## svc_misdemeanor_defense_lawyer_body
+
+### “Misdemeanor” still needs a statute and degree
+
+Florida defines a misdemeanor as an offense punishable by county incarceration that does not exceed one year, apart from an extended term. A first-degree misdemeanor and a second-degree misdemeanor carry different general limitation periods, and specific statutes may make conduct a felony when a prior conviction, injury, protected person, amount, or another stated fact is alleged. Read the statute number, subsection, degree, count, and arrest date from the paper itself.
+
+### Notice to appear versus custody paperwork
+
+Some misdemeanor allegations begin with a notice to appear rather than a jail stay. Others involve booking, release, a written promise to appear, or a bond form. Each produces documents that should be saved. Put them in date order and look for the court division, location, statute subsection, and return date.
+
+### The arraignment notice is an event, not a conclusion
+
+An arraignment is a procedural hearing at which a charge is addressed and a plea is entered. It is not a finding that the arrest affidavit was accurate and it is not the end of the proceeding. A person should not miss it because a friend says the matter is “only a misdemeanor” or because nothing arrived immediately after arrest. Court notices and docket entries have their own schedule.
+
+Florida Statute 775.15 generally allows two years to commence prosecution for a first-degree misdemeanor and one year for a second-degree misdemeanor. Those are outer statutory rules, not permission to skip a current hearing or summons.
+
+### Release terms deserve plain reading
+
+Misdemeanor release paperwork can include no-contact or stay-away terms. Read the judge’s language and the written form. Another person’s message does not itself remove a court term.
+
+Florida’s Hillsborough bond order emphasizes that a judge’s decision is individualized and that release conditions can be enforced through revocation of bond. The person involved should retain every condition sheet and obtain direct legal advice before trying to change a condition. This resource does not decide whether an individual term applies or whether a court would modify it.
+
+### DUI is often both a court and a driving matter
+
+A standard Florida DUI allegation arises when a person drives or is in actual physical control of a vehicle while normal faculties are impaired, with a blood-alcohol level of 0.08 or more, or with a breath-alcohol level of 0.08 or more. The criminal proceeding is not the only moving part. Under Statute 322.2615, an officer may suspend the driving privilege for a qualifying 0.08 result or refusal and issue an otherwise-eligible ten-day temporary permit with a notice of suspension.
+
+The person has ten days from the notice date to request a formal or informal departmental review, or to request a review of eligibility for a restricted driving privilege as provided by statute. The temporary permit generally expires at midnight on the tenth day. That administrative deadline is separate from any criminal court date. Do not wait for a later notice from the Clerk before reading the suspension notice and seeking direct legal advice.
+
+### Records relief is not automatic
+
+Florida has separate statutes for sealing and expunction. Statute 943.059 requires a certificate of eligibility before a sealing petition and excludes records made ineligible by Statute 943.0584. Expunction under Statute 943.0585 has different disposition and eligibility requirements and also requires a certificate. A dismissal, withheld adjudication, old charge, or completed sentence does not itself answer eligibility.
+
+This page offers general procedural information only. It does not assess the facts, tell a person whether a defense exists, or predict what a judge, prosecutor, or hearing officer will do.
+
+## svc_drug_crime_defense_lawyer_lede
+
+Drug allegations often involve more than a substance name. The paperwork may raise questions about a stop, a search, possession, intent, statutory schedules, weight, laboratory reporting, and the written location of the alleged recovery.
+
+## svc_drug_crime_defense_lawyer_body
+
+### Preserve the documents before drawing conclusions
+
+Begin with documents rather than a label such as “drug charge.” Keep the arrest affidavit, charging paper when available, property receipt, tow or inventory paperwork, search-warrant material if provided, body-camera or vehicle-video preservation information, and later laboratory records. Write down the statute section and subsection. The allegations may concern actual possession, constructive possession, possession with intent, sale, delivery, trafficking, paraphernalia, or a different offense entirely. Those are distinct statutory paths.
+
+### Ordinary possession is not a single category
+
+Florida Statute 893.13 makes actual or constructive possession of a controlled substance, except as authorized, a third-degree felony under subsection 6(a). The statute treats some substances and some conduct differently. Possession of 20 grams or less of cannabis under that subsection is a first-degree misdemeanor, while other provisions address listed Schedule V substances and more serious conduct. Do not assume that all cannabis, all prescription medication, or every substance found in a vehicle carries the same classification.
+
+The statute’s words “actual or constructive possession” are important legal terms. Whether those terms fit particular facts is an individualized legal question. This page does not make that determination. Its practical instruction is to keep the property receipt and original allegation wording, rather than filling gaps with a summary that omits where an item was said to be found.
+
+### Intent and trafficking are different allegations
+
+Statute 893.13 separately addresses sale, manufacture, delivery, and possession with intent to sell, manufacture, or deliver. The controlled-substance schedule can change the stated felony degree. Trafficking appears in a different statute and uses substance-specific thresholds. Neither an officer’s casual phrase nor a social-media account substitutes for the charge actually filed.
+
+Weight can matter, but a quantity alone does not answer every legal question. The documents may identify a gross weight, a mixture, a laboratory result, a count, or a statutory classification. Keep the laboratory report when it arrives and compare the wording to the property record. A person should obtain direct legal advice before assuming that a booking description will remain the final charge.
+
+### A stop, consent, inventory, and warrant are different records
+
+Drug allegations often arise after one of several encounters: a traffic stop, a consensual encounter, an arrest, a vehicle inventory, a claimed consent search, a search warrant, or a response to a residence call. Each route generates different records. Preserve dispatch times, tow records, citation copies, consent forms, warrant returns, and any paperwork left at the location. If video exists, note the agency, date, approximate time, and report number.
+
+Do not alter a device, discard material, contact a witness about the facts, or post a narrative online. Those actions can create independent problems and can make it harder to reconstruct the sequence. A person who wants tailored advice should provide original records to a Florida lawyer of that person’s choosing rather than discussing the event on a recorded jail line.
+
+### First appearance and bond may be affected by charge level
+
+The 2026 Hillsborough bond schedule excludes trafficking in a controlled substance, first-degree felonies, and second-degree felonies from pre-first-appearance release under the schedule.
+
+The local order says the schedule is for the booking officer and does not bind a judge, who addresses release through an individualized inquiry. Keep any bond form and every written condition.
+
+### The filing step can change the paper trail
+
+In a Hillsborough felony arrest, the Clerk says initial jail paperwork is assembled into an official court file and sent to the State Attorney for a filing decision. The later charging document may not use the same wording as an arrest affidavit. Preserve both, and keep the booking address current because the Clerk says arraignment notice is mailed there once charges are filed.
+
+## svc_assault_charge_defense_lede
+
+Florida statutes distinguish assault and battery and may change the level based on alleged harm, a prior conviction, a protected person, or the setting. Release conditions can become the first practical issue before later court notices arrive.
+
+## svc_assault_charge_defense_body
+
+### Read the statute before using the everyday label
+
+In ordinary conversation, “assault” and “battery” may describe the same incident. Florida law separates them. Battery under Statute 784.03 generally means intentionally touching or striking another person against that person’s will, or intentionally causing bodily harm; absent another provision, it is a first-degree misdemeanor. A second or later battery after a listed prior conviction can be a third-degree felony under the statute. Other allegations—such as aggravated battery, felony battery, domestic battery by strangulation, or an offense involving a protected person—have their own statutory elements and degrees.
+
+### First appearance may control the immediate conditions
+
+When a person remains in custody, Rule 3.130 generally requires first appearance within 24 hours. Hillsborough duty judges conduct first appearances and bond motions by audiovisual device from Courtroom 17 at the Courthouse Annex. The initial hearing can address release and conditions before a prosecutor reaches a formal filing decision.
+
+Hillsborough’s 2026 bond order excludes felony battery, domestic battery by strangulation, domestic violence, stalking, and first-degree and second-degree felonies from pre-first-appearance release under the booking schedule. These exclusions do not predict a judge’s release decision.
+
+### A no-contact term is a court condition
+
+No-contact and stay-away terms should be read literally until changed by a court. They can cover direct messages, phone calls, third-party communication, a residence, work, school, or a specified distance. The Hillsborough order says people released before trial must refrain from criminal activity and from contact with a victim except through pretrial discovery; it says a violation may subject the person to revocation of bond.
+
+An invitation, apology, social-media message, or later change of mind by another person does not independently erase a term set by a judge. If a shared residence or workplace creates a practical conflict, the safe public-information answer is to comply with the written order and seek direct legal advice about the lawful method for requesting a change. Private workarounds can create a new allegation.
+
+### Preserve competing records without trying to manage witnesses
+
+A charge involving an encounter between people can produce 911 audio, dispatch logs, body-camera footage, photographs, medical records, neighborhood cameras, messages, and witness names. Preserve what already exists. Save copies of messages without editing them, record the date and location of any video source, and keep the arrest affidavit with later paperwork.
+
+Do not ask others to change a statement, delete material, coordinate accounts, or discuss the facts through a recorded jail line. A person seeking individual advice should bring the records to a Florida lawyer chosen independently. This site does not collect facts or decide what the records mean.
+
+### Filing is separate from the arrest record
+
+An arrest affidavit explains an officer’s initial allegation. It does not itself constitute the formal filing decision. For Hillsborough felony arrests, the Clerk says jail paperwork goes to the felony department, which prepares the official court file and forwards it to the State Attorney. The later charging document may use different statute language or counts. Once charges are filed, the Clerk says an arraignment notice is mailed to the booking address.
+
+Save mail even if it arrives at a former address in Palma Ceia, Hyde Park, or elsewhere in Tampa. A date on a notice can create an immediate obligation, while general statutory limitation periods are much longer outer limits. Under Statute 775.15, first-degree misdemeanors generally carry a two-year limitation period, other felonies three years, and first-degree felonies four years, subject to exceptions.
+
+### A focused checklist after release
+
+Keep the arrest affidavit, booking record, bond form, release conditions, notice to appear or arraignment notice, and any protective-order paperwork. Make a dated list of places the person must avoid and deadlines that appear in writing. This page provides general Florida procedure, not individualized legal advice.

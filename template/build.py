@@ -69,7 +69,10 @@ QA_WORDS = 55
 MIN_SYMPTOMS = 4
 MIN_QAS = 3
 MIN_FACTS = 2
-SERVICE_WORDS = (900, 1500)  # each service page, whole rendered page including the shared bands
+SERVICE_WORDS = (900, 1550)  # each service page, whole rendered page including the shared bands
+# Ceiling raised from 1500 to 1550 on 2026-08-23: the advertising disclosure that
+# replaced the old "connects enquiries with a local attorney" wording is longer,
+# and it is required chrome on every page. Authored body copy stays 900-1500.
 MIN_SERVICES = 4
 SHINGLE = 15
 
@@ -348,18 +351,27 @@ def build(domain, live=False, check_only=False, corpus=None):
                     else f"{_cp([s['counties'][0]])} {pro}"))
     # Pre-tenant, this page cannot claim a fee arrangement, a credential, or who
     # picks up the phone -- none of that exists until a tenant signs.
+    # This wording is load-bearing. A site that says it "connects enquiries with a
+    # local attorney" is describing a matching or referral service, which is the
+    # exact arrangement Florida Bar Rule 4-7.22 and the ABA Rule 7.2 comments
+    # regulate. These pages are advertising: one office advertises here, calls go
+    # to that office, nothing is screened, evaluated, matched or recommended, and
+    # the fee is never a share of anything. Do not reintroduce "connect".
     disclosure = ((
-        f"This site is operated independently, is not a {entity}, and is not itself "
-        f"a {s['service_inline']} provider. It exists to connect {s['city']} enquiries "
-        f"with a local {pro}. No fee arrangement, case result, price, licence, "
-        f"insurance or review claim is made anywhere on this page, because no specific "
-        f"provider is named on it yet. Confirm credentials directly with anyone you engage."
+        f"This site is independently operated advertising. It is not a {entity}, is "
+        f"not a referral or matching service, and does not screen, evaluate, "
+        f"recommend or select an {pro} for anyone. When an {pro} advertises here, "
+        f"calls reach that one office and go nowhere else. No fee arrangement, "
+        f"outcome, price, licence, insurance or review claim appears on this page, "
+        f"because no {pro} is named on it yet. Confirm credentials directly with "
+        f"anyone you engage."
     ) if legal else (
-        f"This site is operated independently and is not itself a {entity}. "
-        f"It exists to connect {s['city']} {s['service_inline']} enquiries with a local "
-        f"{pro}. No pricing, licensing, insurance or review claims are made on this page, "
-        f"because no specific provider is named on it yet. Verify license and insurance "
-        f"directly with any provider before work begins."
+        f"This site is independently operated advertising and is not itself a "
+        f"{entity}. Nobody here screens callers or recommends a {pro}. When a "
+        f"provider advertises here, calls reach that one business and are not sold "
+        f"or distributed to anyone else. No pricing, licensing, insurance or review "
+        f"claims are made on this page, because no provider is named on it yet. "
+        f"Verify license and insurance directly before work begins."
     )) if pre else (
         f"{t.get('business_name')} &mdash; {s['service']} in {s['city']}, {s['state']}. "
         f"License {t.get('license_number')}. Verify license and insurance before work begins."

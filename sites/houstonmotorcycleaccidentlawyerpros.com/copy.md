@@ -1,217 +1,352 @@
 # houstonmotorcycleaccidentlawyerpros.com — hand-written copy
 # Motorcycle Accident Lawyer, Houston, TX. Pre-tenant: no firm, no attorney,
-# no case result, no settlement figure named anywhere on this site.
-# Written: 2026-08-21
+# no result or settlement figure named anywhere on this site.
+# Written: 2026-08-23
+
+## RULES
+
+- Write for this city. Every block must be unreusable on another site.
+  The build fails if any 15 consecutive words match another site.
+- Never promise a phone consultation. Explain the legal subject and the records
+  that matter; do not state a price, fee, result, or outcome.
+- Never name a business, a licence, a review count, a price or a year
+  in operation. No legal provider is signed, so none of it is true yet.
+- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
+- symptom_N blocks are 40-80 word teasers only. The depth goes on the
+  service page they link to.
+- site.json needs 3 local_facts with a real source URL each, and 6
+  neighbourhoods, before this will build.
+
+---
 
 ## meta_title
 Motorcycle Accident Lawyer in Houston, TX — Fault, Deadlines, Rider Claims
 
 ## meta_description
-A driver crossed your lane on a Houston feeder road and the insurer is already calling. What Texas law says about fault, the two-year filing deadline, and how a Harris County rider's claim gets put together.
+Houston motorcycle collision information: left turns, lane changes, uninsured drivers, fault percentages, insurance limits, and Texas filing deadlines.
 
 ## hero_promise
-A driver crossed your lane and you are the one in the hospital gown. This page explains what Texas law does with that situation and what a rider in Harris County can still do about it. A review of the crash is arranged with a Houston attorney, the Texas Peace Officer's Crash Report is pulled, the insurance carriers are put on written notice, and the two-year filing deadline goes on a calendar before it turns into the reason a rider's claim dies.
+A driver crossed your lane and you are the one in the hospital gown. This page explains the Texas rules that may become relevant after that happens and the records worth protecting in Houston. It covers the crash report, the motorcycle, the insurer notices, and the two-year filing period that should not be allowed to disappear in the background.
 
 ## what_happens_when_you_call
-The crash gets put in order before anything at all is promised. The date, the intersection or the stretch of freeway, which agency worked the scene — Houston police, a Harris County constable's deputy, a sheriff's unit, or DPS out on the tolled lanes — and whether an emergency room has already looked at you. Nobody guesses at what a rider's injuries are worth on a first call, because that number does not exist until the imaging has been read and the treatment is understood. What is arranged is a review with a Houston attorney and a clear written note of which legal deadline applies to your crash.
+An inquiry should start with simple facts rather than a promise: the crash date, the road or intersection, the agency that responded, whether the motorcycle is at a tow yard, and whether a carrier has called. The person calling can use that list to organize records and to decide what questions to take to an attorney of their choosing. No website can assign responsibility, value an injury, or tell a person what result to expect from a short description.
 
 ## what_they_will_ask
-Five things matter in the first week and you already know all five. Where it happened: a signalized intersection, a feeder road, or a main lane of the Southwest Freeway. What the other driver was doing when they came into your path — turning, merging, backing, pulling out of a lot. Whether an officer handed you a crash report number that day. Whether the bike is still intact or has already gone to a storage yard that bills daily. And whether anyone else stopped: the driver behind you, a delivery van, a taqueria or tire shop with a camera aimed at the street. Storage bills and video are what disappear fastest here.
+Useful early details are concrete. Identify the cross streets or freeway direction; say whether the other vehicle turned, merged, backed, or came out of a driveway; keep the Texas Peace Officer’s Crash Report number; and photograph the motorcycle before storage handling changes its condition. Around Houston, a nearby business camera, a delivery vehicle, or a driver behind the impact can matter. Video systems overwrite, tow bills grow, and road marks vanish after traffic and rain.
 
 ## symptom_1_title
 A driver turned left across your lane
 
 ## symptom_1
-This is the crash riders around here describe most. You are moving through a green on Westheimer, Bissonnet, Studewood or Long Point, and an oncoming driver turns left into the gap they decided was empty. Texas law is not vague about the duty. Transportation Code 545.152 says an operator turning left has to yield to a vehicle approaching from the opposite direction that is close enough to be an immediate hazard. A motorcycle is that vehicle.
-
-The problem is never the rule. It is that the driver says the words "I never even saw the motorcycle," and an insurance adjuster hears those words as proof the bike must have been speeding. The officer at the scene may not have assigned fault at all, because a Texas crash report records contributing factors rather than settling liability, and plenty of Houston reports come back with nothing useful in that field.
-
-What answers it is physical. Where the bike struck the car tells you the geometry of the turn: a strike to the driver's front quarter panel is a different story from a strike to the passenger door. Gouge marks and fluid on the pavement mark the point of impact rather than the point of rest. Signal phasing at that intersection can be requested. Skid or scuff length says something about speed, and so does the crush on the forks.
-
-Wide medians and unprotected left turns out of a center lane make this worse on Houston's older boulevards, where a turning driver is looking across three lanes of traffic and simply loses a narrow object in the shuffle.
+On Westheimer, Bissonnet, Studewood, or Long Point, a left-turn collision often begins with an oncoming driver saying the motorcycle was not visible. Texas Transportation Code §545.152 requires a left-turning operator to yield to an approaching vehicle that is close enough to be an immediate hazard. The left-turn page explains intersection geometry, signal records, and vehicle marks without treating the driver’s first account as the answer.
 
 ## symptom_2_title
-A driver merged into the space you were riding in
+A driver moved into the lane you occupied
 
 ## symptom_2
-Nine or ten main lanes plus a feeder on the Katy Freeway, five lanes on the North Loop, and a driver who checks a mirror, sees a gap that is actually you, and comes over. Transportation Code 545.060 tells an operator on a laned roadway to stay as nearly as practical within a single lane and not to leave it unless the movement can be made safely. Drifting into an occupied lane is not a safe movement, whatever the driver believed.
-
-The evidence in a merge crash lives on the sides of both vehicles. Paint transfer along a car's rear door or quarter panel, a scraped footpeg or bar end, a mirror sheared off, scuffing down one side of the tank. Photograph all of it before the bike goes anywhere, because a salvage yard will move it, wash it, or stack something on top of it.
-
-There is a version of this with no contact at all. The car comes over, the rider brakes hard or swerves toward the shoulder, and the bike goes down while the driver keeps going, sometimes without ever knowing. Texas law does not require the two vehicles to touch for a driver's unsafe movement to be the cause of a crash, but proving it without paint transfer is harder and it depends almost entirely on witnesses, dashcam video from other traffic, and the marks the bike left on the road.
-
-Lane-change crashes on Houston's freeway system also tend to involve a second impact — a barrier, a gore point, a following vehicle — which is why the sequence of events in the report matters as much as the fact of the merge.
+A quick mirror check and a late lane movement can put a motorcycle beside a rear door or quarter panel on the Katy Freeway, the North Loop, or a feeder road. Transportation Code §545.060 says a driver may not move from a lane unless the movement can be made safely. The lane-change page covers side-impact marks, witnesses, cameras, and no-contact falls where the other vehicle kept going.
 
 ## symptom_3_title
-The driver had no insurance, or left the scene
+The other driver had no insurance, or left
 
 ## symptom_3
-Texas sets minimum auto liability at 30/60/25 under the state's financial responsibility rules: $30,000 for injuries to one person, $60,000 total per crash, and $25,000 for property damage. A rider with a broken tibia, a helicopter ride and a week of surgeries can pass $30,000 before the swelling goes down. And a meaningful share of the drivers on the Gulf Freeway carry nothing at all.
-
-So the first document to find is not the other driver's policy. It is your own declarations page. The Texas Department of Insurance is explicit that carriers here must offer uninsured and underinsured motorist coverage, and that a driver who does not want it has to reject it in writing. The same is true of personal injury protection, which is included on Texas auto policies unless it was declined in writing. Riders who bought a bare-bones policy for a bike they thought they would only ride on weekends often find they still have both, and those two coverages are frequently the only real money in a serious crash.
-
-A hit-and-run is generally handled as an uninsured motorist claim, which makes the police report and a prompt report of the incident important in a way people do not expect.
-
-Understand what a UM claim actually is, though. You are making a claim against your own insurance company, and it will be handled by an adjuster whose job is to pay as little as the file supports. Policies also carry their own notice and cooperation conditions with their own timing, separate from anything in the statutes. Missing one of those can cost coverage that was otherwise sitting right there.
+If the other driver has no usable policy, start by locating the declarations page for the motorcycle policy rather than guessing at coverage. Texas minimum financial-responsibility amounts do not make a serious injury inexpensive, and a hit-and-run report may leave important facts to establish. The uninsured-motorist page separates the at-fault driver’s policy from coverages that may appear on the rider’s own policy.
 
 ## symptom_4_title
-The insurer is already building a case against the rider
+The insurer is assigning blame to the rider
 
 ## symptom_4
-Within days you hear some version of it. You must have been going too fast. You were in the blind spot. You were not wearing a helmet. You ride, so you take risks. None of that is a legal conclusion. It is an opening position, and in Texas it has a specific target.
-
-Chapter 33 of the Civil Practice and Remedies Code puts a percentage of responsibility on each party. Section 33.001 bars a claimant from recovering anything if that share is greater than 50 percent, and Section 33.012 reduces the recovery by whatever percentage is assigned. That is the whole reason an adjuster works so hard on the speed theory: every point of blame shifted onto the rider comes straight off the number, and 51 points ends the claim outright.
-
-The helmet argument is worth understanding on its own. Transportation Code 661.003 requires protective headgear, but it also creates an exception for riders at least 21 years old who have completed a motorcycle operator training and safety course or are covered by a health insurance plan for injuries from a motorcycle crash, and it bars officers from stopping a rider just to check. Riding legally without a helmet is a normal thing in Texas, and it is not the same as causing your own crash.
-
-Recorded statements are where these theories get their material. An adjuster asking a rider on painkillers to estimate their own speed in miles per hour is not gathering facts. Speed is established by physical evidence and by download data from the vehicles, not by a guess from a hospital bed.
+A carrier may focus on speed, lane position, braking, or other facts that could affect responsibility. Texas Chapter 33 reduces damages by the percentage assigned to a claimant and bars recovery above the statutory threshold. The negotiation page explains what records can clarify a disputed sequence, why percentages are not set by an adjuster’s first phone call, and why the filing deadline still matters while discussions continue.
 
 ## qa_1_question
-How long is there to bring a claim after a Houston motorcycle crash?
+How long is there to bring a personal-injury suit after a Houston motorcycle collision?
 
 ## qa_1_answer
-Texas Civil Practice and Remedies Code 16.003 gives two years from the day the cause of action accrues for a personal injury suit, and two years from the date of death where a crash kills someone. Suits from Houston crashes are usually filed in one of the 24 civil district courts that sit at the Harris County Civil Courthouse on Caroline Street downtown, or in Fort Bend County if the venue belongs there instead. An adjuster who keeps a file open is not extending that deadline. Claims involving a government vehicle are the sharpest trap, because those carry written notice requirements measured in months rather than years.
+Texas Civil Practice and Remedies Code §16.003 generally gives a person two years after the day a personal-injury cause of action accrues to bring suit. For an action for injury resulting in death, the statute measures two years from the date of death. That is a filing rule, not a promise that an insurer’s open file protects the date. The person calling should record the crash date immediately and seek advice from an attorney about any deadline that could apply to the particular facts.
 
 ## qa_2_question
-The driver says I was speeding and that I had no helmet on. Is my claim finished?
+What does Texas proportionate responsibility mean for a rider?
 
 ## qa_2_answer
-Not by itself. Texas uses proportionate responsibility, so a share of blame gets assigned to each party. Under Section 33.001 a claimant who is more than 50 percent responsible recovers nothing, and under Section 33.012 anything below that line reduces the recovery by the same percentage rather than erasing it. Helmet use is a separate question from fault. Transportation Code 661.003 exempts riders 21 and over who completed an approved operator training course or carry health insurance covering motorcycle crash injuries. Being lawfully bare-headed is not the same thing as causing the collision, and speed is proven with physical evidence, not with an adjuster's theory.
+Texas Civil Practice and Remedies Code §33.001 bars recovery when a claimant’s percentage of responsibility is greater than 50 percent. Section 33.012 reduces damages by the percentage of responsibility assigned when the bar does not apply. A carrier’s suggestion that a rider was speeding or riding in the wrong place is not itself a percentage finding. Photographs, video, vehicle damage, witness accounts, and the complete roadway sequence can all be relevant to a dispute about responsibility.
 
 ## qa_3_question
-Where does the money come from if the driver who hit me had nothing?
+What if the driver who hit the motorcycle had little or no insurance?
 
 ## qa_3_answer
-Usually from your own policy, which is why the declarations page gets read first. Texas insurers are required to offer uninsured and underinsured motorist coverage, and a customer who does not want it must decline in writing, so a rider who never signed a rejection generally still has it. Personal injury protection works the same way and can start paying medical bills without waiting on a fault fight. Beyond that, a claim sometimes reaches an employer if the at-fault driver was working, or a commercial policy behind a work truck or box van. Sorting out which coverages exist on both sides is early work, not late work.
+Texas Transportation Code §601.072 sets minimum motor-vehicle liability limits of $30,000 for bodily injury to one person, $60,000 for bodily injury to two or more people in one collision, and $25,000 for property damage. Those are statutory minimums, not a measure of a person’s losses. Find the other driver’s insurance information if available and read the motorcycle policy declarations page. A lawyer can explain what coverage language, notice requirements, and exclusions mean for the policy involved.
 
 ## closing_cta
-If a driver put you down on a Houston street or freeway, the useful next step is getting the crash report, the bike, and the deadline handled while the evidence still exists. A review of what happened is arranged with a Houston attorney. Nothing is promised about the outcome, because no honest page can promise one.
+After a Houston motorcycle collision, preserve the crash report number, photographs, treatment paperwork, and the motorcycle’s location while the information is still available. The person calling can make an inquiry using those facts and can seek advice from an attorney they choose. Nothing here predicts responsibility, damages, or an outcome.
+
+## services_summary
+A left-turn impact, a lane-change sideswipe, a missing insurance policy, and a disagreement with an insurer can all be described as a motorcycle-accident problem, but they are not the same task. A turn across a rider’s path often turns on intersection timing and sight lines. A freeway sideswipe can turn on side damage, lane positions, video, and whether there was contact at all. An uninsured-driver inquiry begins with policy language rather than an assumption that the other driver has money to pay.
+
+The fourth subject, negotiation, overlaps with every other one but is different again. It concerns how medical records, wage documentation, repair information, percentages of responsibility, and offers are exchanged and tested over time. It does not decide fault by itself. Keeping these jobs separate helps a Houston rider ask better questions before a toll-road camera overwrites footage, a storage yard moves the bike, or a statutory date approaches.
 
 ## about_summary
-This page covers one city and one situation: a rider hurt by another driver in Houston and the surrounding Harris and Fort Bend County communities, from the Heights and Montrose out through the East End, Gulfton, Sharpstown and Spring Branch. It exists so that somebody reading on a phone in a waiting room can understand what Texas law actually says about fault, deadlines and insurance coverage before an adjuster explains it to them first. No firm, no attorney and no case history is named here, because none is signed to this page yet. Nothing on it is legal advice, and no result is being predicted. What is offered is a review of your crash arranged with a Houston attorney.
+This page covers one city and one situation: a rider injured by another driver in Houston and nearby Harris and Fort Bend County communities, from the Heights and Montrose through the East End, Gulfton, Sharpstown, and Spring Branch. It is general information for somebody reading on a phone in a waiting room who wants to understand Texas rules about responsibility, deadlines, and insurance before accepting an adjuster’s description as final. No legal provider, attorney, or result is named here. Nothing on this page is legal advice or a prediction.
 
 ## value_1_title
 Written for Houston roads
 
 ## value_1
-Feeder-road merges, unprotected left turns off wide boulevards, and multi-lane freeway crashes are different problems with different evidence. The explanations here are built around the roads riders actually go down in this city.
+Feeder-road merges, unprotected left turns on wide boulevards, and fast freeway lane movements create different evidence questions. The explanations use roads riders recognize from Houston rather than a generic collision script.
 
 ## value_2_title
 Harris and Fort Bend County
 
 ## value_2
-Crashes in this metro get worked by Houston police, sheriff's deputies, constable precincts and DPS, and they end up filed in different courthouses. Which agency and which county changes the paperwork.
+A collision may be worked by Houston police, a constable, the sheriff, DPS, or another agency. The report number, agency, and county help identify records that may be available later.
 
 ## value_3_title
-The deadline handled first
+The deadline kept visible
 
 ## value_3
-Two years sounds like plenty until a bike is sold for storage fees and the camera at the corner has overwritten the footage. The clock and the evidence get attention before anything else.
+Two years can pass while a motorcycle sits in storage, a camera overwrites, or treatment continues. A calendar date and the evidence are worth preserving before a carrier’s theory hardens into the only version on paper.
 
 ## value_4_title
-No outcome is promised
+No result is predicted
 
 ## value_4
-No page can value a rider's injuries or predict a result, and this one does not try. What it does is explain the Texas rules that decide those questions.
+A page cannot value injuries, decide responsibility, or predict what a court, insurer, or attorney will do. It can explain the Texas rules and records that commonly shape the questions.
 
 ## step_1_title
-Get the crash on the record
+Get the collision on the record
 
 ## step_1
-The Texas Peace Officer's Crash Report is pulled and read, along with the report number the officer gave you. What it says about contributing factors shapes how the carriers behave from the start.
+Keep the Texas Peace Officer’s Crash Report number, the date, the agency, and the location. The report can be incomplete or disputed, but it identifies a starting point for the people and vehicles involved.
 
 ## step_2_title
-Save what is about to vanish
+Preserve what can vanish
 
 ## step_2
-The bike is photographed and its storage handled, nearby businesses are asked for video, and the carriers get written notice. Most of this stops being possible within a few weeks.
+Photograph the motorcycle, gear, visible road marks, and nearby signs. Write down potential camera locations and witnesses. Tow yards, businesses, and weather all change the evidence picture quickly in Houston.
 
 ## step_3_title
-A review is arranged
+Make a focused inquiry
 
 ## step_3
-Your crash, your policy and your medical situation get looked at by a Houston attorney. You are told which deadline applies to you and what the Texas fault rules mean for your specific facts.
+The person calling can state the road, vehicle movement, report number, policy information, and treatment status without guessing about speed or responsibility. An attorney chosen by that person can give individualized advice.
 
 ## expect_intro_1
-The first conversation is short and it is not a pitch. It covers where the crash happened, what the other driver did, what an officer wrote down, and whether an insurance company has already contacted you. That is usually enough to see what shape the claim is in and what needs doing this week.
+An inquiry does not need a polished narrative. A road name, direction of travel, the other vehicle’s movement, and a report number are more useful than an estimate of what the collision should be worth. The person calling should keep separate what they saw from what another driver later said.
 
 ## expect_intro_2
-Nobody is going to quote you a settlement number over the phone, and you should be suspicious of anyone who does. Injuries that are still being diagnosed cannot be valued yet. The point of the first call is the deadline, the evidence, and getting a review set up.
+No responsible source can calculate a result over the phone from a few facts. Injury information may still be developing, responsibility may be disputed, and policy language may matter. The practical goal is to preserve records, identify dates, and prepare informed questions for legal advice.
 
 ## expect_1_label
 Exactly where on the map
 
 ## expect_1
-A cross street, a freeway with a direction of travel, or the nearest exit. Feeder-road crashes, main-lane crashes and surface-street intersections are investigated differently, and knowing which one you were in decides what gets requested first.
+A cross street, a freeway direction, or the nearest exit can identify a signal, a frontage road, a toll-road segment, or a roadway owner. That detail guides which video or roadway records may exist.
 
 ## expect_2_label
 What the other vehicle did
 
 ## expect_2
-Turning across you, merging into you, backing, or pulling out of a driveway or parking lot. Each one points at a different section of the Transportation Code and a different set of physical marks on the two vehicles.
+Turning across traffic, moving over, backing, or leaving a driveway are different events. Describe the movement rather than deciding who was at fault; the physical evidence can then be compared with that sequence.
 
 ## expect_3_label
-Where the motorcycle is right now
+Where the motorcycle is now
 
 ## expect_3
-Your driveway, a tow yard, or an insurer's salvage lot. A bike sitting on daily storage is both a bill that grows and the best evidence in the case, and it can be released or crushed before anyone has documented it.
+A driveway, tow yard, repair shop, or salvage lot each presents a different preservation issue. Take clear photographs before anyone disassembles, repairs, releases, or moves the motorcycle.
 
 ## expect_4_label
-What you have already said to a carrier
+What was already said to a carrier
 
 ## expect_4
-Whether you gave a recorded statement, signed a medical authorization, or estimated your own speed. None of that is fatal, but it changes what has to be corrected with physical evidence later.
+Note whether there was a recorded statement, a signed authorization, or a request for documents. Keep copies. A person calling should distinguish a recalled fact from an estimate made while injured or medicated.
 
 ## urgency_bullet
-Crash report, storage and camera footage handled in the first days
+Crash report, storage location, and camera leads noted early
 
 ## values_eyebrow
-Why Houston riders end up on this page
+Why Houston riders read this page
 
 ## values_head
-Texas rules, Harris County records, one rider's crash
+Texas rules, Harris County records, one rider’s collision
 
 ## values_lede
-Going down in traffic on the Gulf Freeway should not be the day you start researching state fault law from a hospital bed.
+Going down in traffic on the Gulf Freeway should not be the day someone first has to decipher Texas responsibility law from a hospital bed.
 
 ## factors_lede
-Four things decide how a Houston rider's claim actually goes, and three of them are settled in the first weeks.
+Four things usually shape the next steps after a Houston motorcycle collision, and several can change in the first days.
 
 ## problem_lede
-Four crashes account for most of what riders in this city are dealing with. Each one is explained in full below.
+These four situations are often confused. Each service page separates the relevant road evidence, insurance questions, and statutory rules.
 
 ## problem_nudge
-None of this is legal advice, and no website can tell you what your claim is worth. Only an attorney who has read the report, the policy and your medical records can speak to your situation.
+This is background, not legal advice. A website cannot decide what happened or what a particular person should do. Seek individualized legal advice for facts, deadlines, and policy language.
 
 ## expect_eyebrow
-Before the insurer calls you
+Before an insurer calls again
 
 ## expect_head
-What matters early in a rider's claim
+What is useful to have organized
 
 ## emergency_note
-If you were hurt, get examined and keep the discharge paperwork. Photograph the motorcycle, your helmet and your gear before a tow yard moves anything.
+If you are hurt, seek medical care and retain discharge paperwork. Photograph the motorcycle, helmet, and gear before a tow yard, repair shop, or insurer moves anything.
 
 ## factor_1_title
 Where on the road it happened
 
 ## factor_1
-A feeder-road merge, an intersection on a boulevard, and a main-lane crash on the 610 Loop produce different evidence and different agencies. That single detail decides what is requested and how quickly.
+A feeder-road merge, a boulevard intersection, and a main-lane crash on the Loop create different possible video sources, road records, and physical evidence. Location changes the first questions.
 
 ## factor_2_title
-What the crash report says
+What the crash report records
 
 ## factor_2
-A Texas crash report notes contributing factors rather than deciding liability. A blank or wrong entry does not settle anything, but it does set the tone an adjuster takes early on.
+A Texas crash report is an important record but may not resolve a later disagreement. Its report number, agency, diagrams, narratives, and listed parties are starting points for further documentation.
 
 ## factor_3_title
 Which coverages exist
 
 ## factor_3
-State minimum limits, an underinsured motorist provision on your own policy, personal injury protection, or a commercial policy behind a work truck. Where the money can come from is early work.
+The other driver’s limits, a rider’s own declarations page, and any commercial connection can affect the insurance questions. Coverage should be read from documents, not assumed from what an adjuster says on a first call.
 
 ## factor_4_title
-How fast evidence disappears
+How fast evidence changes
 
 ## factor_4
-Storage yards move motorcycles, cameras overwrite footage in days, and skid marks wash off in the next thunderstorm. Everything preserved in week one is worth more than anything reconstructed later.
+Tow yards move motorcycles, security systems overwrite footage, rain and traffic remove road marks, and witnesses forget details. What is documented early is more reliable than a later reconstruction from memory.
+
+## svc_left_turn_motorcycle_accident_lede
+A left-turn motorcycle collision is not solved by the phrase “I did not see the bike.” In Houston, wide crossings on Bissonnet and Westheimer, complex signal cycles, and turning traffic on feeder roads make the physical sequence worth tracing carefully before anyone assigns a percentage of responsibility.
+
+## svc_left_turn_motorcycle_accident_body
+### Start with the movement, not the conclusion
+
+A left-turn collision usually has the motorcycle traveling straight while an opposing vehicle turns across its path. Record the lanes, road controls, turn origin, and what was actually seen. Texas Transportation Code §545.152 says an operator intending to turn left must yield to an approaching vehicle that is in the intersection or so close as to be an immediate hazard. The rule does not settle a disputed impact; distance, timing, visibility, and reliable evidence still matter.
+
+### Why Houston intersections deserve a closer look
+
+Wide arterial crossings on Westheimer, Bissonnet, Long Point, and Richmond Avenue can include several through lanes, turn pockets, driveways, buses, and frontage-road traffic. The City identifies Bissonnet from South Dairy Ashford to Hillcroft as a high-priority High Injury Network corridor that travels through Gulfton. That road-safety designation does not decide a motorcycle collision, but it makes the exact cross streets and direction of travel important. “Near Bissonnet” cannot locate a signal, camera, or driveway opening.
+
+### Read the vehicle contact points
+
+Vehicle marks can test competing accounts. Contact at a car’s front corner, damage farther along its side, a bent fork, a scuffed engine cover, paint transfer, and broken lamp pieces may help locate the first contact. Take wide photos showing lane lines, signals, and debris, then close photos of the contact areas. Do not repair, strip, or release the motorcycle from storage before it has been documented.
+
+### Signal timing and video are perishable
+
+A green light alone may not resolve a left-turn dispute: opposing lanes can have protected phases, circular greens, or delayed turns. Preserve video and signal information promptly, then compare it with the physical scene. Businesses, apartments, gas stations, delivery vehicles, and transit facilities may have footage, but none is necessarily retained. Record the camera direction and requested time window rather than assuming a visible camera will answer every question.
+
+### The crash report is a beginning, not an endpoint
+
+The Texas Peace Officer’s Crash Report can identify vehicles, witnesses, location, narrative, diagram, and reported factors, but it may omit or condense important detail. Save it with the report number and write a separate contemporaneous account. Keep documents and communications rather than trying to resolve a report disagreement in an argument.
+
+### Percentage arguments need evidence
+
+Chapter 33 makes disputed percentages important: §33.001 contains the greater-than-50-percent bar and §33.012 provides for percentage reductions. Neither provision lets a driver choose a percentage by saying the motorcycle was difficult to see. Preserve the location, contact marks, report, medical records, witness information, and footage while an attorney selected by the person calling explains the actual evidence.
+
+### What an inquiry can include
+
+Bring the report number, photographs, tow-yard location, insurance cards, witness information, and exact road description to an inquiry. State whether the turn began from an oncoming lane, center lane, driveway, or feeder-road opening. Do not fill gaps in memory with a precise speed or distance merely to make the sequence sound complete.
+
+## svc_lane_change_motorcycle_accident_lede
+A lane-change collision often leaves its best evidence down the sides of the vehicles, not at the center of the roadway. On Houston’s crowded freeways and frontage roads, the exact lane, travel direction, merge point, and first contact can matter more than a driver’s statement that the motorcycle appeared suddenly.
+
+## svc_lane_change_motorcycle_accident_body
+### Identify the lane movement precisely
+
+Record the freeway or road name, direction, lane number if known, nearest exit, and whether the other vehicle was entering, exiting, or moving laterally. Texas Transportation Code §545.060 requires a driver on a marked multilane roadway to stay as nearly as practical within one lane and not move unless the movement can be made safely. The rule makes road position and movement important questions; it does not allow a website to decide responsibility from one sentence.
+
+### Houston’s freeway geometry matters
+
+Houston lane movements can occur in dense traffic with short decision distances. TxDOT calls I-45 between I-10 and I-610 a crash hot spot with numerous merging locations, left-hand exits, and substandard lane and shoulder widths in the existing configuration. That is not a motorcycle-specific count or a decision about an individual collision. It is why an interchange, ramp, exit, direction, or frontage-road location should be recorded instead of “the freeway.”
+
+### Side damage can tell the first-contact story
+
+A swept mirror, paint streak on a rear door, broken footpeg, scuffed saddlebag, or scrape along a tank can help distinguish a sideswipe from a later ground impact. Photograph both sides of the motorcycle and the full side of the other vehicle when safe and lawful. Wide shots locate the marks; close shots preserve detail. The important mark may be small, and technical interpretation belongs to qualified people, not a text-message photo.
+
+### A no-contact fall still needs a sequence
+
+A motorcycle can fall while avoiding a vehicle that never makes contact. Write down the vehicle type, color, plate characters if known, direction, and last location. Ask witnesses to describe what they saw in their own words, preserve any dash-camera or business-video lead, and file a police report promptly. The lack of paint transfer makes independent evidence more important, not less.
+
+### Witnesses are not interchangeable
+
+A following witness may see brake lights but not the other vehicle’s front; a witness alongside may see the merge but miss the motorcycle’s initial position. Preserve names, contact information, vehicles, and each vantage point. Video has similar limits: one camera can show a ramp or final rest but not the first lane crossing.
+
+### Separate speed questions from lane questions
+
+A carrier may ask about speed quickly. Do not turn an estimate into a fact merely to answer. Vehicle damage, roadway marks, video, timing, vehicle data, and witnesses may be relevant. Chapter 33 provides a greater-than-50-percent bar in §33.001 and percentage reductions in §33.012; a percentage is not established by a “blind spot” label or an insurer’s first account.
+
+### What to organize before making an inquiry
+
+Keep the road location, report number, photos, insurance information, tow location, witnesses, and video leads together. State whether there was direct contact, an avoidance fall, or a later impact, and whether the other driver remained. Those facts separate a sideswipe inquiry from an uninsured or hit-and-run coverage question.
+
+## svc_uninsured_motorist_motorcycle_claim_lede
+When another driver has no insurance, leaves the scene, or carries limits that do not resolve the practical problem, the first task is reading policy documents rather than relying on a verbal assurance. Texas’s statutory minimum limits are fixed numbers, but the coverage available after one motorcycle collision depends on the actual policies, exclusions, notices, and facts.
+
+## svc_uninsured_motorist_motorcycle_claim_body
+### Start with the documents, not an assumption
+
+An uninsured-driver inquiry has two tracks: identifying the other driver, vehicle owner, insurer, and report; and reading the motorcycle policy and any other potentially relevant policy. The declarations page lists coverages, limits, named insureds, vehicles, and dates, but it is not the whole contract. Keep the complete policy, letters, claim numbers, report, photos, repair documents, and medical paperwork.
+
+### Texas minimum limits are not a damage calculation
+
+Texas Transportation Code §601.072 requires at least $30,000 for bodily injury to or death of one person in one collision, $60,000 for bodily injury to or death of two or more people in one collision, and $25,000 for property damage. These 30/60/25 figures are financial-responsibility minimums, not a measure of an injury, motorcycle, or other loss. Coverage questions require the actual policy documents.
+
+### Uninsured and underinsured are different labels
+
+“Uninsured” can involve no liability coverage, an unidentified hit-and-run vehicle, or a coverage denial under particular facts. “Underinsured” generally concerns available liability limits that may not cover alleged losses. Texas Insurance Code §1952.101 addresses uninsured and underinsured motorist coverage in personal automobile policies and provides for written rejection by the named insured. It is not a substitute for the policy; do not assume coverage applies without reviewing the documents and seeking advice.
+
+### Houston records may be especially important
+
+TxDOT’s Fiscal Year 2026 Annual Grant Application reports 908 Harris County crashes involving a motorcycle and another motor vehicle in 2024, based on a CRIS query. It does not identify insurance, responsibility, or policy outcome. For a hit-and-run, preserve plate characters, vehicle type and color, direction, time, and exact location, then note camera leads. Do not announce that a driver was uninsured merely because they left; that remains a factual and coverage question.
+
+### Notice and cooperation language deserves attention
+
+Policies often contain language about notice, cooperation, statements, authorizations, examinations, inspections, and proof of loss. The wording and legal effect can differ. Keep every request and date, and seek advice before signing a broad document or giving a guessed account. Preserve the motorcycle through photographs or inspection before repair, salvage, or disposal.
+
+### Do not mix fault questions with coverage questions
+
+The other driver’s lack of coverage does not make the roadway sequence irrelevant. A left turn, unsafe lane movement, no-contact fall, or multi-vehicle event calls for different facts. Texas Chapter 33 may arise where responsibility is disputed; §33.001 contains the greater-than-50-percent bar and §33.012 addresses percentage reductions.
+
+### How to prepare a focused inquiry
+
+Gather the declarations page and complete policy if available, other-driver information, report number, photos, repair documents, medical paperwork, and carrier communications. State whether there was direct contact and whether the other driver remained. Ask the attorney you choose about their terms, expenses, and scope before signing an engagement agreement.
+
+## svc_motorcycle_injury_claim_negotiation_lede
+Negotiation after a motorcycle injury is not a single conversation or a number generated from a crash report. It is the organized exchange of records about injuries, expenses, lost work, property damage, responsibility, and insurance coverage—often while treatment and the factual record are still developing.
+
+## svc_motorcycle_injury_claim_negotiation_body
+### Negotiation begins with an accurate record
+
+Organize the crash report, photos, medical records and bills, proof of missed work if applicable, repair material, witnesses, policy correspondence, and the motorcycle’s location. Each serves a different purpose and should not be stretched beyond what it shows. Keep originals, record dates, and retain requests for statements or authorizations before seeking legal advice about how to respond.
+
+### Houston roads can shape the factual dispute
+
+The City identifies Bissonnet from South Dairy Ashford to Hillcroft as a high-priority High Injury Network corridor. TxDOT identifies I-45 between I-10 and I-610 as a crash hot spot with crowded merging locations and left-hand exits. Neither official description decides responsibility for a rider from Montrose, the Heights, East End, Gulfton, Sharpstown, Spring Branch, or elsewhere. They show why the exact intersection, ramp, lane, and direction belong in the record.
+
+### Medical progress should not be compressed into a guess
+
+Motorcycle injuries can include fractures, road rash, soft-tissue injuries, head injuries, surgery, rehabilitation, and symptoms that change with treatment. Follow medical guidance, retain visit summaries and bills, and describe symptoms accurately. An early offer can arrive before treatment or work effects are clear; obtain individualized advice before signing a release or accepting payment intended to resolve all issues.
+
+### Responsibility percentages are not negotiating slogans
+
+Texas Chapter 33 makes percentage disputes consequential. Under §33.001, a claimant more than 50 percent responsible may not recover; under §33.012, damages are reduced by the percentage assigned when the statutory bar does not apply. Preserve the road location, photos, repair evidence, medical record, witnesses, and footage. If a fact is uncertain, say that rather than converting an impression into a number.
+
+### Separate a traffic rule from an evidence question
+
+A traffic rule may focus an inquiry without ending it. Section 545.152 addresses left turns and §545.060 addresses lane movements, but neither replaces proof of position, signal phase, distance, speed, contact marks, or witness reliability. Chapter 661 contains motorcycle headgear rules and statutory exceptions; this page does not attempt to predict how any gear-related fact would be treated in an individual dispute.
+
+### The filing calendar keeps running
+
+Civil Practice and Remedies Code §16.003 generally provides two years from accrual for a personal-injury suit and two years from the date of death for an action for injury resulting in death. Adjuster communications do not themselves change a statutory filing date. Record the date and seek individualized advice promptly; a general page cannot assess every deadline detail.
+
+### A disciplined offer review
+
+Read an offer or release exactly: identify the payer, policy, people and losses it purports to cover, release language, and any response date. Keep the envelope, email headers, and attachments. Ask an attorney you choose to contact to explain the document before agreeing to its terms.
+
+### What an inquiry can clarify
+
+Bring the crash date, exact location, report number, insurer letters, policy information, treatment records, expense documents, photos, and motorcycle location. State whether a release, offer, or recorded-statement request has arrived. No one can promise a result from a short inquiry; preserve records, avoid guesses, track the statutory date, and obtain advice before signing a lasting document.
+
+## services_pick_head
+Start with the problem that actually happened
+
+## crosslink_head
+Different question than this one?

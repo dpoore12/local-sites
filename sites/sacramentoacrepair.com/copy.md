@@ -2,20 +2,19 @@
 
 **Air Conditioner Repair in Sacramento, CA** · target keyword `ac repair sacramento`
 
-# RULES
+## RULES
 
-# - Write for this city. Every block must be unreusable on another site.
-#   The build fails if any 15 consecutive words match another site.
-# - Never promise a phone consultation. Sell the work: what gets fixed,
-#   what it costs, when someone arrives.
-# - Never name a business, a licence, a review count, a price or a year
-#   in business. No tenant is signed, so none of it is true yet.
-# - PHASE 1: this site is home + about + contact only. No service pages.
-# - Home page lands 1,700-3,200 visible words.
-# - symptom_N blocks are 200-360 words each. In phase 1 the card IS the
-#   coverage of that problem, so give it the full explanation.
-# - site.json needs 3 local_facts with a real source URL each, and 6
-#   neighbourhoods, before this will build.
+- Write for this city. Every block must be unreusable on another site.
+  The build fails if any 15 consecutive words match another site.
+- Never promise a phone consultation. Sell the work: what gets fixed,
+  what it costs, when someone arrives.
+- Never name a business, a licence, a review count, a price or a year
+  in business. No tenant is signed, so none of it is true yet.
+- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
+- symptom_N blocks are 40-80 word teasers only. The depth goes on the
+  service page they link to.
+- site.json needs 3 local_facts with a real source URL each, and 6
+  neighbourhoods, before this will build.
 
 ---
 
@@ -45,11 +44,7 @@ The unit runs all afternoon and the house never gets cool
 
 ## symptom_1
 
-The thermostat says seventy-eight, the reading in the hallway says eighty-six, and the outdoor unit has not shut off since noon. Around Sacramento this usually shows up first in the second week of a heat run, not on day one, because a system with a weak charge or a clogged coil can still hold a house that gets flushed out by the delta breeze after dark. Take that overnight cooling away and the same equipment falls behind by mid-afternoon.
-
-Four causes account for most of it. A refrigerant charge that has bled down over years of small leaks, which drops capacity long before the unit stops cooling entirely. A condenser coil packed with cottonwood fluff, dust off the levee roads and dryer lint, which is common where the outdoor unit sits in a three-foot side yard between two houses on a narrow lot in Midtown or Curtis Park. A blower wheel loaded with dust so airflow across the indoor coil collapses. Or ductwork that was retrofitted into an attic decades ago and now leaks a third of its air into a space that hits a hundred and forty degrees.
-
-Undersized equipment is worth ruling out too, especially where a system was sized for the house before an attic bedroom or a back addition was added. A technician measures the temperature drop across the indoor coil, checks suction and liquid pressures against the outdoor temperature, and looks at static pressure in the duct. That is the difference between a charge problem, an airflow problem and a duct problem. All three feel identical from the couch, and all three cost real money in a summer where SMUD prices weekday power highest between five and eight in the evening.
+A system that runs from noon onward but loses ground room by room is usually short on capacity, airflow, or heat rejection—not automatically a bad compressor. Sacramento’s 2024 run included 31 days at 100°F or hotter, so a marginal unit gets exposed quickly. The repair page separates a loaded filter and dirty coil from a refrigerant, duct, or electrical problem.
 
 ## symptom_2_title
 
@@ -57,13 +52,7 @@ The air coming out of the vents is warm
 
 ## symptom_2
 
-The blower is moving plenty of air and it is room temperature or warmer. That is a different failure from weak cooling: something in the refrigeration circuit has quit rather than degraded, or the outdoor half of the system never started at all.
-
-Start by walking outside while the thermostat is calling for cooling. If the big fan on top of the condenser is not turning and you can hear a low hum from the side of the cabinet, the run capacitor is the leading suspect, and it is a small part with an hour of labour attached. A capacitor that has bulged or leaked usually gives up during the hottest stretch of the afternoon, which in Sacramento often means the hours right before the delta breeze arrives. A contactor with pitted, welded contacts behaves similarly. If the fan spins freely and the unit is silent, check whether the outdoor disconnect box beside the unit is pulled or the breaker has tripped.
-
-A hard freeze of ice on the indoor coil also blows warm air, because a block of ice stops heat transfer entirely. Shut the cooling off, leave the fan running to thaw it, and expect the technician to look for a low charge or a starved airflow path rather than just melting it and leaving.
-
-The expensive answer is a compressor that has failed electrically or lost compression. It is far less common than the internet suggests, and it should be confirmed with meter readings and pressure tests you can ask to be shown, not diagnosed from the driveway. Where the compressor really is dead, the age of the equipment and the refrigerant it uses decide whether repair or replacement is the honest recommendation.
+Strong airflow that feels warm means the indoor blower is doing its job while the cooling circuit is not. A silent condenser, a humming fan, ice, or a compressor that starts and quits all point in different directions. Do not keep resetting a breaker; the compressor and refrigerant-leak pages explain the safe observations and the tests that settle it.
 
 ## symptom_3_title
 
@@ -71,13 +60,7 @@ There is water on the floor, a ceiling stain, or the unit keeps shutting off
 
 ## symptom_3
 
-Every air conditioner pulls moisture out of the air, and all of it has to drain somewhere. When the drain path plugs, the water finds a floor, a wall or a ceiling instead. In houses where the coil sits in the attic — the normal arrangement in Sacramento's pre-war neighborhoods, where the original heating was a floor furnace or wall units and cooling ducts were added later — the first sign is often a brown ring on a bedroom ceiling rather than a puddle.
-
-The usual cause is a condensate drain line choked with biological slime, or a pan rusted through underneath the coil. Attic installations are supposed to have a secondary pan with its own drain and a float switch that cuts the system off before water reaches the drywall. When a homeowner tells us the unit keeps stopping on its own after ten minutes and there is no obvious fault, a tripped float switch sitting in a full pan is one of the first things checked.
-
-Where the air handler lives in a hall closet or a converted service porch, which happens in a lot of retrofitted bungalows and duplexes, the pan is inches from finished flooring and there is no attic to absorb a slow leak. Those get a hard look at the trap and the slope of the drain line.
-
-Ice is the other water source. A coil that freezes and then thaws overflows the pan even with a clear drain, so anyone treating only the water without finding out why the coil froze is going to be back. The repair is clearing and flushing the line, replacing the pan or float switch where they have failed, and correcting whatever caused the freeze. You get the price for that work before it starts.
+Water below a closet unit or a ceiling mark under an attic coil needs attention before drywall or flooring gets involved. A stopped drain, failed float switch, rusted pan, or a coil thawing after freeze-up can look alike at first. Turn cooling off if water is near wiring, then use the repair page to see what a drainage and airflow check should include.
 
 ## symptom_4_title
 
@@ -85,13 +68,7 @@ Nothing happens at all when you turn the thermostat down
 
 ## symptom_4
 
-Silence everywhere: no blower, no click, nothing outside. Before anything gets diagnosed, check two things yourself. Replace the thermostat batteries if it has them, and look at the switch on the wall or ceiling next to the furnace or air handler, which looks exactly like a light switch and gets flipped off by accident constantly in garages and attics.
-
-Then check the electrical side. Central cooling normally has two breakers: one for the indoor blower and one for the outdoor unit. A blower that runs while the condenser stays dead points at the outdoor circuit or the disconnect box on the wall beside it. Nothing at all usually means the indoor circuit, the door switch on the furnace cabinet, or a blown low-voltage fuse on the control board. A breaker that trips again as soon as it is reset should be left off, because something downstream is drawing current it should not, and repeated resets are how a fault becomes a fire.
-
-Older Sacramento houses add their own wrinkle. Plenty of homes in the 1920s and 1930s core have had panels upgraded once and the cooling circuit added during a later remodel, so labelling is unreliable and the outdoor disconnect can be in an odd place — behind a fence, under a deck, on the far side of a detached garage.
-
-If the control board itself has failed, or a transformer has burned out, that is a parts-and-labour repair on the same visit in most cases. The technician confirms it with voltage readings at the board and the contactor, quotes the number, and then does the work.
+When the thermostat calls and nothing answers, start with the safe basics: cooling mode, batteries where applicable, and one look for a tripped breaker. A breaker that trips again stays off. In older East Sacramento and Land Park homes, later-added cooling circuits and awkward disconnect locations complicate a no-start; the compressor page maps the electrical checks a technician makes.
 
 ## qa_1_question
 
@@ -120,6 +97,12 @@ Considerably. The median Sacramento home was built in 1978, but roughly one hous
 ## closing_cta
 
 Get a technician to the equipment, a real diagnosis with readings behind it, and the repair price before the work begins. If a breaker keeps tripping or you smell anything burning, switch the system off at the breaker and mention it when you call.
+
+## services_summary
+
+“AC repair” is a catchall phrase, but the four jobs on this site start at different places. General air-conditioner repair is for a system that is not meeting the thermostat setting, is draining where it should not, or has stopped responding. Compressor repair is the narrower electrical and mechanical investigation for an outdoor unit that hums, overheats, trips, or cannot build a pressure difference. Refrigerant-leak work finds and repairs the reason a sealed circuit is low rather than treating refrigerant as something an air conditioner simply consumes. A tune-up is preventive measurement, cleaning, and adjustment while the system is still running.
+
+They overlap because a dirty filter can freeze a coil, and that thaw can look like a drain failure. A weak condenser fan can make a compressor overheat, which can look like a low charge from the living room. A technician has to establish airflow, electrical operation, and refrigeration performance in that order. The right page helps you describe what you are seeing without pretending the symptom alone identifies the failed part.
 
 ## about_summary
 
@@ -291,3 +274,181 @@ None of this is a diagnosis. What actually failed gets confirmed with gauges and
 ## emergency_note
 
 If a breaker keeps tripping or anything smells like hot insulation, shut the system off at the breaker and leave it off until a technician has looked at it.
+
+## services_pick_head
+
+Choose the cooling problem that matches what you can observe
+
+## crosslink_head
+
+Looking at a different kind of AC trouble?
+
+## svc_air_conditioner_repair_lede
+
+Sacramento air conditioner repair begins with the part of the system that has actually fallen behind: the air path, the outdoor heat-rejection side, the electrical controls, or the sealed refrigerant circuit. That distinction matters during a valley heat spell, when a unit that seemed adequate on a cool delta-breeze evening can miss the thermostat by lunchtime.
+
+## svc_air_conditioner_repair_body
+
+### Read the pattern before naming a part
+
+A thermostat at eighty-two does not identify the failed component. Notice whether supply air is strong, weak, or absent, then whether the outdoor cabinet is running. Strong but lukewarm air with a silent condenser points toward the outdoor electrical circuit. Weak airflow may come from a loaded filter, dirty blower, frozen evaporator, or duct restriction. A house that cools overnight and loses ground after noon can have reduced capacity or too much heat entering the building. Refrigerant is not the first answer to every one of those patterns.
+
+Sacramento Executive Airport recorded 31 days at 100°F or above in 2024, 23 of them above 100°F. On that kind of afternoon, the outdoor coil has little temperature difference available to shed heat. A condenser enclosed by fences in Midtown, Curtis Park, or Land Park is less forgiving than one with open space beside a North Natomas home.
+
+### Start with the house and access
+
+Sacramento’s citywide median construction year is 1978, but equipment locations are not uniform. East Sacramento, Midtown, Land Park, and Curtis Park include houses where cooling was installed after the original heating. The coil may be above a garage furnace, in a hall closet, or in an attic with later duct additions. Oak Park often presents garage equipment; North Natomas more often has planned closet or attic locations. The layout changes where a technician looks for return restrictions, drains, duct leakage, and safe access.
+
+Clear a path to the indoor equipment and side-yard unit, and note which rooms warm first. Do not remove panels or touch a swollen capacitor. If the system is iced, turn cooling off and use fan-only if it works; readings made through a frozen coil are not useful.
+
+### The test order avoids expensive guessing
+
+The technician should confirm the thermostat call and power supply, then check the filter, blower, return airflow, and coil temperature. Next comes the outdoor side: contactor, capacitor, fan, compressor current, and coil condition. Refrigerant pressures and line temperatures are interpreted after airflow and outdoor heat transfer are established. That sequence separates a dirty coil from a low charge, fan fault, or compressor being protected from heat.
+
+Air conditioners do not consume refrigerant. If the charge is low, the next task is locating the loss and deciding whether the leak can be repaired. Adding charge without that answer is not a lasting repair.
+
+### Smoke and dust change filter habits
+
+Central Valley dust and wildfire smoke can load filters faster than a mild, clean season. EPA says a MERV 13 filter can reduce smoke particles when the system can accommodate it, but it also tells homeowners to change a dirty or odorous filter. A dense filter forced into an old one-inch rack can starve airflow, raise static pressure, and freeze the coil. The filter choice must fit the return path and equipment.
+
+During smoke, keep windows closed when outside air is poor and use room filtration where extra protection is needed. A tune-up can assess the rack, coil face, drain, and blower; it cannot make an undersized return suitable for every high-efficiency filter.
+
+### Peak-hour operation makes a small fault costly
+
+SMUD prices summer weekday electricity highest from 5 to 8 p.m. A blocked coil or restricted airflow can therefore extend runtime into the costly window. Close blinds early and keep returns open.
+
+### Repair and replacement are different scopes
+
+A capacitor, fan motor, float switch, or drain part is a repair. A condenser, coil, or full changeout requires a City of Sacramento mechanical permit. A moved outdoor unit must be screened from street view, and California Energy Commission guidance can require duct sealing plus refrigerant-charge and airflow verification. Confirm the permit, forms, tests, and inspections before approving replacement.
+
+### What sets the repair price
+
+The figure depends on the failed item, access, testing time, and any second condition needed to make the first repair last. A leak repair includes finding and correcting the loss, not merely adding charge. Receive a firm figure before work starts.
+
+## svc_ac_compressor_repair_lede
+
+A compressor is the pump at the center of the cooling circuit, not the default explanation for every warm vent. Sacramento compressor repair is about proving whether the pump itself has failed or whether a smaller electrical, airflow, fan, or refrigerant problem is keeping it from operating safely in extreme heat.
+
+## svc_ac_compressor_repair_body
+
+### Compressor symptoms are not a compressor diagnosis
+
+A loud hum followed by silence, a unit that starts and trips, a breaker that will not stay set, or a condenser fan running with no cooling all justify a compressor check. They can also come from a weak capacitor, damaged contactor, failed fan, loose wire, dirty coil, or control safety. The important question is whether the compressor receives correct power, attempts to start, draws abnormal current, and creates the pressure difference needed to move heat.
+
+Turn the system off if a breaker trips again, the disconnect feels hot, or there is a sharp electrical smell. Do not reset it repeatedly, force the contactor closed, or reach through the fan grille. The outdoor section has line voltage and a capacitor can retain charge.
+
+### Sacramento heat exposes the surrounding problem
+
+The Sacramento Executive Airport station counted 31 days at 100°F or above in 2024. When the outdoor air is that hot, blocked fins, poor fan airflow, and tight side-yard clearance show up quickly. The compressor’s internal protection can open to prevent damage, then reset after the cabinet cools. That creates a misleading pattern: normal in the morning, dead after a long afternoon, normal again overnight.
+
+It does not prove the pump has failed. In East Sacramento and Land Park, leaves, lint, and windblown debris can collect on a coil hidden beside a fence. The coil, fan blade, motor, capacitor, electrical connections, and refrigerant conditions should be checked before condemning the compressor.
+
+### Measurements separate small parts from a major repair
+
+The visit should confirm voltage at the disconnect and contactor, inspect the contactor and capacitor, and measure compressor and fan current while the unit attempts to run. A no-start can be a capacitor or internal mechanical problem. A high-current running compressor may be overheated, electrically damaged, or working against an airflow or refrigeration fault. Pressure and temperature readings reveal whether it is moving heat.
+
+This protects against using “compressor” as a shortcut. It also keeps a technician from replacing a small part without finding the pitted contactor, loose connection, or failing fan that caused the part to struggle.
+
+### Refrigerant may be part of the cause
+
+Low charge can make a compressor run hot, but refrigerant does not vanish in normal use. Oil staining, leaking valve cores, corroded coils, or damaged line sets need an actual leak search. Depending on the system, that can use electronic detection or nitrogen pressure testing, followed by repair, evacuation, and measured charging.
+
+EPA cautions that alternatives generally need component changes, and unapproved flammable refrigerants are hazardous in equipment not designed for them. The nameplate and manufacturer procedure, not an improvised substitute, govern the repair.
+
+### R-22, R-410A, and the A2L transition
+
+EPA permits existing R-22 systems to keep being serviced, although after 2020 service supply is recycled, reclaimed, or previously produced R-22. No federal rule compels replacement of a working R-22 system. The practical question is whether a large sealed-system repair is sensible on the particular equipment.
+
+For residential equipment made or imported before January 1, 2025 and using refrigerants above EPA’s 700 GWP limit, the May 2026 rule removed the former January 2026 installation cutoff; eligible legacy inventory may be installed until exhausted. Newer equipment follows the lower-GWP transition and commonly uses A2L refrigerants designed for that purpose. An A2L is not a conversion kit for older equipment.
+
+### Changeout decisions include city and state requirements
+
+If replacement wins the comparison, Sacramento requires a mechanical permit. The city’s planning form treats same-location replacement differently from moving a condenser, which must be screened from street view. California Energy Commission guidance treats replacement of an outdoor condensing unit as an alteration that generally triggers duct sealing and verification; component replacement can also require refrigerant-charge and airflow verification.
+
+The comparison should identify the measured failure, refrigerant, condition of the matched indoor equipment, and all required work. Compressor repair and replacement have different parts, labor, permit, testing, and site variables. Get the firm number for the selected scope before work begins.
+
+## svc_ac_refrigerant_leak_repair_lede
+
+A low refrigerant reading is evidence of a leak, not a request to “top it off.” Sacramento refrigerant-leak repair finds the escape point, repairs it when practical, and then restores the system by the approved charging procedure—especially important when an older R-22 system or a major coil repair changes the decision.
+
+## svc_ac_refrigerant_leak_repair_body
+
+### Low charge is a clue, not the repair itself
+
+Slow cooling, frost on the large insulated line, weakly cold supply air, and an iced evaporator can all occur with a low charge. They can also be caused by restricted airflow from a filter, blower, or coil problem. Running an iced system longer does not solve it. Turn cooling off, allow the coil to thaw, and use fan-only if it works. Do not chip ice or open the refrigerant circuit.
+
+A residential air conditioner is a closed loop. Refrigerant does not get used like fuel. When charge is low, it has escaped through a leak or the system was serviced incorrectly. Adding refrigerant without locating the cause may restore cooling briefly but leaves the same leak and expense behind.
+
+### The search needs a specific target
+
+Investigation starts with history and visible clues: oil around valves, rubbing line-set sections, corroded coil areas, and brazed joints. The diagnostic method may use electronic detection, dry-nitrogen pressure testing, or another approach suited to the equipment. The goal is a defined defect or a plain explanation when a concealed coil or inaccessible line does not make financial sense to repair.
+
+After a repair, the circuit must be evacuated and charged under the manufacturer’s procedure. A finish should verify operation after airflow is checked, not simply prove the registers feel cooler for five minutes.
+
+### Older neighborhoods create different access paths
+
+In Midtown, Curtis Park, East Sacramento, and Land Park, cooling often arrived long after the house was built. A coil may sit in a hot attic or the line set may disappear through a wall to a side-yard condenser. Oak Park’s postwar patterns more often bring a garage furnace and add-on coil. North Natomas installations tend to have better planned access, though landscaping still hides lines and valves.
+
+A visible valve core is not the same job as an evaporator coil inside a cramped cabinet. The technician should identify where the leak was found, what part is proposed, and why that repair is expected to last before charging the system.
+
+### California verification applies to major sealed-system work
+
+When a refrigerant-containing component is replaced, California Energy Commission guidance requires refrigerant-charge field verification for air conditioners in Climate Zones 2 and 8 through 15, along with minimum airflow verification. Sacramento is within that covered range. The proposal should state whether charge verification, airflow testing, ducts, and Energy Code paperwork are part of the scope.
+
+A small service-valve repair is not the same as a condenser or coil replacement. The City of Sacramento requires permits for mechanical replacements. If a new condenser is put in a different location, the city planning form calls for screening from street view.
+
+### R-22 deserves context, not panic
+
+EPA allows existing R-22 equipment to continue being serviced; it does not require an owner to replace it. Since 2020, however, R-22 used for service must be recycled, reclaimed, or previously produced. Leak location, compressor and coil condition, refrigerant amount, and the homeowner’s goals matter more than a sales deadline.
+
+R-410A equipment can also be worth repairing when the leak is accessible and the matched system is otherwise sound. New equipment is moving to lower-GWP refrigerants, including A2Ls, but those systems have their own purpose-built components and procedures. An A2L cannot be put into an older R-22 or R-410A system as a casual swap.
+
+### Do not mistake smoke-related airflow trouble for a leak
+
+Wildfire smoke and summer dust do not create a refrigerant leak, yet they can load filters and coil surfaces until airflow falls and the evaporator freezes. EPA recommends considering MERV 13 filtration for smoke only where the HVAC system can accept it, and replacing filters when they are dirty or smell. Checking the filter rack and airflow before blaming the refrigerant circuit avoids a false conclusion.
+
+### What determines the figure
+
+Cost varies with access, leak location, refrigerant, testing, and sealed-system components. Before authorizing work, obtain a firm figure identifying detection, repair, refrigerant, verification, and permit responsibilities.
+
+## svc_ac_tune_up_lede
+
+An AC tune-up in Sacramento is a measured maintenance visit for the season when the system is asked to work hardest: dry heat, late-day utility peaks, dust on the coil, and periodic wildfire smoke. It is not a magic guarantee against failure; it is the time to find airflow, drainage, electrical, and outdoor-unit problems before a 100-degree stretch makes them urgent.
+
+## svc_ac_tune_up_body
+
+### The purpose is finding conditions before heat magnifies them
+
+A useful tune-up checks the filter path, coil condition, drain and float safety, blower, thermostat response, electrical connections, capacitor, contactor, condenser fan, and cooling sequence. Measurements may include temperature change, electrical readings, airflow clues, and operating pressures where appropriate. The outcome should distinguish normal findings, needed repair, and items worth watching—not merely say the unit was “tuned.”
+
+Sacramento Executive Airport logged 31 days at 100°F or above in 2024. A weak capacitor or fan that survives a mild day can fail after many hot hours. Spring maintenance cannot guarantee a trouble-free summer, but it can reveal a measurable defect before a high-load afternoon does.
+
+### Filters protect equipment and influence smoke exposure
+
+A filter protects the blower and evaporator coil from airborne debris. EPA says a MERV 13 filter may help with wildfire smoke when the system can accommodate it, and recommends checking and changing a dirty or odorous filter. In Sacramento, that can be practical because smoke and dry debris load media earlier than a calendar reminder suggests.
+
+The highest MERV number is not always correct. An older one-inch filter rack in a Curtis Park or Land Park retrofit may impose too much resistance with dense media, while a North Natomas return may be designed differently. The visit should check filter fit, return clearance, and airflow. A badly restricted filter can turn an air-quality intention into a frozen-coil repair.
+
+### The outdoor coil has to reject heat
+
+The condenser coil releases indoor heat to the outdoors. Cottonwood, dry leaves, lawn material, and fine dust can mat the fins, especially along a fence or shrub line. Cleaning must protect the fins and electrical components; do not use high-pressure water or remove panels to reach wiring. The key finding is whether the coil has open fin area and the fan has room to move air.
+
+On older city lots, an outdoor cabinet may have only a narrow side run. Moving it later is not a casual access decision: Sacramento’s planning form requires a relocated HVAC unit to be screened from street view. Maintenance preserves service access where the unit is rather than assuming it can be shifted around landscaping.
+
+### Drainage needs attention even in a dry climate
+
+Cooling still creates condensate. The drain pan, primary drain, secondary protection, and float safety are especially important at attic equipment. In a retrofitted bungalow, a coil over a bedroom can announce a blockage with a ceiling stain.
+
+The visit can clear a drain, test a float switch, and flag a corroded pan. It should also look for the reason water collected. A coil that ices because of airflow trouble can dump more meltwater than a pan can manage.
+
+### Electrical components should be read, not sold automatically
+
+Contactors and capacitors work at every cooling start. A capacitor can weaken gradually; contactor surfaces can pit; fan airflow can decline. The tune-up checks readings, connections, and physical condition, but a replacement should follow a defect or measurement, not an automatic list. If there is a new buzz, repeated breaker trip, burnt odor, or stopped fan, shut the system down and arrange repair instead of calling it routine maintenance.
+
+### SMUD’s peak window gives runtime more consequence
+
+SMUD’s summer weekday peak runs from 5 to 8 p.m., June 1 through September 30. The 2026 schedule lists 37.65 cents per kilowatt-hour then, versus 15.50 cents overnight. A clean coil and correct airflow can prevent avoidable runtime in that period.
+
+### Know when maintenance becomes an alteration
+
+A tune-up finds conditions; it does not cure a leaking coil, failed compressor, burnt wiring, or broken fan without a separate repair scope. A condenser or furnace changeout is different: Sacramento requires mechanical permits for replacement work, while California Energy Commission requirements can include duct sealing, refrigerant-charge verification, airflow testing, and documentation. Ask which work is maintenance, repair, and permitted alteration. Any repair found during the visit should be priced separately and approved before it begins.

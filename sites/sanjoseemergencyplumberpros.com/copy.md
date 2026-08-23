@@ -1,7 +1,22 @@
 # Copy — sanjoseemergencyplumberpros.com
 # Emergency Plumbing, San Jose CA. Written for this city only.
-# Status: pre-tenant. Phase 1: home, about, contact.
+# Status: pre-tenant. Phase 2: home, about, contact, services and service pages.
 
+## RULES
+
+- Write for this city. Every block must be unreusable on another site.
+  The build fails if any 15 consecutive words match another site.
+- Never promise a phone consultation. Sell the work: what gets fixed,
+  what it costs, when someone arrives.
+- Never name a business, a licence, a review count, a price or a year
+  in business. No tenant is signed, so none of it is true yet.
+- Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
+- symptom_N blocks are 40-80 word teasers only. The depth goes on the
+  service page they link to.
+- site.json needs 3 local_facts with a real source URL each, and 6
+  neighbourhoods, before this will build.
+
+---
 ## meta_title
 
 Emergency Plumber in San Jose, CA — Burst Pipes, Sewage Backups, Dead Water
@@ -28,11 +43,7 @@ A supply line split and water is spraying
 
 ## symptom_1
 
-Water under pressure does damage by the minute, so the shutoff comes before the phone. Most San Jose houses have a main valve where the water service enters — commonly a gate or ball valve near the front hose bib, inside the garage wall, or in a box at the front of the lot. Turn it clockwise until it stops. If the valve is a corroded gate valve that spins without ever sealing, which is common on the older side of town, go out to the meter box near the sidewalk and shut the valve on the house side of the meter. A meter key or a good pair of channel locks does it.
-
-Then open the lowest faucet in the house to bleed pressure out of the system, and cut power at the breaker to anything the water is running near. If the leak is inside a wall or above a ceiling, get everything out from underneath it before the sheetrock lets go.
-
-What actually split matters for the repair. Galvanized steel supply piping, standard in the tracts built before the 1960s, fails from the inside out and shows up as a rusty pinhole spray at a threaded joint. Copper installed through the 1970s and 1980s pits and weeps at solder joints, and San Jose's hard groundwater accelerates the scale that hides those pits until they blow. A single split length is a section repair. Three pinholes in one week on the same run is a repipe conversation, and you should be told which one you are looking at rather than sold the bigger job by default.
+A pressure-side split is the one to stop before doing anything else. Close the house main; on many San Jose lots the backup is the meter-side valve in the sidewalk box. A Willow Glen galvanized joint, a copper pinhole in Cambrian, and a newer PEX fitting call for different repairs. Leave the wall closed until the failed material is identified.
 
 ## symptom_2_title
 
@@ -40,13 +51,7 @@ A drain is backing up and the water is not going down
 
 ## symptom_2
 
-One fixture backing up while everything else drains normally is a local blockage — the trap, the branch arm, or the first few feet past it. Kitchen sinks in this city clog with the same two things: hardened grease, and food packed against a scaled-up pipe wall. Stop running the disposal. Grinding more food into standing water gives the plumber a bucket to bail before anything else can happen. Bail the sink down to a few inches yourself if you can.
-
-Two or more fixtures backing up at once is a different animal. That means the blockage is downstream of both, in the main building drain or out in the lateral, and the water has nowhere to go but the lowest opening in the house — usually a shower pan or a garage floor drain. Stop using every fixture in the building, including toilets and the washing machine, until it is cleared.
-
-Do not pour a caustic drain product down a line that is already full. It sits there in standing water, it does not reach the clog, and it turns a straightforward cable job into one where the plumber is working over a pipe full of hot lye. If you already poured it in, say so on the call so the right protection comes along.
-
-Clearing it means picking the right machine for the pipe. A hand-fed drum machine handles a sink or tub branch. A sectional machine with a cutter head goes out to the street through a cleanout. Cast iron drain lines, standard in the pre-1960 San Jose housing stock, build up an internal scale ledge that catches everything, and a cable that only punches a hole through the blockage leaves you calling again in a month. Camera work after the cable is what tells you whether the pipe itself is the problem.
+One slow sink is usually a branch-line job. A shower plus a toilet or laundry standpipe backing up together points farther downstream, often the building drain or lateral. In older San Jose houses, a cable can reopen a scaled cast-iron line without explaining why it closed. Do not add chemical cleaner to standing water; a camera after clearing gives the useful answer.
 
 ## symptom_3_title
 
@@ -54,11 +59,7 @@ Sewage is coming up out of a drain or a toilet
 
 ## symptom_3
 
-This one is a health problem, not just a plumbing problem. Raw sewage surfacing in a shower pan, a floor drain or the lowest toilet means the sewer lateral running from your house out to the city main is blocked or broken. Stop all water use in the building immediately — every flush, every load of laundry, every dishwasher cycle adds to what is already coming up. Keep children and pets out of the affected rooms and do not run a shop vac over it without proper gloves and a mask.
-
-In San Jose the responsibility split is worth knowing while you are standing there. The city's sanitary sewer FAQ states that the property owner is responsible for maintaining the entire lateral, and that the city will maintain the lower portion from an approved property-line wye cleanout out to the main only as a courtesy, and only when that cleanout exists and sits within five feet of the property side of the sidewalk. If nobody has ever installed one on your lot, all of it is yours. That single fitting is also the access point a plumber needs to reach the line properly, which is why installing one often pays for itself the first time it is used.
-
-Roots are the usual cause here. Mature street trees over clay or cast iron lateral joints send hair roots into every gap, and they come back on a cycle. Grease and wipes finish the job. A cable clears it today. A camera run after the cable tells you whether you have a root intrusion that needs cutting each year, a bellied section holding water, or a collapsed line that needs replacing. A plumbing permit is required to repair or replace a building sewer in San Jose, and to install a property line cleanout, so that part is a scheduled job with an inspection, not something done quietly at midnight.
+Sewage at a shower, floor drain, or lowest toilet means stop every water use in the building. San Jose assigns the owner the whole lateral, with a limited City courtesy beyond an approved property-line wye cleanout. Roots can enter a tiny break, then grease and paper make the blockage complete. Clearing the line is urgent; deciding whether its pipe needs repair is the next step.
 
 ## symptom_4_title
 
@@ -66,13 +67,7 @@ No water at any tap in the house
 
 ## symptom_4
 
-Start by checking whether it is only your house. Ask a neighbor or look for a utility crew on the street. San Jose Water and the city's municipal system both do unplanned shutdowns for main breaks, and there is nothing to repair on your side if that is what happened.
-
-If the block has water and you do not, walk the line from the street inward. Open the meter box by the sidewalk and look at the dial. Spinning with every fixture closed means water is escaping between the meter and the house — a failed underground water service, often the original galvanized or poly line, and it usually shows as a soft wet patch or unexplained green grass in the front yard. A dial sitting perfectly still means the water is stopping before it gets moving: a main valve accidentally left closed, or a water service that has finally rusted shut internally.
-
-Two more things to rule out. If it is only hot water that is gone, that is the water heater, not the service line. If the pressure dropped over months rather than vanishing overnight, that is scale narrowing galvanized pipe from the inside, which is a repipe rather than a repair.
-
-There is a seasonal version too. Water heaters that quit in cold weather, pressure regulators that fail after years of hard water, and hose bibs left open behind a closed shutoff all present as no water at the tap. Say what changed and when, because a service line replacement, a regulator swap and a water heater failure are three different trucks' worth of parts and San Jose requires a plumbing permit for the water service work.
+No water at every fixture deserves two checks before pipe work: confirm that nearby houses still have service, then look at the meter with all taps shut. A moving dial suggests a service-line leak; a still dial can mean a closed or failed main valve. San Jose Water source changes can alter hardness, but they do not make a whole-house supply disappear overnight.
 
 ## qa_1_question
 
@@ -101,6 +96,14 @@ It depends on what is happening. Water actively escaping, sewage inside the buil
 ## closing_cta
 
 Get the water stopped, get a real price before the pipe is opened, and get the repair done on the same visit. If water is still moving, close the main valve or the valve at the meter first, then call.
+
+## services_summary
+
+A wet ceiling, a stopped sink, a sewage backup, and a house with no water can all begin with the same sentence: “something is wrong with the plumbing.” They are not interchangeable jobs in San Jose. Emergency plumbing repair sorts out the immediate hazard and the failed system. Burst-pipe repair is pressure-side work: shutoff, exposed pipe, material transition, and any water-service question. Drain cleaning is for a blockage that can be reached and removed. Sewer-line repair starts after a camera proves that the lateral itself is damaged, displaced, or repeatedly invaded by roots.
+
+The city’s building eras make that distinction especially important. North Willow Glen has homes from the first half of the twentieth century; the City identifies San Jose Eichler tracts from the 1950s and 1960s; Cambrian Park and Berryessa include large mid-century runs; Almaden Valley and Evergreen contain later construction beside older pockets. The pipe type cannot be proved from a neighborhood name, but the era tells the plumber whether to expect threaded galvanized supply, copper, cast-iron drainage, ABS, or later plastic supply piping before opening a wall or entering a crawlspace.
+
+The same symptom can also cross categories. A water-heater leak may be a failed tank, a scaled relief-valve connection, or a hard-water-damaged shutoff. A shower backup might be hair in a branch, but two low fixtures filling together points to the building drain or the owner-maintained lateral. A camera and an accessible cleanout prevent the wrong repair from being sold as the answer.
 
 ## about_summary
 
@@ -245,6 +248,142 @@ Whether there is a cleanout
 
 An accessible property-line cleanout is the difference between reaching the lateral in minutes and pulling a toilet to get in. If you know where yours is, mention it.
 
+## svc_emergency_plumbing_repair_lede
+
+Emergency plumbing repair is the first-hour work: make the building safe, isolate the failed system, and identify whether San Jose’s water, drain, or sewer side is involved. A 1930s Willow Glen crawlspace, an Eichler-era slab house, and a newer Evergreen townhome can all be wet for entirely different reasons.
+
+## svc_emergency_plumbing_repair_body
+
+### Stop the immediate hazard
+
+A pressurized supply leak, a heater emptying onto a garage slab, or an active ceiling drip calls for the house main to be closed. If water is near an outlet or appliance, keep clear and shut the affected circuit off only from a dry, safe location. For sewage, stop every use of water in the building; flushing or starting a washer simply adds to the lowest backup. On San Jose lots, the shutoff may be at the service entry, garage, front hose connection, or meter box. Do not force a corroded valve until its stem breaks.
+
+### Sort water, drain, and sewer before opening a wall
+
+Constant clear water with fixtures idle indicates the pressure side, an appliance, or a heater. A wet ceiling that appears only when a shower runs may be a drain. One slow sink usually remains a branch problem; a shower and toilet reacting together point beyond both fixtures. The approximate build date helps without proving anything. North Willow Glen has early twentieth-century homes, San Jose Eichler tracts date from the 1950s and 1960s, and Cambrian Park, Berryessa, Almaden Valley, and Evergreen add later layers of construction. Exposed pipe must still be identified before it is cut.
+
+### Read the local material clues carefully
+
+Older work may retain galvanized steel supply and cast-iron drainage; mid-century houses often have copper and cast iron; renovations can add ABS, polybutylene, early PEX, or several transitions. A material mix is normal in a remodeled house. The urgent repair should expose enough sound pipe for the correct fitting, then test it. A series of pinholes or several failed threaded joints deserves a planned repipe discussion, but one visible connector failure does not automatically justify one.
+
+### Treat hard-water evidence as evidence
+
+San Jose Water classifies water above 7 grains per gallon as hard and lists groundwater at 11 to 26 grains per gallon. Valley Water manages groundwater and imported supplies in the county, so source varies by area. Mineral deposits can seize stops and show up at heater connections, aerators, and valve seats. That makes a frozen valve or crusted tank fitting worth inspecting; it does not prove the water is unsafe or turn every fixture into a replacement job.
+
+### A leaking water heater has a permit and seismic scope
+
+The City requires a plumbing permit for a new or replacement water heater, and some equipment also needs an electrical permit. California Health and Safety Code section 19211 requires residential heaters to be braced, anchored, or strapped against earthquake movement in accordance with the California Plumbing Code. A replacement should address the tank, proper relief discharge, connections, and restraint together. A loose strap around drywall is not an answer to an earthquake-safety requirement.
+
+### What the visit should settle
+
+First, the flow is contained by a shutoff, cap, repair, or clearing. Next, the system is tested: pressure after a supply repair, controlled fixture use after a drain clearing, or a main check before blaming the lateral. San Jose will investigate a public-main concern; if the problem lies in the private lateral, the owner needs the clearing or repair. Finally, the plumber should separate emergency control from any planned wall restoration, repipe, cleanout, or permit inspection.
+
+### Price follows the real access and failure
+
+Visible copper, an in-wall galvanized run, a heater connection, and a buried service are not the same job. Access, material, damage control, equipment, and permit scope determine the figure. A firm total should be stated after inspection and before the repair proceeds. If the immediate choice is a temporary containment or a permanent correction, those should be explained as distinct choices.
+
+## svc_burst_pipe_repair_lede
+
+Burst-pipe repair in San Jose begins with stopping pressure, then finding out what actually burst: an old threaded run, a copper section, a plastic fitting, a heater connector, or the service between meter and house. The build era around Willow Glen, Cambrian Park, Berryessa, Almaden Valley, and Evergreen changes the likely clues, not the need to expose and verify the pipe.
+
+## svc_burst_pipe_repair_body
+
+### Isolate the pressure without creating another hazard
+
+Close the building main rather than trying to tape a spraying joint. If the main will not close, use the meter-side valve carefully; that is not permission to repair utility equipment. Open a cold fixture afterward to release residual pressure. Keep clear of water near outlets, appliances, or the electrical panel, and do not stand below a bulging wet ceiling. A garage heater leak can involve hot venting or gas piping as well as water, so report what utilities were shut down.
+
+### Let the build era guide the first look
+
+North Willow Glen includes early development, City material dates San Jose’s Eichler tracts from 1952 to 1963, and Cambrian Park, Berryessa, Almaden Valley, and Evergreen have broad later construction. Early plumbing can include galvanized steel, postwar work may be copper, and later renovations can introduce ABS drainage, polybutylene, or PEX supply. The age narrows a parts list; it never proves the pipe behind a wall. The exposed material and its transitions decide the repair.
+
+### Match the leak pattern to the correct system
+
+Rust-colored seepage at a threaded joint, green staining around copper, a split plastic fitting, and a failed braided connector do not point to the same fix. Water that appears only when a fixture runs may be a drain rather than a burst supply. With all fixtures closed, meter movement can support a service-line leak question; it cannot identify the pipe’s exact location. Do not excavate from a dial observation alone.
+
+### Choose section repair or a planned replacement honestly
+
+Sound pipe on both sides of one failure can support a local section repair followed by pressure testing. Repeated pinholes, several decayed threaded joints, or long-term flow restriction deserve a comparison between targeted work and a planned repipe. In a remodeled Rose Garden or Willow Glen house, one branch may be newer copper while another remains galvanized. Replacing only the hole is not always enough, but opening every wall for one connector failure is not a diagnosis either.
+
+### Check scale, valves, and heater connections
+
+San Jose Water publishes groundwater hardness above the utility’s hard-water threshold and notes mineral deposits on fixtures and appliances. Scale can freeze a stop valve or hide a slow heater-connection seep. That makes nearby isolation valves part of the inspection. It does not mean hardness is a safety problem or that a water heater leaking through its tank shell can be saved by replacing one connector.
+
+### Follow the City’s permit and seismic rules
+
+San Jose requires a plumbing permit for a repipe or water-service project. If the work affects shear walls, firewalls, or structure, the City says a building permit can also be needed. A heater replacement needs a plumbing permit, and California requires residential heaters to be braced, anchored, or strapped against earthquake displacement. Those requirements matter when a burst connection exposes an unsafe existing installation; dry flooring is not the only definition of complete.
+
+### Price depends on material and access
+
+An exposed laundry fitting, an in-wall pipe, a line under a slab, and a private service between meter and house demand different labor and restoration. The total should follow inspection of the actual failure and come before work starts. New damage discovered only after access is opened should be treated as a separate decision, with the reason shown plainly.
+
+## svc_drain_cleaning_lede
+
+Drain cleaning is not simply “make the water go down.” In San Jose, it means locating the blockage on a branch, the building drain, or the private lateral, then deciding whether older cast iron, newer ABS, hard-water deposits, or roots explain why it stopped. That distinction keeps a one-fixture clog from being treated like a street-side sewer failure.
+
+## svc_drain_cleaning_body
+
+### Test the pattern without feeding the backup
+
+If one bathroom sink is slow while other fixtures are normal, the blockage is likely local. If flushing a toilet raises shower water, or a washer makes a low fixture gurgle, stop testing and stop water use. Those fixtures share piping farther downstream. A kitchen sink full of water is not a reason to run the disposal. The useful report is what was used and where the reaction appeared; it chooses the correct machine before the visit begins.
+
+### San Jose’s drain materials span many decades
+
+Early Willow Glen development, 1950s–60s Eichler tracts, postwar Cambrian Park and Berryessa, and later Almaden Valley and Evergreen leave a broad material mix. Older drainage can include cast iron; later work and remodels often introduce ABS. Cast iron can develop internal scale that catches debris. ABS does not scale the same way, but it can still have grease, wipes, poor fittings, or a sag. House age is a camera question, not a verdict.
+
+### Cable, camera, and jetting do different jobs
+
+A small cable addresses a reachable fixture branch. A larger machine through a sound cleanout can open a building drain or lateral. A camera normally follows clearing because it cannot see through a dense blockage. Once flow returns, it can show roots, standing water, an offset, break, or scale. Jetting may help with grease in a sound pipe, but it is not automatic for a fragile or unknown line. The pipe condition and access should decide.
+
+### Keep chemical cleaner out of standing water
+
+A drain product can sit in a full line and create a hazard for the person who opens a trap or cables the pipe. Do not mix products, follow them with bleach, or assume boiling water solves a deep grease blockage. A plunger is reasonable only for a clearly local fixture issue with no reaction elsewhere. Say if any product has already been poured in so the person arriving can work safely.
+
+### Roots, rain, and soil trigger inspection, not guesses
+
+San Jose says roots can enter a tiny crack and build into a clogging root ball. The City’s soil mapping includes clay, clay loam, and sandy-clay categories, while Valley Water warns of winter flooding and advises residents to examine building cracks and keep drainage clear. These are good reasons to inspect a recurring lateral with a camera, especially before excavation. They do not prove that a storm or soil type caused a particular pipe failure.
+
+### The property-line cleanout changes the access
+
+The City says a property-line cleanout gives access to the lower lateral and can reduce clearing cost. The owner remains responsible for the entire lateral, although the City may, as a courtesy, service a lower portion from a qualifying wye cleanout near the property side of the sidewalk to the main. A new cleanout is permitted work. Report whether one exists; do not assume a sidewalk location turns the line into City-owned pipe.
+
+### Finish with a real explanation
+
+A completed clearing should include controlled fixture testing and a statement of whether the blockage seemed local or downstream. Roots, heavy scale, or recurring stoppage can justify a camera recommendation; they should not become a surprise repair sale. Access, machine size, sewage conditions, and camera work set the price. The firm amount for clearing should be stated before work, with any permitted repair kept as a separate scope.
+
+## svc_sewer_line_repair_lede
+
+Sewer-line repair is the San Jose job that begins after clearing and camera evidence show the lateral itself is damaged or repeatedly invaded. The owner is responsible for the entire lateral, and the City’s limited wye-cleanout courtesy makes the location and condition of that access point unusually important when a Rose Garden, Willow Glen, or Cambrian Park line keeps backing up.
+
+## svc_sewer_line_repair_body
+
+### Confirm that the lateral, rather than a clog, is the issue
+
+A single stoppage can be grease, paper, wipes, or a local root mass. Sewer repair becomes the discussion when a camera after clearing shows repeated root entry, a collapse, separated joints, a long sag, or damage that equipment cannot pass. Multiple low fixtures backing up together support a downstream problem, but they do not identify the exact pipe. Stop water use, keep people and pets out of contaminated water, and do not flush merely to test whether it cleared.
+
+### San Jose makes the owner responsible for the lateral
+
+The City’s sanitary-sewer FAQ says the property owner maintains the entire lateral. San Jose maintains public mains and can address a main issue. The City may, as a courtesy, maintain the lower portion from a qualifying property-line wye cleanout to the main, but only when the approved cleanout is within five feet of the property side of the sidewalk. “Near the street” is not the ownership line. Report an indoor or street backup so the public main can be checked first.
+
+### The property-line cleanout is more than a cap
+
+A cleanout gives the machine and camera a route to the lower lateral without removing a toilet or entering through a distant branch. The City notes that it can reduce repair costs by improving access. It is also the reference point for the City’s limited courtesy service. Installing one requires a plumbing permit, and work that reaches the right-of-way can involve Public Works requirements. That is why a cleanout should be positioned and inspected as a planned project, not improvised in an emergency trench.
+
+### Build era tells the camera operator what to seek
+
+San Jose has early Willow Glen homes, Eichler tracts from 1952–63, postwar Cambrian Park and Berryessa blocks, plus later Almaden Valley and Evergreen work. Older properties may retain cast-iron building drain or older lateral materials; remodels can add ABS and newer connections. The lateral itself may be newer than the house. The camera should record scaling, root entry, joint offsets, grade, transitions, and the actual route before anyone proposes digging.
+
+### Roots, clay, and winter weather need evidence
+
+The City warns that roots can enter tiny pipe cracks and form a clogging root ball. Its soil data includes clay, clay loam, and sandy clay; Valley Water’s winter-storm guidance addresses flooding, cracks around buildings, and drainage maintenance. Those local conditions make a wet or settled route worth investigating carefully. They do not establish the cause of one defect. Footage, utility locates, depth, landscaping, and access must support the repair method rather than a guess about soil.
+
+### Match the repair to the footage and route
+
+A localized defect may be excavated and replaced. Widespread faults, poor grade, or repeated defects can support a full lateral replacement. Trenchless work can be appropriate where the pipe is continuous and the damage fits that method, but not for every collapse, missing segment, or severe sag. Front-yard irrigation, driveways, mature trees, slope, and public-right-of-way work can matter as much as the pipe. Show the camera footage and explain why one route is being proposed.
+
+### Permits, sale questions, and price scope
+
+San Jose requires a plumbing permit to repair or replace a building drain or building sewer and to add a property-line cleanout; the permit card identifies inspections. I found City guidance for repair permits, not a City source establishing a general point-of-sale lateral-camera requirement, so this page does not treat a resale inspection as a repair rule. Diagnosis, emergency clearing, camera work, permitted repair, restoration, and any right-of-way work should be priced as distinct scopes. The firm figure for the approved repair comes before work starts, with changes tied to specific excavation findings.
+
 ## urgency_bullet
 
 Active leaks and sewage backups dispatched first
@@ -272,3 +411,10 @@ Read this as background, not as a verdict on your house. The real fault gets ide
 ## emergency_note
 
 If water is spraying, close the main valve at the house or the valve at the meter by the sidewalk before you call, and kill the breaker to anything the water is reaching. If sewage is coming up indoors, stop flushing and stop running water anywhere in the building — every gallon you send down adds to what is surfacing.
+## services_pick_head
+
+Choose the problem that matches what the water is doing
+
+## crosslink_head
+
+Looking at a different plumbing failure?
