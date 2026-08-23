@@ -206,3 +206,31 @@ A few observations make the roof visit more efficient
 
 ## emergency_note
 If water is near electrical equipment, avoid the area and contact an electrician or emergency service. Do not climb onto wet tile, and do not place a ladder against loose roof edges.
+
+## pricing_lede
+
+Tile roof pricing in Tampa follows one question more than any other: does the water problem stop at the tile, or has it reached the underlayment beneath it. The bands below come from prices Tampa area roofing companies publish on their own sites, set against the city permit fees and the Florida code rules that decide how large a repair is allowed to get. None of it is a quote.
+
+## pricing_body
+
+### The tile is not the roof
+
+Tile sheds most of the water, but the layer keeping a Tampa house dry is the underlayment on the deck beneath it. Tile lasts decades; underlayment does not, and Gulf coast heat and ultraviolet exposure age it long before the tile above shows anything. That explains the shape of the table. Replacing a few cracked pieces is some tile and an hour of careful walking. Replacing the membrane under them means inventorying, lifting and stacking every tile in the work area, dry-in, then setting it all back, and the number moves by a factor of ten. The diagnosis drives the price and it is not visible from the driveway: a ceiling stain can come from a broken tile, an open head lap, rusted valley metal, a failed pipe boot, cracked mortar ridge, or underlayment that has run out of service life across a slope.
+
+### What the 25 percent rule says now
+
+Florida Building Code Existing Building section 706.1.1 holds that not more than 25 percent of a total roof area or roof section may be repaired, replaced or recovered in any 12-month period unless the covering on the entire existing roofing system or section is brought to current code.
+
+The carve-out sits in statute rather than local ordinance. Florida Statutes section 553.844 provides that if the existing system or section was built, repaired or replaced in compliance with the 2007 Florida Building Code or any later edition, then when 25 percent or more is repaired, replaced or recovered, only that portion must meet current code, and a local government may not amend the exception. So the age of the last permitted roof work becomes a pricing input. A roof permitted under the 2007 code or later can absorb a large repair without a whole-system upgrade; an older roof crossing the line inside twelve months can turn a repair conversation into a replacement conversation. Repairs should be measured and documented as they happen, because two visits to one section within a year still add up.
+
+### City fees and the 500 square foot line
+
+Tampa exempts roof covering work of 500 square feet or less from a building permit and requires one above that area. Once a permit is in play, the City of Tampa trade permit fee schedule lists residential roofing at $177.00 and commercial roofing at $220.00. Small against a five-figure project, noticeable on a small repair, which is why measured area matters. Tile also carries its own sequence: a dry-in inspection before tile is set, then a final. That hold is a scheduling reality, since tile cannot go back down until the new underlayment has been looked at. City guidance further directs homes permitted before March 1, 2002 to hurricane mitigation retrofit requirements, adding secondary water barrier and fastening work no national estimate carries.
+
+### Wind, rain, and the storm scope
+
+Bay area roofs live under uplift and windborne debris requirements for a reason. When a named storm passes, tile rarely fails in one spot; it lets go along the rake, hip and ridge where uplift concentrates, and displaced tile leaves underlayment exposed to weeks of ordinary afternoon rain. Posted storm ranges run wider than single-tile ranges, and a sound scope covers the surrounding field, the flashings and the roof edge rather than the piece spotted from the yard. It should separate the tarp from the permanent repair, say whether an emergency dry-in is credited against the finished work, and measure the area against the 25 percent threshold.
+
+### Reading a tile estimate
+
+A trustworthy estimate states tile type, profile and color, and whether replacement pieces are new, salvaged or reclaimed from elsewhere on the roof. It names the attachment method, mortar set, foam adhesive or mechanical fastening. It names the underlayment product and the number of layers, and gives the measured repair area in square feet, since that decides permitting and the 25 percent question. It lists flashing, valley metal, pipe boots and ridge treatment as included or excluded, and prices a breakage allowance instead of pretending nothing snaps when tile is lifted. National cost pages average shingle work into tile work: they omit the permit, the dry-in hold, retrofit requirements on older homes, and mortar-set ridge that must be rebuilt.

@@ -1,137 +1,304 @@
 {
- "domain": "appliancerepairtampaco.com",
- "phase": 1,
- "brand": "Tampa Appliance Repair Pros",
- "service": "Appliance Repair",
- "service_inline": "appliance repair",
- "city": "Tampa",
- "state": "FL",
- "state_full": "Florida",
- "counties": [
-  "Hillsborough"
- ],
- "area_codes": [
-  "813"
- ],
- "phone_display": "(813) 722-1409",
- "phone_tel": "+18137221409",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "humid_hours",
-   "claim": "NOAA engineering weather data for Tampa records 5,093 annual hours meeting its humid-area criterion of wet-bulb temperature above 67°F.",
-   "why_it_matters": "Long humid periods make marginal refrigerator door seals, condensation control, and dryer exhaust performance show up quickly during an appliance inspection.",
-   "sources": [
-    "https://www.ncei.noaa.gov/pub/data/EngineeringWeatherData_CDROM/engwx/tampa_fl.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Tampa’s humid hours expose weak seals and airflow"
+  "domain": "appliancerepairtampaco.com",
+  "phase": 1,
+  "brand": "Tampa Appliance Repair Pros",
+  "service": "Appliance Repair",
+  "service_inline": "appliance repair",
+  "city": "Tampa",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Hillsborough"
+  ],
+  "area_codes": [
+    "813"
+  ],
+  "phone_display": "(813) 722-1409",
+  "phone_tel": "+18137221409",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "water_hardness",
-   "claim": "The City of Tampa reported average finished-water hardness of 211 mg/L, or 12.3 grains per gallon, in its 2025 water quality report.",
-   "why_it_matters": "Mineral scale can affect dishwasher spray paths, filters, valve screens, and water-heating components, so a technician checks the appliance before blaming the machine alone.",
-   "sources": [
-    "https://www.tampa.gov/sites/default/files/document/2026/2025-water-quality-report.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Hard water is part of a Tampa dishwasher diagnosis"
+  "local_facts": [
+    {
+      "id": "humid_hours",
+      "claim": "NOAA engineering weather data for Tampa records 5,093 annual hours meeting its humid-area criterion of wet-bulb temperature above 67°F.",
+      "why_it_matters": "Long humid periods make marginal refrigerator door seals, condensation control, and dryer exhaust performance show up quickly during an appliance inspection.",
+      "sources": [
+        "https://www.ncei.noaa.gov/pub/data/EngineeringWeatherData_CDROM/engwx/tampa_fl.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Tampa’s humid hours expose weak seals and airflow"
+    },
+    {
+      "id": "water_hardness",
+      "claim": "The City of Tampa reported average finished-water hardness of 211 mg/L, or 12.3 grains per gallon, in its 2025 water quality report.",
+      "why_it_matters": "Mineral scale can affect dishwasher spray paths, filters, valve screens, and water-heating components, so a technician checks the appliance before blaming the machine alone.",
+      "sources": [
+        "https://www.tampa.gov/sites/default/files/document/2026/2025-water-quality-report.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Hard water is part of a Tampa dishwasher diagnosis"
+    },
+    {
+      "id": "rental_apartment_mix",
+      "claim": "Tampa’s 2022 housing data counted 77,745 renter-occupied homes, 49.5% of occupied units, and 70,201 apartment units, 40.58% of all units.",
+      "why_it_matters": "Appliance work often requires coordination with a property manager or association and access through compact utility closets, elevators, gates, or building water-shutoff procedures.",
+      "sources": [
+        "https://planhillsborough.org/wp-content/uploads/2025/07/Tampa-Housing-Section-Data-23.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Tampa appliance repairs often run through multifamily access"
+    }
+  ],
+  "neighborhoods": [
+    "Hyde Park",
+    "Seminole Heights",
+    "Ybor City",
+    "Tampa Heights",
+    "Davis Islands",
+    "Ballast Point"
+  ],
+  "symptoms": [
+    "refrigerator_not_cooling",
+    "washer_not_draining",
+    "dryer_not_heating",
+    "dishwasher_leaking"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "rental_apartment_mix",
-   "claim": "Tampa’s 2022 housing data counted 77,745 renter-occupied homes, 49.5% of occupied units, and 70,201 apartment units, 40.58% of all units.",
-   "why_it_matters": "Appliance work often requires coordination with a property manager or association and access through compact utility closets, elevators, gates, or building water-shutoff procedures.",
-   "sources": [
-    "https://planhillsborough.org/wp-content/uploads/2025/07/Tampa-Housing-Section-Data-23.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Tampa appliance repairs often run through multifamily access"
+  "hero_accent": "Appliances Fixed Today, Price First",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "refrigerator-repair",
+      "name": "Refrigerator Repair",
+      "nav": "Refrigerator repair",
+      "h1": "Refrigerator Repair",
+      "accent": "Cold Storage Restored Fast",
+      "keyword": "refrigerator repair",
+      "icon": "gear"
+    },
+    {
+      "slug": "washer-repair",
+      "name": "Washer Repair",
+      "nav": "Washer repair",
+      "h1": "Washer Repair",
+      "accent": "Wash Cycles Restored Without Guesswork",
+      "keyword": "washer repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "dryer-repair",
+      "name": "Dryer Repair",
+      "nav": "Dryer repair",
+      "h1": "Dryer Repair",
+      "accent": "Drying Restored Safely and Fast",
+      "keyword": "dryer repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "dishwasher-repair",
+      "name": "Dishwasher Repair",
+      "nav": "Dishwasher repair",
+      "h1": "Dishwasher Repair",
+      "accent": "Dishes Cleaning Properly Again",
+      "keyword": "dishwasher repair",
+      "icon": "drop"
+    }
+  ],
+  "symptom_service": [
+    "refrigerator-repair",
+    "washer-repair",
+    "dryer-repair",
+    "dishwasher-repair"
+  ],
+  "_market": {
+    "keyword": "appliance repair tampa",
+    "monthly_price": 500,
+    "score": 78,
+    "volume": 700,
+    "cpc_usd": 6.0,
+    "weakest_competitor": "813appliancerepair.com",
+    "competitor_dr": 0.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Tampa appliance repair, job by job",
+    "anchors": [
+      {
+        "label": "Tax on a repair that includes any part",
+        "value": "6 percent state",
+        "detail": "Florida taxes the entire repair charge, labor included, whenever the shop supplies a part that becomes part of the machine, even if parts are not itemized. Labor only work is exempt only when the invoice documents that no parts were used.",
+        "source_name": "Florida Department of Revenue guide GT-800010",
+        "source_url": "https://floridarevenue.com/Forms_library/current/gt800010.pdf"
+      },
+      {
+        "label": "Hillsborough County surtax on top",
+        "value": "1.5 percent",
+        "detail": "The county's discretionary sales surtax for 2026 brings the combined rate on a taxable repair invoice in Tampa to 7.5 percent.",
+        "source_name": "Florida DR-15DSS discretionary sales surtax rates for 2026",
+        "source_url": "https://floridarevenue.com/Forms_library/current/dr15dss_26.pdf"
+      },
+      {
+        "label": "State license for appliance repair",
+        "value": "None required",
+        "detail": "The county tax collector lists small appliance repair among tasks that do not require a contractor license, and issues no handyman receipt at all. Business tax receipts run to September 30 and are delinquent October 1.",
+        "source_name": "Hillsborough County Tax Collector business tax license categories",
+        "source_url": "https://www.hillstaxfl.gov/taxes/business-tax-services/license-categories/"
+      },
+      {
+        "label": "City permit when a hookup actually changes",
+        "value": "$120",
+        "detail": "Tampa charges $120 for a general residential plumbing, electrical or mechanical permit and $162 for natural or LP gas piping. Every permit carries a state building surcharge of 2.5 percent of permit value, with a $4 floor.",
+        "source_name": "City of Tampa trade permit fee schedule",
+        "source_url": "https://www.tampa.gov/sites/default/files/document/2023/trade_permit_fee_schedule_02.16.23.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Service call and diagnosis on one appliance",
+        "low": 65,
+        "high": 120,
+        "basis": "per visit",
+        "note": "Professional posts $65 and Teodor $79, both waived when the repair is approved. Smart deducts its $89 from the bill, and Hartman's $120 is waived on approval.",
+        "sources": [
+          {
+            "name": "Professional Appliance Service, Tampa Bay, posted service call fee, read 2026-08-23",
+            "url": "https://www.profapplianceservice.com/pricing"
+          },
+          {
+            "name": "Teodor Appliance Repair, Tampa Bay, posted service call fee, read 2026-08-23",
+            "url": "https://appliancerepairteodor.com/how-much-does-appliance-repair-cost-in-tampa-bay/"
+          },
+          {
+            "name": "Smart Appliance Services, Tampa, posted diagnostic prices, read 2026-08-23",
+            "url": "https://smartapplianceservices.com/prices/"
+          },
+          {
+            "name": "Hartman's Appliance Repair, Tampa Bay, posted diagnostic fee, read 2026-08-23",
+            "url": "https://tampaappliancerepair.services/"
+          }
+        ]
+      },
+      {
+        "job": "Diagnosis on a luxury or sealed system brand",
+        "low": 119,
+        "high": 185,
+        "basis": "per visit",
+        "note": "Smart posts $119 for premium brands. Hartman's posts $185 for Sub-Zero, Wolf, Viking and Bosch, for LG and Samsung refrigerators, and for stacked laundry.",
+        "sources": [
+          {
+            "name": "Smart Appliance Services, Tampa, posted premium brand diagnostic, read 2026-08-23",
+            "url": "https://smartapplianceservices.com/prices/"
+          },
+          {
+            "name": "Hartman's Appliance Repair, Tampa Bay, posted brand diagnostic prices, read 2026-08-23",
+            "url": "https://tampaappliancerepair.services/"
+          }
+        ]
+      },
+      {
+        "job": "Refrigerator that stopped cooling",
+        "low": 190,
+        "high": 500,
+        "basis": "flat",
+        "note": "Teodor posts $200 to $450, DiChristopher $200 to $500, Professional $190 to $470 across most repairs. All three describe parts and labor together.",
+        "sources": [
+          {
+            "name": "Teodor Appliance Repair, Tampa Bay, posted refrigerator repair costs, read 2026-08-23",
+            "url": "https://appliancerepairteodor.com/how-much-does-appliance-repair-cost-in-tampa-bay/"
+          },
+          {
+            "name": "DiChristopher Appliance Repair, Tampa, posted repair cost ranges, read 2026-08-23",
+            "url": "https://dichristopherappliance.com/is-appliance-repair-worth-it-in-2026-a-tampa-cost-breakdown/"
+          },
+          {
+            "name": "Professional Appliance Service, Tampa Bay, posted repair range, read 2026-08-23",
+            "url": "https://www.profapplianceservice.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Compressor or sealed system work on a refrigerator",
+        "low": 400,
+        "high": 800,
+        "basis": "flat",
+        "note": "Teodor posts $400 to $800 and up for a compressor replacement. Professional posts $490 to $800 for compressor and sealed system repairs by brand and model.",
+        "sources": [
+          {
+            "name": "Teodor Appliance Repair, Tampa Bay, posted compressor price, read 2026-08-23",
+            "url": "https://appliancerepairteodor.com/how-much-does-appliance-repair-cost-in-tampa-bay/"
+          },
+          {
+            "name": "Professional Appliance Service, Tampa Bay, posted sealed system range, read 2026-08-23",
+            "url": "https://www.profapplianceservice.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Washer that will not drain, spin or stay quiet",
+        "low": 120,
+        "high": 600,
+        "basis": "flat",
+        "note": "Teodor posts $120 to $350 for common faults and $300 to $600 and up for a motor or transmission. DiChristopher posts $150 to $400 for motor and seal work.",
+        "sources": [
+          {
+            "name": "Teodor Appliance Repair, Tampa Bay, posted washer repair costs, read 2026-08-23",
+            "url": "https://appliancerepairteodor.com/how-much-does-appliance-repair-cost-in-tampa-bay/"
+          },
+          {
+            "name": "DiChristopher Appliance Repair, Tampa, posted washer repair range, read 2026-08-23",
+            "url": "https://dichristopherappliance.com/is-appliance-repair-worth-it-in-2026-a-tampa-cost-breakdown/"
+          }
+        ]
+      },
+      {
+        "job": "Dryer that tumbles but will not heat",
+        "low": 100,
+        "high": 350,
+        "basis": "flat",
+        "note": "Teodor posts $150 to $300 for no heat, $180 to $350 for a heating element and $100 to $200 for a thermal fuse. DiChristopher posts $120 to $350.",
+        "sources": [
+          {
+            "name": "Teodor Appliance Repair, Tampa Bay, posted dryer repair costs, read 2026-08-23",
+            "url": "https://appliancerepairteodor.com/how-much-does-appliance-repair-cost-in-tampa-bay/"
+          },
+          {
+            "name": "DiChristopher Appliance Repair, Tampa, posted dryer repair range, read 2026-08-23",
+            "url": "https://dichristopherappliance.com/is-appliance-repair-worth-it-in-2026-a-tampa-cost-breakdown/"
+          }
+        ]
+      },
+      {
+        "job": "Oven, range or cooktop brought back into service",
+        "low": 100,
+        "high": 600,
+        "basis": "flat",
+        "note": "Teodor posts $100 to $250 for a burner igniter and $250 to $600 and up for a control board. DiChristopher posts $150 to $400 for element, igniter and control work.",
+        "sources": [
+          {
+            "name": "Teodor Appliance Repair, Tampa Bay, posted oven and range costs, read 2026-08-23",
+            "url": "https://appliancerepairteodor.com/how-much-does-appliance-repair-cost-in-tampa-bay/"
+          },
+          {
+            "name": "DiChristopher Appliance Repair, Tampa, posted range repair range, read 2026-08-23",
+            "url": "https://dichristopherappliance.com/is-appliance-repair-worth-it-in-2026-a-tampa-cost-breakdown/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Hyde Park",
-  "Seminole Heights",
-  "Ybor City",
-  "Tampa Heights",
-  "Davis Islands",
-  "Ballast Point"
- ],
- "symptoms": [
-  "refrigerator_not_cooling",
-  "washer_not_draining",
-  "dryer_not_heating",
-  "dishwasher_leaking"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Appliances Fixed Today, Price First",
- "trust_third": "Repair price quoted before work begins",
- "services": [
-  {
-   "slug": "refrigerator-repair",
-   "name": "Refrigerator Repair",
-   "nav": "Refrigerator repair",
-   "h1": "Refrigerator Repair",
-   "accent": "Cold Storage Restored Fast",
-   "keyword": "refrigerator repair",
-   "icon": "gear"
-  },
-  {
-   "slug": "washer-repair",
-   "name": "Washer Repair",
-   "nav": "Washer repair",
-   "h1": "Washer Repair",
-   "accent": "Wash Cycles Restored Without Guesswork",
-   "keyword": "washer repair",
-   "icon": "wrench"
-  },
-  {
-   "slug": "dryer-repair",
-   "name": "Dryer Repair",
-   "nav": "Dryer repair",
-   "h1": "Dryer Repair",
-   "accent": "Drying Restored Safely and Fast",
-   "keyword": "dryer repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "dishwasher-repair",
-   "name": "Dishwasher Repair",
-   "nav": "Dishwasher repair",
-   "h1": "Dishwasher Repair",
-   "accent": "Dishes Cleaning Properly Again",
-   "keyword": "dishwasher repair",
-   "icon": "drop"
-  }
- ],
- "symptom_service": [
-  "refrigerator-repair",
-  "washer-repair",
-  "dryer-repair",
-  "dishwasher-repair"
- ],
- "_market": {
-  "keyword": "appliance repair tampa",
-  "monthly_price": 500,
-  "score": 78,
-  "volume": 700,
-  "cpc_usd": 6.0,
-  "weakest_competitor": "813appliancerepair.com",
-  "competitor_dr": 0.0
- }
 }

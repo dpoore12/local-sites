@@ -274,3 +274,37 @@ Keep every letter and email with its date, claim number, and attachments. Before
 ## emergency_note
 
 If a bite needs urgent medical attention, call 911 or seek emergency care. For a dog-bite report in Sacramento County, use the appropriate local animal-control channel and keep the report number.
+
+## pricing_lede
+
+Fee arrangements in a Sacramento animal attack case answer to the State Bar rule on unconscionable fees, to two sections of the Business and Professions Code that dictate what the paperwork must say, and, where the injured person is a child, to a Rule of Court that hands the decision to a judge, with the county's own filing tiers layered on top.
+
+## pricing_body
+
+### No cap, but a hard limit on unconscionable fees
+
+California Rule of Professional Conduct 1.5(a) prohibits an agreement for, a charge of, or the collection of an unconscionable or illegal fee. Nothing in the rule names a number. What the rule does instead is list thirteen non-exclusive factors, and factor (b)(3) is the one that carries the most weight in a routine claim: the amount of the fee in proportion to the value of the services performed. Factor (b)(4) looks at the relative sophistication of the two parties to the agreement, factor (b)(2) at whether material facts about the fee were disclosed, and factor (b)(13) at whether the client gave informed consent. Read together they mean a percentage is defensible when the work behind it is real and the client understood the deal.
+
+### Section 6147 and the sentence about negotiation
+
+Business and Professions Code section 6147 requires a contingency agreement to be reduced to writing, with a fully executed duplicate handed to the client at the time it is signed. Subdivision (a)(1) requires the agreed rate to be stated. Subdivision (a)(2) requires a statement of how disbursements and costs incurred in connection with the claim will affect both the fee and the client's recovery. Subdivision (a)(4) requires the contract to state, in terms, that the fee is not set by law but is negotiable. Where a defect exists, subdivision (b) makes the whole agreement voidable at the plaintiff's choice, leaving counsel entitled only to a reasonable fee. That remedy sits with the client, not with the lawyer.
+
+### A child's recovery is decided by the judge
+
+Most people bitten badly enough to bring a claim in this county are children, and that changes the fee analysis entirely. California Rule of Court 7.955(a)(1) provides that in matters under Code of Civil Procedure section 372 or Probate Code sections 3600 to 3601, unless the court approved the fee agreement in advance, the court must use a reasonable fee standard when approving fees payable from money paid for the benefit of a minor or a person with a disability. Subdivision (b) supplies fourteen factors, including the fact that a minor is involved, the fee against the value of the services, the amount involved and the result obtained, informed consent, and, where the fee is contingent, the risk of loss the attorney bore, the costs advanced, and the delay before payment. A declaration from counsel accompanies the petition.
+
+### The thousand dollar writing threshold
+
+Section 6148 covers work that is not on a contingency, which matters when a matter starts as advice or a demand letter billed hourly. Where it is reasonably foreseeable that total expense to the client, fees included, will pass $1,000, the contract must be in writing and a signed duplicate given to the client. It must set out the basis of compensation, meaning hourly rates, statutory fees, flat fees and other standard rates and charges; the general nature of the services; and the respective responsibilities of attorney and client. Every bill must state its basis, one must be produced within ten days of a request, and a client may repeat that request at intervals of not less than thirty days. Non-compliance again leaves the agreement voidable at the client's option.
+
+### Filing tiers on H Street
+
+The fee schedule posted by the Superior Court of California, County of Sacramento prices a first paper by the amount in controversy. A complaint seeking up to $10,000 costs $225 under Government Code section 70613(b). One seeking more than $10,000 and up to $35,000 costs $370 under section 70613(a). An unlimited civil complaint above $35,000 costs $435 under section 70611, and each party other than the plaintiff pays $435 to appear. Reclassifying a limited case as unlimited later on costs another $140 under section 70619, which is a real consideration when a wound turns out to need reconstructive surgery after the case was filed small.
+
+### Motions, continuances and the rest of the docket
+
+The same schedule prices what happens after filing. A motion or other paper requiring a hearing is $60 under Government Code section 70617(a). A motion for summary judgment or summary adjudication is $500 under section 70617(d), which is the largest single motion charge on the list and one reason those motions are not filed lightly. A continuance of a hearing or case management conference is $20, a stipulation and order $20, a change of venue processing charge $50, and a complex designation $1,000 with the statutory $18,000 ceiling per case. All of these are costs advanced in a contingency matter, and the agreement should say who carries them and when they are recouped.
+
+### County license amounts and what they prove
+
+Sacramento County Code chapter 8.24 requires every dog four months or older to be licensed and currently vaccinated against rabies. Animal Care charges $50 a year for an intact animal, $100 for two years and $150 for three, against $15, $30 and $40 for an altered animal, with a reduced $10 annual rate for an owner sixty-two or older keeping an altered pet. A late payment adds $25.00, a duplicate tag costs $5, and a qualifying competition animal or working ranch dog can be licensed unaltered for $45 a year. Galt and Isleton run their own lower amounts. Licensing and vaccination records are pulled routinely after an attack because they show what the owner had done, and had not done, before it happened.

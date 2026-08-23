@@ -139,5 +139,169 @@
     "cpc_usd": 45.0,
     "weakest_competitor": "all4seasonsgarages.com",
     "competitor_dr": 19.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What garage door jobs cost around Marietta",
+    "anchors": [
+      {
+        "label": "Residential building permit, valuation based",
+        "value": "$5 per $1,000",
+        "detail": "Marietta calculates a residential permit from the total construction cost, labor and materials together, with a $50 minimum and no separate plan review charge. A replacement door assembly is valued that way.",
+        "source_name": "City of Marietta building permits fee information",
+        "source_url": "https://www.mariettaga.gov/443/Building-Permits"
+      },
+      {
+        "label": "Third failed reinspection",
+        "value": "$100",
+        "detail": "The first inspection is free, the first failure is $50, the second $75, and the third and each one after that $100. The escalation is the city's published price for work that is not ready.",
+        "source_name": "Marietta reinspection fee schedule",
+        "source_url": "https://www.mariettaga.gov/443/Building-Permits"
+      },
+      {
+        "label": "Median wage, general maintenance and repair workers",
+        "value": "$23.86",
+        "detail": "May 2025 median hourly pay for the 25,190 general maintenance and repair workers across the Atlanta-Sandy Springs-Roswell metro. A billed hour includes the truck, the parts inventory and the drive up from inside the perimeter.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_12060.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Torsion springs renewed in pairs",
+        "low": 277,
+        "high": 1099,
+        "basis": "flat",
+        "note": "Humid air corrodes wire and shortens spring life; high-cycle springs cost more.",
+        "sources": [
+          {
+            "name": "Habpro Garage Doors, metro Atlanta, posted spring replacement prices, read 2026-08-23",
+            "url": "https://www.habprogaragedoors.com/atlanta-ga/spring-replacement/"
+          },
+          {
+            "name": "Acworth Overhead Doors, Cobb County, posted service cost table, read 2026-08-23",
+            "url": "https://acworthoverheaddoors.com/acworth-ga-overhead-doors-service-costs"
+          },
+          {
+            "name": "Georgia Garage, Georgia, posted services and prices page, read 2026-08-23",
+            "url": "https://georgiagaragellc.com/services/"
+          }
+        ]
+      },
+      {
+        "job": "Door sticking or dragging, balance and hardware corrected",
+        "low": 49,
+        "high": 600,
+        "basis": "per visit",
+        "note": "Swollen wood panels, a rusted bearing and grit in rollers show up as drag.",
+        "sources": [
+          {
+            "name": "Good Golly Garage Doors, Marietta, posted tune-up price, read 2026-08-23",
+            "url": "https://goodgollygarage.com/garage-door-maintenance/garage-door-tune-up-in-atlanta-ga"
+          },
+          {
+            "name": "Georgia Garage, Georgia, posted services and prices page, read 2026-08-23",
+            "url": "https://georgiagaragellc.com/services/"
+          },
+          {
+            "name": "Liberty Garage Door Solutions, metro Atlanta, posted price table, read 2026-08-23",
+            "url": "https://libertygaragedoorsolutionsatlanta.com/garage-door-repair-cost/"
+          }
+        ]
+      },
+      {
+        "job": "Cables and bottom brackets replaced after a door drops",
+        "low": 100,
+        "high": 300,
+        "basis": "flat",
+        "note": "Corroded fasteners must be cut out rather than turned, which is labor time.",
+        "sources": [
+          {
+            "name": "Garage Door Atlanta, Atlanta area, posted cable replacement range, read 2026-08-23",
+            "url": "https://atlantagaragedoorfix.com/garage-door-cable-replacement-atlanta-ga/"
+          },
+          {
+            "name": "Liberty Garage Door Solutions, metro Atlanta, posted price table, read 2026-08-23",
+            "url": "https://libertygaragedoorsolutionsatlanta.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Garage Doors Atlanta GA, Atlanta area, posted repair cost list, read 2026-08-23",
+            "url": "https://garagedoorsatlantaga.com/blog/how-much-does-it-cost-to-repair-a-garage-door-in-atlanta.html"
+          }
+        ]
+      },
+      {
+        "job": "Opener gear or carriage replaced instead of the whole head",
+        "low": 120,
+        "high": 320,
+        "basis": "flat",
+        "note": "A gear kit or carriage swap keeps a sound opener head running for far less.",
+        "sources": [
+          {
+            "name": "Don't Panic Garage Door Repair, Cobb County, posted flat repair totals, read 2026-08-23",
+            "url": "https://dontpanicdoor.com/"
+          },
+          {
+            "name": "Liberty Garage Door Solutions, metro Atlanta, posted price table, read 2026-08-23",
+            "url": "https://libertygaragedoorsolutionsatlanta.com/garage-door-repair-cost/"
+          }
+        ]
+      },
+      {
+        "job": "Opener replaced, safety eyes and wall control included",
+        "low": 250,
+        "high": 1500,
+        "basis": "per unit",
+        "note": "Detached garages behind older homes often need wiring before hanging an opener.",
+        "sources": [
+          {
+            "name": "Liberty Garage Door Solutions, metro Atlanta, posted price table, read 2026-08-23",
+            "url": "https://libertygaragedoorsolutionsatlanta.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Acworth Overhead Doors, Cobb County, posted service cost table, read 2026-08-23",
+            "url": "https://acworthoverheaddoors.com/acworth-ga-overhead-doors-service-costs"
+          }
+        ]
+      },
+      {
+        "job": "Panels and track repaired after a vehicle or storm strike",
+        "low": 120,
+        "high": 1200,
+        "basis": "flat",
+        "note": "A crumpled skin can wait; a shifted track and cracked stile cannot, and matching panels adds time.",
+        "sources": [
+          {
+            "name": "Acworth Overhead Doors, Marietta, posted repair cost page, read 2026-08-23",
+            "url": "https://acworthoverheaddoors.com/garage-door-repair-marietta-ga"
+          },
+          {
+            "name": "Liberty Garage Door Solutions, metro Atlanta, posted price table, read 2026-08-23",
+            "url": "https://libertygaragedoorsolutionsatlanta.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Garage Doors Atlanta GA, Atlanta area, posted repair cost list, read 2026-08-23",
+            "url": "https://garagedoorsatlantaga.com/blog/how-much-does-it-cost-to-repair-a-garage-door-in-atlanta.html"
+          }
+        ]
+      },
+      {
+        "job": "Carriage style door replaced on a visible elevation",
+        "low": 700,
+        "high": 3000,
+        "basis": "per unit",
+        "note": "Historic review, real wood construction and custom hardware set the ceiling.",
+        "sources": [
+          {
+            "name": "Acworth Overhead Doors, Marietta, posted repair cost page, read 2026-08-23",
+            "url": "https://acworthoverheaddoors.com/garage-door-repair-marietta-ga"
+          },
+          {
+            "name": "Liberty Garage Door Solutions, metro Atlanta, posted price table, read 2026-08-23",
+            "url": "https://libertygaragedoorsolutionsatlanta.com/garage-door-repair-cost/"
+          }
+        ]
+      }
+    ]
   }
 }

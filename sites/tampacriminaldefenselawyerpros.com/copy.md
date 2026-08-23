@@ -6,7 +6,7 @@
 - Write for Tampa and Hillsborough County; do not reuse prose from another site.
 - This is a general-information resource, not a law practice, directory, matching
   program, or service that receives, assesses, selects, or routes inquiries.
-- Never name a business, lawyer, licence number, review count, price, or time in
+- Never name a business, lawyer, license number, review count, price, or time in
   business. No provider is identified on this site.
 - Home page lands 1,300-2,300 visible words. Each service page lands 900-1,500
   visible words. Symptom teasers must be 40-80 words.
@@ -433,3 +433,39 @@ Save mail even if it arrives at a former address in Palma Ceia, Hyde Park, or el
 ### A focused checklist after release
 
 Keep the arrest affidavit, booking record, bond form, release conditions, notice to appear or arraignment notice, and any protective-order paperwork. Make a dated list of places the person must avoid and deadlines that appear in writing. This page provides general Florida procedure, not individualized legal advice.
+
+## pricing_lede
+
+Criminal defense in Florida is billed as a flat fee or by the hour, never as a share of the result, and this page explains why, what the written agreement has to spell out, and which amounts Florida statutes and Hillsborough County records fix regardless of who is hired.
+
+## pricing_body
+
+### A defense fee cannot be tied to the outcome
+
+Start with the rule that shapes every fee conversation in a Tampa criminal courtroom. Rule 4-1.5(f)(3)(B) of the Rules Regulating The Florida Bar says a lawyer must not arrange for, charge, or collect a contingency fee for representing a defendant in a criminal matter. Florida's rule tracks ABA Model Rule 1.5(d), which uses nearly identical wording, so the prohibition is not a local quirk.
+
+That means the two lawful structures in a defense matter are a fixed sum for a defined scope of work and an hourly rate against a deposit. A percentage of a dismissal, an acquittal, or a reduced charge is not a lawful arrangement in Florida, and a promise built around one is a reason to walk away rather than a bargain.
+
+### What the written agreement has to put in plain words
+
+Rule 4-1.5(e)(1) requires that the basis or rate of the fee and costs be communicated before or within a reasonable time after the work begins, preferably in writing, when the lawyer has not represented the person before. If any part of the fee is nonrefundable, the rule requires that part to be confirmed in writing with an explanation of what the parties intended by it. Rule 4-1.5(b) lists what a reasonable fee is measured against, including difficulty, time demands, and the rate customarily charged locally for comparable work.
+
+Read the paper for scope, not just the number. A fixed sum that ends at arraignment is a different agreement from one that carries through motion hearings, a plea negotiation, or a jury trial in the Hillsborough courthouse on Twiggs Street. Ask where the line sits, what happens if the State files a charge different from the arrest paperwork, and whether a violation of probation falls inside the scope.
+
+### Costs sit on a separate line from the fee
+
+Costs are money paid to other people. In a Hillsborough felony matter that can include an investigator to interview witnesses, a court reporter for depositions, an expert on toxicology or digital forensics, certified records, subpoena service, transcripts, and copying on a large discovery production. Rule 4-1.5(b)(2) treats costs as subject to their own reasonableness test and asks what disclosure was made about them and what third parties actually charged. A written agreement should say who advances each cost and whether an estimate is required before an expert is retained.
+
+### What moves the size of a defense fee
+
+Four things do most of the work. Charge level, because a second-degree felony filed in circuit court carries exposure and paperwork a second-degree misdemeanor in county court does not. Whether the matter resolves or is tried, since a trial adds jury selection, witness preparation, and full days in the courtroom. Motion practice, because a written motion to suppress a search or a stand-alone dismissal motion involves records, a hearing, and often testimony. And discovery volume, because body-camera footage from several officers, cell-site records, and laboratory reports take hours to review before anyone can advise on options.
+
+### Who qualifies for a public defender in Hillsborough County
+
+Fla. Stat. 27.52 puts the indigency determination with the Clerk, not the judge. An applicant is indigent when household income is at or below 200 percent of the current federal poverty guideline for that household size, which for a one-person household in 2026 works out to roughly $31,920 against the $15,960 guideline published by the U.S. Department of Health and Human Services. The statute also presumes an applicant is not indigent where net equity reaches $2,500 outside a homestead and one vehicle under $5,000, or where bail of $5,000 or more was posted.
+
+Appointed counsel is not free of charge. The application itself costs $50 under Fla. Stat. 27.52(1)(b), and the Clerk applies the first $50 of anything paid toward it. Nobody found indigent may be refused counsel for not paying. On a conviction after appointed representation, Fla. Stat. 938.29(1)(a) puts a statutory judgment for attorney fees and costs at no less than $100 in a felony matter and no less than $50 in a misdemeanor or criminal traffic matter, imposed whether or not there is present ability to pay.
+
+### Fines and court costs land on top of any fee
+
+Fla. Stat. 775.083 caps a fine at $15,000 for a life felony, $10,000 for a first- or second-degree felony, $5,000 for a third-degree felony, $1,000 for a first-degree misdemeanor, and $500 for a second-degree misdemeanor or a noncriminal violation, with a higher figure available when it doubles the gain or the loss. Fla. Stat. 938.05 then adds court costs of $225 on a felony and $60 on a misdemeanor or criminal traffic offense, collected by the Hillsborough Clerk. Because withheld adjudication still counts as a conviction there, avoiding a formal adjudication does not by itself avoid the money.

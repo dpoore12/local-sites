@@ -1,141 +1,325 @@
 {
- "domain": "scottsdalegaragedoorrepairpros.com",
- "phase": 1,
- "brand": "Scottsdale Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Scottsdale",
- "state": "AZ",
- "state_full": "Arizona",
- "counties": [
-  "Maricopa"
- ],
- "area_codes": [
-  "480"
- ],
- "phone_display": "(480) 919-1801",
- "phone_tel": "+14809191801",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Phoenix",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "extreme_heat",
-   "claim": "During July 2023, Phoenix recorded 30 consecutive days with highs of 110\u00b0F or more; Maricopa County had 42 Excessive Heat Warning days in 2023.",
-   "why_it_matters": "An uncooled Scottsdale garage exposes rollers, weather seals, lubricant, opener electronics, and battery backups to sustained high heat. An inspection should distinguish a heat-stressed opener component from a door that has become mechanically hard to move.",
-   "sources": [
-    "https://www.weather.gov/psr/2023MonsoonSeasonReview"
-   ],
-   "verified": "2026-08-22",
-   "title": "Heat is a real load on garage-door hardware"
+  "domain": "scottsdalegaragedoorrepairpros.com",
+  "phase": 1,
+  "brand": "Scottsdale Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "state_full": "Arizona",
+  "counties": [
+    "Maricopa"
+  ],
+  "area_codes": [
+    "480"
+  ],
+  "phone_display": "(480) 919-1801",
+  "phone_tel": "+14809191801",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Phoenix",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "monsoon_wind_event",
-   "claim": "On August 22, 2024, a thunderstorm cell moved toward Scottsdale; the National Weather Service documented uprooted trees, downed power lines, and local storm-spotter reports of more than half an inch of rain in 30 minutes over Scottsdale.",
-   "why_it_matters": "After a monsoon wind event, the door should be checked for shifted track, bowed sections, damaged weather seal, debris at the threshold, and opener or sensor problems before it is operated again.",
-   "sources": [
-    "https://www.weather.gov/psr/Aug222024"
-   ],
-   "verified": "2026-08-22",
-   "title": "Monsoon wind can leave a door out of alignment"
+  "local_facts": [
+    {
+      "id": "extreme_heat",
+      "claim": "During July 2023, Phoenix recorded 30 consecutive days with highs of 110°F or more; Maricopa County had 42 Excessive Heat Warning days in 2023.",
+      "why_it_matters": "An uncooled Scottsdale garage exposes rollers, weather seals, lubricant, opener electronics, and battery backups to sustained high heat. An inspection should distinguish a heat-stressed opener component from a door that has become mechanically hard to move.",
+      "sources": [
+        "https://www.weather.gov/psr/2023MonsoonSeasonReview"
+      ],
+      "verified": "2026-08-22",
+      "title": "Heat is a real load on garage-door hardware"
+    },
+    {
+      "id": "monsoon_wind_event",
+      "claim": "On August 22, 2024, a thunderstorm cell moved toward Scottsdale; the National Weather Service documented uprooted trees, downed power lines, and local storm-spotter reports of more than half an inch of rain in 30 minutes over Scottsdale.",
+      "why_it_matters": "After a monsoon wind event, the door should be checked for shifted track, bowed sections, damaged weather seal, debris at the threshold, and opener or sensor problems before it is operated again.",
+      "sources": [
+        "https://www.weather.gov/psr/Aug222024"
+      ],
+      "verified": "2026-08-22",
+      "title": "Monsoon wind can leave a door out of alignment"
+    },
+    {
+      "id": "historic_exterior_review",
+      "claim": "Scottsdale’s Historic Property Ordinance requires the Historic Preservation Commission to review and approve exterior alterations and demolition requests for buildings on the Scottsdale Historic Register.",
+      "why_it_matters": "This is not a citywide garage-door rule, but a visible door replacement or exterior design change at a registered property should be checked before custom materials, color, windows, or hardware are ordered.",
+      "sources": [
+        "https://www.scottsdaleaz.gov/historic-preservation-program"
+      ],
+      "verified": "2026-08-22",
+      "title": "Some exterior changes require property-specific review"
+    }
+  ],
+  "neighborhoods": [
+    "McCormick Ranch",
+    "Scottsdale Ranch",
+    "Gainey Ranch",
+    "McDowell Mountain Ranch",
+    "Desert Mountain",
+    "DC Ranch"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "historic_exterior_review",
-   "claim": "Scottsdale\u2019s Historic Property Ordinance requires the Historic Preservation Commission to review and approve exterior alterations and demolition requests for buildings on the Scottsdale Historic Register.",
-   "why_it_matters": "This is not a citywide garage-door rule, but a visible door replacement or exterior design change at a registered property should be checked before custom materials, color, windows, or hardware are ordered.",
-   "sources": [
-    "https://www.scottsdaleaz.gov/historic-preservation-program"
-   ],
-   "verified": "2026-08-22",
-   "title": "Some exterior changes require property-specific review"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Scottsdale",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Scottsdale",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Scottsdale",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Scottsdale",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair scottsdale",
+    "monthly_price": 800,
+    "score": 76,
+    "volume": 350,
+    "cpc_usd": 35.0,
+    "weakest_competitor": "precisiongarageworks.com",
+    "competitor_dr": 17.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Scottsdale cost bands for the jobs that come up most",
+    "anchors": [
+      {
+        "label": "Minimum permit, one discipline",
+        "value": "$121",
+        "detail": "The floor on any single-trade permit under the fee schedule adopted by Resolution 13391, effective July 1, 2025. A reinspection at a property carries the same $121.",
+        "source_name": "City of Scottsdale Miscellaneous Permit Fee Schedule",
+        "source_url": "https://www.scottsdaleaz.gov/docs/default-source/scottsdaleaz/planning---develpment/fees-fy25-26/permit-fee-schedule---miscellaneous.pdf?sfvrsn=8c6543cc_4"
+      },
+      {
+        "label": "Contractor licensing threshold, aggregate contract price",
+        "value": "$1,000",
+        "detail": "State law exempts unlicensed work only when the whole job, labor and materials together, stays under a thousand dollars and no building permit is required. Splitting a job into smaller contracts to stay beneath it is expressly prohibited.",
+        "source_name": "Arizona Revised Statutes 32-1121",
+        "source_url": "https://www.azleg.gov/ars/32/01121.htm"
+      },
+      {
+        "label": "Median hourly wage, carpenters, Phoenix metro",
+        "value": "$29.00",
+        "detail": "Midpoint hourly pay across the 12,710 carpenters counted in the Phoenix-Mesa-Chandler metro in May 2025. A large trade pool keeps routine labor competitive here, which shows up at the low end of every row.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_38060.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "One snapped torsion spring replaced over a double door",
+        "low": 150,
+        "high": 299,
+        "basis": "flat",
+        "note": "Wire size and drum wear decide it; heavier doors cost more.",
+        "sources": [
+          {
+            "name": "Great Doors and Gates, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://greatdoorsandgatesaz.com/2026/03/21/garage-door-spring-replacement-cost-in-phoenix-what-youll-pay-in-2026-and-why-prices-vary-so-much/"
+          },
+          {
+            "name": "Pride Garage Doors, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://www.pridegaragedoors.com/services/phoenix-garage-door-roller-replacement/"
+          },
+          {
+            "name": "Same Day Garage Door, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://samedaygaragedoorservices.com/resources/garage-door-spring-repair-cost-in-phoenix-2026-guide"
+          },
+          {
+            "name": "Above All Garage Door, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.above-allgaragedoor.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Torsion springs replaced as a matched pair",
+        "low": 250,
+        "high": 580,
+        "basis": "flat",
+        "note": "Both springs are fitted together; high-cycle wire carries a posted surcharge.",
+        "sources": [
+          {
+            "name": "Great Doors and Gates, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://greatdoorsandgatesaz.com/2026/03/21/garage-door-spring-replacement-cost-in-phoenix-what-youll-pay-in-2026-and-why-prices-vary-so-much/"
+          },
+          {
+            "name": "Same Day Garage Door, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://samedaygaragedoorservices.com/resources/garage-door-spring-repair-cost-in-phoenix-2026-guide"
+          },
+          {
+            "name": "Triple B Garage Doors, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://triplebgaragedoors.com/pricing/"
+          },
+          {
+            "name": "Above All Garage Door, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.above-allgaragedoor.com/guides/garage-door-repair-cost-arizona"
+          }
+        ]
+      },
+      {
+        "job": "Roller set and hinges replaced after the bearings dried out",
+        "low": 249,
+        "high": 499,
+        "basis": "per unit",
+        "note": "Desert heat dries stamped rollers; sealed nylon lasts far longer here.",
+        "sources": [
+          {
+            "name": "Above All Garage Door, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.above-allgaragedoor.com/pricing"
+          },
+          {
+            "name": "Triple B Garage Doors, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://triplebgaragedoors.com/pricing/"
+          }
+        ]
+      },
+      {
+        "job": "Opener gear kit, board or capacitor replaced",
+        "low": 120,
+        "high": 289,
+        "basis": "flat",
+        "note": "Garage heat cooks boards; a discontinued board means a new head.",
+        "sources": [
+          {
+            "name": "Pride Garage Doors, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://www.pridegaragedoors.com/services/phoenix-garage-door-roller-replacement/"
+          },
+          {
+            "name": "Level Up Garage Door, Mesa, posted price list, read 2026-08-23",
+            "url": "https://www.levelupgaragedoor.com/garage-door-opener-repair-az"
+          },
+          {
+            "name": "Above All Garage Door, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.above-allgaragedoor.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Opener replaced with a belt-drive head, installed",
+        "low": 218,
+        "high": 950,
+        "basis": "per unit",
+        "note": "Belt heads are the usual pick; wall-mount units sit at the top.",
+        "sources": [
+          {
+            "name": "High Grade Doors, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://highgradegaragedoors.com/how-much-does-a-new-garage-door-cost-in-scottsdale-az/"
+          },
+          {
+            "name": "Rite-A-Way, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.callriteaway.com/service-pages/garage-door-opener-installation"
+          },
+          {
+            "name": "Level Up Garage Door, Mesa, posted price list, read 2026-08-23",
+            "url": "https://www.levelupgaragedoor.com/garage-door-opener-repair-az"
+          },
+          {
+            "name": "Above All Garage Door, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.above-allgaragedoor.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Two sections replaced on a door bowed by monsoon wind",
+        "low": 400,
+        "high": 5000,
+        "basis": "flat",
+        "note": "Sections are priced singly, so two double it; color matching dominates.",
+        "sources": [
+          {
+            "name": "Pride Garage Doors, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://www.pridegaragedoors.com/services/phoenix-garage-door-roller-replacement/"
+          },
+          {
+            "name": "Garage Door 101, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://www.garagedoor101.net/services/garage-door-panel-replacement"
+          },
+          {
+            "name": "Level Up Garage Door, Mesa, posted price list, read 2026-08-23",
+            "url": "https://www.levelupgaragedoor.com/garage-door-panel-replacement-az"
+          }
+        ]
+      },
+      {
+        "job": "Custom wood-look or full-view door installed on a larger home",
+        "low": 2000,
+        "high": 10000,
+        "basis": "per unit",
+        "note": "Insulated glass, cladding and heavy hardware drive it, plus design review.",
+        "sources": [
+          {
+            "name": "Elite Garage Doors, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://elitegaragedoorsandgates.com/garage-door-installation-cost-in-scottsdale/"
+          },
+          {
+            "name": "Rite-A-Way, Phoenix, posted price list, read 2026-08-23",
+            "url": "https://www.callriteaway.com/blog/the-cost-of-garage-door-replacement-in-phoenix-a-2025-guide"
+          },
+          {
+            "name": "High Grade Doors, Scottsdale, posted price list, read 2026-08-23",
+            "url": "https://highgradegaragedoors.com/how-much-does-a-new-garage-door-cost-in-scottsdale-az/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "McCormick Ranch",
-  "Scottsdale Ranch",
-  "Gainey Ranch",
-  "McDowell Mountain Ranch",
-  "Desert Mountain",
-  "DC Ranch"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Scottsdale",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Scottsdale",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Scottsdale",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Scottsdale",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair scottsdale",
-  "monthly_price": 800,
-  "score": 76,
-  "volume": 350,
-  "cpc_usd": 35.0,
-  "weakest_competitor": "precisiongarageworks.com",
-  "competitor_dr": 17.0
- }
 }

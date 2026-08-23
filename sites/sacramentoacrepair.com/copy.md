@@ -8,13 +8,13 @@
   The build fails if any 15 consecutive words match another site.
 - Never promise a phone consultation. Sell the work: what gets fixed,
   what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year
+- Never name a business, a license, a review count, a price or a year
   in business. No tenant is signed, so none of it is true yet.
 - Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
 - symptom_N blocks are 40-80 word teasers only. The depth goes on the
   service page they link to.
 - site.json needs 3 local_facts with a real source URL each, and 6
-  neighbourhoods, before this will build.
+  neighborhoods, before this will build.
 
 ---
 
@@ -452,3 +452,35 @@ SMUD’s summer weekday peak runs from 5 to 8 p.m., June 1 through September 30.
 ### Know when maintenance becomes an alteration
 
 A tune-up finds conditions; it does not cure a leaking coil, failed compressor, burnt wiring, or broken fan without a separate repair scope. A condenser or furnace changeout is different: Sacramento requires mechanical permits for replacement work, while California Energy Commission requirements can include duct sealing, refrigerant-charge verification, airflow testing, and documentation. Ask which work is maintenance, repair, and permitted alteration. Any repair found during the visit should be priced separately and approved before it begins.
+
+## pricing_lede
+
+This page sets out what the common cooling jobs actually run in Sacramento, what the city and the utility charge on top, and which parts of an older valley house push a repair toward the high end of its range.
+
+## pricing_body
+
+### Why one job carries two numbers
+
+Almost every figure above is a range because three things move independently: which component failed, how hard that component is to reach, and what hour of the week somebody reaches it. A start capacitor sitting behind an access panel on a Natomas condenser with three feet of clear space around it is forty minutes of work. The identical capacitor on a unit wedged between a fence and a bungalow wall in Midtown, with the panel screws facing a stucco wall, is a longer job before anything is even measured. Then there is timing. A Tuesday morning slot in May and a Saturday evening in the second week of a hundred-degree run are not the same labor, and the invoice reflects that.
+
+The second reason a range stays wide is that one fault often sits underneath another. A pitted contactor burns out a capacitor. A clogged condensate drain floods a pan and rusts a float switch. Honest work fixes the cause as well as the part, and that is usually the difference between the middle and the upper half of a range.
+
+### Why this city prices the way it does
+
+Three documented local numbers explain most of it. Median pay for the roughly 2,940 heating, air conditioning and refrigeration mechanics in this metro is $32.06 an hour according to BLS wage data for the Sacramento-Roseville-Folsom metro, and by the time a technician's vehicle, refrigerant recovery gear, gauges, insurance and drive time are loaded on, the billed hourly figure lands at several times the wage. That is why access matters so much here: an attic coil in a Curtis Park bungalow in July burns billable hours that a garage installation does not.
+
+Second, a changeout is a permitted, tested job. The city takes $175 for HVAC work as a flat specific-cost permit under the City of Sacramento residential permit fee sheet CDD-0245, plus an eight percent technology surcharge, and state energy code then requires independent field verification with the paperwork filed before the permit closes. The permit money is small next to the sequence it starts: scheduling, duct leakage testing, refrigerant charge and airflow verification, and an inspection that has to line up with somebody being at the house.
+
+Third, replacement pricing here is shaped by incentives. The SMUD heating and cooling rebate schedule pays $3,000 on a variable-stage heat pump replacing gas heat, only through a contractor in its network and only when Title 24 verification passes on a CF3R form. The utility also publishes what its own customers paid: a median of $17,336 for an electric-to-electric heat pump upgrade, with the bottom of that set at $7,250. Those are real Sacramento invoices, and they show how far apart two jobs described with the same three words can land.
+
+### What a fair quote itemizes
+
+A quote worth trusting names the failed part and the reading that condemned it — the microfarad measurement on a capacitor, the amp draw on a motor, the superheat and subcool numbers on a charge complaint. It separates diagnostic labor from repair labor, states whether the diagnostic amount applies against the repair, and lists refrigerant by type and by pound rather than as one lump. On a changeout it names the tonnage, the SEER2 rating, the matched indoor coil, the permit, the field verification, duct sealing if the ducts need it, and the disposal of the old equipment. Anything vague on a changeout quote tends to be the part that reappears later as an extra.
+
+### The trap in cooling work
+
+The pattern that costs people the most money in this market is the leap from a symptom to a system. Warm air in August gets diagnosed as a dying compressor and answered with a replacement proposal on the same visit, sometimes before anyone has cleaned a matted condenser coil or checked the airflow across the evaporator. The delta-breeze pattern makes this easy to sell, because a system that has quietly lost capacity for two summers only fails on a stagnant night, and a house at ninety-two degrees inside is not a good place to weigh a five-figure decision. Refrigerant top-offs with no leak search are the smaller version of the same trap: the charge escapes again, and the second visit costs what the first one did.
+
+### What the number found online leaves out
+
+National cost pages quote equipment and basic labor. They rarely include the permit and the technology surcharge, the field verification visit, duct sealing on 1960s ductwork that never met current leakage limits, an enlarged return where the original one was sized for a smaller unit, a new pad and disconnect, or the screening a relocated condenser needs to stay out of street view. On a repair they leave out the second fault, and on a replacement they leave out the wait: an inspection slot and a verification appointment are calendar items, not line items, and in the middle of a heat run they are the reason a job spans days rather than hours.

@@ -283,3 +283,45 @@ Four details that make the first legal review clearer
 ## emergency_note
 
 There is no physical emergency created by this website. If someone is in immediate danger or needs urgent medical help, call 911. For legal papers or an insurer’s request, keep a copy and do not sign it until you understand it.
+
+## pricing_lede
+
+Florida is one of the few states that publishes an actual sliding scale for a contingent fee in a death case, and the tiers move depending on how far the case has gone, so this page sets out each one exactly as Rule 4-1.5 states it, the route a client uses to go above it, and the probate steps and Duval County Clerk charges that a death claim brings with it.
+
+## pricing_body
+
+### Florida publishes a schedule, and it is real
+
+Most states cap nothing and simply ban an unreasonable fee. Florida is different. Rule 4-1.5(f)(4)(B) of the Rules Regulating The Florida Bar sets numeric limits for personal injury, property damage, and death resulting from personal injuries based on tortious conduct, products liability included. A contract exceeding those limits is presumed, unless rebutted, to be a clearly excessive fee. So a Jacksonville family reading a percentage can check it against a published figure rather than against a professional judgment standard.
+
+### The tiers before an answer is filed
+
+Where the matter resolves before the defendant files an answer, or before a demand for appointment of arbitrators, or before the time for either expires, subdivision (f)(4)(B)(i)a fixes the schedule in three layers. Thirty three and one third percent of any recovery up to $1 million. Plus 30 percent of any portion between $1 million and $2 million. Plus 20 percent of any portion above $2 million. The tiers stack rather than replace each other, so a $2.5 million settlement at this stage produces a fee built from all three layers.
+
+### What changes once the defense answers
+
+Subdivision (f)(4)(B)(i)b governs the period after the answer or the arbitration demand is filed, through entry of judgment. The first layer rises to 40 percent of any recovery up to $1 million, while the next two hold at 30 percent between $1 million and $2 million and 20 percent above $2 million. That single step from one third to 40 percent is the most consequential number here, because in a contested death case an answer is filed as a matter of course.
+
+### The variant nobody mentions
+
+Subdivision (f)(4)(B)(i)c covers the case where every defendant admits liability when filing their answers and asks for a trial only on damages. There the schedule reads 33 and one third percent up to $1 million, plus 20 percent between $1 million and $2 million, plus 15 percent above $2 million. Those upper tiers are the lowest in the rule, and a contract keeping the contested percentages in place after liability is conceded is worth a question.
+
+### Appeals add five points, not a new contract
+
+Subdivision (f)(4)(B)(i)d permits an additional 5 percent of any recovery after institution of any appellate proceeding, or of postjudgment relief or action required to collect on the judgment. It is an addition to whichever tier already applies, not a replacement schedule. Under (f)(4)(D) the lawyer with primary responsibility takes no less than 75 percent of the total fee and a secondary lawyer no more than 25 percent absent court authorization.
+
+### The lawful way to exceed the schedule
+
+The limits are not absolute. Under (f)(4)(B)(ii), a client who cannot obtain the lawyer of the client's choice because of those limits may petition the court where the matter would be filed, or the circuit court where the cause of action arose, to approve the fee contract. The court authorizes it on determining that the client fully understands the rights being given up and the terms. The petition may be filed as a separate proceeding before suit or together with the complaint, and that aspect of the file may be sealed. Authorization does not foreclose a later inquiry into whether the fee actually charged was clearly excessive.
+
+### Three days to walk away, and a written closing statement
+
+Before any of the tiers matter, (f)(4)(A) requires the client to have received, read and signed the Statement of Client's Rights, and it lets the client cancel by written notice within 3 business days of signing, owing no fee for work done in that window, although the lawyer may recover funds reasonably advanced. At the other end, (f)(5) requires a closing statement itemizing every cost and expense and stating each lawyer's fee, signed by all participating lawyers and by the client and retained for 6 years. Where a recovery is paid over time, (f)(6) calculates the percentage only on the cost of the structured settlement or its present money value, whichever is less.
+
+### Who files, and who has to approve the deal
+
+Section 768.20 of the Florida Statutes puts the action in the hands of the decedent's personal representative, who recovers for the benefit of the survivors and the estate. Survivors are defined in 768.18 to include the spouse, children, parents and certain dependent relatives, and that section defines minor children as children under 25 years of age. Section 768.25 then requires court approval of a settlement, as to amount or apportionment, whenever a survivor objects or a survivor who is a minor or an incompetent is affected. Section 768.26 controls how the money leaves the pot: fees and litigation expenses are paid by the personal representative and deducted from the awards to the survivors and the estate in proportion to the amounts awarded, except expenses incurred for one survivor, which come from that person's share. Under 744.387, a natural guardian may settle a claim up to $15,000 without bond, while a larger net settlement requires appointment of a guardian of the property.
+
+### What the Duval County Clerk charges
+
+Opening a circuit civil case in Jacksonville costs $401, with $10 for each summons issued and $2.50 for every defendant past the first five. A counterclaim, cross claim or third party claim is $395, and certification of a court record $2 per document. A deposit into the court registry runs 3 percent of the first $500 and 1.5 percent of each subsequent $100. On the probate side, formal administration is $401, guardianship of the property $400, and guardianship of the person alone $235. An inventory audit costs $85 once a ward's property exceeds $25,000. None of that is attorney fee, and the contract should say who advances it.

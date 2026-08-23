@@ -39,7 +39,8 @@
       <a href="{{ base }}">Home</a>
       {% if nav_services %}<a href="{{ base }}services/">Services</a>
       {% for o in nav_services %}<a href="{{ base }}{{ o.slug }}/">{{ o.nav }}</a>
-      {% endfor %}{% endif %}      <a href="{{ base }}about/">About</a>
+      {% endfor %}{% endif %}{% if has_pricing %}<a href="{{ base }}pricing/">{{ pricing_nav }}</a>
+      {% endif %}<a href="{{ base }}about/">About</a>
       <a href="{{ base }}contact/">Contact</a>
     </div>
     <div class="lr-compliance-footer">

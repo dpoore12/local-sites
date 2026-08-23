@@ -1,138 +1,219 @@
 {
- "domain": "longbeachpersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Long Beach Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Long Beach",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Los Angeles"
- ],
- "area_codes": [
-  "562"
- ],
- "phone_display": "(562) 586-9166",
- "phone_tel": "+15625869166",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "proposition_213",
-   "title": "Proposition 213 is a distinct vehicle-claim rule",
-   "claim": "California Civil Code section 3333.4 limits non-economic losses in specified motor-vehicle cases involving an uninsured owner or an operator unable to establish required financial responsibility; the statute lists pain, suffering, inconvenience, impairment, and disfigurement among those losses and includes a defined exception.",
-   "why_it_matters": "A Long Beach crash file should preserve insurance and ownership records at the outset. This rule can change the analysis independently of who caused the collision.",
-   "sources": [
-    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3333.4.&lawCode=CIV",
-    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16020."
-   ],
-   "verified": "2026-08-21"
+  "domain": "longbeachpersonalinjurylawyerpros.com",
+  "phase": 1,
+  "brand": "Long Beach Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "city": "Long Beach",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Los Angeles"
+  ],
+  "area_codes": [
+    "562"
+  ],
+  "phone_display": "(562) 586-9166",
+  "phone_tel": "+15625869166",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "designated_truck_routes",
-   "title": "Long Beach maintains designated truck routes",
-   "claim": "The City of Long Beach truck-route map identifies designated truck routes and shows harbor-area streets plus freeway connections including the 710, 405, 91, 605, and 103.",
-   "why_it_matters": "A collision involving a port-serving or other commercial vehicle may require early preservation of carrier identity, trailer details, and business-held records in addition to the usual crash evidence.",
-   "sources": [
-    "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/truckroutemap_web"
-   ],
-   "verified": "2026-08-21"
+  "local_facts": [
+    {
+      "id": "proposition_213",
+      "title": "Proposition 213 is a distinct vehicle-claim rule",
+      "claim": "California Civil Code section 3333.4 limits non-economic losses in specified motor-vehicle cases involving an uninsured owner or an operator unable to establish required financial responsibility; the statute lists pain, suffering, inconvenience, impairment, and disfigurement among those losses and includes a defined exception.",
+      "why_it_matters": "A Long Beach crash file should preserve insurance and ownership records at the outset. This rule can change the analysis independently of who caused the collision.",
+      "sources": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3333.4.&lawCode=CIV",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=16020."
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "designated_truck_routes",
+      "title": "Long Beach maintains designated truck routes",
+      "claim": "The City of Long Beach truck-route map identifies designated truck routes and shows harbor-area streets plus freeway connections including the 710, 405, 91, 605, and 103.",
+      "why_it_matters": "A collision involving a port-serving or other commercial vehicle may require early preservation of carrier identity, trailer details, and business-held records in addition to the usual crash evidence.",
+      "sources": [
+        "https://www.longbeach.gov/globalassets/pw/media-library/documents/resources/general/maps-and-gis/truckroutemap_web"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "long_beach_civil_departments",
+      "title": "Civil trial departments are listed in Long Beach",
+      "claim": "Los Angeles Superior Court’s civil trial courtroom list identifies Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue, Long Beach, California 90802.",
+      "why_it_matters": "Court procedure and venue are case-specific, but a local claim may involve a courthouse close to the city rather than an abstract statewide process.",
+      "sources": [
+        "https://www.lacourt.org/division/civil/pdf/Trial_Courtrooms.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Bixby Knolls",
+    "California Heights",
+    "Carroll Park",
+    "Downtown",
+    "Bluff Park",
+    "Wrigley"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "long_beach_civil_departments",
-   "title": "Civil trial departments are listed in Long Beach",
-   "claim": "Los Angeles Superior Court’s civil trial courtroom list identifies Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue, Long Beach, California 90802.",
-   "why_it_matters": "Court procedure and venue are case-specific, but a local claim may involve a courthouse close to the city rather than an abstract statewide process.",
-   "sources": [
-    "https://www.lacourt.org/division/civil/pdf/Trial_Courtrooms.pdf"
-   ],
-   "verified": "2026-08-21"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "long beach personal injury lawyer",
+    "monthly_price": 1000,
+    "score": 71,
+    "volume": 700,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "asherhoffmanlaw.com",
+    "competitor_dr": 13.0
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What the contract has to say in a Long Beach injury claim, and what the Los Angeles courthouse collects",
+    "col_a": "Document or filing",
+    "col_b": "What the statute or schedule requires",
+    "anchors": [
+      {
+        "label": "Sentence the contract itself must contain",
+        "value": "The fee is negotiable",
+        "detail": "Outside medical negligence claims, California requires a contingency contract to state that the fee is not set by law but is negotiable between attorney and client.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)(4)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "label": "Percentage ceiling on an ordinary injury fee",
+        "value": "Not stated anywhere",
+        "detail": "The State Bar rule prohibits an unconscionable or illegal fee and supplies thirteen factors for testing one. It assigns no percentage to a negligence recovery.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)-(b)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "First paper where the claim stays at or under $12,500",
+        "value": "$225",
+        "detail": "The Los Angeles Superior Court draws its limited-civil line at $12,500 rather than the $10,000 figure printed on schedules elsewhere in California.",
+        "source_name": "LASC Civil Fee Schedule, item 13",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "label": "Electronic filing service fee, charged per transaction",
+        "value": "$2.25",
+        "detail": "Added to each eFiling transaction in Los Angeles civil cases under the Rules of Court provisions governing electronic filing and service.",
+        "source_name": "LASC Civil Fee Schedule, item 280",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "The contingency share in a Long Beach injury claim",
+        "share": "No statutory percentage",
+        "note": "Unconscionability is judged on the facts existing when the agreement was made, weighing proportion to the value of services, relative sophistication, results obtained, and informed consent.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(b)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "Form of the contingency contract",
+        "share": "Duplicate signed copy at signing",
+        "note": "It states the rate, how disbursements and costs affect both the fee and the recovery, compensation for related matters, and the negotiability statement.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "A contract that leaves out a required term",
+        "share": "Voidable by the plaintiff",
+        "note": "The client may void it, after which the attorney is entitled only to a reasonable fee rather than the percentage the contract named.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(b)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "Claims against a health care provider, a different statute",
+        "share": "25% before filing, 33% after",
+        "note": "That schedule governs professional negligence actions against health care providers only, and higher rates require a motion showing good cause.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+        "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
+      },
+      {
+        "stage": "Workers' compensation fees, a separate track",
+        "share": "Approved by the appeals board first",
+        "note": "No fee may be demanded or accepted from an injured employee until the appeals board approves or sets the amount, and the contingency contract statute excludes comp.",
+        "source_name": "Cal. Lab. Code 4906(b)",
+        "source_url": "https://law.justia.com/codes/california/code-lab/division-4/part-3/chapter-1/section-4906/"
+      },
+      {
+        "stage": "Dividing the fee with another firm",
+        "share": "Written client consent required",
+        "note": "The lawyers need a written agreement, the client consents in writing after full written disclosure, and the total fee cannot rise because of the division.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5.1(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Bixby Knolls",
-  "California Heights",
-  "Carroll Park",
-  "Downtown",
-  "Bluff Park",
-  "Wrigley"
- ],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
-  }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "long beach personal injury lawyer",
-  "monthly_price": 1000,
-  "score": 71,
-  "volume": 700,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "asherhoffmanlaw.com",
-  "competitor_dr": 13.0
- }
 }

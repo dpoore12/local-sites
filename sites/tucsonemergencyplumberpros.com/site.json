@@ -134,5 +134,167 @@
   "cpc_usd": 55.0,
   "weakest_competitor": "tucsonplumbing.com",
   "competitor_dr": 6.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Posted Tucson prices, job by job",
+  "anchors": [
+   {
+    "label": "Residential trade permit, water heater or sewer repair",
+    "value": "$118.51",
+    "detail": "One flat trade permit covers a like-for-like water heater, a sewer or building drain repair, or a water service line, including two inspections.",
+    "source_name": "City of Tucson adopted development services fee schedule",
+    "source_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/fee-schedule/adopted-year-1-fee-schedule.pdf"
+   },
+   {
+    "label": "Each additional permitted item on the same trade permit",
+    "value": "$20.70",
+    "detail": "Two or more items on one plumbing permit cost $118.51 for the first plus $20.70 for each one after it.",
+    "source_name": "City of Tucson adopted development services fee schedule",
+    "source_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/fee-schedule/adopted-year-1-fee-schedule.pdf"
+   },
+   {
+    "label": "New water service line and 5/8 inch meter, Tucson Water",
+    "value": "$2,700",
+    "detail": "Tucson Water charges $2,700 for a new service line and meter where pavement is replaced, $1,740 where it is not, and $450 to $560 to set a meter on an existing service.",
+    "source_name": "Tucson Water meter installation fees",
+    "source_url": "https://www.tucsonaz.gov/Departments/Water/Your-Water-Bill/Misc.-Rates/Water-Meter-Installation-Fees"
+   },
+   {
+    "label": "Median hourly wage, plumbers, pipefitters and steamfitters",
+    "value": "$28.40",
+    "detail": "May 2025 median for the 1,170 people in the trade across the Tucson metro area, a little over half the San Jose figure.",
+    "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+    "source_url": "https://www.bls.gov/oes/current/oes_46060.htm"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Getting a plumber to the door and the fault identified",
+    "low": 49,
+    "high": 170,
+    "basis": "per visit",
+    "note": "Some Tucson shops post a flat diagnostic, others a trip fee tied to distance. Ask which one applies and whether it comes off the repair.",
+    "sources": [
+     {
+      "name": "Arico Plumbing, Tucson, posted service pricing, read 2026-08-23",
+      "url": "https://aricoplumbing.com/plumbing-prices/"
+     },
+     {
+      "name": "Sivart AZ Plumbing, Tucson, posted pricing page, read 2026-08-23",
+      "url": "https://sivartazplumbing.com/pricing/"
+     },
+     {
+      "name": "Right Now Plumbing and Heating, Tucson, posted trip fee range, read 2026-08-23",
+      "url": "https://rightnowplumbingtucson.com/how-much-does-a-plumber-in-tucson-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Clogged drain cleared, from a lavatory line to the main",
+    "low": 29,
+    "high": 800,
+    "basis": "flat",
+    "note": "A sink or tub clog sits near the bottom. A main line stoppage behind a wall or under the slab sits at the top.",
+    "sources": [
+     {
+      "name": "iDesign Air and Plumbing, Tucson, posted drain clearing price, read 2026-08-23",
+      "url": "https://www.idesignac.com/"
+     },
+     {
+      "name": "Right Now Plumbing and Heating, Tucson, posted drain clearing prices, read 2026-08-23",
+      "url": "https://rightnowplumbingtucson.com/how-much-for-a-plumber-to-unclog-a-drain-in-tucson/"
+     },
+     {
+      "name": "Advantage Air Mechanical, Tucson, posted drain cleaning prices, read 2026-08-23",
+      "url": "https://advantageairmechanical.com/plumbing/drain-cleaning/"
+     }
+    ]
+   },
+   {
+    "job": "Forty gallon water heater replaced, permit and inspection included",
+    "low": 900,
+    "high": 4000,
+    "basis": "flat, unit included",
+    "note": "One Tucson installer posts an all-in figure with the city permit and inspection inside it. Tankless conversions leave that band entirely.",
+    "sources": [
+     {
+      "name": "Just Water Heaters, Tucson, posted installed price with permit, read 2026-08-23",
+      "url": "https://justwaterheaterstucson.com/"
+     },
+     {
+      "name": "Plumber of Tucson, posted water heater pricing, read 2026-08-23",
+      "url": "https://plumberoftucson.com/prices/"
+     },
+     {
+      "name": "Right Now Plumbing and Heating, Tucson, posted water heater replacement pricing, read 2026-08-23",
+      "url": "https://rightnowplumbingtucson.com/how-much-does-a-plumber-in-tucson-cost/"
+     },
+     {
+      "name": "Done Rite Services, Tucson, posted water heater pricing, read 2026-08-23",
+      "url": "https://doneritesvcs.com/plumbing/water-heaters/"
+     }
+    ]
+   },
+   {
+    "job": "Slab leak located and the line rerouted around it",
+    "low": 1075,
+    "high": 3875,
+    "basis": "detection plus reroute",
+    "note": "Totals add the posted detection charge to the posted reroute band, simple through challenging, on the same company's list.",
+    "sources": [
+     {
+      "name": "Plumber of Tucson, posted leak detection and reroute pricing, read 2026-08-23",
+      "url": "https://plumberoftucson.com/prices/"
+     },
+     {
+      "name": "AB Plumbing, Tucson, posted slab leak pricing, read 2026-08-23",
+      "url": "https://abplumbingllc.com/slab-leak-repair-tucson/"
+     },
+     {
+      "name": "Tucson Plumber Services, posted leak detection and repair pricing, read 2026-08-23",
+      "url": "https://tucsonplumberservices.com/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer line replaced, spot repair through full line",
+    "low": 280,
+    "high": 15000,
+    "basis": "varies with length and method",
+    "note": "Caliche and rock make trenching slow here, which is why lining is quoted per foot against a full open cut replacement.",
+    "sources": [
+     {
+      "name": "Advantage Air Mechanical, Tucson, posted sewer replacement pricing, read 2026-08-23",
+      "url": "https://advantageairmechanical.com/plumbing/sewer-line-repair/"
+     },
+     {
+      "name": "Tucson Plumbing and Drain, posted trenchless and replacement pricing, read 2026-08-23",
+      "url": "https://tucsonplumbinganddrain.com/trenchless-sewer-repair-tucson/"
+     },
+     {
+      "name": "Tucson Plumber Services, posted sewer pricing per linear foot, read 2026-08-23",
+      "url": "https://tucsonplumberservices.com/"
+     }
+    ]
+   },
+   {
+    "job": "Whole house repipe, PEX or copper",
+    "low": 4500,
+    "high": 25000,
+    "basis": "flat",
+    "note": "PEX in a three bedroom house sits low with permits and patching included. Copper in a larger house is the top of this range.",
+    "sources": [
+     {
+      "name": "iDesign Air and Plumbing, Tucson, posted repipe pricing, read 2026-08-23",
+      "url": "https://www.idesignac.com/services/repipe-tucson"
+     },
+     {
+      "name": "Repipe Specialists, Tucson, posted repipe range, read 2026-08-23",
+      "url": "https://tucson.repipe.com/"
+     }
+    ]
+   }
+  ]
  }
 }

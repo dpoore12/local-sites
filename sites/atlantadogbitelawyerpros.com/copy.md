@@ -214,3 +214,37 @@ What to preserve after a dog attack
 
 ## emergency_note
 If a dog is loose, aggressive, or poses an immediate safety threat, move to a safe place and contact emergency services. For injury, follow the direction of a medical professional.
+
+## pricing_lede
+
+A dog bite claim in Georgia is handled on a contingency, meaning the attorney is paid out of the money that comes in rather than by the hour, and this page sets out what the State Bar rule actually requires of that arrangement, what the Fulton County Clerk charges to put a case on file, and which city amounts apply to the animal itself.
+
+## pricing_body
+
+### Georgia sets a standard, not a ceiling
+
+Anyone comparing arrangements in Atlanta should know the first thing about Georgia law here: there is no statewide percentage limit on a fee taken from an injury recovery. Rule 1.5(a) of the Georgia Rules of Professional Conduct forbids an unreasonable fee and leaves the number itself to negotiation between the client and the lawyer. That is a genuine difference from New York, where the Appellate Division publishes a graduated schedule for the same kind of claim. The consequence for a bite victim in Buckhead or Grant Park is simple. The percentage in front of a person is a proposal, and it is open to discussion.
+
+### The eight things a fee is measured against
+
+Rule 1.5(a) lists what makes a fee reasonable. The hours and labor the matter demands, and the novelty and difficulty of the questions it raises. Whether taking the case shuts the lawyer out of other work. What the locality customarily charges for comparable representation. The amount at stake and the result reached. Time limits imposed by the client or the circumstances. The nature and length of any prior relationship. The experience, reputation and ability of the person doing the work. And whether the fee is fixed or contingent, which matters because a contingency carries the risk of no payment at all. Note the maximum sanction the State Bar attaches to a Rule 1.5 violation is a public reprimand.
+
+### What the writing has to contain
+
+Rule 1.5(c)(1) is the provision worth reading before signing anything. A contingent fee agreement must be in writing. It must state the method by which the fee is determined. It must give the percentage that accrues in the event of settlement, in the event of trial, and in the event of appeal, which are frequently three different figures. It must identify the litigation and other expenses to be deducted from the recovery. And it must say whether those expenses are subtracted before or after the percentage is calculated. That last clause changes the money in a client's hand more than most people expect, so it deserves a slow read rather than a nod.
+
+### The statement owed at the end
+
+Rule 1.5(c)(2) closes the loop. When the matter concludes and there is a recovery, the lawyer owes the client a written statement setting out the outcome, the remittance to the client, the method by which that remittance was determined, the amount of the attorney fee, and, where another lawyer shared in the fee, the amount that went to that lawyer and the basis for it. A person who never receives that document is entitled to ask for it.
+
+### Where a contingency is not permitted at all
+
+Rule 1.5(d) draws two hard lines. No fee may be contingent on securing a divorce, or on the amount of alimony, support or a property settlement in place of it. And no lawyer may take a contingent fee for defending someone against a criminal charge. Neither restriction touches a dog bite claim, but knowing they exist explains why the rule treats injury work as the place where a share of the recovery is allowed.
+
+### What the courthouse on Pryor Street charges
+
+Litigation has its own price list, published by the Fulton County Clerk of Superior Court and set by statute rather than by anyone's business decision. A general civil action costs $215.00 to file under O.C.G.A. 15-21A-6, with $8.00 added for each party past the first under 15-6-77.2. Service of the complaint by the Sheriff runs $50.00, subpoena service $10.00, and a motion filed in an existing case $1.00. Certified copies are $2.50 plus fifty cents a page. These are costs, not fees, and a contingency agreement should say plainly who advances them and what happens to them if the claim does not produce a recovery.
+
+### City amounts attached to the dog
+
+Section 18-61 of the Atlanta Code of Ordinances requires an annual owner's permit for every dog six months or older, at $3.00 per dog and no more than $10.00 for one family. When Animal Services impounds a dog, the owner has seven days from the mailed notice to reclaim it and owes a $7.50 impoundment fee plus $3.00 for each day of boarding, along with any unpaid permit fee and the cost of rabies vaccination where the dog wore no current tag. Those figures rarely decide a claim, but records of an unpaid permit or a prior impoundment often matter to what a bite claim can prove about the owner's knowledge.

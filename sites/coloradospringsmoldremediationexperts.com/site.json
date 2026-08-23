@@ -42,7 +42,7 @@
   },
   {
    "id": "semi_arid_climate",
-   "claim": "Colorado Springs has a 1991\u20132020 annual precipitation normal of 15.91 inches, according to the National Weather Service.",
+   "claim": "Colorado Springs has a 1991–2020 annual precipitation normal of 15.91 inches, according to the National Weather Service.",
    "why_it_matters": "Low outdoor humidity can make residents dismiss a musty room. At a property with mold, the inspection should follow a localized indoor water source such as a slow plumbing leak, roof entry, appliance connection, or damp below-grade area rather than blaming the regional climate.",
    "sources": [
     "https://www.weather.gov/pub/climateCosDailyNormalsRecords"
@@ -52,14 +52,14 @@
   },
   {
    "id": "housing_age_mix",
-   "claim": "Colorado Springs planning data lists a median year of construction of 1986. Its 2020\u20132024 consolidated plan says 42% of owner-occupied and 47% of renter-occupied homes were built before 1980, totaling more than 77,000 homes.",
+   "claim": "Colorado Springs planning data lists a median year of construction of 1986. Its 2020–2024 consolidated plan says 42% of owner-occupied and 47% of renter-occupied homes were built before 1980, totaling more than 77,000 homes.",
    "why_it_matters": "The housing stock spans many renovation histories, insulation conditions, roof repairs, and concealed plumbing routes. An attic, wall, or crawl-space scope should be based on the actual water path and accessible materials rather than a one-size assumption about the building.",
    "sources": [
     "https://coloradosprings.gov/system/files/2025-07/hna_co_springs_factsheet_2025_07_10a_lv.pdf",
     "https://coloradosprings.gov/system/files/2024-04/colorado_springs_2020-2024_conplan_amendment_3-comp.pdf"
    ],
    "verified": "2026-08-22",
-   "title": "The city\u2019s housing stock has many hidden water paths"
+   "title": "The city’s housing stock has many hidden water paths"
   }
  ],
  "neighborhoods": [
@@ -134,5 +134,159 @@
   "cpc_usd": 25.0,
   "weakest_competitor": "springsmold.com",
   "competitor_dr": 1.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Colorado Springs mold work, testing through remediation",
+  "anchors": [
+   {
+    "label": "Size below which the EPA says a homeowner can clean it",
+    "value": "10 square feet",
+    "detail": "The federal guidance is blunt: if the moldy area is less than about 10 square feet, roughly a three-foot by three-foot patch, in most cases a homeowner can handle the job themselves.",
+    "source_name": "EPA mold cleanup in your home",
+    "source_url": "https://www.epa.gov/mold/mold-cleanup-your-home"
+   },
+   {
+    "label": "Size at which full containment is recommended",
+    "value": "100 square feet",
+    "detail": "EPA remediation guidance recommends limited containment between 10 and 100 square feet of contamination, and full containment above 100 square feet, which is the single biggest step change in what a job costs.",
+    "source_name": "EPA mold remediation guide, chapter 3",
+    "source_url": "https://www.epa.gov/mold/mold-remediation-schools-and-commercial-buildings-guide-chapter-3"
+   },
+   {
+    "label": "State license required to remediate mold in Colorado",
+    "value": "None",
+    "detail": "House Bill 25-1202, the Mold Awareness and Registration Act, was lost in the 2025 session, so Colorado still has no state license or registration for mold remediation and the credential question falls entirely on the homeowner.",
+    "source_name": "Colorado General Assembly, HB25-1202",
+    "source_url": "https://leg.colorado.gov/bills/hb25-1202"
+   },
+   {
+    "label": "Mold on the state seller disclosure form",
+    "value": "Form SPD19-6-23",
+    "detail": "The state real estate commission form has been mandatory since January 2024 and asks the seller directly about moisture and water and about the presence of mold or other biological hazards, with liability attached to failing to disclose a known adverse material fact.",
+    "source_name": "Colorado Division of Real Estate seller's property disclosure",
+    "source_url": "https://dre.colorado.gov/sites/dre/files/documents/2023-08-07%20Seller_s%20Property%20Disclosure-Residential%20(fillable).pdf"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Inspection with moisture readings, no lab samples",
+    "low": 250,
+    "high": 600,
+    "basis": "flat per visit",
+    "note": "Crawl space entry, a finished basement, and thermal imaging of wall cavities take this toward the top.",
+    "sources": [
+     {
+      "name": "Arrow Home Inspections, Colorado Springs, posted mold testing prices, read 2026-08-23",
+      "url": "https://arrowhomeinspectionsinc.com/mold-testing-colorado-springs"
+     },
+     {
+      "name": "Premier One Home Inspections, Colorado Springs, posted pricing page, read 2026-08-23",
+      "url": "https://premieronehomeinspections.com/pricing/"
+     },
+     {
+      "name": "Premier Carpet Cleaning, Colorado Springs, posted mold removal cost page, read 2026-08-23",
+      "url": "https://thepremierclean.com/resources/mold-removal-in-colorado-springs/"
+     }
+    ]
+   },
+   {
+    "job": "Lab-analyzed air samples, two rooms plus an outdoor control",
+    "low": 300,
+    "high": 900,
+    "basis": "flat, three sample locations plus lab work",
+    "note": "Per-sample pricing is what stacks here, so ask how many locations the written number actually covers.",
+    "sources": [
+     {
+      "name": "Mold Removal Express, Colorado, posted per-sample testing prices, read 2026-08-23",
+      "url": "https://www.moldremovalexpress.com/what-does-professional-mold-testing-cost-in-colorado/"
+     },
+     {
+      "name": "Signature Inspecting, Colorado Springs, posted services and fees, read 2026-08-23",
+      "url": "https://signatureinspecting.com/services-fees"
+     },
+     {
+      "name": "Premier Carpet Cleaning, Colorado Springs, posted testing range, read 2026-08-23",
+      "url": "https://thepremierclean.com/resources/mold-removal-in-colorado-springs/"
+     }
+    ]
+   },
+   {
+    "job": "Contained cleanup of a patch under 10 square feet",
+    "low": 500,
+    "high": 1500,
+    "basis": "flat, under 10 square feet of affected area",
+    "note": "Cutting out and rebuilding drywall, rather than cleaning a surface, is the difference inside this band.",
+    "sources": [
+     {
+      "name": "Premier Carpet Cleaning, Colorado Springs, posted small-area remediation range, read 2026-08-23",
+      "url": "https://thepremierclean.com/resources/mold-removal-in-colorado-springs/"
+     },
+     {
+      "name": "Absolute Water Damage and Mitigation, Colorado Springs, posted cost guide, read 2026-08-23",
+      "url": "https://absolutewaterdamageandmitigation.com/cost-guide"
+     }
+    ]
+   },
+   {
+    "job": "Remediation of 10 to 100 square feet under limited containment",
+    "low": 1500,
+    "high": 5000,
+    "basis": "flat, 10 to 100 square feet of affected area",
+    "note": "Negative air machines, HEPA filtration, and daily containment monitoring are billed by the day here.",
+    "sources": [
+     {
+      "name": "Premier Carpet Cleaning, Colorado Springs, posted medium-area range, read 2026-08-23",
+      "url": "https://thepremierclean.com/resources/mold-removal-in-colorado-springs/"
+     },
+     {
+      "name": "Absolute Water Damage and Mitigation, Colorado Springs, posted moderate remediation range, read 2026-08-23",
+      "url": "https://absolutewaterdamageandmitigation.com/cost-guide"
+     },
+     {
+      "name": "Elyon Restoration, Colorado Springs and Front Range, posted remediation range, read 2026-08-23",
+      "url": "https://elyonrestoration.com/faqs/"
+     }
+    ]
+   },
+   {
+    "job": "Attic or crawl space compartment treated end to end",
+    "low": 2500,
+    "high": 10000,
+    "basis": "flat per compartment",
+    "note": "Blown insulation removal, sheathing treatment, and corrected roof or foundation venting all sit inside this work.",
+    "sources": [
+     {
+      "name": "Restoration King, Colorado Springs, posted attic remediation range, read 2026-08-23",
+      "url": "https://restorationking.com/attic-mold-remediation-colorado-springs/"
+     },
+     {
+      "name": "Premier Carpet Cleaning, Colorado Springs, posted crawl space encapsulation range, read 2026-08-23",
+      "url": "https://thepremierclean.com/resources/mold-removal-in-colorado-springs/"
+     }
+    ]
+   },
+   {
+    "job": "Finished basement remediated after a long, slow leak",
+    "low": 4500,
+    "high": 20000,
+    "basis": "flat, partial to full basement",
+    "note": "Demolition, structural drying, and rebuilding finishes are three separate scopes hiding in one number.",
+    "sources": [
+     {
+      "name": "Premier Carpet Cleaning, Colorado Springs, posted basement remediation ranges, read 2026-08-23",
+      "url": "https://thepremierclean.com/resources/mold-removal-in-colorado-springs/"
+     },
+     {
+      "name": "Absolute Water Damage and Mitigation, Colorado Springs, posted extensive remediation range, read 2026-08-23",
+      "url": "https://absolutewaterdamageandmitigation.com/cost-guide"
+     },
+     {
+      "name": "Elyon Restoration, Colorado Springs and Front Range, posted full restoration range, read 2026-08-23",
+      "url": "https://elyonrestoration.com/faqs/"
+     }
+    ]
+   }
+  ]
  }
 }

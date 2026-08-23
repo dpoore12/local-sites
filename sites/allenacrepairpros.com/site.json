@@ -137,5 +137,201 @@
   "cpc_usd": 35.0,
   "weakest_competitor": "acrepairallentx.com",
   "competitor_dr": 8.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Allen and Collin County AC repair prices, job by job",
+  "anchors": [
+   {
+    "label": "Complete HVAC system permit, City of Allen",
+    "value": "$175",
+    "detail": "Replacing a full system in Allen requires a $175 permit. A water heater or a standalone over the counter trade permit is $75.",
+    "source_name": "City of Allen fee schedule, June 2025",
+    "source_url": "https://cms3.revize.com/revize/allentx/Images/Documents/Business/City%20of%20Allen%20Fee%20Schedule%20(June%202025).pdf"
+   },
+   {
+    "label": "Contractor and inspector registration, annual",
+    "value": "$50",
+    "detail": "Every contractor pulling a permit in Allen registers with the city each year for $50. An unregistered shop cannot legally permit a changeout.",
+    "source_name": "City of Allen fee schedule, June 2025",
+    "source_url": "https://cms3.revize.com/revize/allentx/Images/Documents/Business/City%20of%20Allen%20Fee%20Schedule%20(June%202025).pdf"
+   },
+   {
+    "label": "Inspection outside normal hours",
+    "value": "$75 per hour, two hour minimum",
+    "detail": "After hours inspections carry a two hour floor, and reinspections escalate at $75, then $100, then $125 for each further trip.",
+    "source_name": "City of Allen fee schedule, June 2025",
+    "source_url": "https://cms3.revize.com/revize/allentx/Images/Documents/Business/City%20of%20Allen%20Fee%20Schedule%20(June%202025).pdf"
+   },
+   {
+    "label": "Median hourly wage, heating and air conditioning mechanics",
+    "value": "$28.63",
+    "detail": "May 2025 median for the 10,910 HVAC mechanics and installers across the Dallas, Fort Worth and Arlington metro area.",
+    "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+    "source_url": "https://www.bls.gov/oes/current/oes_19100.htm"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Technician out and the fault diagnosed",
+    "low": 59,
+    "high": 150,
+    "basis": "per visit",
+    "note": "Collin County shops split on this. Some credit the fee against the repair, at least one states plainly that it does not come off the bill.",
+    "sources": [
+     {
+      "name": "The Perfect Climate, McKinney, posted service fee, read 2026-08-23",
+      "url": "https://theperfectclimatehvac.com/pricing/"
+     },
+     {
+      "name": "Trusted Heat and Air, Allen and Collin County, posted price list, read 2026-08-23",
+      "url": "https://trustedheatac.com/pricing/"
+     },
+     {
+      "name": "Jupitair HVAC, Allen, posted diagnostic pricing, read 2026-08-23",
+      "url": "https://jupitairhvac.com/blog/ac-capacitor-guide/"
+     },
+     {
+      "name": "Air Repair Pros, McKinney, posted diagnostic pricing, read 2026-08-23",
+      "url": "https://airrepairpros.com/ac-repair-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Run capacitor replaced at the condenser",
+    "low": 150,
+    "high": 450,
+    "basis": "parts and labor",
+    "note": "One local list posts the part from $135 with a separate $95 diagnostic, so the honest total for that shop starts at $230.",
+    "sources": [
+     {
+      "name": "HVAC Services Pro, Allen, posted repair price list, read 2026-08-23",
+      "url": "https://hvacservicespro.com/allen-tx-ac-repair/"
+     },
+     {
+      "name": "Trusted Heat and Air, Allen and Collin County, posted price list, read 2026-08-23",
+      "url": "https://trustedheatac.com/pricing/"
+     },
+     {
+      "name": "Jupitair HVAC, Allen, posted capacitor pricing, read 2026-08-23",
+      "url": "https://jupitairhvac.com/blog/ac-capacitor-guide/"
+     },
+     {
+      "name": "Air Repair Pros, McKinney, posted capacitor pricing, read 2026-08-23",
+      "url": "https://airrepairpros.com/ac-repair-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Contactor replaced in the outdoor disconnect",
+    "low": 175,
+    "high": 500,
+    "basis": "parts and labor",
+    "note": "Pitted contacts often show up with a failed capacitor. Doing both on one visit costs less than two separate trips.",
+    "sources": [
+     {
+      "name": "HVAC Services Pro, Allen, posted repair price list, read 2026-08-23",
+      "url": "https://hvacservicespro.com/allen-tx-ac-repair/"
+     },
+     {
+      "name": "Trusted Heat and Air, Allen and Collin County, posted price list, read 2026-08-23",
+      "url": "https://trustedheatac.com/pricing/"
+     }
+    ]
+   },
+   {
+    "job": "Condenser fan motor replaced",
+    "low": 395,
+    "high": 1200,
+    "basis": "parts and labor",
+    "note": "A variable speed motor on newer Allen construction costs multiples of the shaded pole motor it replaced.",
+    "sources": [
+     {
+      "name": "Trusted Heat and Air, Allen and Collin County, posted motor pricing, read 2026-08-23",
+      "url": "https://trustedheatac.com/pricing/"
+     },
+     {
+      "name": "HVAC Services Pro, Dallas and Fort Worth, posted motor pricing, read 2026-08-23",
+      "url": "https://hvacservicespro.com/ac-repair-cost-in-dfw/"
+     }
+    ]
+   },
+   {
+    "job": "Refrigerant leak found and the circuit recharged",
+    "low": 200,
+    "high": 3500,
+    "basis": "leak search plus refrigerant",
+    "note": "Refrigerant is billed by the pound on one local list. A leak in the buried lineset or the indoor coil is what reaches the ceiling.",
+    "sources": [
+     {
+      "name": "Air Repair Pros, McKinney, posted leak and recharge pricing, read 2026-08-23",
+      "url": "https://airrepairpros.com/ac-repair-cost/"
+     },
+     {
+      "name": "HVAC Services Pro, Allen, posted refrigerant leak pricing, read 2026-08-23",
+      "url": "https://hvacservicespro.com/allen-tx-ac-repair/"
+     },
+     {
+      "name": "Trusted Heat and Air, Allen and Collin County, posted refrigerant pricing, read 2026-08-23",
+      "url": "https://trustedheatac.com/pricing/"
+     }
+    ]
+   },
+   {
+    "job": "Evaporator coil replaced in the attic air handler",
+    "low": 600,
+    "high": 2500,
+    "basis": "parts and labor",
+    "note": "Allen attics run brutally hot in August, and a coil change up there is slow work before any part is billed.",
+    "sources": [
+     {
+      "name": "HVAC Services Pro, Dallas and Fort Worth, posted coil pricing, read 2026-08-23",
+      "url": "https://hvacservicespro.com/ac-repair-cost-in-dfw/"
+     },
+     {
+      "name": "Trusted Heat and Air, Allen and Collin County, posted coil pricing, read 2026-08-23",
+      "url": "https://trustedheatac.com/pricing/"
+     },
+     {
+      "name": "Air Motions HVAC, Allen, posted repair pricing, read 2026-08-23",
+      "url": "https://airmotionshvac.com/ac-repair-allen/"
+     }
+    ]
+   },
+   {
+    "job": "Compressor replaced in the existing condenser",
+    "low": 1000,
+    "high": 5000,
+    "basis": "parts and labor",
+    "note": "At these numbers the arithmetic against a changeout matters. A compressor in a fourteen year old condenser rarely pencils out.",
+    "sources": [
+     {
+      "name": "Air Repair Pros, McKinney, posted compressor pricing, read 2026-08-23",
+      "url": "https://airrepairpros.com/ac-repair-cost/"
+     },
+     {
+      "name": "HVAC Services Pro, Allen, posted compressor pricing, read 2026-08-23",
+      "url": "https://hvacservicespro.com/allen-tx-ac-repair/"
+     }
+    ]
+   },
+   {
+    "job": "Condenser and coil changed out with the Allen permit pulled",
+    "low": 3200,
+    "high": 13500,
+    "basis": "installed",
+    "note": "Tonnage, efficiency and whether the lineset and disconnect get replaced set it. One local page states the permit is inside its figure.",
+    "sources": [
+     {
+      "name": "Jupitair HVAC, Allen, posted installed replacement pricing, read 2026-08-23",
+      "url": "https://jupitairhvac.com/blog/new-ac-cost-installed-north-texas/"
+     },
+     {
+      "name": "HVAC Services Pro, Allen, posted replacement pricing, read 2026-08-23",
+      "url": "https://hvacservicespro.com/allen-tx-ac-repair/"
+     }
+    ]
+   }
+  ]
  }
 }

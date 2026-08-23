@@ -8,13 +8,13 @@
   The build fails if any 15 consecutive words match another site.
 - Never promise a phone consultation. Sell the work: what gets fixed,
   what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year
+- Never name a business, a license, a review count, a price or a year
   in business. No tenant is signed, so none of it is true yet.
 - Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
 - symptom_N blocks are 40-80 word teasers only. The depth goes on the
   service page they link to.
 - site.json needs 3 local_facts with a real source URL each, and 6
-  neighbourhoods, before this will build.
+  neighborhoods, before this will build.
 
 ---
 ## meta_title
@@ -418,3 +418,37 @@ Choose the problem that matches what the water is doing
 ## crosslink_head
 
 Looking at a different plumbing failure?
+
+## pricing_lede
+
+These are the figures South Bay plumbing companies publish for their own work, set next to the permit and connection fees San Jose charges and the metro wage data that sets the floor under every hourly rate. Nothing here is a quote.
+
+## pricing_body
+
+### One symptom, several very different bills
+
+Water on a floor tells you almost nothing about cost. A wet spot at a toilet base might be a wax ring or a broken flange under tile set in mortar. A warm patch on a slab is a pressurized hot line under four inches of concrete, and locating it is a separate priced step. That is why the bands above are wide.
+
+Three variables move a job within its band. Access comes first: a cleanout at grade makes a main line clearing routine, while a house without one means pulling a toilet or feeding a cable down a roof vent. Pipe material comes second. Third is the clock, and South Bay companies price the after-hours premium on top of the repair rather than inside it.
+
+### What Santa Clara Valley housing stock does to the bill
+
+This is an expensive labor market and the wage data says so: the May 2025 median for plumbers, pipefitters and steamfitters across the San Jose, Sunnyvale and Santa Clara metro area was $51.71 an hour, across 3,830 people in the trade. That is a wage, not a billing rate. The billing rate carries the truck, the parts, the coverage and the drive across a congested valley.
+
+Then there is what is buried in the houses. Pre-1960 tracts still hold galvanized supply lines that scale shut from the inside and cast iron drains a cable snags on. The 1960s and 1970s expansion put in soft copper that has now had six decades of hard groundwater through it, and copper thinned from the inside tends to fail again a few feet from where it was patched. That explains the gap between a spot repair and a repipe.
+
+### What the city adds once a permit is involved
+
+Emergency repair work is usually not permitted work. Replacements are. Swapping a water heater takes a permit, priced at $56 over the counter and nothing at all when pulled online, per the City of San Jose adopted fee schedule, Resolution RES2024-230. That same resolution prices plumbing permits adding no building area at the greater of the itemized fee or $315 per hour of actual review and inspection time. Connecting a single family or duplex lot to the city sewer carries its own $447 charge under 9,780 square feet, and $1,991 per acre above that.
+
+### Reading an estimate like somebody who has written one
+
+A usable estimate separates the trip charge from the repair and states in writing whether it is credited. On drain work it names the tool, the access point, and whether a camera run is included. On a water heater it lists make, model, capacity, whether the unit is included, and lines for seismic strapping, the expansion tank, vent work and the permit. On a sewer it states linear feet, depth, method, and who pays the connection fee.
+
+### The trap in this market
+
+The pressure here runs toward the largest version of the job. A single pinhole becomes a whole house repipe proposal on the first visit, before anyone has pressure tested the system. On sixty year old thin wall copper with a history of leaks that is often the right answer, but the decision deserves evidence: a pressure test, pipe wall thickness at the cut, and a count of prior repairs. The other pattern is jetting a line a camera would have shown needs replacing, which sells the same clog twice.
+
+### What the number found online leaves out
+
+National average pages price the pipe and the labor. They do not price cutting and patching a slab, the drywall work a repipe leaves behind, the permit and the inspection wait, disposal of an old tank, or the second fault the first was hiding. On an emergency call they also leave out the surcharge, which is why a two in the morning invoice feels like an ambush.

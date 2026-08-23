@@ -85,6 +85,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "criminal",
+  "table_head": "What Colorado forbids in a divorce fee, what it requires in writing, and what the court charges",
+  "col_a": "The item",
+  "col_b": "What the rule, statute or fee list sets",
+  "anchors": [
+   {
+    "label": "Fee contingent on securing the divorce",
+    "value": "Prohibited",
+    "detail": "No contingent fee agreement may be made in a domestic relations matter where payment turns on securing a divorce or on the amount of maintenance, child support, or property settlement in lieu of those amounts.",
+    "source_name": "Colo. RPC 1.5(c)(4)(ii)",
+    "source_url": "https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-15-Fees"
+   },
+   {
+    "label": "Petition for divorce, legal separation or annulment",
+    "value": "$260",
+    "detail": "Statutory filing fee published by the Colorado Judicial Branch under C.R.S. 13-32-101. A response is $146 and a petition for allocation of parental responsibilities is $252.",
+    "source_name": "Colorado Judicial Branch list of fees",
+    "source_url": "https://www.coloradojudicial.gov/self-help/list-fees"
+   },
+   {
+    "label": "Court-connected mediation, each party",
+    "value": "$75 per hour",
+    "detail": "The Office of Dispute Resolution charges each party that rate for mediation, case preparation and preparing the memorandum of understanding, and a neutral may collect a two-hour advance deposit.",
+    "source_name": "Colorado Judicial Branch ODR policies and procedures",
+    "source_url": "https://www.coloradojudicial.gov/court-services/mediation-services-and-other-dispute-resolution-options/odr-policies-and-procedures"
+   },
+   {
+    "label": "Order making one spouse pay the other's fees",
+    "value": "Available",
+    "detail": "After considering the financial resources of both parties, the court may order a party to pay a reasonable amount of the other party's fees and costs, including work done before filing or after judgment.",
+    "source_name": "C.R.S. 14-10-119",
+    "source_url": "https://law.justia.com/codes/colorado/title-14/dissolution-of-marriage-parental-responsibilities/article-10/section-14-10-119/"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "A fee tied to the outcome",
+    "share": "Prohibited, on two specific hooks",
+    "note": "The bar reaches payment contingent on securing the divorce and payment sized by the maintenance, support or property figure. It is not a bar on every arrangement in a family case.",
+    "source_name": "Colo. RPC 1.5(c)(4)(ii)",
+    "source_url": "https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-15-Fees"
+   },
+   {
+    "stage": "Collecting a past-due support balance",
+    "share": "Contingent fee allowed",
+    "note": "The comment to the rule states the prohibition does not preclude a contingent fee for recovering post-judgment balances due under support, maintenance or other financial orders.",
+    "source_name": "Colo. RPC 1.5, comment [6]",
+    "source_url": "https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-15-Fees"
+   },
+   {
+    "stage": "How the terms are set",
+    "share": "In writing, up front",
+    "note": "Paragraph (b) requires the basis or rate of the fee, the expenses the client owes, and the scope of the representation communicated in writing before or within a reasonable time after starting, and changes in writing too.",
+    "source_name": "Colo. RPC 1.5(b)",
+    "source_url": "https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-15-Fees"
+   },
+   {
+    "stage": "Money paid in advance",
+    "share": "Client property until earned",
+    "note": "Advances of unearned fees belong to the client and stay in trust until a benefit is conferred, and paragraph (g) prohibits nonrefundable fees and nonrefundable retainers.",
+    "source_name": "Colo. RPC 1.5(f)-(g)",
+    "source_url": "https://www.cobar.org/For-Members/Opinions-Rules-Statutes/Rules-of-Professional-Conduct/Rule-15-Fees"
+   },
+   {
+    "stage": "Court costs, start to finish",
+    "share": "$260 / $146 / $105",
+    "note": "Petition, response, and a motion to modify a decree or final order filed more than sixty days after it entered. Registering a foreign decree is $201.",
+    "source_name": "Colorado Judicial Branch list of fees",
+    "source_url": "https://www.coloradojudicial.gov/self-help/list-fees"
+   },
+   {
+    "stage": "Mediation before a contested hearing",
+    "share": "$75 per party, per hour",
+    "note": "Billed by the Office of Dispute Resolution with a possible two-hour deposit, and up to two hours chargeable for a late cancellation or a no-show. Private mediators set their own rates.",
+    "source_name": "Colorado Judicial Branch ODR policies and procedures",
+    "source_url": "https://www.coloradojudicial.gov/court-services/mediation-services-and-other-dispute-resolution-options/odr-policies-and-procedures"
+   }
+  ]
+ },
  "hero_accent": "Clear Terms for the Next Chapter",
  "trust_third": "Priorities, timelines, and options explained clearly",
  "services": [

@@ -207,3 +207,37 @@ Four folders make a Los Angeles bite easier to evaluate
 
 ## emergency_note
 If the wound is severe, bleeding will not stop, or you have urgent health concerns, seek emergency medical care first. Then make the bite report as soon as you reasonably can and retain the resulting record.
+
+## pricing_lede
+
+California asks whether a fee is unconscionable rather than whether it exceeds some set percentage, and the sections here lay out the thirteen factors that answer the question, the disclosures the Business and Professions Code forces into a contingency contract, and the amounts the Superior Court of Los Angeles County prints on its own civil fee schedule.
+
+## pricing_body
+
+### The California standard is unconscionability
+
+Rule 1.5(a) of the California Rules of Professional Conduct draws the outer boundary of any fee arrangement: it may be neither unconscionable nor illegal. Georgia and Nevada use the milder yardstick of reasonableness. California picked the harsher word and then supplied a long list of considerations that decide whether a given arrangement crosses it. Neither the rule nor any statute attaches a percentage to a claim brought against a dog's owner, so a figure printed on a retainer arrived there by negotiation and not by legislation.
+
+### Thirteen factors, and the ones that bite
+
+Rule 1.5(b) fixes the moment of judgment at the time the bargain was struck, unless the two of them expected later events to move the fee, and then names thirteen considerations. Some look at conduct: overreaching in arriving at the number, or keeping back facts the client needed. Some look at proportion: the size of the fee set beside what the representation was actually worth, and the sum at stake measured against the outcome delivered. Some look at the two people signing: how sophisticated each of them was, how long and how closely they had dealt with one another, and what standing, track record and ability counsel brought to it. The rest look at the shape of the work itself, meaning how novel and hard the questions were, whether taking it shut out other paying clients, what deadlines pressed on it, how many hours it swallowed, whether payment was a set sum or rode entirely on the result, and whether the client knowingly agreed to the terms after being told what they meant.
+
+### What section 6147 puts on the page
+
+Business and Professions Code section 6147 governs the contingency contract itself. The agreed rate has to appear in the document, and for any claim outside section 6146 the contract must carry express notice that no law fixes that rate and the client is free to bargain over it. That notice is the reason a first number is never binding on anybody. Subdivision (b) gives the requirement teeth: omit a required element and the plaintiff may void the whole agreement, dropping counsel to nothing more than a reasonable fee. Rule 1.5(c) separately bars a contingency in a family law matter tied to a dissolution or to support, and bars one for a criminal defendant.
+
+### The exception that does not reach a bite claim
+
+Section 6146 is California's only percentage ceiling in injury work, and it applies exclusively to claims against a health care provider based on professional negligence. There the maximum is 25 percent of the amount recovered where all parties execute a settlement and release before a complaint or arbitration demand is filed, and 33 percent where the recovery comes after filing. An attorney may move for more than 33 percent in a tried or arbitrated case on evidence of good cause. Amounts recovered are net of disbursements and costs, and the statute expressly refuses to let medical care costs or office overhead be deducted first. A claim against a dog's owner is a straightforward negligence and strict liability matter, so none of that schedule applies to it.
+
+### Stanley Mosk and the money the clerk collects
+
+The Superior Court of Los Angeles County publishes its civil fee schedule with the Government Code section beside each line. A complaint or other first paper in an unlimited civil case, meaning one seeking more than $35,000, is $435 under section 70611, and each responding party pays the same. Keeping a jury requires a nonrefundable advance jury fee of $150 under Code of Civil Procedure section 631(b), with later daily deposits of $15 plus mileage of thirty-four cents a mile one way for each juror. A court reporter's per diem runs $764 for a session of four hours or more, $382 for more than one hour but under four, and $30 for an hour or less under Government Code section 68086.
+
+### When a case is designated complex
+
+Government Code section 70616 adds a complex case designation fee of $1,000 paid once for all plaintiffs and $1,000 for each defendant, with the total for the case stopping at $18,000. Most single-dog bite claims never see that designation, but a matter involving a landlord, a property manager, a homeowners association and several insurers occasionally does. Because these amounts are costs advanced rather than fees earned, the contingency contract should state who fronts them, whether they come out of the recovery before or after the percentage is applied, and what happens to them if the claim fails.
+
+### The city's license amounts, and why records matter
+
+Los Angeles Municipal Code section 53.15.3 sets a dog license processing fee of $91.50, dropping to $16.50 for a spayed female, a neutered male, or a dog a veterinarian certifies cannot breed. Section 53.15 adds an annual license tax of $8.50 per dog over four months, or $3.50 for an altered dog, with a reduced rate available at half the altered tax for a qualifying owner aged sixty-two or older or receiving disability benefits. Payment later than forty-five days after the renewal date carries a late fee of 25 percent of the license cost, and field collection at the property where the dog is kept adds $25.00. Failing to license within forty-five days is a misdemeanor, and license and rabies records are ordinary evidence in a bite claim.

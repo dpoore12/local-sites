@@ -6,11 +6,11 @@
 
 - Write for this city. Every block must be unreusable on another site.
 - Never promise a phone consultation. Sell the work: what gets fixed, what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year in business. No tenant is signed, so none of it is true yet.
+- Never name a business, a license, a review count, a price or a year in business. No tenant is signed, so none of it is true yet.
 - PHASE 1: this site is home + about + contact only. No service pages.
 - Home page lands 1,700-3,200 visible words.
 - symptom_N blocks are 200-360 words each. In phase 1 the card IS the coverage of that problem, so give it the full explanation.
-- site.json needs 3 local_facts with a real source URL each, and 6 neighbourhoods, before this will build.
+- site.json needs 3 local_facts with a real source URL each, and 6 neighborhoods, before this will build.
 
 ---
 
@@ -289,3 +289,39 @@ Small details that make the repair visit go smoother
 ## emergency_note
 
 Do not stand beneath a door that is open, crooked or supported by only one side. Stop the opener, keep the area clear, and wait for a technician to secure it.
+
+## pricing_lede
+
+Here is what garage door work actually goes for in the Garland market, alongside the fees the city publishes for permitted work and the metro wage data that sets the labor floor. None of it is a quote from anyone.
+
+## pricing_body
+
+### One repair, two prices
+
+The bands above exist because a garage door is a system under tension, and the failure a homeowner notices is rarely the only thing worth checking. Take the most common call in this city: a door that will not lift. That symptom covers a broken spring, a cable off its drum, a burned-out opener gear, a dead outlet and a door that has racked itself in the tracks. Those are five different repairs with five different parts costs, and no one can tell them apart from the driveway.
+
+Where inside a band a job lands comes down to the door's weight, the age of the hardware around the failed part, and the hour of the day. A wide insulated double door needs heavier springs and heavier cable than a light single door on a Duck Creek bungalow. Twenty-year-old hinge bolts have to be cut instead of turned. And a Saturday evening call during a heat run is not the same labor as a Wednesday morning.
+
+### The Garland factor: power before parts
+
+This market has a wrinkle other suburbs do not. Garland Power and Light is the city's own municipal utility and serves roughly 85 percent of residents, so a dark opener has a local explanation that has nothing to do with the opener. After the storm of May 28, 2024, the city reported around 35,000 utility customers without power, with crews blocked from some streets until debris was cleared. A door that stopped working during or after an event like that may be looking at a powerless outlet, a tripped breaker or a control board that lost its programming when power returned.
+
+That is why the lowest-cost line in the table is a diagnostic visit on a dead opener. Confirming the circuit and checking the door's balance by hand comes before anybody talks about a new head. A homeowner can do the first part before calling: pull the release cord, lift the door manually to waist height and see whether it stays put. A door that slams down or shoots up is a spring problem, not an electrical one.
+
+### What the city charges when the door itself changes
+
+Hardware service on an existing door is not permitted work. Replacing the assembly is a construction project, and Garland's adopted fee schedule prices a single family repair or remodel permit at 41 cents per square foot of impacted area with a $50 minimum, plus a processing charge of 25 percent of the permit fee that is never less than $15. Failed inspections carry their own price: $50 for a single reinspection, $100 for a double, and $60 per hour with a $120 floor for anything scheduled outside business hours. Small numbers, but they belong on the estimate rather than appearing later.
+
+Labor sets the real floor. Median hourly pay in the catch-all installation and repair occupation across this metro was $21.84 in May 2025. A service truck carrying springs in four wire sizes, cable, drums, rollers, opener parts and the insurance to be on a residential property costs several times the wage per billable hour, and that multiple is the same for every legitimate company in the market.
+
+### Reading an estimate properly
+
+An itemized estimate separates the trip charge from the repair and states whether the first is credited against the second. It names the spring by wire diameter, inside diameter, length and cycle rating, and says clearly whether one spring or two are being replaced. On an opener it lists the drive type, the horsepower class, and whether the safety reversing sensors, the rail and the wall button are new or reused. On a section or a full door it names the manufacturer, the model, the gauge, the insulation value, the color and glass options, the disposal of the old material, and the permit line if the opening or the door assembly is changing.
+
+### The oversell, said plainly
+
+The dominant pattern here is storm-driven replacement. Garland took an EF4 tornado through the Sunnyvale corridor in December 2015 and has had significant wind and hail events since, so plenty of doors in this city wear a dent. A dented skin is cosmetic. What actually stops a door is bent track, a bowed reinforcement strut, shifted brackets, a stretched cable or rollers riding out of the rail, and every one of those is repairable at a fraction of a replacement. The second pattern is the outage call answered with a new opener. If the outlet is dead, the opener is fine.
+
+### What the number found online leaves out
+
+National cost pages price a door and a basic install. They do not include the Garland permit and its processing charge, the possibility of a reinspection, rebuilding wood jambs on a garage framed in the 1960s, a new header bracket, hauling the old sections away, or the wait on an ordered door in a color and window pattern that is not stocked. On a repair, they leave out the second fault that caused the first one. That is usually the difference between the middle of a range and the top of it.

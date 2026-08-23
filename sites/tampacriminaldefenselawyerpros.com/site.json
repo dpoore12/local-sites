@@ -79,6 +79,80 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "criminal",
+  "table_head": "What Florida law sets in a Hillsborough County criminal case, and what it forbids",
+  "col_a": "What it covers",
+  "col_b": "What Florida law sets",
+  "anchors": [
+   {
+    "label": "Application fee for court-appointed counsel",
+    "value": "$50",
+    "detail": "Anyone asking the Hillsborough Clerk to declare them indigent so a public defender can be appointed owes this fee on each application, due within seven days of filing it.",
+    "source_name": "Fla. Stat. 27.52(1)(b)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/27.52"
+   },
+   {
+    "label": "Statutory court costs on a felony conviction",
+    "value": "$225",
+    "detail": "Assessed as a cost in the case on a plea or a finding of guilt, on top of any fine. The same schedule sets $60 for a misdemeanor and $60 for a criminal traffic offense.",
+    "source_name": "Fla. Stat. 938.05(1)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/938.05"
+   },
+   {
+    "label": "Income line for public defender eligibility",
+    "value": "200%",
+    "detail": "The Clerk must find an applicant indigent when household income sits at or below 200 percent of the current federal poverty guideline for that household size.",
+    "source_name": "Fla. Stat. 27.52(2)(a)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/27.52"
+   },
+   {
+    "label": "Court costs, county or municipal ordinance prosecution",
+    "value": "$40",
+    "detail": "The Hillsborough Clerk's published fee list puts the misdemeanor-side court cost imposed on a non-prevailing party in a county or municipal prosecution at this figure.",
+    "source_name": "Hillsborough Clerk of Court fee list",
+    "source_url": "https://www.hillsclerk.com/About-Us/Fees-and-Fines"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "A defense fee tied to the outcome",
+    "share": "Not permitted",
+    "note": "Rule 4-1.5(f)(3)(B) forbids a lawyer from arranging for, charging, or collecting a contingency fee for representing a defendant in a criminal matter.",
+    "source_name": "Fla. Bar Rule 4-1.5(f)(3)(B)",
+    "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+   },
+   {
+    "stage": "Maximum fine, felony conviction",
+    "share": "$15,000 life · $10,000 first or second degree · $5,000 third degree",
+    "note": "Ceilings a judge cannot exceed unless another statute authorizes more or the amount doubles pecuniary gain or loss. A fine is separate from costs.",
+    "source_name": "Fla. Stat. 775.083(1)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/775.083"
+   },
+   {
+    "stage": "Maximum fine, misdemeanor conviction",
+    "share": "$1,000 first degree · $500 second degree",
+    "note": "Same statute, lower tiers. Second-degree ceiling also covers a noncriminal violation, and a withheld adjudication still counts as a conviction for it.",
+    "source_name": "Fla. Stat. 775.083(1)(d)-(e)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/775.083"
+   },
+   {
+    "stage": "Court-appointed counsel application fee",
+    "share": "$50",
+    "note": "Paid to the Clerk per application. Unpaid, it is assessed at sentencing or as a probation condition, and the first $50 of any money paid is applied to it.",
+    "source_name": "Fla. Stat. 27.52(1)(b)-(c)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/27.52"
+   },
+   {
+    "stage": "Attorney fee lien after a conviction with appointed counsel",
+    "share": "$100 felony minimum · $50 misdemeanor minimum",
+    "note": "A conviction after public defender representation carries a statutory fee judgment, imposed regardless of present ability to pay, and a court may set more on proof.",
+    "source_name": "Fla. Stat. 938.29(1)(a)",
+    "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/938.29"
+   }
+  ]
+ },
  "hero_accent": "Protect Your Rights at Every Stage",
  "trust_third": "Charges, evidence, and options reviewed clearly",
  "services": [

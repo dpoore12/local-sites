@@ -277,3 +277,43 @@ Details that help define the work without disturbing the area
 ## emergency_note
 
 Do not enter standing water near electricity, disturb material affected by sewage, or climb into a damaged attic or unsafe crawl space. For an immediate threat to people, call 911.
+
+## pricing_lede
+
+What mold testing and mold remediation actually cost in Colorado Springs, with the federal size thresholds that decide the method and the state disclosure duty that decides who has to say something. Published figures only, from other people's price pages.
+
+## pricing_body
+
+### The number that splits every job in two
+
+Square footage of visible growth, not the smell and not the anxiety, determines what happens next. Federal guidance in EPA mold cleanup in your home says that if the moldy area is less than about 10 square feet, roughly a three-foot by three-foot patch, in most cases a homeowner can handle it themselves with detergent, protective gear, and a fix to the water source. Above that, the same agency's guidance for larger buildings recommends limited containment between 10 and 100 square feet, and full containment above 100 square feet.
+
+Those thresholds are why the table jumps rather than climbs. Below 10 square feet somebody wipes, cuts a small patch of drywall, and dries the cavity. Between 10 and 100 square feet the job acquires poly sheeting, a negative air machine, HEPA filtration, and a decontamination path, all rented by the day. Above 100 square feet the air is exhausted outside, crews wear respirators, and removal becomes a demolition scope with a rebuild behind it. Nothing about the mold changed. The engineering controls did.
+
+### Dry air is why the bill arrives late here
+
+Colorado Springs averages near 16 inches of precipitation a year and outdoor humidity is genuinely low, which produces a false sense of safety. Mold here rarely announces itself on a wall surface. It sits somewhere wet for a reason unrelated to weather: a supply line weeping inside a wall, a water heater pan draining nowhere, a swamp cooler line, or snowmelt driven back under shingles at a north-facing eave. Interior air stays dry while the cavity behind the drywall stays damp for months.
+
+The consequence is financial. By the time growth is visible in a basement here, the affected area is often past 10 square feet and sometimes past 100, because nothing prompted a look sooner. That is why the inspection row matters more than it would in a humid climate.
+
+### There is no state license, so verify differently
+
+Colorado does not license or register mold remediation contractors. The most recent attempt to change that, House Bill 25-1202, the Mold Awareness and Registration Act, was lost in the 2025 session. Nothing has replaced it. Practically, that means a certificate on a van proves training from a private body, not state authorization, and there is no state board to complain to about workmanship.
+
+So verify what is checkable. Ask which written standard the work follows. Ask for the containment plan, the air machine count, and where exhaust goes. Ask whether the firm doing removal is also selling the clearance test, because independence is that test's entire value. Ask for liability coverage with a pollution or mold endorsement, since general policies often exclude this work.
+
+### The disclosure duty that surprises sellers
+
+Anyone selling a house here signs the state seller's property disclosure, form SPD19-6-23, mandatory since January 2024. It asks directly about moisture and water and about the presence of mold or other biological hazards, and the form itself warns that failing to disclose a known adverse material fact can carry legal liability. That changes the arithmetic on a small job. A documented remediation with a clearance test is an asset in a transaction file. An undocumented cleanup by a handyman is a known fact with no paperwork attached to it, which is the worst of both positions.
+
+### What a fair scope looks like on paper
+
+It names the source of water and who is fixing it, because remediation without that is a repainted problem. It states the affected area in square feet and the containment level chosen for it, which ties the price to the federal thresholds rather than to a hunch. It lists what material is being removed and how far past the visible edge cuts extend. It separates drying equipment by unit and by day. It says whether antimicrobial application, HEPA vacuuming, and air scrubbing are included. It puts the rebuild in its own section, because drywall, texture, paint, trim, and flooring are construction, not remediation, and pretending otherwise makes two very different prices look comparable.
+
+### Where the money gets wasted
+
+Fogging a chemical over growth still fed by an active leak. Ozone generators sold instead of removal. Whole-house air testing when one wall cavity is the question. And demolition wider than the moisture map justifies, which is easy to sell and impossible to argue with afterward.
+
+### Not included in any of these numbers
+
+The plumbing or roof repair that stopped the water. Rebuilding finishes. Contents that cannot be cleaned. Independent clearance testing bought separately. Utility cost while dehumidifiers run for days, billed at the residential rates Colorado Springs Utilities publishes. And time: containment, drying, lab turnaround, clearance, and rebuild run weeks.

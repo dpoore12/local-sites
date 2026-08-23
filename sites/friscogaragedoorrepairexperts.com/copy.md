@@ -271,3 +271,39 @@ What a complete garage-door repair visit covers
 ## emergency_note
 
 Do not stand beneath a door that is off track, held by a single cable, or unsupported after a spring failure. Keep people clear of the opening and do not try to reset springs or cables yourself.
+
+## pricing_lede
+
+This page lays out what garage door repairs and replacements actually cost in the Frisco market, what the city's own fee schedule adds on a replacement, and why a mostly new housing stock changes the arithmetic in both directions.
+
+## pricing_body
+
+### Two variables decide almost every number here
+
+Ask why one figure spans several hundred dollars and the honest answer has two parts: the part that failed, and the door it lives on. Springs are the clearest example. A single-car door on a starter home carries one lighter spring. A tall double door with insulated sections carries two heavier ones, and a three-car elevation may hold four springs across two doors that were installed on the same day and therefore tend to fail in the same year. Same repair name, very different parts bill.
+
+The second variable is what else the visit finds. Cables, drums, bearings, hinges and rollers all wear on the same cycle count as the springs. On a house where the whole assembly went in with the original construction, a spring failure at year nine is usually the first of several. A technician who replaces only the broken item and says nothing about a drum with a groove worn into it has handed the homeowner a second service call.
+
+### Why a young housing stock shifts the math
+
+Frisco is unusual, and it shows up in prices. The city's own comprehensive-plan work counts 58,574 single-family units, with about 39.6 percent built between 2000 and 2009, 31.2 percent between 2010 and 2019, and 11.4 percent in 2020 or later. Almost nothing here is a pre-war garage with three feet of headroom. That removes the expensive access problems that drive up repair labor in older cities: openings are standard, ceilings are framed for a rail, outlets exist where they should, and a truck can park in front of the door.
+
+What replaces that cost is uniformity of age. Whole streets went up inside the same eighteen months with the same builder package, which means the same springs, the same plastic opener gears and the same bearing plates reach end of life at roughly the same time. That is why a repair here is more often a hardware refresh than an emergency, and why the mid-range of the table above is where most Frisco invoices actually land.
+
+Labor still sets the floor. The May 2025 median hourly wage for general maintenance and repair workers in this metro is $23.49 across nearly 40,000 workers, and the billed rate on a service truck is a multiple of that once the vehicle, the spring stock in several wire sizes, insurance and the drive between Collin and Denton County addresses are covered.
+
+### The permit and the association
+
+Mechanical repair is not permitted work. Replacing the door usually is: the city lists replacement doors among its residential permit categories, and the consolidated fee schedule prices a window or door replacement permit at $75, rising by $25 per additional element to a $150 maximum. If the inspection has to happen outside the standard weekday window, the schedule sets that at $150. Those are modest amounts, and the reason to know them is that a quote which cannot name them probably has not thought about the filing at all.
+
+The larger local factor is not the city. Frisco has more than 200 homeowner associations, and a garage door on a front elevation is one of the most visible exterior changes on a house. Panel style, window layout and color often need association review before an order is placed. A door that has to be reordered because the carriage-style overlay was not approved is a delay measured in weeks, and it is the single most avoidable cost in a replacement project.
+
+### What a straight estimate contains
+
+The document should name the spring specification in full, meaning wire size, inside diameter, length and cycle rating. It should state whether the price covers one spring or the pair. On an opener it should list drive type, horsepower class, and whether safety eyes, the wall console and the rail are new. On a door it should give the manufacturer, model, gauge, insulation value, glass option, color, the permit line, association paperwork if the neighborhood requires it, disposal of the old sections, and a delivery window rather than a vague promise. Anything left as a lump sum on a replacement quote is the line most likely to reappear as an extra.
+
+### Where the money leaks in this market
+
+The pattern to watch is the ten-year package pitch. Because so many homes here hit the same age at the same time, a routine spring or roller call easily becomes a proposal for springs, cables, rollers, bearings, a new opener and a smart hub all in one visit. Some of that may genuinely be due. The question worth asking out loud is which items are failing now, which are preventive, and what each one costs on its own. A technician who will separate the two lists is being straight; one who only quotes the bundle is selling.
+
+The other leak is paying for a cosmetic problem as if it were a mechanical one. Hail has reached two inches in this city, and a bruised skin does not stop a door. Bent track, a bowed strut, shifted brackets and rollers out of the rail do, and those are the items worth checking before anybody talks about replacing sections.

@@ -334,3 +334,38 @@ Pick the job that matches what the door is doing
 
 Not what your door is doing?
 
+## pricing_lede
+
+What garage door repair and replacement actually costs across Naperville, with the city's published permit and inspection charges, the metro wage data behind the labor rate, and the reasons a DuPage County garage lands where it does inside each range.
+
+## pricing_body
+
+### A range is not vagueness
+
+Every figure in that table is a band because three things are unknown until somebody looks at the door. Which component failed is the first. Second is the door's weight and width, since a wide insulated double door needs heavier springs, heavier cable and stronger hardware than a light single door on a 1960s garage. Third is what shape the rest of the assembly is in, and that is where Naperville differs from a newer suburb.
+
+The city's median home dates to 1989, but the garage stock spans about six decades. Cress Creek was platted in the 1960s and holds well over a thousand residences. Ashbury filled in during the early and middle 1990s off 95th Street. The Historic District east of downtown is older still. Doors from the 1960s and 1970s are frequently one-piece or extension-spring systems with very little headroom above the opening, while anything built from the 1990s onward is almost certainly sectional steel on a torsion bar. Those two systems need different parts, different tools and different amounts of time, which is why the same phone complaint produces two different prices depending on the address.
+
+### Why this market prices above the national average
+
+Labor. The May 2025 median hourly wage for carpenters across the Chicago-Naperville-Elgin metro is $38.68, against roughly $23 for the same occupation in the large Texas metros. Once a service vehicle, insurance, a stocked spring inventory and drive time are added, the billed hour follows that wage upward. Nothing about the parts is regional; the hours are.
+
+Climate does the rest. Freeze and thaw cycles, road salt carried in on tires and slush standing against the bottom section attack exactly the components that carry the door: cable, bearings, hinge pins and the bottom brackets. A spring rated for 10,000 cycles in a mild climate reaches its end sooner here, and a rusted hinge fastener that has to be cut out rather than unscrewed is quiet, invisible labor time that shows up in the invoice.
+
+### What the city charges, and what it does not
+
+The distinction matters. Naperville's building permit guidance requires a permit when a door replacement alters the size or style of the opening or puts a door in a new location. A straight like-for-like swap is not on the permit-required list, and a spring, cable, roller or opener repair is service on an existing door rather than a replacement. When a permit does apply, the residential fee schedule adopted under Ordinance 18-145 charges an $18 clerical fee plus $25 per plan page for miscellaneous residential permits, with $50 for the inspection and $68 for any reinspection, payable before the return visit is booked. Anyone proposing a wider opening, a taller door or added glass should be describing that filing as part of the timeline. Confirm the specific scope with the city before ordering, because the fee is trivial next to the delay of discovering the requirement afterward.
+
+### Testing a quote before signing it
+
+Ask for the spring specification written out: wire diameter, inside diameter, overall length, and cycle rating. A 25,000-cycle spring costs more than a 10,000-cycle spring and lasts proportionally longer, so the rating is a price factor rather than a detail. Confirm whether the number covers both springs, because a shaft with one new spring and one original is half repaired. On an opener, look for the drive type, the horsepower class, whether battery backup is included, and whether the safety reversing sensors and wall control are new hardware or the old ones reused.
+
+On a replacement, the paperwork should name the manufacturer and model, the gauge of the steel, the insulation value, the window and hardware options, the color, the permit if one applies, jamb and header repair if the framing needs it, removal and disposal of the old door, and a realistic delivery date. Insulated doors in a chosen color are built to order, not pulled from a shelf.
+
+### The traps worth naming
+
+First, the winter emergency upgrade. A spring breaks on the coldest morning of the year with a car trapped inside, and the visit turns into a proposal for a complete new door and opener while the homeowner is standing in the cold. A broken spring on a sound door is a hardware repair, and it stays a hardware repair no matter what the temperature is.
+
+Second, storm damage misread. After the August 2026 derecho that the Weather Service recorded across northern Illinois, a great many doors in this area had visible dents. The dent is not the failure. Bent track, a bowed reinforcement strut and rollers knocked out of the rail are the failure, and correcting those is a fraction of what replacing sections costs.
+
+Third, what the online average omits: the permit and inspection charges when the opening changes, an extension-to-torsion conversion on an older garage, rebuilt wood jambs, a low-headroom kit, and the lead time on an ordered door in the weeks after a regional wind event.

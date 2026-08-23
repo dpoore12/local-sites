@@ -1,141 +1,301 @@
 {
- "domain": "waterdamageaustinco.com",
- "phase": 1,
- "brand": "Austin Water Damage Restoration Pros",
- "service": "Water Damage Restoration",
- "service_inline": "water damage restoration",
- "city": "Austin",
- "state": "TX",
- "state_full": "Texas",
- "counties": [
-  "Hays",
-  "Travis",
-  "Williamson"
- ],
- "area_codes": [
-  "512",
-  "737"
- ],
- "phone_display": "(512) 566-1943",
- "phone_tel": "+15125661943",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "floodpro_mapping",
-   "claim": "Austin Watershed Protection's FloodPro shows floodplain maps, storm-drain systems, models, and elevation certificates; the city says about 10% of Austin land lies in floodplain.",
-   "why_it_matters": "A restoration visit must separate outdoor flooding and drainage exposure from an internal plumbing failure, then document the source and affected areas before drying decisions are made.",
-   "sources": [
-    "https://www.austintexas.gov/services/view-floodplain-maps-and-storm-drain-infrastructure",
-    "https://www.austintexas.gov/watershed-protection/atx-flood-safety"
-   ],
-   "verified": "2026-08-22",
-   "title": "Floodplain and storm-drain information is address-specific"
+  "domain": "waterdamageaustinco.com",
+  "phase": 1,
+  "brand": "Austin Water Damage Restoration Pros",
+  "service": "Water Damage Restoration",
+  "service_inline": "water damage restoration",
+  "city": "Austin",
+  "state": "TX",
+  "state_full": "Texas",
+  "counties": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "area_codes": [
+    "512",
+    "737"
+  ],
+  "phone_display": "(512) 566-1943",
+  "phone_tel": "+15125661943",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "halloween_flood_2013",
-   "claim": "During Austin's October 31, 2013 Halloween Flood, Onion Creek at US 183 reached a record 41 feet and rose 11 feet in 15 minutes; 659 homes in the Onion Creek neighborhood were damaged.",
-   "why_it_matters": "Flash-flood water can arrive and spread fast, so outdoor water is treated as potentially contaminated and removal, cleaning, containment, and drying begin as soon as access is safe.",
-   "sources": [
-    "https://data.austintexas.gov/stories/s/2013-Halloween-Flood/fr92-dkxr/"
-   ],
-   "verified": "2026-08-22",
-   "title": "Onion Creek rose 11 feet in 15 minutes in 2013"
+  "local_facts": [
+    {
+      "id": "floodpro_mapping",
+      "claim": "Austin Watershed Protection's FloodPro shows floodplain maps, storm-drain systems, models, and elevation certificates; the city says about 10% of Austin land lies in floodplain.",
+      "why_it_matters": "A restoration visit must separate outdoor flooding and drainage exposure from an internal plumbing failure, then document the source and affected areas before drying decisions are made.",
+      "sources": [
+        "https://www.austintexas.gov/services/view-floodplain-maps-and-storm-drain-infrastructure",
+        "https://www.austintexas.gov/watershed-protection/atx-flood-safety"
+      ],
+      "verified": "2026-08-22",
+      "title": "Floodplain and storm-drain information is address-specific"
+    },
+    {
+      "id": "halloween_flood_2013",
+      "claim": "During Austin's October 31, 2013 Halloween Flood, Onion Creek at US 183 reached a record 41 feet and rose 11 feet in 15 minutes; 659 homes in the Onion Creek neighborhood were damaged.",
+      "why_it_matters": "Flash-flood water can arrive and spread fast, so outdoor water is treated as potentially contaminated and removal, cleaning, containment, and drying begin as soon as access is safe.",
+      "sources": [
+        "https://data.austintexas.gov/stories/s/2013-Halloween-Flood/fr92-dkxr/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Onion Creek rose 11 feet in 15 minutes in 2013"
+    },
+    {
+      "id": "creek_floodplain_exposure",
+      "claim": "Austin Watershed Protection reports more than 9,000 buildings in the city's 100-year floodplain and more than 300 bridges subject to flooding.",
+      "why_it_matters": "Creek and floodplain exposure is a local reality. A clear record of where water entered helps distinguish flood damage from a burst pipe and guides safe restoration scope.",
+      "sources": [
+        "https://www.austintexas.gov/watershed-protection/projects/creek-flooding"
+      ],
+      "verified": "2026-08-22",
+      "title": "Creek-flood exposure is part of Austin restoration planning"
+    }
+  ],
+  "neighborhoods": [
+    "Zilker",
+    "Mueller",
+    "Hyde Park",
+    "Allandale",
+    "East Cesar Chavez",
+    "Onion Creek"
+  ],
+  "symptoms": [
+    "standing_water",
+    "flooded_basement",
+    "sewage_backup",
+    "water_soaked_walls"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "creek_floodplain_exposure",
-   "claim": "Austin Watershed Protection reports more than 9,000 buildings in the city's 100-year floodplain and more than 300 bridges subject to flooding.",
-   "why_it_matters": "Creek and floodplain exposure is a local reality. A clear record of where water entered helps distinguish flood damage from a burst pipe and guides safe restoration scope.",
-   "sources": [
-    "https://www.austintexas.gov/watershed-protection/projects/creek-flooding"
-   ],
-   "verified": "2026-08-22",
-   "title": "Creek-flood exposure is part of Austin restoration planning"
+  "hero_accent": "Water Removed, Damage Controlled Today",
+  "trust_third": "Restoration scope and price explained first",
+  "services": [
+    {
+      "slug": "water-extraction",
+      "name": "Water Extraction",
+      "nav": "Water extraction",
+      "h1": "Water Extraction",
+      "accent": "Standing Water Removed Fast",
+      "keyword": "water extraction",
+      "icon": "drop"
+    },
+    {
+      "slug": "flood-damage-restoration",
+      "name": "Flood Damage Restoration",
+      "nav": "Flood restoration",
+      "h1": "Flood Damage Restoration",
+      "accent": "Flood Damage Dried and Restored",
+      "keyword": "flood damage restoration",
+      "icon": "warn"
+    },
+    {
+      "slug": "basement-water-damage-restoration",
+      "name": "Basement Water Damage Restoration",
+      "nav": "Basement damage",
+      "h1": "Basement Water Damage Restoration",
+      "accent": "Basement Dried Before Mold Takes Hold",
+      "keyword": "basement water damage restoration",
+      "icon": "house"
+    },
+    {
+      "slug": "sewage-cleanup",
+      "name": "Sewage Cleanup",
+      "nav": "Sewage cleanup",
+      "h1": "Sewage Cleanup",
+      "accent": "Contaminated Water Removed Safely",
+      "keyword": "sewage cleanup",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "water-extraction",
+    "basement-water-damage-restoration",
+    "sewage-cleanup",
+    "flood-damage-restoration"
+  ],
+  "_market": {
+    "keyword": "water damage restoration austin texas",
+    "monthly_price": 800,
+    "score": 71,
+    "volume": 200,
+    "cpc_usd": 55.0,
+    "weakest_competitor": "americanwaterdamage.com",
+    "competitor_dr": 7.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Austin mitigation and drying ranges, loss by loss",
+    "anchors": [
+      {
+        "label": "Water categories under the industry standard",
+        "value": "Category 3",
+        "detail": "The consensus standard is ANSI/IICRC S500, Standard for Professional Water Damage Restoration, fifth edition, 2021. Its Category 3 definition covers grossly contaminated water including sewage, wasteline backflows originating beyond a trap, and rising water from rivers or streams. The standard body also states that wind-driven rain is not automatically Category 3.",
+        "source_name": "ANSI/IICRC S500 fifth edition, category position statement",
+        "source_url": "https://iicrc.org/wp-content/uploads/2026/04/Weather-Related-Position-Statement_2026.pdf"
+      },
+      {
+        "label": "City residential plumbing permit",
+        "value": "$200.43",
+        "detail": "The fiscal year 2026 homeowner permitting schedule lists a plumbing permit at $200.43, up from $184.70, and applies the same figure to common residential building permits and small projects. The schedule took effect October 1, 2025.",
+        "source_name": "City of Austin homeowner permitting fees, fiscal year 2026",
+        "source_url": "https://services.austintexas.gov/budget/cbq/index.cfm?action=pushFile&popup=true&FILE_ID=2050CEDEC9"
+      },
+      {
+        "label": "Utility leak bill adjustment window",
+        "value": "90 days",
+        "detail": "Austin Water offers a leak adjustment under City of Austin Code section 15-9-141 and asks for the request within 90 days of repairing the leak, with the paid repair invoice, account number, service address and date range of the high bills.",
+        "source_name": "Austin Water high water bill options",
+        "source_url": "https://www.austintexas.gov/water/high-water-bill-options"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Clean-water loss dried out, roughly 500 square feet affected",
+        "low": 1500,
+        "high": 4000,
+        "basis": "posted at $3.00 to $8.00 per square foot of affected area, multiplied by a 500 square foot footprint",
+        "note": "A supply line caught the same day is the least expensive version of this job.",
+        "sources": [
+          {
+            "name": "Texas Certified Restoration, Austin, posted per-square-foot prices, read 2026-08-23",
+            "url": "https://www.texascertifiedrestoration.com/blogs/austin-water-damage-repair-costs-pricing-breakdown-by-square-foot"
+          },
+          {
+            "name": "PuroClean, Austin, posted per-square-foot prices, read 2026-08-23",
+            "url": "https://www.puroclean.com/hutto-manor-tx/blog/how-much-does-it-cost-to-fix-water-damage-in-the-greater-austin-area/"
+          },
+          {
+            "name": "The Steam Team, Austin, posted restoration cost page, read 2026-08-23",
+            "url": "https://www.thesteamteam.com/water-damage-restoration-cost"
+          }
+        ]
+      },
+      {
+        "job": "Gray-water loss from an appliance or fixture overflow, same 500 square feet",
+        "low": 2000,
+        "high": 3575,
+        "basis": "posted at $4.00 to $6.50 per square foot across 500 square feet, then a stated 10 percent contamination markup applied to the high end",
+        "note": "Arithmetic shown: 500 by $4.00 is $2,000, and 500 by $6.50 plus ten percent is $3,575.",
+        "sources": [
+          {
+            "name": "Texas Certified Restoration, Austin, posted gray water pricing and markup, read 2026-08-23",
+            "url": "https://www.texascertifiedrestoration.com/blogs/austin-water-damage-repair-costs-pricing-breakdown-by-square-foot"
+          },
+          {
+            "name": "PuroClean, Austin, posted gray water prices, read 2026-08-23",
+            "url": "https://www.puroclean.com/hutto-manor-tx/blog/how-much-does-it-cost-to-fix-water-damage-in-the-greater-austin-area/"
+          }
+        ]
+      },
+      {
+        "job": "Sewage backup cleaned, sanitized and contaminated material removed",
+        "low": 1200,
+        "high": 10000,
+        "basis": "per job; the per-square-foot route posts $7.00 to $7.50 plus a 20 percent markup, which totals $3,500 to $4,500 across 500 square feet",
+        "note": "One company posts larger sewage jobs beginning near ten thousand, which sets the ceiling here.",
+        "sources": [
+          {
+            "name": "Capital City Water Repair Pros, Austin, posted sewage cleanup range, read 2026-08-23",
+            "url": "https://capitalcitywaterrepairpros.com/sewage-backup-cleanup-sanitation/"
+          },
+          {
+            "name": "Penny's Restoration, Austin, posted sewage removal figures, read 2026-08-23",
+            "url": "https://www.pennysrestoration.com/services/sewage-removal"
+          },
+          {
+            "name": "Texas Certified Restoration, Austin, posted black water pricing and markup, read 2026-08-23",
+            "url": "https://www.texascertifiedrestoration.com/blogs/austin-water-damage-repair-costs-pricing-breakdown-by-square-foot"
+          },
+          {
+            "name": "PuroClean, Austin, posted black water prices, read 2026-08-23",
+            "url": "https://www.puroclean.com/hutto-manor-tx/blog/how-much-does-it-cost-to-fix-water-damage-in-the-greater-austin-area/"
+          }
+        ]
+      },
+      {
+        "job": "Standing water extracted and one room dried, under 200 square feet",
+        "low": 500,
+        "high": 2500,
+        "basis": "flat per job for extraction and a short dry-down, no material replacement included",
+        "note": "Extraction alone is not restoration. Trapped moisture in wall cavities is what the follow-up visit finds.",
+        "sources": [
+          {
+            "name": "Able Water Damage, Austin, posted extraction and cleanup figures, read 2026-08-23",
+            "url": "https://ablewaterdamage.net/services/flooded-basement-clean-up"
+          },
+          {
+            "name": "Texas Certified Restoration, Austin, posted small project pricing, read 2026-08-23",
+            "url": "https://www.texascertifiedrestoration.com/blogs/austin-water-damage-repair-costs-pricing-breakdown-by-square-foot"
+          }
+        ]
+      },
+      {
+        "job": "Drying equipment on site: three air movers and one refrigerant dehumidifier, four days",
+        "low": 448,
+        "high": 1031,
+        "basis": "daily rental rates totaled over four days plus posted setup and breakdown; low is 3 by $18 plus $58 for four days plus $65, high is 3 by $32 plus $118 for four days plus $175",
+        "note": "Equipment days are billed separately from labor, so a longer dry-down shows up as its own line.",
+        "sources": [
+          {
+            "name": "Premier Restoration, Central Texas, posted equipment rental rates, read 2026-08-23",
+            "url": "https://www.premieratx.com/rentals/"
+          },
+          {
+            "name": "All Nation Restoration, Austin, posted equipment rental rates, read 2026-08-23",
+            "url": "https://www.allnationrestoration.com/water-damage-equipment-rentals/"
+          }
+        ]
+      },
+      {
+        "job": "Multi-room mitigation across 200 to 800 square feet, structural drying included",
+        "low": 1200,
+        "high": 7000,
+        "basis": "flat per project; includes extraction, containment, drying and monitoring, and excludes finish rebuild",
+        "note": "Hardwood and laminate push the top of this range because both dry slowly or not at all.",
+        "sources": [
+          {
+            "name": "Texas Certified Restoration, Austin, posted medium project pricing, read 2026-08-23",
+            "url": "https://www.texascertifiedrestoration.com/blogs/austin-water-damage-repair-costs-pricing-breakdown-by-square-foot"
+          },
+          {
+            "name": "The Steam Team, Austin, posted restoration cost page, read 2026-08-23",
+            "url": "https://www.thesteamteam.com/water-damage-restoration-cost"
+          }
+        ]
+      },
+      {
+        "job": "Rebuild after the dry-out: demolition, drywall, flooring, trim and paint",
+        "low": 3000,
+        "high": 30000,
+        "basis": "flat per project, priced after the space is dry, single room at the low end and several rooms at the high end",
+        "note": "This is a second contract, not part of mitigation, and it begins only after moisture readings clear.",
+        "sources": [
+          {
+            "name": "Bailey and Bear Construction, Austin, posted rebuild cost ranges, read 2026-08-23",
+            "url": "https://baileybearconstruction.com/water-damage-rebuild-austin-tx/"
+          },
+          {
+            "name": "Able Water Damage, Austin, posted full restoration range, read 2026-08-23",
+            "url": "https://ablewaterdamage.net/services/flooded-basement-clean-up"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Zilker",
-  "Mueller",
-  "Hyde Park",
-  "Allandale",
-  "East Cesar Chavez",
-  "Onion Creek"
- ],
- "symptoms": [
-  "standing_water",
-  "flooded_basement",
-  "sewage_backup",
-  "water_soaked_walls"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Water Removed, Damage Controlled Today",
- "trust_third": "Restoration scope and price explained first",
- "services": [
-  {
-   "slug": "water-extraction",
-   "name": "Water Extraction",
-   "nav": "Water extraction",
-   "h1": "Water Extraction",
-   "accent": "Standing Water Removed Fast",
-   "keyword": "water extraction",
-   "icon": "drop"
-  },
-  {
-   "slug": "flood-damage-restoration",
-   "name": "Flood Damage Restoration",
-   "nav": "Flood restoration",
-   "h1": "Flood Damage Restoration",
-   "accent": "Flood Damage Dried and Restored",
-   "keyword": "flood damage restoration",
-   "icon": "warn"
-  },
-  {
-   "slug": "basement-water-damage-restoration",
-   "name": "Basement Water Damage Restoration",
-   "nav": "Basement damage",
-   "h1": "Basement Water Damage Restoration",
-   "accent": "Basement Dried Before Mold Takes Hold",
-   "keyword": "basement water damage restoration",
-   "icon": "house"
-  },
-  {
-   "slug": "sewage-cleanup",
-   "name": "Sewage Cleanup",
-   "nav": "Sewage cleanup",
-   "h1": "Sewage Cleanup",
-   "accent": "Contaminated Water Removed Safely",
-   "keyword": "sewage cleanup",
-   "icon": "warn"
-  }
- ],
- "symptom_service": [
-  "water-extraction",
-  "basement-water-damage-restoration",
-  "sewage-cleanup",
-  "flood-damage-restoration"
- ],
- "_market": {
-  "keyword": "water damage restoration austin texas",
-  "monthly_price": 800,
-  "score": 71,
-  "volume": 200,
-  "cpc_usd": 55.0,
-  "weakest_competitor": "americanwaterdamage.com",
-  "competitor_dr": 7.0
- }
 }

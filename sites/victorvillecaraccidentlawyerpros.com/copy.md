@@ -269,3 +269,45 @@ The details that keep a claim from becoming a guessing game
 ## emergency_note
 
 If anyone may be seriously hurt, call 911. Get medical care for urgent symptoms, move out of traffic only when it is safe, and do not return to an active freeway lane for photographs or documents.
+
+## pricing_lede
+
+Filing a civil case in San Bernardino County costs more than filing the same case almost anywhere else in California, and the reason is printed in the court's own fee schedule. What a fee taken out of a recovery may be is a separate question, and the State Bar rules answer it with a standard rather than a rate.
+
+## pricing_body
+
+### The county surcharge is real, and it is in the appendix
+
+Most California civil filing fees are uniform statewide. Three counties are carved out, and San Bernardino is one of them: a local courthouse construction surcharge of $35 is added to first-paper filings. The court's published schedule shows the arithmetic. A limited civil complaint pleading up to $10,000 costs $240 here instead of the statewide $225. A limited civil complaint pleading over $10,000 and up to $35,000 costs $380 instead of $370. In the unlimited tier the surcharge is offset, so a complaint pleading more than $35,000 costs $435, matching the rest of the state.
+
+Those are not large sums against an injury claim, but they show something useful: the numbers attached to a courthouse are published, checkable, and identical for every person who walks in. The numbers attached to a lawyer are not published anywhere, because no California authority publishes them.
+
+### The rule that governs a fee sets a standard, not a rate
+
+Rule 1.5 of the California Rules of Professional Conduct prohibits making an agreement for, charging, or collecting an unconscionable or illegal fee. Then it lists thirteen factors that decide whether a fee crossed that line, judged on the circumstances existing when the agreement was made: overreaching in the negotiation, failure to disclose material facts, the fee measured against the value of the services performed, the relative sophistication of lawyer and client, the difficulty of the questions, whether taking the matter cost the lawyer other work, the sum at stake and the outcome reached, deadlines imposed, the history between the two, the lawyer's experience and ability, whether the fee is fixed or contingent, the time and labor put in, and whether the client gave informed consent.
+
+Nowhere in that list is a number. Anybody who tells a High Desert reader that California limits an auto injury fee to a specific percentage is describing a different statute, and the next section says which one.
+
+### Section 6146 is the malpractice rule, and only the malpractice rule
+
+Business and Professions Code section 6146 does cap percentages. Where a patient sues a health care provider for professional negligence, the fee is held to twenty-five percent of what is recovered if the case ends in a settlement and release before any complaint or arbitration demand goes on file, and thirty-three percent if it ends later; anything beyond that requires a motion granted for good cause. "Recovered" is defined as the net after disbursements and costs, and neither the patient's treatment bills nor the lawyer's overhead may be counted among those deductions.
+
+None of that governs a collision at Bear Valley Road, a truck merging off Interstate 15, or a driver hit at the D Street crossing. Those are ordinary negligence claims, outside section 6146 entirely.
+
+### What section 6147 forces into the contract
+
+Since the rate is negotiated, the statute regulates the paper. Section 6147(a) requires a written contract signed by both sides, with a duplicate signed copy given to the plaintiff at signing, stating the agreed rate, how disbursements and costs affect the fee and the recovery, and what compensation might be owed for related matters outside the contract. Unless the claim falls under section 6146, the contract must also carry the statement that no law fixes the fee and that it is negotiable between the two of them. Under section 6147(b), missing any of that makes the agreement voidable at the plaintiff's option, leaving the lawyer entitled only to a reasonable fee.
+
+### Distance is what makes a High Desert file expensive
+
+Cost, not fee, is where geography shows up. Records come from providers spread between Victorville, Apple Valley, Hesperia and the hospitals down the Cajon Pass. Defense depositions of a commercial driver or a corporate representative are often set in San Bernardino or in Los Angeles County, which turns a deposition into a travel day plus a transcript. Retained experts on collision reconstruction and future care bill by the hour regardless of where the crash happened.
+
+Code of Civil Procedure section 1033.5 decides which of those a winning party can shift to the other side. Recoverable: filing, motion and jury fees, deposition taking, transcription and travel, service of process, court-ordered expert fees, statutory reporter fees. Not recoverable, absent express authority: experts the court never appointed, investigation expenses in preparing for trial, postage, telephone and photocopying outside exhibits. A file can therefore be won and still carry costs nobody reimburses, which is exactly why the contract has to say who advanced them and how they come out.
+
+### The reimbursement claim that arrives after the settlement
+
+Civil Code section 3040 caps a managed-care or medical-group reimbursement lien at what the plan actually paid providers, and where the injured person engaged a lawyer it caps the lien again at one-third of the money due under the judgment or settlement. The lien reduces pro rata for the attorney fees and costs that created the fund, and reduces by the same comparative-fault share the recovery was reduced by. Hospital liens, Medi-Cal recovery and workers' compensation reimbursement are governed by different statutes, so a person who received care through more than one system should expect more than one set of rules.
+
+### Three questions the paperwork should answer without being asked
+
+Whether the percentage changes if a complaint is filed. Whether costs come off before or after the fee is computed. Who carries the cost of an out-of-county deposition and a reconstruction expert if the case gets there. Those answers belong in the signed contract, in writing, before anything is filed at the Victorville courthouse.

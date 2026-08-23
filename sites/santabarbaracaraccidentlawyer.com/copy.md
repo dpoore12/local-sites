@@ -208,3 +208,41 @@ Four things worth gathering after a Santa Barbara crash
 
 ## emergency_note
 If anyone needs urgent medical help or the roadway is unsafe, call 911 first. Then preserve the report number, original images, and insurance information without putting yourself in danger.
+
+## pricing_lede
+
+Two different systems set numbers in a Santa Barbara injury claim: the State Bar rules, which control how a fee is judged without ever naming a percentage, and the Superior Court's published fee schedule, which prices every filing to the dollar. This page separates them.
+
+## pricing_body
+
+### Start with the court's schedule, because those figures are exact
+
+The Superior Court of California, County of Santa Barbara publishes the civil fee schedule it charges by, and the amounts in it do not move with the facts of a case. Opening an unlimited civil case -- any complaint pleading more than $35,000 -- costs $435, and each other party pays $435 on its first paper. Every subsequent paper that requires a hearing costs $60: discovery motions, a motion to continue trial, a motion for new trial, an ex parte application that requires notice. A summary judgment or summary adjudication motion costs $500. Reporting a proceeding of an hour or less costs $30. Preserving the right to a jury costs $150 in advance, nonrefundable, and if it is not paid the jury is waived. Processing a change of venue costs $50. A complex designation adds $1,000 for the plaintiff side and $1,000 for each defendant, to a ceiling of $18,000.
+
+Nothing local inflates those numbers here. The statewide schedule carries a courthouse construction surcharge in only three counties, and Santa Barbara is not one of them, so a case opened in the Anacapa Street courthouse and a case opened in Santa Maria are priced identically.
+
+### Now the fee, where California prints no figure at all
+
+The temptation is to assume the state also fixes a percentage. It does not. Rule 1.5(a) of the California Rules of Professional Conduct forbids making an agreement for, charging, or collecting an unconscionable or illegal fee, and stops there. Rule 1.5(b) then tells anyone reviewing that fee what to weigh: whether there was fraud or overreaching in negotiating it, whether material facts were left undisclosed, the fee in proportion to the value of the services performed, how sophisticated each side was, the novelty and difficulty of the questions, whether the engagement closed off other work, the amount at stake and the result obtained, the time pressure, the length of the relationship, the experience and ability of the lawyers, whether the fee is fixed or contingent, the time and labor required, and whether the client gave informed consent.
+
+That is a standard, not a cap, and it is applied on the facts as they stood when the agreement was signed unless both sides expected later events to affect the fee.
+
+### The exception, kept in its box
+
+California does cap a contingency percentage in one category of case. Business and Professions Code section 6146 limits the fee in an action against a health care provider based on professional negligence to twenty-five percent of the amount recovered if the matter settles before a civil complaint or arbitration demand is filed, and thirty-three percent afterwards, with more available only if a court or arbitrator finds good cause on a motion. The statute measures the percentage against the net sum recovered after costs, and expressly refuses to let the plaintiff's own medical expenses or a lawyer's overhead be treated as deductible costs.
+
+Section 6146 applies to malpractice. It does not reach a collision on the 101 through Montecito, a driver rear-ended at a Milpas Street light, or a cyclist struck on the Mesa. Seeing those percentages quoted for a crash claim is a signal that whoever wrote the page did not check the statute.
+
+### Section 6147, and why the contract is the document that matters
+
+Because the state sets no rate, the contract is where the rate lives, and section 6147 controls its contents. It must be in writing, signed by both attorney and client, and the plaintiff must receive a duplicate signed copy at the time it is entered into. It must state the agreed rate. It must state how disbursements and costs affect the fee and the client's recovery. It must state what the client might owe for related matters outside the contract. And in any case not governed by section 6146 it must say that the fee is not set by law but is negotiable. Failure on any of those points makes the agreement voidable at the plaintiff's election, leaving the lawyer with a reasonable fee determined elsewhere.
+
+If an outside firm is brought in, rule 1.5.1 adds three conditions: a written agreement between the lawyers, the client's written consent after full disclosure of who is splitting the fee and on what terms, and no increase in the total fee because of the split.
+
+### What a recovery gets reduced by before anyone sees it
+
+Court fees are the small end. The larger deductions in a Santa Barbara injury file tend to be deposition transcripts, medical records, treating-physician testimony, and any retained expert on biomechanics or future care. Code of Civil Procedure section 1033.5 lists what a prevailing party can recover from the other side -- filing, motion and jury fees, depositions and travel to them, service of process, court-ordered experts, statutory reporter fees -- and lists what it cannot, including experts the court did not order, investigation expenses, and photocopying outside exhibits. Reimbursement claims from a health plan then run under Civil Code section 3040, which caps a plan lien at one-third of the money due where the injured person engaged counsel and requires pro rata reduction for the fees and costs that created the fund.
+
+### The practical read
+
+A fee is negotiable in this state, and the statute requires the contract to say so. Costs are separate from the fee, and the contract has to say how they interact. The court's own numbers are published, so any figure attributed to the courthouse can be checked in an afternoon. Everything else is a matter for the written agreement between an injured person and the lawyer that person chooses.

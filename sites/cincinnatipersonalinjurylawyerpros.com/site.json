@@ -1,141 +1,222 @@
 {
- "domain": "cincinnatipersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Cincinnati Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Cincinnati",
- "state": "OH",
- "state_full": "Ohio",
- "counties": [
-  "Hamilton",
-  "Clermont"
- ],
- "area_codes": [
-  "513"
- ],
- "phone_display": "(513) 796-9335",
- "phone_tel": "+15137969335",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "ohio_deadline",
-   "title": "Ohio’s general injury deadline",
-   "claim": "Ohio Revised Code section 2305.10 generally requires a bodily-injury or product-liability action to be brought within two years after the cause of action accrues; the statute also contains different accrual rules and product-liability provisions.",
-   "why_it_matters": "The incident date, discovery facts and claim type need to be identified at the outset. A general two-year rule does not resolve every Cincinnati injury question.",
-   "sources": [
-    "https://codes.ohio.gov/ohio-revised-code/section-2305.10",
-    "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
-   ],
-   "verified": "2026-08-21"
+  "domain": "cincinnatipersonalinjurylawyerpros.com",
+  "phase": 1,
+  "brand": "Cincinnati Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "city": "Cincinnati",
+  "state": "OH",
+  "state_full": "Ohio",
+  "counties": [
+    "Hamilton",
+    "Clermont"
+  ],
+  "area_codes": [
+    "513"
+  ],
+  "phone_display": "(513) 796-9335",
+  "phone_tel": "+15137969335",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "fault_and_damages",
-   "title": "Shared fault and damage categories",
-   "claim": "Ohio Revised Code section 2315.33 permits recovery only when a claimant’s contributory fault is not greater than the combined tortious conduct of others, and proportionally reduces compensatory damages. Section 2315.18 separately defines economic and noneconomic loss and sets stated limits and exceptions for noneconomic damages in tort actions.",
-   "why_it_matters": "Scene evidence, witness accounts and records of economic loss can affect both liability and damages analysis; the statutory cap is not a single formula for every injury category.",
-   "sources": [
-    "https://codes.ohio.gov/ohio-revised-code/section-2315.33",
-    "https://codes.ohio.gov/ohio-revised-code/section-2315.18"
-   ],
-   "verified": "2026-08-21"
+  "local_facts": [
+    {
+      "id": "ohio_deadline",
+      "title": "Ohio’s general injury deadline",
+      "claim": "Ohio Revised Code section 2305.10 generally requires a bodily-injury or product-liability action to be brought within two years after the cause of action accrues; the statute also contains different accrual rules and product-liability provisions.",
+      "why_it_matters": "The incident date, discovery facts and claim type need to be identified at the outset. A general two-year rule does not resolve every Cincinnati injury question.",
+      "sources": [
+        "https://codes.ohio.gov/ohio-revised-code/section-2305.10",
+        "https://codes.ohio.gov/ohio-revised-code/section-2305.113"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "fault_and_damages",
+      "title": "Shared fault and damage categories",
+      "claim": "Ohio Revised Code section 2315.33 permits recovery only when a claimant’s contributory fault is not greater than the combined tortious conduct of others, and proportionally reduces compensatory damages. Section 2315.18 separately defines economic and noneconomic loss and sets stated limits and exceptions for noneconomic damages in tort actions.",
+      "why_it_matters": "Scene evidence, witness accounts and records of economic loss can affect both liability and damages analysis; the statutory cap is not a single formula for every injury category.",
+      "sources": [
+        "https://codes.ohio.gov/ohio-revised-code/section-2315.33",
+        "https://codes.ohio.gov/ohio-revised-code/section-2315.18"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "hamilton_civil_records",
+      "title": "Hamilton County civil-case record path",
+      "claim": "The Civil Division of the Hamilton County Clerk of Courts maintains records for lawsuits including personal injury, and states that Common Pleas pleadings may be filed through e-filing.",
+      "why_it_matters": "For a Cincinnati lawsuit that belongs in Common Pleas, the local record and filing path is concrete; court and venue still require analysis of the particular claim.",
+      "sources": [
+        "https://www.courtclerk.org/civil-division/",
+        "https://hamiltoncountycourts.org/index.php/common-pleas/"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Over-the-Rhine",
+    "Oakley",
+    "Clifton",
+    "Northside",
+    "Westwood",
+    "Mount Washington"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "hamilton_civil_records",
-   "title": "Hamilton County civil-case record path",
-   "claim": "The Civil Division of the Hamilton County Clerk of Courts maintains records for lawsuits including personal injury, and states that Common Pleas pleadings may be filed through e-filing.",
-   "why_it_matters": "For a Cincinnati lawsuit that belongs in Common Pleas, the local record and filing path is concrete; court and venue still require analysis of the particular claim.",
-   "sources": [
-    "https://www.courtclerk.org/civil-division/",
-    "https://hamiltoncountycourts.org/index.php/common-pleas/"
-   ],
-   "verified": "2026-08-21"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "cincinnati personal injury lawyer",
+    "monthly_price": 1000,
+    "score": 83,
+    "volume": 500,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "cincinnatipersonalinjurylaw.com",
+    "competitor_dr": 2.6
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Ohio law settles in a Hamilton County injury claim, and what stays inside the signed agreement",
+    "col_a": "The piece being decided",
+    "col_b": "What Ohio actually sets",
+    "anchors": [
+      {
+        "label": "Percentage limit on an injury contingency",
+        "value": "None in the rule",
+        "detail": "Ohio's fee rule forbids an illegal or clearly excessive fee and lists eight factors for judging one. It prints no percentage for a negligence claim in Cincinnati or anywhere else in the state.",
+        "source_name": "Ohio Prof. Cond. R. 1.5(a)",
+        "source_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/ProfConduct/profConductRules.pdf"
+      },
+      {
+        "label": "Ceiling on noneconomic damages in a tort claim",
+        "value": "$250,000 or three times economic loss",
+        "detail": "Whichever of the two is greater, and never above $350,000 for one plaintiff or $500,000 for one occurrence. Economic loss is not limited at all, and catastrophic injuries are exempt.",
+        "source_name": "Ohio Rev. Code 2315.18(B)(2)",
+        "source_url": "https://codes.ohio.gov/ohio-revised-code/section-2315.18"
+      },
+      {
+        "label": "Filing a civil suit, Hamilton County Municipal Court",
+        "value": "$90",
+        "detail": "Collected when the complaint is docketed, with service billed separately at $30 for personal or residential service and $10 for certified mail.",
+        "source_name": "Hamilton County Municipal Court Civil Rule XVIII",
+        "source_url": "https://hamiltoncountycourts.org/wp-content/uploads/2016/02/Municipal_Civil_Rule_18.pdf"
+      },
+      {
+        "label": "Jury deposit in that same court",
+        "value": "$300",
+        "detail": "Posted before a civil jury is seated, on top of a $10 charge for filing the jury demand itself. A motion costs $5 and a subpoena $6.",
+        "source_name": "Hamilton County Municipal Court Civil Rule XVIII",
+        "source_url": "https://hamiltoncountycourts.org/wp-content/uploads/2016/02/Municipal_Civil_Rule_18.pdf"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Share of an injury recovery",
+        "share": "No percentage set by law",
+        "note": "Judged against eight factors: time and labor, difficulty, the charge customary in this locality, the amount involved and result, deadlines, the relationship, standing, and whether the arrangement is contingent.",
+        "source_name": "Ohio Prof. Cond. R. 1.5(a)",
+        "source_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/ProfConduct/profConductRules.pdf"
+      },
+      {
+        "stage": "Form the contingent agreement must take",
+        "share": "Signed writing, percentages spelled out",
+        "note": "It must give the method, the separate percentages for settlement, trial and appeal, the litigation expenses being deducted, and whether they come off before or after the fee is computed.",
+        "source_name": "Ohio Prof. Cond. R. 1.5(c)(1)",
+        "source_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/ProfConduct/profConductRules.pdf"
+      },
+      {
+        "stage": "Accounting owed when money arrives",
+        "share": "Signed closing statement",
+        "note": "Ohio statute requires one in every tort matter, showing how the compensation was figured, which costs and expenses were taken out, and any proposed division with referring counsel.",
+        "source_name": "Ohio Rev. Code 4705.15(C)",
+        "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4705.15"
+      },
+      {
+        "stage": "Contingent fee for a criminal defendant",
+        "share": "Not allowed",
+        "note": "Ohio bars it outright, alongside contingent fees in domestic relations matters. The prohibition has nothing to do with injury work and is often confused with one.",
+        "source_name": "Ohio Prof. Cond. R. 1.5(d)(2)",
+        "source_url": "https://www.supremecourt.ohio.gov/docs/LegalResources/Rules/ProfConduct/profConductRules.pdf"
+      },
+      {
+        "stage": "Workers' compensation appeal fee taxed to an employer",
+        "share": "$5,000 maximum",
+        "note": "This dollar limit lives in the compensation appeal statute and applies when a claimant wins in common pleas. It is not a limit on a negligence contingency.",
+        "source_name": "Ohio Rev. Code 4123.512(F)",
+        "source_url": "https://codes.ohio.gov/ohio-revised-code/section-4123.512"
+      },
+      {
+        "stage": "Dollar line between the two Cincinnati courthouses",
+        "share": "$15,000",
+        "note": "Municipal court original jurisdiction stops there, so a larger claim is filed in common pleas and draws that court's own deposit schedule instead.",
+        "source_name": "Ohio Rev. Code 1901.17",
+        "source_url": "https://codes.ohio.gov/ohio-revised-code/section-1901.17"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Over-the-Rhine",
-  "Oakley",
-  "Clifton",
-  "Northside",
-  "Westwood",
-  "Mount Washington"
- ],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
-  }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "cincinnati personal injury lawyer",
-  "monthly_price": 1000,
-  "score": 83,
-  "volume": 500,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "cincinnatipersonalinjurylaw.com",
-  "competitor_dr": 2.6
- }
 }

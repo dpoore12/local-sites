@@ -206,3 +206,41 @@ What helps a Virginia Beach injury matter get evaluated
 
 ## emergency_note
 If a person is badly hurt or danger continues, dial 911 or get urgent treatment at once. Paperwork and photographs can wait until emergency care is underway.
+
+## pricing_lede
+
+Virginia does not set a percentage for an injury fee. It sets a reasonableness standard, a written-terms requirement, a court schedule, and a lien notice deadline. This page puts each of those next to the rule or code section it comes from.
+
+## pricing_body
+
+### The standard, and why no number follows it
+
+The Virginia Rules of Professional Conduct handle fees through Rule 1.5, and subdivision (a) states the whole substantive limit in five words: a lawyer's fee shall be reasonable. Eight factors follow for testing one: hours and labor demanded alongside the skill required to do the work properly; whether the engagement shut out other employment; what lawyers in the locality customarily charge for comparable services; how much was at stake and what result came of it; deadlines set by the client or by the circumstances; how long the professional relationship has run; the reputation and experience the lawyers bring; and whether the arrangement is a fixed fee or a contingent one.
+
+A percentage is absent from that list on purpose. The Commonwealth measures a fee against the work rather than against a table, which means a rate quoted as "the Virginia maximum" for a collision at Virginia Beach Boulevard and First Colonial is a market convention someone has dressed up as law.
+
+Subdivision (c) is the operative paperwork rule for injury work. A contingent agreement has to put the method of computing the fee in writing, with the percentage attaching at settlement, at trial and on appeal, an account of litigation and other expenses chargeable against the recovery, and a statement of whether the fee is figured before those expenses are taken off or after them. At the end of the matter the client gets a written statement of the outcome and, if there was money, the remittance and how it was figured. Subdivision (d) marks the two places a contingent fee is barred in Virginia: domestic relations matters, except in rare instances, and defending a criminal case. An injury claim is neither.
+
+### Which courthouse the claim goes to, because that decides the cost
+
+Virginia sorts civil cases by amount before anything else. Under Va. Code 16.1-77(1) the general district court has exclusive original jurisdiction over a claim for injury to person up to $4,500, and shares jurisdiction with the circuit court from there up to $50,000. The Virginia Beach General District Court publishes its own civil costs: $52 to file civil papers, with the exact figure depending on the amount in controversy, and $12 for each person served. Its Civil Division confirms the same $50,000 concurrent ceiling for personal injury and wrongful death claims.
+
+Underneath that $52 sits a statutory component. Va. Code 16.1-69.48:2 fixes a $36 fee for all court and magistrate services on a civil warrant, garnishment, attachment or similar proceeding, with $10 of it apportioned to the Courts Technology Fund, collected when process issues. Service charges are statutory too: Va. Code 17.1-272(A)(1) sets $12 for serving civil process on a person, firm or corporation, subsection (B) sets $25 for a writ of possession or a levy, and subsection (C) sets $75 for papers returnable out of state. On a claim against an out-of-state trucking company or a franchise owner in another state, that last number is the one that shows up.
+
+A district court case is faster and cheaper, and it is also a ceiling. A claim worth more than fifty thousand dollars belongs in circuit court, so choosing the cheaper forum to hold down filing costs is a decision about what the claim is worth.
+
+### The lien deadline that catches people out
+
+Va. Code 54.1-3932(A) gives a lawyer a lien on a tort cause of action as security for fees from the moment the client contracts. The lien only bites once written notice of the claim goes to the client or former client, the opposing party or that party's lawyer or agent, and the clerk of the court where a case is pending. Notice must come within 45 days of the end of the representation, or before settlement or adjustment in a tort case, whichever is earlier. A settlement made after that notice is void against the lien. For a client changing lawyers mid-claim, that is the provision that determines whether the first lawyer's fee follows the file.
+
+### What actually moves the cost of working a Virginia Beach claim
+
+Not the clerk. The variables are the same ones anywhere on the resort strip and the corridors feeding it: how many treating providers there are, whether records come from a military treatment facility or the Veterans Affairs system for one of the region's many service members and dependents, whether an out-of-state defendant has to be served, and whether an expert is needed on causation or future care. Each of those is a cost line, separate from the fee, and the written agreement is supposed to say who advances it and when it comes off.
+
+### The cap that is not a fee cap
+
+Virginia does cap money in one category, and it is regularly quoted wrong. Va. Code 8.01-581.15 limits the total amount recoverable for injury to or death of a patient in a malpractice action against a health care provider, on a scale that rises each year and reaches three million dollars for acts of malpractice occurring on or after July 1, 2031. That statute constrains the verdict or judgment. It says nothing about any lawyer's percentage, it applies only to malpractice, and it has no bearing on a rear-end collision on Independence Boulevard or a fall at a Lynnhaven store.
+
+### The short version
+
+Reasonable, in writing, with the expense order spelled out. A district court claim tops out at fifty thousand dollars and costs $52 plus $12 a defendant to start. Service out of state runs $75. The lien notice clock is 45 days. Anything presented as Virginia's statutory fee percentage does not exist.

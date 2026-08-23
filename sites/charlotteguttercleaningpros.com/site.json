@@ -137,5 +137,164 @@
   "cpc_usd": 15.0,
   "weakest_competitor": "gleaminggutters.com",
   "competitor_dr": 0.1
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Charlotte gutter work, what the market posts",
+  "anchors": [
+   {
+    "label": "Residential storm water fee, Tier 2 house",
+    "value": "$14.78 per month",
+    "detail": "Charlotte bills every house monthly by impervious area: $10.32 under 2,000 square feet, $14.78 from 2,000 to 2,999, $21.43 from 3,000 to 4,999 and $35.48 above that, effective July 1, 2026.",
+    "source_name": "City of Charlotte storm water fees",
+    "source_url": "https://www.charlottenc.gov/Services/Stormwater/Fees"
+   },
+   {
+    "label": "Dollar figure that triggers a state contractor license",
+    "value": "$40,000",
+    "detail": "North Carolina requires a general contractor license where the cost of the undertaking is forty thousand dollars or more, which is why cleaning and most repairs sit outside it while large replacement projects can cross it.",
+    "source_name": "N.C. General Statutes 87-1",
+    "source_url": "https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_87/gs_87-1.html"
+   },
+   {
+    "label": "Limited license project ceiling",
+    "value": "$750,000",
+    "detail": "The state licensing board caps a Limited license at $750,000 per project, an Intermediate license at $1,500,000, and puts no restriction on an Unlimited license, so the class a contractor holds tells you the size of work they can legally sign.",
+    "source_name": "N.C. Licensing Board for General Contractors",
+    "source_url": "https://nclbgc.org/classifications-and-limitations/"
+   }
+  ],
+  "rows": [
+   {
+    "job": "One-story ranch cleared, roughly 150 to 180 feet of gutter",
+    "low": 149,
+    "high": 349,
+    "basis": "flat, 150 to 180 linear feet, single story",
+    "note": "Pine needles packed hard into a run take far longer than loose oak leaf litter.",
+    "sources": [
+     {
+      "name": "Gleaming Gutters, Charlotte, posted cleaning prices, read 2026-08-23",
+      "url": "https://www.gleaminggutters.com/gutter-cleaning-charlotte/"
+     },
+     {
+      "name": "Squeegee Pros, Charlotte, posted cleaning cost breakdown, read 2026-08-23",
+      "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
+     },
+     {
+      "name": "Clean Pro Gutter Cleaning, Charlotte, posted cost page, read 2026-08-23",
+      "url": "https://cleanproguttercleaning.com/gutter-cleaning-cost-charlotte-nc/"
+     }
+    ]
+   },
+   {
+    "job": "Two-story house cleared, roughly 180 to 220 feet of gutter",
+    "low": 125,
+    "high": 499,
+    "basis": "flat, 180 to 220 linear feet, two stories",
+    "note": "Ladder standoffs, roof anchors, and a second-story rear elevation over a deck are what widen this band.",
+    "sources": [
+     {
+      "name": "American Gutter CLT, Charlotte, posted pricing and estimates page, read 2026-08-23",
+      "url": "https://www.americangutterclt.com/pricing-and-estimates.html"
+     },
+     {
+      "name": "Squeegee Pros, Charlotte, posted two-story figures, read 2026-08-23",
+      "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
+     },
+     {
+      "name": "Clean Pro Gutter Cleaning, Charlotte, posted service tiers, read 2026-08-23",
+      "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
+     }
+    ]
+   },
+   {
+    "job": "Multi-wing or three-story home with hard roof access",
+    "low": 399,
+    "high": 1000,
+    "basis": "flat, 220 to 280 linear feet",
+    "note": "Steep slate-look shingle, dormer valleys, and copper runs that cannot be walked push crews to rope work.",
+    "sources": [
+     {
+      "name": "Clean Pro Gutter Cleaning, Charlotte, posted estate tier, read 2026-08-23",
+      "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
+     },
+     {
+      "name": "Squeegee Pros, Charlotte, posted three-story figures, read 2026-08-23",
+      "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
+     },
+     {
+      "name": "Gleaming Gutters, Charlotte, posted estate pricing, read 2026-08-23",
+      "url": "https://www.gleaminggutters.com"
+     }
+    ]
+   },
+   {
+    "job": "Sagging or storm-pulled run rehung and resealed",
+    "low": 85,
+    "high": 600,
+    "basis": "flat per repair",
+    "note": "An end cap reseal is the floor; a pulled 40-foot run replaced outright sits near the ceiling.",
+    "sources": [
+     {
+      "name": "Best Roofing Now, Charlotte, posted gutter repair price list, read 2026-08-23",
+      "url": "https://www.bestroofingnow.com/gutter-repair"
+     },
+     {
+      "name": "Gleaming Gutters, Charlotte, posted partial-run replacement price, read 2026-08-23",
+      "url": "https://www.gleaminggutters.com/gutter-replacement-charlotte/"
+     }
+    ]
+   },
+   {
+    "job": "Micro-mesh guards installed over about 150 feet",
+    "low": 1350,
+    "high": 3375,
+    "basis": "per 150 linear feet installed",
+    "note": "Screen mesh anchors the low end and surgical-grade stainless the high end, before any second-story surcharge.",
+    "sources": [
+     {
+      "name": "Gleaming Gutters, Charlotte, posted per-foot guard pricing, read 2026-08-23",
+      "url": "https://www.gleaminggutters.com/gutter-guards"
+     },
+     {
+      "name": "Keyway Construction, Charlotte, posted guard cost by type, read 2026-08-23",
+      "url": "https://www.keywayconstructionclt.com/gutter-guard-cost-charlotte-nc/"
+     },
+     {
+      "name": "Best Roofing Now, Charlotte, posted guard cost table, read 2026-08-23",
+      "url": "https://www.bestroofingnow.com/gutter-guard-cost"
+     },
+     {
+      "name": "Clean Pro Gutter Cleaning, Charlotte, posted per-linear-foot guard price, read 2026-08-23",
+      "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
+     }
+    ]
+   },
+   {
+    "job": "Whole gutter system replaced, about 150 feet with downspouts",
+    "low": 1000,
+    "high": 4000,
+    "basis": "flat, about 150 linear feet including downspouts",
+    "note": "Six-inch profile, oversized downspouts, fascia rot, and copper are the four things that lift this.",
+    "sources": [
+     {
+      "name": "Gleaming Gutters, Charlotte, posted replacement pricing, read 2026-08-23",
+      "url": "https://www.gleaminggutters.com/gutter-replacement-charlotte/"
+     },
+     {
+      "name": "Best Roofing Now, Charlotte, posted per-foot installation pricing, read 2026-08-23",
+      "url": "https://www.bestroofingnow.com/gutter-services"
+     },
+     {
+      "name": "Vision Roofing, Charlotte, posted gutter installation prices, read 2026-08-23",
+      "url": "https://visionroofingllc.com/services/gutters-installation-services/"
+     },
+     {
+      "name": "Best Choice Roofing, Charlotte, posted per-foot replacement figure, read 2026-08-23",
+      "url": "https://bestchoiceroofing.com/charlotte/new-gutter-cost-charlotte/"
+     }
+    ]
+   }
+  ]
  }
 }

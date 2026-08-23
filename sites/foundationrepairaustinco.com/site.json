@@ -138,5 +138,184 @@
   "cpc_usd": 16.0,
   "weakest_competitor": "qualityfoundationrepairaustin.com",
   "competitor_dr": 21.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Austin foundation repair, priced by scope",
+  "anchors": [
+   {
+    "label": "Who is supposed to design the repair",
+    "value": "Licensed Texas engineer",
+    "detail": "The Texas Section ASCE guidelines, Version 2 adopted May 1, 2009, state that the evaluation and repair design shall be performed by a professional engineer licensed in the State of Texas, and that the sealing engineer is the engineer of record with approval authority over changes.",
+    "source_name": "Texas Section ASCE guidelines for the evaluation and repair of residential foundations",
+    "source_url": "https://www.texasce.org/wp-content/uploads/2022/05/Guidelines-for-the-Evaluation-and-Repair-of-Residential-Foundations-V2-2008.pdf"
+   },
+   {
+    "label": "The number an engineer measures against",
+    "value": "L/360",
+    "detail": "Those same guidelines borrow the residential code deflection limit of L over 360 as the analogous limit for a foundation profile, and note that a floor slope greater than 1 percent is usually noticeable. Cracks alone are not the test.",
+    "source_name": "Texas Section ASCE deflection criteria",
+    "source_url": "https://www.texasce.org/wp-content/uploads/2022/05/Guidelines-for-the-Evaluation-and-Repair-of-Residential-Foundations-V2-2008.pdf"
+   },
+   {
+    "label": "Clay content in the Austin soil series",
+    "value": "35 to 55 percent",
+    "detail": "The USDA official series description puts clay at 35 to 55 percent in the particle-size control section of the Austin series, mapped in the Blackland Prairies of Texas. That fraction is the mechanism behind seasonal slab movement here.",
+    "source_name": "USDA official soil series description, Austin series",
+    "source_url": "https://soilseries.sc.egov.usda.gov/OSD_Docs/A/AUSTIN.html"
+   },
+   {
+    "label": "How the city classifies the work",
+    "value": "Minor Repairs permit",
+    "detail": "Austin lists foundation repair among the residential minor repairs handled through a Residential Express Building Permit, so the paperwork is quick but it is still a permitted trade with an inspection attached.",
+    "source_name": "City of Austin types of permits",
+    "source_url": "https://www.austintexas.gov/development-services/types-permits"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Crack sealed and injected, no piers",
+    "low": 500,
+    "high": 2500,
+    "basis": "flat per repair",
+    "note": "Cosmetic sealing sits at the floor; structural cracks tied to active movement belong in a pier row.",
+    "sources": [
+     {
+      "name": "DuraPier, Austin, posted foundation repair cost guide, read 2026-08-23",
+      "url": "https://durapier.com/blog/how-much-does-foundation-repair-cost-in-austin-texas/"
+     },
+     {
+      "name": "Level Your House, Austin, posted 2026 cost guide, read 2026-08-23",
+      "url": "https://levelyourhouse.com/austin-foundation-repair-cost-the-2026-homeowners-buying-guide/"
+     },
+     {
+      "name": "Round Rock Foundation Repair Group, Austin metro, posted cost page, read 2026-08-23",
+      "url": "https://roundrockfoundationrepairgroup.com/cost/"
+     }
+    ]
+   },
+   {
+    "job": "One pier installed, concrete pressed or steel",
+    "low": 900,
+    "high": 4000,
+    "basis": "per pier",
+    "note": "Concrete pressed pilings anchor the low end, helical steel to load-bearing depth the high end.",
+    "sources": [
+     {
+      "name": "Austin Expert Foundation Repair, Austin, posted slab cost page, read 2026-08-23",
+      "url": "https://austinexpertfoundationrepair.com/cost/slab/"
+     },
+     {
+      "name": "Ram Jack, Austin, posted per-pier pricing, read 2026-08-23",
+      "url": "https://www.ramjack.com/austin/why-ram-jack/foundation-repair-costs/"
+     },
+     {
+      "name": "Dura Pier, Austin, posted per-pier figure, read 2026-08-23",
+      "url": "https://durapier.com/blog/how-much-does-foundation-repair-cost-in-austin-texas/"
+     }
+    ]
+   },
+   {
+    "job": "Mid-size slab repair on one settled side",
+    "low": 3500,
+    "high": 18000,
+    "basis": "flat, mid-size slab scope",
+    "note": "Pier count, interior tunneling instead of exterior access, and plumbing under the slab set the total.",
+    "sources": [
+     {
+      "name": "Austin Expert Foundation Repair, Austin, posted slab repair ranges, read 2026-08-23",
+      "url": "https://austinexpertfoundationrepair.com/cost/slab/"
+     },
+     {
+      "name": "Dura Pier, Austin, posted moderate repair range, read 2026-08-23",
+      "url": "https://durapier.com/blog/how-much-does-foundation-repair-cost-in-austin-texas/"
+     },
+     {
+      "name": "Level Best Foundation Repair, Austin, posted pier cost article, read 2026-08-23",
+      "url": "https://www.levelbestfoundationrepair.com/post/how-much-does-pier-foundation-repair-cost-in-austin"
+     },
+     {
+      "name": "Level Your House, Austin, posted slab-on-grade range, read 2026-08-23",
+      "url": "https://levelyourhouse.com/austin-foundation-repair-cost-the-2026-homeowners-buying-guide/"
+     }
+    ]
+   },
+   {
+    "job": "Full perimeter underpinned, 20 piers or more",
+    "low": 18000,
+    "high": 40000,
+    "basis": "flat, 20 or more piers",
+    "note": "Landscaping, patio demolition, and interior floor cutting are separate lines on a job this size.",
+    "sources": [
+     {
+      "name": "Level Your House, Austin, posted large-project range, read 2026-08-23",
+      "url": "https://levelyourhouse.com/austin-foundation-repair-cost-the-2026-homeowners-buying-guide/"
+     },
+     {
+      "name": "Austin Expert Foundation Repair, Austin, posted high-range figure, read 2026-08-23",
+      "url": "https://austinexpertfoundationrepair.com/cost/slab/"
+     },
+     {
+      "name": "Dura Pier, Austin, posted major structural range, read 2026-08-23",
+      "url": "https://durapier.com/blog/how-much-does-foundation-repair-cost-in-austin-texas/"
+     }
+    ]
+   },
+   {
+    "job": "Pier and beam house releveled with new supports",
+    "low": 4000,
+    "high": 28000,
+    "basis": "flat per house",
+    "note": "Shimming alone is cheap; rotten sills, failed cedar posts, and low crawl clearance are not.",
+    "sources": [
+     {
+      "name": "Austin Expert Foundation Repair, Austin, posted pier and beam cost page, read 2026-08-23",
+      "url": "https://austinexpertfoundationrepair.com/cost/pier-beam-repair/"
+     },
+     {
+      "name": "Round Rock Foundation Repair Group, Austin metro, posted cost page, read 2026-08-23",
+      "url": "https://roundrockfoundationrepairgroup.com/cost/"
+     }
+    ]
+   },
+   {
+    "job": "Void filled or a slab section lifted by injection",
+    "low": 1000,
+    "high": 5000,
+    "basis": "flat per area treated",
+    "note": "Priced by volume of material pumped, so an eroded void under a garage slab runs long.",
+    "sources": [
+     {
+      "name": "Austin Expert Foundation Repair, Austin, posted slab leveling pricing, read 2026-08-23",
+      "url": "https://austinexpertfoundationrepair.com/cost/slab/"
+     },
+     {
+      "name": "Ram Jack, Austin, posted injection pricing, read 2026-08-23",
+      "url": "https://www.ramjack.com/austin/why-ram-jack/foundation-repair-costs/"
+     },
+     {
+      "name": "Dura Pier, Austin, posted slab jacking range, read 2026-08-23",
+      "url": "https://durapier.com/blog/how-much-does-foundation-repair-cost-in-austin-texas/"
+     }
+    ]
+   },
+   {
+    "job": "Independent evaluation or an engineer's written report",
+    "low": 300,
+    "high": 900,
+    "basis": "flat per report",
+    "note": "Contractor evaluations are often free; a sealed engineering report with elevation survey is not.",
+    "sources": [
+     {
+      "name": "Level Your House, Austin, posted inspection pricing guide, read 2026-08-23",
+      "url": "https://levelyourhouse.com/foundation-inspection-cost-austin-2026-homeowners-pricing-guide/"
+     },
+     {
+      "name": "Round Rock Foundation Repair Group, Austin metro, posted inspection range, read 2026-08-23",
+      "url": "https://roundrockfoundationrepairgroup.com/cost/"
+     }
+    ]
+   }
+  ]
  }
 }

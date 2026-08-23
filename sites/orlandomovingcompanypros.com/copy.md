@@ -9,7 +9,7 @@
 - Never name an operator, a registration number, a review count, a price, or a number of years in business. No tenant has signed.
 - Home page lands 1,300-2,300 visible words. Every service page lands 900-1,500 visible words.
 - symptom_N blocks are 40-80 word teasers; the detailed explanation belongs on the linked service page.
-- The site needs three sourced local facts and six neighbourhoods in site.json before the build can pass.
+- The site needs three sourced local facts and six neighborhoods in site.json before the build can pass.
 
 ---
 
@@ -448,3 +448,41 @@ In summer, box and load weather-sensitive items early when possible. Orlando’s
 
 Finish with room labels, an inventory and open walking paths. Group cartons by destination room, mark fragile and priority items, and do not block the elevator or exit. Confirm building paperwork, dock time or gate arrangements before packing day becomes load day. The crew verifies the agreed inventory, protects routes, secures the shipment and uses labels to make delivery orderly. Before any work begins, get the firm written figure and confirm the rooms, materials and special handling it covers.
 
+
+## pricing_lede
+
+Orlando movers publish their crew rates in the open, so this page collects what companies working Orange and Brevard counties post for a two, three or four-person crew, what finished local jobs run, and the state figures behind them. None of it is a quote from anyone.
+
+## pricing_body
+
+### The hour is the unit, and the hour is where the surprises live
+
+A local Orlando move is sold by the hour, and that single fact explains most of the gap between what a household expects and what it pays. The hourly figure is easy to compare between companies. The number of hours is not, and the number of hours is what the bill multiplies.
+
+Three things decide it. Stairs and the walk from the truck: an elevator building with a long hallway adds an hour on each end. How packed the household is on arrival, because boxes load fast and loose contents do not. And crew size, which is why the three-mover rate is often the less expensive way to move a whole house.
+
+Then there are the extras that are not in the hourly figure at all. Several Orlando companies bill a minimum of two or three hours whatever happens, at least one posts that the clock keeps running on the drive back to the shop, and card payments carry a stated processing percentage. Add a three-hour minimum at a mid-market two-mover rate, half an hour of return travel, and that processing percentage, and the floor on a very small job lands closer to four hundred dollars than to the hourly figure that drew the call.
+
+### What Florida actually regulates
+
+Florida does not cap what a mover may charge for an intrastate move. What it regulates is who may do the work and what the paperwork has to say. Under Fla. Stat. 507.03 a mover or moving broker registers with the state for $300 a year, and the assigned registration number must appear on the estimate and on the contract. Fla. Stat. 507.07 puts that same number on the driver's side of the truck in lettering at least an inch and a half tall, and prices non-compliance at a civil penalty of up to $5,000.
+
+That is a consumer tool disguised as a paperwork rule: the number on the written estimate should match the number on the truck that shows up. Withholding delivery after payment of what the estimate states is prohibited conduct, which matters here because so much Orlando work is inbound long-distance freight.
+
+### Why the labor here is priced the way it is
+
+Freight and material movers across the Orlando, Kissimmee and Sanford metro had a median wage of $18.57 an hour in May 2025, according to the BLS Occupational Employment and Wage Statistics, May 2025 release, across 24,080 people. A two-person crew and a truck at $150 an hour is paying roughly $37 of that to wages. The rest covers the truck, fuel, pads and dollies, workers' compensation, cargo protection, dispatch, and the hour the crew spends driving to the job that nobody bills for.
+
+Orlando adds a demand problem on top. Orange County grew nearly seven percent between the 2020 census and July 2025, and that churn concentrates at the end of the month. Crew availability, not the rate card, is what tightens then.
+
+### Reading an estimate properly
+
+A usable Orlando estimate states the crew size, the hourly rate for that exact crew size, the billing minimum, when the clock starts and stops, and whether travel to or from the shop is chargeable. It says whether truck, fuel, tolls, pads and shrink wrap are inside the rate, because companies here do it both ways. It names the valuation: released value at sixty cents a pound is not insurance, and full value protection costs extra.
+
+### The trap
+
+The pattern to watch is the low advertised hourly rate paired with a vague hour estimate. A company quoting $110 an hour and five hours for a job that genuinely takes eight is more expensive than one quoting $150 and telling the truth about the day. Ask for the estimated hours in writing, ask what happens if the job runs over, and ask what the crew is instructed to do about items that were not on the walkthrough list.
+
+### What the online number leaves out
+
+Published job totals assume ground-floor access at both ends, a driveway that fits a twenty-six-foot truck, and a boxed household. They exclude packing materials, furniture disassembly, a storage layover between closings, a second stop, appliance disconnection, elevator reservations, and the tip most crews here expect. On a long-distance load they also exclude the shuttle charge when a full-size trailer cannot reach the door, which in older neighborhoods with narrow streets and heavy tree canopy happens often.

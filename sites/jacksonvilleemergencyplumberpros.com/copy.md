@@ -212,3 +212,39 @@ Four details that speed up the onsite inspection
 
 ## emergency_note
 If water is near electrical equipment, stay clear and seek emergency help as appropriate. For sewage backup, stop using all fixtures. Do not force shutoff valves or open a drain line yourself.
+
+## pricing_lede
+
+This page explains what plumbing emergencies cost in Jacksonville, what the city and JEA publish in permit, tap and inspection fees, and why sand, a shallow water table and mid-century cast iron under a slab shape almost every number on it.
+
+## pricing_body
+
+### The variables that actually set the price
+
+Ask two questions about any plumbing emergency in Duval County and you can usually predict which half of a range it lands in. First: is the failed pipe reachable, or is it under concrete? Second: is it supply or drainage? A supply leak announces itself, holds pressure and can be isolated at a valve. A drainage failure under a slab announces itself slowly, through a damp spot or a smell, and by then the repair involves flooring, concrete and a schedule.
+
+Hours matter too, though less than people expect. The bigger multiplier is whether the crew can work in one trip or has to break the job into demolition, repair, inspection and restoration. Every added trip is mobilization billed again.
+
+### Cast iron, sand and a water table five feet down
+
+Two local facts explain most of the expensive work in this city. The first is the drain material in mid-century housing: cast iron was standard in Jacksonville homes for decades, and after fifty or sixty years in Florida soil it scales inward, cracks along the bottom and separates at joints. In Riverside, Avondale, San Marco and Springfield that pipe frequently runs beneath a slab, and the pipe cannot be inspected without a camera or replaced without concrete work.
+
+The second is water. A U.S. Geological Survey report puts the water table within five feet of the surface across most of Duval County, with as much as five feet of seasonal swing. That single fact raises the cost of every excavation here: trenches in saturated sand slump and need shoring, water has to be pumped while somebody works, and city residential inspection guidance requires underground plumbing to be tested and observed before it is buried. Add the septic tank phase-out, where a 2024 city presentation counted roughly 23,000 failing septic tanks across 35 failure areas, and there is a whole category of work in this market that ends in a new sewer connection rather than a repair.
+
+### What the published fees add
+
+The city's schedule is itemized rather than flat. A plumbing permit carries a $60 minimum, and the arithmetic underneath it is $11 per roughed-in fixture or plugged outlet, $11 per building sewer connection, $11 per water service connection, and $11 for each $100 of estimated cost on repairs to water, waste, soil, vent or building drain pipe. Water softeners and solar water heaters are listed at $21. That is small money next to the trench, but it comes with inspection appointments, and on under-slab work an inspection has to happen before concrete goes back.
+
+Utility fees are the ones that surprise people, because they arrive when a septic-to-sewer conversion or a new service is involved rather than on a repair. JEA's tariff lists a six-inch sewer connection at $8,330, a sewer tap extension at $2,894 where an existing tap needs to reach the property line, and a water tap at $1,360 with a $300 meter set for a three-quarter inch service. Water plant capacity charges sit on top of that for a new connection. None of those amounts belongs to the plumbing contractor, and none of them appears in a national cost estimate.
+
+### How to read the estimate you are handed
+
+A useful estimate answers three questions in writing. What failed, and what is the evidence: camera footage with footage marks and depths, or a leak location and the method used to find it. What is the plan: repair a section, reroute overhead, reline, or replace end to end, and why that choice over the others. What is restoration: concrete replaced to what thickness, flooring put back or left to the homeowner, sod or seed, and who pumps and dewaters the trench. Permits should appear as their own line with the fee stated. If under-slab work is proposed without a camera inspection first, that is a proposal built on a guess.
+
+### The trap in this market
+
+Under-slab cast iron is where the pressure selling lives. A single failed section becomes a whole-house repipe proposal, quoted at the kitchen table while a wet spot dries on the floor. Sometimes a full replacement really is the right call, and a camera survey of the whole system is what proves it. Ask for footage of every branch, not one clip. Be equally careful with the reverse trap: patching one joint on a line that is visibly failing along its length buys a few months and then charges for the same demolition twice. The third pattern to watch is jetting sold on old cast iron without an inspection, which can open a hole in pipe that was already thin.
+
+### What the number found online skips
+
+An average cost page assumes a repair reached from above, in dry soil, with no permit and no inspection wait. Jacksonville rarely provides that. Missing from those figures: dewatering, shoring in sand, the required inspection before backfill or concrete, floor covering nobody can match, the septic abandonment steps when a house converts to sewer, and the utility tap and capacity fees that arrive with a new connection. The pipe and the fittings are cheap. Getting to them, and putting the house back, is the invoice.

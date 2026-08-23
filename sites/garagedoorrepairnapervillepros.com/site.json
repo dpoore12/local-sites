@@ -1,146 +1,326 @@
 {
- "domain": "garagedoorrepairnapervillepros.com",
- "phase": 2,
- "brand": "Naperville Garage Door Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Naperville",
- "state": "IL",
- "state_full": "Illinois",
- "counties": [
-  "DuPage",
-  "Will"
- ],
- "area_codes": [
-  "630",
-  "331"
- ],
- "phone_display": "(630) 389-8193",
- "phone_tel": "+16303898193",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "housing_vintage",
-   "claim": "The median Naperville home was built in 1989, but the city's garage stock spans roughly six decades: Cress Creek was founded in the 1960s and holds over 1,200 residences, while Ashbury was built in the early-to-mid 1990s off 95th Street east of Book Road.",
-   "why_it_matters": "Doors from the 1960s and 70s are often one-piece or extension-spring systems with tight headroom. Doors from the 1990s onward are almost always sectional steel on a torsion bar. The two need different parts and different tools, so the technician wants to know which one you have before loading the truck.",
-   "sources": [
-    "https://www.point2homes.com/US/Neighborhood/IL/Naperville-Demographics.html",
-    "https://thevilleteam.com/community/naperville-cress-creek/",
-    "https://patch.com/illinois/naperville/top-10-subdivisions-naperville-il-1"
-   ],
-   "verified": "2026-08-21",
-   "title": "Your garage is probably older than the median suggests"
+  "domain": "garagedoorrepairnapervillepros.com",
+  "phase": 2,
+  "brand": "Naperville Garage Door Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Naperville",
+  "state": "IL",
+  "state_full": "Illinois",
+  "counties": [
+    "DuPage",
+    "Will"
+  ],
+  "area_codes": [
+    "630",
+    "331"
+  ],
+  "phone_display": "(630) 389-8193",
+  "phone_tel": "+16303898193",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "permit_rule",
-   "claim": "Naperville's Guide to Building Permits requires a permit for door replacement that alters the size or style of the opening, or that puts a door in a new location. A straight like-for-like swap is not on the city's permit-required list.",
-   "why_it_matters": "If you are replacing a door with the same size and style, the job is usually a same-visit repair conversation. If you want a different size, a different panel style, or windows added, that is a permit conversation and a different timeline. Confirm your specific job with the City of Naperville before work starts.",
-   "sources": [
-    "https://www.naperville.il.us/contentassets/2beca6c2168344f3a65cc84c9479731b/601-guide-to-building-permits-103122.pdf"
-   ],
-   "verified": "2026-08-21",
-   "title": "A like-for-like door swap does not need a permit"
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "The median Naperville home was built in 1989, but the city's garage stock spans roughly six decades: Cress Creek was founded in the 1960s and holds over 1,200 residences, while Ashbury was built in the early-to-mid 1990s off 95th Street east of Book Road.",
+      "why_it_matters": "Doors from the 1960s and 70s are often one-piece or extension-spring systems with tight headroom. Doors from the 1990s onward are almost always sectional steel on a torsion bar. The two need different parts and different tools, so the technician wants to know which one you have before loading the truck.",
+      "sources": [
+        "https://www.point2homes.com/US/Neighborhood/IL/Naperville-Demographics.html",
+        "https://thevilleteam.com/community/naperville-cress-creek/",
+        "https://patch.com/illinois/naperville/top-10-subdivisions-naperville-il-1"
+      ],
+      "verified": "2026-08-21",
+      "title": "Your garage is probably older than the median suggests"
+    },
+    {
+      "id": "permit_rule",
+      "claim": "Naperville's Guide to Building Permits requires a permit for door replacement that alters the size or style of the opening, or that puts a door in a new location. A straight like-for-like swap is not on the city's permit-required list.",
+      "why_it_matters": "If you are replacing a door with the same size and style, the job is usually a same-visit repair conversation. If you want a different size, a different panel style, or windows added, that is a permit conversation and a different timeline. Confirm your specific job with the City of Naperville before work starts.",
+      "sources": [
+        "https://www.naperville.il.us/contentassets/2beca6c2168344f3a65cc84c9479731b/601-guide-to-building-permits-103122.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "A like-for-like door swap does not need a permit"
+    },
+    {
+      "id": "derecho_2026",
+      "claim": "NWS Chicago recorded a powerful morning derecho on August 11, 2026 that produced widespread wind damage and tornadoes across northern Illinois and northwest Indiana.",
+      "why_it_matters": "Straight-line wind pushes garage doors inward at the middle of the panel. The visible dent is rarely the real problem; bent tracks, a bowed strut, and rollers popped out of alignment are what stop the door from moving. That is worth mentioning on the call so the technician brings track sections.",
+      "sources": [
+        "https://www.weather.gov/lot/"
+      ],
+      "verified": "2026-08-21",
+      "title": "The August 11 derecho bent more track than it dented panels"
+    }
+  ],
+  "neighborhoods": [
+    "Cress Creek",
+    "Ashbury",
+    "Historic District",
+    "White Eagle",
+    "Hobson West",
+    "Saybrook"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabricated claim.",
+    "faq_page": true
   },
-  {
-   "id": "derecho_2026",
-   "claim": "NWS Chicago recorded a powerful morning derecho on August 11, 2026 that produced widespread wind damage and tornadoes across northern Illinois and northwest Indiana.",
-   "why_it_matters": "Straight-line wind pushes garage doors inward at the middle of the panel. The visible dent is rarely the real problem; bent tracks, a bowed strut, and rollers popped out of alignment are what stop the door from moving. That is worth mentioning on the call so the technician brings track sections.",
-   "sources": [
-    "https://www.weather.gov/lot/"
-   ],
-   "verified": "2026-08-21",
-   "title": "The August 11 derecho bent more track than it dented panels"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Naperville",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Naperville",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Naperville",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Naperville",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair naperville",
+    "monthly_price": 1250,
+    "score": 90,
+    "volume": 300,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "oconnorgaragedoor.com",
+    "competitor_dr": 3.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Going rates for garage door work in Naperville",
+    "anchors": [
+      {
+        "label": "Miscellaneous residential permit filing",
+        "value": "$18 plus $25 per plan page",
+        "detail": "The clerical and review charge the city applies to residential permits not otherwise listed, which is where a door replacement that changes the size or style of the opening lands.",
+        "source_name": "City of Naperville residential permit fee schedule, Ordinance 18-145",
+        "source_url": "https://www.naperville.il.us/contentassets/2beca6c2168344f3a65cc84c9479731b/permit-fee-schedule-res-101122.pdf"
+      },
+      {
+        "label": "Reinspection on a single family permit",
+        "value": "$68",
+        "detail": "Clerical charge plus the inspection charge, due before the return visit can even be scheduled. A first inspection on the same permit is $50.",
+        "source_name": "Naperville fee schedule, single family inspection fees",
+        "source_url": "https://www.naperville.il.us/contentassets/2beca6c2168344f3a65cc84c9479731b/permit-fee-schedule-res-101122.pdf"
+      },
+      {
+        "label": "Median hourly wage, carpenters",
+        "value": "$38.68",
+        "detail": "May 2025 median for the 14,220 carpenters working across the Chicago-Naperville-Elgin metro, roughly 65 percent above the same occupation in Dallas. This is the clearest single reason DuPage County pricing sits high.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_16980.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Torsion spring pair replaced on a sectional door",
+        "low": 225,
+        "high": 460,
+        "basis": "flat",
+        "note": "Northern Illinois winters shorten spring life. High-cycle wire on a wide insulated door tops out.",
+        "sources": [
+          {
+            "name": "Garage Door Guys, Naperville and DuPage County, posted spring price, read 2026-08-23",
+            "url": "https://www.garagedoorguys.biz/garage-door-spring-repair"
+          },
+          {
+            "name": "Trusted Garage Door, Cook and DuPage counties, posted service prices, read 2026-08-23",
+            "url": "https://www.trusted-garagedoor.com/services/"
+          },
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Royal Garage Doors, Aurora, posted flat-rate repair prices, read 2026-08-23",
+            "url": "https://royalgaragedoorrepairs.com/locations/garage-door-spring-repair-aurora/"
+          }
+        ]
+      },
+      {
+        "job": "Remotes, keypad and safety eyes reprogrammed or swapped out",
+        "low": 50,
+        "high": 200,
+        "basis": "per visit",
+        "note": "A dead keypad battery costs nothing to rule out; a sun-bleached sensor pair does.",
+        "sources": [
+          {
+            "name": "Garage Door Center, Naperville, posted price list, read 2026-08-23",
+            "url": "https://garagedoorcenterusa.com/service-area/garage-door-repair-services-naperville-il"
+          },
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Royal Garage Doors, Aurora, posted flat-rate repair prices, read 2026-08-23",
+            "url": "https://royalgaragedoorrepairs.com/locations/garage-door-spring-repair-aurora/"
+          }
+        ]
+      },
+      {
+        "job": "Cables replaced and a door lifted back into its tracks",
+        "low": 120,
+        "high": 550,
+        "basis": "per visit",
+        "note": "A door that came down hard usually bends the bottom bracket or lowest rail.",
+        "sources": [
+          {
+            "name": "Garage Door Center, Naperville, posted price list, read 2026-08-23",
+            "url": "https://garagedoorcenterusa.com/service-area/garage-door-repair-services-naperville-il"
+          },
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Royal Garage Doors, Aurora, posted flat-rate repair prices, read 2026-08-23",
+            "url": "https://royalgaragedoorrepairs.com/locations/garage-door-spring-repair-aurora/"
+          }
+        ]
+      },
+      {
+        "job": "Rollers and hinges replaced across a two-car door",
+        "low": 95,
+        "high": 200,
+        "basis": "flat",
+        "note": "Road salt seizes hinge fasteners on older doors, and seized hardware is pure labor time.",
+        "sources": [
+          {
+            "name": "Trusted Garage Door, Cook and DuPage counties, posted service prices, read 2026-08-23",
+            "url": "https://www.trusted-garagedoor.com/services/"
+          },
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          }
+        ]
+      },
+      {
+        "job": "Opener replaced with a belt drive and battery backup",
+        "low": 400,
+        "high": 700,
+        "basis": "per unit",
+        "note": "Belt drives matter where a bedroom sits above the garage. Backup power adds more.",
+        "sources": [
+          {
+            "name": "Garage Door Center, Naperville, posted price list, read 2026-08-23",
+            "url": "https://garagedoorcenterusa.com/service-area/garage-door-repair-services-naperville-il"
+          },
+          {
+            "name": "Trusted Garage Door, Cook and DuPage counties, posted service prices, read 2026-08-23",
+            "url": "https://www.trusted-garagedoor.com/services/"
+          },
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Infantino's Garage Door, Chicago area, posted starting prices, read 2026-08-23",
+            "url": "https://infantinosgaragedoor.com/services/cost"
+          }
+        ]
+      },
+      {
+        "job": "Bent track and struts corrected after a wind event",
+        "low": 120,
+        "high": 800,
+        "basis": "per visit",
+        "note": "Straight-line wind pushes panels inward; the dent is cosmetic, the bowed strut halts travel.",
+        "sources": [
+          {
+            "name": "Garage Door Center, Naperville, posted price list, read 2026-08-23",
+            "url": "https://garagedoorcenterusa.com/service-area/garage-door-repair-services-naperville-il"
+          },
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Premium Garage Door Repair, Naperville, posted repair ranges, read 2026-08-23",
+            "url": "https://premiumgarageil.com/garage-door-repair-naperville/"
+          }
+        ]
+      },
+      {
+        "job": "Insulated double door replaced on a like-for-like opening",
+        "low": 800,
+        "high": 2500,
+        "basis": "per unit",
+        "note": "Historic District styling, carriage overlays, glass and rebuilt 1960s jambs raise the total.",
+        "sources": [
+          {
+            "name": "John Garage Door Repair, Chicago area, posted price table, read 2026-08-23",
+            "url": "https://johngaragedoorrepair.com/garage-door-repair-cost/"
+          },
+          {
+            "name": "Trusted Garage Door, Cook and DuPage counties, posted service prices, read 2026-08-23",
+            "url": "https://www.trusted-garagedoor.com/services/"
+          },
+          {
+            "name": "Royal Garage Doors, Aurora, posted flat-rate repair prices, read 2026-08-23",
+            "url": "https://royalgaragedoorrepairs.com/locations/garage-door-spring-repair-aurora/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Cress Creek",
-  "Ashbury",
-  "Historic District",
-  "White Eagle",
-  "Hobson West",
-  "Saybrook"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabricated claim.",
-  "faq_page": true
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Naperville",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Naperville",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Naperville",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Naperville",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair naperville",
-  "monthly_price": 1250,
-  "score": 90,
-  "volume": 300,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "oconnorgaragedoor.com",
-  "competitor_dr": 3.0
- }
 }

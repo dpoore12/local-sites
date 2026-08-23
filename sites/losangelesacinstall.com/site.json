@@ -33,7 +33,7 @@
     {
       "id": "ladwp_rebate_records",
       "title": "LADWP ties its HVAC program to final permit and matching equipment records",
-      "claim": "LADWP\u2019s Consumer Rebate Program says a residential HVAC applicant must have active LADWP electric service, apply after purchase and installation, and submit a paid itemized invoice, matching AHRI certificate, and final approved Building and Safety permit. LADWP may inspect and verify the installation, and program funding is limited.",
+      "claim": "LADWP’s Consumer Rebate Program says a residential HVAC applicant must have active LADWP electric service, apply after purchase and installation, and submit a paid itemized invoice, matching AHRI certificate, and final approved Building and Safety permit. LADWP may inspect and verify the installation, and program funding is limited.",
       "why_it_matters": "A Los Angeles installation quote should identify the exact matched equipment and make clear who supplies the permit closeout and installation records. Those documents are useful whether or not a homeowner ultimately applies for an incentive; they show that the installed components and approval trail match the project that was sold.",
       "sources": [
         "https://www.ladwp.com/residential-services/assistance-programs/consumer-rebate-program"
@@ -54,7 +54,7 @@
     {
       "id": "coast_valley_design",
       "title": "The coast and the Valley are not one cooling design climate",
-      "claim": "The California Energy Commission\u2019s climate reference lists Los Angeles Airport as Climate Zone 6 and Burbank as Climate Zone 9, and its compliance material requires energy calculations to use official hourly weather data adapted to local design conditions. Los Angeles-area system sizing therefore should use the property location rather than a single citywide rule of thumb.",
+      "claim": "The California Energy Commission’s climate reference lists Los Angeles Airport as Climate Zone 6 and Burbank as Climate Zone 9, and its compliance material requires energy calculations to use official hourly weather data adapted to local design conditions. Los Angeles-area system sizing therefore should use the property location rather than a single citywide rule of thumb.",
       "why_it_matters": "A coastal home and a San Fernando Valley home can place very different late-day demand on a system. The load calculation, equipment capacity, solar exposure, duct layout and comfort expectations should be set for the actual address before an installer recommends tonnage.",
       "sources": [
         "https://efiling.energy.ca.gov/GetDocument.aspx?tn=202693",
@@ -135,5 +135,188 @@
     "cpc_usd": 20.0,
     "weakest_competitor": "nexgenairandplumbing.com",
     "competitor_dr": 36.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Los Angeles changeout ranges, job by job",
+    "anchors": [
+      {
+        "label": "Mechanical permit for a residential changeout",
+        "value": "$90 minimum",
+        "detail": "The city prices a condensing unit under 25 horsepower at $24.00 and an air handling unit at $24.00, then applies a $90.00 floor once a permit covers two or more items, plus a 3 percent Development Services surcharge and a 6 percent Systems Development surcharge.",
+        "source_name": "LADBS mechanical and HVAC permit fee schedule",
+        "source_url": "https://ladbs.org/docs/default-source/forms/plan-check-2014/mechanical-hvac-permit-fee-schedule.pdf?sfvrsn=b26dea53_22"
+      },
+      {
+        "label": "Duct leakage limit on an altered system",
+        "value": "10 percent",
+        "detail": "State prescriptive rules for an altered space-conditioning system require duct leakage testing when heating or cooling equipment is replaced on a ducted system: total leakage at or below 10 percent, leakage to outside at or below 7 percent, or all accessible leaks sealed. Refrigerant charge verification and 300 CFM per ton apply in Climate Zones 2 and 8 through 15.",
+        "source_name": "California Energy Commission prescriptive alterations form CF1R-ALT-02-E",
+        "source_url": "https://www.energy.ca.gov/filebrowser/download/6349"
+      },
+      {
+        "label": "Municipal utility heat pump incentive",
+        "value": "up to $2,500 per ton",
+        "detail": "The rebate schedule pays $100 per ton for a straight central or split air conditioner at 15.2 SEER2, while a qualifying heat pump earns $1,000 to $1,250 per ton ducted and $1,500 to $2,500 per ton ductless. A paid itemized invoice, matching equipment certificate and final approved permit are required.",
+        "source_name": "LADWP Consumer Rebate Program",
+        "source_url": "https://www.ladwp.com/residential-services/assistance-programs/consumer-rebate-program"
+      },
+      {
+        "label": "Refrigerant limit on new residential systems",
+        "value": "700 GWP",
+        "detail": "Residential air conditioners and heat pumps, mini-splits included, are limited to refrigerants below 700 global warming potential, with a January 1, 2025 compliance date for manufacture and installation. Components made earlier may still be installed, and repair parts are not restricted.",
+        "source_name": "EPA technology transitions HFC restrictions by sector",
+        "source_url": "https://www.epa.gov/hfcs/technology-transitions-hfc-restrictions-sector"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Cooling side only: condenser and matched coil, furnace and ducts kept",
+        "low": 2500,
+        "high": 10100,
+        "basis": "flat, equipment and labor, permit and compliance testing quoted separately",
+        "note": "The wide band is real. A same-size swap on sound ducts sits low; a high-efficiency inverter unit sits high.",
+        "sources": [
+          {
+            "name": "Shalom Heating and Air, Los Angeles, posted install price guide, read 2026-08-23",
+            "url": "https://www.shalom2u.com/guides/ac-installation-cost/"
+          },
+          {
+            "name": "Around the Clock Heating and Air Conditioning, Los Angeles, posted 2026 price guide, read 2026-08-23",
+            "url": "https://aroundclock.com/blog/cost-to-replace-central-air-conditioner-in-los-angeles-2026-pricing-guide/"
+          },
+          {
+            "name": "Prestigious Construction and Design, Los Angeles, posted price list, read 2026-08-23",
+            "url": "https://www.prestigiousconstructiondesign.com/blog/hvac-replacement-los-angeles"
+          }
+        ]
+      },
+      {
+        "job": "Complete split-system changeout, condenser plus furnace or air handler, existing ducts",
+        "low": 4500,
+        "high": 18000,
+        "basis": "flat; posted ranges include equipment, labor, standard materials, permit and haul-away",
+        "note": "Tonnage drives most of it. Two tons sits near the floor, five tons with premium equipment near the ceiling.",
+        "sources": [
+          {
+            "name": "EA Mechanical, Los Angeles, posted replacement prices, read 2026-08-23",
+            "url": "https://www.eamechanical.com/blog/how-much-does-ac-replacement-cost-los-angeles/"
+          },
+          {
+            "name": "Reliable A/C and Heat, North Hollywood, posted replacement prices, read 2026-08-23",
+            "url": "https://www.reliableairandheat.com/blog/hvac-replacement/how-much-does-hvac-replacement-cost-in-los-angeles-a-straightforward-pricing-breakdown/"
+          },
+          {
+            "name": "Around the Clock Heating and Air Conditioning, Los Angeles, posted 2026 pricing guide, read 2026-08-23",
+            "url": "https://aroundclock.com/blog/cost-to-replace-central-air-conditioner-in-los-angeles-2026-pricing-guide/"
+          },
+          {
+            "name": "Fast Cool and Heat, Van Nuys, posted installation guide, read 2026-08-23",
+            "url": "https://fastcoolandheat.com/hvac-installation-van-nuys-ca-residential-commercial-guide/"
+          }
+        ]
+      },
+      {
+        "job": "Ducted heat pump changeout, before any incentive is applied",
+        "low": 9000,
+        "high": 22000,
+        "basis": "flat, installed, gross price before utility rebate or federal credit",
+        "note": "A five-ton variable-speed system needing an electrical panel upgrade is what pushes past twenty thousand.",
+        "sources": [
+          {
+            "name": "EA Mechanical, Los Angeles, posted 2026 heat pump cost breakdown, read 2026-08-23",
+            "url": "https://www.eamechanical.com/blog/heat-pump-installation-cost-los-angeles-2026/"
+          },
+          {
+            "name": "Prestigious Construction and Design, Los Angeles, posted heat pump prices, read 2026-08-23",
+            "url": "https://www.prestigiousconstructiondesign.com/blog/hvac-replacement-los-angeles"
+          }
+        ]
+      },
+      {
+        "job": "Single-zone ductless mini-split for one room, addition or garage conversion",
+        "low": 2800,
+        "high": 7500,
+        "basis": "flat per zone, installed, one outdoor unit and one indoor head",
+        "note": "Line-set length, wall construction and condensate routing separate an easy install from an awkward one.",
+        "sources": [
+          {
+            "name": "Shalom Heating and Air, Los Angeles, posted install price guide, read 2026-08-23",
+            "url": "https://www.shalom2u.com/guides/ac-installation-cost/"
+          },
+          {
+            "name": "APLA Construction, Los Angeles, posted installation cost page, read 2026-08-23",
+            "url": "https://aplaconstruction.com/hvac-installation-cost-los-angeles/"
+          },
+          {
+            "name": "Prestigious Construction and Design, Los Angeles, posted per-zone prices, read 2026-08-23",
+            "url": "https://www.prestigiousconstructiondesign.com/blog/hvac-replacement-los-angeles"
+          }
+        ]
+      },
+      {
+        "job": "Whole-house multi-zone ductless, three to six indoor heads",
+        "low": 7000,
+        "high": 25000,
+        "basis": "flat, installed, priced per zone then combined into one system total",
+        "note": "Head count and outdoor unit capacity set the total. Older panels often need service work first.",
+        "sources": [
+          {
+            "name": "Shalom Heating and Air, Los Angeles, posted install price guide, read 2026-08-23",
+            "url": "https://www.shalom2u.com/guides/ac-installation-cost/"
+          },
+          {
+            "name": "APLA Construction, Los Angeles, posted multi-zone pricing, read 2026-08-23",
+            "url": "https://aplaconstruction.com/hvac-installation-cost-los-angeles/"
+          },
+          {
+            "name": "Prestigious Construction and Design, Los Angeles, posted multi-zone prices, read 2026-08-23",
+            "url": "https://www.prestigiousconstructiondesign.com/blog/hvac-replacement-los-angeles"
+          }
+        ]
+      },
+      {
+        "job": "Duct replacement or major duct repair added to the changeout",
+        "low": 2000,
+        "high": 12000,
+        "basis": "added line item on top of equipment, sized by home square footage and register count",
+        "note": "Failed leakage testing on brittle attic duct is the usual trigger, and crawl access sets the labor.",
+        "sources": [
+          {
+            "name": "Reliable A/C and Heat, North Hollywood, posted duct prices, read 2026-08-23",
+            "url": "https://www.reliableairandheat.com/blog/hvac-replacement/how-much-does-hvac-replacement-cost-in-los-angeles-a-straightforward-pricing-breakdown/"
+          },
+          {
+            "name": "Prestigious Construction and Design, Los Angeles, posted duct prices, read 2026-08-23",
+            "url": "https://www.prestigiousconstructiondesign.com/blog/hvac-replacement-los-angeles"
+          }
+        ]
+      },
+      {
+        "job": "Permit plus third-party energy code testing and paperwork to close it out",
+        "low": 200,
+        "high": 1500,
+        "basis": "itemized and totaled: permit fee, compliance report, and independent rater visit for duct leakage, refrigerant charge and airflow",
+        "note": "Raters post either a bundled changeout visit or separate line items; a state registry fee applies either way.",
+        "sources": [
+          {
+            "name": "Around the Clock Heating and Air Conditioning, Los Angeles, posted permit and testing figures, read 2026-08-23",
+            "url": "https://aroundclock.com/blog/cost-to-replace-central-air-conditioner-in-los-angeles-2026-pricing-guide/"
+          },
+          {
+            "name": "ERE Inspections, Los Angeles, posted test prices, read 2026-08-23",
+            "url": "https://ereinspections.com/guides/hers-test-cost"
+          },
+          {
+            "name": "Energy and Green Building Consultant, California, posted test prices, read 2026-08-23",
+            "url": "https://www.egbconsultant.com/hers-test/"
+          },
+          {
+            "name": "Title 24 Master, Southern California, posted test prices, read 2026-08-23",
+            "url": "https://www.title24master.com/hers-rater-1"
+          }
+        ]
+      }
+    ]
   }
 }

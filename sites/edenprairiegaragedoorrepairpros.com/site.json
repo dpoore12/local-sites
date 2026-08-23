@@ -1,142 +1,314 @@
 {
- "domain": "edenprairiegaragedoorrepairpros.com",
- "phase": 1,
- "brand": "Eden Prairie Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Eden Prairie",
- "state": "MN",
- "state_full": "Minnesota",
- "counties": [
-  "Hennepin"
- ],
- "area_codes": [
-  "952"
- ],
- "phone_display": "(952) 866-9214",
- "phone_tel": "+19528669214",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "sustained_deep_cold",
-   "claim": "NWS Twin Cities reports current winter averages of 19 days with lows at or below 0°F and 55 days with highs at or below 32°F. In Eden Prairie, garage-door hardware can therefore face repeated deeply cold starts rather than one isolated storm day.",
-   "why_it_matters": "Repeated cold makes old lubricant sluggish, contracts steel hardware, and can freeze a weather seal to the slab. Those conditions expose worn springs, bearings, rollers, and marginal balance, so the repair checks the whole moving system rather than increasing opener force.",
-   "sources": [
-    "https://www.weather.gov/media/mpx/Climate/What%20Winter%20MSP.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Deep cold is a season-long operating condition"
+  "domain": "edenprairiegaragedoorrepairpros.com",
+  "phase": 1,
+  "brand": "Eden Prairie Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "state_full": "Minnesota",
+  "counties": [
+    "Hennepin"
+  ],
+  "area_codes": [
+    "952"
+  ],
+  "phone_display": "(952) 866-9214",
+  "phone_tel": "+19528669214",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "garage_energy_code",
-   "claim": "Minnesota's Residential Energy Code identifies garages as unconditioned space for its duct-insulation rules and requires a nonconditioned space altered to become conditioned to comply fully with the code.",
-   "why_it_matters": "An insulated replacement door or a repaired perimeter seal can improve comfort and protect equipment, but that does not itself make an attached garage part of the conditioned home. A garage conversion or duct change should be considered separately from ordinary door repair.",
-   "sources": [
-    "https://www.revisor.mn.gov/rules/1322/full"
-   ],
-   "verified": "2026-08-22",
-   "title": "A garage is not automatically conditioned living space"
+  "local_facts": [
+    {
+      "id": "sustained_deep_cold",
+      "claim": "NWS Twin Cities reports current winter averages of 19 days with lows at or below 0°F and 55 days with highs at or below 32°F. In Eden Prairie, garage-door hardware can therefore face repeated deeply cold starts rather than one isolated storm day.",
+      "why_it_matters": "Repeated cold makes old lubricant sluggish, contracts steel hardware, and can freeze a weather seal to the slab. Those conditions expose worn springs, bearings, rollers, and marginal balance, so the repair checks the whole moving system rather than increasing opener force.",
+      "sources": [
+        "https://www.weather.gov/media/mpx/Climate/What%20Winter%20MSP.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Deep cold is a season-long operating condition"
+    },
+    {
+      "id": "garage_energy_code",
+      "claim": "Minnesota's Residential Energy Code identifies garages as unconditioned space for its duct-insulation rules and requires a nonconditioned space altered to become conditioned to comply fully with the code.",
+      "why_it_matters": "An insulated replacement door or a repaired perimeter seal can improve comfort and protect equipment, but that does not itself make an attached garage part of the conditioned home. A garage conversion or duct change should be considered separately from ordinary door repair.",
+      "sources": [
+        "https://www.revisor.mn.gov/rules/1322/full"
+      ],
+      "verified": "2026-08-22",
+      "title": "A garage is not automatically conditioned living space"
+    },
+    {
+      "id": "eden_prairie_permits",
+      "claim": "Eden Prairie accepts building permit applications through its paperless ePermits portal. The City says permits are required for work regulated by the Minnesota State Building Code, including structural alterations or repairs to permanent weather-resistive surfaces, and all permitted work is subject to inspection.",
+      "why_it_matters": "Spring, cable, roller, and opener repairs are different from changing structural framing or modifying a garage opening. When a door project reaches that larger scope, permit confirmation belongs in the plan before material is ordered.",
+      "sources": [
+        "https://www.edenprairiemn.gov/doing-business/building-inspections",
+        "https://www.edenprairiemn.gov/doing-business/building-inspections/licenses-and-permits"
+      ],
+      "verified": "2026-08-22",
+      "title": "Structural changes need an Eden Prairie permit check"
+    }
+  ],
+  "neighborhoods": [
+    "Bearpath",
+    "The Preserve",
+    "Olympic Hills",
+    "Bent Creek",
+    "Homeward Hills",
+    "Edenvale"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "eden_prairie_permits",
-   "claim": "Eden Prairie accepts building permit applications through its paperless ePermits portal. The City says permits are required for work regulated by the Minnesota State Building Code, including structural alterations or repairs to permanent weather-resistive surfaces, and all permitted work is subject to inspection.",
-   "why_it_matters": "Spring, cable, roller, and opener repairs are different from changing structural framing or modifying a garage opening. When a door project reaches that larger scope, permit confirmation belongs in the plan before material is ordered.",
-   "sources": [
-    "https://www.edenprairiemn.gov/doing-business/building-inspections",
-    "https://www.edenprairiemn.gov/doing-business/building-inspections/licenses-and-permits"
-   ],
-   "verified": "2026-08-22",
-   "title": "Structural changes need an Eden Prairie permit check"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Eden Prairie",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Eden Prairie",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Eden Prairie",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Eden Prairie",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair eden prairie",
+    "monthly_price": 500,
+    "score": 74,
+    "volume": 300,
+    "cpc_usd": 20.0,
+    "weakest_competitor": "carlsongaragedoorrepair.com",
+    "competitor_dr": 0.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Eden Prairie garage door costs by job",
+    "anchors": [
+      {
+        "label": "Building permit fee, valuation $1 to $500",
+        "value": "$40.00",
+        "detail": "The city's lowest valuation tier. Work valued between $2,001 and $25,000 is $105.25 for the first $2,000 plus $19.75 per additional $1,000, with plan checking at 65 percent and reinspection at $50.00 per hour.",
+        "source_name": "City of Eden Prairie fee schedule for administration of official controls, City Code Chapter 25",
+        "source_url": "https://mcclibraryfunctions.azurewebsites.us/api/ordinanceDownload/15776/1059792/pdf"
+      },
+      {
+        "label": "Minnesota construction surcharge on a fixed-fee permit",
+        "value": "$1 or 0.0005",
+        "detail": "State surcharge collected by the city on every permit for construction, addition or alteration: one-half mill of the permit fee or one dollar on fixed-fee permits, and 0.0005 of valuation on valuation-based permits.",
+        "source_name": "Minnesota Statutes section 326B.148",
+        "source_url": "https://www.revisor.mn.gov/statutes/cite/326B.148"
+      },
+      {
+        "label": "Median hourly wage, maintenance and repair workers",
+        "value": "$29.07",
+        "detail": "May 2025 median hourly pay across the Minneapolis-St. Paul-Bloomington metro for the occupation covering door and opener service. Loaded labor on an invoice runs a multiple of the wage figure.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025, Minneapolis-St. Paul-Bloomington metro",
+        "source_url": "https://www.bls.gov/oes/current/oes_33460.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Service visit to find out why the door will not move",
+        "low": 29,
+        "high": 150,
+        "basis": "per visit",
+        "note": "A metro trip charge sits low; some shops waive it with a repair.",
+        "sources": [
+          {
+            "name": "Mr. Spring Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://mrspringgaragedoors.com/garage-door-spring-replacement-cost/"
+          },
+          {
+            "name": "Today's Garage Door Repair, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://todaysgaragedoorrepair.com/faqs/"
+          }
+        ]
+      },
+      {
+        "job": "Broken torsion springs replaced as a pair, two-car door",
+        "low": 300,
+        "high": 1200,
+        "basis": "flat",
+        "note": "Replacing the pair and resizing undersized wire raises the figure.",
+        "sources": [
+          {
+            "name": "Integrity Door Repair, Minnetonka, posted price list, read 2026-08-23",
+            "url": "https://integritydoorrepair.com/garage-door-repair-minnetonka-mn/"
+          },
+          {
+            "name": "Liftly Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://www.liftlygarage.com/"
+          },
+          {
+            "name": "Mr. Spring Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://mrspringgaragedoors.com/garage-door-spring-replacement-cost/"
+          }
+        ]
+      },
+      {
+        "job": "Both lift cables replaced after the door hangs crooked",
+        "low": 125,
+        "high": 350,
+        "basis": "flat",
+        "note": "Road salt corrodes the lower bracket, and a sheared bolt adds section repair.",
+        "sources": [
+          {
+            "name": "Mr. Spring Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://mrspringgaragedoors.com/garage-door-spring-replacement-cost/"
+          },
+          {
+            "name": "Liftly Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://www.liftlygarage.com/"
+          },
+          {
+            "name": "Integrity Door Repair, Minnetonka, posted price list, read 2026-08-23",
+            "url": "https://integritydoorrepair.com/garage-door-repair-minnetonka-mn/"
+          },
+          {
+            "name": "Overhead Door of the Northland, Minneapolis, posted price list, read 2026-08-23",
+            "url": "https://overheaddoornorthland.com/category/residential-garage-doors/"
+          }
+        ]
+      },
+      {
+        "job": "Rollers, hinges and end bearings replaced",
+        "low": 100,
+        "high": 350,
+        "basis": "per unit",
+        "note": "Sealed-bearing rollers cost more and survive cold better than open bearings.",
+        "sources": [
+          {
+            "name": "All American Door, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://allamericandoormn.com/roller-repair/"
+          },
+          {
+            "name": "Liftly Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://www.liftlygarage.com/"
+          }
+        ]
+      },
+      {
+        "job": "Opener repaired, gear kit or control board",
+        "low": 100,
+        "high": 350,
+        "basis": "flat",
+        "note": "A stripped gear is low; a discontinued control board is high.",
+        "sources": [
+          {
+            "name": "Integrity Door Repair, Minnetonka, posted price list, read 2026-08-23",
+            "url": "https://integritydoorrepair.com/garage-door-repair-minnetonka-mn/"
+          },
+          {
+            "name": "Today's Garage Door Repair, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://todaysgaragedoorrepair.com/faqs/"
+          },
+          {
+            "name": "Overhead Door of the Northland, Minneapolis, posted price list, read 2026-08-23",
+            "url": "https://overheaddoornorthland.com/category/residential-garage-doors/"
+          }
+        ]
+      },
+      {
+        "job": "Opener replaced and installed, existing door reused",
+        "low": 200,
+        "high": 590,
+        "basis": "per unit",
+        "note": "A basic chain drive is low; a belt drive with battery backup is high.",
+        "sources": [
+          {
+            "name": "All American Door, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://allamericandoormn.com/garage-door-opener-installation/"
+          },
+          {
+            "name": "Liftly Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://www.liftlygarage.com/"
+          },
+          {
+            "name": "Overhead Door of the Northland, Minneapolis, posted price list, read 2026-08-23",
+            "url": "https://overheaddoornorthland.com/category/residential-garage-doors/"
+          }
+        ]
+      },
+      {
+        "job": "Sectional door replaced and installed, opener reused",
+        "low": 850,
+        "high": 3500,
+        "basis": "per unit",
+        "note": "Higher insulation value, oversized openings and window inserts push it up.",
+        "sources": [
+          {
+            "name": "Overhead Door of the Northland, Minneapolis, itemized posted price list, read 2026-08-23",
+            "url": "https://overheaddoornorthland.com/category/residential-garage-doors/"
+          },
+          {
+            "name": "AA Garage Door, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://www.aagaragedoor.com/2025/07/23/garage-door-installation-cost/"
+          },
+          {
+            "name": "Liftly Garage Doors, Twin Cities, posted price list, read 2026-08-23",
+            "url": "https://www.liftlygarage.com/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Bearpath",
-  "The Preserve",
-  "Olympic Hills",
-  "Bent Creek",
-  "Homeward Hills",
-  "Edenvale"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Eden Prairie",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Eden Prairie",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Eden Prairie",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Eden Prairie",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair eden prairie",
-  "monthly_price": 500,
-  "score": 74,
-  "volume": 300,
-  "cpc_usd": 20.0,
-  "weakest_competitor": "carlsongaragedoorrepair.com",
-  "competitor_dr": 0.0
- }
 }

@@ -273,3 +273,39 @@ Information that helps without turning you into the plumber
 ## emergency_note
 
 If water is near electrical equipment, a ceiling is sagging, or sewage is entering the home, keep people away from the area. For an immediate threat to life or safety, call 911.
+
+## pricing_lede
+
+This page lays out what emergency plumbing work actually costs around Arvada, what the city charges in permit and right-of-way money on top of it, and which parts of a Jefferson County lot decide whether a repair sits at the low or the high end.
+
+## pricing_body
+
+### What decides where a job lands in its range
+
+An Arvada plumbing invoice is built out of three things: how long water has been loose in the building, what has to come apart before anybody can touch the failure, and whether the fix stays inside the house or continues out under a driveway. A weeping angle stop under a Candelas vanity is contained and reachable. The same fitting buried in a slab on an older Stocke-Walter lot turns into concrete cutting, a rerouted line and drywall repair afterward. The leak did not change. The path to it did.
+
+Hour of the week is the second lever. A callout at eleven on a Sunday night in February is priced differently from a Wednesday morning appointment, and February is exactly when hose bibs and crawlspace runs along the Front Range actually split open.
+
+The third lever is what shows up behind the first fault. Drain stacks in the older blocks near Olde Town were not installed last decade, and a stoppage there is often a symptom of a pipe that has lost its bottom rather than a wad of wipes. Cabling clears the water; the camera says whether that is the end of the story.
+
+### The paperwork sitting behind the number
+
+Swapping a water heater in Arvada is permitted work at $55 on the city's building permit fee schedule, and most other plumbing permits are figured from the actual contract value of the work under the city's Table 18-1, which starts at $34 for the smallest jobs. Neither figure is large. What matters is the inspection each one schedules, because an inspection is a calendar slot and calendar slots are why a two-hour repair can span two days.
+
+Digging is where local cost structure really shows. Work in the public right of way takes its own permit, listed at $67 for a single sewer service, and the moment a trench crosses pavement the city adds a pavement degradation fee of $20.50 for each linear foot of trench plus twenty feet of required resurfacing. A repair in a lawn and the identical repair under a paved street are two different projects before a shovel moves. Reinspection at $77, traffic control plan review, and overtime inspection billed hourly with a two-hour minimum live in that same schedule, and all of it lands in the estimate somebody hands you.
+
+### Soil and water, which is why some repairs repeat
+
+Arvada's own permit records are blunt about ground conditions. A 2022 soils and foundation summary filed with the city for a townhome project identified expansive soil and bedrock and recommended pressure-testing under-slab plumbing, flexible couplings, and isolating pipe where it passes through a slab. Clay that swells and shrinks with moisture pulls on joints for years, so under-slab drain failures here are a pattern rather than bad luck. City water runs soft to moderately hard, averaging about 84 mg/L or roughly five grains per gallon, so heavy scale is not the usual villain in a failed water heater around here. Freeze-thaw cycling and sediment are.
+
+### What a quote should spell out
+
+A trustworthy estimate names the failed component and the evidence for the call: the pressure reading, the camera footage timestamp, the depth and distance to the defect measured from the cleanout. It separates the diagnostic visit from the repair and states plainly whether the first amount applies against the second. It lists the permit as its own line, names who pulls it, and says which inspections are included. On any excavation it identifies the restoration standard: compacted backfill, concrete or asphalt patch to city spec, sod or seed, and who calls in the utility locate. Vague language on an excavation estimate almost always reappears later as an extra.
+
+### The trap in this trade
+
+The costly pattern in emergency plumbing is the jump from one clogged line to a full replacement proposal, signed at midnight while a basement floor is wet. A stoppage cleared on Tuesday and scoped on Thursday is the same information with a clear head attached. Two other habits deserve suspicion: hydro jetting sold before anyone has looked inside the pipe, and a monthly membership pitched during the crisis that quietly changes what the visit costs. Caustic drain chemicals poured into an old cast iron stack while waiting for help make the eventual repair worse, not cheaper.
+
+### What the number found online leaves out
+
+National cost pages quote parts and labor for a tidy version of the job. They leave out the Arvada permit and its inspection, the right-of-way permit, the pavement degradation charge, the concrete or asphalt patch, replacing landscaping torn up by a trench, and any drywall or paint that follows an interior repair. On winter work they also leave out frozen ground, which is slower to open and slower to compact back. The figure a homeowner remembers is the equipment. The figure that hits the invoice includes putting Arvada back the way it was found.

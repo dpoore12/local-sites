@@ -279,3 +279,41 @@ What makes the loading plan work
 ## emergency_note
 
 Moving is not an emergency service. For an apartment or Downtown move, reserve the building window and confirm lawful truck access before the scheduled date.
+
+## pricing_lede
+
+California caps the hourly charge on a local household move and requires a written price ceiling before anything is loaded. This page sets those state maximums beside what Santa Clara County companies post for a two, three or four-person crew. It is market research, not a quote.
+
+## pricing_body
+
+### Two numbers govern a local California move
+
+The first is the hourly maximum. Maximum Rate Tariff 4, Item 320, effective January 1, 2025, caps straight-time charges on a move of one hundred miles or less. Santa Clara County falls in Territory A, where the ceiling is $142.01 an hour for a vehicle and one person, $228.01 for a vehicle and two, and $81.80 for each additional person. Time and a half caps at $181.84 and $307.65; double time at $228.01 and $387.55.
+
+The second is the written agreement. Before service begins the mover completes an Agreement for Moving Services showing a Not to Exceed Price, raised only by a bona fide written change order. It cannot be preprinted and cannot be waived. Loading without that document filled in skips the most protective thing in California moving regulation.
+
+Note what these rules do not do: they cap the hourly rate, not the number of hours. Set the posted market rates in the table against the $228.01 ceiling and the ceiling binds almost nothing here. Competition sets the hourly figure in this valley. The tariff's real value is the Not to Exceed Price and the definition of billable time.
+
+### Double drive time, explained once and properly
+
+Item 36 defines chargeable time on a local move as loading plus unloading plus double the actual driving time between origin and destination. A twenty-five-minute run from Willow Glen to Santa Clara bills as fifty minutes. It is not a surcharge invented by the mover: it is the state's method of paying a carrier for the empty return leg without a separate travel fee.
+
+On short in-town moves the doubled drive is trivial. On a job to Livermore or Santa Cruz, still inside the hundred-mile band, it adds well over an hour of billing, and anyone comparing hourly rates without asking how travel is computed will misjudge the total by hundreds of dollars.
+
+### Why this is the most expensive of the three metros to move in
+
+Freight and material movers in the San Jose, Sunnyvale and Santa Clara metro had a median wage of $22.63 an hour in May 2025 across 11,830 workers, per the BLS Occupational Employment and Wage Statistics, May 2025 release. That is roughly four dollars above the same occupation in Orlando or Raleigh, and it flows straight into a crew rate. On top of the wage sit state requirements: the Bureau of Household Goods and Services charges $500 to file for a household mover permit, $15 quarterly thereafter, and requires combined single limit coverage of not less than $600,000 with $20,000 of cargo protection per shipment.
+
+Then there is access. Downtown high-rises need a service elevator reserved, and a truck in a metered or restricted space needs a tow-away permit the city advises requesting well in advance. Both burn crew hours no rate card mentions.
+
+### The cash rate, and what it really is
+
+Most companies here publish two hourly figures, cash and card, with the card figure five to fifteen dollars higher and sometimes a processing percentage on top. A three-hour minimum at a card rate of $129 is $387, plus five percent processing, before doubled travel time is added. The same three hours at a $119 cash rate is $357. That spread is why one job appears in two price bands across two websites.
+
+### Reading an agreement here
+
+Look for the Not to Exceed Price completed in writing, the Cal-T number, crew size, the hourly rate and the payment method it assumes, the minimum hours, and how travel is calculated under Item 36. Valuation should be named: sixty cents per pound released value is the default and it is not insurance. Packing, materials, storage, specialty handling and parking permits belong on the document as separate lines rather than appearing verbally on load day.
+
+### What the online number leaves out
+
+Published job totals assume elevator access or a short carry, a truck that can legally park near the door, and a boxed household. They exclude packing labor, cartons billed by the piece, shrink wrap, disassembly, appliance disconnection, a storage month between a closing and a key handover, hoisting where a stairwell will not take a sofa, and the parking permit itself. Cross a state line and the intrastate tariff stops applying: federal estimate rules take over, with different protections and a different price structure.

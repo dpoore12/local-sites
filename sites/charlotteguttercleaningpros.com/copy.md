@@ -209,3 +209,39 @@ What helps the crew do the right work
 
 ## emergency_note
 Gutter cleaning is normally planned maintenance. Keep off the ladder during wet or windy weather; if water is entering the home or a gutter section is pulling loose, say so when scheduling.
+
+## pricing_lede
+
+Published figures from Charlotte gutter companies, laid out job by job, next to the fees the city and the state actually set. Nothing here is a quote and nothing here is an offer.
+
+## pricing_body
+
+### Why one house is $149 and the next is $499
+
+Gutter cleaning is priced on three things, and none of them is how dirty the gutters look from the driveway. The first is linear feet of trough. A compact ranch carries perhaps 150 feet; a rambling multi-wing house in Myers Park can carry 280 or more, and every foot has to be reached, cleared, and flushed. The second is height and footing. A single-story elevation is ladder work from level ground. A rear elevation two stories up over a sloped yard or a deck means standoffs, roof anchors, or a lift, and the labor time doubles before a single handful of debris moves. The third is what came out of the trough. Loose hardwood leaf litter rakes out. Pine needle mat that has been sitting through two seasons has effectively composted into the gutter and comes out in wet slabs, which is why several local companies post a surcharge for gutters left packed solid.
+
+Downspouts are the hidden variable. A crew can clear every trough and leave the system no more functional than before, because the blockage sits in an elbow behind a shutter or in the drain line at grade. Any figure worth comparing includes flushing every downspout.
+
+### The Charlotte canopy is the whole story
+
+This city is roughly half covered by tree canopy, and it is a mixed canopy: willow oak and water oak dropping leaves and tassels in spring and fall, loblolly pine dropping needles nearly year-round. That is why local pricing quietly assumes more visits per year than the standard advice of twice annually. A house under mature pines cleaned in November is often blocked again by February, so three or four visits is normal on a wooded lot in Elizabeth or Plaza Midwood.
+
+Clay soil closes the loop. Piedmont red clay drains slowly, so water that overshoots a blocked gutter sits against the foundation instead of moving away. The City of Charlotte storm water fees schedule prices this problem at the household level, billing monthly by impervious area: $10.32 for a house under 2,000 square feet of hard surface, rising through $14.78 and $21.43 to $35.48 for the largest. That fee is not something a cleaning changes, but it is the city stating in dollars that where roof water goes is a public matter, not a cosmetic one.
+
+### Cleaning, repair, and replacement are three different budgets
+
+The table separates them deliberately, because the most common billing surprise in this trade is a cleaning visit that turns into a repair conversation on the ladder. Sagging runs, pulled hangers, failed end caps, and separated miters are all real and all cheap relative to replacement, and posted repair prices in this market start under $100 for a reseal. Replacement is a different order of magnitude: local per-foot pricing for seamless aluminum runs from about $4 to $13 depending on profile and height, which is why a 150-foot house lands anywhere between roughly $1,000 and $4,000 with downspouts. Note that one company in this market posts a mobilization minimum for bringing the gutter machine out at all, so a small partial run is not priced proportionally.
+
+Guards deserve their own line because they are the biggest ticket most homeowners are shown. Local guard pricing is posted per linear foot, from a few dollars for basic screen to the high teens for stainless micro-mesh, which on 150 feet is the difference between a few hundred dollars and well over three thousand. Multiply the per-foot figure by measured footage first, and know that no guard ends maintenance under pine.
+
+### What state law does and does not require
+
+North Carolina requires a general contractor license where the cost of the undertaking is $40,000 or more. Cleaning never reaches that, and neither does an ordinary replacement, so the licensing question in this trade is really an insurance question. Ask for a certificate of general liability and, because this is ladder and roof work, workers compensation coverage that names the crew on the property. If a full exterior project ever does cross the state threshold, the licensing board caps a Limited license at $750,000 per project and an Intermediate license at $1,500,000, so the class held tells you the scale of work a contractor may legally sign.
+
+### Reading a fair estimate
+
+It states the measured footage or story count assumed, confirms downspout flushing, says whether debris leaves in bags, and states whether guard removal and reinstallation is included. Any packed-debris surcharge appears in writing before the visit, and a repair found on the roof becomes its own authorized line.
+
+### What the posted price leaves out
+
+It does not cover the underground drain line that has silted shut, fascia already rotted where water sat, a return trip when the rear elevation proves unreachable, or grading work on a chronically wet clay corner. Those are separate scopes with separate numbers.

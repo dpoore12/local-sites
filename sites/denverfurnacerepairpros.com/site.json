@@ -1,143 +1,344 @@
 {
- "domain": "denverfurnacerepairpros.com",
- "phase": 2,
- "brand": "Denver Furnace Repair Pros",
- "service": "Furnace Repair",
- "service_inline": "furnace repair",
- "city": "Denver",
- "state": "CO",
- "state_full": "Colorado",
- "counties": [
-  "Denver",
-  "Adams",
-  "Arapahoe",
-  "Jefferson"
- ],
- "area_codes": [
-  "303",
-  "720"
- ],
- "phone_display": "(303) 955-3612",
- "phone_tel": "+13039553612",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Denver",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "housing_vintage",
-   "claim": "Denver’s 1950s produced roughly 31,000 single-family detached homes, the city’s top decade for that construction. The period’s development included Harvey Park, Virginia Village and Washington-Virginia Vale.",
-   "why_it_matters": "A furnace repair in a mid-century ranch often starts with checking the original or later-added vent path, return-air arrangement and closet or utility-room clearances, rather than assuming today’s equipment footprint or duct layout. Those details change the diagnostic path and the parts a technician may need.",
-   "sources": [
-    "https://denverurbanism.com/2012/05/denvers-single-family-homes-by-decade-1950s.html"
-   ],
-   "verified": "2026-08-21",
-   "title": "Denver has a large mid-century furnace footprint"
+  "domain": "denverfurnacerepairpros.com",
+  "phase": 2,
+  "brand": "Denver Furnace Repair Pros",
+  "service": "Furnace Repair",
+  "service_inline": "furnace repair",
+  "city": "Denver",
+  "state": "CO",
+  "state_full": "Colorado",
+  "counties": [
+    "Denver",
+    "Adams",
+    "Arapahoe",
+    "Jefferson"
+  ],
+  "area_codes": [
+    "303",
+    "720"
+  ],
+  "phone_display": "(303) 955-3612",
+  "phone_tel": "+13039553612",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Denver",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "mile_high_setup_and_permit",
-   "claim": "Denver’s official elevation is 5,280 feet. Rheem’s high-altitude instructions say covered furnaces above 2,000 feet are derated 4% per thousand feet, require a pressure-switch change at 5,000 feet, and may need an orifice change. Denver’s March 2023 code briefing says like-for-like gas-furnace replacements cannot use a Quick Permit except for an emergency replacement; it lists sizing, gas-piping testing and an electrification feasibility report among the replacement requirements.",
-   "why_it_matters": "At this elevation, diagnosing a gas furnace means confirming the unit’s input and setup for the actual site—not merely replacing a part. For a replacement, the permit route and required project documents belong in the plan before equipment is ordered, while a no-heat repair is diagnosed on its own condition and safety findings.",
-   "sources": [
-    "https://www.ucdenver.edu/international-admissions/about-cu-denver/about-denver-co",
-    "http://pts.myrheem.com/docstore/webdocs/ServiceDocs/HistLib/pdfs/Accessories/RXGY/92-24096-01-06_RXGY-F04_F05_F06_F07.pdf",
-    "https://denver.prelive.opencities.com/files/assets/public/v/1/community-planning-and-development/documents/ds/building-codes/code-adoption/2022-building-code-adoption-briefing-presentation.pdf"
-   ],
-   "verified": "2026-08-21",
-   "title": "Mile-high combustion and the replacement route both matter"
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "Denver’s 1950s produced roughly 31,000 single-family detached homes, the city’s top decade for that construction. The period’s development included Harvey Park, Virginia Village and Washington-Virginia Vale.",
+      "why_it_matters": "A furnace repair in a mid-century ranch often starts with checking the original or later-added vent path, return-air arrangement and closet or utility-room clearances, rather than assuming today’s equipment footprint or duct layout. Those details change the diagnostic path and the parts a technician may need.",
+      "sources": [
+        "https://denverurbanism.com/2012/05/denvers-single-family-homes-by-decade-1950s.html"
+      ],
+      "verified": "2026-08-21",
+      "title": "Denver has a large mid-century furnace footprint"
+    },
+    {
+      "id": "mile_high_setup_and_permit",
+      "claim": "Denver’s official elevation is 5,280 feet. Rheem’s high-altitude instructions say covered furnaces above 2,000 feet are derated 4% per thousand feet, require a pressure-switch change at 5,000 feet, and may need an orifice change. Denver’s March 2023 code briefing says like-for-like gas-furnace replacements cannot use a Quick Permit except for an emergency replacement; it lists sizing, gas-piping testing and an electrification feasibility report among the replacement requirements.",
+      "why_it_matters": "At this elevation, diagnosing a gas furnace means confirming the unit’s input and setup for the actual site—not merely replacing a part. For a replacement, the permit route and required project documents belong in the plan before equipment is ordered, while a no-heat repair is diagnosed on its own condition and safety findings.",
+      "sources": [
+        "https://www.ucdenver.edu/international-admissions/about-cu-denver/about-denver-co",
+        "http://pts.myrheem.com/docstore/webdocs/ServiceDocs/HistLib/pdfs/Accessories/RXGY/92-24096-01-06_RXGY-F04_F05_F06_F07.pdf",
+        "https://denver.prelive.opencities.com/files/assets/public/v/1/community-planning-and-development/documents/ds/building-codes/code-adoption/2022-building-code-adoption-briefing-presentation.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "Mile-high combustion and the replacement route both matter"
+    },
+    {
+      "id": "arctic_front_2022",
+      "claim": "The National Weather Service’s 2022 Denver climate summary says an Arctic front on December 21 dropped the DIA temperature 37°F in one hour. The low on December 22 was -24°F and the day’s average temperature was -15°F, Denver’s second-coldest day on record.",
+      "why_it_matters": "Sudden deep cold turns a marginal ignition, airflow or combustion problem into a no-heat call. A technician needs to know whether the failure started during the temperature drop, whether the furnace is attempting to start, and whether some rooms still receive air, so the diagnosis can begin at the right part of the heating sequence.",
+      "sources": [
+        "https://www.weather.gov/media/bou/2022DenverClimateSummary.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "A hard Front Range cold snap exposes weak links"
+    }
+  ],
+  "neighborhoods": [
+    "Capitol Hill",
+    "Five Points",
+    "Highland",
+    "Washington Park",
+    "Park Hill",
+    "Harvey Park"
+  ],
+  "symptoms": [
+    "furnace_not_heating",
+    "furnace_wont_turn_on",
+    "furnace_blows_cold_air",
+    "furnace_making_noise"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "arctic_front_2022",
-   "claim": "The National Weather Service’s 2022 Denver climate summary says an Arctic front on December 21 dropped the DIA temperature 37°F in one hour. The low on December 22 was -24°F and the day’s average temperature was -15°F, Denver’s second-coldest day on record.",
-   "why_it_matters": "Sudden deep cold turns a marginal ignition, airflow or combustion problem into a no-heat call. A technician needs to know whether the failure started during the temperature drop, whether the furnace is attempting to start, and whether some rooms still receive air, so the diagnosis can begin at the right part of the heating sequence.",
-   "sources": [
-    "https://www.weather.gov/media/bou/2022DenverClimateSummary.pdf"
-   ],
-   "verified": "2026-08-21",
-   "title": "A hard Front Range cold snap exposes weak links"
+  "hero_accent": "Heat Restored Today, Price First",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "furnace-repair",
+      "name": "Furnace Repair",
+      "nav": "Furnace repair",
+      "h1": "Furnace Repair",
+      "accent": "Heat Restored Fast",
+      "keyword": "furnace repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "furnace-tune-up",
+      "name": "Furnace Tune-Up",
+      "nav": "Furnace tune-up",
+      "h1": "Furnace Tune-Up",
+      "accent": "Heat Tuned for Reliable Performance",
+      "keyword": "furnace tune up",
+      "icon": "check"
+    },
+    {
+      "slug": "furnace-ignition-repair",
+      "name": "Furnace Ignition Repair",
+      "nav": "Ignition repair",
+      "h1": "Furnace Ignition Repair",
+      "accent": "Ignition Problems Fixed Safely",
+      "keyword": "furnace ignition repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "furnace-blower-motor-repair",
+      "name": "Furnace Blower Motor Repair",
+      "nav": "Blower motor repair",
+      "h1": "Furnace Blower Motor Repair",
+      "accent": "Airflow Restored to Every Room",
+      "keyword": "furnace blower motor repair",
+      "icon": "gear"
+    }
+  ],
+  "symptom_service": [
+    "furnace-repair",
+    "furnace-ignition-repair",
+    "furnace-repair",
+    "furnace-blower-motor-repair"
+  ],
+  "_market": {
+    "keyword": "denver furnace repair",
+    "monthly_price": 1250,
+    "score": 72,
+    "volume": 200,
+    "cpc_usd": 50.0,
+    "weakest_competitor": "brothersplumbing.com",
+    "competitor_dr": 37.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Denver metro furnace prices, part by part",
+    "anchors": [
+      {
+        "label": "Mechanical permit on a $6,000 changeout",
+        "value": "$67",
+        "detail": "Denver charges $35 for the first $2,000 of valuation and $8 for each additional $1,000, so a $6,000 furnace replacement is $67. Mechanical work is a quick permit category, issued without a plan review charge.",
+        "source_name": "Denver Community Planning and Development development fees",
+        "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Community-Planning-and-Development/Plan-Review-Permits-and-Inspections/Development-Fees"
+      },
+      {
+        "label": "Mechanical contractor license, city of Denver",
+        "value": "$250 per three years",
+        "detail": "Every mechanical license type costs $250 for three years, and the supervisor certificate that has to stand behind it is $60 for the same term. A journeyman registration is $40.",
+        "source_name": "Denver contractor licensing fee schedule",
+        "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Community-Planning-and-Development/Contractor-Licensing/CL-Resources-and-Downloads/Fees-for-Contractor-Licenses-and-Supervisor-Certificates"
+      },
+      {
+        "label": "Xcel Energy rebate, 95 percent AFUE and above",
+        "value": "$300",
+        "detail": "Paid on an AHRI listed gas furnace at 95 percent AFUE or better, and only when the equipment coming out is non-condensing, which the program defines as 86 percent AFUE or lower.",
+        "source_name": "Xcel Energy Colorado residential HVAC rebate application",
+        "source_url": "https://www.xcelenergy.com/staticfiles/xe-responsive/Working%20With%20Us/Trade%20Partners/24-04-506_CO-Res_HVAC_OpenPrgms_app.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Weekday diagnostic visit on a dead furnace",
+        "low": 60,
+        "high": 180,
+        "basis": "per visit",
+        "note": "Rabbit posts $60 with no repair and nothing with one, UniColorado credits its $180 toward the work, Right Way and All Climate post $89 and $79 flat.",
+        "sources": [
+          {
+            "name": "Rabbit Heating and Air, Denver and Thornton, posted flat rate list, read 2026-08-23",
+            "url": "https://rabbitheating.com/furnace-repair/"
+          },
+          {
+            "name": "UniColorado, Denver, posted furnace repair pricing, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Right Way Mechanical, west Denver metro, posted diagnostic fee, read 2026-08-23",
+            "url": "https://rightwaymechanicalco.com/furnace-repair-denver/"
+          },
+          {
+            "name": "All Climate Systems, Denver area, posted diagnostic fee, read 2026-08-23",
+            "url": "https://allclimatesystems.net/special-offers/"
+          }
+        ]
+      },
+      {
+        "job": "Hot surface igniter replaced",
+        "low": 150,
+        "high": 585,
+        "basis": "flat",
+        "note": "Gale Force posts $150 to $450, UniColorado $250 to $500, Rabbit a flat $485 to $585 with the weekday trip charge folded in when the repair proceeds.",
+        "sources": [
+          {
+            "name": "Gale Force Heating & Air, Denver metro, posted repair price guide, read 2026-08-23",
+            "url": "https://www.galeforceheating-air.com/blog/how-much-does-furnace-repair-cost-in-denver-a-2026-homeowners-guide"
+          },
+          {
+            "name": "UniColorado, Denver, posted component replacement prices, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Rabbit Heating and Air, Denver and Thornton, posted flat rate list, read 2026-08-23",
+            "url": "https://rabbitheating.com/furnace-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Draft inducer assembly replaced",
+        "low": 500,
+        "high": 1500,
+        "basis": "flat",
+        "note": "UniColorado posts $500 to $1,100, Gale Force $500 to $1,500, Rabbit $1,050 to $1,485 as a flat rate covering part and labor.",
+        "sources": [
+          {
+            "name": "UniColorado, Denver, posted component replacement prices, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Gale Force Heating & Air, Denver metro, posted repair price guide, read 2026-08-23",
+            "url": "https://www.galeforceheating-air.com/blog/how-much-does-furnace-repair-cost-in-denver-a-2026-homeowners-guide"
+          },
+          {
+            "name": "Rabbit Heating and Air, Denver and Thornton, posted flat rate list, read 2026-08-23",
+            "url": "https://rabbitheating.com/furnace-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Gas valve replaced",
+        "low": 200,
+        "high": 1275,
+        "basis": "flat",
+        "note": "Gale Force posts $200 to $800 and notes original manufacturer parts cost more than universal ones. UniColorado posts $500 to $1,100 and Rabbit $950 to $1,275.",
+        "sources": [
+          {
+            "name": "Gale Force Heating & Air, Denver metro, posted repair price guide, read 2026-08-23",
+            "url": "https://www.galeforceheating-air.com/blog/how-much-does-furnace-repair-cost-in-denver-a-2026-homeowners-guide"
+          },
+          {
+            "name": "UniColorado, Denver, posted component replacement prices, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Rabbit Heating and Air, Denver and Thornton, posted flat rate list, read 2026-08-23",
+            "url": "https://rabbitheating.com/furnace-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Integrated control board replaced",
+        "low": 300,
+        "high": 1450,
+        "basis": "flat",
+        "note": "Gale Force posts $300 to $950, UniColorado $500 to $1,000, Rabbit $950 to $1,450. Erratic fault codes make the diagnosis time as variable as the part.",
+        "sources": [
+          {
+            "name": "Gale Force Heating & Air, Denver metro, posted repair price guide, read 2026-08-23",
+            "url": "https://www.galeforceheating-air.com/blog/how-much-does-furnace-repair-cost-in-denver-a-2026-homeowners-guide"
+          },
+          {
+            "name": "UniColorado, Denver, posted component replacement prices, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Rabbit Heating and Air, Denver and Thornton, posted flat rate list, read 2026-08-23",
+            "url": "https://rabbitheating.com/furnace-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Variable speed or ECM blower motor replaced",
+        "low": 600,
+        "high": 2075,
+        "basis": "flat",
+        "note": "UniColorado posts $600 to $1,600, Gale Force $1,500 to $2,000 for an ECM, Rabbit $1,475 for an ECM and $2,075 for a variable speed motor.",
+        "sources": [
+          {
+            "name": "UniColorado, Denver, posted component replacement prices, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Gale Force Heating & Air, Denver metro, posted repair price guide, read 2026-08-23",
+            "url": "https://www.galeforceheating-air.com/blog/how-much-does-furnace-repair-cost-in-denver-a-2026-homeowners-guide"
+          },
+          {
+            "name": "Rabbit Heating and Air, Denver and Thornton, posted flat rate list, read 2026-08-23",
+            "url": "https://rabbitheating.com/furnace-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Heat exchanger replaced on a furnace worth keeping",
+        "low": 1000,
+        "high": 5000,
+        "basis": "flat",
+        "note": "Gale Force posts $1,000 to $3,500 and UniColorado $1,900 to $3,700. Plumbline posts $3,000 to $5,000 and up to eight hours on the job.",
+        "sources": [
+          {
+            "name": "Gale Force Heating & Air, Denver metro, posted repair price guide, read 2026-08-23",
+            "url": "https://www.galeforceheating-air.com/blog/how-much-does-furnace-repair-cost-in-denver-a-2026-homeowners-guide"
+          },
+          {
+            "name": "UniColorado, Denver, posted component replacement prices, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Plumbline Services, Denver area, posted heat exchanger cost, read 2026-08-23",
+            "url": "https://plumblineservices.com/help-guides/should-i-replace-my-heat-exchanger-or-buy-a-new-furnace"
+          }
+        ]
+      },
+      {
+        "job": "Furnace changed out with the permit pulled",
+        "low": 3200,
+        "high": 12000,
+        "basis": "flat",
+        "note": "UniColorado posts $3,200 to $5,800, Right Way $3,800 to $10,500 by efficiency tier including permit and disposal, Plumbline $4,500 to $12,000 for this area.",
+        "sources": [
+          {
+            "name": "UniColorado, Denver, posted furnace replacement range, read 2026-08-23",
+            "url": "https://unicolorado.com/pricing/furnace-repair-cost/"
+          },
+          {
+            "name": "Right Way Mechanical, west Denver metro, posted installed price tiers, read 2026-08-23",
+            "url": "https://rightwaymechanicalco.com/furnace-replacement-cost-colorado/"
+          },
+          {
+            "name": "Plumbline Services, Denver area, posted gas furnace installation range, read 2026-08-23",
+            "url": "https://plumblineservices.com/help-guides/should-i-replace-my-heat-exchanger-or-buy-a-new-furnace"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Capitol Hill",
-  "Five Points",
-  "Highland",
-  "Washington Park",
-  "Park Hill",
-  "Harvey Park"
- ],
- "symptoms": [
-  "furnace_not_heating",
-  "furnace_wont_turn_on",
-  "furnace_blows_cold_air",
-  "furnace_making_noise"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Heat Restored Today, Price First",
- "trust_third": "Repair price quoted before work begins",
- "services": [
-  {
-   "slug": "furnace-repair",
-   "name": "Furnace Repair",
-   "nav": "Furnace repair",
-   "h1": "Furnace Repair",
-   "accent": "Heat Restored Fast",
-   "keyword": "furnace repair",
-   "icon": "wrench"
-  },
-  {
-   "slug": "furnace-tune-up",
-   "name": "Furnace Tune-Up",
-   "nav": "Furnace tune-up",
-   "h1": "Furnace Tune-Up",
-   "accent": "Heat Tuned for Reliable Performance",
-   "keyword": "furnace tune up",
-   "icon": "check"
-  },
-  {
-   "slug": "furnace-ignition-repair",
-   "name": "Furnace Ignition Repair",
-   "nav": "Ignition repair",
-   "h1": "Furnace Ignition Repair",
-   "accent": "Ignition Problems Fixed Safely",
-   "keyword": "furnace ignition repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "furnace-blower-motor-repair",
-   "name": "Furnace Blower Motor Repair",
-   "nav": "Blower motor repair",
-   "h1": "Furnace Blower Motor Repair",
-   "accent": "Airflow Restored to Every Room",
-   "keyword": "furnace blower motor repair",
-   "icon": "gear"
-  }
- ],
- "symptom_service": [
-  "furnace-repair",
-  "furnace-ignition-repair",
-  "furnace-repair",
-  "furnace-blower-motor-repair"
- ],
- "_market": {
-  "keyword": "denver furnace repair",
-  "monthly_price": 1250,
-  "score": 72,
-  "volume": 200,
-  "cpc_usd": 50.0,
-  "weakest_competitor": "brothersplumbing.com",
-  "competitor_dr": 37.0
- }
 }

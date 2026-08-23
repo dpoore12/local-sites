@@ -277,3 +277,79 @@ What to gather after the collision
 ## emergency_note
 
 If anyone is in immediate danger or needs medical help, call 911. For a non-emergency crash claim, preserve the documents and seek appropriate care before making a final settlement decision.
+
+## pricing_lede
+
+Pennsylvania puts one hard percentage in its fee law, and it is not the one drivers expect: twenty percent belongs to workers' compensation, while an auto claim in Dauphin County is governed by a reasonableness rule with no ceiling at all, alongside statutory court costs and a required medical benefit that are fixed to the dollar.
+
+## pricing_body
+
+### The auto claim has no ceiling, and that is the finding
+
+Pennsylvania Rule of Professional Conduct 1.5(a) says a lawyer shall not enter into an
+agreement for, charge, or collect an illegal or clearly excessive fee. Eight factors decide
+propriety. Is the fee fixed or does it ride on the result. How much time, labor, novelty
+and skill did the matter demand. Did accepting it shut out other engagements. What does
+comparable work command locally. How does the size of the claim compare with the outcome
+produced. What deadlines did the client or the situation force. How deep and how long has
+the professional relationship run. What is the lawyer's standing and ability. A comment to the rule acknowledges that other law may impose a
+ceiling on the percentage. For a Harrisburg collision claim, no such law does.
+
+### The twenty percent everyone half-remembers
+
+Section 442 of the Workers' Compensation Act is where the number lives. Counsel fees
+agreed between a claimant and counsel must be approved by the workers' compensation judge
+or the board, and may not exceed twenty per centum of the amount awarded. The same section
+caps fees at a fifth of a compromise and release settlement, and it lets a judge award a
+reasonable fee without regard to any percentage where counsel's work produces a favorable
+result with no immediate award, as in a termination or suspension fight.
+
+That figure gets repeated on the street as though it governed every injury in
+Pennsylvania. It does not. If a Camp Hill delivery driver is hit on Cameron Street while
+working, the compensation side of that same crash is capped at a fifth and the third-party
+claim against the other driver is not capped at all. Same crash, two rulebooks.
+
+### The MCARE question, answered plainly
+
+Pennsylvania's medical malpractice statute, the MCARE Act of 2002, is often assumed to cap
+attorney fees the way California's malpractice statute does. It was read for this page. It
+does not. Section 509 discusses periodic payment of future medical damages after the
+proportionate share of counsel fees and costs is paid, and sets a $100,000 line below which
+a claimant may object to periodic payments. Nowhere does the act state a percentage limit.
+
+### What the paperwork must contain
+
+Rule 1.5(b) requires that the basis or rate of the fee be communicated in writing to a
+client the lawyer has not regularly represented. Rule 1.5(c) requires a contingent fee
+agreement to be in writing stating how the fee is determined, the percentages for
+settlement, trial and appeal, which case outlays are charged against the money collected,
+and the order of operations between subtracting them and figuring the fee. It also requires
+something people forget to ask for: at the conclusion of the matter, a written statement of
+the outcome that shows the remittance and how it was determined. Request that statement
+rather than a lump-sum check with a handwritten note.
+
+### Court costs in Dauphin County are statutory, and small
+
+A claim inside the $12,000 civil limit belongs before a magisterial district judge, where
+the 2026 cost table set under 42 Pa.C.S. 1725.1 runs $68.50 for actions of $500 or less,
+$91 above $500 through $2,000, $114 above $2,000 through $4,000, and $171 from $4,001 to
+$12,000. An order of execution costs $51.50 and an objection to levy $23. Postage and
+registered mail sit outside those figures and fall on the plaintiff. A larger claim moves
+to the Court of Common Pleas at the courthouse on Market Street, where the prothonotary's
+own fee schedule governs and should be checked at the counter before filing.
+
+### The coverage number that decides who pays first
+
+Every Pennsylvania auto liability policy must carry medical benefit coverage of at least
+$5,000 under 75 Pa.C.S. 1711. That is the money treating an Allison Hill fender-bender in
+the first weeks, long before any liability question is settled, and it is why a bill can
+land in collections while a claim is open. Ask how the first-party benefit is being
+coordinated, and get the answer in writing.
+
+### What actually deserves scrutiny
+
+Whether the percentage steps up, and at which docket event. Whether expenses are itemized
+and whether an estimate precedes an expert retention. Whether the closing written statement
+is promised. Whether a compensation claim is running beside the liability claim, because
+the twenty percent limit applies to one of them and not the other, and a single blended
+figure across both is a warning rather than a convenience.

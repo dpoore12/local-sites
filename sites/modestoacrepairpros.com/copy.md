@@ -263,7 +263,7 @@ Four failures account for most of the cooling calls that come out of Modesto. Ea
 
 ## problem_nudge
 
-None of this is a diagnosis. Only gauges and a meter on your own equipment will confirm the failure. Recognising which of these four patterns matches your house is simply what puts the correct parts in the van before it sets out.
+None of this is a diagnosis. Only gauges and a meter on your own equipment will confirm the failure. Recognizing which of these four patterns matches your house is simply what puts the correct parts in the van before it sets out.
 
 ## expect_eyebrow
 Before the service call starts
@@ -275,3 +275,43 @@ What the technician needs to know
 ## emergency_note
 
 If water is coming through a ceiling or pooling near the air handler, switch the system off at the thermostat. If a breaker trips again the moment you reset it, leave it off and say so when you call.
+
+## pricing_lede
+
+What follows is drawn from prices Modesto and Stanislaus County heating and air companies publish themselves, set against the city's permit fee for a system replacement, the rebate the municipal utility pays on qualifying equipment, and the metro wage figure for the trade.
+
+## pricing_body
+
+### A valley summer sets the price of everything
+
+Modesto's cooling season is long, dry and punishing, with stretches of triple digit afternoons that leave a system running most of the day. Equipment here does not fail gently in the shoulder season; it fails in July, under full load, at the same hour as everyone else's. And the trade pool is small: the May 2025 median wage for heating and air conditioning mechanics and installers in the Modesto metro was $31.13 an hour, across roughly 470 people in the entire metro area.
+
+That scarcity, not greed, is why priority scheduling in a valley heat wave is worth something and why several local shops publish a diagnostic fee at all: it is the mechanism that keeps a truck available. Whether the fee is credited varies. One Modesto company states it is waived when a paid repair is authorized, another states plainly that the diagnostic does not apply toward repairs, refrigerant or labor charges. Same visit, different math, and worth one question before booking.
+
+### Why the repair band runs from a hundred dollars to six hundred
+
+The most common valley failures are electrical rather than mechanical: a run capacitor cooked by weeks of high ambient temperature, a contactor with pitted points, a thermostat that quit. Those are parts measured in tens of dollars and visits measured in an hour, which is why local shops cluster their published repair range in the low hundreds and one Modesto company puts the average local repair a little over three hundred dollars.
+
+What pushes a job past that is anything sealed or anything in the airflow path. Finding a refrigerant leak is a search priced separately from the repair, quick at a service valve and slow inside a coil. Orchard dust and valley agricultural debris load up condenser coils here in a way coastal markets do not see, and a clogged coil raises head pressure and eventually cooks a compressor, so coil cleaning is maintenance rather than an upsell.
+
+### What Modesto charges, and what MID pays back
+
+Repairs are not permitted work. A replacement is. Under the City of Modesto Building Safety Division development user fees, fiscal year 2025-26, the minor mechanical, plumbing and electrical permit covering an HVAC replacement is $242, and a water heater replacement permit is $139. That is larger than most Texas or Arizona cities charge, and California also requires duct leakage testing on many changeouts, a step that never appears on a national price page.
+
+Running the other direction is the rebate. Modesto Irrigation District pays $350 on a qualifying central air conditioner and $600 at the higher efficiency tier, with central heat pumps at $450 and $700, on equipment up to 65,000 Btu per hour. That is money against the replacement figure in the table, and it depends on the installed equipment qualifying and the paperwork being filed. Ask which tier the proposed equipment hits, because the gap between the two tiers is often smaller than the gap between the two rebates.
+
+### Reading a Modesto estimate
+
+The diagnostic fee belongs on its own line with its treatment stated in writing. A component repair names the part and separates part from labor. Refrigerant is quoted by the pound with the type named and the quantity stated. A leak search is a separate line from the leak repair, because they are separate jobs.
+
+On a changeout, the estimate names the condenser and coil by model number, the tonnage, the efficiency rating, whether the lineset is reused, the thermostat, any duct or electrical work, the leakage test if one is required, the Modesto permit as its own line, and the rebate amount with a note on who files for it.
+
+### The oversell here
+
+The dominant pattern in this valley is the repair-or-replace conversation arriving before the diagnosis does. Local pages even publish a rule of thumb for it, multiplying the system's age in years by the cost of the repair and replacing when the result clears five thousand. It is a reasonable heuristic and it cuts both ways: a six year old system facing a six hundred dollar repair scores thirty six hundred and should be repaired, and any technician who reaches for replacement on that system is selling rather than diagnosing.
+
+The second pattern is oversizing. A house that never cooled well is easily sold more tonnage, but a unit too large for the load short cycles and wears out faster. Uneven cooling in an older Modesto house is usually a duct and airflow problem, which a load calculation reveals and a bigger box does not.
+
+### What the national number leaves out
+
+A number found online covers equipment and labor in a generic market. It does not carry the Modesto permit, the duct leakage testing state code requires, an electrical service that cannot take a larger circuit, disposal and refrigerant recovery on the old unit, or the rebate paperwork that turns a posted incentive into money. It also assumes a technician is available this week.

@@ -5,7 +5,7 @@
 ## RULES
 
 - Write for Virginia Beach. Every block must be unreusable on another site. The build fails if any 15 consecutive words match another site.
-- Never promise a phone consultation. Do not name a business, a licence, a review count, a price, or a year in business. No tenant is signed.
+- Never promise a phone consultation. Do not name a business, a license, a review count, a price, or a year in business. No tenant is signed.
 - Home page lands 1,300-2,300 visible words. Each service page lands 900-1,500 visible words.
 - symptom_N blocks are 40-80 word teasers only; the service page carries the detail.
 - Legal wording: follow the legal-site restricted-word rule in the phase brief. Use inquiry and the person calling. Never portray an inquiry as selected or taken on.
@@ -441,3 +441,41 @@ Choose the collision question that fits the records you have
 ## crosslink_head
 
 A different collision question?
+
+## pricing_lede
+
+Virginia handles injury fees with a reasonableness rule, a list of terms that must appear in a written contingent agreement, and a set of statutory amounts a clerk and a hospital can claim. This page walks through each of those, with the rule or code section beside it.
+
+## pricing_body
+
+### Virginia's rule requires a reasonable fee and names what that means
+
+Rule 1.5 of the Virginia Rules of Professional Conduct opens with four words that carry the whole standard: a lawyer's fee shall be reasonable. It then lists eight factors for testing one: the time and labor required, the novelty and difficulty of the questions and the skill needed; whether the matter closed off other employment; the fee customarily charged in the locality for similar services; the amount involved and the results obtained; time limits imposed by the client or the circumstances; the nature and length of the professional relationship; the experience, reputation and ability of the lawyers; and whether the fee is fixed or contingent.
+
+No percentage appears anywhere in that list. Virginia does not legislate a rate for injury work, so any figure presented as "the Virginia limit" for a car crash claim is somebody's practice rather than the Commonwealth's rule.
+
+### Rule 1.5 also controls the paperwork, and it is specific
+
+Rule 1.5(b) requires the fee to be adequately explained, and where the lawyer has not regularly represented that client, the amount, basis or rate must be communicated preferably in writing before or within a reasonable time after the representation begins. Rule 1.5(c) is stricter for contingent matters. Such an agreement has to state in writing the method by which the fee is determined, the percentages that accrue to the lawyer on settlement, trial or appeal, the litigation and other expenses deducted from the recovery, and whether those expenses come out before or after the fee is calculated. When the matter concludes, the rule requires a written statement of the outcome and, where there was a recovery, the remittance and how it was computed.
+
+A single percentage for every scenario is not what the rule contemplates, and the before-or-after question about expenses is no technicality: the same percentage applied in the two orders produces different money for the client.
+
+Virginia adds one flat prohibition that not every state has. Nonrefundable advanced legal fees are barred. Contingent fees are prohibited outright in domestic relations matters, except in rare instances, and in criminal defense.
+
+### What the Virginia Beach clerk charges to open a case
+
+Court costs in the Commonwealth are assembled from parts rather than quoted as one figure. Under Va. Code 17.1-275(A)(13) the circuit court clerk's fee in a civil action that includes a claim for money damages is $100 where the recovery sought does not exceed $49,999, $200 up to $100,000, $250 up to $500,000, and $300 above that; $10 of each fee goes to the Courts Technology Fund. A petition to approve a settlement where no action has been filed carries a $50 clerk's fee.
+
+Separately, Va. Code 58.1-1727 imposes a writ tax on commencing a civil action in a court of record: $5 where the debt or damages demanded does not exceed $49,999, $15 where the demand exceeds that but not $100,000, and $25 where it exceeds $100,000.
+
+The Virginia Beach Circuit Court's own civil fee schedule shows how a total is built, listing the components charged alongside the clerk fee and writ tax: a $9 legal aid fee, a $5 technology trust fund fee, a $4 law library fee, a $2 courthouse maintenance charge, a $1 indigent defense assessment, and a $10 court technology line on higher-tier filings. That is why a filing total here ends in an odd figure.
+
+### The claims that reach a recovery before the injured person does
+
+Virginia gives medical providers a statutory lien on an injury claim, with dollar ceilings. Under Va. Code 8.01-66.2 a hospital or nursing home lien for a just and reasonable charge cannot exceed $2,500; each physician, nurse, physical therapist or pharmacy is limited to $750; each emergency medical services provider is limited to $200. Those liens do not attach automatically: Va. Code 8.01-66.5 requires written notice to the party alleged to have caused the injury, the injured person, or that person's lawyer.
+
+Getting the records that prove the claim has its own ceilings. Va. Code 8.01-413 allows a provider to charge no more than fifty cents a page for the first fifty pages of paper copies and twenty-five cents after that, with search and handling capped at twenty dollars plus postage. For electronic production the caps are thirty-seven cents and eighteen cents a page, and the total cannot exceed $160.
+
+### One cap that is often misdescribed
+
+Virginia does cap money in medical malpractice cases, and it is not a fee cap. Va. Code 8.01-581.15 limits the total recoverable for injury to or death of a patient on a sliding annual scale: $2.70 million for acts from July 1, 2025 through June 30, 2026, and $2.75 million the following year. It constrains the judgment, not any percentage, and says nothing about a collision on Shore Drive.

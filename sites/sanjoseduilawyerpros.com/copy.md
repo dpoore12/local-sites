@@ -285,3 +285,46 @@ Four things worth putting in the file today
 ## emergency_note
 
 A DUI charge is not a physical emergency, but the DMV hearing deadline can be short. Keep the suspension notice, temporary license, and court papers together, follow any release conditions, and do not drive unless your current authorization allows it.
+
+## pricing_lede
+
+Two things get priced after a San Jose DUI arrest. One is set by the Legislature and by the Santa Clara County courts: the fine range, the assessments layered on it, the bail listing, the interlock cost and the reinstatement charges. The other is legal work, quoted as a flat sum or an hourly rate in a signed agreement, and California forbids pricing it off the verdict.
+
+## pricing_body
+
+### Scope sets the fee, the verdict never does
+
+California places the prohibition in rule 1.5 of the Rules of Professional Conduct. Subdivision (c)(2) puts a contingent fee out of reach whenever the client is a defendant facing criminal charges, no matter how the arrangement is labeled. Subdivision (a) adds a general bar on an unconscionable or illegal fee, and lists the factors that go into judging one, among them the difficulty of the questions involved, the skill required, the time and labor required, and whether the client gave informed consent to the arrangement.
+
+So a legitimate quote describes work, not results. It names the proceedings covered, the hourly rate or the fixed sum, who advances costs, and what falls outside. Rule 1.5 also allows a flat fee that is paid partly or wholly in advance, and treats a "non-refundable" label as valid only for a true retainer that buys availability rather than services. If a number arrives attached to a promise about the outcome, the arrangement is the problem, not the price.
+
+### The Santa Clara County bail schedule is public, and specific
+
+The Santa Clara County 2026 Criminal Bail Schedule, adopted under Penal Code section 1269b(d) and effective January 27, 2026, prices a Vehicle Code 23152(a) through (e) count with no priors at $5,000, or $10,000 where the alcohol level is 0.15 or higher. One prior within ten years moves it to $15,000, or $20,000 at the higher reading. Two priors are listed at $35,000 and $40,000. Three priors, charged as a felony, sit at $100,000, while a Vehicle Code 23153 count involving injury is listed at $25,000. The schedule also marks these counts eligible for supervised own recognizance release, which is why an early appearance matters more than the raw number suggests.
+
+### How a $390 fine reaches four figures in this county
+
+Vehicle Code section 23538(a)(1) sets the fine on a probationary first-offense sentence at not less than $390 and not more than $1,000. Treat $390 as the seed, because California assessments are proportional:
+
+- Penal Code section 1464(a)(1) adds $10 in state penalty for every $10 of fine, matching the fine dollar for dollar.
+- Government Code section 76000(a)(1) adds the county penalty. Santa Clara County's listed figure is $5.50 per $10, about $214 on a $390 fine, and higher than what Orange or Riverside County collects on the identical fine.
+- Penal Code section 1465.7(a) adds a 20 percent state surcharge to that same base.
+- Government Code section 70372(a)(1) adds $5 per $10 for court construction.
+- Government Code sections 76104.6 and 76104.7 add $1 and then $4 per $10 for DNA identification funding.
+- Government Code section 70373 adds a flat $30 conviction assessment, and Penal Code section 1465.8(a)(1) a flat $40 for court operations.
+
+Added up, the statutory minimum fine carries roughly $1,100 in assessments and surcharges behind it, so the courthouse total lands near $1,500 before probation conditions cost anything. Vehicle Code section 23649 permits a further assessment of not more than $100 where the judicial district runs a county alcohol and drug problem assessment program.
+
+### Probation conditions are the second bill
+
+Section 23538(b)(1) ties the license and the program together: a first offender with a result below 0.20 must complete a licensed program of at least 30 hours over three months, and a driver at 0.20 or above, or one who refused testing, must complete at least 60 hours over nine months. Program tuition is charged by the provider, not by the court, and it runs alongside the fine rather than instead of it.
+
+The interlock requirement is priced by statute as a share of the manufacturer's program cost. Vehicle Code section 23575.3(k) puts a driver at or below the federal poverty level at 10 percent of that cost, a driver at 101 to 200 percent of the poverty level at 25 percent, a driver at 201 to 300 percent at 50 percent, a CalFresh recipient at 50 percent, and a driver at 301 to 400 percent at 90 percent. Everyone above that pays the full amount. Income verification has to be provided to claim a reduced share.
+
+### Getting the license back is a separate transaction
+
+The criminal case and the license case are not the same proceeding. Vehicle Code section 14905(a) requires $125 before reissue after a suspension for refusal under section 13353 or an excessive result under section 13353.2. The published licensing fee schedule lists a $55 DUI reissue fee, a $15 administrative service fee, $15 to add and $20 to remove a second-offender court restriction, and $100 where the suspension came from the zero tolerance rule for a driver under 21. Where insurance proof is the issue, the same schedule shows a $250 financial responsibility penalty fee.
+
+### Questions worth settling before anyone signs
+
+Does the quoted sum include the administrative hearing as well as the arraignment and pretrial appearances at the Hall of Justice on West Hedding Street? Does it include a motion to suppress if the stop is challenged, and a records subpoena for the calibration and maintenance logs on the breath instrument? Is an independent analysis of a blood sample billed as a cost, and who authorizes it? Written answers to those questions describe the whole financial picture of a Santa Clara County DUI case.

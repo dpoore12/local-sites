@@ -1,139 +1,220 @@
 {
- "domain": "orlandoduilawyerpros.com",
- "phase": 1,
- "brand": "Orlando DUI Law Pros",
- "service": "DUI Lawyer",
- "service_inline": "dui lawyer",
- "city": "Orlando",
- "state": "FL",
- "state_full": "Florida",
- "counties": [
-  "Orange",
-  "Brevard"
- ],
- "area_codes": [
-  "321",
-  "407"
- ],
- "phone_display": "(321) 463-9784",
- "phone_tel": "+13214639784",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "ninth_circuit_pti_screen",
-   "title": "A local PTI screen, not an automatic result",
-   "claim": "The Ninth Judicial Circuit State Attorney\u2019s Pretrial Intervention program requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a reported alcohol level above .22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license.",
-   "why_it_matters": "Diversion is a local, fact-specific possibility rather than a result that follows automatically from a first DUI arrest. The charge, history, and case facts have to be screened early.",
-   "sources": [
-    "https://sao9th.com/second-chance-program/pretrial-intervention-pti/"
-   ],
-   "verified": "2026-08-22"
+  "domain": "orlandoduilawyerpros.com",
+  "phase": 1,
+  "brand": "Orlando DUI Law Pros",
+  "service": "DUI Lawyer",
+  "service_inline": "dui lawyer",
+  "city": "Orlando",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Orange",
+    "Brevard"
+  ],
+  "area_codes": [
+    "321",
+    "407"
+  ],
+  "phone_display": "(321) 463-9784",
+  "phone_tel": "+13214639784",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "florida_interlock_rules",
-   "title": "Ignition interlock can control when driving resumes",
-   "claim": "Florida Statute 322.2715 sets ignition-interlock minimums that vary by conviction and facts: at least six months in specified first-offense situations, at least one year for a second DUI, two years for a third DUI, and five years for a fourth or later DUI.",
-   "why_it_matters": "An interlock is tied to issuance of a permanent or restricted driver license. Its length and vehicle coverage need to be considered when evaluating the consequences of a proposed disposition.",
-   "sources": [
-    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.2715.html"
-   ],
-   "verified": "2026-08-22"
+  "local_facts": [
+    {
+      "id": "ninth_circuit_pti_screen",
+      "title": "A local PTI screen, not an automatic result",
+      "claim": "The Ninth Judicial Circuit State Attorney’s Pretrial Intervention program requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a reported alcohol level above .22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license.",
+      "why_it_matters": "Diversion is a local, fact-specific possibility rather than a result that follows automatically from a first DUI arrest. The charge, history, and case facts have to be screened early.",
+      "sources": [
+        "https://sao9th.com/second-chance-program/pretrial-intervention-pti/"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "florida_interlock_rules",
+      "title": "Ignition interlock can control when driving resumes",
+      "claim": "Florida Statute 322.2715 sets ignition-interlock minimums that vary by conviction and facts: at least six months in specified first-offense situations, at least one year for a second DUI, two years for a third DUI, and five years for a fourth or later DUI.",
+      "why_it_matters": "An interlock is tied to issuance of a permanent or restricted driver license. Its length and vehicle coverage need to be considered when evaluating the consequences of a proposed disposition.",
+      "sources": [
+        "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.2715.html"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "orange_county_case_location",
+      "title": "The court location depends on the case and notice",
+      "claim": "Orange County Clerk says felony criminal cases are processed at the Orange County Courthouse in downtown Orlando, while misdemeanor cases can be processed at any of its locations, and directs people to their court paperwork for arraignment location.",
+      "why_it_matters": "A DUI defendant should follow the individual court notice for the correct time and place rather than assume that every Orange County criminal case starts at the same courthouse.",
+      "sources": [
+        "http://www.myorangeclerk.com/Divisions/Criminal/Criminal-Court"
+      ],
+      "verified": "2026-08-22"
+    }
+  ],
+  "neighborhoods": [
+    "Thornton Park",
+    "College Park",
+    "Parramore",
+    "Lake Nona",
+    "Baldwin Park",
+    "Audubon Park"
+  ],
+  "symptoms": [
+    "first_dui_arrest",
+    "license_suspension_notice",
+    "failed_breath_test",
+    "multiple_dui_charge"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "orange_county_case_location",
-   "title": "The court location depends on the case and notice",
-   "claim": "Orange County Clerk says felony criminal cases are processed at the Orange County Courthouse in downtown Orlando, while misdemeanor cases can be processed at any of its locations, and directs people to their court paperwork for arraignment location.",
-   "why_it_matters": "A DUI defendant should follow the individual court notice for the correct time and place rather than assume that every Orange County criminal case starts at the same courthouse.",
-   "sources": [
-    "http://www.myorangeclerk.com/Divisions/Criminal/Criminal-Court"
-   ],
-   "verified": "2026-08-22"
+  "hero_accent": "Protect Your License and Record",
+  "trust_third": "Charges, deadlines, and options explained clearly",
+  "services": [
+    {
+      "slug": "first-offense-dui-defense",
+      "name": "First-Offense DUI Defense",
+      "nav": "First offense DUI",
+      "h1": "First-Offense DUI Lawyer",
+      "accent": "Charges, Deadlines and Defense Options",
+      "keyword": "first offense dui lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "dui-license-suspension",
+      "name": "License Suspension Defense",
+      "nav": "License suspension",
+      "h1": "DUI License Suspension Lawyer",
+      "accent": "Hearing Deadlines and Driving Privileges",
+      "keyword": "dui license suspension lawyer",
+      "icon": "pin"
+    },
+    {
+      "slug": "dui-breath-test-defense",
+      "name": "Breath Test Defense",
+      "nav": "Breath test defense",
+      "h1": "DUI Breath Test Defense Lawyer",
+      "accent": "Testing Process and Evidence Review",
+      "keyword": "dui breath test lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "felony-dui-defense",
+      "name": "Felony DUI Defense",
+      "nav": "Felony DUI",
+      "h1": "Felony DUI Lawyer",
+      "accent": "Serious Charges and Case Stages",
+      "keyword": "felony dui lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "first-offense-dui-defense",
+    "dui-license-suspension",
+    "dui-breath-test-defense",
+    "felony-dui-defense"
+  ],
+  "_market": {
+    "keyword": "dui lawyer orlando",
+    "monthly_price": 800,
+    "score": 83,
+    "volume": 350,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "adamsluka.com",
+    "competitor_dr": 9.0
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "criminal",
+    "table_head": "The Florida figures behind an Orlando DUI case, and the one arrangement the Bar rules forbid",
+    "col_a": "Item",
+    "col_b": "What the Florida statute or rule sets",
+    "anchors": [
+      {
+        "label": "Fine, first DUI conviction",
+        "value": "$500 - $1,000",
+        "detail": "Fla. Stat. 316.193(2)(a)1 fixes that range on a first conviction, alongside jail of not more than six months. A second conviction moves to $1,000 to $2,000.",
+        "source_name": "Fla. Stat. 316.193(2)(a)1",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/316.193"
+      },
+      {
+        "label": "Fine at 0.15 or higher, or with a passenger under 18",
+        "value": "$1,000 - $2,000",
+        "detail": "Subsection (4) raises the first-conviction fine to this band, a second conviction to $2,000 through $4,000, and a third or later conviction to not less than $4,000.",
+        "source_name": "Fla. Stat. 316.193(4)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/316.193"
+      },
+      {
+        "label": "Statutory court cost added to any DUI fine",
+        "value": "$135",
+        "detail": "Fla. Stat. 938.07 splits it three ways: $25 to the Emergency Medical Services Trust Fund, $50 to the crime laboratory trust fund, and $60 to the Brain and Spinal Cord Injury Program Trust Fund.",
+        "source_name": "Fla. Stat. 938.07",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/938.07"
+      },
+      {
+        "label": "Extra reinstatement fee after a DUI or refusal",
+        "value": "$130",
+        "detail": "Fla. Stat. 322.21(8) adds this on top of the ordinary $45 suspension or $75 revocation service fee, and allows only one $130 charge per incident.",
+        "source_name": "Fla. Stat. 322.21(8)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/322.21"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Fee measured by the result of the case",
+        "share": "Forbidden",
+        "note": "Subdivision (f)(3)(B) of the Bar fee rule states plainly that a lawyer must not enter into an arrangement for, charge, or collect a contingent fee in criminal defense.",
+        "source_name": "Rules Regulating The Florida Bar 4-1.5(f)(3)(B)",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "Third DUI conviction more than ten years after a prior",
+        "share": "$2,000 to $5,000",
+        "note": "Fla. Stat. 316.193(2)(b)2 sets that band with jail of not more than twelve months, and a fourth or later conviction carries a fine of not less than $2,000.",
+        "source_name": "Fla. Stat. 316.193(2)(b)2",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/316.193"
+      },
+      {
+        "stage": "Court cost on a criminal traffic offense",
+        "share": "$60",
+        "note": "Fla. Stat. 938.05 puts a criminal traffic offense and a misdemeanor at the same figure and a felony at $225, assessed as a cost of the case.",
+        "source_name": "Fla. Stat. 938.05(1)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/938.05"
+      },
+      {
+        "stage": "Application for court-appointed counsel",
+        "share": "$50 per application",
+        "note": "Payable to the clerk within seven days of filing, and if unpaid before disposition it is assessed at sentencing or as a probation condition.",
+        "source_name": "Fla. Stat. 27.52(1)(b)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/27.52"
+      },
+      {
+        "stage": "Ignition interlock installation charge remitted to the state",
+        "share": "$12 per installation",
+        "note": "Collected by the authorized installer under Fla. Stat. 322.2715(5) and forwarded to the department, separate from the monitoring cost the driver pays.",
+        "source_name": "Fla. Stat. 322.2715(5)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/322.2715"
+      },
+      {
+        "stage": "Payment plan at the clerk's office",
+        "share": "Monthly amount presumed affordable at $25 or 2 percent of net income",
+        "note": "Fla. Stat. 28.246(4) uses the greater of those two figures and caps the initial down payment at the lesser of ten percent of the balance or $100.",
+        "source_name": "Fla. Stat. 28.246(4)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/28.246"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Thornton Park",
-  "College Park",
-  "Parramore",
-  "Lake Nona",
-  "Baldwin Park",
-  "Audubon Park"
- ],
- "symptoms": [
-  "first_dui_arrest",
-  "license_suspension_notice",
-  "failed_breath_test",
-  "multiple_dui_charge"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Protect Your License and Record",
- "trust_third": "Charges, deadlines, and options explained clearly",
- "services": [
-  {
-   "slug": "first-offense-dui-defense",
-   "name": "First-Offense DUI Defense",
-   "nav": "First offense DUI",
-   "h1": "First-Offense DUI Lawyer",
-   "accent": "Charges, Deadlines and Defense Options",
-   "keyword": "first offense dui lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "dui-license-suspension",
-   "name": "License Suspension Defense",
-   "nav": "License suspension",
-   "h1": "DUI License Suspension Lawyer",
-   "accent": "Hearing Deadlines and Driving Privileges",
-   "keyword": "dui license suspension lawyer",
-   "icon": "pin"
-  },
-  {
-   "slug": "dui-breath-test-defense",
-   "name": "Breath Test Defense",
-   "nav": "Breath test defense",
-   "h1": "DUI Breath Test Defense Lawyer",
-   "accent": "Testing Process and Evidence Review",
-   "keyword": "dui breath test lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "felony-dui-defense",
-   "name": "Felony DUI Defense",
-   "nav": "Felony DUI",
-   "h1": "Felony DUI Lawyer",
-   "accent": "Serious Charges and Case Stages",
-   "keyword": "felony dui lawyer",
-   "icon": "bolt"
-  }
- ],
- "symptom_service": [
-  "first-offense-dui-defense",
-  "dui-license-suspension",
-  "dui-breath-test-defense",
-  "felony-dui-defense"
- ],
- "_market": {
-  "keyword": "dui lawyer orlando",
-  "monthly_price": 800,
-  "score": 83,
-  "volume": 350,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "adamsluka.com",
-  "competitor_dr": 9.0
- }
 }

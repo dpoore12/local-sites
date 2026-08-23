@@ -1,137 +1,218 @@
 {
- "domain": "jonesboropersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Jonesboro Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Jonesboro",
- "state": "AR",
- "state_full": "Arkansas",
- "counties": [
-  "Craighead"
- ],
- "area_codes": [
-  "870"
- ],
- "phone_display": "(870) 384-3198",
- "phone_tel": "+18703843198",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "arkansas_comparative_fault",
-   "claim": "Arkansas Code § 16-64-122 compares a claimant's fault with the fault of the party or parties from whom damages are sought. A claimant whose fault is less may recover damages reduced in proportion to that fault; a claimant whose fault is equal to or greater may not recover.",
-   "why_it_matters": "Responsibility needs to be investigated early. In a Jonesboro injury claim, photographs, witness information, reports, visibility conditions, and the complete sequence of events may affect both whether there is a claim and how damages are evaluated.",
-   "sources": [
-    "https://www.arkleg.state.ar.us/Home/FTPDocument?path=/Bills/1991/Public/SB645.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Arkansas has a 50-percent comparative-fault bar"
+  "domain": "jonesboropersonalinjurylawyerpros.com",
+  "phase": 1,
+  "brand": "Jonesboro Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "city": "Jonesboro",
+  "state": "AR",
+  "state_full": "Arkansas",
+  "counties": [
+    "Craighead"
+  ],
+  "area_codes": [
+    "870"
+  ],
+  "phone_display": "(870) 384-3198",
+  "phone_tel": "+18703843198",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "dual_district_circuit_court",
-   "claim": "Craighead County Circuit Court operates from a Western District location at 511 South Main Street in Jonesboro and an Eastern District courthouse at 107 Cobean Boulevard in Lake City.",
-   "why_it_matters": "The right civil filing location depends on the facts and venue rules, not simply the nearest courthouse. Accurate incident locations, addresses, and party information help determine where a Craighead County matter belongs.",
-   "sources": [
-    "https://craigheadcountyar.gov/jury"
-   ],
-   "verified": "2026-08-22",
-   "title": "Craighead County has two circuit-court districts"
+  "local_facts": [
+    {
+      "id": "arkansas_comparative_fault",
+      "claim": "Arkansas Code § 16-64-122 compares a claimant's fault with the fault of the party or parties from whom damages are sought. A claimant whose fault is less may recover damages reduced in proportion to that fault; a claimant whose fault is equal to or greater may not recover.",
+      "why_it_matters": "Responsibility needs to be investigated early. In a Jonesboro injury claim, photographs, witness information, reports, visibility conditions, and the complete sequence of events may affect both whether there is a claim and how damages are evaluated.",
+      "sources": [
+        "https://www.arkleg.state.ar.us/Home/FTPDocument?path=/Bills/1991/Public/SB645.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Arkansas has a 50-percent comparative-fault bar"
+    },
+    {
+      "id": "dual_district_circuit_court",
+      "claim": "Craighead County Circuit Court operates from a Western District location at 511 South Main Street in Jonesboro and an Eastern District courthouse at 107 Cobean Boulevard in Lake City.",
+      "why_it_matters": "The right civil filing location depends on the facts and venue rules, not simply the nearest courthouse. Accurate incident locations, addresses, and party information help determine where a Craighead County matter belongs.",
+      "sources": [
+        "https://craigheadcountyar.gov/jury"
+      ],
+      "verified": "2026-08-22",
+      "title": "Craighead County has two circuit-court districts"
+    },
+    {
+      "id": "regional_medical_draw",
+      "claim": "UAMS Family Medical Center in Jonesboro states that it serves an 11-county region that includes Craighead and surrounding Northeast Arkansas counties.",
+      "why_it_matters": "Care after an injury may involve facilities and providers beyond the county where the incident occurred. Listing every provider, treatment date, and record location keeps a claim timeline complete.",
+      "sources": [
+        "https://uamshealth.com/location/fmc-jonesboro/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Jonesboro care often reaches beyond Craighead County"
+    }
+  ],
+  "neighborhoods": [
+    "West End",
+    "Downtown",
+    "Hill Park",
+    "Sage Meadows",
+    "Candlewood",
+    "Ridgepointe"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "regional_medical_draw",
-   "claim": "UAMS Family Medical Center in Jonesboro states that it serves an 11-county region that includes Craighead and surrounding Northeast Arkansas counties.",
-   "why_it_matters": "Care after an injury may involve facilities and providers beyond the county where the incident occurred. Listing every provider, treatment date, and record location keeps a claim timeline complete.",
-   "sources": [
-    "https://uamshealth.com/location/fmc-jonesboro/"
-   ],
-   "verified": "2026-08-22",
-   "title": "Jonesboro care often reaches beyond Craighead County"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "jonesboro personal injury lawyer",
+    "monthly_price": 500,
+    "score": 75,
+    "volume": 400,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "wellsandwellslaw.com",
+    "competitor_dr": 2.7
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "Published Arkansas figures behind a Craighead County injury claim, and the blank where a fee cap would be",
+    "col_a": "What somebody is asking about",
+    "col_b": "What Arkansas has written down",
+    "anchors": [
+      {
+        "label": "Ceiling on an injury contingency percentage",
+        "value": "Arkansas sets none",
+        "detail": "The rule requires only that a fee be reasonable, and gives eight factors for measuring that. No Arkansas statute assigns a percentage to a negligence recovery.",
+        "source_name": "Ark. R. Prof. Conduct 1.5(a)",
+        "source_url": "https://law.justia.com/cases/arkansas/supreme-court/2016/2016-ark-286.html"
+      },
+      {
+        "label": "Opening a civil case, Craighead County Circuit Clerk",
+        "value": "$167.50",
+        "detail": "The clerk's published amount for initiating a cause of action including the initial summons, built on the $150.00 statutory base. The county's own fee page lists $165.00 for the same line.",
+        "source_name": "Craighead County Circuit Clerk filing fees",
+        "source_url": "https://www.craigheadcircuitclerk.com/filling-fees"
+      },
+      {
+        "label": "Legislated limit on an injury or death recovery",
+        "value": "Constitutionally forbidden",
+        "detail": "Article 5 says that apart from workers' compensation, no law shall be enacted limiting the amount to be recovered for injuries resulting in death or for injuries to persons or property.",
+        "source_name": "Ark. Const. art. 5, sec. 32",
+        "source_url": "https://law.justia.com/constitution/arkansas/article-5/section-32/"
+      },
+      {
+        "label": "The only Arkansas fee percentage, and it is workers' compensation",
+        "value": "25% of indemnity benefits",
+        "detail": "Valid only with Workers' Compensation Commission approval, and on a controverted claim the carrier pays half of it on top of the benefits while the claimant pays the other half.",
+        "source_name": "Ark. Code Ann. 11-9-715(a)(1)(B)",
+        "source_url": "https://law.justia.com/codes/arkansas/title-11/chapter-9/subchapter-7/section-11-9-715/"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Share of a Jonesboro injury recovery",
+        "share": "Negotiated, reviewed for reasonableness",
+        "note": "The eight factors weigh time and labor, difficulty, the fee customarily charged locally, the amount involved and results obtained, the length of the relationship, and whether payment is contingent.",
+        "source_name": "Ark. R. Prof. Conduct 1.5(a)",
+        "source_url": "https://law.justia.com/cases/arkansas/supreme-court/2016/2016-ark-286.html"
+      },
+      {
+        "stage": "Any engagement likely to produce a fee above this",
+        "share": "$1,000.00",
+        "note": "Above that figure the agreement must be confirmed in writing and must state the method by which sums due to the lawyer will be calculated.",
+        "source_name": "Ark. R. Prof. Conduct 1.5(b)(2)",
+        "source_url": "https://law.justia.com/cases/arkansas/supreme-court/2016/2016-ark-286.html"
+      },
+      {
+        "stage": "Content of the contingent agreement",
+        "share": "Writing, with percentages named",
+        "note": "It states the percentages accruing on settlement, trial and appeal, the expenses deducted, whether that happens before or after the fee, and a closing written statement follows.",
+        "source_name": "Ark. R. Prof. Conduct 1.5(c)",
+        "source_url": "https://law.justia.com/cases/arkansas/supreme-court/2016/2016-ark-286.html"
+      },
+      {
+        "stage": "Compensation appeal fees, a separate system",
+        "share": "$500 and $1,000 maximums",
+        "note": "Five hundred dollars on appeal to the full Commission and one thousand on appeal to the Court of Appeals or Supreme Court, with a $200 change-of-physician fee alongside.",
+        "source_name": "Ark. Code Ann. 11-9-715(b)(2)",
+        "source_url": "https://law.justia.com/codes/arkansas/title-11/chapter-9/subchapter-7/section-11-9-715/"
+      },
+      {
+        "stage": "Sheriff serving a summons or subpoena",
+        "share": "$30.00 each",
+        "note": "Charged for every person named unless several are served at one location, with $20.00 to return the paper and $100.00 for a writ of execution.",
+        "source_name": "Ark. Code Ann. 21-6-307(a)(1)",
+        "source_url": "https://law.justia.com/codes/arkansas/title-21/chapter-6/subchapter-3/section-21-6-307/"
+      },
+      {
+        "stage": "Reopening a closed circuit court case",
+        "share": "$50.00",
+        "note": "Set statewide by statute, matching the transfer fee, and the county government page lists the same amount for a reopening.",
+        "source_name": "Ark. Code Ann. 21-6-403(b)(3)",
+        "source_url": "https://law.justia.com/codes/arkansas/title-21/chapter-6/subchapter-4/section-21-6-403/"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "West End",
-  "Downtown",
-  "Hill Park",
-  "Sage Meadows",
-  "Candlewood",
-  "Ridgepointe"
- ],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
-  }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "jonesboro personal injury lawyer",
-  "monthly_price": 500,
-  "score": 75,
-  "volume": 400,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "wellsandwellslaw.com",
-  "competitor_dr": 2.7
- }
 }

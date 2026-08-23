@@ -269,3 +269,39 @@ What belongs in an injury file
 ## emergency_note
 
 If anyone needs urgent medical help, call 911 or go to the nearest emergency department. Preserve claim information after immediate care is underway.
+
+## pricing_lede
+
+An injury fee in Santa Ana is set by contract, not by statute, and the Orange County Superior Court prices its filings to the dollar on a schedule anyone can download. Here is what each of those documents actually says.
+
+## pricing_body
+
+### Start with the document a client signs
+
+Orange County's court fees are public and rigid. The fee agreement is neither, and it is the only place a percentage exists. Business and Professions Code section 6147 tells you what has to be inside it. The agreement is written and signed by both sides, and the client walks away with a duplicate signed copy the same day. It states the contingency rate the two of them agreed on. It states how disbursements and costs incurred in prosecuting or settling the claim will affect the fee and the client's recovery, which is the clause that decides how much money changes hands at the end. It states what the client might owe for related matters outside the agreement. And because a traffic or premises claim is not one of the health care cases covered by section 6146, the agreement must say the fee is not set by law but is negotiable between attorney and client. That is a legislative instruction to bargain, printed inside the form.
+
+If the same firm bills anything hourly, a second statute applies. Section 6148 requires a written contract in any matter outside section 6147 where it is reasonably foreseeable that total expense to the client, fees included, will exceed $1,000.
+
+### What "no cap" actually means in California
+
+There is no percentage ceiling for an Orange County crash or fall claim. The California Rules of Professional Conduct address the subject at rule 1.5(a), which bars a fee that is unconscionable or otherwise illegal and stops there. Rule 1.5(b) then supplies the test, applied on the facts as they stood at signing unless the parties anticipated that later events would change the fee, and its factor list is expressly open-ended. Among them: overreaching during the negotiation; material facts withheld; what the work was actually worth set beside what the fee came to; how sophisticated each side was; how hard the questions were; the sum at stake and the outcome reached; deadlines the client imposed; the lawyers' experience; fixed versus contingent structure; informed consent. A reviewing court weighs those. It does not consult a table.
+
+### The Orange County schedule, line by line
+
+The court's civil fee schedule is where exact numbers live. A complaint in an unlimited civil case, over $35,000, is $435, and every other party pays $435 on its first paper. A motion or other paper requiring a hearing is $60 unless it is that party's first paper. Summary judgment or summary adjudication is $500. Keeping a jury costs $150 in advance, nonrefundable, followed by daily jury deposits in an amount the court sets. Court reporter per diem for a proceeding running past an hour is $430 a half day and $860 a full day, and an extra reporter is billed at the same rate. Processing a change of venue is $50, with the motion fee charged separately. A complex designation adds $1,000 for the plaintiff side and $1,000 per defendant, to an $18,000 ceiling.
+
+Then there is the line nobody budgets for. Orange County charges an electronic filing convenience fee of $2.25 per transaction. One filing is trivial. A litigated claim with motions, declarations, notices and exhibits submits documents dozens of times, and the total lands somewhere real. It is a small example of the general rule that court costs arrive in a stream rather than a lump.
+
+### Why the same claim costs more to work here than the schedule suggests
+
+Filing fees are identical statewide, so the difference between a $3,000 cost file and a $30,000 one is never the clerk. It is depositions, records and experts. Santa Ana sits at the junction of the 5, the 22 and the 55, which means multi-vehicle collisions, commercial vehicles making deliveries into the county's industrial corridors, and drivers insured through carriers that litigate rather than settle. Add a language-access requirement for a deposition, which is routine in a city where a large share of households speak Spanish or Vietnamese at home, and the interpreter is another cost line the fee agreement should address before it appears.
+
+### The trap: percentages borrowed from a different statute
+
+Search for California contingency limits and someone will hand you 25 percent and 33 percent. Those come from Business and Professions Code section 6146, and they govern one thing: an action for injury or damage against a health care provider based on alleged professional negligence, with the percentage measured against the net sum recovered after costs and the two tiers turning on whether all parties signed a release before a complaint or arbitration demand was filed. The statute expressly refuses to treat the plaintiff's own medical expenses or a firm's overhead as deductible costs, and a lawyer who tried the case can move for more on a showing of good cause.
+
+Nothing in section 6146 reaches a lane-change collision on Bristol Street or a slip in a Main Place walkway. A page that quotes those numbers for ordinary injury work has told you something about the page, not about the law.
+
+### What to check before signing anything
+
+Confirm the rate and whether it changes if the case is filed or tried. Confirm whether the percentage is calculated before or after costs come off. Confirm who advances costs and what happens to them if the claim recovers nothing. Confirm that the negotiability sentence is in the document, because the Legislature required it. Ask for the duplicate signed copy at the table rather than by mail. None of that is adversarial. It is the arithmetic the statute assumed a client would do.

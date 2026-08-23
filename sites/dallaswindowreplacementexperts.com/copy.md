@@ -6,7 +6,7 @@
 
 - All wording belongs to the Dallas window-replacement market and should not be reusable elsewhere. The site validator rejects a run of fifteen matching words from another site.
 - Present a site visit and completed installation work, never a paid or promised phone discussion. The price is set before installation begins.
-- Do not invent a company, licence credential, review total, operating history, or stated dollar amount; no tenant has been assigned.
+- Do not invent a company, license credential, review total, operating history, or stated dollar amount; no tenant has been assigned.
 - This first phase contains the home, about, and contact pages only. Do not add service-page copy.
 - The visible home-page total must stay from 1,700 to 3,200 words.
 - Each of the four symptom sections carries 200–360 words because it is the complete phase-one explanation.
@@ -287,3 +287,41 @@ Details that help measure the job correctly
 ## emergency_note
 
 Window replacement is normally scheduled work. Keep loose or broken glass away from people and pets, and leave an unstable sash closed until the opening is inspected.
+
+## pricing_lede
+
+Window and door replacement prices published by Dallas-area companies, opening by opening and package by package, plus the city permit line and the honest status of the federal energy credit. None of these figures is a quote.
+
+## pricing_body
+
+### Per window is the only unit that compares
+
+Every whole-house number in this trade is a per-opening price multiplied by a count, so the first thing to do with any proposal is divide. A quote of $14,000 means nothing until it becomes $14,000 across 16 openings, or $875 each, at which point it can be set beside a published per-window figure and judged. Companies in this market post installed vinyl anywhere from roughly $400 to $1,350 per opening, fiberglass from about $700, and aluminum-clad wood past $2,000, and the same house can be quoted at all three levels without anybody misbehaving.
+
+Three variables drive position inside a band. Frame material and brand tier come first and account for most of the spread. Installation method comes second: an insert reuses the existing frame, while a full-frame tear-out goes to the rough opening and rebuilds trim, flashing, and sometimes the sill. Size and glass come third, and they are lumpy rather than linear. A large fixed pane, a tempered unit beside a door, or grids between the panes add cost at one opening while the rest of the house stays flat.
+
+### What Dallas houses do to the number
+
+The local stock explains most of the surprises. Mid-century neighborhoods full of single-pane aluminum sliders swap out easily in principle and hide the most problems: frames set directly into masonry, no sheathing behind the brick return, and steel lintels above the opening. Older pier-and-beam bungalows bring wood windows with weights and pulleys, cord pockets, and casings worth preserving, which pushes toward a full-frame approach and a higher line. Newer construction runs large openings and stacked windows that need two crew members per unit and sometimes glass carried by machine, which is a labor cost, not a product cost.
+
+North Texas heat is the reason this market cares about glass specification more than frame color. West-facing glass takes brutal afternoon load, so solar heat gain coefficient does more work in Dallas than U-factor does. A cheap double-pane unit with clear glass and no low-emissivity coating will feel scarcely better than what came out. Ask for the performance numbers on the label rather than the marketing name of the glass package.
+
+### Permits, plainly
+
+The adopted City of Dallas development services fee schedule prices alterations or repairs of single-family and duplex structures at $181 per dwelling unit, adds $100 for additional trades, and sets a minimum inspection fee of $125 for one trade. No line in that schedule names windows, which is exactly why practice varies: a straight glass-and-sash swap inside an unchanged opening is treated very differently from work that widens an opening, alters a header, or converts a window into a door. If a contractor proposes cutting masonry or changing an opening size, structural review enters the picture and the permit conversation stops being a formality. Confirm in writing who pulls it and whose money pays for it.
+
+### The tax credit conversation, told straight
+
+The federal 25C credit paid 30 percent of product cost with a $600 annual cap for windows and skylights meeting the ENERGY STAR Most Efficient criteria. It applied to products purchased and installed between January 1, 2023 and December 31, 2025. IRS guidance on the 2025 tax law states the credit will not be allowed for any property placed in service after December 31, 2025. So for work being scheduled now, that credit is closed. Anyone still using it as a reason to sign this month is either behind on the law or counting on the homeowner to be. Utility and manufacturer programs come and go independently and should be verified at the source, not taken from a sales sheet.
+
+### Reading a real window quote
+
+It lists every opening with location, size, style, and glass package, so the count is auditable. It states insert versus full-frame per opening rather than for the house as a whole. It names manufacturer, product line, frame material, and performance ratings. It says what happens to trim, whether stucco or brick returns are patched and by whom, and how the perimeter is sealed and flashed. It separates labor from product, states lead time in weeks, and splits warranty into the manufacturer's glass promise and the installer's workmanship promise.
+
+### The upsell pattern here
+
+The whole-house package sold to fix two failed windows. Fogging between panes means a sealed unit lost its seal, and in a sound frame the honest fix is a glass-only swap. The reverse trap exists too: repeated glass swaps in aluminum frames that sweat every winter, where replacement would have solved the real complaint. The tiebreaker is the frame. If it is straight, drains, and operates, keep it.
+
+### What the numbers here leave out
+
+Rotted sill or trim discovered on tear-out. Structural work at an altered opening. Interior paint after full-frame installation. Alarm sensor and blind reinstallation. Disposal of old aluminum and glass. And the second visit when one custom unit arrives wrong, which is common enough to plan around rather than be surprised by.

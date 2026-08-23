@@ -277,3 +277,41 @@ What helps produce a useful foundation evaluation
 ## emergency_note
 
 If a sudden structural change makes part of the house feel unsafe, stay clear of that area and arrange an on-site evaluation. Do not use temporary shims or jacks as a substitute for a structural plan.
+
+## pricing_lede
+
+Foundation repair prices published by Austin companies, scoped from a single crack to a full perimeter of piers, alongside the engineering standard the work is measured against. Every figure comes from somebody else's published page and none of it is a quote.
+
+## pricing_body
+
+### A pier price is not a job price
+
+The most common way a homeowner misreads this market is by anchoring on the per-pier number. Austin companies publish per-pier figures between roughly $900 for a pressed concrete piling and $4,000 for a helical steel pier driven to load-bearing capacity. Both are real, and neither answers the question, because the total is pier price times pier count, plus mobilization, access, and whatever gets put back. Eight to twelve piers along one settled side is a different project from twenty-four around a full perimeter, and the published totals show it.
+
+Pier count is not really negotiable either. It comes out of an elevation survey and a load path, so a lower count at the same coverage is a weaker repair. Compare pier type, count, depth criteria, and lift target first; the dollar figure only means something once those match.
+
+### Method drives cost more than brand does
+
+Pressed concrete pilings are cylinders driven hydraulically in segments until refusal, and they suit a typical slab in stable material at the lower end of the band. Steel push piers go deeper and carry more. Helical piers are turned in to a measured torque where soil is inconsistent or a lift must be precise, and they top the per-pier band. Injection is a separate category: it fills voids and lifts flatwork rather than supporting the structure, so it is no substitute for underpinning.
+
+Access decides the rest. Exterior piers along a clear side yard go quickly. Interior piers mean cutting the slab inside or tunneling from outside, and tunneling is priced by the foot. Add a mature pecan, a patio to demolish, or a plumbing line under the slab, and the same pier count costs more.
+
+### The Austin soil question, stated precisely
+
+The USDA official series description for the Austin soil series puts clay at 35 to 55 percent of the particle-size control section. That single fraction is the mechanism behind nearly every slab complaint in this city. High-clay material expands when wet and contracts when dry, and a slab on it rides that movement seasonally. What makes the metro unusual is how sharply the ground changes across it. West of the Balcones escarpment the material is thin over limestone, so failures there tend to be localized. East and southeast the clay is deep, and movement is broad and cyclical.
+
+So two houses ten minutes apart get different diagnoses and different prices, and a contractor quoting a standard package without an elevation survey has skipped the part that decides both. Drought followed by heavy rain is the worst case, because a slab dropping along a dry perimeter gets pushed back unevenly when the clay rehydrates.
+
+### What the engineering standard actually says
+
+The Texas Section ASCE guidelines for the evaluation and repair of residential foundations, Version 2, state that the evaluation and repair design shall be performed by a professional engineer licensed in the State of Texas, and that the engineer who seals the documents is the engineer of record with approval authority over changes. The same guidelines adopt the residential code deflection limit of L over 360 as the analogous limit for judging a foundation profile, and note that a floor slope greater than 1 percent is usually noticeable.
+
+Read that against how repairs get sold. Drywall cracks and a sticking door are symptoms, not measurements. The engineer's question is whether the measured profile exceeds the deflection limit and whether symptoms support that conclusion. That is why the evaluation row earns its cost on any job past a few piers: a sealed report sets an independent lift target and a document to hold the work against. Austin lists foundation repair among the residential minor repairs handled through its Residential Express Building Permit, so paperwork is light but an inspection still attaches.
+
+### Reading a fair foundation proposal
+
+It includes the elevation readings in a diagram with low points marked. It states pier type, count, and locations, plus the refusal or torque criteria used to stop driving. It states the intended lift in inches and admits what will crack during it. It names who runs a plumbing test before and after, which matters on clay where a leaking sewer line under a slab is often the cause rather than the consequence. It separates patching, landscaping, and cosmetic repair into their own lines, and puts warranty terms and transferability in writing.
+
+### What these numbers exclude
+
+The plumbing repair if a hydrostatic test fails. Drainage correction, root barriers, and grading, which are what keep a fix stable. Drywall, tile, and paint after a lift. Fence sections removed for access. Engineering fees bought independently. And the second phase some houses need after a season of watching.

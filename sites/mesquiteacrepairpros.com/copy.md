@@ -275,3 +275,43 @@ What helps prepare the repair visit
 ## emergency_note
 
 If you smell burning, see smoke, have a breaker that will not stay on, or find water near electrical equipment, turn the cooling system off and keep clear until a technician can inspect it.
+
+## pricing_lede
+
+These figures come from price lists published by air conditioning companies working Mesquite and the east side of Dallas County, alongside the flat mechanical permit the city charges, the utility incentive that offsets a replacement, and the coverage the state requires of the contractor.
+
+## pricing_body
+
+### What an aging east county housing stock costs to cool
+
+Mesquite is not a new suburb. Large parts of it were built out through the 1960s and 1970s, which explains most of the spread in the table above: original duct systems, a furnace and coil crammed into a hall closet or a low attic, undersized returns, and in a shrinking number of cases equipment designed for R-22 refrigerant.
+
+R-22 is the expensive part. It has been phased out of production and the price of what remains reflects that. One east side price list puts R-22 at roughly double the per pound figure it charges for R-410A, so an identical leak repair on a twenty year old system is not comparable to one on a ten year old system.
+
+### Flat fees, and the after hours line
+
+East Dallas County shops tend to price service calls as a flat diagnostic rather than an open hourly rate, which helps a homeowner compare quotes. Watch two things anyway. First, whether that fee is credited toward the repair. Second, the after hours premium, which several local pages publish as a standalone figure added on top of the repair. That is why the table lists the premium separately: a midnight visit for a failed capacitor is the daytime capacitor price plus the surcharge, and knowing both numbers lets a homeowner decide whether the problem can wait until morning. If the house is holding a survivable temperature and nobody in it is medically vulnerable, waiting until business hours is often the least expensive decision available.
+
+### The permit is small, the rebate is not
+
+Mesquite prices a residential mechanical permit, condenser and furnace replacement included, at a flat $65, and a residential plumbing permit at the same $65, under the City of Mesquite code of ordinances, permit fee sections 12-102 and 12-104. Against a five figure replacement that is a rounding error, but it is a test: a contractor unwilling to pull a $65 permit is telling you the work may go uninspected.
+
+The number that actually moves a replacement decision is the utility incentive. Oncor's 2025 residential efficiency program pays an incentive capped by system size, from $2,000 at two tons up to $3,400 at five, on qualifying high efficiency equipment installed by an enrolled contractor. It only reaches the homeowner if the company doing the work participates, so ask whether it does and whether the incentive is already inside the quoted price.
+
+There is a state floor underneath all of this. Texas requires a Class A air conditioning and refrigeration contractor to carry $300,000 per occurrence in property damage and bodily injury coverage, with a $600,000 aggregate, and Class B minimums at a third of those amounts. That coverage is part of why a properly registered company cannot match a truck and a phone number on price.
+
+### Reading an estimate on the east side
+
+An estimate should separate the service call fee, state whether it is credited, and put the after hours premium on its own line if one applies. Refrigerant should be quoted per pound with the type named, because R-22 versus R-410A is the difference between a reasonable repair and a bad investment. A leak search is its own line, separate from the repair, and a repair claim should be backed by where the leak was found.
+
+On a replacement, the estimate names both pieces of equipment by model number, the tonnage, the efficiency rating, the fate of the existing duct system, whether the coil and lineset are new, the thermostat, the city permit, and the Oncor incentive if one applies.
+
+### The trap in this market
+
+The pattern here is the aging system used as leverage on a small repair. A twenty year old unit in Mesquite genuinely is near the end of its service life, and any technician standing in front of one will say so. That does not make a $500 repair the wrong choice, and it does not justify skipping the diagnosis. A homeowner facing this decision has better arithmetic available than a sales pitch: weigh the repair cost against the remaining years the equipment can plausibly run and against the incentive available on a replacement, and ask for the failed part to be shown and the reading that condemned it.
+
+The second pattern is a full duct replacement bundled into every changeout by default. Some houses in this city need it. Plenty need two hours of sealing and one new return, and a static pressure reading tells the difference.
+
+### What a national average leaves out
+
+Cost pages built on national data do not know about a 1970s hall closet that will not take a modern furnace cabinet, a panel with no room for a larger circuit, a lineset run through slab, recovery of phased out refrigerant, the city permit, or the incentive paperwork an enrolled contractor has to file before the credit exists.

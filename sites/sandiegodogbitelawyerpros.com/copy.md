@@ -7,7 +7,7 @@
 - Write for this city. Every block must be unreusable on another site.
   The build fails if any 15 consecutive words match another site.
 - Never promise legal advice by phone. Explain the legal subject, not a phone service.
-- Never name a business, a licence, a review count, a price or a year
+- Never name a business, a license, a review count, a price or a year
   in business. No tenant is signed, so none of it is true yet.
 - Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
 - symptom_N blocks are 40-80 word teasers only. The depth goes on the
@@ -440,3 +440,37 @@ For an ordinary private-owner personal-injury action, Code of Civil Procedure se
 ### Organize a policy-centered inquiry
 
 Keep the declarations page, policy forms, endorsements, letters, report number, medical records and bills, photos, witness information, and a dated contact log in one place. The person calling can take an orderly insurance inquiry to an attorney of their choosing instead of attempting to reconstruct policy terms while recovering from an injury.
+
+## pricing_lede
+
+A dog bite claim here is normally taken on for a share of whatever the claim eventually pays, and California fixes no number for that share, so this page sets out what the State Bar rule and section 6147 force into the written agreement, what the Superior Court charges to move a case through, and the small city amounts that attach to the animal.
+
+## pricing_body
+
+### California regulates the fee without capping it
+
+Rule 1.5(a) of the California Rules of Professional Conduct runs to one sentence: no lawyer may enter into an agreement for, charge, or collect a fee that is unconscionable or illegal. That is the whole of the limit for a bite claim in this state. There is no graduated schedule and no ceiling by stage of the case. So the figure written into a contingency fee agreement in San Diego is a proposal being made to a client, not a rate the state handed down, and a person reading one is entitled to push back on it.
+
+### Thirteen things that decide whether a fee is unconscionable
+
+Rule 1.5(b) judges the fee on the facts as they stood when the agreement was signed, except where both sides expected later events to change it. The listed considerations run from whether the lawyer engaged in fraud or overreaching while setting the fee, and whether material facts went undisclosed, through the proportion between the fee and the value of the work performed, the relative sophistication of lawyer and client, the novelty and difficulty of the questions, the chance that taking the matter shuts out other employment, the sum at stake and what was achieved, and the ability of the people actually doing the work.
+
+### What section 6147 forces onto the page
+
+Business and Professions Code section 6147(a) requires the contingency contract to be in writing, signed by both the attorney and the client or the client's guardian, with a duplicate copy handed to the client when it is signed. Four things have to appear in it. The agreed contingency rate, at 6147(a)(1). How disbursements and costs will hit both the fee and the client's own recovery, at (a)(2). Whether the client could owe compensation for related matters the contract does not cover, at (a)(3). And, at (a)(4), a plain statement that the fee is not set by law and is negotiable between attorney and client. Subdivision (b) supplies the teeth: a contract that misses any of this is voidable at the client's option, and the attorney is then limited to a reasonable fee.
+
+### The percentages that belong to a different case
+
+California does cap contingency percentages in exactly one area, and a dog bite is not it. Section 6146(a) covers claims against a health care provider based on professional negligence, and there the limits are 25 percent of the amount recovered when the case settles before a complaint or arbitration demand is filed, and 33 percent afterward, with 6146(a)(3) letting the plaintiff's attorney move for more on evidence of good cause. Those figures get quoted loosely around injury work generally. They have no application to a claim against a dog owner, a landlord, or a homeowners insurer, and a contract citing them for this kind of claim is citing the wrong statute.
+
+### When the person bitten is a child
+
+Children take a large share of serious bites, and a child's money runs on a separate track. Rule 7.955(a)(1) requires the court to apply a reasonable fee standard when allowing attorney fees payable out of money paid for the benefit of a minor, unless it approved the fee agreement in advance. Subdivision (b) gives fourteen nonexclusive factors, including three specific to contingent arrangements at (b)(13): the risk of loss the attorney carried, the costs advanced, and the delay in being paid. Subdivision (c) requires a declaration from the attorney addressing whichever factors apply, and (d) voids local rules that try to set their own standard. Under rule 7.952(a), the person petitioning and the child both have to appear at the hearing unless the court excuses them for good cause. Where the court orders a guardianship investigation, Probate Code 1513.1 puts that at $800 on the San Diego schedule.
+
+### What the courthouse actually charges
+
+Litigation costs are published, not negotiated. San Diego's Fee Schedule 1, effective July 1, 2026, puts a first paper in an unlimited civil case at $435 under Government Code 70611, with the same $435 due from each other party filing an answer. A motion requiring a hearing is $60, summary judgment is $500 under 70617(d), and the nonrefundable advance jury fee is $150 under Code of Civil Procedure 631(b). Court reporting is $30 for a proceeding under an hour and $573 beyond that. A complex designation adds $1,000 for the plaintiffs and $1,000 per defendant, capped at $18,000. These are case costs, and the agreement should state who advances them and what becomes of them if nothing is recovered.
+
+### The paperwork attached to the dog
+
+San Diego Humane Society sells licenses for the City of San Diego at $20 for one year, $35 for two and $50 for three when the dog is altered, and $60, $100 and $150 when it is not, a spread Food and Agricultural Code 30804.5 requires. A late renewal adds $25, and a change of ownership or a transfer from another jurisdiction $15 each. None of that decides a claim, but a lapsed license, a prior impoundment, or a dangerous dog determination the owner paid $45 to appeal all become records that speak to what the owner knew.

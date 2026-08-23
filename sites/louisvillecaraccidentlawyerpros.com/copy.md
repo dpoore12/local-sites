@@ -269,3 +269,79 @@ What to gather before making a final claim decision
 ## emergency_note
 
 If you need urgent medical care after a crash, seek it first. For the claim, save the report number, policy information, and insurer correspondence rather than relying on memory later.
+
+## pricing_lede
+
+Kentucky writes an exact fee schedule for work injuries and nothing at all for car wrecks, and this page separates the two: what SCR 3.130(1.5) demands of a written agreement, what the Jefferson Circuit Court clerk collects, and the two dollar figures in the no-fault statute that shape a Louisville claim before any fee question arises.
+
+## pricing_body
+
+### One state, two very different rules
+
+Start with the rule the Supreme Court of Kentucky adopted. SCR 3.130(1.5)(a) forbids
+agreeing to, charging, or collecting a fee that is unreasonable, and applies that same word
+to the amount charged for expenses. Eight factors set the measure: labor and hours against
+the novelty and difficulty of the questions; work turned away to take the case; the going
+local charge for similar service; how the stakes compare with the outcome; deadlines in
+play; the history between lawyer and client; reputation, skill and standing; and whether
+payment is fixed or rides on the result. No percentage appears. For a crash on
+the Watterson Expressway or a rear-end collision in the Highlands, reasonableness is the
+entire ceiling.
+
+Now the contrast. KRS 342.320 governs a workers' compensation claim with arithmetic rather
+than judgment: twenty percent of the first $25,000 of the award, fifteen percent of the next
+$25,000, ten percent of the remainder, and a maximum fee of $18,000 for contracts signed on
+or after July 14, 2018. No fee is paid until an administrative law judge approves it, the
+approval motion is due within thirty days after the claim becomes final, and the fee comes
+out of the employee's award or settlement proceeds. Kentucky knew how to write a cap. It
+chose not to write one for motor vehicle claims.
+
+### What the written agreement has to carry
+
+Under SCR 3.130(1.5)(c) a contingent fee agreement must be in a writing signed by the
+client, and must state how the amount is determined, the percentages accruing on
+settlement, at trial and on appeal, what litigation outlays get charged against the sum
+collected, and whether that subtraction happens ahead of the fee calculation or after. Two
+requirements in the Kentucky version deserve special attention. The agreement must clearly
+notify the client of any expenses the client will owe whether or not the client prevails.
+And at the conclusion of the matter, the lawyer must provide a written statement of the
+outcome showing the remittance and the method by which it was determined.
+
+Paragraph (d) closes two doors: no fee tied to the result for a criminal defendant, and no
+fee in a domestic relations matter contingent on securing a divorce or on the amount of
+alimony, maintenance, support or property settlement, apart from liquidated sums already in
+arrears.
+
+### The two figures in the no-fault statute
+
+Kentucky is a choice no-fault state, and two numbers drive the early stage of a Louisville
+claim. Basic reparation benefits are capped at $10,000 for all economic loss to one injured
+person from one accident under KRS 304.39-020, regardless of how many carriers might owe
+them. And KRS 304.39-060 allows recovery for pain, suffering, mental anguish and
+inconvenience only where medical expense benefits exceed $1,000, or where the injury
+involves permanent disfigurement, a bone fracture, loss of a body member, permanent injury
+within reasonable medical probability, permanent loss of bodily function, or death.
+
+Those figures explain a pattern people misread as delay. Treatment gets paid from the
+reparation benefit, the $10,000 runs out faster than anyone expects on an emergency room
+visit plus imaging plus therapy, and the liability claim then has to carry both the
+remaining bills and the human loss.
+
+### Court costs, and what else leaves the recovery
+
+Filing suit in Jefferson Circuit Court costs $188 under CR 3.02(1) as amended for 2026,
+plus a $20 court technology fee and other required charges, including the court facility
+fee and library fee, collected by the circuit clerk. Those are costs of the case, not a
+fee. Depositions, medical records, records custodians, a mediator, an accident
+reconstruction opinion in a disputed intersection case, and trial exhibits are all case
+expenses too, and the written agreement decides who advances them and when.
+
+### Questions worth asking out loud
+
+What percentage applies if the claim resolves before suit, and what changes it after suit
+is filed. Whether expenses come off the top or after the fee is figured. Whether the
+expense obligation survives a defense verdict, since the rule requires that warning
+anyway. Whether a compensation claim is running in parallel, because the $18,000 statutory
+ceiling governs that half and nothing governs the other half. And whether the closing
+written statement will arrive with the settlement check, because the rule already entitles
+the client to it.

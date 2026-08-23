@@ -212,3 +212,31 @@ If your situation falls between these examples, schedule the property inspection
 
 ## emergency_note
 For a planned installation, keep the equipment area accessible and do not remove panels, disconnect wiring, or cut into ducts before the site visit. If electrical equipment is damaged, hot, smoking, or sparking, leave it alone and contact emergency services or a qualified electrician.
+
+## pricing_lede
+
+An air conditioning installation in this city is a permitted construction project with a state verification step attached, so the honest answer to what it costs has three parts: the equipment and labor, the city fee, and the independent testing that closes the file. The bands below are drawn from prices Los Angeles installers publish themselves, plus the fees the city and the state set in writing. Nothing here is a quote.
+
+## pricing_body
+
+### Why two bids on the same house differ by thousands
+
+Tonnage moves first: posted Los Angeles ranges climb roughly a thousand to two thousand dollars per ton across the two to five ton spread most single-family homes need. Efficiency moves second, and stepping to a high-efficiency inverter model adds a four-figure sum by itself. Third is what else gets touched. A condenser and matched coil on a furnace that stays put is one project. A condenser, an air handler, a new line set, pad, disconnect and circuit is another, and it is what most twenty-year-old systems actually need. Bids diverge on scope, not markup: one defers the furnace, the ducts and the compliance testing while another quotes the whole system with permit, rater visit and haul-away.
+
+### The permit is small, closing it is not
+
+A mechanical permit is required for any installation or modification of a heating or cooling system. The fee is modest. The LADBS mechanical and HVAC permit fee schedule prices a condensing unit under 25 horsepower at $24.00 and an air handling unit at $24.00, applies a $90.00 minimum once two items share one permit, then adds surcharges of 3 and 6 percent, landing a normal changeout permit near $98.
+
+Verification costs more. Replacing equipment on a ducted system triggers diagnostic duct leakage testing, and in the inland climate zones refrigerant charge verification and an airflow check too. An independent third party performs them, not the installer, and the compliance paperwork is required to close the permit even when a test is waived by exception. As of January 1, 2026 the state folded that field verification into its Energy Code compliance program, renaming the certificates and keeping the testing.
+
+### Coast, Valley, and the zone line
+
+One city sits in more than one design climate; the state's climate reference places the airport area in Climate Zone 6 and Burbank in Climate Zone 9. Refrigerant charge verification follows that zone list, so the same changeout can carry a longer test scope inland than near the water, on top of a larger cooling load. Attic access, side-yard clearance and spare breaker space decide the rest of where a job lands inside a band.
+
+### Refrigerant rules, and what incentives do
+
+Since January 1, 2025 new residential systems must use a refrigerant below 700 global warming potential, while pre-2025 equipment may still be installed and repair parts are unrestricted. That mixed shelf moved equipment costs through 2025 and 2026 and weighs on repair-or-replace math. Incentives change the net, not the bid, and the spread between equipment types is the story: $100 per ton for a straight air conditioner at 15.2 SEER2 against $1,000 to $2,500 per ton for a qualifying heat pump, paid only against a paid itemized invoice, a matching equipment certificate and a final approved permit.
+
+### Reading a changeout estimate
+
+A complete estimate names both units by model as a matched certified pair, gives tonnage, efficiency and refrigerant, and lists the line set as new or reused along with the pad, disconnect, circuit, thermostat, condensate route and disposal. It carries separate lines for the permit and for third-party energy code testing, and says who schedules the rater. National cost pages price a box and a day of labor; they omit the surcharges, the rater visit, the registry fee, a panel upgrade, and the extra return the system needed all along.

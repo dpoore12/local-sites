@@ -206,3 +206,86 @@ What to gather before a claim review
 
 ## emergency_note
 If anyone may be seriously hurt, call 911 and get medical care. For an immediate danger on the road, move to a safe place if you can do so safely.
+
+## pricing_lede
+
+North Carolina never wrote down a percentage for what may be taken out of an injury settlement, so this page lays out the standard the State Bar rule uses instead, the costs the Cabarrus County clerk collects to open a civil file, and the statute that limits what a treating provider can pull from the same recovery.
+
+## pricing_body
+
+### The rule sets a standard, not a number
+
+Rule 1.5(a) of the North Carolina Rules of Professional Conduct prohibits an illegal or
+clearly excessive fee, and prohibits charging a clearly excessive amount for expenses on
+top of it. The rule then names the eight things a fee gets measured against: the time and
+labor required along with the difficulty of the questions and the skill needed; whether
+taking the matter blocks other work; the fee customarily charged in this locality for
+similar legal services; the amount at stake and the result reached; deadlines imposed by
+the client or by circumstances; how long the professional relationship has run; the
+experience, reputation and ability of the lawyer; and whether the fee is fixed or
+contingent.
+
+Read that list again and notice what is missing. There is no percentage in it. Anyone
+searching for "the North Carolina percentage" is hunting for a figure the rule does not
+contain, and a page that hands one over is inventing it. The standard is elastic on
+purpose, because a rear-end claim resolved on a first demand and a disputed left-turn case
+tried to a Cabarrus jury are not the same piece of work.
+
+### Where the state does write down a limit
+
+Two places worth knowing about. A work injury runs on a different track: G.S. 97-90 makes
+attorney fees subject to Industrial Commission approval, and the Commission weighs time
+invested, amount involved, results achieved, whether the fee is fixed or contingent, the
+customary charge for similar services, skill level, and the nature of the services. The
+agreement has to be filed with the hearing officer before the hearing closes.
+
+The second limit protects the injured person from a different direction. Under G.S. 44-50,
+a lien asserted against the recovery by a provider who treated the injuries cannot exceed
+half of the damages recovered, and that fifty percent is figured apart from attorneys'
+fees. On a modest settlement with a long course of treatment, that statute is often the
+only reason money reaches the person who was hurt.
+
+### The sentence that quietly changes the arithmetic
+
+Rule 1.5(c) requires the agreement to be in a writing signed by the client, and requires
+it to spell out the calculation method, the percentages applying at settlement, at trial,
+and on appeal, which litigation outlays are charged against the money collected, and the
+sequence: whether those outlays leave the total ahead of the fee computation or behind it.
+That last clause is the one people skim.
+
+Take a $60,000 settlement carrying $9,000 of case expenses and a one-third share. Compute
+the share on the gross and the fee is $20,000, expenses come out next, and $31,000 is
+left. Subtract expenses first and the share is figured on $51,000, the fee is $17,000, and
+$34,000 is left. Same percentage, same expenses, $3,000 of difference decided by one
+sentence in the paperwork.
+
+### What the courthouse itself charges
+
+Court costs are separate from any fee and go to the state, not to a firm. A civil
+complaint in superior court carries a $200 total: a General Court of Justice fee of $180,
+of which ninety-five cents goes to the State Bar legal aid account, plus a $16 facilities
+fee and a $4 telecommunications and data connectivity fee. The district court total is
+$150 and a magistrate small claims filing is $96. Every item of civil process the sheriff
+serves adds $30, so a collision involving two drivers and a trucking company's registered
+agent is billed three times.
+
+Then come the real expenses of proving a claim: the crash report, certified records from
+each treating provider, deposition transcripts, a mediator's charge, and in a contested
+liability case a reconstruction review of a wreck on Concord Parkway or the US-29 corridor.
+
+### Reading the paper before signing it
+
+Ask where the percentage moves and what event moves it. Ask whether expenses are advanced
+and what happens to them if the claim ends with nothing collected. Ask for the itemized
+list of anticipated expenses and whether approval is needed before an expert is hired.
+Ask how a provider lien under the fifty percent statute will be handled, and who
+negotiates reimbursement claims that arise under other law.
+
+### The traps
+
+A tier that rises "on filing" without defining filing. An expense line with no itemization
+and no approval threshold. A verbal assurance about lien reduction that never reaches the
+signed writing. And one absolute: Rule 1.5(d)(1) bars a fee tied to the result of a
+criminal case, with a narrow exception for an asset forfeiture proceeding, so any pitch
+that bundles a traffic charge and an injury claim into one outcome-based number is
+describing something the rule forbids.

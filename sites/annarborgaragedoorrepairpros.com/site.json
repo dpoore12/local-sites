@@ -1,141 +1,276 @@
 {
- "domain": "annarborgaragedoorrepairpros.com",
- "phase": 1,
- "brand": "Ann Arbor Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Ann Arbor",
- "state": "MI",
- "state_full": "Michigan",
- "counties": [
-  "Washtenaw"
- ],
- "area_codes": [
-  "734"
- ],
- "phone_display": "(734) 888-2606",
- "phone_tel": "+17348882606",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "winter_salt_exposure",
-   "title": "Deicing material reaches the streets and the garage threshold",
-   "claim": "Ann Arbor treats 346 lane miles of Priority 1 and 2 roads with anti-icing agents, plowing and salt to bare pavement, and the city supplies residents up to five gallons of sand/salt mixture per visit during winter.",
-   "why_it_matters": "Vehicles carry wet deicing residue into a garage. On a door that already has rust at the lower edge, that is a reason to inspect the bottom brackets, cable hardware, rollers and vertical tracks rather than treating a noisy door as an opener-only problem.",
-   "sources": [
-    "https://www.a2gov.org/public-works/street-maintenance/street-snow-removal/"
-   ],
-   "verified": "2026-08-21"
+  "domain": "annarborgaragedoorrepairpros.com",
+  "phase": 1,
+  "brand": "Ann Arbor Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "state_full": "Michigan",
+  "counties": [
+    "Washtenaw"
+  ],
+  "area_codes": [
+    "734"
+  ],
+  "phone_display": "(734) 888-2606",
+  "phone_tel": "+17348882606",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "historic_district_review",
-   "title": "A visible garage change can enter historic review",
-   "claim": "The City of Ann Arbor states that all exterior work in its historic districts is regulated by the Historic District Commission and requires an application and approved Certificate of Appropriateness; proposed changes to existing accessory structures should be checked with staff for the needed review.",
-   "why_it_matters": "Repairing rollers, cables or a spring on an existing door is different from selecting a new visible garage door, changing an opening, or replacing material. Owners should confirm the property’s district status and the applicable review before ordering a replacement design.",
-   "sources": [
-    "https://www.a2gov.org/planning/historic-preservation/applications/"
-   ],
-   "verified": "2026-08-21"
+  "local_facts": [
+    {
+      "id": "winter_salt_exposure",
+      "title": "Deicing material reaches the streets and the garage threshold",
+      "claim": "Ann Arbor treats 346 lane miles of Priority 1 and 2 roads with anti-icing agents, plowing and salt to bare pavement, and the city supplies residents up to five gallons of sand/salt mixture per visit during winter.",
+      "why_it_matters": "Vehicles carry wet deicing residue into a garage. On a door that already has rust at the lower edge, that is a reason to inspect the bottom brackets, cable hardware, rollers and vertical tracks rather than treating a noisy door as an opener-only problem.",
+      "sources": [
+        "https://www.a2gov.org/public-works/street-maintenance/street-snow-removal/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "historic_district_review",
+      "title": "A visible garage change can enter historic review",
+      "claim": "The City of Ann Arbor states that all exterior work in its historic districts is regulated by the Historic District Commission and requires an application and approved Certificate of Appropriateness; proposed changes to existing accessory structures should be checked with staff for the needed review.",
+      "why_it_matters": "Repairing rollers, cables or a spring on an existing door is different from selecting a new visible garage door, changing an opening, or replacing material. Owners should confirm the property’s district status and the applicable review before ordering a replacement design.",
+      "sources": [
+        "https://www.a2gov.org/planning/historic-preservation/applications/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "rental_housing",
+      "title": "Downtown repair calls often involve renters and a separate approver",
+      "claim": "Ann Arbor’s downtown study area was 76.7% renter-occupied in 2020, while the city’s surrounding primary study area was 54.1% renter-occupied. The city’s housing assessment notes that the downtown development district includes the University of Michigan Central Campus and cites nearly 48,000 students in Ann Arbor in fall 2020.",
+      "why_it_matters": "The person who discovers a door that will not close may be a tenant, while the landlord or manager authorizes repair. Dispatch, access, documentation and approval need to be handled as separate steps rather than assuming every caller owns the garage.",
+      "sources": [
+        "https://www.a2gov.org/media/oo1kzbww/ann-arbor-mi-downtown-housing-needs-assessment.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Lower Burns Park",
+    "Old West Side",
+    "Old Fourth Ward",
+    "Northside",
+    "Water Hill",
+    "Pattengill"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "rental_housing",
-   "title": "Downtown repair calls often involve renters and a separate approver",
-   "claim": "Ann Arbor’s downtown study area was 76.7% renter-occupied in 2020, while the city’s surrounding primary study area was 54.1% renter-occupied. The city’s housing assessment notes that the downtown development district includes the University of Michigan Central Campus and cites nearly 48,000 students in Ann Arbor in fall 2020.",
-   "why_it_matters": "The person who discovers a door that will not close may be a tenant, while the landlord or manager authorizes repair. Dispatch, access, documentation and approval need to be handled as separate steps rather than assuming every caller owns the garage.",
-   "sources": [
-    "https://www.a2gov.org/media/oo1kzbww/ann-arbor-mi-downtown-housing-needs-assessment.pdf"
-   ],
-   "verified": "2026-08-21"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Ann Arbor",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Ann Arbor",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Ann Arbor",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Ann Arbor",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair ann arbor",
+    "monthly_price": 800,
+    "score": 94,
+    "volume": 150,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "annarbordoor.com",
+    "competitor_dr": 9.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What garage door work runs in Ann Arbor",
+    "anchors": [
+      {
+        "label": "Building permit, project cost up to $1,000",
+        "value": "$100",
+        "detail": "Ann Arbor prices a residential permit from estimated project cost, and the first tier includes one rough and one final inspection. A nonrefundable $15 base application fee is added to every permit.",
+        "source_name": "City of Ann Arbor building permit fee sheet, revised July 2025",
+        "source_url": "https://www.a2gov.org/media/xoynsgau/building_fees_2025v1.pdf"
+      },
+      {
+        "label": "Each extra inspection on an open permit",
+        "value": "$35",
+        "detail": "Charged per inspection added to an open permit, billed after the inspection happens. A failed rough on a new opener circuit is what usually triggers it.",
+        "source_name": "City of Ann Arbor permit fees page",
+        "source_url": "https://www.a2gov.org/building-rental-and-inspection-services/construction-and-building/permits/fees/"
+      },
+      {
+        "label": "Median hourly wage, maintenance and repair workers",
+        "value": "$23.64",
+        "detail": "May 2025 median hourly pay in the Ann Arbor metro for the occupation that covers door and opener service. A billed hourly figure carries truck, spring inventory, insurance and drive time on top of that wage.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025, Ann Arbor metro",
+        "source_url": "https://www.bls.gov/oes/current/oes_11460.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Service call to diagnose a door that will not open",
+        "low": 75,
+        "high": 145,
+        "basis": "per visit",
+        "note": "Bottom is a service fee credited back on repair. Top is diagnostic labor.",
+        "sources": [
+          {
+            "name": "Precision Garage Door of Southeast Michigan, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://precisiondoormi.com/southeast/garage-door-repair"
+          },
+          {
+            "name": "Up and Down Door, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://www.upanddowndoor.com/michigan-garage-door-repair-2/"
+          }
+        ]
+      },
+      {
+        "job": "Broken torsion springs replaced as a pair on a two-car door",
+        "low": 200,
+        "high": 475,
+        "basis": "flat",
+        "note": "Oversized wire and cones seized onto a cold shaft move it upward.",
+        "sources": [
+          {
+            "name": "Rob's Garage Door, Ypsilanti, posted price list, read 2026-08-23",
+            "url": "https://robsgaragedoor.com/services/"
+          },
+          {
+            "name": "Ann Arbor Door Systems, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://www.annarbordoor.com/garage-door-springs"
+          },
+          {
+            "name": "Up and Down Door, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://www.upanddowndoor.com/michigan-garage-door-repair-2/"
+          }
+        ]
+      },
+      {
+        "job": "Both lift cables replaced after the door hangs crooked",
+        "low": 150,
+        "high": 250,
+        "basis": "flat",
+        "note": "Salt-corroded bottom brackets that shear during removal add bracket work.",
+        "sources": [
+          {
+            "name": "Rob's Garage Door, Ypsilanti, posted price list, read 2026-08-23",
+            "url": "https://robsgaragedoor.com/services/"
+          },
+          {
+            "name": "Up and Down Door, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://www.upanddowndoor.com/michigan-garage-door-repair-2/"
+          }
+        ]
+      },
+      {
+        "job": "Annual tune-up and safety inspection on one door",
+        "low": 30,
+        "high": 100,
+        "basis": "per visit",
+        "note": "Covers lubrication, balance, hardware tightening and a reverse test on one door.",
+        "sources": [
+          {
+            "name": "A1 Garage Door Service, Dexter, posted price list, read 2026-08-23",
+            "url": "https://a1garage.com/about-a1-garage-door-service/special-offers/"
+          },
+          {
+            "name": "Overhead Door of Ann Arbor, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://overheaddoormichigan.com/residential/red-ribbon-service-plans/"
+          }
+        ]
+      },
+      {
+        "job": "Opener repaired with a gear kit or logic board",
+        "low": 100,
+        "high": 350,
+        "basis": "flat",
+        "note": "Parts for a discontinued unit or a high ceiling add cost.",
+        "sources": [
+          {
+            "name": "Up and Down Door, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://www.upanddowndoor.com/michigan-garage-door-repair-2/"
+          },
+          {
+            "name": "Rob's Garage Door, Ypsilanti, posted price list, read 2026-08-23",
+            "url": "https://robsgaragedoor.com/services/"
+          }
+        ]
+      },
+      {
+        "job": "Sectional door replaced and installed, opener reused",
+        "low": 800,
+        "high": 4000,
+        "basis": "per unit",
+        "note": "Low is a plain single-car steel door; top is oversized and insulated.",
+        "sources": [
+          {
+            "name": "Michigan Overhead Door, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://michiganoverheaddoor.com/service-areas/ann-arbor/"
+          },
+          {
+            "name": "Up and Down Door, Ann Arbor, posted price list, read 2026-08-23",
+            "url": "https://www.upanddowndoor.com/garage-door-installation-canton/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Lower Burns Park",
-  "Old West Side",
-  "Old Fourth Ward",
-  "Northside",
-  "Water Hill",
-  "Pattengill"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Ann Arbor",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Ann Arbor",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Ann Arbor",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Ann Arbor",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair ann arbor",
-  "monthly_price": 800,
-  "score": 94,
-  "volume": 150,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "annarbordoor.com",
-  "competitor_dr": 9.0
- }
 }

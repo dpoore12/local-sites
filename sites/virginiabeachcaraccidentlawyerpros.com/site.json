@@ -84,6 +84,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What Virginia's rule and the Virginia Beach clerk set in an injury claim",
+  "col_a": "Item",
+  "col_b": "What Virginia sets",
+  "anchors": [
+   {
+    "label": "Circuit court clerk's fee, claim for money damages",
+    "value": "$100 to $300",
+    "detail": "One hundred dollars where the claim seeks up to $49,999, $200 up to $100,000, $250 up to $500,000, and $300 above that. Ten dollars of each goes to the Courts Technology Fund.",
+    "source_name": "Va. Code 17.1-275(A)(13)",
+    "source_url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-275/"
+   },
+   {
+    "label": "Writ tax on commencing a civil action",
+    "value": "$5 / $15 / $25",
+    "detail": "A tax on the suit itself, tiered by the damages demanded: five dollars up to $49,999, fifteen up to $100,000, twenty-five above $100,000.",
+    "source_name": "Va. Code 58.1-1727",
+    "source_url": "https://law.lis.virginia.gov/vacode/title58.1/chapter17/section58.1-1727/"
+   },
+   {
+    "label": "Hospital lien ceiling against an injury claim",
+    "value": "$2,500",
+    "detail": "A hospital or nursing home lien for a just and reasonable charge cannot exceed $2,500, with $750 for each physician, nurse, physical therapist or pharmacy and $200 per emergency medical services provider.",
+    "source_name": "Va. Code 8.01-66.2",
+    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-66.2/"
+   },
+   {
+    "label": "Percentage ceiling on an injury fee in Virginia",
+    "value": "None stated",
+    "detail": "Rule 1.5 of the Virginia Rules of Professional Conduct requires that a fee be reasonable and lists eight factors. It fixes no percentage for injury work.",
+    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
+    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "The standard a fee must meet",
+    "share": "Reasonable, eight factors",
+    "note": "Time and labor, difficulty, the fee customarily charged locally for similar work, the amount involved and result, time limits, the relationship, experience and ability, fixed or contingent.",
+    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
+    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+   },
+   {
+    "stage": "What a contingent agreement must state in writing",
+    "share": "Four required terms",
+    "note": "The method of computing the fee, the percentages on settlement, trial and appeal, the expenses deducted from the recovery, and whether they come out before or after the fee.",
+    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(c)",
+    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+   },
+   {
+    "stage": "Nonrefundable advanced legal fees",
+    "share": "Prohibited",
+    "note": "Virginia's rule bars them outright, and at the close of a contingent matter the lawyer owes a written statement of the outcome and how the remittance was figured.",
+    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5",
+    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+   },
+   {
+    "stage": "Filing the suit in Virginia Beach Circuit Court",
+    "share": "Clerk fee plus writ tax plus local fees",
+    "note": "The clerk's schedule assembles a total from the statutory fee and tax plus a $9 legal aid fee, $5 technology trust fund fee, $4 law library fee and $2 courthouse maintenance charge.",
+    "source_name": "Virginia Beach Circuit Court civil fee schedule",
+    "source_url": "https://www.vacourts.gov/caseinfo/circuit_fees/virginia_beach_circ_civil_fees.pdf"
+   },
+   {
+    "stage": "Getting the medical records",
+    "share": "$0.50 per page, $160 cap",
+    "note": "Paper copies run up to fifty cents a page for the first fifty pages and a quarter after, with search and handling capped at twenty dollars; electronic production is capped at $160.",
+    "source_name": "Va. Code 8.01-413(B2)-(B3)",
+    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter14/section8.01-413/"
+   },
+   {
+    "stage": "Medical malpractice, a cap on recovery not on fees",
+    "share": "$2.75 million",
+    "note": "For acts of malpractice from July 1, 2026 through June 30, 2027 the total recoverable is capped by statute. It limits the verdict, not the lawyer's percentage.",
+    "source_name": "Va. Code 8.01-581.15",
+    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter21.1/section8.01-581.15/"
+   }
+  ]
+ },
  "hero_accent": "Deadlines, Evidence, What Comes Next",
  "trust_third": "Filing deadlines and evidence steps, spelled out",
  "services": [

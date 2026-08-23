@@ -1,139 +1,289 @@
 {
- "domain": "bellevuebathroomremodeling.com",
- "phase": 1,
- "brand": "Bellevue Bathroom Remodeling Pros",
- "service": "Bathroom Remodeling",
- "service_inline": "bathroom remodeling",
- "city": "Bellevue",
- "state": "NE",
- "state_full": "Nebraska",
- "counties": [
-  "Sarpy"
- ],
- "area_codes": [
-  "402",
-  "531"
- ],
- "phone_display": "(402) 698-8275",
- "phone_tel": "+14026988275",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "offutt_capehart_housing_vintage",
-   "claim": "Bellevue Public Schools records that on May 20, 1959, it and the Secretary of the Air Force entered a lease for a school within the Offutt Family Housing Annex known as Capehart Housing; the first of three elementary schools there was dedicated in 1961.",
-   "why_it_matters": "Base-adjacent Bellevue housing spans a long period, so a bathroom scope should be based on the room in front of the remodeler. Compact layouts, limited wall depth, layered finishes, tight access, and earlier updates need to be measured before fixtures and tile are selected.",
-   "sources": [
-    "https://ne50000580.schoolwires.net/domain/288"
-   ],
-   "verified": "2026-08-22",
-   "title": "Base-adjacent housing has a distinct mid-century chapter"
+  "domain": "bellevuebathroomremodeling.com",
+  "phase": 1,
+  "brand": "Bellevue Bathroom Remodeling Pros",
+  "service": "Bathroom Remodeling",
+  "service_inline": "bathroom remodeling",
+  "city": "Bellevue",
+  "state": "NE",
+  "state_full": "Nebraska",
+  "counties": [
+    "Sarpy"
+  ],
+  "area_codes": [
+    "402",
+    "531"
+  ],
+  "phone_display": "(402) 698-8275",
+  "phone_tel": "+14026988275",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "missouri_river_flood_2019",
-   "claim": "During the March 2019 Missouri River flood, water began reaching Offutt Air Force Base on March 15; two days later the Air Force reported water affecting roughly 30 base buildings and stated that personnel were battling historic flood conditions.",
-   "why_it_matters": "For basement bathrooms and lower-level finish work, the 2019 event makes it sensible to inspect for moisture evidence, prior repairs, and suitable substrate before new flooring, wall finishes, or a shower assembly conceal the space. It does not mean assuming every lower level has damage.",
-   "sources": [
-    "https://www.offutt.af.mil/News/Article/1787242/team-offutt-battling-flood-waters/",
-    "https://www.bellevue.net/information/flood-information"
-   ],
-   "verified": "2026-08-22",
-   "title": "The 2019 flood is relevant to lower-level bathroom planning"
+  "local_facts": [
+    {
+      "id": "offutt_capehart_housing_vintage",
+      "claim": "Bellevue Public Schools records that on May 20, 1959, it and the Secretary of the Air Force entered a lease for a school within the Offutt Family Housing Annex known as Capehart Housing; the first of three elementary schools there was dedicated in 1961.",
+      "why_it_matters": "Base-adjacent Bellevue housing spans a long period, so a bathroom scope should be based on the room in front of the remodeler. Compact layouts, limited wall depth, layered finishes, tight access, and earlier updates need to be measured before fixtures and tile are selected.",
+      "sources": [
+        "https://ne50000580.schoolwires.net/domain/288"
+      ],
+      "verified": "2026-08-22",
+      "title": "Base-adjacent housing has a distinct mid-century chapter"
+    },
+    {
+      "id": "missouri_river_flood_2019",
+      "claim": "During the March 2019 Missouri River flood, water began reaching Offutt Air Force Base on March 15; two days later the Air Force reported water affecting roughly 30 base buildings and stated that personnel were battling historic flood conditions.",
+      "why_it_matters": "For basement bathrooms and lower-level finish work, the 2019 event makes it sensible to inspect for moisture evidence, prior repairs, and suitable substrate before new flooring, wall finishes, or a shower assembly conceal the space. It does not mean assuming every lower level has damage.",
+      "sources": [
+        "https://www.offutt.af.mil/News/Article/1787242/team-offutt-battling-flood-waters/",
+        "https://www.bellevue.net/information/flood-information"
+      ],
+      "verified": "2026-08-22",
+      "title": "The 2019 flood is relevant to lower-level bathroom planning"
+    },
+    {
+      "id": "bellevue_permits_inspections",
+      "claim": "Bellevue’s Permits and Inspection Division says regulated construction, alteration, repair, improvement, or conversion requires a permit unless exempted, and separate plumbing, mechanical, and electrical permits are required unless exempt. It also says replacement plumbing material or rearrangement of pipes or fixtures is new work for which permits and inspections are required.",
+      "why_it_matters": "A bathroom project that changes drains, supply lines, fixtures, ventilation, walls, or electrical work needs its permit-sensitive scope identified before demolition. Those review and inspection points belong in the construction sequence before new walls, tile, or flooring conceal the work.",
+      "sources": [
+        "https://www.bellevue.net/332/Building-Permits"
+      ],
+      "verified": "2026-08-22",
+      "title": "Behind-the-wall bathroom changes must be planned around City requirements"
+    }
+  ],
+  "neighborhoods": [
+    "Olde Towne",
+    "Twin Ridge",
+    "Golden Hills",
+    "Twin Creek",
+    "Tregaron",
+    "Fontenelle Hills"
+  ],
+  "symptoms": [
+    "outdated_bathroom",
+    "damaged_shower",
+    "cracked_bathtub",
+    "needs_accessible_shower"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "bellevue_permits_inspections",
-   "claim": "Bellevue\u2019s Permits and Inspection Division says regulated construction, alteration, repair, improvement, or conversion requires a permit unless exempted, and separate plumbing, mechanical, and electrical permits are required unless exempt. It also says replacement plumbing material or rearrangement of pipes or fixtures is new work for which permits and inspections are required.",
-   "why_it_matters": "A bathroom project that changes drains, supply lines, fixtures, ventilation, walls, or electrical work needs its permit-sensitive scope identified before demolition. Those review and inspection points belong in the construction sequence before new walls, tile, or flooring conceal the work.",
-   "sources": [
-    "https://www.bellevue.net/332/Building-Permits"
-   ],
-   "verified": "2026-08-22",
-   "title": "Behind-the-wall bathroom changes must be planned around City requirements"
+  "hero_accent": "Bathroom Built Beautifully, On Plan",
+  "trust_third": "Project pricing outlined before work starts",
+  "services": [
+    {
+      "slug": "bathroom-remodel",
+      "name": "Bathroom Remodel",
+      "nav": "Bathroom remodel",
+      "h1": "Bathroom Remodel",
+      "accent": "Complete Bathroom Remodels Built Right",
+      "keyword": "bathroom remodel",
+      "icon": "house"
+    },
+    {
+      "slug": "shower-remodel",
+      "name": "Shower Remodel",
+      "nav": "Shower remodel",
+      "h1": "Shower Remodel",
+      "accent": "Showers Rebuilt for Daily Comfort",
+      "keyword": "shower remodel",
+      "icon": "drop"
+    },
+    {
+      "slug": "bathtub-replacement",
+      "name": "Bathtub Replacement",
+      "nav": "Bathtub replacement",
+      "h1": "Bathtub Replacement",
+      "accent": "New Tubs Installed Cleanly",
+      "keyword": "bathtub replacement",
+      "icon": "wrench"
+    },
+    {
+      "slug": "walk-in-shower-installation",
+      "name": "Walk-In Shower Installation",
+      "nav": "Walk-in shower",
+      "h1": "Walk-In Shower Installation",
+      "accent": "Accessible Showers Built for Everyday Use",
+      "keyword": "walk in shower installation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "bathroom-remodel",
+    "shower-remodel",
+    "bathtub-replacement",
+    "walk-in-shower-installation"
+  ],
+  "_market": {
+    "keyword": "bathroom remodeling bellevue",
+    "monthly_price": 500,
+    "score": 72,
+    "volume": 500,
+    "cpc_usd": 11.0,
+    "weakest_competitor": "vasysteam.com",
+    "competitor_dr": 0.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Sarpy County bathroom scopes, with the city fee schedule beside them",
+    "anchors": [
+      {
+        "label": "Building permit on a $20,000 bathroom",
+        "value": "$321.25",
+        "detail": "Bellevue still prices building permits off the 1997 Uniform Administrative Code table the city publishes: $69.25 for the first $2,000 of valuation plus $14.00 for each additional $1,000. Eighteen additional thousands on a twenty-thousand-dollar job brings it to $321.25.",
+        "source_name": "City of Bellevue building permit fee table",
+        "source_url": "https://www.bellevue.net/DocumentCenter/View/951/Building-Permit-Fees-PDF"
+      },
+      {
+        "label": "Plumbing permit, per fixture",
+        "value": "$9.80",
+        "detail": "Each fixture or trap is $9.80 on top of the $23.50 permit issuance charge, altering drainage or vent piping is $4.75 per fixture, and a failed plumbing reinspection is $49.50. A three-fixture bathroom therefore files at $52.90.",
+        "source_name": "City of Bellevue plumbing fee table",
+        "source_url": "https://www.bellevue.net/DocumentCenter/View/952/Plumbing-Fees-PDF"
+      },
+      {
+        "label": "Penalty for work started without a permit",
+        "value": "four times the permit fee",
+        "detail": "The master fee schedule adopted by Resolution 2026-16 multiplies the regular permit fee by four when work begins first. City licenses are cheap by comparison: a master plumber registers for $75 and a Class C residential contractor for $100 a year.",
+        "source_name": "Bellevue master fee schedule, Resolution 2026-16",
+        "source_url": "https://www.bellevue.net/DocumentCenter/View/1928/Resolution-2026-16-Master-Fee-Schedulepdf"
+      },
+      {
+        "label": "Median hourly wage, plumbers, Omaha metro",
+        "value": "$30.48",
+        "detail": "May 2025 median for 2,430 plumbers, pipefitters and steamfitters across the Omaha-Council Bluffs metro, a dollar above the Dallas-Fort Worth figure. Tile and stone setters here sit at $29.34.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_36540.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Tub taken out, tiled walk-in shower installed",
+        "low": 9000,
+        "high": 12000,
+        "basis": "flat, shower area only",
+        "note": "Demolition, waterproofing, base, walls, glass and the plumbing changes the swap forces. Tile choice is the swing factor.",
+        "sources": [
+          {
+            "name": "Omaha Bath Remodel, posted conversion range, read 2026-08-23",
+            "url": "https://www.omahabathremodel.com/how-much-does-a-shower-remodel-cost-in-omaha-ne"
+          },
+          {
+            "name": "Pritch Remodeling, Bellevue and Omaha, posted shower portion of a completed project, read 2026-08-23",
+            "url": "https://pritchremodeling.com/bathroom-remodeling/bellevue-ne/"
+          }
+        ]
+      },
+      {
+        "job": "Small bathroom, roughly forty to fifty square feet",
+        "low": 8000,
+        "high": 20000,
+        "basis": "flat, gut and replace",
+        "note": "Capehart-era and other mid-century baths in Bellevue are this size, with shallow walls that limit where pipe can run.",
+        "sources": [
+          {
+            "name": "Home Matters Construction, Omaha metro, posted small bath tiers, read 2026-08-23",
+            "url": "https://hmcomaha.com/cost/bathroom-remodeling-omaha-ne/"
+          },
+          {
+            "name": "Precision Enterprises, Omaha, posted small bath range, read 2026-08-23",
+            "url": "https://precisionenterprise.com/blog/signs-you-need-a-storage-unit/"
+          },
+          {
+            "name": "Mad City, Omaha, posted wet area range, read 2026-08-23",
+            "url": "https://madcitywindows.com/omaha/bathroom-remodeling-company/"
+          }
+        ]
+      },
+      {
+        "job": "Hall bath, whole room replaced",
+        "low": 15000,
+        "high": 30000,
+        "basis": "flat, gut and replace",
+        "note": "New subfloor, tile, vanity, toilet and shower with the layout kept. This is the most common full job in the metro.",
+        "sources": [
+          {
+            "name": "Omaha Remodeling Associates, posted hall bathroom range, read 2026-08-23",
+            "url": "https://raomaha.com/home-remodeling-cost-omaha-2026"
+          },
+          {
+            "name": "Pritch Remodeling, Bellevue and Omaha, posted typical project band, read 2026-08-23",
+            "url": "https://pritchremodeling.com/bathroom-remodeling/bellevue-ne/"
+          },
+          {
+            "name": "Home Matters Construction, Omaha metro, posted average bath tiers, read 2026-08-23",
+            "url": "https://hmcomaha.com/cost/bathroom-remodeling-omaha-ne/"
+          }
+        ]
+      },
+      {
+        "job": "Primary bath with a walk-in shower and double vanity",
+        "low": 25000,
+        "high": 80000,
+        "basis": "flat, gut and reconfigure",
+        "note": "Moving the drain or supply lines adds thousands on its own, and a lower-level bath adds a check for old moisture damage.",
+        "sources": [
+          {
+            "name": "Omaha Remodeling Associates, posted master bath range, read 2026-08-23",
+            "url": "https://raomaha.com/home-remodeling-cost-omaha-2026"
+          },
+          {
+            "name": "Precision Enterprises, Omaha, posted primary bath range, read 2026-08-23",
+            "url": "https://precisionenterprise.com/blog/signs-you-need-a-storage-unit/"
+          },
+          {
+            "name": "Home Matters Construction, Omaha metro, posted large and luxury bath tiers, read 2026-08-23",
+            "url": "https://hmcomaha.com/cost/bathroom-remodeling-omaha-ne/"
+          }
+        ]
+      },
+      {
+        "job": "Finished projects with the price published, one bathroom",
+        "low": 20000,
+        "high": 55000,
+        "basis": "completed job, as posted",
+        "note": "Real Sarpy County and Omaha jobs rather than a band: a 42 square foot Bellevue bath and a 6 by 10 Omaha bath among them.",
+        "sources": [
+          {
+            "name": "Home Matters Construction, completed Bellevue, Papillion and La Vista projects, read 2026-08-23",
+            "url": "https://hmcomaha.com/bathroom-remodeling/"
+          },
+          {
+            "name": "Pritch Remodeling, completed Omaha and Elkhorn projects, read 2026-08-23",
+            "url": "https://pritchremodeling.com/bathroom-remodeling/bellevue-ne/"
+          }
+        ]
+      },
+      {
+        "job": "Rate per square foot, standard renovation",
+        "low": 150,
+        "high": 300,
+        "basis": "per square foot",
+        "note": "Useful for sanity-checking a bid on an odd-sized room, since a small bath still needs every trade to show up.",
+        "sources": [
+          {
+            "name": "Precision Enterprises, Omaha, posted per square foot range, read 2026-08-23",
+            "url": "https://precisionenterprise.com/blog/signs-you-need-a-storage-unit/"
+          },
+          {
+            "name": "Omaha Remodeling Associates, posted per square foot range, read 2026-08-23",
+            "url": "https://raomaha.com/home-remodeling-cost-omaha-2026"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Olde Towne",
-  "Twin Ridge",
-  "Golden Hills",
-  "Twin Creek",
-  "Tregaron",
-  "Fontenelle Hills"
- ],
- "symptoms": [
-  "outdated_bathroom",
-  "damaged_shower",
-  "cracked_bathtub",
-  "needs_accessible_shower"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Bathroom Built Beautifully, On Plan",
- "trust_third": "Project pricing outlined before work starts",
- "services": [
-  {
-   "slug": "bathroom-remodel",
-   "name": "Bathroom Remodel",
-   "nav": "Bathroom remodel",
-   "h1": "Bathroom Remodel",
-   "accent": "Complete Bathroom Remodels Built Right",
-   "keyword": "bathroom remodel",
-   "icon": "house"
-  },
-  {
-   "slug": "shower-remodel",
-   "name": "Shower Remodel",
-   "nav": "Shower remodel",
-   "h1": "Shower Remodel",
-   "accent": "Showers Rebuilt for Daily Comfort",
-   "keyword": "shower remodel",
-   "icon": "drop"
-  },
-  {
-   "slug": "bathtub-replacement",
-   "name": "Bathtub Replacement",
-   "nav": "Bathtub replacement",
-   "h1": "Bathtub Replacement",
-   "accent": "New Tubs Installed Cleanly",
-   "keyword": "bathtub replacement",
-   "icon": "wrench"
-  },
-  {
-   "slug": "walk-in-shower-installation",
-   "name": "Walk-In Shower Installation",
-   "nav": "Walk-in shower",
-   "h1": "Walk-In Shower Installation",
-   "accent": "Accessible Showers Built for Everyday Use",
-   "keyword": "walk in shower installation",
-   "icon": "check"
-  }
- ],
- "symptom_service": [
-  "bathroom-remodel",
-  "shower-remodel",
-  "bathtub-replacement",
-  "walk-in-shower-installation"
- ],
- "_market": {
-  "keyword": "bathroom remodeling bellevue",
-  "monthly_price": 500,
-  "score": 72,
-  "volume": 500,
-  "cpc_usd": 11.0,
-  "weakest_competitor": "vasysteam.com",
-  "competitor_dr": 0.0
- }
 }

@@ -1,137 +1,329 @@
 {
- "domain": "coloradospringsfurnacerepair.com",
- "phase": 1,
- "brand": "Colorado Springs Furnace Repair Pros",
- "service": "Furnace Repair",
- "service_inline": "furnace repair",
- "city": "Colorado Springs",
- "state": "CO",
- "state_full": "Colorado",
- "counties": [
-  "El Paso"
- ],
- "area_codes": [
-  "719"
- ],
- "phone_display": "(719) 872-1436",
- "phone_tel": "+17198721436",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Denver",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "regional_permit_authority",
-   "claim": "The Pikes Peak Regional Building Department issues and manages building permits for Colorado Springs and lists furnace construction, installation, and replacement as projects requiring a permit.",
-   "why_it_matters": "A diagnostic repair is distinct from a furnace replacement. When the scope becomes new equipment or associated permitted mechanical work, the PPRBD permit and inspection process belongs in the job plan before the equipment is installed.",
-   "sources": [
-    "https://www.pprbd.org/Information/HomeownerPermit"
-   ],
-   "verified": "2026-08-21",
-   "title": "Colorado Springs furnace permits run through PPRBD"
+  "domain": "coloradospringsfurnacerepair.com",
+  "phase": 1,
+  "brand": "Colorado Springs Furnace Repair Pros",
+  "service": "Furnace Repair",
+  "service_inline": "furnace repair",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "state_full": "Colorado",
+  "counties": [
+    "El Paso"
+  ],
+  "area_codes": [
+    "719"
+  ],
+  "phone_display": "(719) 872-1436",
+  "phone_tel": "+17198721436",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Denver",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "extreme_wind_2021",
-   "claim": "The National Weather Service documented an extreme wind event on December 15, 2021, including a 92 mph gust at Colorado Springs Airport at 12:54 PM MST.",
-   "why_it_matters": "A furnace that begins failing after a high-wind event may warrant an inspection that includes accessible exterior intake or exhaust terminations, vent connections, and the furnace's safety response. The timing is a clue, not a diagnosis.",
-   "sources": [
-    "https://www.weather.gov/pub/ExtremeWindEvent_20211215"
-   ],
-   "verified": "2026-08-21",
-   "title": "High wind can change the inspection path"
+  "local_facts": [
+    {
+      "id": "regional_permit_authority",
+      "claim": "The Pikes Peak Regional Building Department issues and manages building permits for Colorado Springs and lists furnace construction, installation, and replacement as projects requiring a permit.",
+      "why_it_matters": "A diagnostic repair is distinct from a furnace replacement. When the scope becomes new equipment or associated permitted mechanical work, the PPRBD permit and inspection process belongs in the job plan before the equipment is installed.",
+      "sources": [
+        "https://www.pprbd.org/Information/HomeownerPermit"
+      ],
+      "verified": "2026-08-21",
+      "title": "Colorado Springs furnace permits run through PPRBD"
+    },
+    {
+      "id": "extreme_wind_2021",
+      "claim": "The National Weather Service documented an extreme wind event on December 15, 2021, including a 92 mph gust at Colorado Springs Airport at 12:54 PM MST.",
+      "why_it_matters": "A furnace that begins failing after a high-wind event may warrant an inspection that includes accessible exterior intake or exhaust terminations, vent connections, and the furnace's safety response. The timing is a clue, not a diagnosis.",
+      "sources": [
+        "https://www.weather.gov/pub/ExtremeWindEvent_20211215"
+      ],
+      "verified": "2026-08-21",
+      "title": "High wind can change the inspection path"
+    },
+    {
+      "id": "housing_vintage",
+      "claim": "Colorado Springs' housing-needs fact sheet reports a median year of construction of 1986.",
+      "why_it_matters": "A mid-1980s median points to a broad mix of original and later HVAC, thermostat, duct, and insulation work. The property age is useful background for an onsite inspection but does not decide whether a furnace can be repaired.",
+      "sources": [
+        "https://coloradosprings.gov/system/files/2025-07/hna_co_springs_factsheet_2025_07_10a_lv.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "A 1986 median points to mixed system histories"
+    }
+  ],
+  "neighborhoods": [
+    "Briargate",
+    "Old Colorado City",
+    "Patty Jewett",
+    "Downtown",
+    "Broadmoor Hills",
+    "Northgate"
+  ],
+  "symptoms": [
+    "furnace_not_heating",
+    "furnace_wont_turn_on",
+    "furnace_blows_cold_air",
+    "furnace_making_noise"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "housing_vintage",
-   "claim": "Colorado Springs' housing-needs fact sheet reports a median year of construction of 1986.",
-   "why_it_matters": "A mid-1980s median points to a broad mix of original and later HVAC, thermostat, duct, and insulation work. The property age is useful background for an onsite inspection but does not decide whether a furnace can be repaired.",
-   "sources": [
-    "https://coloradosprings.gov/system/files/2025-07/hna_co_springs_factsheet_2025_07_10a_lv.pdf"
-   ],
-   "verified": "2026-08-21",
-   "title": "A 1986 median points to mixed system histories"
+  "hero_accent": "Heat Restored Today, Price First",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "furnace-repair",
+      "name": "Furnace Repair",
+      "nav": "Furnace repair",
+      "h1": "Furnace Repair",
+      "accent": "Heat Restored Fast",
+      "keyword": "furnace repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "furnace-tune-up",
+      "name": "Furnace Tune-Up",
+      "nav": "Furnace tune-up",
+      "h1": "Furnace Tune-Up",
+      "accent": "Heat Tuned for Reliable Performance",
+      "keyword": "furnace tune up",
+      "icon": "check"
+    },
+    {
+      "slug": "furnace-ignition-repair",
+      "name": "Furnace Ignition Repair",
+      "nav": "Ignition repair",
+      "h1": "Furnace Ignition Repair",
+      "accent": "Ignition Problems Fixed Safely",
+      "keyword": "furnace ignition repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "furnace-blower-motor-repair",
+      "name": "Furnace Blower Motor Repair",
+      "nav": "Blower motor repair",
+      "h1": "Furnace Blower Motor Repair",
+      "accent": "Airflow Restored to Every Room",
+      "keyword": "furnace blower motor repair",
+      "icon": "gear"
+    }
+  ],
+  "symptom_service": [
+    "furnace-repair",
+    "furnace-ignition-repair",
+    "furnace-repair",
+    "furnace-blower-motor-repair"
+  ],
+  "_market": {
+    "keyword": "furnace repair colorado springs",
+    "monthly_price": 1000,
+    "score": 80,
+    "volume": 350,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "thewirenut.com",
+    "competitor_dr": 33.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Colorado Springs furnace work, job by job",
+    "anchors": [
+      {
+        "label": "Furnace replacement permit, El Paso County",
+        "value": "$50",
+        "detail": "The regional building department prices a furnace or boiler replacement at $50, or $75 when the vent is replaced with it. A water heater swap on its own is $40, and an air conditioning condensing unit is $30.",
+        "source_name": "Pikes Peak Regional Building Department fee schedule",
+        "source_url": "https://www.pprbd.org/Information/FeeSchedule"
+      },
+      {
+        "label": "Failed inspection, second and third visit",
+        "value": "$100 and $200",
+        "detail": "The first re-inspection is $50, the second $100, the third $200 and it cannot be scheduled for two working days. Plan examination, where it applies, is 28 percent of the building permit fee.",
+        "source_name": "Pikes Peak Regional Building Department re-inspection fees",
+        "source_url": "https://www.pprbd.org/Information/FeeSchedule"
+      },
+      {
+        "label": "Municipal utility rebate, ENERGY STAR gas furnace",
+        "value": "$900",
+        "detail": "Colorado Springs Utilities pays $900 on a qualifying ENERGY STAR furnace, $1,200 on a boiler, and $1,500 or $3,000 on heat pumps depending on tonnage and cold-climate rating.",
+        "source_name": "Colorado Springs Utilities residential HVAC rebates",
+        "source_url": "https://www.csu.org/rebates-incentives/residential-hvac"
+      },
+      {
+        "label": "Who is allowed to pull the permit",
+        "value": "H-B or H-C-1 license",
+        "detail": "Heating installation, replacement and repair plus gas piping in one and two family dwellings sits with a Mechanical Contractor B or a Gas Piping Contractor. Those are the license classes the department issues permits to.",
+        "source_name": "Pikes Peak Regional Building Department license types",
+        "source_url": "https://www.pprbd.org/Licensing/LicenseTypes"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Weekday diagnostic visit on a furnace that quit",
+        "low": 89,
+        "high": 120,
+        "basis": "per visit",
+        "note": "Four Colorado Springs shops post a flat trip and diagnosis fee. One credits it against the repair, the rest bill it either way.",
+        "sources": [
+          {
+            "name": "Highland Heating & Air, Colorado Springs, posted service call fee, read 2026-08-23",
+            "url": "https://www.highlandheatingair.com/"
+          },
+          {
+            "name": "Furnace World, Colorado Springs, posted service fee FAQ, read 2026-08-23",
+            "url": "https://www.furnaceworld.com/faqs"
+          },
+          {
+            "name": "Home Heating Service, Colorado Springs, posted service call FAQ, read 2026-08-23",
+            "url": "https://www.homeheatingservice.com/faqs"
+          },
+          {
+            "name": "Best Pro Appliance Repair, Colorado Springs, posted price list, read 2026-08-23",
+            "url": "https://www.bestprorepair-cos.com/prices.html"
+          }
+        ]
+      },
+      {
+        "job": "Smallest billable repair once a technician opens the cabinet",
+        "low": 185,
+        "high": 305,
+        "basis": "flat",
+        "note": "Best Pro posts a $120 HVAC trip charge and a separate $185 minimum labor fee, neither credited against the other, so both land on one invoice.",
+        "sources": [
+          {
+            "name": "Best Pro Appliance Repair, Colorado Springs, posted minimum labor fee, read 2026-08-23",
+            "url": "https://www.bestprorepair-cos.com/prices.html"
+          },
+          {
+            "name": "Cooper Heating & Cooling, Colorado Springs, posted furnace repair range, read 2026-08-23",
+            "url": "https://www.coopergreenteam.com/colorado-springs/heating/furnace-repair"
+          }
+        ]
+      },
+      {
+        "job": "Ignition side repair: flame sensor, igniter or thermocouple",
+        "low": 75,
+        "high": 500,
+        "basis": "flat",
+        "note": "Absolute Comfort posts $75 to $250 for a flame sensor and $150 to $400 for an igniter. Mitchell posts $100 to $500 for these common faults.",
+        "sources": [
+          {
+            "name": "Absolute Comfort, Colorado Springs, posted heating repair cost table, read 2026-08-23",
+            "url": "https://www.absolutecomfort.com/understanding-heating-repair-costs-in-colorado-springs/"
+          },
+          {
+            "name": "Mitchell Heating, Colorado Springs, posted repair cost range, read 2026-08-23",
+            "url": "https://mitchellheating.com/furnace-replacement-colorado-springs-39789/"
+          },
+          {
+            "name": "Cooper Heating & Cooling, Colorado Springs, posted furnace repair range, read 2026-08-23",
+            "url": "https://www.coopergreenteam.com/colorado-springs/heating/furnace-repair"
+          }
+        ]
+      },
+      {
+        "job": "Blower motor or another major component replaced",
+        "low": 500,
+        "high": 1600,
+        "basis": "flat",
+        "note": "Absolute Comfort posts $500 to $1,500 and up for a blower motor. Cooper puts its furnace repair ceiling at $1,600 with an average near $668.",
+        "sources": [
+          {
+            "name": "Absolute Comfort, Colorado Springs, posted heating repair cost table, read 2026-08-23",
+            "url": "https://www.absolutecomfort.com/understanding-heating-repair-costs-in-colorado-springs/"
+          },
+          {
+            "name": "Cooper Heating & Cooling, Colorado Springs, posted furnace repair range, read 2026-08-23",
+            "url": "https://www.coopergreenteam.com/colorado-springs/heating/furnace-repair"
+          }
+        ]
+      },
+      {
+        "job": "Cracked heat exchanger replaced instead of the furnace",
+        "low": 1500,
+        "high": 3500,
+        "basis": "flat",
+        "note": "Absolute Comfort posts $1,500 to $3,500 and up. Ascent puts the ceiling on any local furnace repair at $3,500, and this is the repair that reaches it.",
+        "sources": [
+          {
+            "name": "Absolute Comfort, Colorado Springs, posted heating repair cost table, read 2026-08-23",
+            "url": "https://www.absolutecomfort.com/understanding-heating-repair-costs-in-colorado-springs/"
+          },
+          {
+            "name": "Ascent HVAC & Home Solutions, Colorado Springs, posted repair cost range, read 2026-08-23",
+            "url": "https://ascentmfs.com/how-much-does-furnace-repair-cost-in-colorado-springs-in-2026/"
+          }
+        ]
+      },
+      {
+        "job": "Annual tune-up with a combustion safety check",
+        "low": 99,
+        "high": 249,
+        "basis": "flat",
+        "note": "Bergs posts $99 standard and $149 for the deeper clean, Solid Rock $149, and MSI puts single furnace tune-ups along the Front Range at $129 to $249.",
+        "sources": [
+          {
+            "name": "Bergs Heating & Air Conditioning, Colorado Springs, posted furnace service prices, read 2026-08-23",
+            "url": "https://www.bergsheating.com/furnace-service"
+          },
+          {
+            "name": "Solid Rock Heating and Air Conditioning, Colorado Springs, posted tune-up price, read 2026-08-23",
+            "url": "https://solidrockheating.com/services/heating/furnaces/furnace-tune-up/"
+          },
+          {
+            "name": "Mechanical Solutions Inc, Colorado Springs and Denver metro, posted tune-up range, read 2026-08-23",
+            "url": "https://www.msicolorado.com/colorado-springs-co-residential-heating-services/furnace-maintenance-tune-ups/"
+          }
+        ]
+      },
+      {
+        "job": "Mid efficiency 80 percent AFUE furnace changed out",
+        "low": 3000,
+        "high": 4750,
+        "basis": "flat",
+        "note": "Strong posts $3,750 single stage and $4,750 two stage variable speed installed, taxes and fees included. Mitchell posts $3,000 to $7,000 for a full replacement.",
+        "sources": [
+          {
+            "name": "Strong Heating and Cooling, Colorado Springs, posted furnace pricing, read 2026-08-23",
+            "url": "https://strongheatingcooling.com/furnace-pricing"
+          },
+          {
+            "name": "Mitchell Heating, Colorado Springs, posted replacement cost range, read 2026-08-23",
+            "url": "https://mitchellheating.com/furnace-replacement-colorado-springs-39789/"
+          }
+        ]
+      },
+      {
+        "job": "Condensing 96 to 97 percent AFUE furnace changed out",
+        "low": 6300,
+        "high": 12000,
+        "basis": "flat",
+        "note": "Bergs posts an installed figure beginning at $6,300, Strong $6,500 and $8,250 by stage, and Awesome Home Services a $4,600 to $12,000 replacement band.",
+        "sources": [
+          {
+            "name": "Bergs Heating & Air Conditioning, Colorado Springs, posted installed estimate, read 2026-08-23",
+            "url": "https://www.bergsheating.com/online-estimate"
+          },
+          {
+            "name": "Strong Heating and Cooling, Colorado Springs, posted furnace pricing, read 2026-08-23",
+            "url": "https://strongheatingcooling.com/furnace-pricing"
+          },
+          {
+            "name": "Awesome Home Services, Colorado Springs, posted pricing guide, read 2026-08-23",
+            "url": "https://www.awesomeservice.com/pricing-guide/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Briargate",
-  "Old Colorado City",
-  "Patty Jewett",
-  "Downtown",
-  "Broadmoor Hills",
-  "Northgate"
- ],
- "symptoms": [
-  "furnace_not_heating",
-  "furnace_wont_turn_on",
-  "furnace_blows_cold_air",
-  "furnace_making_noise"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Heat Restored Today, Price First",
- "trust_third": "Repair price quoted before work begins",
- "services": [
-  {
-   "slug": "furnace-repair",
-   "name": "Furnace Repair",
-   "nav": "Furnace repair",
-   "h1": "Furnace Repair",
-   "accent": "Heat Restored Fast",
-   "keyword": "furnace repair",
-   "icon": "wrench"
-  },
-  {
-   "slug": "furnace-tune-up",
-   "name": "Furnace Tune-Up",
-   "nav": "Furnace tune-up",
-   "h1": "Furnace Tune-Up",
-   "accent": "Heat Tuned for Reliable Performance",
-   "keyword": "furnace tune up",
-   "icon": "check"
-  },
-  {
-   "slug": "furnace-ignition-repair",
-   "name": "Furnace Ignition Repair",
-   "nav": "Ignition repair",
-   "h1": "Furnace Ignition Repair",
-   "accent": "Ignition Problems Fixed Safely",
-   "keyword": "furnace ignition repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "furnace-blower-motor-repair",
-   "name": "Furnace Blower Motor Repair",
-   "nav": "Blower motor repair",
-   "h1": "Furnace Blower Motor Repair",
-   "accent": "Airflow Restored to Every Room",
-   "keyword": "furnace blower motor repair",
-   "icon": "gear"
-  }
- ],
- "symptom_service": [
-  "furnace-repair",
-  "furnace-ignition-repair",
-  "furnace-repair",
-  "furnace-blower-motor-repair"
- ],
- "_market": {
-  "keyword": "furnace repair colorado springs",
-  "monthly_price": 1000,
-  "score": 80,
-  "volume": 350,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "thewirenut.com",
-  "competitor_dr": 33.0
- }
 }

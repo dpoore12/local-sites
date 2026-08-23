@@ -8,14 +8,14 @@
   The build fails if any 15 consecutive words match another site.
 - Never promise a phone consultation. Sell the work: what gets fixed,
   what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year
+- Never name a business, a license, a review count, a price or a year
   in business. No tenant is signed, so none of it is true yet.
 - PHASE 1: this site is home + about + contact only. No service pages.
 - Home page lands 1,700-3,200 visible words.
 - symptom_N blocks are 200-360 words each. In phase 1 the card IS the
   coverage of that problem, so give it the full explanation.
 - site.json needs 3 local_facts with a real source URL each, and 6
-  neighbourhoods, before this will build.
+  neighborhoods, before this will build.
 
 ---
 
@@ -223,3 +223,47 @@ Four details that make the early work more precise
 
 ## emergency_note
 This is not an emergency-response service. If someone is in immediate danger on the water or road, call 911; otherwise, preserve the paperwork and address the listed date or deadline promptly.
+
+## pricing_lede
+
+A DUI arrest in Newport Beach produces two separate money questions, and they are answered by different people. Orange County and the state fix the fine, the assessments, the bail figure and the license fees by statute. The attorney fee is fixed by a written agreement, is never a share of how the case ends, and this page keeps the two apart.
+
+## pricing_body
+
+### Why there is no percentage anywhere on this page
+
+Rule 1.5 of the California Rules of Professional Conduct closes the door on outcome-based pricing in a criminal matter. Subdivision (c)(2) says a lawyer shall not make an agreement for, charge, or collect "a contingent fee for representing a defendant in a criminal case." There is no exception for a first-offense misdemeanor and no version of the rule that allows a bonus if a charge is reduced.
+
+What is permitted instead is a flat fee for described work, or an hourly rate billed against an advance. A fee labeled "earned on receipt" or "non-refundable" is allowed only when it is a true retainer paid to secure availability, with written agreement after disclosure. Business and Professions Code section 6148 then requires a signed written contract whenever total expense to the client is reasonably foreseeable above $1,000, spelling out the basis of compensation, the general nature of the work, and who is responsible for what.
+
+### Bail comes first, and Orange County publishes the number
+
+Before any of the statutory penalties matter, there is the bail figure at booking. The Orange County Superior Court 2026 Uniform Bail Schedule, adopted under Penal Code section 1269b(c) and effective January 1, 2026, lists $2,500 for a first misdemeanor violation of Vehicle Code 23152(a) or (b). A second offense is listed at $10,000, a third at $15,000, a fourth at $50,000 as a felony filing, and a Vehicle Code 23153 count involving injury at $100,000. The schedule states that bail on these counts is not doubled under Vehicle Code section 42009.
+
+### The base fine is the smallest piece of the total
+
+This is where most readers guess wrong. Vehicle Code section 23536(a) sets the first-conviction fine at not less than $390 and not more than $1,000. That $390 is a base fine, and California law then stacks proportional add-ons on it:
+
+- Penal Code section 1464(a)(1): a state penalty of $10 for every $10 of fine, which by itself equals the base fine again.
+- Government Code section 76000(a)(1): the county penalty, $5.29 per $10 in Orange County, or about $206 on a $390 base.
+- Penal Code section 1465.7(a): a 20 percent state surcharge on that same base fine.
+- Government Code section 70372(a)(1): $5 per $10 for court construction.
+- Government Code sections 76104.6 and 76104.7: $1 per $10 and a further state-only $4 per $10 for DNA identification funding.
+- Government Code section 70373: a flat $30 conviction assessment on a misdemeanor or felony.
+- Penal Code section 1465.8(a)(1): a flat $40 court operations assessment.
+
+Run the arithmetic on the statutory minimum and a $390 fine turns into roughly $1,500 in fine plus assessments before a single program, test or insurance consequence is counted. Government Code section 76000.5 lets a county add another $2 per $10 for emergency medical services on top. Anyone budgeting from the $390 figure alone is off by about a factor of four.
+
+### Two Newport Beach items that do not show up in generic DUI math
+
+Government Code sections 53150 and 53155 let a public agency bill a driver whose intoxication caused an emergency response for the cost of that response, capped at $12,000 for a single incident. On Pacific Coast Highway, on Jamboree, or on the Newport Coast grades, that response can involve a city engine company, paramedics and the county fire authority, and the bill is separate from anything a court orders.
+
+The second is on the water. Harbor Code enforcement around the Balboa Peninsula and the harbor entrance runs on Harbors and Navigation Code section 655, and section 668(e) sets a fine of not more than $1,000 and up to six months in county jail for a first violation of subdivisions (b) through (e). A section 655(f) violation, where impairment causes injury, carries $250 to $5,000 under section 668(g). A boating case is a different statute with different exposure from a Vehicle Code count, and a fee agreement should say which one it covers.
+
+### The Department of Motor Vehicles runs its own track
+
+The license consequence is administrative and moves on its own clock. Vehicle Code section 14905(a) requires a $125 fee before a license is reissued after a suspension for refusing a chemical test under section 13353 or driving with an excessive blood alcohol level under section 13353.2. The department fee schedule lists a separate $55 DUI reissue fee, $100 for a zero tolerance suspension of a driver under 21, a $15 administrative service fee, and a $250 financial responsibility penalty fee where proof of insurance is at issue. Section 23649 adds an assessment of not more than $100 for the county alcohol and drug problem assessment program.
+
+### What actually moves the size of a defense fee
+
+Four things, none of them the size of the fine. Whether the matter includes a Department of Motor Vehicles hearing as well as the criminal case, a second proceeding with its own record. Whether there is a prior within ten years, which changes the sentencing floor and the bail listing. Whether the blood or breath result is contested, since a challenge to the draw, the instrument log or the calibration record means records requests, an expert and a contested hearing at the Harbor Justice Center. And whether the case is set for trial rather than resolved, which is the single largest difference in hours. Ask where the written scope ends.

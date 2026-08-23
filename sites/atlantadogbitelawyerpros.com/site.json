@@ -84,6 +84,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What Georgia's fee rule fixes in a Fulton County dog bite claim, and what it leaves open",
+  "col_a": "What it covers",
+  "col_b": "What Georgia sets",
+  "anchors": [
+   {
+    "label": "Filing a general civil action, Fulton County Superior Court",
+    "value": "$215",
+    "detail": "Paid to the Clerk when the complaint is docketed, with a further $8.00 for each party added beyond the first.",
+    "source_name": "Fulton County Clerk of Superior Court fee schedule",
+    "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
+   },
+   {
+    "label": "Factors that decide whether a fee is reasonable",
+    "value": "8",
+    "detail": "Georgia measures a fee against eight listed factors, one of which is the fee customarily charged in the locality for similar work.",
+    "source_name": "Ga. R. Prof. Conduct 1.5(a)",
+    "source_url": "https://www.gabar.org/handbook?rule=rule55"
+   },
+   {
+    "label": "Annual Atlanta dog owner's permit",
+    "value": "$3.00",
+    "detail": "Charged per dog six months or older, capped at $10.00 for a household however many dogs it keeps.",
+    "source_name": "Atlanta Code of Ordinances 18-61(a)(4)",
+    "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO"
+   },
+   {
+    "label": "Sheriff service of the complaint",
+    "value": "$50",
+    "detail": "The Fulton schedule lists this for service by the Sheriff, with subpoena service billed separately at $10.00.",
+    "source_name": "Fulton County Clerk of Superior Court fee schedule",
+    "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "A fee taken out of a dog bite recovery",
+    "share": "No percentage ceiling",
+    "note": "Georgia fixes no cap. Rule 1.5(a) bars an unreasonable fee and lists eight factors, including the amount involved, the results obtained, and local custom.",
+    "source_name": "Ga. R. Prof. Conduct 1.5(a)",
+    "source_url": "https://www.gabar.org/handbook?rule=rule55"
+   },
+   {
+    "stage": "The contingency agreement itself",
+    "share": "Writing required",
+    "note": "Rule 1.5(c)(1) requires the writing to give the method of calculation, the percentages on settlement, trial and appeal, and whether expenses come off before or after the fee.",
+    "source_name": "Ga. R. Prof. Conduct 1.5(c)(1)",
+    "source_url": "https://www.gabar.org/handbook?rule=rule55"
+   },
+   {
+    "stage": "The statement owed when the matter ends",
+    "share": "Written, itemized",
+    "note": "Rule 1.5(c)(2) requires the outcome in writing plus the remittance, how it was figured, the attorney fee, and any share paid to an outside lawyer.",
+    "source_name": "Ga. R. Prof. Conduct 1.5(c)(2)",
+    "source_url": "https://www.gabar.org/handbook?rule=rule55"
+   },
+   {
+    "stage": "A fee riding on a divorce or a criminal charge",
+    "share": "Barred outright",
+    "note": "Rule 1.5(d) forbids a contingency in a domestic relations matter tied to the divorce, alimony or support, and forbids one for a criminal defendant.",
+    "source_name": "Ga. R. Prof. Conduct 1.5(d)",
+    "source_url": "https://www.gabar.org/handbook?rule=rule55"
+   },
+   {
+    "stage": "Opening the case at the Justice Center",
+    "share": "$215 plus $8 a party",
+    "note": "The Clerk's schedule adds $50.00 for Sheriff service, $10.00 for subpoena service and $1.00 per motion filed.",
+    "source_name": "Fulton County Clerk of Superior Court fee schedule",
+    "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
+   },
+   {
+    "stage": "Getting an impounded dog back in Atlanta",
+    "share": "$7.50 plus $3.00 a day",
+    "note": "Sec. 18-61(a)(3) gives the owner seven days from the mailed notice and adds the unpaid permit fee and rabies cost where no current tag was worn.",
+    "source_name": "Atlanta Code of Ordinances 18-61(a)(3)",
+    "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO"
+   }
+  ]
+ },
  "hero_accent": "What The Law Says About Dog Attacks",
  "trust_third": "Liability rules explained before you call",
  "services": [

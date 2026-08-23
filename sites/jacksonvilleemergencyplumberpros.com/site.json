@@ -34,12 +34,12 @@
   {
    "id": "consolidated_response_geography",
    "claim": "Jacksonville and Duval County consolidated in 1968. A City financial report describes the City/County area as 840.1 square miles, with four separate municipalities remaining within Duval County.",
-   "why_it_matters": "Emergency-plumbing routing cannot treat \u201cJacksonville\u201d as one compact service area. The exact address establishes the response route and helps distinguish central neighborhoods from far-out Duval locations before a technician is dispatched.",
+   "why_it_matters": "Emergency-plumbing routing cannot treat “Jacksonville” as one compact service area. The exact address establishes the response route and helps distinguish central neighborhoods from far-out Duval locations before a technician is dispatched.",
    "sources": [
     "https://www.jacksonville.gov/getContentAsset/00fd9c5d-d3c7-47d1-b81e-ab03f6ca9a38/135b97c9-84fa-4e82-b956-0fbccec4aa1f/2010-CAFR-sec.pdf?language=en"
    ],
    "verified": "2026-08-22",
-   "title": "Jacksonville\u2019s service map is much larger than a typical city call area"
+   "title": "Jacksonville’s service map is much larger than a typical city call area"
   },
   {
    "id": "septic_phase_out",
@@ -135,5 +135,176 @@
   "cpc_usd": 45.0,
   "weakest_competitor": "rotorooter.com",
   "competitor_dr": 74.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Cost ranges for plumbing emergencies across Duval County",
+  "anchors": [
+   {
+    "label": "Minimum plumbing permit fee",
+    "value": "$60",
+    "detail": "The floor for a plumbing permit under the city's fee schedule, regardless of how the itemized formula adds up on a small repair.",
+    "source_name": "City of Jacksonville fee schedule, Section 320.409",
+    "source_url": "https://www.jacksonville.gov/departments/finance/city-fees"
+   },
+   {
+    "label": "Permit line for each fixture or sewer connection",
+    "value": "$11",
+    "detail": "Charged per roughed-in fixture or plugged outlet, per building sewer connection, and per $100 of estimated cost on repairs to waste, soil, vent or building drain pipe.",
+    "source_name": "City of Jacksonville fee schedule, Section 320.409",
+    "source_url": "https://www.jacksonville.gov/departments/finance/city-fees"
+   },
+   {
+    "label": "JEA sewer tap, six-inch connection",
+    "value": "$8,330",
+    "detail": "What the utility charges to set a six-inch sewer connection, with a $2,894 tap extension fee where an existing tap only needs bringing to the property line.",
+    "source_name": "JEA water and sewer system tariff",
+    "source_url": "https://www.jea.com/Pdf/Download/12884909745"
+   },
+   {
+    "label": "JEA water tap and meter set, three-quarter inch service",
+    "value": "$1,360 plus $300",
+    "detail": "The tap fee for a one-inch tap serving a three-quarter inch line, plus the meter set fee, charged before any plumbing contractor touches the house side of the meter.",
+    "source_name": "JEA water and sewer system tariff",
+    "source_url": "https://www.jea.com/Pdf/Download/12884909745"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Emergency visit and diagnosis, fee credited toward the repair",
+    "low": 99,
+    "high": 280,
+    "basis": "per visit",
+    "note": "The posted diagnostic fee is credited if you approve the repair.",
+    "sources": [
+     {
+      "name": "Greatful Plumber, Jacksonville, posted service fee, read 2026-08-23",
+      "url": "https://tgplumber.com/jacksonville-plumber-pricing-guide/"
+     },
+     {
+      "name": "Mr. Rooter, Jacksonville, posted drain price, read 2026-08-23",
+      "url": "https://www.mrrooter.com/jacksonville/"
+     },
+     {
+      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+      "url": "https://emsplumb.com/services/"
+     }
+    ]
+   },
+   {
+    "job": "Toilet or shower line cleared through an accessible cleanout",
+    "low": 99,
+    "high": 500,
+    "basis": "flat",
+    "note": "One fixture and a working cleanout is the floor; scaled cast iron fights back.",
+    "sources": [
+     {
+      "name": "Mr. Rooter, Jacksonville, posted drain price, read 2026-08-23",
+      "url": "https://www.mrrooter.com/jacksonville/"
+     },
+     {
+      "name": "904 Plumbers, Jacksonville, posted drain prices, read 2026-08-23",
+      "url": "https://904plumbers.com/services/"
+     },
+     {
+      "name": "Simply Drains USA, Jacksonville, posted prices, read 2026-08-23",
+      "url": "https://www.simplydrainsusa.com/book-online"
+     },
+     {
+      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+      "url": "https://emsplumb.com/services/"
+     }
+    ]
+   },
+   {
+    "job": "Camera inspection of a cast iron drain under the slab",
+    "low": 300,
+    "high": 340,
+    "basis": "flat",
+    "note": "Cleanout access and a written report with distances set this.",
+    "sources": [
+     {
+      "name": "Simply Drains USA, Jacksonville, posted prices, read 2026-08-23",
+      "url": "https://www.simplydrainsusa.com/book-online"
+     },
+     {
+      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+      "url": "https://emsplumb.com/services/"
+     }
+    ]
+   },
+   {
+    "job": "Slab leak located and the supply line repaired or rerouted",
+    "low": 550,
+    "high": 5450,
+    "basis": "flat",
+    "note": "Rerouting overhead beats opening the floor twice; finished flooring drives the top.",
+    "sources": [
+     {
+      "name": "Rolland Reash, Jacksonville, posted slab prices, read 2026-08-23",
+      "url": "https://plumbingjacksonville.com/re-piping-your-home-verses-slab-leak-repairs/"
+     },
+     {
+      "name": "904 Plumbers, Jacksonville, posted slab prices, read 2026-08-23",
+      "url": "https://904plumbers.com/services/slab-leak-repair/"
+     }
+    ]
+   },
+   {
+    "job": "Water heater changed out, 40 or 50 gallon tank",
+    "low": 1100,
+    "high": 2600,
+    "basis": "per unit",
+    "note": "Garage installs are simplest; a pan and new shutoffs add cost.",
+    "sources": [
+     {
+      "name": "904 Plumbers, Jacksonville, posted tank prices, read 2026-08-23",
+      "url": "https://904plumbers.com/services/water-heater-replacement/"
+     },
+     {
+      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+      "url": "https://emsplumb.com/services/"
+     }
+    ]
+   },
+   {
+    "job": "Whole-home repipe of failing or polybutylene supply lines",
+    "low": 2700,
+    "high": 15000,
+    "basis": "flat",
+    "note": "House size and pipe material set it; quotes cover permits and patching.",
+    "sources": [
+     {
+      "name": "Rolland Reash Plumbing, Jacksonville, posted repipe prices, read 2026-08-23",
+      "url": "https://plumbingjacksonville.com/re-piping-your-home-verses-slab-leak-repairs/"
+     },
+     {
+      "name": "Repipe Specialists, Jacksonville, posted repipe prices, read 2026-08-23",
+      "url": "https://jacksonville.repipe.com/faq.html"
+     },
+     {
+      "name": "904 Plumbers, Jacksonville, posted repipe prices, read 2026-08-23",
+      "url": "https://904plumbers.com/services/repiping/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer lateral relined or replaced from house to city main",
+    "low": 2999,
+    "high": 12000,
+    "basis": "flat",
+    "note": "Lining avoids the trench; length, depth and a street cut push the top.",
+    "sources": [
+     {
+      "name": "Totally Hooked Plumbing, Jacksonville, posted lining price, read 2026-08-23",
+      "url": "https://www.totallyhookedplumbing.com/repiping/"
+     },
+     {
+      "name": "JAX Hydro-Jetters, Jacksonville, posted trenchless prices, read 2026-08-23",
+      "url": "https://jaxhydrojetters.com/trenchless-sewer-jacksonville-fl"
+     }
+    ]
+   }
+  ]
  }
 }

@@ -208,3 +208,87 @@ The documents worth having in one place
 
 ## emergency_note
 If anyone may be injured, seek medical care or call 911. Do not delay immediate safety steps to collect paperwork or photographs.
+
+## pricing_lede
+
+California wrote percentage ceilings into its fee law once, for claims against health care providers, and never extended them to traffic collisions, so a Modesto injury fee is bounded by an unconscionability standard, a contract statute with teeth, and a Stanislaus County filing bill that is fixed to the dollar.
+
+## pricing_body
+
+### The cap exists, but not for a crash claim
+
+Business and Professions Code 6146 is the statute people are thinking of when they say
+California limits injury fees. It sets twenty-five percent of the amount recovered when a
+settlement and release is executed by all parties before a civil complaint or arbitration
+demand is filed, and thirty-three percent when recovery comes by settlement, arbitration or
+judgment after filing. A higher share requires a motion, served on all parties, granted on
+evidence of good cause. "Recovered" means the net sum after disbursements and costs, and
+the statute specifically refuses to let the plaintiff's own medical care costs or office
+overhead be deducted first.
+
+Every word of that reaches professional negligence claims against health care providers.
+None of it reaches a collision on Briggsmore Avenue. For that claim the governing limit is
+Rule 1.5(a) of the California Rules of Professional Conduct, under which no lawyer may
+agree to, charge, or collect a fee that is unconscionable or illegal. Paragraph (c) of the
+same rule bars a result-based fee for a criminal defendant and in specified family law
+matters, which is why a package number covering a citation and an injury claim together is
+not a lawful structure.
+
+### The contract statute is where California actually bites
+
+Business and Professions Code 6147 governs every injury contingency contract. The contract
+has to be written and signed by lawyer and client alike, and a duplicate signed copy goes
+into the client's hands right then. The agreed rate belongs in it. So does an explanation
+of how disbursements and costs bear on the fee itself and on what the client keeps. So does
+whatever the client might separately owe for related work the document does not cover. And
+where section 6146 has no application, the paper must say plainly that no statute fixes the
+rate and that the client is free to negotiate it.
+
+That last sentence is a right, not boilerplate. If any required provision is missing, the
+statute makes the agreement voidable at the plaintiff's option, and the lawyer is then
+limited to a reasonable fee. Workers' compensation contracts sit outside section 6147
+entirely.
+
+### What the Stanislaus County courthouse costs
+
+Court costs are public charges and belong on their own line. Under the statewide civil fee
+schedule effective January 1, 2026, the first paper in an unlimited civil case, meaning one
+worth more than $35,000, costs $435, and every other party filing a first paper owes the
+same amount. A jury has to be secured with a $150 advance deposit that is not refundable,
+per Code of Civil Procedure 631(b); daily panel deposits follow in amounts the court fixes. If a
+case is designated complex, Government Code 70616 adds $1,000 for all plaintiffs together
+and $1,000 for each defendant, up to $18,000 for the case.
+
+The Stanislaus court publishes its own additions alongside the state schedule, including a
+$1,000 supplemental fee when a high-frequency litigant files a construction-related
+accessibility complaint and $30 to register an out-of-state conservatorship. Neither
+touches a collision case, but both show that the local schedule is worth reading rather
+than assuming.
+
+### Why a Central Valley claim gets expensive to prove
+
+Cost, not percentage, is where an injury budget actually moves. A Highway 99 or Highway 132
+collision often involves a commercial vehicle, which brings electronic control module data,
+driver qualification files and a records custodian deposition. Farm-truck traffic and
+agricultural equipment on county roads produce liability disputes that get resolved by
+reconstruction opinions rather than police narrative. Medical records arrive from several
+systems and each certification costs money. Interpreter needs for a household where English
+is not the first language add scheduling and expense. Each of those items is a cost, is
+advanced by somebody, and is repaid from the recovery under whatever the written agreement
+says.
+
+### Reading the agreement in the order that matters
+
+Find the rate, then find the sentence saying the rate is negotiable, then find the sentence
+explaining how costs hit the recovery. Confirm the duplicate signed copy is in hand that
+day. Ask what happens to advanced costs if the case is lost. Ask whether the share changes
+at filing, at arbitration, or on appeal, and confirm the trigger is written rather than
+assumed. Ask who deals with hospital reimbursement claims and health plan liens, because
+that negotiation decides the final number more often than a percentage does.
+
+### The trap
+
+The trap in California is not an inflated percentage. It is a fee computed on the gross
+while costs are also charged to the client, with no line explaining the sequence. Section
+6147 requires that explanation. Ask for the arithmetic on a hypothetical number before
+signing, and get it in writing.

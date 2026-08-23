@@ -1,141 +1,222 @@
 {
- "domain": "modestopersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Modesto Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Modesto",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Stanislaus"
- ],
- "area_codes": [
-  "209",
-  "350"
- ],
- "phone_display": "(209) 309-9564",
- "phone_tel": "+12093099564",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "public_entity_claim_deadline",
-   "title": "Public-entity injury claims have an early notice rule",
-   "claim": "California Government Code section 911.2 states that a claim relating to injury to a person must generally be presented no later than six months after the cause of action accrues.",
-   "why_it_matters": "An injury involving a Modesto-area city, county, school, park, sidewalk, or other public entity may need prompt agency identification and claim-presentment review rather than an ordinary wait-and-see insurance approach.",
-   "sources": [
-    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=911.2"
-   ],
-   "verified": "2026-08-21"
+  "domain": "modestopersonalinjurylawyerpros.com",
+  "phase": 1,
+  "brand": "Modesto Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "city": "Modesto",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Stanislaus"
+  ],
+  "area_codes": [
+    "209",
+    "350"
+  ],
+  "phone_display": "(209) 309-9564",
+  "phone_tel": "+12093099564",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "agriculture_and_food_processing_work",
-   "title": "Agriculture and food manufacturing shape local work-injury questions",
-   "claim": "Stanislaus County reported that agriculture supported 29,192 direct employees in 2017; a Caltrans Stanislaus County forecast states food and beverage processing accounted for 47 percent of the county’s manufacturing employment.",
-   "why_it_matters": "A significant share of local injuries may happen in work settings, where Labor Code section 3602 generally makes workers’ compensation the exclusive remedy against an employer when its conditions apply; the employment relationship and any other parties must be identified before choosing a claim path.",
-   "sources": [
-    "https://www.stancounty.com/newsfeed/?storyid=20190814-agriculture",
-    "https://dot.ca.gov/-/media/dot-media/programs/transportation-planning/documents/new-state-planning/transportation-economics/socioeconomic-forecasts/2022/stanislaus-2022-a11y.pdf",
-    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=3602."
-   ],
-   "verified": "2026-08-21"
+  "local_facts": [
+    {
+      "id": "public_entity_claim_deadline",
+      "title": "Public-entity injury claims have an early notice rule",
+      "claim": "California Government Code section 911.2 states that a claim relating to injury to a person must generally be presented no later than six months after the cause of action accrues.",
+      "why_it_matters": "An injury involving a Modesto-area city, county, school, park, sidewalk, or other public entity may need prompt agency identification and claim-presentment review rather than an ordinary wait-and-see insurance approach.",
+      "sources": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=911.2"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "agriculture_and_food_processing_work",
+      "title": "Agriculture and food manufacturing shape local work-injury questions",
+      "claim": "Stanislaus County reported that agriculture supported 29,192 direct employees in 2017; a Caltrans Stanislaus County forecast states food and beverage processing accounted for 47 percent of the county’s manufacturing employment.",
+      "why_it_matters": "A significant share of local injuries may happen in work settings, where Labor Code section 3602 generally makes workers’ compensation the exclusive remedy against an employer when its conditions apply; the employment relationship and any other parties must be identified before choosing a claim path.",
+      "sources": [
+        "https://www.stancounty.com/newsfeed/?storyid=20190814-agriculture",
+        "https://dot.ca.gov/-/media/dot-media/programs/transportation-planning/documents/new-state-planning/transportation-economics/socioeconomic-forecasts/2022/stanislaus-2022-a11y.pdf",
+        "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=3602."
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "civil_court_location",
+      "title": "Stanislaus County civil court is in downtown Modesto",
+      "claim": "The Superior Court of California, County of Stanislaus lists City Towers Courthouse (Civil) at 801 10th Street in Modesto, with civil departments and the Civil Clerk’s Office in the building.",
+      "why_it_matters": "A dispute that proceeds beyond an agency claim process is handled through a defined local civil court structure, not through a generic claims office.",
+      "sources": [
+        "https://www.stanislaus.courts.ca.gov/",
+        "https://www.stanislaus.courts.ca.gov/location/city-towers-courthouse-civil"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Beyer/Sylvan at The Lakes",
+    "College Area",
+    "La Loma",
+    "Lakewood",
+    "Northwest Modesto",
+    "West Modesto"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "civil_court_location",
-   "title": "Stanislaus County civil court is in downtown Modesto",
-   "claim": "The Superior Court of California, County of Stanislaus lists City Towers Courthouse (Civil) at 801 10th Street in Modesto, with civil departments and the Civil Clerk’s Office in the building.",
-   "why_it_matters": "A dispute that proceeds beyond an agency claim process is handled through a defined local civil court structure, not through a generic claims office.",
-   "sources": [
-    "https://www.stanislaus.courts.ca.gov/",
-    "https://www.stanislaus.courts.ca.gov/location/city-towers-courthouse-civil"
-   ],
-   "verified": "2026-08-21"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "modesto personal injury lawyer",
+    "monthly_price": 1000,
+    "score": 85,
+    "volume": 400,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "fabbrolawcentralvalley.com",
+    "competitor_dr": 1.3
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "Three separate questions in a Stanislaus County injury claim: the fee standard, the caps on other case types, and the clerk's amounts",
+    "col_a": "Question being asked",
+    "col_b": "The published answer",
+    "anchors": [
+      {
+        "label": "Number California puts on a negligence fee",
+        "value": "There is no number",
+        "detail": "The governing rule bars an unconscionable or illegal fee and then lists thirteen circumstances for evaluating one. A percentage for injury work appears nowhere in it.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "First paper where the claim runs above $10,000 to $35,000",
+        "value": "$370",
+        "detail": "Taken from the civil fee schedule the Stanislaus County Superior Court posts for filings in Modesto, and charged again on the answering party's first paper.",
+        "source_name": "Stanislaus County Superior Court civil fee schedule, item 7",
+        "source_url": "https://www.stanislaus.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024-final.pdf"
+      },
+      {
+        "label": "Court reporting for a civil hearing of an hour or less",
+        "value": "$30",
+        "detail": "Beyond an hour the schedule switches to a per diem of $700 for a full day or $350 for a half day, charged for each reporter the proceeding requires.",
+        "source_name": "Stanislaus County Superior Court civil fee schedule, item 66",
+        "source_url": "https://www.stanislaus.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024-final.pdf"
+      },
+      {
+        "label": "Ceiling on a hospital lien against a settlement",
+        "value": "50 percent of the money due",
+        "detail": "That limit governs how much a hospital lien can pull out of a judgment or settlement after prior liens are paid. It is a limit on the hospital, not on a fee.",
+        "source_name": "Cal. Civ. Code 3045.4",
+        "source_url": "https://law.justia.com/codes/california/code-civ/division-3/part-4/title-14/chapter-4/section-3045-4/"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Fee in a Modesto negligence claim",
+        "share": "Not set by statute",
+        "note": "Reviewed against thirteen listed circumstances, including whether material facts went undisclosed, the proportion between fee and the value of services, and whether informed consent was given.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(b)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "Professional negligence against a health care provider",
+        "share": "25% before filing, 33% after",
+        "note": "A medical negligence schedule and nothing broader, computed on the sum recovered after disbursements, with higher rates allowed only on a good-cause motion.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+        "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
+      },
+      {
+        "stage": "Workers' compensation representation",
+        "share": "Amount fixed by the appeals board",
+        "note": "The board approves or sets the figure before any fee may be demanded or accepted from the injured worker, weighing responsibility assumed, care exercised, time involved and results.",
+        "source_name": "Cal. Lab. Code 4906(b), (d)",
+        "source_url": "https://law.justia.com/codes/california/code-lab/division-4/part-3/chapter-1/section-4906/"
+      },
+      {
+        "stage": "Contingency contract missing a required statement",
+        "share": "Voidable at the client's option",
+        "note": "Once voided, the attorney may collect a reasonable fee instead of the contract share, which is why the required disclosures deserve reading at signature.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(b)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "Reclassifying a limited case as unlimited",
+        "share": "$140",
+        "note": "Filed when discovery shows the claim exceeds the limited jurisdiction ceiling, while an amendment that raises the amount at issue within the same tier is $145.",
+        "source_name": "Stanislaus County Superior Court civil fee schedule, item 15",
+        "source_url": "https://www.stanislaus.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024-final.pdf"
+      },
+      {
+        "stage": "Motions during the case",
+        "share": "$60, or $500 for summary judgment",
+        "note": "Any paper requiring a hearing draws the first amount, while a summary judgment or summary adjudication motion draws the second.",
+        "source_name": "Stanislaus County Superior Court civil fee schedule, items 45 and 51",
+        "source_url": "https://www.stanislaus.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024-final.pdf"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Beyer/Sylvan at The Lakes",
-  "College Area",
-  "La Loma",
-  "Lakewood",
-  "Northwest Modesto",
-  "West Modesto"
- ],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
-  }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "modesto personal injury lawyer",
-  "monthly_price": 1000,
-  "score": 85,
-  "volume": 400,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "fabbrolawcentralvalley.com",
-  "competitor_dr": 1.3
- }
 }

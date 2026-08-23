@@ -217,3 +217,35 @@ A few observations make the visit more efficient
 
 ## emergency_note
 If you smell gas, see smoke, or a carbon-monoxide alarm sounds, leave the area and contact emergency services or the gas utility. Do not restart the furnace.
+
+## pricing_lede
+
+These are the ranges Colorado Springs heating companies publish for their own furnace work, set beside the permit, inspection and rebate figures the regional building department and the municipal utility print in their own schedules. Nothing on this page is a quote for your furnace.
+
+## pricing_body
+
+### Why one furnace call has two prices
+
+A furnace that shuts down in February produces one symptom and a dozen candidate causes. A dirty flame sensor and a cracked heat exchanger both end with a cold house, and they sit a factor of thirty apart on the invoice. That is why the bands here are wide at the top: the diagnosis decides which row you are in, and it happens after somebody puts a meter on the control board, not from the driveway.
+
+Where inside a band a job lands comes down to three things. Whether the failed part is proprietary or a stocked universal. Whether nearby fittings crumble when touched, turning a one-part job into three. And whether the call lands on a quiet Tuesday or during the first hard freeze, when every truck in El Paso County is committed.
+
+### Altitude, and the derate nobody mentions
+
+This city sits above 6,000 feet, and gas equipment does not behave here the way its sea-level nameplate suggests. Input capacity has to be derated as elevation climbs, so a furnace sized off square footage alone tends to arrive oversized, short cycle all winter, and wear out its igniter, inducer and control board early. On a repeat failure the honest question is not only which part broke, but whether it broke because the equipment was mismatched to the elevation from the day it went in.
+
+### What the building department charges
+
+Replacing a furnace is permitted work, and the Pikes Peak Regional Building Department fee schedule states the numbers plainly: $50 for a furnace or boiler replacement, $75 when the vent goes with it, $40 for a water heater alone. Failed inspections escalate faster than the permit does, at $50, then $100, then $200, with the third re-inspection blocked for two working days. Heating and gas piping permits in one and two family dwellings go to Mechanical Contractor B and Gas Piping Contractor classes, so a changeout bid from an outfit that cannot pull a permit is not comparable to one that includes it.
+
+### What an honest changeout estimate names
+
+It states the manufacturer and model, the AFUE, the input rating at this elevation rather than at sea level, the stages, the blower type, the vent material and route, where the condensate goes and how it is kept from freezing, whether the gas line and circuit are adequate, the haul-away, the permit line and the inspection. The rebate belongs on the sheet as a separate line, not blended into the price: the utility pays $900 on a qualifying ENERGY STAR furnace.
+
+### The replacement push, said plainly
+
+A cracked heat exchanger is a genuine reason to stop repairing a furnace. The tell is being told about a crack that nobody shows you. A camera photograph, a combustion analyzer reading in parts per million, or a marked location takes two minutes to produce, and condemning an exchanger without one asks for four figures on faith. Igniters, flame sensors, pressure switches, inducers and boards are repairs, not death sentences, under fifteen years old. The other pattern worth naming is the tune-up that turns into an emergency: that visit is a $99 to $249 job here, and it should end with a written condition report.
+
+### What a national calculator misses in this county
+
+It prices equipment and a generic install. It does not carry the permit or a possible re-inspection, the chimney liner an orphaned water heater needs once a condensing furnace stops sharing the masonry flue, a sidewall vent penetration through brick or stucco, gas line resizing, altitude derating, or the second fault the first one caused. On a mid 1980s house, the median vintage here, it also skips the undersized return that has been cooking blower motors for years.

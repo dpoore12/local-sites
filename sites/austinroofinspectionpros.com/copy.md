@@ -273,3 +273,41 @@ What makes a roof inspection more useful
 ## emergency_note
 
 Do not climb a damaged, wet, or debris-covered roof. Keep clear of fallen or hanging branches and arrange a professional inspection from the ground.
+
+## pricing_lede
+
+This page sets out what a roof inspection actually costs across the Austin market, what the state requires an inspector to look at, and where the city stops caring about paperwork. Every figure below is somebody else's published number, not a quote.
+
+## pricing_body
+
+### Three different products all called an inspection
+
+Most confusion about price here is really confusion about product. A roofing company's free look is a sales call with a ladder: useful, honest enough, and aimed at deciding whether there is work to sell. A paid roof inspection with a photo report is a document, delivered whether or not a repair follows. A licensed inspector's report is a regulated deliverable with a defined scope, produced by somebody whose license is on the line.
+
+That last category has rules attached. Under the TREC standards of practice for inspectors, the roof covering is inspected from the surface of the roof where it is safe to do so, and the inspector is expressly not required to opine on remaining life, count the layers of shingle underneath, or find hail bruising that has not yet shown itself. Read that carefully, because it explains a common frustration: a report that says the roof is functional today is not a report that says the roof has eight years left. Those are separate questions and only one of them is inside the standard.
+
+### What actually moves the number
+
+Access is first. A 6:12 asphalt roof on a Hyde Park bungalow gets walked in twenty minutes. Standing seam metal, clay tile, or anything over about 8:12 gets inspected from a ladder, a drone, or not at all, and the substitution costs money. Second is area, since paid inspections and full home inspections alike are priced off square footage tiers rather than effort. Third is what the client needs on paper. A verbal summary sits at the floor. A certification letter a title company or carrier will accept, with elevation photos and a stated condition, is a different scope.
+
+Age matters in a way specific to this market. Much of central Austin predates modern flashing details, so the inspection spends its time where water actually gets in: chimney counterflashing, sidewall step flashing on additions, and the tie-in where a 1950s hip meets a later room extension. Those are also the leaks that cost most to fix properly, which is why the repair row above spans an order of magnitude.
+
+### The Austin wrinkle nobody mentions on the invoice
+
+Clay is the reason roof problems here get discovered late. The Blackland Prairie soils east of I-35 swell in the wet and shrink hard in drought, and a house that racks even slightly through a summer opens joints at the ridge, pulls fasteners at the deck, and cracks the mortar crown on a chimney. Homeowners read the resulting ceiling stain as a roof failure. Often the roof is a victim of structural movement instead, and an inspection that stops at the shingle misses the cause. A useful report notes what the framing and the chimney are doing.
+
+### Where the city does and does not get involved
+
+Straight shingle-for-shingle replacement in Austin sits on the work exempt from building permits list, and the exemption only breaks if the property is in the Wildland-Urban Interface area and half or more of the roofing is being replaced. That matters at inspection time because it means most re-roofs on this side of town were done without a city inspector ever setting foot on them. There is no permit record to pull, no inspection sign-off to review, and the only evidence of workmanship quality is what somebody can see now. On a resale, that absence of a paper trail is exactly why the inspection is worth paying for.
+
+### Reading a fair inspection quote
+
+An honest quote states the square footage tier it is priced against, whether the roof will be walked or observed from a ladder and drone, whether attic access is included, how many photos and what report format arrives, and how long the turnaround runs. It separates ancillary services with their own line items rather than folding them in: termite, sewer scope, pool, and elevation readings are each their own scope of work. It says plainly whether a re-inspection after repairs costs extra. And if the inspector is licensed, it names the license tier, which the TREC fee schedule prices at $120 to apply as a Professional Inspector and $60 to renew.
+
+### The trap in this trade
+
+Two of them, and they run opposite directions. The first is the free storm inspection that finds enough damage for a full replacement claim on a roof with eight good years in it, sometimes with the carrier deductible waved around as a reason to move fast. The second is the reverse: a bargain paid inspection with a two-paragraph report, no photographs, and no attic look, which is worthless in a negotiation and worse than nothing in a claim.
+
+### What is not in the number
+
+The figures above buy a look and a document. They do not buy the repair, the engineer's letter if framing is the real story, the tree work needed before anybody can safely reach a rear slope, or a second visit after a hail event to compare against the baseline. They also do not buy schedule in a spring hail week, when every roof in Travis County wants looking at once.

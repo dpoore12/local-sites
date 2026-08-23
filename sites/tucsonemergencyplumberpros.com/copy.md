@@ -206,3 +206,39 @@ What the emergency visit is meant to accomplish
 
 ## emergency_note
 Do not enter standing water near outlets, panels, appliances or damaged wiring. If water is actively escaping and the shutoff cannot be reached safely, stay clear of the area until help arrives.
+
+## pricing_lede
+
+Below are prices Tucson plumbing companies post on their own sites, lined up against the flat trade permit the city charges, what Tucson Water bills to set a meter or run a new service, and the metro wage figure behind every hourly rate here.
+
+## pricing_body
+
+### Two numbers before the repair even starts
+
+Tucson is unusual in how openly local shops publish the cost of simply showing up, and they do it two ways. Some post a flat diagnostic charge in the double digits. Others post a trip fee scaled to distance, then bill labor hourly on top. Neither is wrong, but they produce different invoices for the same failed water heater, and the difference is whether that first charge is credited toward the work.
+
+The second number is the permit. Replacing a water heater like for like, repairing a building drain or sewer, or running a new water service line takes one flat trade permit fee of $118.51 under the City of Tucson adopted development services fee schedule, including a half hour of review and two inspections. A second item on the same permit costs $20.70 rather than another full fee, which is why an installer already pulling a permit can add a fixture cheaply.
+
+### Caliche, and why digging here prices differently
+
+Ranges on underground work here are wide for a geological reason. Much of the Tucson basin sits on caliche, a cemented layer that behaves less like soil than like weak concrete. A trench a crew opens in a morning elsewhere can take a day here. That is the biggest reason a sewer replacement in this city is quoted per foot with a wide band, and why trenchless lining, needing two access pits instead of a trench the length of the yard, gets proposed so often.
+
+Water chemistry does the rest. Tucson's supply is hard, and scale builds inside water heaters and on the fittings of anything the water touches, so a tank never flushed in a decade often fails as an appliance rather than as a plumbing problem. This is also a comparatively inexpensive labor market: the May 2025 median for plumbers, pipefitters and steamfitters across the Tucson metro was $28.40 an hour across 1,170 workers in the trade.
+
+### What Tucson Water charges, separately from the plumber
+
+Anything involving the meter or the service line brings in the utility as well as the plumber. Setting a new five eighths inch meter on an existing service is billed at $450 or $560. A new service line with a meter runs $2,700 where pavement has to be cut and replaced and $1,740 where it does not. Those charges are the utility's, not the contractor's, and belong on their own line rather than buried in a labor total. Anyone quoted a lump sum for a new water service should ask which portion passes straight through to Tucson Water.
+
+### Reading a Tucson estimate
+
+A real estimate names the diagnostic or trip charge and states whether it comes off the repair. On a water heater it states capacity, fuel, whether the tank itself is included, and whether the city permit and its two inspections are inside the figure; at least one local installer publishes a single all-in price with permit and inspection included. On drain work it names the access point and the tool. On sewer work it states linear feet, method, depth, and who restores the surface. On a repipe it names the material, because PEX against copper moves the total by five figures.
+
+### The trap here
+
+The pattern to watch in this market is the drain special that turns into a sewer proposal on the same visit. A low advertised clearing price gets the truck to the driveway, the camera goes down the line, and the homeowner is looking at a five figure trenchless quote an hour later. Sometimes the line genuinely is broken and root intruded, and a camera does not lie. What it does not show is urgency. A recorded video, a written locate with depth and distance, and a second opinion are all reasonable before authorizing excavation, unless sewage is coming up inside the house.
+
+The other pattern is a tankless conversion sold on a routine tank replacement call. Tankless suits a house with the gas supply and venting for it. In a mid century Tucson house it usually means a larger gas line, new venting and a circuit, none of which is in the headline price.
+
+### What the national number leaves out
+
+Average cost pages price the part and the labor. They leave out the flat trade permit and its inspections, the utility's meter or service charges, breaking through caliche, cutting and replacing driveway pavement, patching drywall after a repipe, and hauling away an old tank. They also ignore a Tucson August, when every shop in town is behind.

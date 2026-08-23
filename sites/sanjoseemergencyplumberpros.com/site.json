@@ -140,5 +140,193 @@
   "cpc_usd": 55.0,
   "weakest_competitor": "rotorooter.com",
   "competitor_dr": 74.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "What plumbing work runs in the San Jose market, job by job",
+  "anchors": [
+   {
+    "label": "Water heater replacement permit, over the counter",
+    "value": "$56",
+    "detail": "A like-for-like water heater swap needs a permit, priced at $56 at the Permit Center and $0 when the identical permit is pulled online.",
+    "source_name": "City of San Jose adopted fee schedule, Resolution RES2024-230",
+    "source_url": "https://records.sanjoseca.gov/Resolutions/RES2024-230.pdf"
+   },
+   {
+    "label": "Plumbing permit that adds no building area, hourly floor",
+    "value": "$315 per hour",
+    "detail": "Site and miscellaneous plumbing permits are charged at the greater of the itemized fee or $315 for each hour of actual review and inspection time.",
+    "source_name": "City of San Jose adopted fee schedule, Resolution RES2024-230",
+    "source_url": "https://records.sanjoseca.gov/Resolutions/RES2024-230.pdf"
+   },
+   {
+    "label": "Sanitary sewer connection fee, single family lot",
+    "value": "$447 per lot",
+    "detail": "A single family or duplex parcel under 9,780 square feet pays $447 to connect to the city sewer. Larger parcels are billed $1,991 per acre.",
+    "source_name": "City of San Jose sewer connection fees",
+    "source_url": "https://www.sanjoseca.gov/your-government/departments-offices/environmental-services/water-utilities/regional-wastewater-facility/sanitary-sewer-service-charges/sewer-connection-fees"
+   },
+   {
+    "label": "Median hourly wage, plumbers, pipefitters and steamfitters",
+    "value": "$51.71",
+    "detail": "The May 2025 median for the 3,830 plumbers, pipefitters and steamfitters in the San Jose, Sunnyvale and Santa Clara metro area.",
+    "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+    "source_url": "https://www.bls.gov/oes/current/oes_41940.htm"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Night or weekend callout for a burst line or a backed-up main",
+    "low": 275,
+    "high": 800,
+    "basis": "per visit, surcharge included",
+    "note": "One local shop posts a base emergency call plus $75 evenings and $150 nights and weekends, and that add-on is inside these figures.",
+    "sources": [
+     {
+      "name": "Natan Plumbing, San Jose, posted emergency pricing, read 2026-08-23",
+      "url": "https://www.natanplumbing.com/blog/emergency-plumber-san-jose"
+     },
+     {
+      "name": "CPI Plumbing, San Jose, posted price guide, read 2026-08-23",
+      "url": "https://cpiservice.com/plumber-san-jose/"
+     }
+    ]
+   },
+   {
+    "job": "One fixture drain cleared, sink, tub or shower",
+    "low": 125,
+    "high": 400,
+    "basis": "flat",
+    "note": "Cheap end assumes a usable cleanout under the fixture. No cleanout means pulling a trap or going through the roof vent.",
+    "sources": [
+     {
+      "name": "Local Rooter and Plumbing, San Jose, posted drain pricing, read 2026-08-23",
+      "url": "https://localrooterandplumbing.net/drain-cleaning-san-jose/"
+     },
+     {
+      "name": "Superior Plumbing and Drain, San Jose, posted drain price list, read 2026-08-23",
+      "url": "https://superiorplumbing.net/drain-cleaning/"
+     },
+     {
+      "name": "Natan's Plumbing, San Jose, posted drain cleaning prices, read 2026-08-23",
+      "url": "https://natansplumbing.com/blog/drain-cleaning-san-jose"
+     }
+    ]
+   },
+   {
+    "job": "Main sewer line cabled from the cleanout",
+    "low": 250,
+    "high": 600,
+    "basis": "flat",
+    "note": "Cast iron mains in the older tracts grab a cable on the scale inside the pipe, which turns a short job into a long one.",
+    "sources": [
+     {
+      "name": "Superior Plumbing and Drain, San Jose, posted drain price list, read 2026-08-23",
+      "url": "https://superiorplumbing.net/drain-cleaning/"
+     },
+     {
+      "name": "Local Rooter and Plumbing, San Jose, posted drain pricing, read 2026-08-23",
+      "url": "https://localrooterandplumbing.net/drain-cleaning-san-jose/"
+     },
+     {
+      "name": "Natan's Plumbing, San Jose, posted main line prices, read 2026-08-23",
+      "url": "https://natansplumbing.com/blog/drain-cleaning-san-jose"
+     }
+    ]
+   },
+   {
+    "job": "Hydro jetting a grease or root choked main",
+    "low": 120,
+    "high": 1200,
+    "basis": "flat",
+    "note": "Length of run and how much scale comes off the wall decide it. Jetting a line that needs replacing only buys time.",
+    "sources": [
+     {
+      "name": "Superior Plumbing and Drain, San Jose, posted jetting prices, read 2026-08-23",
+      "url": "https://superiorplumbing.net/drain-cleaning/"
+     },
+     {
+      "name": "CPI Plumbing, San Jose, posted price guide, read 2026-08-23",
+      "url": "https://cpiservice.com/plumber-san-jose/"
+     },
+     {
+      "name": "Natan's Plumbing, San Jose, posted hydro jetting prices, read 2026-08-23",
+      "url": "https://natansplumbing.com/blog/drain-cleaning-san-jose"
+     },
+     {
+      "name": "Local Rooter and Plumbing, San Jose, posted jetting pricing, read 2026-08-23",
+      "url": "https://localrooterandplumbing.net/drain-cleaning-san-jose/"
+     }
+    ]
+   },
+   {
+    "job": "Slab leak located and the run rerouted overhead",
+    "low": 1700,
+    "high": 5150,
+    "basis": "flat",
+    "note": "Detection runs a few hundred before anyone opens anything, and the total here adds that to a single line reroute.",
+    "sources": [
+     {
+      "name": "Advanced Plumbing and Rooter, San Jose, posted leak and repipe pricing, read 2026-08-23",
+      "url": "https://ai.advancedplumbingandrooter.com/"
+     },
+     {
+      "name": "CPI Plumbing, San Jose, posted leak detection pricing, read 2026-08-23",
+      "url": "https://cpiservice.com/plumber-san-jose/"
+     }
+    ]
+   },
+   {
+    "job": "Forty to fifty gallon gas water heater swapped with the permit pulled",
+    "low": 1200,
+    "high": 4500,
+    "basis": "flat, unit included",
+    "note": "Seismic strapping, a new expansion tank and a code-compliant vent are the usual reasons a swap lands high.",
+    "sources": [
+     {
+      "name": "Arcune Plumbing, San Jose, posted water heater pricing, read 2026-08-23",
+      "url": "https://arcuneplumbing.com/water-heater-installation-san-jose/"
+     },
+     {
+      "name": "Venture Plumbing, San Jose, posted water heater prices, read 2026-08-23",
+      "url": "https://ventureplumbinginc.net/water-heater-installation-san-jose/"
+     }
+    ]
+   },
+   {
+    "job": "Whole house repipe off failing galvanized supply",
+    "low": 4000,
+    "high": 15000,
+    "basis": "flat",
+    "note": "Fixture count, stories and wall finish drive it. One local repipe firm states permits, inspections and patching are inside its range.",
+    "sources": [
+     {
+      "name": "Repipe Champions, San Jose and the South Bay, posted repipe range, read 2026-08-23",
+      "url": "https://repipechampions.com/"
+     },
+     {
+      "name": "CPI Plumbing, San Jose, posted repiping prices, read 2026-08-23",
+      "url": "https://cpiservice.com/plumber-san-jose/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer lateral replaced or lined out to the city main",
+    "low": 1000,
+    "high": 18000,
+    "basis": "varies with length and depth",
+    "note": "Per foot pricing plus depth, driveway cutting and the city connection fee explain the spread on an identical looking job.",
+    "sources": [
+     {
+      "name": "CPI Plumbing, San Jose, posted sewer pricing per linear foot, read 2026-08-23",
+      "url": "https://cpiservice.com/plumber-san-jose/"
+     },
+     {
+      "name": "Advanced Plumbing and Rooter, San Jose, posted trenchless sewer pricing, read 2026-08-23",
+      "url": "https://ai.advancedplumbingandrooter.com/"
+     }
+    ]
+   }
+  ]
  }
 }

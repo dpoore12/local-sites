@@ -53,7 +53,7 @@
     },
     {
       "id": "nc_state_fall_move_in",
-      "claim": "NC State University Housing scheduled its fall 2026 move-in operation for August 13\u201315 and tells residents to select a move-in appointment time slot.",
+      "claim": "NC State University Housing scheduled its fall 2026 move-in operation for August 13–15 and tells residents to select a move-in appointment time slot.",
       "why_it_matters": "A move to university housing has a defined arrival window instead of open-ended curb access. The crew, vehicle, inventory, and building access need to be matched to the assigned appointment before the job is scheduled.",
       "sources": [
         "https://housing.dasa.ncsu.edu/"
@@ -135,5 +135,189 @@
     "weakest_competitor": "raleighmovingcompany.com",
     "competitor_dr": 1.4
   },
-  "pro_noun": "crew"
+  "pro_noun": "crew",
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What Raleigh movers post, under a state rate ceiling",
+    "anchors": [
+      {
+        "label": "State maximum, truck and two movers, regular hours",
+        "value": "$188.40 per hour",
+        "detail": "Maximum Rate Tariff No. 2 took effect January 1, 2026 and caps an hourly intrastate household move of fifty miles or less. Regular time runs 8 a.m. to 5 p.m., Monday through Friday, and the clock starts when the crew arrives at the origin.",
+        "source_name": "North Carolina Utilities Commission Maximum Rate Tariff No. 2",
+        "source_url": "https://www.ncuc.gov/industries/documents/maxrate.pdf"
+      },
+      {
+        "label": "Same tariff, four movers after hours",
+        "value": "$385.15 per hour",
+        "detail": "Overtime maximums run higher across the board: $235.15 for a truck and two, $310.25 for three, $385.15 for four. Each extra crew member adds $74.85 an hour and each extra vehicle $65.75.",
+        "source_name": "Maximum Rate Tariff No. 2, Rule 53 hourly rates",
+        "source_url": "https://www.ncuc.gov/industries/documents/maxrate.pdf"
+      },
+      {
+        "label": "Full value protection, tariff price",
+        "value": "$1.00 per $100 declared",
+        "detail": "Item 18 sets full value protection at a dollar per hundred dollars of declared value on a single-truck shipment, with a five dollar per pound minimum valuation. Released value at sixty cents a pound is the default and it is not insurance.",
+        "source_name": "Maximum Rate Tariff No. 2, Item 18",
+        "source_url": "https://www.ncuc.gov/industries/documents/maxrate.pdf"
+      },
+      {
+        "label": "Median hourly wage, freight and material movers, Raleigh-Cary",
+        "value": "$18.50",
+        "detail": "The May 2025 median across 17,060 workers in the metro. It is the floor the tariff ceiling sits above, and the gap between the two is where trucks, fuel, insurance and dispatch live.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_39580.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Truck and two movers, hourly",
+        "low": 130,
+        "high": 190,
+        "basis": "per hour, regular time",
+        "note": "Every posted figure in this market sits under the tariff ceiling for the same crew, some of them well under it.",
+        "sources": [
+          {
+            "name": "Well Known Moving, Raleigh, posted hourly rates, read 2026-08-23",
+            "url": "https://wellknownmoving.com/blog/how-much-do-movers-cost-in-raleigh"
+          },
+          {
+            "name": "Romero Movers, Apex and Raleigh, posted rate, read 2026-08-23",
+            "url": "https://www.romeromovers.com/"
+          },
+          {
+            "name": "Dogwood Moving Co., Raleigh, posted rate page, read 2026-08-23",
+            "url": "https://www.dogwoodmoving.com/moving"
+          }
+        ]
+      },
+      {
+        "job": "Truck and three movers, hourly",
+        "low": 172,
+        "high": 235,
+        "basis": "per hour, regular time",
+        "note": "Adding a third body is how a Wake County crew finishes a townhouse inside the working day instead of running into overtime.",
+        "sources": [
+          {
+            "name": "Romero Movers, Apex and Raleigh, posted per-person add, read 2026-08-23",
+            "url": "https://www.romeromovers.com/"
+          },
+          {
+            "name": "Well Known Moving, Raleigh, posted hourly rates, read 2026-08-23",
+            "url": "https://wellknownmoving.com/blog/how-much-do-movers-cost-in-raleigh"
+          },
+          {
+            "name": "Dogwood Moving Co., Raleigh, posted rate page, read 2026-08-23",
+            "url": "https://www.dogwoodmoving.com/moving"
+          }
+        ]
+      },
+      {
+        "job": "Four movers, hourly",
+        "low": 260,
+        "high": 325,
+        "basis": "per hour, one or two trucks",
+        "note": "At this size a second truck often comes along, which the tariff prices separately from the crew.",
+        "sources": [
+          {
+            "name": "Well Known Moving, Raleigh, posted four-mover rate, read 2026-08-23",
+            "url": "https://wellknownmoving.com/blog/how-much-do-movers-cost-in-raleigh"
+          },
+          {
+            "name": "Dogwood Moving Co., Raleigh, posted four-man and two-truck rate, read 2026-08-23",
+            "url": "https://www.dogwoodmoving.com/moving"
+          }
+        ]
+      },
+      {
+        "job": "Labor only, household rents its own truck",
+        "low": 50,
+        "high": 60,
+        "basis": "per mover per hour",
+        "note": "Loading help without a vehicle. The tariff governs transportation for hire, so a labor-only job is a different animal.",
+        "sources": [
+          {
+            "name": "Moving Muscle, Raleigh, posted per-mover rate, read 2026-08-23",
+            "url": "https://www.getmovingmuscle.com/location/raleigh-nc"
+          },
+          {
+            "name": "UniMovers Cary, posted per-mover rate, read 2026-08-23",
+            "url": "https://unimovers.com/movers/nc/cary/"
+          }
+        ]
+      },
+      {
+        "job": "Studio or one-bedroom, inside the Beltline",
+        "low": 375,
+        "high": 800,
+        "basis": "finished job, two movers",
+        "note": "A downtown curb with no reserved space turns a short carry into a long one and burns the minimum.",
+        "sources": [
+          {
+            "name": "Well Known Moving, Raleigh, posted small-move totals, read 2026-08-23",
+            "url": "https://wellknownmoving.com/blog/how-much-do-movers-cost-in-raleigh"
+          },
+          {
+            "name": "Royalty Moving Systems, Triangle, posted planning ranges, read 2026-08-23",
+            "url": "https://www.royaltymovingsystems.com/moving-cost-guide"
+          }
+        ]
+      },
+      {
+        "job": "Two-bedroom, entirely within Wake County",
+        "low": 645,
+        "high": 1400,
+        "basis": "finished job including the truck travel fee",
+        "note": "Three hours at the highest posted crew rate plus a single truck travel fee is what sets this floor.",
+        "sources": [
+          {
+            "name": "Dogwood Moving Co., Raleigh, posted rate and travel fee, read 2026-08-23",
+            "url": "https://www.dogwoodmoving.com/moving"
+          },
+          {
+            "name": "Well Known Moving, Raleigh, posted two-bedroom totals, read 2026-08-23",
+            "url": "https://wellknownmoving.com/blog/how-much-do-movers-cost-in-raleigh"
+          },
+          {
+            "name": "Royalty Moving Systems, Triangle, posted planning ranges, read 2026-08-23",
+            "url": "https://www.royaltymovingsystems.com/moving-cost-guide"
+          }
+        ]
+      },
+      {
+        "job": "Three-bedroom house in the Triangle",
+        "low": 1200,
+        "high": 2400,
+        "basis": "finished job, three or four movers",
+        "note": "Cary and North Raleigh subdivisions add driving between stops, and the tariff bills travel as chargeable time.",
+        "sources": [
+          {
+            "name": "Well Known Moving, Raleigh, posted three-bedroom totals, read 2026-08-23",
+            "url": "https://wellknownmoving.com/blog/how-much-do-movers-cost-in-raleigh"
+          },
+          {
+            "name": "Royalty Moving Systems, Triangle, posted planning ranges, read 2026-08-23",
+            "url": "https://www.royaltymovingsystems.com/moving-cost-guide"
+          }
+        ]
+      },
+      {
+        "job": "Piano, gun safe or other specialty piece",
+        "low": 100,
+        "high": 600,
+        "basis": "flat, per item",
+        "note": "The tariff sets its own maximums here too, including $111.90 for a grand piano and $128.25 for a slate pool table.",
+        "sources": [
+          {
+            "name": "Dogwood Moving Co., Raleigh, posted specialty item fee, read 2026-08-23",
+            "url": "https://www.dogwoodmoving.com/moving"
+          },
+          {
+            "name": "Royalty Moving Systems, Triangle, posted specialty item range, read 2026-08-23",
+            "url": "https://www.royaltymovingsystems.com/moving-cost-guide"
+          }
+        ]
+      }
+    ]
+  }
 }

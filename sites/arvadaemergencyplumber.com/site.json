@@ -136,5 +136,181 @@
   "cpc_usd": 90.0,
   "weakest_competitor": "rotorooter.com",
   "competitor_dr": 74.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "What the common emergency plumbing jobs run in Arvada",
+  "anchors": [
+   {
+    "label": "Building permit, water heater replacement",
+    "value": "$55",
+    "detail": "The flat amount Arvada lists for a water heater permit. It is pulled before the old tank leaves the house, and it buys an inspection rather than a piece of paper.",
+    "source_name": "City of Arvada building permit fee schedule",
+    "source_url": "https://www.arvadaco.gov/1263/Building-Fee-Schedule"
+   },
+   {
+    "label": "Right-of-way permit, one sewer service",
+    "value": "$67",
+    "detail": "Charged per sewer service when the work crosses the public right of way, which is the same figure as the minimum right-of-way permit fee in Arvada.",
+    "source_name": "City of Arvada rights of way fee schedule",
+    "source_url": "https://www.arvadaco.gov/DocumentCenter/View/294/Right-of-Way-Fee-Schedule-PDF"
+   },
+   {
+    "label": "Pavement degradation fee, per foot of trench",
+    "value": "$20.50",
+    "detail": "Added for every linear foot of trench opened in a city street, plus twenty feet of required resurfacing, which is why a dig under pavement is priced apart from a dig in a lawn.",
+    "source_name": "City of Arvada rights of way fee schedule",
+    "source_url": "https://www.arvadaco.gov/DocumentCenter/View/294/Right-of-Way-Fee-Schedule-PDF"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Night or weekend callout for water that will not stop",
+    "low": 170,
+    "high": 500,
+    "basis": "per visit",
+    "note": "Midnight and holiday calls sit high; a scheduled weekday morning slot sits lowest.",
+    "sources": [
+     {
+      "name": "Accountable Home Plumbing, Denver, posted emergency rates, read 2026-08-23",
+      "url": "https://www.accountablehomeplumbing.com/emergency-plumbers"
+     },
+     {
+      "name": "Colorado Water Works, Denver, posted emergency rates, read 2026-08-23",
+      "url": "https://www.coloradowaterworks.com/how-much-do-plumbers-charge-per-hour-in-denver-2025-pricing-guide"
+     },
+     {
+      "name": "Glaze Plumbing, Denver, posted emergency rates, read 2026-08-23",
+      "url": "https://glazeplumbingco.com/blog/how-much-does-plumber-cost-denver"
+     },
+     {
+      "name": "Drain Brain, Denver, posted emergency fees, read 2026-08-23",
+      "url": "https://www.drainbrainllc.com/how-much-does-a-drain-cleanout-cost-in-denver-2026-homeowner-s-guide"
+     }
+    ]
+   },
+   {
+    "job": "Main drain cabled open through the cleanout",
+    "low": 200,
+    "high": 900,
+    "basis": "flat",
+    "note": "A yard cleanout keeps it cheap; pulling a toilet adds an hour.",
+    "sources": [
+     {
+      "name": "My Denver Plumber, Denver, posted rates, read 2026-08-23",
+      "url": "https://mydenverplumber.net/my-denver-plumber-rates/"
+     },
+     {
+      "name": "Glaze Plumbing, Denver, posted prices, read 2026-08-23",
+      "url": "https://glazeplumbingco.com/blog/how-much-does-plumber-cost-denver"
+     },
+     {
+      "name": "Drain Brain, Denver, posted prices, read 2026-08-23",
+      "url": "https://www.drainbrainllc.com/how-much-does-a-drain-cleanout-cost-in-denver-2026-homeowner-s-guide"
+     },
+     {
+      "name": "Mr. Perfect Plumbing, Denver, posted prices, read 2026-08-23",
+      "url": "https://mrperfectplumbing.com/blog/2026/june/cost-of-plumbing-repairs-in-denver-2026-what-you-ll-actually-pay/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer line scoped on camera and the trouble spot located",
+    "low": 150,
+    "high": 400,
+    "basis": "flat",
+    "note": "Longer runs from older blocks north of Olde Town push this up.",
+    "sources": [
+     {
+      "name": "Priority Plumbing, Denver, posted camera price, read 2026-08-23",
+      "url": "https://priorityplumbingandheating.com/drain-services/camera-inspection/"
+     },
+     {
+      "name": "My Denver Plumber, Denver, posted scope rate, read 2026-08-23",
+      "url": "https://mydenverplumber.net/my-denver-plumber-rates/"
+     },
+     {
+      "name": "Glaze Plumbing, Denver, posted camera prices, read 2026-08-23",
+      "url": "https://glazeplumbingco.com/blog/how-much-does-plumber-cost-denver"
+     },
+     {
+      "name": "Drain Brain, Denver, posted camera prices, read 2026-08-23",
+      "url": "https://www.drainbrainllc.com/how-much-does-a-drain-cleanout-cost-in-denver-2026-homeowner-s-guide"
+     }
+    ]
+   },
+   {
+    "job": "Split supply line or frozen hose bib opened up and repaired",
+    "low": 150,
+    "high": 1590,
+    "basis": "flat",
+    "note": "Copper in an open crawlspace is quick; a line inside a wall is not.",
+    "sources": [
+     {
+      "name": "Glaze Plumbing, Denver, posted leak prices, read 2026-08-23",
+      "url": "https://glazeplumbingco.com/blog/how-much-does-plumber-cost-denver"
+     },
+     {
+      "name": "Mr. Perfect Plumbing, Denver, posted pipe prices, read 2026-08-23",
+      "url": "https://mrperfectplumbing.com/blog/2026/june/cost-of-plumbing-repairs-in-denver-2026-what-you-ll-actually-pay/"
+     }
+    ]
+   },
+   {
+    "job": "Water heater changed out, 40 or 50 gallon gas tank",
+    "low": 900,
+    "high": 6500,
+    "basis": "per unit",
+    "note": "Expansion tank, new venting, a pan and a tight closet move this.",
+    "sources": [
+     {
+      "name": "Plumb Pros, Denver, posted installed prices, read 2026-08-23",
+      "url": "https://www.plumbprosinc.com/water-heater-repair-cost-denver-co/"
+     },
+     {
+      "name": "My Denver Plumber, Denver, posted tank prices, read 2026-08-23",
+      "url": "https://mydenverplumber.net/my-denver-plumber-rates/"
+     },
+     {
+      "name": "FloWorks Plumbing, Arvada, posted tank ranges, read 2026-08-23",
+      "url": "https://floworksplumbing.com/learning-center/how-much-does-it-cost-to-replace-a-water-heater-in-denver"
+     }
+    ]
+   },
+   {
+    "job": "Sewer lateral spot repaired or replaced from the yard",
+    "low": 500,
+    "high": 15000,
+    "basis": "flat",
+    "note": "Depth, bedrock, roots and landscaping decide it; a street cut adds permits.",
+    "sources": [
+     {
+      "name": "Mr. Perfect Plumbing, Denver, posted sewer prices, read 2026-08-23",
+      "url": "https://mrperfectplumbing.com/blog/2026/june/cost-of-plumbing-repairs-in-denver-2026-what-you-ll-actually-pay/"
+     },
+     {
+      "name": "Simply Sewers, Denver, posted replacement prices, read 2026-08-23",
+      "url": "https://www.simplysewersdenver.com/how-much-does-a-sewer-replacement-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Water service line repaired or replaced out to the meter",
+    "low": 613,
+    "high": 2650,
+    "basis": "flat",
+    "note": "Boring under a driveway restores cheaper than trenching it; winter ground costs more.",
+    "sources": [
+     {
+      "name": "Drain Brain, Denver, posted water line prices, read 2026-08-23",
+      "url": "https://www.drainbrainllc.com/water-lines-denver"
+     },
+     {
+      "name": "Mr. Perfect Plumbing, Denver, posted water line prices, read 2026-08-23",
+      "url": "https://mrperfectplumbing.com/blog/2026/june/cost-of-plumbing-repairs-in-denver-2026-what-you-ll-actually-pay/"
+     }
+    ]
+   }
+  ]
  }
 }

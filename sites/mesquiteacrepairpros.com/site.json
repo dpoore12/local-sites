@@ -137,5 +137,177 @@
   "cpc_usd": 25.0,
   "weakest_competitor": "mesquiteheatingandair.com",
   "competitor_dr": 0.1
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Mesquite and east Dallas County prices, job by job",
+  "anchors": [
+   {
+    "label": "Residential mechanical permit, City of Mesquite",
+    "value": "$65",
+    "detail": "Section 12-104 prices a residential mechanical permit, condenser and furnace replacement included, at a flat $65. A residential plumbing permit under Section 12-102 is the same.",
+    "source_name": "City of Mesquite code of ordinances, permit fee sections 12-102 and 12-104",
+    "source_url": "https://apps.cityofmesquite.com/city_secweb/ordinances/5136.pdf"
+   },
+   {
+    "label": "Oncor residential HVAC replacement incentive cap",
+    "value": "$2,000 to $3,400",
+    "detail": "The 2025 Home Energy Efficiency program manual caps the contractor incentive by tonnage: $2,000 at two tons, $2,600 at three, $3,400 at five.",
+    "source_name": "Oncor 2025 Home Energy Efficiency program manual",
+    "source_url": "https://www.oncor.com/content/dam/oncorwww/eepm/documents/residential-resources/2025/2025%20HEE%20SOP%20Program%20Manual%20012325.pdf.coredownload.pdf"
+   },
+   {
+    "label": "State insurance minimum, Class A air conditioning contractor",
+    "value": "$300,000",
+    "detail": "Texas requires a Class A air conditioning and refrigeration contractor to carry $300,000 per occurrence and $600,000 aggregate. Class B minimums are a third of that.",
+    "source_name": "Texas Department of Licensing and Regulation, air conditioning contractor requirements",
+    "source_url": "https://www.tdlr.texas.gov/acr/contractor-apply.htm"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Service call and diagnosis on a system that quit cooling",
+    "low": 75,
+    "high": 150,
+    "basis": "per visit",
+    "note": "East side shops post this as a flat fee. Whether it is credited toward the repair varies, and it is worth asking before the truck rolls.",
+    "sources": [
+     {
+      "name": "Call Eric's Air Conditioning, Balch Springs and Mesquite, posted pricing page, read 2026-08-23",
+      "url": "https://callerics.com/pricing.html"
+     },
+     {
+      "name": "Frosty's Heating and Air, Mesquite, posted pricing, read 2026-08-23",
+      "url": "https://frostyshvac.com/locations/mesquite"
+     },
+     {
+      "name": "Forney HVAC Pros, Forney and east Dallas County, posted repair pricing, read 2026-08-23",
+      "url": "https://forneyhvacpros.com/blog/ac-repair-cost-forney-tx-2026"
+     },
+     {
+      "name": "HVAC Repair Rockwall, posted repair cost guide, read 2026-08-23",
+      "url": "https://hvacrepairrockwall.net/guides/ac-repair-cost-rockwall"
+     }
+    ]
+   },
+   {
+    "job": "Same day call answered after hours or overnight",
+    "low": 150,
+    "high": 250,
+    "basis": "surcharge on top of the repair",
+    "note": "This is the premium alone, added to whatever the repair costs. One Mesquite page posts it as a flat after hours charge.",
+    "sources": [
+     {
+      "name": "Frosty's Heating and Air, Mesquite, posted after hours charge, read 2026-08-23",
+      "url": "https://frostyshvac.com/locations/mesquite"
+     },
+     {
+      "name": "Forney HVAC Pros, Forney and east Dallas County, posted emergency premium, read 2026-08-23",
+      "url": "https://forneyhvacpros.com/blog/ac-repair-cost-forney-tx-2026"
+     }
+    ]
+   },
+   {
+    "job": "Run capacitor replaced, diagnosis included",
+    "low": 150,
+    "high": 850,
+    "basis": "parts and labor",
+    "note": "The spread on one part is real. Two east county lists put a complete capacitor service in the hundreds, not the tens.",
+    "sources": [
+     {
+      "name": "Expedition HVAC, Garland, posted repair pricing, read 2026-08-23",
+      "url": "https://expeditionhvac.com/ac-repair-cost-garland-tx/"
+     },
+     {
+      "name": "Forney HVAC Pros, Forney and east Dallas County, posted capacitor pricing, read 2026-08-23",
+      "url": "https://forneyhvacpros.com/blog/ac-repair-cost-forney-tx-2026"
+     },
+     {
+      "name": "HVAC Repair Rockwall, posted capacitor pricing, read 2026-08-23",
+      "url": "https://hvacrepairrockwall.net/guides/ac-repair-cost-rockwall"
+     },
+     {
+      "name": "Call Eric's Air Conditioning, Balch Springs and Mesquite, posted capacitor pricing, read 2026-08-23",
+      "url": "https://callerics.com/pricing.html"
+     }
+    ]
+   },
+   {
+    "job": "Condenser fan motor replaced",
+    "low": 400,
+    "high": 2800,
+    "basis": "parts and labor",
+    "note": "A universal replacement motor sits at the bottom. A factory variable speed motor on a newer condenser is the top figure.",
+    "sources": [
+     {
+      "name": "Frosty's Heating and Air, Dallas and Fort Worth, posted motor pricing, read 2026-08-23",
+      "url": "https://frostyshvac.com/blog/how-much-does-ac-repair-cost-in-dfw"
+     },
+     {
+      "name": "HVAC Repair Rockwall, posted motor pricing, read 2026-08-23",
+      "url": "https://hvacrepairrockwall.net/guides/ac-repair-cost-rockwall"
+     }
+    ]
+   },
+   {
+    "job": "Blower motor replaced in the indoor unit",
+    "low": 450,
+    "high": 4200,
+    "basis": "parts and labor",
+    "note": "An older direct drive blower is the low figure. A variable speed motor with its own control module reaches the high one.",
+    "sources": [
+     {
+      "name": "Call Eric's Air Conditioning, Balch Springs and Mesquite, posted blower pricing, read 2026-08-23",
+      "url": "https://callerics.com/pricing.html"
+     },
+     {
+      "name": "HVAC Repair Rockwall, posted blower pricing, read 2026-08-23",
+      "url": "https://hvacrepairrockwall.net/guides/ac-repair-cost-rockwall"
+     },
+     {
+      "name": "Frosty's Heating and Air, Dallas and Fort Worth, posted blower pricing, read 2026-08-23",
+      "url": "https://frostyshvac.com/blog/how-much-does-ac-repair-cost-in-dfw"
+     }
+    ]
+   },
+   {
+    "job": "Leak found and refrigerant replaced on an older R-22 system",
+    "low": 350,
+    "high": 1500,
+    "basis": "leak search plus refrigerant",
+    "note": "Phased out refrigerant is the reason. One local page posts R-22 at double the per pound figure it charges for R-410A.",
+    "sources": [
+     {
+      "name": "Frosty's Heating and Air, Mesquite, posted refrigerant pricing, read 2026-08-23",
+      "url": "https://frostyshvac.com/locations/mesquite"
+     },
+     {
+      "name": "Forney HVAC Pros, Forney and east Dallas County, posted leak and recharge pricing, read 2026-08-23",
+      "url": "https://forneyhvacpros.com/blog/ac-repair-cost-forney-tx-2026"
+     },
+     {
+      "name": "HVAC Repair Rockwall, posted leak repair pricing, read 2026-08-23",
+      "url": "https://hvacrepairrockwall.net/guides/ac-repair-cost-rockwall"
+     }
+    ]
+   },
+   {
+    "job": "Whole system replaced with the city permit pulled",
+    "low": 5200,
+    "high": 20000,
+    "basis": "installed",
+    "note": "One Rowlett page states the city permit and inspection sit inside its figure. Duct and electrical work is what pushes past ten thousand.",
+    "sources": [
+     {
+      "name": "Elite Clean DFW, Rowlett and east Dallas County, posted installed replacement pricing, read 2026-08-23",
+      "url": "https://elitecleandfw.com/ac-replacement-cost-rowlett/"
+     },
+     {
+      "name": "Frosty's Heating and Air, Mesquite, posted replacement pricing, read 2026-08-23",
+      "url": "https://frostyshvac.com/locations/mesquite"
+     }
+    ]
+   }
+  ]
  }
 }

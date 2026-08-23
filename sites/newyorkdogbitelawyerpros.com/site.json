@@ -88,6 +88,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "The fee schedule the First Department applies to a New York County injury claim",
+  "col_a": "What it covers",
+  "col_b": "What the schedule sets",
+  "anchors": [
+   {
+    "label": "Flat ceiling under Schedule B",
+    "value": "33 1/3%",
+    "detail": "Available only where the original retainer chose it, and choosing it gives up any later application for extra compensation.",
+    "source_name": "22 NYCRR 603.25(e)(2)",
+    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+   },
+   {
+    "label": "Top step of the graduated Schedule A",
+    "value": "50%",
+    "detail": "Applies to the first $1,000 recovered only, then the schedule falls to 40, 35 and finally 25 percent above $25,000.",
+    "source_name": "22 NYCRR 603.25(e)(2)",
+    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+   },
+   {
+    "label": "Index number from the County Clerk",
+    "value": "$210",
+    "detail": "CPLR 8018 sets $190 payable in advance plus $5 for records management and $15 for the cultural education account.",
+    "source_name": "CPLR 8018(a)",
+    "source_url": "https://www.nysenate.gov/legislation/laws/CVP/8018"
+   },
+   {
+    "label": "City license, unaltered dog over four months",
+    "value": "$34",
+    "detail": "A spayed or neutered dog is $8.50 a year, and a lapsed license carries a $2 fine for each year it went unrenewed.",
+    "source_name": "NYC Health dog license fees",
+    "source_url": "https://www.nyc.gov/site/doh/services/dog-licenses.page"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "Schedule A, the graduated option",
+    "share": "50 / 40 / 35 / 25 percent",
+    "note": "Fifty percent of the first $1,000, forty of the next $2,000, thirty-five of the next $22,000, then twenty-five percent of everything past $25,000.",
+    "source_name": "22 NYCRR 603.25(e)(2)",
+    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+   },
+   {
+    "stage": "Schedule B, the flat option",
+    "share": "Not above 33 1/3 percent",
+    "note": "The rule allows it only if the initial contract says so, and then shuts off the extraordinary circumstances application that Schedule A keeps open.",
+    "source_name": "22 NYCRR 603.25(e)(2)",
+    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+   },
+   {
+    "stage": "Whether the percentage runs on net or gross",
+    "share": "The client picks",
+    "note": "Under 603.25(e)(3) the retainer must describe both methods and show the choice, and hospital and treatment liens are never deducted first.",
+    "source_name": "22 NYCRR 603.25(e)(3)",
+    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+   },
+   {
+    "stage": "Anything above the schedule",
+    "share": "Unconscionable without an order",
+    "note": "603.25(e)(1) treats an excess fee as the exaction of unreasonable and unconscionable compensation unless a judge authorizes it in a written order.",
+    "source_name": "22 NYCRR 603.25(e)(1)",
+    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+   },
+   {
+    "stage": "Malpractice sliding scale",
+    "share": "30 / 25 / 20 / 15 / 10 percent",
+    "note": "Judiciary Law 474-a governs medical, dental and podiatric malpractice only. A bite claim against an owner is expressly outside it.",
+    "source_name": "Judiciary Law 474-a(2)",
+    "source_url": "https://www.nysenate.gov/legislation/laws/JUD/474-A"
+   },
+   {
+    "stage": "A claim belonging to a child",
+    "share": "Court fixes the amount",
+    "note": "Judiciary Law 474 voids a percentage agreement with an infant's guardian unless the court, on notice, summarily values the services and orders the fee.",
+    "source_name": "Judiciary Law 474",
+    "source_url": "https://www.nysenate.gov/legislation/laws/JUD/474"
+   }
+  ]
+ },
  "hero_accent": "What The Law Says About Dog Attacks",
  "trust_third": "Liability rules explained before you call",
  "services": [

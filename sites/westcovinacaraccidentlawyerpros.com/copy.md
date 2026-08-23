@@ -275,3 +275,43 @@ What to keep after a West Covina collision
 ## emergency_note
 
 After a collision, use 911 without delay for unconsciousness, breathing difficulty, heavy bleeding, new weakness, or any other life-threatening symptom.
+
+## pricing_lede
+
+The Los Angeles Superior Court publishes what it charges for every step of a civil case, down to a court reporter's half day. California's fee rules publish no percentage at all. This page sets both sides of that out for a West Covina crash claim.
+
+## pricing_body
+
+### Los Angeles prices the process, not the lawyer
+
+A civil case in Los Angeles County has a published price list, and it is worth reading before signing anything, because it explains where money actually goes. The first paper in an unlimited civil case -- a complaint pleading more than $35,000 -- costs $435, and each other party pays $435 to appear. Limited civil filings cost $370 or $225 depending on the pleaded amount. Any paper requiring a hearing costs $60. A summary judgment or summary adjudication motion costs $500. Where a case is designated complex, the plaintiffs pay $1,000 and every defendant pays $1,000 more, to a per-case ceiling of $18,000.
+
+Then come the Los Angeles line items that surprise people. Court reporting for a proceeding of one hour or less is $30, but a proceeding running over an hour but under four hours is $382, and one lasting four hours or more is $764. The advance jury fee is $150, nonrefundable; from the second day onward the court's deposit is $15 per juror per day plus $0.34 a mile one way. A single contested motion day with a reporter, in other words, can cost more than opening the case did.
+
+### What California actually limits about a fee
+
+Nothing in the state's rules assigns a percentage to injury work. Rule 1.5(a) of the California Rules of Professional Conduct prohibits an unconscionable or illegal fee. Rule 1.5(b) then supplies the measuring stick: whether the lawyer engaged in fraud or overreaching in setting the fee, whether material facts were disclosed, the fee compared with the value of the services performed, how sophisticated the client was relative to the lawyer, the novelty and difficulty of the work, whether the case foreclosed other work, the amount involved and the result obtained, time pressure, the length of the relationship, the lawyer's experience and ability, whether the fee is fixed or contingent, the hours and labor involved, and whether the client gave informed consent.
+
+Read that as a review mechanism. The state does not pre-approve a rate; it reserves the right to look at one afterwards, on the facts as they stood when the agreement was signed.
+
+### The malpractice statute, labeled as such
+
+Business and Professions Code section 6146 is the only California provision that caps an injury contingency percentage, and it reaches only claims for injury or death charging a health care provider with professional negligence. In those, the ceiling is twenty-five percent of what is recovered when the matter closes by settlement and release before anyone files a complaint or demands arbitration, and thirty-three percent once it closes after that point, absent a motion granted on evidence of good cause. The percentage runs against the net recovery after costs, and the statute forbids treating a patient's own medical care charges or a firm's overhead as deductible.
+
+A rear-end collision on Azusa Avenue, a lane-change crash on the 10 near Citrus, a pedestrian struck near the Eastland shopping district: none of those are malpractice claims, so section 6146's percentages have nothing to say about them. Any West Covina page quoting those numbers for a car crash has mislabeled the statute.
+
+### Section 6147 is the consumer protection that does apply
+
+The contract does the work the statute declines to do. Section 6147(a) requires a contingency agreement in writing, signed by attorney and client alike, with a duplicate signed copy handed to the plaintiff at the outset. Three disclosures belong in the document: the rate settled on, the effect disbursements and costs have on both the fee and what the client keeps, and any compensation that could come due on related matters the contract does not cover. Unless section 6146 governs the claim, a fourth line is required, saying plainly that no statute fixes the fee and the rate remains open to negotiation. Section 6147(b) makes a defective contract voidable at the plaintiff's option, with the lawyer limited to a reasonable fee.
+
+That negotiability sentence is the most useful line in the statute. It exists because the legislature expected people to assume the rate was fixed.
+
+### Cost-shifting is narrower than most people expect
+
+Code of Civil Procedure section 1033.5 lists what a prevailing party may recover as costs: filing, motion and jury fees, taking and transcribing necessary depositions plus travel to attend them, service of process, ordinary witness fees, court-ordered expert fees, statutory court reporter fees, and exhibit costs that helped the trier of fact. It also lists what is not allowable without express authority: fees of experts the court did not order, investigation expenses in preparing the case, postage, telephone and photocopying outside exhibits, and transcripts the court did not order.
+
+In a real Los Angeles file the biggest advances are usually the ones on the wrong side of that line. A retained reconstruction or life-care expert the court never appointed is not recoverable from the defense as a cost, even in a case that wins. That is why the treatment of costs in the fee agreement matters as much as the percentage in it.
+
+### The two sentences to look for in any agreement
+
+First, whether costs are subtracted before or after the fee is calculated -- section 6147 requires the contract to address it, and the two orders produce different numbers on identical facts. Second, whether the percentage shifts at a milestone such as filing suit or setting trial, because the court fees above show why a filed case costs more to run than a pre-suit claim. Everything else on this page can be verified from the Los Angeles Superior Court's own fee schedule and from the statutes named beside each figure.

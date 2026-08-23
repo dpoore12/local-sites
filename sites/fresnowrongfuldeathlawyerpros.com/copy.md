@@ -273,3 +273,37 @@ The information that makes a careful review possible
 ## emergency_note
 
 There is no need to make a legal decision in the first hours after a death. Preserve documents, avoid signing a release before it is reviewed, and keep the names of people who saw what happened.
+
+## pricing_lede
+
+California sets no percentage on what a lawyer may take out of a wrongful death recovery, and it protects families instead through what the contract has to disclose and what a judge has to approve, so this page lays out both, who the Code of Civil Procedure lets sue, and what the Fresno County courthouse charges to carry a case to trial.
+
+## pricing_body
+
+### Nothing in California law fixes the number
+
+The starting point is short. Rule 1.5(a) of the California Rules of Professional Conduct forbids an agreement for, a charge of, or collection of an unconscionable or illegal fee, and no statute anywhere in California supplies a percentage ceiling for a wrongful death claim. In practice the percentage on a Fresno family's contract came from the lawyer who drafted it, and the law's answer is not to cap it but to force it into the open and, where a child or a dependent adult is involved, hand it to a judge.
+
+### How unconscionability actually gets tested
+
+Rule 1.5(b) measures the fee against all the facts and circumstances existing when the agreement was entered into, unless the parties contemplated that later events would affect it. The enumerated considerations include whether there was fraud or overreaching in negotiating or setting the fee, whether material facts went undisclosed, the amount of the fee in proportion to the value of the services performed, the relative sophistication of the lawyer and the client, whether the engagement precludes other work, and the amount involved and the results obtained. A grieving family is rarely a sophisticated buyer of legal services, and that asymmetry is itself on the list.
+
+### What the contract has to say out loud
+
+Business and Professions Code section 6147 governs the paperwork. Subdivision (a) requires a written contract signed by both the attorney and the client, or the client's guardian or representative, with a duplicate copy provided at the time it is entered into. It must state the agreed rate, explain how disbursements and costs incurred in prosecuting or settling the claim will affect both the fee and the client's recovery, and disclose any compensation the client might owe for related matters outside the contract. Then, at (a)(4), unless the claim falls under section 6146, the contract must state that no law sets this fee and that its amount is open to negotiation between the two of them. If any of that is missing, subdivision (b) makes the agreement voidable at the client's option and limits the attorney to a reasonable fee.
+
+### The 25 and 33 percent figures belong somewhere else
+
+Those two numbers circulate as though they were general injury law in California. They are not. Section 6146(a) applies only where a person seeks damages against a health care provider based on that provider's alleged professional negligence, and it caps the fee at 25 percent of the amount recovered where the case resolves by settlement and release signed before a civil complaint or arbitration demand is filed, and 33 percent where recovery follows the filing. A death caused by a truck driver, a defective machine, or an unsafe premises in Fresno County is outside that section entirely, and a contract applying those percentages to it has borrowed the wrong statute.
+
+### Who California lets bring the claim
+
+Section 377.60 of the Code of Civil Procedure decides standing, and it is broader than most families expect. Subdivision (a) covers the surviving spouse, domestic partner, children and the issue of deceased children, or, where no issue survives, the people who would take the decedent's property by intestate succession, and it lets legal guardians step in where the parents who could have sued are themselves deceased. Subdivision (b) adds, whether or not they qualify under (a), a dependent putative spouse and that spouse's children, stepchildren, parents, or legal guardians. Subdivision (c) reaches a minor who lived in the household for the 180 days before the death and depended on the decedent for at least half of their support. Any of them may sue, or the personal representative may sue on their behalf, and a contingent percentage attaches to each resulting share rather than to one lump.
+
+### A child's money goes past the judge
+
+Where part of a recovery belongs to a minor or a person with a disability, the fee stops being purely contractual. Rule 7.955(a)(1) requires the court to use a reasonable fee standard in approving attorney fees payable from that money, unless it approved the agreement in advance, and (a)(2) has the court evaluate the agreement on the facts as they stood when it was made. Subdivision (b) gives fourteen nonexclusive factors, including at (b)(9) the informed consent of the minor's representative to the fee and at (b)(13) the risk of loss borne by the attorney, the costs advanced, and the delay in payment. Subdivision (c) requires a declaration addressing the applicable factors. Under rule 7.952(a) the petitioner and the minor both attend the hearing unless excused for good cause, and the court may require the examining physician to testify.
+
+### What the courthouse on O Street costs to use
+
+The fee schedule the Fresno court publishes puts a first paper in an unlimited civil case at $435, and the same amount is due from each other party filing an answer. Summary judgment is $500 under Government Code 70617(d), and a complex designation adds $1,000 for all plaintiffs plus $1,000 per defendant up to $18,000 for the case. The advance jury fee is $150 and nonrefundable. Court reporting runs $30 for a proceeding of an hour or less, then $440 per half day or $880 per day. On the probate side, a petition to compromise a minor's claim where no civil action is pending costs $435 under 70655(c)(1), a petition for appointment of a guardian of the estate is $435, and guardianship of the person alone is $225. Every one of those is a case cost rather than a fee, and the contract should state who fronts them and what happens if the case ends with no recovery.

@@ -1016,3 +1016,105 @@ html, body { overflow-x: hidden; max-width: 100%; }
 .band-inner > .section p strong { color: var(--brand); }
 .band-navy .card h3 a { color: #fff; text-decoration: none; }
 .band-navy .card h3 a:hover { color: var(--cta); }
+
+/* ---- pricing page ------------------------------------------------------- */
+/* Palette is locked: navy heads, gold rule, tint zebra. No new hues. */
+.table-note{
+  font-size:.86rem;line-height:1.6;color:#4a5b68;max-width:60ch;
+  margin:-.6rem 0 1.9rem;padding-left:.9rem;border-left:3px solid var(--cta);
+}
+.table-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;}
+.price-table{
+  width:100%;border-collapse:collapse;background:var(--card);
+  font-size:.94rem;min-width:35rem;
+  border:1px solid var(--line);
+}
+.price-table thead th{
+  background:var(--brand);color:#fff;text-align:left;
+  font-size:.74rem;letter-spacing:.09em;text-transform:uppercase;
+  font-weight:600;padding:.95rem 1.05rem;white-space:nowrap;
+}
+.price-table tbody th,.price-table tbody td{
+  padding:1.05rem;border-top:1px solid var(--line);
+  vertical-align:top;line-height:1.55;
+}
+.price-table tbody th{
+  text-align:left;font-weight:600;color:var(--brand-deep);width:22%;
+}
+.price-table tbody tr:nth-child(even){background:var(--brand-tint);}
+.price-table .price-cell{
+  font-weight:700;color:var(--brand-deep);white-space:nowrap;width:20%;
+  font-variant-numeric:tabular-nums;
+}
+.price-table td a{color:var(--brand-mid);text-decoration:underline;}
+/* The cost table's middle cell is one dollar range, so nowrap keeps it on a
+   line. The fees table's is a sentence of statutory tiers -- forcing that onto
+   one line starves the explanation column beside it. */
+.price-table--fees .price-cell{white-space:normal;width:27%;}
+.price-table--fees tbody th{width:19%;}
+
+.anchor-list{
+  list-style:none;margin:0;padding:0;display:grid;gap:1.4rem;
+  grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));
+}
+.anchor-item{
+  background:var(--card);border:1px solid var(--line);
+  border-top:4px solid var(--cta);padding:1.6rem 1.5rem;
+}
+.anchor-value{
+  display:block;font-size:1.85rem;line-height:1.1;font-weight:700;
+  color:var(--brand-deep);font-variant-numeric:tabular-nums;
+}
+.anchor-label{
+  font-size:.98rem;margin:.55rem 0 .6rem;color:var(--brand);
+}
+.anchor-item p{font-size:.9rem;line-height:1.65;margin:0;color:#4a5b68;}
+.anchor-src{margin-top:.85rem !important;font-size:.8rem !important;}
+.anchor-src a{color:var(--brand-mid);text-decoration:underline;}
+
+/* On a phone a four-column table either scrolls the most useful column out of
+   sight or squeezes every cell to two words. Each row becomes its own card
+   instead, so nothing is hidden and nothing needs a sideways swipe. */
+@media (max-width:640px){
+  .table-scroll{overflow-x:visible;}
+  .price-table{min-width:0;border:0;font-size:.94rem;}
+  .price-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);}
+  .price-table tbody,.price-table tr,.price-table tbody th,.price-table tbody td{display:block;}
+  .price-table tbody tr{
+    background:var(--card);border:1px solid var(--line);
+    border-top:3px solid var(--cta);margin-bottom:1.1rem;padding:1.15rem 1.2rem;
+  }
+  .price-table tbody tr:nth-child(even){background:var(--card);}
+  .price-table tbody th{
+    width:auto;padding:0;border-top:0;font-size:1.02rem;line-height:1.35;
+  }
+  .price-table tbody td{padding:0;border-top:0;}
+  .price-table .price-cell{
+    width:auto;font-size:1.42rem;line-height:1.2;margin:.55rem 0 .1rem;
+    white-space:normal;
+  }
+  .price-table td[data-label]::before{
+    content:attr(data-label);display:block;
+    font-size:.68rem;letter-spacing:.09em;text-transform:uppercase;
+    font-weight:600;color:var(--brand-mid);margin:.85rem 0 .25rem;
+  }
+  .price-table tbody td:not([data-label]):not(.price-cell){
+    font-size:.88rem;color:#4a5b68;
+  }
+  .anchor-value{font-size:1.6rem;}
+}
+
+/* Numbered references on a published price range, and the source list under the
+   cost table. Every dollar figure on a cost page points at the price page it
+   came from; these styles keep that from shouting. */
+.price-ref { font-size: .62em; font-weight: 700; letter-spacing: .02em; margin-left: .18em; }
+.price-ref a { color: var(--brand-mid); text-decoration: none; padding: 0 .06em; }
+.price-ref a:hover, .price-ref a:focus { text-decoration: underline; }
+.price-ref span { color: var(--brand-mid); }
+.price-sources { margin-top: 1.9rem; padding-top: 1.5rem; border-top: 2px solid var(--cta); }
+.price-sources h3 { font-size: var(--text-lg); margin: 0 0 .5rem; }
+.price-sources > p { color: #4d5a66; font-size: var(--text-sm); max-width: 62ch; margin: 0 0 1rem; }
+.price-sources ol { margin: 0; padding-left: 1.35rem; columns: 2; column-gap: 2.4rem; }
+.price-sources li { font-size: var(--text-sm); margin-bottom: .45rem; break-inside: avoid; }
+.price-sources li a { color: var(--brand); }
+@media (max-width: 640px) { .price-sources ol { columns: 1; } }

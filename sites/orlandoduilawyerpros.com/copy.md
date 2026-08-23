@@ -278,3 +278,41 @@ Four things that make the first review more accurate
 ## emergency_note
 
 A DUI charge is not a physical emergency, but a license notice or court paper may carry a short deadline. Save every page, follow any written driving restriction, and act on the dates shown.
+
+## pricing_lede
+
+Florida writes most of the money in a DUI case into statute. The fine band, the court costs, the reinstatement charges, the interlock charge and the clerk's payment plan terms are all fixed in the Florida Statutes, and none of them are attorney fees. The attorney fee is a separate written agreement, and Florida bars any version of it that moves with the outcome.
+
+## pricing_body
+
+### Florida will not let a defense fee ride on the verdict
+
+The Rules Regulating The Florida Bar handle fees in rule 4-1.5. Subdivision (f)(3) sets out the two arrangements a lawyer must not enter into, charge, or collect, and item (B) is "a contingent fee for representing a defendant in a criminal case." The prohibition is unconditional. It does not soften for a first arrest, for a breath refusal, or for a case a lawyer believes will be dropped at the first pretrial hearing.
+
+That leaves two lawful shapes for the fee: a fixed sum covering defined work, or an hourly rate drawn against an advance. Either one belongs in writing, with the scope described in enough detail that both sides know whether it stops at a plea or carries through a jury trial in the Ninth Judicial Circuit. Ask specifically about a violation of probation, about an amended charge, and about whether the administrative license hearing is inside or outside the quoted work.
+
+### The fine bands, tier by tier, without rounding
+
+Fla. Stat. 316.193(2)(a)1 puts a first conviction at not less than $500 and not more than $1,000, with imprisonment of not more than six months. A second conviction runs $1,000 to $2,000 with jail of not more than nine months. Under subsection (2)(b)2, a third conviction more than ten years after a prior carries $2,000 to $5,000 and up to twelve months, and a fourth or later conviction carries a fine of not less than $2,000.
+
+Subsection (4) is the tier readers underestimate. Where the blood or breath alcohol level is 0.15 or higher, or a passenger under 18 was in the vehicle, a first conviction becomes $1,000 to $2,000, a second becomes $2,000 to $4,000, and a third or later becomes not less than $4,000. Those are separate bands, not enhancements bolted onto the ordinary numbers, and the statute keeps the tiers distinct.
+
+### Court costs are added by statute, not by a judge's discretion
+
+Fla. Stat. 938.07 says a court cost of $135 shall be added to any fine imposed for a DUI, and it names the destinations: $25 to the Emergency Medical Services Trust Fund, $50 to the crime laboratory trust fund of the arresting agency's jurisdiction, and $60 to the Brain and Spinal Cord Injury Program Trust Fund. Fla. Stat. 938.05 adds $60 as a cost on a criminal traffic offense or a misdemeanor, and $225 on a felony, which is the figure that appears when a DUI is charged with serious bodily injury.
+
+For anyone who cannot pay the total at disposition, Fla. Stat. 28.246(4) governs the clerk's payment plan. A monthly amount is presumed to match ability to pay when it does not exceed the greater of $25 or two percent of annual net income divided by twelve, and any down payment the clerk requires is capped at the lesser of ten percent of the balance or $100. The clerk must enroll a person the court finds indigent for costs.
+
+### Appointed counsel costs $50 to ask for
+
+Fla. Stat. 27.52(1)(b) requires a $50 application fee to the clerk for each application for court-appointed counsel, payable within seven days of filing. If it goes unpaid before the case is resolved, the clerk notifies the court and the amount is assessed as part of the sentence or as a condition of probation. The financial affidavit behind the application covers income, assets down to equity in a boat or vehicle, all liabilities, and the source of any bail money already posted.
+
+### The license side runs through the state, not the courthouse
+
+Fla. Stat. 322.21(8) sets a service fee of $45 to reinstate after a suspension and $75 after a revocation, then adds a further $130 fee where the reinstatement follows a DUI conviction or a refusal, limited to one such charge per incident and not collected if the underlying action is overturned. Fla. Stat. 322.2715(5) requires the authorized interlock installer to collect $12 for each installation and remit it to the department, which sits on top of whatever the monitoring provider charges each month.
+
+The department's own DUI guidance fills in the rest of the timeline: a first conviction brings a revocation of six months to one year, a DUI causing serious bodily injury brings at least three years, and DUI school has to be finished within 90 days after reinstatement or the license is cancelled again. Reinstatement after a DUI also requires FR-44 insurance held for three years at $100,000 bodily injury per person, $300,000 per occurrence, and $50,000 property damage, or a combined single limit of $350,000. That insurance requirement usually costs more over three years than the fine did.
+
+### What changes the size of a defense fee in Orange County
+
+The charge tier matters most, because a subsection (4) case at 0.15 or above, or a felony filing after a crash, involves evidence a plain first-offense case does not. After that: whether the breath, blood or urine result is contested, since that means subpoenaing instrument records and often retaining an analyst; whether the case is eligible for a diversion track and what compliance costs; and whether the matter is set for trial. The fine in the table below does not move with any of that, and neither figure predicts the other.

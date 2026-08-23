@@ -275,3 +275,37 @@ What helps set up the right plumbing visit
 ## emergency_note
 
 If water is near electrical equipment, do not touch the water or electrical controls. Leave the area clear and contact emergency services if there is an immediate electrical danger.
+
+## pricing_lede
+
+Here is what plumbing emergencies actually cost across Atlanta, what the city and the Department of Watershed Management add in permit and inspection money, and why an intown lot full of clay and tree roots prices differently from a newer house out toward the county line.
+
+## pricing_body
+
+### Three things move an Atlanta plumbing number
+
+Start with access. A clogged branch line with a cleanout inside the crawlspace is a straightforward visit. The same clog in a Virginia-Highland duplex, where the only way at the stack is through a second-floor roof vent, is a longer and more careful job. Second, material age: intown houses carry galvanized supply and cast iron or clay drainage, and old pipe rarely fails politely. Third, the clock. A leak that started at nine on a Friday night and a leak reported Monday at ten are the same repair with different labor attached.
+
+That is also why an honest range stays wide. A cleared line and a failed line look identical from the sink. Only the camera tells you which one you have, and the difference between those two answers is the difference between a few hundred dollars and five figures.
+
+### Roots, clay and hills: the local reason
+
+Atlanta's drainage problems are largely a story about trees and slope. The city's own field work makes the point: in early January 2026 the Department of Watershed Management traced a Georgia Avenue SE sinkhole to a 24-inch clay combination sewer about eighteen feet down. Clay joints and thirsty roots find each other, and Atlanta has both in abundance on the same lots where the housing stock is oldest. Hilly intown parcels also put the house well above or well below the main, so laterals here run longer and deeper than a flat subdivision would need, and depth is the single biggest multiplier on any dig.
+
+Trees add a second layer that is procedural rather than physical. Since June 2025 the city has required a completed arborist meeting before a permit application involving possible tree impacts is even submitted, and applications without that documentation are not accepted. Nobody prices that as a line item, but it lengthens the schedule on exactly the excavations that root damage causes. Meanwhile the sewer system itself is under federal consent decrees dating to 1998 and 1999, with an estimated four billion dollars of water and sewer work behind them. Public money has gone into mains. Private laterals stayed private.
+
+### What the city's paperwork costs, and what it enforces
+
+The fee appendix is modest on its face: a $50 minimum for a residential plumbing permit, $10 for each fixture, $10 for a house sewer newly laid or replaced. The enforcement side is where the money lives. Starting work before the permit issues doubles the fee, up to a thousand dollars, and each reinspection trip after a written correction notice adds $50. On the utility side, a single-family sewer connection carries $230 for Watershed plan review and site inspection, plus a $250 sewer inspection fee when a new tap is involved, and the department is explicit that the installation itself is the owner's cost. Work inside the public right of way can require a separate qualified contractor permit from Public Works.
+
+### Reading an estimate like somebody who has seen a few
+
+An estimate worth signing states the diagnosis and the evidence behind it: footage from the camera, distance and depth to the defect, and whether the pipe is clay, cast iron, Orangeburg or plastic. It puts the permit on its own line and says who applies for it. On any dig it specifies restoration in writing, which in this city means concrete or asphalt to city spec, backfill compaction, and what happens to shrubs and sod. It separates the diagnostic charge from the repair and says whether one credits against the other. If a proposal quotes lining and excavation as a single blended number, ask which one is actually planned.
+
+### The upsell to watch for
+
+The pressure play in this market is a full lateral replacement proposed from a single blocked line, presented while somebody is standing in an inch of water. Roots at one joint are a repair. A pipe that has lost its shape along most of its length is a replacement. Those are different findings and the camera distinguishes them, so ask to watch the footage rather than a summary. Two smaller traps: jetting sold before any inspection, which can finish off already fragile clay, and enzyme or chemical treatments billed as prevention on a line whose actual problem is a broken joint.
+
+### What the online average never includes
+
+The national figures skip Atlanta's specifics almost entirely. They leave out the permit and reinspection structure, the Watershed review and inspection fees, the arborist step when a protected tree is in the way, pavement restoration on a street cut, and the drywall and paint that follow an interior repair. They also assume a lateral of ordinary length at ordinary depth, which describes very few lots inside the city. Depth, distance and what is growing overhead are the local variables, and every one of them is missing from a national average.

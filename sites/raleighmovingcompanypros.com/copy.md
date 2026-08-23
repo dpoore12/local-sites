@@ -281,3 +281,41 @@ Start with the kind of move you are planning
 ## crosslink_head
 
 Different move than the one you are planning?
+
+## pricing_lede
+
+North Carolina is one of the few states that publishes a legal ceiling on what an intrastate household move may cost by the hour. This page puts that tariff next to what Raleigh and Wake County companies actually post, so both numbers are visible at once. Nothing here is a quote.
+
+## pricing_body
+
+### A move inside this state has a legal price ceiling
+
+A household move that starts and ends in North Carolina is regulated transportation, not an unregulated service. Carriers hold a certificate from the North Carolina Utilities Commission Maximum Rate Tariff No. 2 regime, and the tariff itself sets maximum charges rather than suggested ones. The current edition was issued December 30, 2025 and took effect January 1, 2026.
+
+For a move of fifty miles or less the tariff allows hourly billing, and Rule 53 sets the ceilings: $188.40 an hour for a vehicle and two crew, $243.30 with three, $297.90 with four and $352.95 with five, each additional crew member $54.80 and each additional vehicle $52.50. Outside 8 a.m. to 5 p.m. Monday through Friday the same crews cap at $235.15, $310.25, $385.15 and $460.10. Compare those against the table above and the useful conclusion appears immediately: posted Triangle rates for two movers run roughly seventy to a hundred percent of the legal maximum, so the ceiling is real but the market is competing below it.
+
+### How the clock is defined, which matters more than the rate
+
+The tariff does not leave billable time to interpretation. Time runs from the crew's arrival at the origin address through completion at the destination, rounded to the quarter hour, and travel between the two addresses is chargeable at up to one hour per fifty miles. That is a materially different structure from California's doubled driving time or Florida's shop-to-shop practice, and it is why a Raleigh crew moving a household from Cary to North Raleigh cannot inflate a bill with mileage games.
+
+Beyond the hours, the tariff prices the things people forget. Carrying a piano of thirty-eight inches or taller caps at $111.90, a slate pool table at $128.25 and a laden freezer at $93.30. Carrying goods up or down the first flight of stairs inside a building caps at $33.55, each additional flight $16.85. An elevator caps at $3.10 per hundred pounds and stairs at $2.20 per hundred pounds. Full value protection is a dollar per hundred dollars of declared value on a single truck, with a minimum valuation of five dollars a pound.
+
+### Why weight-based quoting shows up here
+
+Some Raleigh carriers decline to post an hourly figure at all, because the tariff also permits distance-and-weight pricing, and for longer intrastate hauls that is the structure they use. One local nonprofit carrier states outright that North Carolina pricing is based on weight and distance rather than an hourly rate. Neither method is a trick. What matters is knowing which one is being applied before load day, because the same household can be quoted two very different ways.
+
+### Labor, and where the money actually goes
+
+Freight and material movers in the Raleigh-Cary metro had a median wage of $18.50 an hour in May 2025 across 17,060 workers, per the BLS Occupational Employment and Wage Statistics, May 2025 release. Two crew at that median is $37 of a $190 hourly charge. The remainder is the truck, insurance the Commission requires, fuel, equipment, dispatch and unbilled travel. The tariff ceiling exists because that spread is where overcharging used to hide.
+
+### Reading an estimate here
+
+Ask for the tariff basis in writing: hourly under Section II or weight and distance. Confirm crew size, the regular-versus-overtime rate that applies to the scheduled day, the billing minimum, the travel fee and whether it is per truck, the per-mile charge outside Wake County, and the valuation election. A Commission certificate number should be on the paperwork. Downtown jobs need the curb settled in advance, since Raleigh Right-of-Way Services directs moving-van parking passes through Raleigh Parking and a paid space needs the approved pass displayed.
+
+### The trap
+
+The one to watch is the overtime boundary. A job scheduled to start at 3 p.m. on a Friday, or a Saturday move, is billed at the higher tariff band for every hour, and a crew that arrives late pushes ordinary hours into that band. The second is the three-hour minimum most companies apply, which makes a genuinely small move cost more per box than a large one. The third is August. NC State housing runs fall move-in on assigned appointment slots, and the whole market tightens around it.
+
+### What a posted total leaves out
+
+Published job figures assume a boxed household with ground-floor or elevator access. They exclude packing labor and materials, mattress and television cartons, floor protection, disassembly, appliance servicing, storage between closings, second stops, out-of-county mileage, and the specialty items the tariff prices separately.

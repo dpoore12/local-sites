@@ -206,3 +206,43 @@ Four kinds of information worth keeping
 
 ## emergency_note
 For immediate medical danger, call 911 or go to an emergency department. For a legal matter, preserve the relevant records and physical evidence without putting yourself at risk.
+
+## pricing_lede
+
+Three different questions get collapsed into one when somebody asks what an injury lawyer costs in Modesto. What does California allow a fee to be. Which published percentages belong to other kinds of cases. And what does the Stanislaus County Superior Court collect along the way. Each has a documented answer, and only the first one has no number attached.
+
+## pricing_body
+
+### Question one: what does California allow
+
+Rule 1.5(a) of the California Rules of Professional Conduct states the whole standard in a single line: an attorney is barred from agreeing to, charging or collecting any unconscionable or illegal fee. No schedule follows, and no percentage for ordinary negligence work appears anywhere in the rule.
+
+Rule 1.5(b) explains how unconscionability gets tested. It is judged on all the facts existing at the time the agreement was entered into, except where the parties contemplated later events affecting the fee, and thirteen listed circumstances feed the analysis: fraud or overreaching in setting the fee, failure to disclose material facts, the fee measured against the value of services actually performed, the relative sophistication of lawyer and client, the amount involved and results obtained, time and labor required, whether the fee is fixed or contingent, and informed consent.
+
+Two consequences matter for anyone comparing arrangements along McHenry Avenue. The percentage is negotiable, and the review looks backward at the moment of signature. Rule 1.5(c) adds two flat prohibitions that show what a genuine ban looks like when California means one: no contingent fee in a family law dissolution or support matter, and, in subdivision (c)(2), none for representing a defendant in a criminal case. Injury claims appear on neither list.
+
+### Question two: whose percentages are those
+
+Three California provisions print numbers, and none of them governs a Modesto crash or fall.
+
+Business and Professions Code section 6146 sets a ceiling for actions against a health care provider based on professional negligence: twenty-five percent of the amount recovered where the claim resolves before a complaint or arbitration demand is filed, thirty-three percent afterward, and more only on a good-cause motion. The base is the net sum after disbursements. Medical negligence is its entire scope.
+
+Labor Code section 4906 covers workers' compensation. A comp fee is unenforceable beyond what the appeals board finds reasonable, and no attorney may demand or accept payment from an injured worker until that board has approved or fixed the sum. Within ten days of execution the agreement is submitted for review, and the board looks at what responsibility the attorney took on, the care shown, the hours consumed and what the worker recovered, while a disclosure form sets out the range of fees customarily approved. Section 6147(c) excludes compensation contracts from the contingency contract statute altogether.
+
+Civil Code section 3045.4 is the third and most frequently misread. A hospital holding a lien can reach the payor for the lien amount, or so much as can be satisfied out of 50 percent of the money due under a final judgment, compromise or settlement after prior liens are paid. That figure limits what the hospital takes from the injured person's recovery, not what a lawyer charges.
+
+### Question three: what the Modesto courthouse collects
+
+The Stanislaus County Superior Court posts the statewide civil fee schedule for its Modesto filings, so the amounts are public and identical for every litigant. Where the demand exceeds $10,000 but stays at or under $35,000, the first paper is $370, and the responding party pays $370 as well. At or below $10,000 both are $225. Anything pleading more than $35,000 is unlimited civil.
+
+The schedule also prices the middle of a case. Amending a complaint to raise the amount at issue is $145. Reclassifying a limited case as unlimited, which happens when discovery shows the injuries are worse than the first pleading assumed, is $140. Any motion or other paper requiring a hearing is $60, summary judgment or summary adjudication is $500, and the advance jury fee is $150 with later daily juror deposits set by the court. Court reporting is $30 for a hearing of an hour or less and shifts to a $700 full-day or $350 half-day per diem beyond that. Two items on the schedule do not apply here at all: the courthouse construction surcharges printed on it are collected only in Riverside, San Bernardino and San Francisco filings.
+
+### Where the contract has to be explicit
+
+Section 6147(a) requires the contingency agreement to be written and signed by both sides, with a duplicate given to the plaintiff at signing, stating the rate, the effect of disbursements and costs on the fee and the recovery, any compensation owed for related matters, and, outside section 6146 claims, that the fee is not set by law but is negotiable. Subsection (b) makes noncompliance voidable at the plaintiff's option, leaving a reasonable fee.
+
+The cost-and-fee interaction is the practical heart of that list. Suppose a file carries $6,000 in records, deposition and filing expenses. Taking those off the recovery first and applying the percentage to what remains leaves the client a different number than applying the percentage first and reimbursing afterward. Both are lawful, and the contract has to say which one applies.
+
+### Worth pinning down before signature in Stanislaus County
+
+Confirm the rate at each stage in writing, including any change once a complaint is filed. Confirm the deduction order for expenses. Confirm who advances the jury fee, a reporter per diem or an expert retainer, and what happens to those advances if the case ends without a recovery. Confirm how a hospital or health plan lien gets handled before disbursement. And confirm the negotiability statement is present, since its absence is itself a defect the client can act on.

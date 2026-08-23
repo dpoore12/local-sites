@@ -1,0 +1,168 @@
+{% extends "base.html" %}
+
+{% block hero %}
+<div class="hero">
+  <div class="hero-inner">
+    <span class="hero-eyebrow">{{ ico_pin | safe }}{{ s.city }}, {{ s.state }}</span>
+    <h1>{{ page_h1 }}<span class="hero-accent">{{ page_kicker }}</span></h1>
+    <p>{{ page_lede }}</p>
+    <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="hero-note">{{ hero_note }}</p>
+  </div>
+</div>
+{% endblock %}
+
+{% block main %}
+
+{# The sourced local anchors run first, because they are the only hard numbers
+   on the page. Everything below them is a researched range. #}
+{% if pr.anchors %}
+<div class="band band-tint">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">Local numbers on the record</span>
+      <h2>What is documented for {{ s.city }}</h2>
+    </div>
+    <ul class="anchor-list">
+      {% for a in pr.anchors %}
+      <li class="anchor-item">
+        <span class="anchor-value">{{ a.value }}</span>
+        <h3 class="anchor-label">{{ a.label }}</h3>
+        <p>{{ a.detail }}</p>
+        <p class="anchor-src"><a href="{{ a.source_url }}" rel="nofollow noopener" target="_blank">{{ a.source_name }}</a></p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endif %}
+
+{% if pr.mode == 'cost' %}
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">Published prices</span>
+      <h2>{{ pr.table_head }}</h2>
+    </div>
+    <p class="table-note">{{ range_caveat }}</p>
+    <div class="table-scroll">
+      <table class="price-table">
+        <thead>
+          <tr><th scope="col">The job</th><th scope="col">Range seen</th><th scope="col">Billed as</th><th scope="col">What moves it</th></tr>
+        </thead>
+        <tbody>
+          {% for r in pr.rows %}
+          <tr>
+            <th scope="row">{{ r.job }}</th>
+            <td class="price-cell">${{ "{:,}".format(r.low) }}&ndash;${{ "{:,}".format(r.high) }}{% if r.refs %}<sup class="price-ref">{% for n in r.refs %}<a href="#price-src-{{ n }}">{{ n }}</a>{% if not loop.last %}<span aria-hidden="true">,</span>{% endif %}{% endfor %}</sup>{% endif %}</td>
+            <td data-label="Billed as">{{ r.basis }}</td>
+            <td data-label="What moves it">{{ r.note }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% if price_sources %}
+    <div class="price-sources">
+      <h3>Where these figures come from</h3>
+      <p>Prices each of these companies publishes on its own site, read on the date
+         shown in each listing. A published price can change without notice, so
+         treat a number here as what was posted rather than what you will be told
+         today.</p>
+      <ol>
+        {% for src in price_sources %}
+        <li id="price-src-{{ loop.index }}"><a href="{{ src.url }}" rel="nofollow noopener" target="_blank">{{ src.name }}</a></li>
+        {% endfor %}
+      </ol>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
+
+{% if pr.mode == 'fees' %}
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">What the rules set</span>
+      <h2>{{ pr.table_head }}</h2>
+    </div>
+    <p class="table-note">{{ range_caveat }}</p>
+    <div class="table-scroll">
+      <table class="price-table price-table--fees">
+        <thead>
+          <tr><th scope="col">{{ pr.col_a or 'What it covers' }}</th><th scope="col">{{ pr.col_b or 'What the rule sets' }}</th><th scope="col">What that means</th><th scope="col">Where it says so</th></tr>
+        </thead>
+        <tbody>
+          {% for r in pr.fee_rows %}
+          <tr>
+            <th scope="row">{{ r.stage }}</th>
+            <td class="price-cell">{{ r.share }}</td>
+            <td data-label="What that means">{{ r.note }}</td>
+            <td data-label="Where it says so"><a href="{{ r.source_url }}" rel="nofollow noopener" target="_blank">{{ r.source_name }}</a></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="band band-white">
+  <div class="band-inner">
+    <div class="section">
+      {{ page_body | safe }}
+    </div>
+  </div>
+</div>
+
+{% if page_cards %}
+<div class="band band-tint">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">{{ page_cards_eyebrow }}</span>
+      <h2>{{ page_cards_head }}</h2>
+    </div>
+    <ul class="service-cards">
+      {% for cd in page_cards %}
+      <li class="service-card">
+        <span class="card-icon">{{ cd.icon | safe }}</span>
+        <h3 class="service-card-title">{{ cd.title }}</h3>
+        <p>{{ cd.body }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endif %}
+
+{% if page_links %}
+<div class="band band-navy">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">The four jobs</span>
+      <h2>{{ c.services_pick_head }}</h2>
+    </div>
+    <div class="grid">
+      {% for o in page_links %}
+      <div class="card">
+        <h3><a href="{{ base }}{{ o.slug }}/">{{ o.h1 }}</a></h3>
+        <p>{{ o.accent }}</p>
+        <p class="callout-note"><a href="{{ base }}{{ o.slug }}/">Read the full breakdown</a></p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="bottom-cta">
+  <div class="wrapper">
+    <h2>{{ s.service }} in {{ s.city }}</h2>
+    <p>{{ c.closing_cta }}</p>
+    <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="bottom-cta-note">{{ hero_note }}</p>
+  </div>
+</div>
+{% endblock %}

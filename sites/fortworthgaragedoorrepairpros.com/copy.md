@@ -8,13 +8,13 @@
   The build fails if any 15 consecutive words match another site.
 - Never promise a phone consultation. Sell the work: what gets fixed,
   what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year
+- Never name a business, a license, a review count, a price or a year
   in business. No tenant is signed, so none of it is true yet.
 - Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
 - symptom_N blocks are 40-80 word teasers only. The depth goes on the
   service page they link to.
 - site.json needs 3 local_facts with a real source URL each, and 6
-  neighbourhoods, before this will build.
+  neighborhoods, before this will build.
 
 ---
 
@@ -266,17 +266,17 @@ The technician reads wire gauge, inside diameter and length off the failed sprin
 
 ### What it costs
 
-You get a firm figure before any tool comes out. This is a parts-and-labour repair with a fairly tight range, and the variables are spring count, wire gauge, and whether cables, bearings or drums also need replacing. Nobody can responsibly quote it without knowing door height and spring configuration, but you should absolutely have the total in hand before work starts.
+You get a firm figure before any tool comes out. This is a parts-and-labor repair with a fairly tight range, and the variables are spring count, wire gauge, and whether cables, bearings or drums also need replacing. Nobody can responsibly quote it without knowing door height and spring configuration, but you should absolutely have the total in hand before work starts.
 
 ## svc_garage_door_opener_repair_lede
 
-Two unrelated complaints both arrive labelled as opener trouble: the door that retreats back up partway down, and the motor that runs happily while the door sits still. Neither one usually means buying a new opener.
+Two unrelated complaints both arrive labeled as opener trouble: the door that retreats back up partway down, and the motor that runs happily while the door sits still. Neither one usually means buying a new opener.
 
 ## svc_garage_door_opener_repair_body
 
 ### Down a foot, then back up
 
-That is the safety circuit doing exactly what federal rules require of it, correctly or otherwise. Two photo eyes sit within about six inches of the slab on either side of the opening and must see each other for the door to travel down. Late-day sun coming straight into a west-facing Fort Worth garage can blind one of them. So can a bike tyre, a trash bin, a bag of mulch leaned against the bracket, or the fine grit that coats everything here by August. Brackets also drift over years of the door shaking the jamb. Check the indicator LED on each eye: on most brands both should burn steady, and a dark or flickering light means that eye has lost its partner.
+That is the safety circuit doing exactly what federal rules require of it, correctly or otherwise. Two photo eyes sit within about six inches of the slab on either side of the opening and must see each other for the door to travel down. Late-day sun coming straight into a west-facing Fort Worth garage can blind one of them. So can a bike tire, a trash bin, a bag of mulch leaned against the bracket, or the fine grit that coats everything here by August. Brackets also drift over years of the door shaking the jamb. Check the indicator LED on each eye: on most brands both should burn steady, and a dark or flickering light means that eye has lost its partner.
 
 Once the eyes are clean, square and lit, suspicion moves to the close-force setting in the motor head. As a door stiffens with age the opener needs more push, and when it hits its programmed ceiling it interprets the resistance as an obstruction and retreats. Cranking the force up is the wrong answer. It papers over a mechanical problem in the door and disables the protection that caused the reversal in the first place.
 
@@ -286,7 +286,7 @@ This is the failure pattern that separates a Fort Worth garage from one up north
 
 ### Motor runs, door stays put
 
-Watch the rail while somebody presses the button. If chain or belt is travelling and the door is not, the trolley has parted from the carriage. Usually the emergency release cord was pulled, or snagged by a roof rack, and never re-engaged. Tug the cord toward the door and run the opener until it clicks back in. Two minutes, no tools, no charge.
+Watch the rail while somebody presses the button. If chain or belt is traveling and the door is not, the trolley has parted from the carriage. Usually the emergency release cord was pulled, or snagged by a roof rack, and never re-engaged. Tug the cord toward the door and run the opener until it clicks back in. Two minutes, no tools, no charge.
 
 If the motor hums and the chain sits dead still, the trouble is inside the housing. Chain-drive heads around fifteen years old typically give up their nylon drive gear, the teeth rounding off until they stop catching the worm shaft. Grinding with no travel is the signature. That is a repair, and worth insisting on before anyone quotes a replacement unit. A motor that buzzes briefly then quits without grinding points instead at the starting capacitor.
 
@@ -346,7 +346,7 @@ Read that against what most people call in about. Replacing a broken spring, a s
 
 ### One section or the whole door
 
-A single caved-in section can often be swapped on its own, and that is the cheaper road when it is available. Two things decide it. Whether the manufacturer still produces your panel, and how far the finish has drifted. A ten-year-old almond door that has faced full southern exposure through Texas summers has chalked and faded, and a factory-fresh section in the same nominal colour will read as a patch. Sometimes that is fine, because the replaced section sits at the bottom where nobody studies it. Sometimes it looks worse than the hail damage did. You should get a candid read on that before committing, not after.
+A single caved-in section can often be swapped on its own, and that is the cheaper road when it is available. Two things decide it. Whether the manufacturer still produces your panel, and how far the finish has drifted. A ten-year-old almond door that has faced full southern exposure through Texas summers has chalked and faded, and a factory-fresh section in the same nominal color will read as a patch. Sometimes that is fine, because the replaced section sits at the bottom where nobody studies it. Sometimes it looks worse than the hail damage did. You should get a candid read on that before committing, not after.
 
 Discontinued panels are the more common blocker. Doors past roughly fifteen years often have no matching section still in production, and at that point a full replacement is the only honest option.
 
@@ -356,17 +356,17 @@ Discontinued panels are the more common blocker. Doors past roughly fifteen year
 
 **Struts.** The horizontal braces across the back of each section keep a wide door from flexing under wind load and hold it flat over time. They are also the first item a bargain door quietly leaves out. On a double-wide opening they are not optional.
 
-**Insulation.** Insulation is worth more here than most buyers realise, and not primarily for heating. An insulated door slows the afternoon heat soak into an attached garage, which is where opener boards, paint, tools and anything else you store are cooking every summer. R-values on residential doors run from around 6 on a basic insulated steel door to 18 or so on premium sandwich construction. On an attached garage sharing a wall with living space, it earns the premium. On a detached alley garage, usually not.
+**Insulation.** Insulation is worth more here than most buyers realize, and not primarily for heating. An insulated door slows the afternoon heat soak into an attached garage, which is where opener boards, paint, tools and anything else you store are cooking every summer. R-values on residential doors run from around 6 on a basic insulated steel door to 18 or so on premium sandwich construction. On an attached garage sharing a wall with living space, it earns the premium. On a detached alley garage, usually not.
 
 ### Measuring and the timeline
 
-Measurement comes first: opening width and height, headroom above the header, sideroom either side, and backroom depth. Older Fort Worth garages, particularly the detached alley structures behind the pre-war neighbourhoods, routinely have too little headroom for standard torsion mounting, which calls for low-clearance track and a repositioned shaft. That has to be discovered while measuring, not on installation morning. Slab and jamb condition get a look too, since this region's expansive clay moves foundations and a racked opening will fight a square door forever.
+Measurement comes first: opening width and height, headroom above the header, sideroom either side, and backroom depth. Older Fort Worth garages, particularly the detached alley structures behind the pre-war neighborhoods, routinely have too little headroom for standard torsion mounting, which calls for low-clearance track and a repositioned shaft. That has to be discovered while measuring, not on installation morning. Slab and jamb condition get a look too, since this region's expansive clay moves foundations and a racked opening will fight a square door forever.
 
 A stock-size like-for-like door on a standard opening can usually be sourced and hung inside a week once the paperwork is handled. Custom sizes, custom styles and glazing stretch that to several weeks, because the door is built to order.
 
 ### What it costs
 
-Before a door is ordered you get an itemised figure: the door itself, the hardware, the labour, the permit, and disposal of the old sections. Push on one detail in particular, which is whether fresh track and correctly sized springs are inside that total. The existing spring was wound to counterbalance the door you are throwing away, and a heavier insulated replacement needs its own spring specification to hang level.
+Before a door is ordered you get an itemized figure: the door itself, the hardware, the labor, the permit, and disposal of the old sections. Push on one detail in particular, which is whether fresh track and correctly sized springs are inside that total. The existing spring was wound to counterbalance the door you are throwing away, and a heavier insulated replacement needs its own spring specification to hang level.
 
 ## urgency_bullet
 
@@ -415,3 +415,34 @@ Start with the failure you are actually seeing
 
 Different problem than this one?
 
+## pricing_lede
+
+Below are the researched market ranges for garage door work in Fort Worth, the fees the city itself publishes, and the specific things about Tarrant County garages that decide where inside a range a job lands.
+
+## pricing_body
+
+### Where the spread comes from
+
+Three separate variables set every figure above, and they move on their own. The first is which part actually failed: a spring, a cable, a roller set, an opener logic board and a crushed section are five different parts costs sitting under the same complaint of "the door will not open." The second is the door itself. A single, uninsulated steel door on a 1950s Wedgwood house weighs a fraction of a double insulated door hung on a Woodland Springs garage, and heavier doors need heavier springs, stronger cable and more of both.
+
+The third variable is the building around the door. Fort Worth spans a century of construction. About a third of the city's roughly 397,600 housing units predate 1980, and the 1920s blocks in Arlington Heights, Fairmount and Ryan Place often hold detached alley garages with almost no headroom above the opening. That geometry decides whether a technician can hang a standard torsion assembly or has to fit a low-clearance conversion, and it is the difference between the bottom and the top of the replacement range. Newer stock on the far west side has purpose-built openings, clear ceiling blocking and a modern opener already in place, so the same repair takes less time.
+
+### What the city adds, and when
+
+Hardware service is not a permit conversation. Swapping a spring, a cable, a roller or an opener head is work on an existing door. Replacing the door is different: the city's residential permitting guidance treats an exterior door as permitted work, and the adopted fee schedule sets the minimum single-trade residential remodel permit at $112.50. That amount is small next to the sequence it triggers, which is scheduling, an inspection slot and the possibility of a return visit at $63.00 apiece under the reinspection line in the same ordinance. Anybody quoting a replacement should be able to say who files, what the filing costs and roughly when the inspection lands.
+
+Labor is the other half of the arithmetic. Median hourly pay for carpenters across this metro was $23.44 in the May 2025 BLS wage figures. Once a truck, a spring inventory in several wire sizes, insurance and cross-metro drive time are loaded on top, the billed hour is several times the wage, which is exactly why access and travel show up in a price. A Tanglewood driveway with room to stage a door is a shorter job than an alley garage reached through a gate.
+
+### Reading a quote line by line
+
+A quote worth signing names the part, the measurement and the labor separately. On springs, that means the wire diameter, the inside diameter and the length of each spring, plus the cycle rating, because a 10,000-cycle spring and a 25,000-cycle spring are different products at different prices. On an opener it means the drive type, the horsepower class, and whether the rail, safety eyes and wall control are new or reused. On a full door it means the model, gauge, insulation value, window layout, the color, the permit line, and who hauls the old sections away.
+
+Two lines deserve extra attention. First, whether the trip or diagnostic charge is credited against the repair if the work proceeds. Second, whether the price covers one spring or the pair. Replacing a single broken spring on a two-spring shaft leaves a part of unknown remaining life carrying half the door, and the second failure usually arrives within a season.
+
+### The oversell in this trade
+
+The move that costs Fort Worth homeowners the most is a spring failure answered with a proposal for a whole new door. A snapped spring is loud, dramatic and completely normal at somewhere between 10,000 and 20,000 cycles, which most families reach in seven to twelve years of daily use. It is a hardware repair on a sound door. The other version is a storm visit that turns into a replacement pitch on the strength of a dented skin. After the April 2026 hail episode the National Weather Service documented across the middle of the Metroplex, plenty of doors picked up cosmetic bruising that changes nothing mechanically, while the damage that actually stops the door is a track pushed out of plumb or a bowed strut. One of those is an insurance conversation on the homeowner's timeline. The other is a repair that should happen before the rollers are destroyed.
+
+### What the online average leaves out
+
+A national cost page quotes the door and basic installation. It does not carry the Fort Worth permit line or a possible reinspection, rebuilt wood jambs on a garage where the framing has been wet since the last hailstorm, a low-clearance kit for an alley garage, a new opener bracket where the old header will not take one, or a jackshaft opener when the ceiling is too shallow for a standard rail. It also leaves out lead time. Insulated doors in a specific color and window pattern are ordered, not stocked, and in the weeks after a metro-wide hail event that queue is long enough to matter more than the price.

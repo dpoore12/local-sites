@@ -6,7 +6,7 @@
 
 - Make every paragraph recognizably McKinney. Text that could describe another city does not belong here.
 - Do not make a phone consultation part of the offer. Explain the repair, the arrival, and when the total is set.
-- No named operator, licence claim, rating, price, or company age appears until a real operator is in place.
+- No named operator, license claim, rating, price, or company age appears until a real operator is in place.
 - The home page needs 1,300–2,300 visible words; every service page needs 900–1,500.
 - Each symptom card is a 40–80 word handoff. The service pages carry the diagnosis and repair detail.
 - The source data in site.json must retain three real local facts and six named McKinney neighborhoods.
@@ -95,7 +95,7 @@ Get a technician onto the driveway, a firm figure before the tools come out, and
 
 ## services_summary
 
-Garage-door trouble is often labelled “the opener” even when the motor is not the part at fault. Spring work restores the force that counterbalances the door. Opener work deals with the machine that moves a correctly balanced door, including the safety eyes and travel controls. An off-track visit concerns cables, rollers, hinges, panels, and rail geometry. Replacement is the different job of choosing and installing a new exterior door.
+Garage-door trouble is often labeled “the opener” even when the motor is not the part at fault. Spring work restores the force that counterbalances the door. Opener work deals with the machine that moves a correctly balanced door, including the safety eyes and travel controls. An off-track visit concerns cables, rollers, hinges, panels, and rail geometry. Replacement is the different job of choosing and installing a new exterior door.
 
 That distinction matters especially in McKinney. A Stonebridge Ranch or Craig Ranch garage may have a builder-era torsion system and an opener installed at the same time; a downtown or East McKinney outbuilding may have tight clearance that changes the counterbalance layout; a hail-damaged door can be dented yet mechanically sound, or look modestly marked while a bent rail is chewing up rollers. The inspection separates those conditions before anyone treats a symptom as a diagnosis.
 
@@ -417,3 +417,33 @@ Take broad and close photographs before removal, including the inside of affecte
 A basic single-layer steel door is a different product from insulated steel with a thermal break, upgraded reinforcement, or a finish designed to disguise minor marks. The useful choice depends on whether the garage is attached, faces intense afternoon sun, contains stored items sensitive to heat, or sits detached behind an older home. DFW normal highs in July and August are near 96°F, so insulation can reduce heat transfer through the door; it is not a promise that an unconditioned garage will match indoor temperature.
 
 Reinforcement and wind considerations belong in the measurement conversation. Window placement, section design, exterior style, and material choice may also matter in historic or homeowner-association settings. The total should identify the door, hardware, track where needed, springs sized for the new weight, removal, and the permit-related scope before the order is placed.
+
+## pricing_lede
+
+This page lays out what garage door work actually runs in McKinney, what the city charges to permit and inspect a door replacement, and which features of a Collin County house drive a repair toward the top of its range.
+
+## pricing_body
+
+### Where the spread in each row comes from
+
+Three things set the number, and the brand stamped on the door is not one of them. The first is which part gave out. A snapped torsion spring is hardware plus careful, practiced labor. A door that has walked off its rails has usually chewed a cable, flattened two rollers and bent a hinge on the way down, so what looks like one failure is a short list of parts. The second is the door itself: width, weight, and whether it is insulated. A sixteen-foot insulated door weighs enough that it needs different spring wire than the single-layer door a builder hung on the same street, and the correct spring costs more than the convenient one. The third is when somebody is standing in the driveway. A Wednesday morning slot and a Saturday afternoon during a storm week are not the same labor, because the second one pulls a technician off a booked route.
+
+### What a boom-decade city does to a repair bill
+
+The city's own housing profile reports that 85 percent of homes here went up after 1990 and 40 percent of them between 2000 and 2009. That concentration shows up in pricing in a way most markets do not share. Entire streets received the same builder package, generally one torsion spring rated near ten thousand cycles carrying a double-wide door, and identical packages wear out on roughly the same schedule. So when a spring lets go on a house of that vintage, the bearings, the cables and the opener gearbox are exactly as old, and the repair that actually holds covers two or three items rather than one. That is the difference between the bottom and the top of the spring row. The small pre-war pocket near the downtown square inverts the problem: parts are inexpensive, headroom is shallow, hardware is often side-mounted, and the time on site is what costs.
+
+### The permit money is small, the sequence behind it is not
+
+McKinney lists doors and windows among the repairs that require a permit, and prices a residential alteration at sixty-eight cents per gross square foot of affected area. On a standard double door that is about the price of a roller set, which is to say irrelevant next to the door. The calendar is the real cost. A replacement carries a filing, an inspection window somebody has to be home for, and a fifty-dollar charge if the inspector arrives to work that is not ready. A job sold as a two-hour installation with none of that in the schedule quietly becomes two appointments. Repairs sit outside all of it: a spring, a cable, a roller set or an opener head is service on the existing door, not a door replacement.
+
+### The trap in this market is hail
+
+Collin County storms bruise door skins, and a dent count is the easiest thing in this trade to sell against. Skin damage is cosmetic and can wait on an adjuster. What actually stops a door is a vertical rail knocked out of plumb or a strut bowed across the back of a section, and both keep destroying rollers on every cycle until somebody corrects them. So the pattern to refuse is a full replacement proposal written from photographs of dents while nobody has put a level on the track. The smaller version is the cheap tune-up call that arrives as an advertised inspection and leaves as a spring, opener and roller package agreed in a driveway in ninety-eight-degree heat.
+
+### What a real quote spells out
+
+A quote worth signing names the spring by wire size, inside diameter and cycle rating rather than calling it heavy duty. It gives the cable diameter, the roller count and whether those rollers carry sealed bearings. On an opener it names model, drive type and horsepower, says whether the old head and rail leave with the truck, and states whether a strut has to be added before an opener pulls on a single-layer door. On a replacement it lists the permit, the inspection, disposal of the old sections, and any architectural review a community such as Stonebridge Ranch expects before a different panel style shows up on a street. Labor and trip charges belong on their own lines, not folded into a part.
+
+### What the number found online leaves out
+
+National averages assume a technician who is already nearby. This city sprawls from Trinity Falls to the south side, and drive time is real money on a one-truck operation. They also skip disposal, the reinforcement strut, the second fault that the first fault caused, and the wage floor underneath all of it: federal wage data puts the median carpenter in this metro at $23.44 an hour across 9,480 workers, and a stocked truck with insurance bills a multiple of that. Finally, they never include the wait. An inspection slot is a calendar item rather than a line item, and after a hailstorm every roofing and door crew in the county is booked against the same week.

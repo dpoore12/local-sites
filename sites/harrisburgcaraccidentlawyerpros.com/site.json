@@ -80,6 +80,80 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What Pennsylvania law fixes for a Dauphin County crash claim, and what it leaves open",
+  "col_a": "What it covers",
+  "col_b": "What Pennsylvania sets",
+  "anchors": [
+   {
+    "label": "Ceiling on an auto injury fee percentage",
+    "value": "Not fixed",
+    "detail": "Pennsylvania's conduct rule prohibits an illegal or clearly excessive fee and gives eight measuring factors. No percentage appears anywhere in it.",
+    "source_name": "Pa. R.P.C. 1.5(a)",
+    "source_url": "https://www.padisciplinaryboard.org/for-attorneys/rules/rule/3/the-rules-of-professional-conduct"
+   },
+   {
+    "label": "Workers' compensation counsel fee limit",
+    "value": "20%",
+    "detail": "The one hard number in Pennsylvania fee law: a judge may approve counsel fees only up to a fifth of the award or of a compromise and release settlement.",
+    "source_name": "Pa. Workers' Compensation Act, Sec. 442",
+    "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/workers-compensation/publications/documents/wc-act/wcact.pdf"
+   },
+   {
+    "label": "District court cost, claim of $4,001 to $12,000",
+    "value": "$171",
+    "detail": "The 2026 statutory cost for a civil case before a magisterial district judge, the court that hears smaller Dauphin County claims. Postage is extra.",
+    "source_name": "204 Pa. Code 29.402 (42 Pa.C.S. 1725.1), 2026 schedule",
+    "source_url": "https://www.pacourts.us/assets/opinions/Supreme/out/644%20JADattachment.pdf"
+   },
+   {
+    "label": "Medical benefit every auto policy must carry",
+    "value": "$5,000",
+    "detail": "The statutory floor for first-party medical coverage in Pennsylvania, which is what pays early treatment before any liability claim resolves.",
+    "source_name": "75 Pa.C.S. 1711(a)",
+    "source_url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/75/00.017.011.000..HTM"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "Percentage taken from a crash recovery",
+    "share": "No statutory ceiling",
+    "note": "Judged against eight factors: fixed or contingent, difficulty, preclusion of other work, local custom, amount and result, deadlines, relationship, ability.",
+    "source_name": "Pa. R.P.C. 1.5(a)",
+    "source_url": "https://www.padisciplinaryboard.org/for-attorneys/rules/rule/3/the-rules-of-professional-conduct"
+   },
+   {
+    "stage": "Paperwork the rule demands",
+    "share": "Writing, plus a closing statement",
+    "note": "The agreement states percentages and expense treatment; at the end the lawyer owes a written statement showing the outcome and the remittance.",
+    "source_name": "Pa. R.P.C. 1.5(b), (c)",
+    "source_url": "https://www.padisciplinaryboard.org/for-attorneys/rules/rule/3/the-rules-of-professional-conduct"
+   },
+   {
+    "stage": "Work injury claim instead of a liability claim",
+    "share": "20% maximum",
+    "note": "Counsel fees need judge approval and cannot exceed a fifth of the award, or a fifth of a compromise and release settlement amount.",
+    "source_name": "Pa. Workers' Comp Act, Sec. 442",
+    "source_url": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/individuals/workers-compensation/publications/documents/wc-act/wcact.pdf"
+   },
+   {
+    "stage": "Cost of starting a small civil case",
+    "share": "$68.50 \u00b7 $91 \u00b7 $114 \u00b7 $171",
+    "note": "Four 2026 tiers before a magisterial district judge, set by claim size from $500 or less up to the $12,000 limit.",
+    "source_name": "204 Pa. Code 29.402, 2026 costs",
+    "source_url": "https://www.pacourts.us/assets/opinions/Supreme/out/644%20JADattachment.pdf"
+   },
+   {
+    "stage": "Enforcing a judgment once entered",
+    "share": "$51.50",
+    "note": "The 2026 statutory cost of an order of execution in that court, with $23 more for an objection to levy.",
+    "source_name": "204 Pa. Code 29.402, 2026 costs",
+    "source_url": "https://www.pacourts.us/assets/opinions/Supreme/out/644%20JADattachment.pdf"
+   }
+  ]
+ },
  "hero_accent": "Deadlines, Evidence, What Comes Next",
  "trust_third": "Filing deadlines and evidence steps, spelled out",
  "services": [

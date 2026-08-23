@@ -216,3 +216,43 @@ Start with the situation that most closely matches your termination
 
 ## crosslink_head
 A different workplace issue than the one you are facing?
+
+## pricing_lede
+
+A contingent fee is permitted and completely ordinary in a California employment case, and no California law caps the percentage. What the law does set is the contract requirements, the court's filing amounts, and which side can be made to pay the other's attorney fees.
+
+## pricing_body
+
+### Yes, these cases are taken on contingency, and no, there is no percentage cap
+
+Wrongful termination, retaliation, discrimination and unpaid wage claims are routinely handled on a contingent fee in California. Nothing in the Labor Code, the Government Code or the Business and Professions Code sets a rate for one. The single substantive limit is rule 1.5(a) of the California Rules of Professional Conduct, which prohibits making an agreement for, charging, or collecting an unconscionable or illegal fee, tested under rule 1.5(b) on the facts as they stood at signing. The rate is a negotiated term, and the statute below makes the contract admit that in writing.
+
+The percentages people find online, 25 percent and 33 percent, come from Business and Professions Code section 6146, which limits fees in an action against a health care provider based on professional negligence. Medical negligence only. It has no application to a termination claim, and quoting it as an employment ceiling is simply wrong.
+
+### What section 6147 requires the agreement to say
+
+Section 6147 governs every contingency contract. It must be written and signed by both attorney and client, and the client receives a duplicate signed copy at the time it is entered into, not later. It must state the contingency rate the parties agreed on. It must state how disbursements and costs will affect both the fee and the client's recovery. It must state to what extent the client could owe compensation for related matters the contract does not cover, which in employment work is the clause that matters when one dispute produces a wage claim, an agency charge and a lawsuit. And because a termination claim is not a section 6146 case, the contract has to say the rate is negotiable between attorney and client rather than something the law sets. A contract missing a required term is voidable at the client's election, which leaves the lawyer with a reasonable fee instead of the agreed one.
+
+Section 6148 covers the other half of an employment engagement. Where a matter falls outside section 6147 and the foreseeable total expense to the client, fees included, will exceed $1,000, the contract for services must be in writing. Hourly advice on a severance agreement sits here, and few such engagements come in under the threshold.
+
+### Fee shifting: who can be made to pay whose fees
+
+This is the part that changes the economics of an employment case, and it is not a cap on anything.
+
+Under Government Code section 12965(c)(6), in a civil action brought under the Fair Employment and Housing Act the court may in its discretion award the prevailing party, including the department, reasonable attorney fees and costs including expert witness fees. The subdivision then adds an asymmetry: notwithstanding Code of Civil Procedure section 998, a prevailing defendant shall not be awarded fees and costs unless the court finds the action was frivolous, unreasonable, or groundless when brought, or that the plaintiff continued to litigate after it clearly became so. A winning employee can shift fees to the employer; a winning employer generally cannot, absent that finding.
+
+Labor Code section 218.5(a) covers an action for nonpayment of wages, fringe benefits, or health, welfare or pension fund contributions. The court shall award fees and costs to the prevailing party if any party requested them when the action was initiated, except that where the prevailing party is not an employee, fees and costs are awarded only if the court finds the employee brought the action in bad faith. Labor Code section 1194(a) runs one way only: an employee paid less than the legal minimum wage or overtime compensation may recover the unpaid balance with interest, reasonable attorney fees and costs of suit, and the employer gets no reciprocal right.
+
+Two things follow. A fee-shifting statute is not a percentage limit, and no one should describe it as one. And because a court-awarded fee and a contingency can both arrive in the same case, the written agreement should say how they interact.
+
+### What the San Diego courthouse charges
+
+The Superior Court of California, County of San Diego publishes its civil fee schedule, and an employment case follows it like any other. A complaint in an unlimited civil case, over $35,000, is $435, and the employer pays $435 on its first appearance. A motion requiring a hearing is $60; summary judgment or adjudication, the motion that ends a large share of termination cases before trial, is $500. Preserving a jury takes $150 in advance, nonrefundable. A civil proceeding under an hour is reported for $30.
+
+### What is separate from the fee
+
+Costs. Deposition transcripts for a supervisor, a human resources manager and a coworker witness; personnel and payroll records; an economist on lost earnings where the termination ended a long tenure. In a San Diego market weighted toward defense contractors, hospital systems, biotech employers and bayfront hospitality, those files are document heavy. Ask which costs are advanced, what happens to them if the case recovers nothing, and whether the percentage applies before or after they come off.
+
+### The short version
+
+Contingency: permitted, ordinary, no California ceiling. The contract: written, duplicate copy at signing, rate stated, cost treatment stated, negotiability stated. Fee shifting: available to a winning employee under FEHA and the wage statutes, available to a winning employer only on a bad-faith or frivolousness finding.

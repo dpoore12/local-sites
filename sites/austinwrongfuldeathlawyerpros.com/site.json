@@ -1,141 +1,222 @@
 {
- "domain": "austinwrongfuldeathlawyerpros.com",
- "phase": 1,
- "brand": "Austin Wrongful Death Law Pros",
- "service": "Wrongful Death Lawyer",
- "service_inline": "wrongful death lawyer",
- "city": "Austin",
- "state": "TX",
- "state_full": "Texas",
- "counties": [
-  "Hays",
-  "Travis",
-  "Williamson"
- ],
- "area_codes": [
-  "512",
-  "737"
- ],
- "phone_display": "(512) 729-9561",
- "phone_tel": "+15127299561",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "texas_survival_action",
-   "title": "A survival action can be separate from wrongful death",
-   "claim": "Texas Civil Practice and Remedies Code section 71.021 says a personal-injury cause of action does not abate because the injured person died and survives to the heirs, legal representatives, and estate.",
-   "why_it_matters": "A death-related review may need to distinguish the family's losses from an injury claim that belonged to the person who died. The records and estate questions can differ.",
-   "sources": [
-    "https://statutes.capitol.texas.gov/StatutesByDate.aspx?code=CP&level=SE&value=71.021&date=3/12/2015"
-   ],
-   "verified": "2026-08-22"
+  "domain": "austinwrongfuldeathlawyerpros.com",
+  "phase": 1,
+  "brand": "Austin Wrongful Death Law Pros",
+  "service": "Wrongful Death Lawyer",
+  "service_inline": "wrongful death lawyer",
+  "city": "Austin",
+  "state": "TX",
+  "state_full": "Texas",
+  "counties": [
+    "Hays",
+    "Travis",
+    "Williamson"
+  ],
+  "area_codes": [
+    "512",
+    "737"
+  ],
+  "phone_display": "(512) 729-9561",
+  "phone_tel": "+15127299561",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "travis_civil_district_courts",
-   "title": "Austin has a local civil-court process",
-   "claim": "Travis County lists its Civil and Family Courts at 1700 Guadalupe Street in Austin. Its District Civil Courts have original jurisdiction over civil matters involving damages of $200 or more, and the District Clerk says attorneys must e-file civil documents.",
-   "why_it_matters": "Death-related civil matters require attention to local filing, service, record, and scheduling procedures rather than informal paperwork alone.",
-   "sources": [
-    "https://www.traviscountytx.gov/courts/civil/district",
-    "https://www.traviscountytx.gov/district-clerk/civil-division"
-   ],
-   "verified": "2026-08-22"
+  "local_facts": [
+    {
+      "id": "texas_survival_action",
+      "title": "A survival action can be separate from wrongful death",
+      "claim": "Texas Civil Practice and Remedies Code section 71.021 says a personal-injury cause of action does not abate because the injured person died and survives to the heirs, legal representatives, and estate.",
+      "why_it_matters": "A death-related review may need to distinguish the family's losses from an injury claim that belonged to the person who died. The records and estate questions can differ.",
+      "sources": [
+        "https://statutes.capitol.texas.gov/StatutesByDate.aspx?code=CP&level=SE&value=71.021&date=3/12/2015"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "travis_civil_district_courts",
+      "title": "Austin has a local civil-court process",
+      "claim": "Travis County lists its Civil and Family Courts at 1700 Guadalupe Street in Austin. Its District Civil Courts have original jurisdiction over civil matters involving damages of $200 or more, and the District Clerk says attorneys must e-file civil documents.",
+      "why_it_matters": "Death-related civil matters require attention to local filing, service, record, and scheduling procedures rather than informal paperwork alone.",
+      "sources": [
+        "https://www.traviscountytx.gov/courts/civil/district",
+        "https://www.traviscountytx.gov/district-clerk/civil-division"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "travis_traffic_fatalities_2024",
+      "title": "Fatal crashes are a documented Travis County issue",
+      "claim": "TxDOT's 2024 Crashes and Injuries by County table reports 139 fatal crashes and 155 traffic fatalities in Travis County.",
+      "why_it_matters": "A fatal-crash review may need to preserve crash reports, vehicle information, witness material, video, and insurance communications before the record becomes harder to reconstruct.",
+      "sources": [
+        "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/13.pdf"
+      ],
+      "verified": "2026-08-22"
+    }
+  ],
+  "neighborhoods": [
+    "Hyde Park",
+    "Mueller",
+    "East Cesar Chavez",
+    "Clarksville",
+    "Zilker",
+    "Bouldin Creek"
+  ],
+  "symptoms": [
+    "fatal_car_crash",
+    "fatal_workplace_accident",
+    "death_after_medical_care",
+    "family_needs_claim_guidance"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "travis_traffic_fatalities_2024",
-   "title": "Fatal crashes are a documented Travis County issue",
-   "claim": "TxDOT's 2024 Crashes and Injuries by County table reports 139 fatal crashes and 155 traffic fatalities in Travis County.",
-   "why_it_matters": "A fatal-crash review may need to preserve crash reports, vehicle information, witness material, video, and insurance communications before the record becomes harder to reconstruct.",
-   "sources": [
-    "https://www.txdot.gov/content/dam/docs/division/trf/crash-records/2024/13.pdf"
-   ],
-   "verified": "2026-08-22"
+  "hero_accent": "Who Can File, And By When",
+  "trust_third": "Who may bring a claim, spelled out",
+  "services": [
+    {
+      "slug": "fatal-car-accident-claim",
+      "name": "Fatal Car Accident Claims",
+      "nav": "Fatal car accidents",
+      "h1": "Fatal Car Accident Claim Lawyer",
+      "accent": "Evidence, Liability and Loss Claims",
+      "keyword": "fatal car accident lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "fatal-work-accident-claim",
+      "name": "Fatal Work Accident Claims",
+      "nav": "Fatal work accidents",
+      "h1": "Fatal Work Accident Claim Lawyer",
+      "accent": "Workplace Records and Liability Questions",
+      "keyword": "fatal work accident lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "medical-negligence-death-claim",
+      "name": "Medical Negligence Death Claims",
+      "nav": "Medical negligence",
+      "h1": "Medical Negligence Death Claim Lawyer",
+      "accent": "Records, Care and Causation Review",
+      "keyword": "medical negligence death lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "wrongful-death-damages-claim",
+      "name": "Wrongful Death Damages",
+      "nav": "Damages claims",
+      "h1": "Wrongful Death Damages Lawyer",
+      "accent": "Losses, Dependents and Claim Terms",
+      "keyword": "wrongful death damages lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "fatal-car-accident-claim",
+    "fatal-work-accident-claim",
+    "medical-negligence-death-claim",
+    "wrongful-death-damages-claim"
+  ],
+  "_market": {
+    "keyword": "wrongful death lawyer austin",
+    "monthly_price": 500,
+    "score": 93,
+    "volume": 250,
+    "cpc_usd": 55.0,
+    "weakest_competitor": "austininjurylawyers.pro",
+    "competitor_dr": 7.0
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Texas Rule 1.04 and chapter 71 govern in a Travis County death case, and what no Texas rule limits",
+    "col_a": "What it covers",
+    "col_b": "What Texas sets",
+    "anchors": [
+      {
+        "label": "Total base fee to file a civil suit, Travis County District Clerk",
+        "value": "$350",
+        "detail": "Built from a $213 local consolidated fee and a $137 state consolidated fee, due when the petition is filed.",
+        "source_name": "Travis County District Clerk filing fees, effective January 1, 2026",
+        "source_url": "https://www.traviscountytx.gov/images/district_clerk/Docs/Travis-County-District-Clerk-Filing-Fees-2026.pdf"
+      },
+      {
+        "label": "Reasonableness factors listed in the Texas fee rule",
+        "value": "8",
+        "detail": "Rule 1.04(b) lists eight, among them the fee customarily charged in the locality for similar legal services.",
+        "source_name": "Tex. Disciplinary R. Prof. Conduct 1.04(b)",
+        "source_url": "https://www.legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "label": "Application for administration or determination of heirship, Travis County Clerk",
+        "value": "$360",
+        "detail": "The probate filing fee for opening an estate, with a $525 ad litem deposit required in the circumstances the Clerk lists.",
+        "source_name": "Travis County Clerk probate fee information",
+        "source_url": "https://countyclerk.traviscountytx.gov/departments/probate/probate-fee-information/"
+      },
+      {
+        "label": "District Clerk registry fee on funds held for a beneficiary",
+        "value": "5 percent, up to $50",
+        "detail": "Charged under Local Government Code 117.055 on money deposited into the court registry that is not earning interest.",
+        "source_name": "Travis County District Clerk filing fees, court registry section",
+        "source_url": "https://www.traviscountytx.gov/images/district_clerk/Docs/Travis-County-District-Clerk-Filing-Fees-2026.pdf"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "The percentage taken from a death recovery",
+        "share": "No ceiling in Texas",
+        "note": "Rule 1.04(a) forbids an illegal or unconscionable fee, measured by whether a competent lawyer could believe it reasonable. No percentage is named.",
+        "source_name": "Tex. Disciplinary R. Prof. Conduct 1.04(a)",
+        "source_url": "https://www.legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "stage": "What the contingent fee agreement must break out",
+        "share": "Three percentages",
+        "note": "Rule 1.04(d) requires a signed writing giving the percentage on settlement, on trial and on appeal, plus the expenses deducted.",
+        "source_name": "Tex. Disciplinary R. Prof. Conduct 1.04(d)",
+        "source_url": "https://www.legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "stage": "Whether costs come off before or after the fee",
+        "share": "Stated in writing",
+        "note": "Rule 1.04(d) makes the contract say whether expenses are subtracted before or after the contingent percentage is calculated.",
+        "source_name": "Tex. Disciplinary R. Prof. Conduct 1.04(d)",
+        "source_url": "https://www.legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "stage": "Who is entitled to file the claim",
+        "share": "Spouse, children, parents",
+        "note": "Section 71.004(a) gives the action to those three classes exclusively, and (c) hands it to the executor after three calendar months.",
+        "source_name": "Tex. Civ. Prac. & Rem. Code 71.004",
+        "source_url": "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-a/section-71-004/"
+      },
+      {
+        "stage": "How one recovery splits among the family",
+        "share": "Shares found by the jury",
+        "note": "Section 71.010(b) has the damages divided among the surviving persons in the shares the jury finds, which fixes each fee base.",
+        "source_name": "Tex. Civ. Prac. & Rem. Code 71.010(b)",
+        "source_url": "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-4/chapter-71/subchapter-a/section-71-010/"
+      },
+      {
+        "stage": "Fee for setting up a minor's chapter 142 trust",
+        "share": "Capped at $1,000",
+        "note": "Property Code 142.005(l) allows the petitioning party reimbursement of reasonable attorney fees not exceeding one thousand dollars.",
+        "source_name": "Tex. Prop. Code 142.005(l)",
+        "source_url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.142.htm"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Hyde Park",
-  "Mueller",
-  "East Cesar Chavez",
-  "Clarksville",
-  "Zilker",
-  "Bouldin Creek"
- ],
- "symptoms": [
-  "fatal_car_crash",
-  "fatal_workplace_accident",
-  "death_after_medical_care",
-  "family_needs_claim_guidance"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Who Can File, And By When",
- "trust_third": "Who may bring a claim, spelled out",
- "services": [
-  {
-   "slug": "fatal-car-accident-claim",
-   "name": "Fatal Car Accident Claims",
-   "nav": "Fatal car accidents",
-   "h1": "Fatal Car Accident Claim Lawyer",
-   "accent": "Evidence, Liability and Loss Claims",
-   "keyword": "fatal car accident lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "fatal-work-accident-claim",
-   "name": "Fatal Work Accident Claims",
-   "nav": "Fatal work accidents",
-   "h1": "Fatal Work Accident Claim Lawyer",
-   "accent": "Workplace Records and Liability Questions",
-   "keyword": "fatal work accident lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "medical-negligence-death-claim",
-   "name": "Medical Negligence Death Claims",
-   "nav": "Medical negligence",
-   "h1": "Medical Negligence Death Claim Lawyer",
-   "accent": "Records, Care and Causation Review",
-   "keyword": "medical negligence death lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "wrongful-death-damages-claim",
-   "name": "Wrongful Death Damages",
-   "nav": "Damages claims",
-   "h1": "Wrongful Death Damages Lawyer",
-   "accent": "Losses, Dependents and Claim Terms",
-   "keyword": "wrongful death damages lawyer",
-   "icon": "check"
-  }
- ],
- "symptom_service": [
-  "fatal-car-accident-claim",
-  "fatal-work-accident-claim",
-  "medical-negligence-death-claim",
-  "wrongful-death-damages-claim"
- ],
- "_market": {
-  "keyword": "wrongful death lawyer austin",
-  "monthly_price": 500,
-  "score": 93,
-  "volume": 250,
-  "cpc_usd": 55.0,
-  "weakest_competitor": "austininjurylawyers.pro",
-  "competitor_dr": 7.0
- }
 }

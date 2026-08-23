@@ -206,3 +206,33 @@ A few observations make the repair visit safer and more efficient
 
 ## emergency_note
 A door with a snapped spring, loose cable or roller out of track can move unexpectedly. Switch off the opener, keep clear of the opening, and arrange repair rather than attempting to force it.
+
+## pricing_lede
+
+Here is what garage door work costs around Overland Park right now, with the city's own permit and plan review fees and the metro wage data behind those figures named, so a homeowner can judge an estimate before agreeing to anything.
+
+## pricing_body
+
+### Two housing eras, two different bills
+
+The median Overland Park home was finished in 1989, which sounds tidy until you realize how the city grew. Streets north of about 95th were built when extension springs, wooden sections and shallow headroom were normal. Everything south and west of them went up with wide sectional doors on torsion shafts and a chain opener bolted to the ceiling. A price list that treats both as one job is guessing. Extension hardware is cheaper to buy and slower to make safe, since containment cables often have to be added where none exist. Torsion work on a modern wide door costs more in parts and less in improvisation. So when an estimate arrives without anybody having looked at which system is actually hanging over the car, the number underneath it is a coin flip.
+
+### Why every row has two ends
+
+The failed component sets the floor and the collateral damage sets the ceiling. A spring is the clearest example. On its own it is a known part and a practiced procedure. But springs almost never fail alone at this housing age: the bearing plates squeal, the cables have started to fray at the drum, and the opener has been compensating for a heavy door long enough to have worn its gear. Fixing only the visible break puts a customer back in the same driveway before the next winter. The other end of the range is the hardware choice. A door can be rehung on the parts a builder used or on parts rated for two or three times the cycles, and the second option costs more on the invoice and less over a decade.
+
+### Winter is the local pricing pressure
+
+Cold does not create fatigue on its own, but it finds it. In late January 2026 the weather service put Johnson County under a winter storm warning with wind chills forecast near seventeen below and several more inches of snow. Mornings like that stack resistance on top of an aged system: lubricant thickens, the bottom seal freezes to the slab, and the first lift of the day asks a spring at the end of its cycle life to break loose a stuck door. That is why call volume and after-hours labor peak in the same week, and why the top of the diagnostic row is a January number rather than an average one. It also explains why insulated replacement sections are worth their premium in this climate: an attached garage that stays above freezing is easier on every moving part in it.
+
+### The paperwork, and who is allowed to pull it
+
+The city's fees on this work are modest and public. A permitted repair or remodel valued under five thousand dollars carries a thirty-dollar building permit fee, and the master fee schedule adds a flat thirty-dollar plan review due when the application is filed. Sixty dollars total will not change a decision. What matters more is the requirement behind it: Overland Park will not issue a building permit to a contractor without an active Johnson County contractor license. Routine service on existing hardware, meaning springs, cables, rollers, sensors and opener parts, is not permit work at all. Anything that changes framing or widens an opening is, and that scope is worth settling before a door gets ordered rather than on installation morning.
+
+### How to read an estimate
+
+Ask for the spring specification in writing: wire diameter, inside diameter, length and cycle rating. Vague words like heavy duty describe nothing. Ask how many rollers, and whether they carry sealed bearings or the stamped steel kind. On an opener, get the model number, the drive type and whether hauling the old head and rail away is included. On a replacement door, get the insulation value, the panel style, the window option, the permit line, and the disposal line separately, because a single lump total is where surprises hide. Trip charges and labor belong on their own lines too. Any estimate produced over the phone, sight unseen, for a system nobody has measured, is a sales number rather than a price.
+
+### What the national average does not carry
+
+Published averages assume one door type, one climate and a technician five minutes away. They leave out the containment cables an older single door needs, the reduced-radius rail a low-headroom garage takes, the reinforcement strut an opener requires before it starts pulling on a thin section, and the second visit when a discontinued panel color has to be ordered. They also leave out labor economics: federal wage data puts the median metro carpenter at $29.72 an hour, and a stocked service truck with insurance and parts inventory bills a multiple of that hourly figure. None of the ranges above is a quote. They are what this market has been paying, and the actual number comes from whoever measures the door.

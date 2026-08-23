@@ -80,6 +80,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What Kentucky law and Supreme Court rule fix for a Jefferson County collision claim",
+  "col_a": "What it covers",
+  "col_b": "What Kentucky sets",
+  "anchors": [
+   {
+    "label": "Cap on a collision fee percentage",
+    "value": "None",
+    "detail": "Kentucky's rule forbids an unreasonable fee and an unreasonable amount for expenses, then lists eight factors. It states no percentage for injury work.",
+    "source_name": "Ky. SCR 3.130(1.5)(a)",
+    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+   },
+   {
+    "label": "Circuit Court civil filing fee",
+    "value": "$188",
+    "detail": "Paid to the circuit clerk when the case is filed, with a $20 court technology fee and other required charges on top.",
+    "source_name": "Supreme Court of Kentucky order 2026-15, CR 3.02(1)",
+    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202615.pdf"
+   },
+   {
+    "label": "Ceiling on a workers' compensation fee",
+    "value": "$18,000",
+    "detail": "Kentucky's one tiered fee schedule: a fifth of the first $25,000, 15 percent of the next $25,000, a tenth of the rest, and never more than this.",
+    "source_name": "KRS 342.320(2)(a)",
+    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
+   },
+   {
+    "label": "Limit on basic reparation benefits",
+    "value": "$10,000",
+    "detail": "The statutory maximum for all economic loss to one injured person from one crash, no matter how many carriers owe the benefit.",
+    "source_name": "KRS 304.39-020(2)",
+    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57854"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "Share of a collision recovery",
+    "share": "No fixed ceiling",
+    "note": "The test is reasonableness across eight listed factors, including local custom, the result obtained and whether the fee is fixed or contingent.",
+    "source_name": "Ky. SCR 3.130(1.5)(a)",
+    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+   },
+   {
+    "stage": "Written agreement and expense warning",
+    "share": "Signed by the client",
+    "note": "It must state percentages, list expenses deducted, say whether they come off first, and warn plainly about expenses owed even after a loss.",
+    "source_name": "Ky. SCR 3.130(1.5)(c)",
+    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+   },
+   {
+    "stage": "Matters where a result-based fee is barred",
+    "share": "Criminal and divorce",
+    "note": "Kentucky forbids it for a criminal defendant and in domestic cases turning on divorce, alimony or support, apart from liquidated arrearages.",
+    "source_name": "Ky. SCR 3.130(1.5)(d)",
+    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+   },
+   {
+    "stage": "Work injury fee schedule",
+    "share": "20% / 15% / 10%, capped at $18,000",
+    "note": "Approved by an administrative law judge, paid from the award, with the approval motion due inside 30 days of finality.",
+    "source_name": "KRS 342.320(2)(a), (3)",
+    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
+   },
+   {
+    "stage": "Filing the lawsuit in Jefferson Circuit Court",
+    "share": "$188 plus $20",
+    "note": "The rule adds a court technology fee and other required charges such as the court facility and library fees to the base filing fee.",
+    "source_name": "Ky. CR 3.02(1), 2026 order",
+    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202615.pdf"
+   },
+   {
+    "stage": "Threshold before pain and suffering is claimable",
+    "share": "$1,000",
+    "note": "Medical expense benefits must pass that figure unless a fracture, permanent injury, disfigurement, loss of a body member or death is involved.",
+    "source_name": "KRS 304.39-060(2)(b)",
+    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30030"
+   }
+  ]
+ },
  "hero_accent": "Deadlines, Evidence, What Comes Next",
  "trust_third": "Filing deadlines and evidence steps, spelled out",
  "services": [

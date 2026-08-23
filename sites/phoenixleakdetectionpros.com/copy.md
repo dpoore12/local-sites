@@ -6,7 +6,7 @@
 
 - Write for this city. Every block must be unreusable on another site.
 - Never promise a phone consultation. Sell the work: what gets fixed, what it costs, when someone arrives.
-- Never name a business, a licence, a review count, a price or a year in business. No tenant is signed, so none of it is true yet.
+- Never name a business, a license, a review count, a price or a year in business. No tenant is signed, so none of it is true yet.
 - PHASE 1: this site is home + about + contact only. No service pages.
 
 ---
@@ -278,3 +278,35 @@ What makes the first visit more useful
 ## emergency_note
 
 If water is reaching an outlet, panel, appliance connection, or other electrical equipment, stay clear of the area and arrange urgent help. Do not enter standing water to shut anything off.
+
+## pricing_lede
+
+Below are the figures Phoenix area leak companies publish for locating and repairing water leaks, alongside the city's own water rate, code language and permit fees. None of it is a quote, and none of it can be priced honestly from the curb.
+
+## pricing_body
+
+### Two invoices, not one
+
+Finding a leak and fixing it are separate jobs with separate prices, and this table keeps them apart deliberately. A locate is an hour or two of acoustic listening, tracer gas, pressure isolation and thermal imaging that ends with a mark on the floor and a photograph. The repair is whatever the mark turns out to require. A few valley companies credit the locate against the repair when they do both, and one that serves Phoenix and Scottsdale says so in writing. Most of the flat rate locators do not credit anything, and their published figures sit lower for exactly that reason. Any repair number produced before the locate is the average of every possible repair, which is another way of saying it is not about your house.
+
+### The city bills you for water you never used
+
+This is the part that changes the math on waiting. Phoenix City Code section 37-27 makes each customer responsible for all leaks downstream of the point of service delivery, and for full payment of charges for any water lost to them. There is no leak forgiveness program to apply for. Water in the June through September window runs $6.13 per hundred cubic feet, which is 748 gallons, on top of the monthly meter charge, so a line weeping under a slab in July is a bill that compounds weekly rather than a rounding error.
+
+The one adjustment the city does publish is the sewer fee review, and it works on a fixed calendar. Sewer charges are recalculated each July from average January through March water use, and a request that lands more than 60 days after that July bill is ineligible. A leak running through the winter therefore affects a full year of sewer billing, and the window to contest it closes fast.
+
+### Copper, caliche and 1980s slabs
+
+Valley water is hard, and hard water moving fast through soft copper produces pinholes from the inside out. Add a recirculating hot water loop, decades of thermal cycling under a heated slab, and soils that shift and fissure across Maricopa County, and the failures cluster in predictable places: hot lines first, elbows and transitions next, the loop return after that. Two consequences follow. A leak found in a hot line raises a fair question about the rest of that line. And a house on its second slab leak is a different conversation from a house on its first, which is why the reroute and repipe rows exist above.
+
+### Reading a leak estimate line by line
+
+A usable estimate names the detection method, states plainly whether the detection fee is credited, and separates the spot repair from the reroute so the two can be compared. It includes the concrete cut and the patch, says who repairs the drywall and whether texture and paint are included, and states whether a permit is being pulled. The city's fee schedule sets a $195 minimum permit fee on residential work and charges $195 for every re-inspection after the first, so that line is real money on a small job. It also says what happens if opening the slab reveals a second failure in the same run, because that is the single most common reason a job lands at the top of its band.
+
+### The reroute against repipe pitch
+
+Both are legitimate. A reroute is right for aging pipe, poor access, or a second failure in the same line. A repipe is right when the system is failing along its length. What should raise an eyebrow is a whole house repipe proposed off one located leak with no camera evidence of wall thinning and no history of prior failures. Published valley repipe prices run from roughly $4,000 to $24,000 depending on square footage and whether the material is PEX or copper, so the difference between this line and the whole house is the largest number anyone will put in front of you. Ask for the evidence, and ask what the spot repair would cost as a comparison.
+
+### What the online calculator never includes
+
+Cutting and patching concrete. Flooring that cannot be matched once it comes up. Drywall texture and paint. The pool equipment loop and the irrigation manifold, which are frequently the actual source. The permit and its re-inspection. And the water that already ran, which under section 37-27 is on the account holder no matter who finds the leak.

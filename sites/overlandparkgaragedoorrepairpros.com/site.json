@@ -1,142 +1,264 @@
 {
- "domain": "overlandparkgaragedoorrepairpros.com",
- "phase": 1,
- "brand": "Overland Park Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Overland Park",
- "state": "KS",
- "state_full": "Kansas",
- "counties": [
-  "Johnson"
- ],
- "area_codes": [
-  "913"
- ],
- "phone_display": "(913) 799-8294",
- "phone_tel": "+19137998294",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "housing_vintage",
-   "claim": "Overland Park has a median year built of 1989. The city therefore contains a broad mix of older, limited-clearance garages and later sectional-door installations rather than one uniform housing era.",
-   "why_it_matters": "The garage age helps predict the spring type, headroom and track arrangement. That lets a technician prepare torsion, extension or low-headroom hardware before arriving instead of treating every Overland Park garage as identical.",
-   "sources": [
-    "https://www.point2homes.com/US/Neighborhood/KS/Overland-Park-Demographics.html",
-    "https://data.census.gov/table/ACSDT5Y2024.B25035?tid=ACSDT5Y2024.B25035"
-   ],
-   "verified": "2026-08-21",
-   "title": "A 1989 median build year means more than one garage setup"
+  "domain": "overlandparkgaragedoorrepairpros.com",
+  "phase": 1,
+  "brand": "Overland Park Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Overland Park",
+  "state": "KS",
+  "state_full": "Kansas",
+  "counties": [
+    "Johnson"
+  ],
+  "area_codes": [
+    "913"
+  ],
+  "phone_display": "(913) 799-8294",
+  "phone_tel": "+19137998294",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "permit_requirement",
-   "claim": "Overland Park says it reviews residential construction plans and documents that require a building permit, and requires contractors to have an active Johnson County contractor license to receive a building permit for work in the city.",
-   "why_it_matters": "A routine spring, cable, roller or opener repair works on existing hardware. A project that changes structural framing or enlarges a garage opening may enter the city permit process, so the scope should be confirmed before a replacement door is ordered.",
-   "sources": [
-    "https://www.opkansas.org/city-services/building-construction/"
-   ],
-   "verified": "2026-08-21",
-   "title": "An altered garage opening can become a permit project"
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "Overland Park has a median year built of 1989. The city therefore contains a broad mix of older, limited-clearance garages and later sectional-door installations rather than one uniform housing era.",
+      "why_it_matters": "The garage age helps predict the spring type, headroom and track arrangement. That lets a technician prepare torsion, extension or low-headroom hardware before arriving instead of treating every Overland Park garage as identical.",
+      "sources": [
+        "https://www.point2homes.com/US/Neighborhood/KS/Overland-Park-Demographics.html",
+        "https://data.census.gov/table/ACSDT5Y2024.B25035?tid=ACSDT5Y2024.B25035"
+      ],
+      "verified": "2026-08-21",
+      "title": "A 1989 median build year means more than one garage setup"
+    },
+    {
+      "id": "permit_requirement",
+      "claim": "Overland Park says it reviews residential construction plans and documents that require a building permit, and requires contractors to have an active Johnson County contractor license to receive a building permit for work in the city.",
+      "why_it_matters": "A routine spring, cable, roller or opener repair works on existing hardware. A project that changes structural framing or enlarges a garage opening may enter the city permit process, so the scope should be confirmed before a replacement door is ordered.",
+      "sources": [
+        "https://www.opkansas.org/city-services/building-construction/"
+      ],
+      "verified": "2026-08-21",
+      "title": "An altered garage opening can become a permit project"
+    },
+    {
+      "id": "january_2026_cold_snap",
+      "claim": "On January 24, 2026, NWS Kansas City/Pleasant Hill listed Overland Park in a Johnson County winter storm warning and cold weather advisory, with wind chills forecast as low as 17 below zero and four to six inches of additional snow forecast in the warning.",
+      "why_it_matters": "A hard cold snap does not create spring fatigue from nothing, but it can expose a spring already near its cycle limit. Cold-thickened lubricant, a frozen bottom seal and the first lift of the morning add resistance that makes an aged torsion system more likely to fail.",
+      "sources": [
+        "https://forecast.weather.gov/showsigwx.php?warnzone=KSZ105&warncounty=KSC091&firewxzone=KSZ105&local_place1=Overland+Park+KS&product1=Winter+Storm+Warning"
+      ],
+      "verified": "2026-08-21",
+      "title": "The January 2026 cold snap was a real mechanical stress test"
+    }
+  ],
+  "neighborhoods": [
+    "Historic Overland Park",
+    "Nall Hills",
+    "Oak Park",
+    "Deer Creek",
+    "Lionsgate",
+    "Mills Farm"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "january_2026_cold_snap",
-   "claim": "On January 24, 2026, NWS Kansas City/Pleasant Hill listed Overland Park in a Johnson County winter storm warning and cold weather advisory, with wind chills forecast as low as 17 below zero and four to six inches of additional snow forecast in the warning.",
-   "why_it_matters": "A hard cold snap does not create spring fatigue from nothing, but it can expose a spring already near its cycle limit. Cold-thickened lubricant, a frozen bottom seal and the first lift of the morning add resistance that makes an aged torsion system more likely to fail.",
-   "sources": [
-    "https://forecast.weather.gov/showsigwx.php?warnzone=KSZ105&warncounty=KSC091&firewxzone=KSZ105&local_place1=Overland+Park+KS&product1=Winter+Storm+Warning"
-   ],
-   "verified": "2026-08-21",
-   "title": "The January 2026 cold snap was a real mechanical stress test"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Overland Park",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Overland Park",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Overland Park",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Overland Park",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair overland park ks",
+    "monthly_price": 1000,
+    "score": 90,
+    "volume": 200,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "precisiondoorkc.com",
+    "competitor_dr": 7.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Going rates for garage door work across Overland Park",
+    "anchors": [
+      {
+        "label": "Building permit, repair or remodel valued under $5,000",
+        "value": "$30",
+        "detail": "Overland Park publishes a flat building permit fee of thirty dollars for permitted projects valued below five thousand dollars, and fifty dollars once the valuation lands between five and nineteen thousand.",
+        "source_name": "City of Overland Park common permit fees",
+        "source_url": "https://www.opkansas.gov/common-permit-fees"
+      },
+      {
+        "label": "Plan review, flat fee due at application",
+        "value": "$30",
+        "detail": "The master fee schedule adds a flat thirty-dollar plan review payable when the application goes in, on top of the permit fee, taking the small-project total to sixty dollars.",
+        "source_name": "Overland Park Master Fee Schedule effective August 1, 2025",
+        "source_url": "https://content.civicplus.com/api/assets/ks-overlandpark/5c2ef6d8-b38f-41aa-999c-0537f894e89c?cache=1800"
+      },
+      {
+        "label": "Median hourly wage, carpenters, Kansas City metro",
+        "value": "$29.72",
+        "detail": "Half of the 4,540 carpenters counted across the Kansas City metro earned more than this per hour in May 2025. That figure is the floor under every hour billed on a driveway here.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_28140.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "First visit plus a common repair on a door that quit mid-cycle",
+        "low": 80,
+        "high": 450,
+        "basis": "per visit",
+        "note": "Scheduled daytime calls land low; a subzero Sunday lands high.",
+        "sources": [
+          {
+            "name": "All Access Door KC, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://www.allaccessdoorkc.com/spring-replacement"
+          },
+          {
+            "name": "State Line Door and Lift, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://statelinedoorlift.com/garage-door-repair-kansas-city-kansas"
+          },
+          {
+            "name": "5 Star Garage Door Services, Blue Springs, posted price list, read 2026-08-23",
+            "url": "https://5stargaragedoorservices.com/garage-door-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Torsion spring pair renewed on a sixteen-foot door",
+        "low": 150,
+        "high": 600,
+        "basis": "flat",
+        "note": "Both springs go together; heavier insulated sections need thicker wire.",
+        "sources": [
+          {
+            "name": "KC Door Company, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://www.kcdoorcompany.com/blog/how-much-does-it-cost-to-replace-garage-door-springs"
+          },
+          {
+            "name": "State Line Door and Lift, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://statelinedoorlift.com/garage-door-repair-kansas-city-kansas"
+          },
+          {
+            "name": "Premier Garage Doors, Overland Park, posted price list, read 2026-08-23",
+            "url": "https://www.premier-garagedoor.com/"
+          }
+        ]
+      },
+      {
+        "job": "Extension springs replaced on an older single door",
+        "low": 180,
+        "high": 390,
+        "basis": "flat",
+        "note": "Common in older garages here; posted labor carries most of the cost.",
+        "sources": [
+          {
+            "name": "KC Door Company, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://www.kcdoorcompany.com/blog/how-much-does-it-cost-to-replace-garage-door-springs"
+          },
+          {
+            "name": "State Line Door and Lift, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://statelinedoorlift.com/garage-door-repair-kansas-city-kansas"
+          }
+        ]
+      },
+      {
+        "job": "Opener swapped for a belt or wall-mount unit",
+        "low": 300,
+        "high": 1100,
+        "basis": "per unit",
+        "note": "Wall-mount heads cost more but clear ceiling space in shallow garages.",
+        "sources": [
+          {
+            "name": "Radio Controlled Garage Door, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://radiocontrolledgaragedoorandgate.com/the-cost-of-garage-door-opener-installation-in-kansas-city-mo-whats-included/"
+          },
+          {
+            "name": "Team Taylor Doors, Kansas City, posted price list, read 2026-08-23",
+            "url": "https://www.teamtaylordoors.com/garage-door-opener-installation-in-kansas-city/"
+          }
+        ]
+      },
+      {
+        "job": "Insulated double door replaced and hauled away",
+        "low": 799,
+        "high": 4000,
+        "basis": "per unit",
+        "note": "Insulation, window inserts and hardware move it; winters justify thicker sections.",
+        "sources": [
+          {
+            "name": "Bernard Exteriors, Overland Park, posted price list, read 2026-08-23",
+            "url": "https://bernardexteriors.com/post/how-much-should-i-budget-for-a-new-garage-door"
+          },
+          {
+            "name": "Priority Garage Door Service, Olathe, posted price list, read 2026-08-23",
+            "url": "https://www.prioritygaragedoorservice.com/service-areas/olathe-ks-garage-door-repair"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Historic Overland Park",
-  "Nall Hills",
-  "Oak Park",
-  "Deer Creek",
-  "Lionsgate",
-  "Mills Farm"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Overland Park",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Overland Park",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Overland Park",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Overland Park",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair overland park ks",
-  "monthly_price": 1000,
-  "score": 90,
-  "volume": 200,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "precisiondoorkc.com",
-  "competitor_dr": 7.0
- }
 }

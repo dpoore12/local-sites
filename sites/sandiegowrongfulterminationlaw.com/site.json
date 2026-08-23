@@ -79,6 +79,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What California fixes in a San Diego wrongful termination fee, and who can be made to pay whose fees",
+  "col_a": "The question",
+  "col_b": "What the statute or rule answers",
+  "anchors": [
+   {
+    "label": "Ceiling on a contingency percentage in an employment case",
+    "value": "None set by California law",
+    "detail": "A contingent fee is permitted and ordinary in employment work, and no statute or rule names a rate for it. The limit is a prohibition on an unconscionable or illegal fee.",
+    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   },
+   {
+    "label": "Attorney fees in a FEHA discrimination or retaliation case",
+    "value": "Court's discretion, one way in practice",
+    "detail": "The court may award the prevailing party fees, costs and expert witness fees, but a winning employer gets nothing unless the action was frivolous, unreasonable or groundless.",
+    "source_name": "Cal. Gov. Code 12965(c)(6)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=12965.&lawCode=GOV"
+   },
+   {
+    "label": "When an employment engagement must be in writing",
+    "value": "Above $1,000",
+    "detail": "Outside a contingency, any matter where total expense to the client including fees is reasonably foreseeable to exceed one thousand dollars needs a written contract.",
+    "source_name": "Cal. Bus. & Prof. Code 6148(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6148.&lawCode=BPC"
+   },
+   {
+    "label": "The employer's first paper in San Diego Superior Court",
+    "value": "$435",
+    "detail": "Each party other than the plaintiff pays the same first appearance fee in an unlimited civil case, which is what an answer to a termination complaint costs.",
+    "source_name": "San Diego Superior Court civil fee schedule, item 5",
+    "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "The sentence a contingency contract must contain",
+    "share": "Fee is negotiable",
+    "note": "Because no statute governs the rate in an employment claim, the writing must say the fee is not set by law but is negotiable between attorney and client.",
+    "source_name": "Cal. Bus. & Prof. Code 6147(a)(4)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+   },
+   {
+    "stage": "The rest of what section 6147 requires",
+    "share": "Signed duplicate at signing",
+    "note": "The rate, the effect of costs on both fee and recovery, what the client may owe for related matters, and a duplicate signed copy handed over immediately.",
+    "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+   },
+   {
+    "stage": "An action for unpaid wages or benefits",
+    "share": "Prevailing party, with a catch",
+    "note": "Fees go to whoever prevails if requested at the outset, except that a winning employer recovers only if the court finds the employee sued in bad faith.",
+    "source_name": "Cal. Labor Code 218.5(a)",
+    "source_url": "https://codes.findlaw.com/ca/labor-code/lab-sect-218-5/"
+   },
+   {
+    "stage": "A minimum wage or overtime claim",
+    "share": "Employee only",
+    "note": "The statute lets an underpaid employee recover the unpaid balance with interest, reasonable attorney fees and costs. It gives the employer no matching right.",
+    "source_name": "Cal. Labor Code 1194(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1194.&lawCode=LAB"
+   },
+   {
+    "stage": "Jury and reporter charges, San Diego Superior Court",
+    "share": "$150 and $30",
+    "note": "One hundred fifty dollars nonrefundable to preserve a jury, thirty dollars to have a civil proceeding of under an hour reported.",
+    "source_name": "San Diego Superior Court civil fee schedule, items 65 and 67",
+    "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
+   },
+   {
+    "stage": "The percentage cap that belongs to a different case type",
+    "share": "25% and 33%, medical only",
+    "note": "Section 6146 limits fees in professional negligence claims against health care providers. It has no bearing on a termination or retaliation claim.",
+    "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6146.&lawCode=BPC"
+   }
+  ]
+ },
  "hero_accent": "Protect Your Workplace Rights",
  "trust_third": "Claim deadlines and options explained clearly",
  "services": [

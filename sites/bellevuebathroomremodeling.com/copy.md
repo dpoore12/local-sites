@@ -205,3 +205,45 @@ What a properly planned bathroom project includes
 
 ## emergency_note
 Bathroom remodeling is scheduled work, not emergency response. If active water is escaping, shut off the nearest safe supply if possible and contact an appropriate plumbing professional; otherwise, schedule the bathroom review when the room can be inspected properly.
+
+## pricing_lede
+
+Bathroom work in Sarpy County is priced by a small number of Omaha-metro remodelers, several of whom publish finished project totals rather than vague averages. This page collects those figures alongside Bellevue's own permit fee tables and the Omaha metro trade wages. It is market research, not a quote.
+
+## pricing_body
+
+### A thin market that publishes real projects
+
+This is a market where actual project numbers are visible instead of national averages. Omaha-area firms working Bellevue, Papillion and La Vista post finished jobs with square footage attached: a 42 square foot Bellevue bathroom, an 86 square foot Papillion bathroom, a 120 square foot La Vista bathroom, a 6 by 10 Omaha bath and a 10 by 12 in Elkhorn all carry prices on remodelers' own sites.
+
+The flip side is that national bath-liner franchises here publish promotions instead of prices, and one long-established local remodeler declines to post figures at all, arguing a metro average misleads. Each row above therefore rests on a handful of firms rather than a dozen.
+
+### What Bellevue charges, with the arithmetic shown
+
+Bellevue still prices permits off the 1997 Uniform Administrative Code tables the city publishes. Building permit fees run $69.25 for the first $2,000 of job valuation plus $14.00 for each additional $1,000. Take a $20,000 bathroom: $69.25 plus eighteen increments at $14.00 is $321.25. A $34,000 project moves into the next band at $391.75 for the first $25,000 plus $10.10 per additional thousand, or $482.65.
+
+Plumbing is permitted separately. Each fixture or trap is $9.80 on top of $23.50 permit issuance, so a toilet, lavatory and shower files at $52.90. Altering drainage or vent piping is $4.75 per fixture, and a plumbing reinspection is $49.50. Building inspections outside normal hours and additional plan review run $47.00 an hour. Total permit cost on that $20,000 bathroom is therefore about $374, and on the $34,000 Bellevue project about $536.
+
+Those are small numbers next to the project. The penalty is not: the master fee schedule adopted by Resolution 2026-16 charges four times the regular permit fee when work starts before the permit issues. The city's Permits and Inspection Division treats replacing plumbing material or rearranging pipes and fixtures as new work needing a permit and inspection, so a bathroom is not exempt because nothing moved. Registration is cheap by comparison: $75 a year for a city master plumber, $100 for a Class C residential contractor.
+
+### Why Omaha metro labor costs what it does
+
+Plumbers across the Omaha-Council Bluffs metro had a median wage of $30.48 an hour in May 2025 across 2,430 workers, with tile and stone setters at $29.34, per the BLS Occupational Employment and Wage Statistics, May 2025 release. Both sit above their Dallas-Fort Worth counterparts. With a modest number of qualified bath crews in the metro, scheduling is the real constraint: a good tile setter is booked weeks out.
+
+### The Bellevue-specific things that move a bid
+
+Housing vintage runs in distinct chapters here. Capehart-era base housing dates from around 1959 to 1961, and compact bathrooms of that era have shallow stud walls that will not take a modern valve body or a recessed niche without furring out, which shrinks a room already tight on clearance. Cast-iron stacks and galvanized branch lines turn up regularly, and replacing one back to the main is a real line item rather than an upsell.
+
+Lower-level bathrooms deserve extra scrutiny. During the March 2019 Missouri River flood, water reached Offutt Air Force Base and affected roughly thirty buildings there. Not every Sarpy County basement took water, but moisture history and prior repairs are worth confirming before new finishes cover a lower level.
+
+### Reading a bid properly
+
+A usable bid spells out demolition and haul-away, which supply and drain runs are being replaced or relocated, the waterproofing system by name, how tile is set with square footage and an allowance for each type, vanity and top dimensions, fixtures by model number, glass thickness, fan capacity in cubic feet per minute, a permit line covering building and plumbing both, and money released against finished milestones. Where tile or fixtures ride on an allowance instead of a selected product, the total will still move.
+
+### The trap
+
+Watch the wet-area-only sale. Replacing a tub or shower surround in a day is a real product with a real place at the bottom of the table, and for a household that just needs a safe, dry shower it can be the right call. It is not a full remodel, and its price does not predict one. Watch too for an accessibility upgrade priced like a luxury renovation: grab bars, a comfort-height toilet and a curbless entry are a targeted project that metro firms post well below a gut job.
+
+### What a posted figure does not cover
+
+Every band here presumes the room keeps its footprint and that framing and subfloor are sound. Left out: both permits, relocating drain or supply lines, replacing a cast-iron stack, structural repair uncovered at demolition, electrical work for heated floor or new lighting, moisture remediation in a lower level, and the weeks a special-order vanity or slab adds to a schedule already limited by crew availability.

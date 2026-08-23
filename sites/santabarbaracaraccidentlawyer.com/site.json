@@ -1,137 +1,218 @@
 {
-  "domain": "santabarbaracaraccidentlawyer.com",
-  "phase": 1,
-  "brand": "Santa Barbara Car Accident Law Pros",
-  "service": "Car Accident Lawyer",
-  "service_inline": "car accident lawyer",
-  "city": "Santa Barbara",
-  "state": "CA",
-  "state_full": "California",
-  "counties": [
-    "Santa Barbara"
-  ],
-  "area_codes": [
-    "805"
-  ],
-  "phone_display": "(805) 467-0462",
-  "phone_tel": "+18054670462",
-  "phone_status": "LIVE",
-  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
-  "emergency": false,
-  "timezone": "America/Los_Angeles",
-  "tenant": {
-    "status": "none",
-    "business_name": null,
-    "license_number": null,
-    "years_in_business": null,
-    "reviews": null,
-    "service_hours": null,
-    "family_owned": null,
-    "veteran_owned": null
+ "domain": "santabarbaracaraccidentlawyer.com",
+ "phase": 1,
+ "brand": "Santa Barbara Car Accident Law Pros",
+ "service": "Car Accident Lawyer",
+ "service_inline": "car accident lawyer",
+ "city": "Santa Barbara",
+ "state": "CA",
+ "state_full": "California",
+ "counties": [
+  "Santa Barbara"
+ ],
+ "area_codes": [
+  "805"
+ ],
+ "phone_display": "(805) 467-0462",
+ "phone_tel": "+18054670462",
+ "phone_status": "LIVE",
+ "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+ "emergency": false,
+ "timezone": "America/Los_Angeles",
+ "tenant": {
+  "status": "none",
+  "business_name": null,
+  "license_number": null,
+  "years_in_business": null,
+  "reviews": null,
+  "service_hours": null,
+  "family_owned": null,
+  "veteran_owned": null
+ },
+ "local_facts": [
+  {
+   "id": "vision_zero_vulnerable_road_users",
+   "title": "Bicyclists and pedestrians account for most fatal and severe injuries in the city",
+   "claim": "Santa Barbara’s 2026 Safe Streets for All safety analysis reports that bicyclists were involved in 42% and pedestrians in 17% of the City’s fatal and severe injury collisions; it also reports that 62% of injury collisions occur at intersections.",
+   "why_it_matters": "A collision involving a person walking or biking, especially at an intersection or along the dense coastal grid, needs early attention to the exact crossing, travel path, sight lines, witnesses, and any available video. Citywide figures do not decide fault in an individual claim.",
+   "sources": [
+    "https://santabarbaraca.gov/sites/default/files/2026-07/04_Safety_Analysis_07-2026.pdf"
+   ],
+   "verified": "2026-08-22"
   },
-  "local_facts": [
-    {
-      "id": "vision_zero_vulnerable_road_users",
-      "title": "Bicyclists and pedestrians account for most fatal and severe injuries in the city",
-      "claim": "Santa Barbara\u2019s 2026 Safe Streets for All safety analysis reports that bicyclists were involved in 42% and pedestrians in 17% of the City\u2019s fatal and severe injury collisions; it also reports that 62% of injury collisions occur at intersections.",
-      "why_it_matters": "A collision involving a person walking or biking, especially at an intersection or along the dense coastal grid, needs early attention to the exact crossing, travel path, sight lines, witnesses, and any available video. Citywide figures do not decide fault in an individual claim.",
-      "sources": [
-        "https://santabarbaraca.gov/sites/default/files/2026-07/04_Safety_Analysis_07-2026.pdf"
-      ],
-      "verified": "2026-08-22"
-    },
-    {
-      "id": "anacapa_civil_division",
-      "title": "Santa Barbara County civil matters have a local court home",
-      "claim": "Santa Barbara County Superior Court identifies its Anacapa Division at 1100 Anacapa Street in Santa Barbara as handling Civil matters, along with several other case types.",
-      "why_it_matters": "A crash claim that requires civil litigation follows Santa Barbara County\u2019s local court structure. Long before filing is considered, a well-organized file of collision, medical, financial, witness, and insurance records is useful.",
-      "sources": [
-        "https://www.santabarbara.courts.ca.gov/location/santa-barbara-anacapa-division"
-      ],
-      "verified": "2026-08-22"
-    },
-    {
-      "id": "isla_vista_active_travel",
-      "title": "Isla Vista and UCSB bring a major daily bike-and-pedestrian travel pattern",
-      "claim": "The Isla Vista Community Services District says more than 10,000 people commute daily from their homes to campus and notes more than seven miles of bike paths in the UCSB campus area.",
-      "why_it_matters": "A collision involving a UCSB or Isla Vista trip may require early investigation of a bicycle or scooter route, a campus-area witness, a borrowed vehicle, and applicable insurance documents instead of treating it as a generic roadway claim.",
-      "sources": [
-        "https://islavistacsd.ca.gov/methods-of-transportation-in-isla-vista"
-      ],
-      "verified": "2026-08-22"
-    }
-  ],
-  "neighborhoods": [
-    "Downtown",
-    "The Mesa",
-    "Westside",
-    "Eastside",
-    "San Roque",
-    "Upper East"
-  ],
-  "symptoms": [
-    "rear_end_collision_injury",
-    "hit_and_run_crash",
-    "uninsured_driver",
-    "insurer_low_offer"
-  ],
-  "schema": {
-    "local_business": false,
-    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  {
+   "id": "anacapa_civil_division",
+   "title": "Santa Barbara County civil matters have a local court home",
+   "claim": "Santa Barbara County Superior Court identifies its Anacapa Division at 1100 Anacapa Street in Santa Barbara as handling Civil matters, along with several other case types.",
+   "why_it_matters": "A crash claim that requires civil litigation follows Santa Barbara County’s local court structure. Long before filing is considered, a well-organized file of collision, medical, financial, witness, and insurance records is useful.",
+   "sources": [
+    "https://www.santabarbara.courts.ca.gov/location/santa-barbara-anacapa-division"
+   ],
+   "verified": "2026-08-22"
   },
-  "hero_accent": "Deadlines, Evidence, What Comes Next",
-  "trust_third": "Filing deadlines and evidence steps, spelled out",
-  "services": [
-    {
-      "slug": "rear-end-collision-lawyer",
-      "name": "Rear-End Collision Claims",
-      "nav": "Rear-end collisions",
-      "h1": "Rear-End Collision Lawyer",
-      "accent": "Fault, Evidence and Injury Claims",
-      "keyword": "rear end collision lawyer",
-      "icon": "warn"
-    },
-    {
-      "slug": "uninsured-driver-claim-lawyer",
-      "name": "Uninsured Driver Claims",
-      "nav": "Uninsured driver claims",
-      "h1": "Uninsured Driver Claim Lawyer",
-      "accent": "Coverage Questions and Claim Options",
-      "keyword": "uninsured driver accident lawyer",
-      "icon": "search"
-    },
-    {
-      "slug": "commercial-truck-collision-lawyer",
-      "name": "Commercial Truck Collisions",
-      "nav": "Truck collisions",
-      "h1": "Commercial Truck Collision Lawyer",
-      "accent": "Records, Liability and Injury Claims",
-      "keyword": "commercial truck collision lawyer",
-      "icon": "gear"
-    },
-    {
-      "slug": "injury-claim-negotiation",
-      "name": "Injury Claim Negotiation",
-      "nav": "Claim negotiation",
-      "h1": "Injury Claim Negotiation",
-      "accent": "Damages, Offers and Claim Terms",
-      "keyword": "car accident injury claim negotiation",
-      "icon": "check"
-    }
-  ],
-  "symptom_service": [
-    "rear-end-collision-lawyer",
-    "uninsured-driver-claim-lawyer",
-    "uninsured-driver-claim-lawyer",
-    "injury-claim-negotiation"
-  ],
-  "_market": {
-    "keyword": "santa barbara car accident lawyer",
-    "monthly_price": 500,
-    "score": 89,
-    "volume": 200,
-    "cpc_usd": 45.0,
-    "weakest_competitor": "cranefloresllp.com",
-    "competitor_dr": 14.0
+  {
+   "id": "isla_vista_active_travel",
+   "title": "Isla Vista and UCSB bring a major daily bike-and-pedestrian travel pattern",
+   "claim": "The Isla Vista Community Services District says more than 10,000 people commute daily from their homes to campus and notes more than seven miles of bike paths in the UCSB campus area.",
+   "why_it_matters": "A collision involving a UCSB or Isla Vista trip may require early investigation of a bicycle or scooter route, a campus-area witness, a borrowed vehicle, and applicable insurance documents instead of treating it as a generic roadway claim.",
+   "sources": [
+    "https://islavistacsd.ca.gov/methods-of-transportation-in-isla-vista"
+   ],
+   "verified": "2026-08-22"
   }
+ ],
+ "neighborhoods": [
+  "Downtown",
+  "The Mesa",
+  "Westside",
+  "Eastside",
+  "San Roque",
+  "Upper East"
+ ],
+ "symptoms": [
+  "rear_end_collision_injury",
+  "hit_and_run_crash",
+  "uninsured_driver",
+  "insurer_low_offer"
+ ],
+ "schema": {
+  "local_business": false,
+  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+ },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "The published amounts behind a Santa Barbara County injury claim",
+  "col_a": "What is being measured",
+  "col_b": "The figure the law or the court publishes",
+  "anchors": [
+   {
+    "label": "An unconscionable or illegal fee",
+    "value": "Prohibited",
+    "detail": "That is the whole of California's substantive limit on an injury fee. Unconscionability is judged on the facts existing when the agreement was made, using thirteen enumerated factors.",
+    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   },
+   {
+    "label": "Any paper requiring a hearing, Santa Barbara Superior Court",
+    "value": "$60",
+    "detail": "Payable on discovery motions, motions to continue a trial date, motions for new trial and ex parte applications requiring notice, unless it is the party's first paper.",
+    "source_name": "Santa Barbara Superior Court civil fee schedule, item 45",
+    "source_url": "https://www.santabarbara.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024.pdf"
+   },
+   {
+    "label": "Summary judgment or summary adjudication motion",
+    "value": "$500",
+    "detail": "The single most expensive routine filing in a civil case, and the one an insurer is most likely to bring in a disputed-liability crash claim.",
+    "source_name": "Santa Barbara Superior Court civil fee schedule, item 51",
+    "source_url": "https://www.santabarbara.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024.pdf"
+   },
+   {
+    "label": "Malpractice fee ceiling, and only malpractice",
+    "value": "25% / 33%",
+    "detail": "The statutory limit on a contingency fee in a professional negligence action against a health care provider. It has no application to a motor vehicle claim.",
+    "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+    "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "Testing a fee after the fact",
+    "share": "Thirteen factors",
+    "note": "Overreaching, undisclosed material facts, proportion to the value of services, sophistication of the parties, difficulty, result, time spent, informed consent, and more.",
+    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(b)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   },
+   {
+    "stage": "Language the contract has to contain",
+    "share": "Fee is negotiable, in writing",
+    "note": "Outside malpractice claims, the contract must say in terms that the fee is not set by law but negotiable, and the plaintiff leaves with a signed duplicate.",
+    "source_name": "Cal. Bus. & Prof. Code 6147(a)(4)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+   },
+   {
+    "stage": "First paper, unlimited civil case",
+    "share": "$435",
+    "note": "Santa Barbara charges the uniform statewide amount; no local courthouse construction surcharge applies in this county.",
+    "source_name": "Santa Barbara Superior Court civil fee schedule, item 1",
+    "source_url": "https://www.santabarbara.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024.pdf"
+   },
+   {
+    "stage": "Jury demand and court reporting",
+    "share": "$150 and $30",
+    "note": "One hundred fifty dollars nonrefundable to preserve a jury, and thirty dollars for reporting a civil proceeding lasting an hour or less.",
+    "source_name": "Santa Barbara Superior Court civil fee schedule, items 64 and 66",
+    "source_url": "https://www.santabarbara.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024.pdf"
+   },
+   {
+    "stage": "Moving the case to another county",
+    "share": "$50",
+    "note": "Processing a change of venue, paid to the court the transfer is requested from. It arrives when a defendant is based elsewhere.",
+    "source_name": "Santa Barbara Superior Court civil fee schedule, item 55",
+    "source_url": "https://www.santabarbara.courts.ca.gov/system/files/general/statewide-civil-fee-schedule-eff-01012024.pdf"
+   },
+   {
+    "stage": "Splitting a fee with an outside firm",
+    "share": "Written consent, no markup",
+    "note": "The division needs a written agreement between the firms, the client's written consent after full disclosure of the terms, and no increase in the total fee.",
+    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5.1(a)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   }
+  ]
+ },
+ "hero_accent": "Deadlines, Evidence, What Comes Next",
+ "trust_third": "Filing deadlines and evidence steps, spelled out",
+ "services": [
+  {
+   "slug": "rear-end-collision-lawyer",
+   "name": "Rear-End Collision Claims",
+   "nav": "Rear-end collisions",
+   "h1": "Rear-End Collision Lawyer",
+   "accent": "Fault, Evidence and Injury Claims",
+   "keyword": "rear end collision lawyer",
+   "icon": "warn"
+  },
+  {
+   "slug": "uninsured-driver-claim-lawyer",
+   "name": "Uninsured Driver Claims",
+   "nav": "Uninsured driver claims",
+   "h1": "Uninsured Driver Claim Lawyer",
+   "accent": "Coverage Questions and Claim Options",
+   "keyword": "uninsured driver accident lawyer",
+   "icon": "search"
+  },
+  {
+   "slug": "commercial-truck-collision-lawyer",
+   "name": "Commercial Truck Collisions",
+   "nav": "Truck collisions",
+   "h1": "Commercial Truck Collision Lawyer",
+   "accent": "Records, Liability and Injury Claims",
+   "keyword": "commercial truck collision lawyer",
+   "icon": "gear"
+  },
+  {
+   "slug": "injury-claim-negotiation",
+   "name": "Injury Claim Negotiation",
+   "nav": "Claim negotiation",
+   "h1": "Injury Claim Negotiation",
+   "accent": "Damages, Offers and Claim Terms",
+   "keyword": "car accident injury claim negotiation",
+   "icon": "check"
+  }
+ ],
+ "symptom_service": [
+  "rear-end-collision-lawyer",
+  "uninsured-driver-claim-lawyer",
+  "uninsured-driver-claim-lawyer",
+  "injury-claim-negotiation"
+ ],
+ "_market": {
+  "keyword": "santa barbara car accident lawyer",
+  "monthly_price": 500,
+  "score": 89,
+  "volume": 200,
+  "cpc_usd": 45.0,
+  "weakest_competitor": "cranefloresllp.com",
+  "competitor_dr": 14.0
+ }
 }

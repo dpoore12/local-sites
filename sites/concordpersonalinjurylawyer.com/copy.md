@@ -277,3 +277,49 @@ What to gather for an injury-claim review
 ## emergency_note
 
 If anyone needs urgent medical help, call 911 or seek emergency care. For an immediate hazard at a workplace or property, move to a safe area if you can do so without further risk.
+
+## pricing_lede
+
+Anyone injured on Church Street or on Concord Parkway hears percentages quoted with great confidence. North Carolina supplies none of them. The state supplies a standard, a required writing, a clerk's cost schedule that applies to everybody, and several published limits that belong to medical bills and other case types rather than to the fee.
+
+## pricing_body
+
+### Start with the rule that has no number in it
+
+Rule 1.5(a) of the North Carolina Rules of Professional Conduct forbids any lawyer from making an agreement for, charging, or collecting a fee that is illegal or clearly excessive, then hands over eight factors for measuring that second phrase. They cover the labor and skill the matter demanded, the difficulty of what was disputed, whether the engagement cost the lawyer other work, the fee customarily charged around Cabarrus County for comparable service, the sum at stake and the outcome reached, the deadlines involved, the history between lawyer and client, and whether payment was fixed or contingent.
+
+Rule 1.5(b) adds that scope and the basis of the fee are communicated, preferably in writing, before or within a reasonable time after the work begins. A percentage introduced as the state's standard rate has no statutory backing.
+
+### The paperwork requirement is specific about content
+
+Under Rule 1.5(c) a contingent arrangement has to be in writing and signed by the client. The writing states the method by which the fee is determined, including the separate percentages that accrue on settlement, at trial and on appeal, and identifies the expenses deducted from the recovery plus whether those deductions happen before or after the fee is calculated. It also notifies the client clearly about any expense owed regardless of who prevails.
+
+The rule then governs the ending. When the matter concludes, the lawyer provides a written statement setting out the result and, where money came in, showing the remittance and how it was determined. Rule 1.5(d)(1) separately forbids a contingent fee for representing a criminal defendant, and (d)(2) forbids one wherever law prohibits it.
+
+### The famous 50 percent figure caps the hospital, not the lawyer
+
+General Statute 44-50 is the most misquoted provision in North Carolina injury practice. It gives physicians, dentists, nurses, hospitals and ambulance services a lien on funds recovered by an injured person. Two sentences settle what the 50 percent means. One says nothing in the section shall be construed to interfere with any amount due for attorney's services. The other says the lien, exclusive of attorneys' fees, shall in no case exceed fifty percent of the damages recovered.
+
+So the ceiling governs how much of a recovery treating providers can absorb, computed after the fee is set aside. Read as a limit on legal fees, it describes something the statute never said.
+
+Medicaid follows separate arithmetic. Under 108A-57(a1), where the agency's claim exceeds a third of the gross recovery, a third of that gross is presumed to represent the claim, and (a2) lets the beneficiary contest that presumption within thirty days.
+
+### Cabarrus County court costs come from a statute, not a local list
+
+Cabarrus County publishes no civil filing prices of its own. Costs in a Concord case are the General Court of Justice amounts in General Statute 7A-305, collected by the Clerk of Superior Court: $180 in superior court, $130 in district court, $80 before a magistrate, plus a $16 facilities fee and $4.00 for the Court Information Technology Fund. Subsection (c) has the clerk collect advance costs at filing.
+
+Subsection (d) is an exclusive list of assessable expenses. Deposition transcripts are on it. Private process servers are on it, recoverable at actual cost or $50, whichever is less, unless the court finds service proved difficult. Expert witness fees are on it but limited to time actually spent testifying, so file review and travel stay with the party who hired the expert. Subsection (f) prices a notice of hearing on a motion at $20.
+
+### Two places where somebody other than the client decides a fee
+
+General Statute 6-21.1 lets a judge tax reasonable attorneys' fees as costs against a losing defendant or insurer on a finding of unwarranted refusal to negotiate or pay. Three conditions gate it: damages recovered of $25,000 or less, a recovery exceeding the highest offer made at least ninety days before trial, and a written order with findings. The award cannot exceed $10,000, and it moves money toward the injured party rather than restricting the fee contract.
+
+Workers' compensation runs differently. Under 97-90(a) compensation attorney fees are subject to Industrial Commission approval, and (c) requires the agreement filed before the hearing closes, approved unless found unreasonable, with appeals to the full Commission and then a superior court judge. That subsection also says the Commission has no jurisdiction over fees in any third-party action, which puts a liability claim outside the approval process.
+
+### A malpractice cap that never touches a crash file
+
+General Statute 90-21.19(a) limits noneconomic damages against a health care provider to $500,000, adjusted every third year by consumer price index, and (b) lifts the limit where disfigurement, permanent injury or death meets reckless conduct. It caps damages in a professional negligence case and says nothing about a fee.
+
+### Before signing anything in Concord
+
+Ask which percentage attaches at settlement, at trial and on appeal, and confirm all three appear in the writing. Ask whether expenses come off before or after the fee is figured. Ask who advances a records subpoena, a reconstruction or a treating physician's deposition, and whether that money is owed back if nothing is recovered. Ask how provider liens and any Medicaid claim get negotiated before disbursement. A fee arrangement that cannot be described on paper is not worth signing.

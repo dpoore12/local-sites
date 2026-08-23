@@ -230,3 +230,37 @@ Start with the situation closest to what happened
 
 ## crosslink_head
 Need a different kind of information?
+
+## pricing_lede
+
+Texas puts no percentage limit on a fee taken out of a death recovery, and it is Rule 1.04 rather than a rule numbered 1.5 that governs the arrangement, so this page walks through what that rule demands of the writing, who chapter 71 lets bring the claim, how a jury's split of the damages sets each share, and what the Travis County clerks charge along the way.
+
+## pricing_body
+
+### The rule number is 1.04, and it names no percentage
+
+Fee conduct in Texas sits in Rule 1.04 of the Texas Disciplinary Rules of Professional Conduct, not in a rule numbered 1.5 as it is in most states. Subdivision (a) prohibits an illegal fee and an unconscionable one, and it defines unconscionable in a single sentence: a fee is unconscionable if a competent lawyer could not form a reasonable belief that it is reasonable. Nothing in the rule, and nothing in the Civil Practice and Remedies Code, states a maximum percentage for a death claim. Families comparing two agreements in Austin are comparing two offers, and the standard against which either one is judged is a professional judgment test rather than an arithmetic limit.
+
+### The eight measures of a reasonable fee
+
+Rule 1.04(b) sets out what goes into that judgment. The labor and hours a case demands, how novel and difficult its questions are, and the skill needed to handle them properly. Whether accepting the matter keeps the lawyer from other employment. The fee customarily charged in the locality for similar legal services, which is why an Austin comparison is not a Houston comparison. The amount involved and the results obtained. Time limitations imposed by the client or by events. The nature and length of the professional relationship. And whether the fee is fixed or contingent.
+
+### What has to be on paper
+
+Under Rule 1.04(c) the basis or rate of the fee has to be communicated to the client, preferably in writing, before or within a reasonable time after the representation begins. For a contingent arrangement, 1.04(d) goes further. The agreement must be in writing, signed by the client, and it must state the method by which the fee is to be determined, including the percentage that accrues to the lawyer in the event of settlement, trial or appeal. Those three numbers are frequently different from one another. It must state the litigation and other expenses to be deducted from the recovery and, critically, whether those expenses come off before or after the contingent percentage is figured. At the end of the matter the lawyer owes the client a written statement of the outcome and, where money was recovered, the remittance and how it was reached.
+
+### Who owns the claim, and what happens if nobody files
+
+Section 71.004(a) of the Civil Practice and Remedies Code makes the wrongful death action the exclusive property of the surviving spouse, children and parents of the deceased. Under (b) any one of them, or all of them together, may bring it for the benefit of everyone entitled. Subsection (c) is the deadline most families never hear about: if none of those individuals has begun an action within three calendar months of the death, the executor or administrator of the estate is required to bring it, unless all of the beneficiaries ask that it not be filed. Section 71.021 keeps the deceased person's own injury claim alive separately, passing it to the heirs, legal representatives and estate.
+
+### The jury splits the money before the fee is applied
+
+Section 71.010 lets the jury award damages in a proportion it finds and then divides the recovery among those entitled in the shares the jury sets. A single settlement or verdict resolves into separate shares belonging to separate people, each with a different age, dependency and loss, and a contingent percentage lands on each of those shares rather than on one undivided pot. Where one of those people is a minor, that share cannot simply be handed over.
+
+### A minor's share and the chapter 142 route
+
+Property Code chapter 142 governs money recovered for a child with no legal guardian, who appears through a next friend or a guardian ad litem. Section 142.001 lets the court, on application and after a hearing, decree how the funds are invested. Section 142.004 limits the vehicles to a qualified tuition or ABLE account and federally insured interest-bearing time deposits, widening only slightly where the clerk of court invests on written order. Section 142.005 allows a court-created trust instead, and (b) fixes its terms, including that a minor's trust ends at death, at a stated age, or at the twenty-fifth birthday, whichever comes first. Subdivision (l) caps what the petitioning party may be reimbursed in attorney fees for setting the trust up at $1,000, and (m) and (n) restrict who may serve as trustee depending on whether the principal exceeds $50,000.
+
+### What the Travis County clerks charge
+
+The District Clerk's schedule effective January 1, 2026 puts the total base fee for a civil suit at $350, being a $213 local consolidated fee and a $137 state consolidated fee. Issuing a citation, subpoena or writ is $8. Service by certified mail through the District Clerk is $85, while a Travis County constable serving citations and notices charges $90 plus a separate $10 witness payment fee. A jury demand under Rule 216 costs $10. Later filings in the same case, including an intervention, a counterclaim, a third party petition or a motion for new trial, are $80 each. Money held in the court registry carries an administrative charge of 5 percent capped at $50 where it earns no interest, or 10 percent of the interest where it does. On the probate side the County Clerk charges $360 to apply for letters of administration, for a determination of heirship, or for a management trust, with a $525 ad litem deposit in the situations the Clerk identifies, $2 to issue letters, and $25 to file an annual account.

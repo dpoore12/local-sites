@@ -56,7 +56,7 @@ One side is lower, a roller has escaped, or a panel is bent
 
 ## symptom_3
 
-A crooked garage door is not a cosmetic nuisance. When one corner sits lower, a cable may have slipped off its drum after a spring failure, a roller may have climbed out of its track, or the track itself may have been bent by impact. The door is no longer travelling as one supported unit. Pressing the opener again can twist sections, tear hinges, or bring the entire door down in a way that turns a contained repair into a replacement project.
+A crooked garage door is not a cosmetic nuisance. When one corner sits lower, a cable may have slipped off its drum after a spring failure, a roller may have climbed out of its track, or the track itself may have been bent by impact. The door is no longer traveling as one supported unit. Pressing the opener again can twist sections, tear hinges, or bring the entire door down in a way that turns a contained repair into a replacement project.
 
 Stop using the opener. If the door is not fully closed, do not stand below it, try to lift one side, or pull on a loose cable. Keep cars clear of the opening. A technician can secure the door, inspect the drums and bottom brackets, bring the sections back into the rails, replace damaged rollers or hinges, and reset the cables to matched tension. The door is then balanced by hand before the opener is reconnected.
 
@@ -277,3 +277,33 @@ The few details that help on-site repair go smoothly
 ## emergency_note
 
 Do not operate a door with a broken spring, slack cable, or roller outside the track. Disconnect the opener if the door is safely closed and keep people clear until it is secured.
+
+## pricing_lede
+
+What follows is the going cost of garage door work in Parker, alongside the Town's published permit, plan review and use tax figures and the Denver metro wage data that sits underneath every labor hour on the invoice.
+
+## pricing_body
+
+### Front Range labor is the headline number
+
+Start with the wage, because it explains most of the gap between what a Parker homeowner pays and what a national cost article promises. Federal survey data puts the midpoint for a Denver metro carpenter at $31.21 an hour, well ahead of most inland markets. Add a truck, fuel across a town that stretches from The Pinery to Stonegate, liability coverage, and a parts inventory deep enough to finish the job on the first trip, and the hourly rate a customer sees is a multiple of that wage. None of that is markup for its own sake. It is why a company that answers on a Sunday evening exists at all, and it is why the ceiling of each row above is usually a scheduling decision rather than a parts decision.
+
+### An entire town's hardware is aging on the same clock
+
+Parker's median home was completed in 2003, and the population climbed nearly twelve percent between 2020 and 2024, so the housing here arrived in waves. Doors installed in the same wave carry the same builder specification: one torsion spring set rated for about ten thousand cycles, stamped rollers, and an entry-level chain opener. A household that opens the door four times a day burns through ten thousand cycles in under seven years, which is why so many original systems in this town are now failing within a season or two of each other. Practically, that means a spring call in a Canterberry Crossing or Clarke Farms garage is rarely a spring call alone. The bearings, the cables, the rollers and the opener gear are all the same age, and the honest repair is a short list.
+
+### What the Town charges, and what it will not let happen
+
+Parker states plainly that permits are required for all window and door replacements. The fee itself is small: the valuation schedule opens at $23.50, plan review runs 65 percent of the permit fee, and Colorado adds a wrinkle most states do not, a construction use tax figured as half the project valuation multiplied by four percent. Two other rules matter more than the dollars. First, the Town issues permits only to a registered contractor or an authorized representative, and the Class D registration that covers garages and alterations costs seventy-five dollars a year, so any crew that cannot produce registration cannot file the job at all. Second, a homeowner association may ask for a plan showing the proposed improvement, which is worth checking while the door is still being measured rather than after a panel profile has been ordered. Repair work on existing hardware, meaning springs, cables, rollers, sensors and opener parts, is service and does not enter that process.
+
+### Where the range moves once someone is on site
+
+Two variables do most of the work. One is weight. A single-layer builder door and an insulated replacement of the same width need different spring wire, and hanging the second on hardware sized for the first is the most common cause of a repeat failure. The other is altitude and sun. Parker sits above six thousand feet with intense ultraviolet exposure and dramatic daily temperature swings, which hardens rubber bottom seals, dries out factory lubricant, and cooks the plastic gear in an opener sooner than a milder climate would. A door that has been running dry and out of balance for two years has already worn parts that a technician then has to include, and that is the difference between the low and high column.
+
+### Reading the estimate like somebody who has done the work
+
+The spring specification should be written down: wire diameter, inside diameter, overall length, and rated cycles. Anything described only as heavy duty is a description of nothing. Roller count and bearing type should appear, along with cable diameter. For an opener, insist on the model number, the drive type, whether battery backup is included, whether the old head and rail leave with the crew, and whether a reinforcement strut is needed before a motor starts pulling on a thin section. For a replacement door, the permit, plan review, use tax and disposal each deserve their own line. A single number with no breakdown is not a bargain; it is a place for extras to appear later.
+
+### The pattern worth refusing
+
+The upsell in this trade is the jump from a broken part to a whole door. A snapped spring gets diagnosed in the driveway as a system at the end of its life, and a four-figure replacement proposal follows before anybody has weighed the door or checked whether the track is plumb. Sometimes replacement genuinely is the right call, on a rotted wood door or one that has been hit hard. But a straight steel door with sound sections and a bent rail is a repair, and the way to tell the difference is to ask what specifically cannot be corrected. The second pattern is the advertised inspection priced below anybody's cost of showing up, which is a lead-generation number rather than a service. Nothing on this page is a quote from anyone; these are researched market ranges, and the real figure comes from whoever puts hands on the door.

@@ -136,5 +136,177 @@
   "cpc_usd": 50.0,
   "weakest_competitor": "rotorooter.com",
   "competitor_dr": 74.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "What plumbing emergencies cost on the Missouri side of Kansas City",
+  "anchors": [
+   {
+    "label": "Plumbing permit, one- and two-family dwellings",
+    "value": "$52 minimum",
+    "detail": "The city's valuation table sets $52 for work valued up to $1,000, $58 for the first $2,000, then $4.33 for each additional $1,000 of job value.",
+    "source_name": "Kansas City Code of Ordinances Sec. 18-20",
+    "source_url": "https://kansascity-mo.elaws.us/code/coor_ch18_arti_sec18-20"
+   },
+   {
+    "label": "Water service permit, KC Water",
+    "value": "$100",
+    "detail": "Charged per permit whether a tap is made, a new service installed, or an existing service altered, extended, renewed or repaired from the first valve to the building.",
+    "source_name": "KC Water rate book, schedule of fees and charges",
+    "source_url": "https://www.kcwater.us/wp-content/uploads/2026/03/Rate-Book-FY-2027_031726-1.pdf"
+   },
+   {
+    "label": "Restoring service after a meter or tap is pulled",
+    "value": "$610",
+    "detail": "What the utility charges to restore terminated service once it has removed a meter or a tap at the main, in addition to any permit or tap charges owed.",
+    "source_name": "KC Water rate book, schedule of fees and charges",
+    "source_url": "https://www.kcwater.us/wp-content/uploads/2026/03/Rate-Book-FY-2027_031726-1.pdf"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Off-hours call for a burst line or an active leak",
+    "low": 90,
+    "high": 250,
+    "basis": "per visit",
+    "note": "Most Kansas City shops post flat rates and no trip charge.",
+    "sources": [
+     {
+      "name": "John the Plumber, Kansas City, posted rates, read 2026-08-23",
+      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+     },
+     {
+      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+     },
+     {
+      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+     }
+    ]
+   },
+   {
+    "job": "Toilet pulled and reset, or a running toilet rebuilt",
+    "low": 135,
+    "high": 600,
+    "basis": "flat",
+    "note": "Pulling the toilet to reach a cleanout sits low; a new fixture costs more.",
+    "sources": [
+     {
+      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+     },
+     {
+      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+     },
+     {
+      "name": "John the Plumber, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+     }
+    ]
+   },
+   {
+    "job": "Main line rodded open through a basement cleanout",
+    "low": 150,
+    "high": 500,
+    "basis": "flat",
+    "note": "Root-filled clay joints in Brookside and Waldo may need two passes.",
+    "sources": [
+     {
+      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+     },
+     {
+      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+     },
+     {
+      "name": "LBA Services, Kansas City, posted drain prices, read 2026-08-23",
+      "url": "https://www.lbaservices.com/drain-cleaning/"
+     },
+     {
+      "name": "John the Plumber, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer line inspected on camera with a surface locate",
+    "low": 175,
+    "high": 200,
+    "basis": "flat",
+    "note": "Long runs from older Hyde Park houses add time before the camera fits.",
+    "sources": [
+     {
+      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+     },
+     {
+      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+     }
+    ]
+   },
+   {
+    "job": "Sump pump or ejector pump replaced",
+    "low": 1000,
+    "high": 3000,
+    "basis": "per unit",
+    "note": "Battery backup and new discharge piping raise this.",
+    "sources": [
+     {
+      "name": "John the Plumber, Kansas City, posted pump prices, read 2026-08-23",
+      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+     },
+     {
+      "name": "Climate Control, Kansas City, posted pump prices, read 2026-08-23",
+      "url": "https://www.climatecontrolkc.com/blog/plumbing/sump-pump-installation-cost-in-kansas-city/"
+     }
+    ]
+   },
+   {
+    "job": "Water heater replaced, 40 or 50 gallon tank",
+    "low": 1500,
+    "high": 3500,
+    "basis": "per unit",
+    "note": "Tight basement stairs, new venting and an expansion tank add hours.",
+    "sources": [
+     {
+      "name": "KC Water Heaters, Kansas City, posted packages, read 2026-08-23",
+      "url": "https://kcwaterheater.com/pricing/"
+     },
+     {
+      "name": "All-n-One Plumbing, Kansas City, posted tank prices, read 2026-08-23",
+      "url": "https://www.allnoneplumbing.com/post/water-heater-installation-replacement-in-kansas-city-mo-ks"
+     },
+     {
+      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+     },
+     {
+      "name": "John the Plumber, Kansas City, posted tank prices, read 2026-08-23",
+      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer lateral or water service replaced out to the main",
+    "low": 3000,
+    "high": 30000,
+    "basis": "flat",
+    "note": "Frost depth, limestone, steep lots and a street cut set the ceiling.",
+    "sources": [
+     {
+      "name": "John the Plumber, Kansas City, posted line prices, read 2026-08-23",
+      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+     },
+     {
+      "name": "Bright Side Plumbing, Kansas City, posted sewer prices, read 2026-08-23",
+      "url": "https://www.callbrightside.com/blog/how-much-does-sewer-line-replacement-cost/"
+     }
+    ]
+   }
+  ]
  }
 }

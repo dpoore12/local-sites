@@ -32,7 +32,7 @@
   "local_facts": [
     {
       "id": "arizona_dui_tiers",
-      "claim": "Arizona\u2019s basic DUI statute reaches driving while impaired \u201cto the slightest degree\u201d and a 0.08-or-higher alcohol concentration within two hours of driving. A separate statute sets the extreme-DUI range at 0.15 to less than 0.20 and the higher, commonly called super-extreme, range at 0.20 or more. The stated first-conviction jail minimums are ten consecutive days for the basic statute, thirty days for 0.15\u20130.199, and forty-five days for 0.20 or above, subject to statutory sentencing provisions.",
+      "claim": "Arizona’s basic DUI statute reaches driving while impaired “to the slightest degree” and a 0.08-or-higher alcohol concentration within two hours of driving. A separate statute sets the extreme-DUI range at 0.15 to less than 0.20 and the higher, commonly called super-extreme, range at 0.20 or more. The stated first-conviction jail minimums are ten consecutive days for the basic statute, thirty days for 0.15–0.199, and forty-five days for 0.20 or above, subject to statutory sentencing provisions.",
       "why_it_matters": "A Tempe reader needs to know that a number below 0.08 does not itself resolve an impairment allegation, and that 0.15 and 0.20 are legal threshold lines rather than casual labels. The cited subsection and reported result shape the evidence review and sentencing exposure.",
       "sources": [
         "https://www.azleg.gov/ars/28/01381.htm",
@@ -43,7 +43,7 @@
     },
     {
       "id": "tempe_prosecution_path",
-      "claim": "The Tempe City Prosecutor\u2019s Criminal Division prosecutes misdemeanors occurring in Tempe, including traffic and criminal complaints involving DUI. The same office states that felony cases occurring in Tempe are prosecuted by the Maricopa County Attorney\u2019s Office.",
+      "claim": "The Tempe City Prosecutor’s Criminal Division prosecutes misdemeanors occurring in Tempe, including traffic and criminal complaints involving DUI. The same office states that felony cases occurring in Tempe are prosecuted by the Maricopa County Attorney’s Office.",
       "why_it_matters": "A standard misdemeanor DUI and an aggravated-DUI felony allegation can begin on different local prosecution paths. The charge and venue listed on the paperwork determine where a lawyer needs to look for the case and which court process applies.",
       "sources": [
         "https://www.tempe.gov/government/city-attorney-s-office/prosecutor-s-office"
@@ -53,8 +53,8 @@
     },
     {
       "id": "asu_police_dui_data",
-      "claim": "Arizona\u2019s Governor\u2019s Office of Highway Safety reports DUI figures separately for ASU Police: 19 in 2023 and 55 in 2024. The agency\u2019s 2025 figure is listed as preliminary statistical data.",
-      "why_it_matters": "Tempe\u2019s university footprint can place an arrest in a distinct law-enforcement record system. The arresting agency printed on the citation helps identify where reports, video, dispatch material, and other case records may begin.",
+      "claim": "Arizona’s Governor’s Office of Highway Safety reports DUI figures separately for ASU Police: 19 in 2023 and 55 in 2024. The agency’s 2025 figure is listed as preliminary statistical data.",
+      "why_it_matters": "Tempe’s university footprint can place an arrest in a distinct law-enforcement record system. The arresting agency printed on the citation helps identify where reports, video, dispatch material, and other case records may begin.",
       "sources": [
         "https://gohs.az.gov/sites/default/files/2025-04/Copy%20of%2010%20Year%20DUI%20Statistics%20Statewide%20(Per%20Agency).xlsx%20-%20Sheet1_0.pdf"
       ],
@@ -134,5 +134,86 @@
     "cpc_usd": 35.0,
     "weakest_competitor": "azduiteam.com",
     "competitor_dr": 17.0
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "criminal",
+    "table_head": "What Arizona statutes, Tempe Municipal Court and the MVD set on a Tempe DUI, and the fee no lawyer may take",
+    "col_a": "Item",
+    "col_b": "Amount the statute or schedule sets",
+    "anchors": [
+      {
+        "label": "First DUI: minimum fine plus two mandatory assessments",
+        "value": "$250 fine, plus $500 and $500",
+        "detail": "A.R.S. 28-1381(I) requires a fine of not less than $250, an additional $500 assessment for the prison construction and operations fund, and another $500 for the public safety equipment fund. The statute states that neither assessment is subject to any surcharge.",
+        "source_name": "A.R.S. 28-1381(I)",
+        "source_url": "https://www.azleg.gov/ars/28/01381.htm"
+      },
+      {
+        "label": "Surcharge levied on the fine itself",
+        "value": "68 percent",
+        "detail": "A.R.S. 12-116.01 levies 42 percent, then 7 percent, then 6 percent on every fine collected for a criminal offense, and A.R.S. 12-116.02 adds a further 13 percent. Those four layers total 68 percent on the fine, not on the fixed assessments.",
+        "source_name": "A.R.S. 12-116.01",
+        "source_url": "https://www.azleg.gov/ars/12/00116-01.htm"
+      },
+      {
+        "label": "Extreme DUI at 0.20 or above, first conviction",
+        "value": "$500 fine, plus $250, $1,000 and $1,000",
+        "detail": "A.R.S. 28-1382 sets a fine of not less than $500 at that level, a $250 assessment for the driving under the influence abatement fund, and two further assessments of $1,000 each, with 45 consecutive days in jail.",
+        "source_name": "A.R.S. 28-1382(D)",
+        "source_url": "https://www.azleg.gov/ars/28/01382.htm"
+      },
+      {
+        "label": "Tempe Municipal Court time payment fee",
+        "value": "$20 per case",
+        "detail": "The court's published fine and sanction schedule applies this charge to anyone paying a penalty over time, and A.R.S. 12-116 states that a judge may not waive or suspend it. Failure to pay or appear adds a $50 default judgment for each violation.",
+        "source_name": "Tempe Municipal Court fine and sanction schedule",
+        "source_url": "https://www.tempe.gov/government/city-court/fine-payment-and-sanction-schedule"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Contingent fee in a criminal defense matter",
+        "share": "Barred by the ethical rules",
+        "note": "ER 1.5(d)(2) states that a lawyer shall not enter into an arrangement for, charge, or collect a contingent fee for representing a defendant in a criminal case.",
+        "source_name": "Ariz. R. Sup. Ct. 42, ER 1.5(d)(2)",
+        "source_url": "https://tools.dev.azbar.org/RulesofProfessionalConduct/ViewRule.aspx?id=25"
+      },
+      {
+        "stage": "Ceiling on any class 1 misdemeanor fine",
+        "share": "$2,500",
+        "note": "A.R.S. 13-802(A) caps the fine a court may fix for a class 1 misdemeanor, the class that covers a first and second DUI under section 28-1381.",
+        "source_name": "A.R.S. 13-802(A)",
+        "source_url": "https://www.azleg.gov/ars/13/00802.htm"
+      },
+      {
+        "stage": "Flat penalty assessment for law enforcement equipment",
+        "share": "$13",
+        "note": "A.R.S. 12-116.04 levies it on every fine, penalty and forfeiture a court collects for a criminal offense, in addition to every other penalty assessment.",
+        "source_name": "A.R.S. 12-116.04(A)",
+        "source_url": "https://www.azleg.gov/ars/12/00116-04.htm"
+      },
+      {
+        "stage": "Aggravated DUI, felony tier",
+        "share": "$750 fine, plus $250, $1,500 and $1,500",
+        "note": "A.R.S. 28-1383(J) sets a fine of not less than $750 and adds three separate assessments, none of them reducible by a plea to a lesser fine.",
+        "source_name": "A.R.S. 28-1383(J)",
+        "source_url": "https://www.azleg.gov/ars/28/01383.htm"
+      },
+      {
+        "stage": "Assessment when counsel is appointed",
+        "share": "not more than $25",
+        "note": "A.R.S. 11-584(C) lets the court order an indigent administrative assessment, and separately order repayment to the county of a reasonable amount for appointed counsel.",
+        "source_name": "A.R.S. 11-584(C)",
+        "source_url": "https://www.azleg.gov/ars/11/00584.htm"
+      },
+      {
+        "stage": "Getting the driving privilege back",
+        "share": "$20 revocation reinstatement, plus $50 on an admin per se suspension",
+        "note": "The MVD schedule adds an application fee by age, from $10 at 50 and older to $25 for drivers 39 and younger, and requires SR-22 proof after a DUI.",
+        "source_name": "Arizona MVD suspension and revocation fees",
+        "source_url": "https://azdot.gov/mvd/services/dui-suspension/suspension-revocation"
+      }
+    ]
   }
 }

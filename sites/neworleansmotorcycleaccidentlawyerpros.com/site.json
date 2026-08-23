@@ -83,6 +83,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What Louisiana law fixes in an Orleans Parish motorcycle claim, and what the signed agreement sets",
+  "col_a": "Each piece of the recovery",
+  "col_b": "What the rule, code article or clerk sets",
+  "anchors": [
+   {
+    "label": "Percentage ceiling on a crash claim fee",
+    "value": "None stated",
+    "detail": "Rule 1.5 tests a fee for reasonableness against eight factors and permits a contingent fee in a civil matter. It publishes no percentage.",
+    "source_name": "La. Rules of Prof. Conduct 1.5",
+    "source_url": "https://www.ladb.org/Material/Publication/ROPC/ROPC.pdf"
+   },
+   {
+    "label": "Prescriptive period for a delictual action",
+    "value": "Two years",
+    "detail": "Running from the day the injury or damage is sustained, under the period enacted by Acts 2024, No. 423, effective July 1, 2024.",
+    "source_name": "La. Civ. Code art. 3493.1",
+    "source_url": "https://www.legis.la.gov/legis/Law.aspx?d=1386443"
+   },
+   {
+    "label": "Claimant fault that bars recovery outright",
+    "value": "51 percent",
+    "detail": "Recovery is barred where the injured person's share of fault is equal to or greater than fifty-one percent, under the amendment effective January 1, 2026.",
+    "source_name": "La. Civ. Code art. 2323",
+    "source_url": "https://www.legis.la.gov/legis/law.aspx?d=109387"
+   },
+   {
+    "label": "Plaintiff's filing fee on an original petition",
+    "value": "$514.50",
+    "detail": "Orleans Parish Civil District Court, effective July 1, 2026: a $489.50 filing fee plus a $25 building fee. A request for trial by jury is $780 more.",
+    "source_name": "Orleans Parish Clerk of Civil District Court fee schedule",
+    "source_url": "https://www.orleanscivilclerk.com/memos/feeschedule2026-07-01.pdf"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "The fee on a motorcycle claim",
+    "share": "Set by agreement, tested for reasonableness",
+    "note": "Rule 1.5(a) forbids an unreasonable fee and lists the factors used to measure one. Nothing in the rule states a percentage a Louisiana lawyer must charge.",
+    "source_name": "La. Rules of Prof. Conduct 1.5(a)",
+    "source_url": "https://www.ladb.org/Material/Publication/ROPC/ROPC.pdf"
+   },
+   {
+    "stage": "The contingent fee agreement",
+    "share": "Signed writing, copy to client",
+    "note": "Paragraph (c) requires a writing signed by the client with a copy handed over at signing, the percentages for settlement, trial and appeal, the expenses deducted, whether they come off before or after the fee, and a closing written statement.",
+    "source_name": "La. Rules of Prof. Conduct 1.5(c)",
+    "source_url": "https://www.ladb.org/Material/Publication/ROPC/ROPC.pdf"
+   },
+   {
+    "stage": "The lawyer's claim on the recovery",
+    "share": "First privilege",
+    "note": "By written contract signed by the client, an attorney may acquire an interest in the subject matter that ranks as a first privilege superior to other privileges and security interests.",
+    "source_name": "La. R.S. 37:218(A)",
+    "source_url": "https://codes.findlaw.com/la/revised-statutes/la-rev-stat-tit-37-sect-218/"
+   },
+   {
+    "stage": "Medical provider and hospital privileges",
+    "share": "On the net amount payable",
+    "note": "A provider privilege attaches to the net amount payable to the injured person out of any recovery, and the statute states that an attorney's privilege takes precedence over it.",
+    "source_name": "La. R.S. 9:4752",
+    "source_url": "https://legis.la.gov/legis/Law.aspx?d=108040"
+   },
+   {
+    "stage": "Opening the suit in Orleans Parish",
+    "share": "$514.50 / $174 / $780",
+    "note": "Original petition, an amending or supplemental petition, and a request for trial by jury. Naming more than five defendants adds $132 and a petition of intervention is $234.50.",
+    "source_name": "Orleans Parish Clerk of Civil District Court fee schedule",
+    "source_url": "https://www.orleanscivilclerk.com/memos/feeschedule2026-07-01.pdf"
+   },
+   {
+    "stage": "Cash deposit to hold a jury",
+    "share": "$5,000",
+    "note": "In a damages suit where an individual petitioner admits the cause of action exceeds $10,000 and is less than $50,000, the deposit is due within sixty days of the jury request or the jury is waived.",
+    "source_name": "La. Code Civ. Proc. art. 1733(A)(2)(a)",
+    "source_url": "https://www.legis.la.gov/legis/Law.aspx?d=111291"
+   }
+  ]
+ },
  "hero_accent": "What A Rider's Claim Actually Involves",
  "trust_third": "Rider-specific liability rules, spelled out",
  "services": [

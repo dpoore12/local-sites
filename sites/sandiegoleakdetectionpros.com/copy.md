@@ -271,3 +271,35 @@ What helps the first visit reach a clear answer
 ## emergency_note
 
 If water is touching an outlet, electrical panel, appliance connection, or cord, keep away from the area and arrange urgent help. Do not step into standing water to reach a shutoff.
+
+## pricing_lede
+
+What follows is what San Diego County plumbers publish for finding and repairing hidden water leaks, set next to the city's own water rates, its leak credit rules and the permit fees Development Services charges. It is market context for reading a bid, not a quote.
+
+## pricing_body
+
+### Detection and repair are two different invoices
+
+There are two pricing models in this county and they are worth telling apart before anyone visits. Flat rate detection quotes a single figure for the visit, commonly published between $249 and $495, and several shops credit that figure against the repair when they do the work. Hourly detection quotes the visit and then charges for time by where the leak is: one San Diego company publishes a $129 service call plus $199 an hour in a wall or ceiling, $218 in a basement and $238 in ground or concrete slab, so a one hour slab locate totals $367 with nothing credited back. Neither model is wrong. They are different bets about how long a particular leak takes to find, and the estimate should say which bet you are taking.
+
+### The 120-day clock on your water bill
+
+The City of San Diego leak adjustment policy is narrower than most homeowners assume, and it runs on a deadline. A credit is considered only for a concealed leak in a non-irrigation pipe: irrigation lines, pools and running fixtures are excluded outright. The request has to reach Public Utilities within 120 days of the first high bill or it is not considered at all, it has to be supported by a repair invoice showing when the leak was discovered and when it was fixed, and the review itself takes six to ten weeks.
+
+That makes the plumbing paperwork part of the financial recovery. Water here is billed at $8.51, $9.50 and $11.89 per hundred cubic feet as consumption climbs, over a $35.53 monthly base fee on a typical three quarter inch meter, so a hidden leak pushes an ordinary household into the top tier quickly. Keep the invoice, keep the dates, and ask the plumber to write both on it.
+
+### Why slabs here leak the way they do
+
+Postwar tract housing across this county ran copper in and under the slab. From the outside, expansive soils and a marine chloride load work on that copper; from the inside, hot recirculating water and high static pressure do the rest. Pressure is the cheap variable: the city notes that service pressure is regulated at the house, and a failed regulator quietly shortens the life of every fitting and flex line behind it. Sewer laterals are the other local surprise. The private lateral belongs to the property owner, so a camera inspection that finds a break in the yard is the homeowner's repair, not the city's.
+
+### What the permit costs before anyone opens the floor
+
+Development Services prices a residential water or waste pipe repair or replacement at $264.25 per dwelling unit and $87.68 for each additional unit. Private water or sewer utility work is $264.25 for the first 100 linear feet plus $52.39 for each additional 10 feet, with a small mapping fee on top. On a repipe, one county contractor publishes permit costs of $200 to $1,500 depending on scope and wall repairs of $500 to $2,000 for patching and paint. Those are the lines most often missing from the lowest bid, and their absence is usually what closes the gap between two quotes that looked far apart.
+
+### Where the number gets padded
+
+The move to watch is a whole house repipe proposed from a single located leak. Before agreeing, ask for camera or borescope evidence of wall thinning, or a record of prior failures in the same system. Lining and sleeving are real published alternatives at roughly $3,750 and $3,950 for a line, or $150 to $250 a foot, and they suit some pipe and not other pipe. A company that sells only one method will find that method necessary, so the useful question on any slab leak is what the spot repair, the reroute and the repipe each cost on this house, in writing, side by side.
+
+### What a national average leaves out on a coastal lot
+
+Slab thickness and rebar. Tile or hardwood that cannot be matched once it is cut. Texture and paint. The permit and the mapping fee. Access under a raised foundation in an older neighborhood. And the possibility that the leak located today is the second failure in a line that is corroding along its whole length, which is the difference between the bottom of a band and the top of it.

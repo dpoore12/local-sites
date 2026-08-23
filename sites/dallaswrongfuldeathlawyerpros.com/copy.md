@@ -5,10 +5,10 @@
 
 - Write for this city. Every block must be unreusable on another site. The build fails if any 15 consecutive words match another site.
 - Never promise a phone consultation. Explain the legal subject carefully without selling an outcome.
-- Never name a business, a licence, a review count, a price or a year in business. No tenant is signed, so none of it is true yet.
+- Never name a business, a license, a review count, a price or a year in business. No tenant is signed, so none of it is true yet.
 - Home page lands 1,300-2,300 visible words. Each service page 900-1,500.
 - symptom_N blocks are 40-80 word teasers only. The detail belongs on the service page they link to.
-- site.json needs 3 local_facts with a real source URL each, and 6 neighbourhoods, before this will build.
+- site.json needs 3 local_facts with a real source URL each, and 6 neighborhoods, before this will build.
 
 ---
 
@@ -447,3 +447,37 @@ Section 101.101 separately requires notice within six months after the incident 
 Chapter 33 is another limit that can matter in an ordinary negligence action. Section 33.001 bars recovery when the claimant’s percentage of responsibility is greater than 50 percent. If the percentage is 50 percent or less, Section 33.012 provides for a reduction by that percentage. The rules may apply differently depending on the theory and parties involved, so this should not be treated as a mechanical formula for every death.
 
 In a road collision, the question can involve several drivers, a vehicle owner, a company, or another responsible third party. An officer report does not replace the statutory allocation process.
+
+## pricing_lede
+
+Nothing in Texas law caps the percentage a lawyer may take out of a death recovery, so what protects a family in Dallas is the disclosure Rule 1.04 forces into the contract and the published cost of running the case, and this page sets out both, along with the separate survival claim and the probate filings a death case usually drags behind it.
+
+## pricing_body
+
+### Two clerks, two schedules, one case
+
+A Dallas wrongful death matter almost always touches two courthouses. The district court where the negligence claim is filed, and the probate court where the estate is opened so that someone has authority to act for it. The District Clerk charges $350 to file suit with no service under the schedule adopted after Senate Bill 1612, and adds nothing for extra plaintiffs, which matters when a spouse, three children and a parent all appear on the same petition. Issuing a citation or any other writ is $8, as is issuing a subpoena or abstracting a judgment. Non-original filings in a case already on the docket, among them a cross action, an intervention, a third party petition or a motion for new trial, are $80 apiece.
+
+### The fee itself is governed by Rule 1.04, not Rule 1.5
+
+Texas numbers its fee rule 1.04, which trips up anyone reading a form contract drafted for another state. Subdivision (a) is short and absolute: a lawyer shall not enter into an arrangement for, charge or collect an illegal fee or an unconscionable one. Unconscionable carries a defined meaning here, namely a fee that no competent lawyer could form a reasonable belief was reasonable. No number appears there or anywhere else in the rule. A family being shown a percentage in Oak Cliff or Richardson is looking at a proposed term, and the eight considerations in 1.04(b) are the vocabulary for questioning it. Among them: the amount involved and the results obtained, the fee customarily charged in the locality for similar legal services, and the time limitations the circumstances impose.
+
+### Disclosure obligations that run before the signature and after the check
+
+Rule 1.04(c) requires the basis or rate of the fee to be communicated to the client, preferably in writing, either before the representation starts or within a reasonable time afterward. Rule 1.04(d) then sets out what a contingent contract must contain: the client's signature, the method of determining the fee, the percentage accruing on settlement, on trial and on appeal stated separately, the expenses to be deducted from the recovery, and whether those expenses are subtracted before or after the percentage is applied. Two contracts with the same headline percentage produce different checks depending on that one clause. When the case ends, the same subdivision requires a written statement of the outcome, and where money was recovered, the remittance to the client and how it was calculated.
+
+### When a second firm is in the case
+
+Death cases are referred between firms constantly, and Rule 1.04(f) controls what happens to the fee when they are. A division between lawyers not in the same firm is permitted only if it is made in proportion to the professional services each performs, or if each lawyer assumes joint responsibility for the representation. Either way the client has to consent in writing to the identity of every lawyer or firm involved, to whether fees will be divided by proportional service or joint responsibility, and to the share each lawyer or firm will receive. A family that learns after the fact that a referring firm took a cut was entitled to that disclosure in advance.
+
+### The claim the family brings and the claim the estate brings
+
+Section 71.004(a) of the Civil Practice and Remedies Code gives the wrongful death action to the surviving spouse, children and parents, for their exclusive benefit, and section 71.010 divides any recovery among them in the shares the jury finds. Section 71.021 is the second track: the deceased person's own personal injury claim survives the death and passes to the heirs, legal representatives and estate, which is why a single event often produces two claims with two sets of damages. Section 71.009 permits exemplary damages where the death resulted from a willful act or omission or from gross negligence. Because the survival claim belongs to the estate, someone has to be appointed to pursue it.
+
+### The probate filings a death case pulls along
+
+The Dallas County Clerk's probate schedule, effective January 1, 2026, charges $360 for an application to probate a will, for letters testamentary, for muniment of title, and for any of the administration applications. A combined administration and determination of heirship is also $360 but adds a $600 attorney ad litem deposit and a publication bill from the Daily Commercial Record. An application to determine heirship alone carries the same $600 deposit. Letters of guardianship cost $360, plus $25 for a court investigator where guardianship of the person is sought, a $100 bond deposit, and $88 for constable service on the proposed ward inside Dallas County. A civil suit ancillary to an estate is $360.
+
+### Service, collection and the costs nobody quotes
+
+Service is a separate line item and it is not trivial. The commissioners court order in force for fiscal year 2025 sets $80 to serve a citation, summons, notice, subpoena or order not otherwise listed, $65 for service by publication or certified mail, $20 to post a notice, and $20 for a district court bailiff fee. A writ of execution is $400, and deputies serving one bill $50 per hour per deputy after the first two hours. All of these are case costs rather than attorney fees, which is precisely why the contract has to say who advances them and who carries them if the case recovers nothing.

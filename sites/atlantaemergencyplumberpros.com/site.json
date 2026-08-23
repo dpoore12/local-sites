@@ -137,5 +137,181 @@
   "cpc_usd": 35.0,
   "weakest_competitor": "rotorooter.com",
   "competitor_dr": 74.0
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "What Atlanta homeowners pay for the common plumbing emergencies",
+  "anchors": [
+   {
+    "label": "Minimum residential plumbing permit fee",
+    "value": "$50",
+    "detail": "The floor for a residential plumbing permit in the city's fee appendix. Individual line items sit under it: each fixture at $10, and a house sewer newly laid or replaced also at $10.",
+    "source_name": "Atlanta Code of Ordinances, Appendix B fee schedule",
+    "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/483906?nodeId=COORATGEVOII_APXBFE"
+   },
+   {
+    "label": "Penalty for work started without a permit",
+    "value": "Double, up to $1,000",
+    "detail": "Atlanta doubles the permit fee when work begins before the permit issues, capped at a thousand dollars, and charges $50 for each reinspection trip after a written correction notice.",
+    "source_name": "Atlanta Code of Ordinances, Appendix B fee schedule",
+    "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/483906?nodeId=COORATGEVOII_APXBFE"
+   },
+   {
+    "label": "Watershed review and site inspection, single-family sewer connection",
+    "value": "$230",
+    "detail": "Charged by the Department of Watershed Management for plan review and site inspection, with another $250 sewer inspection fee when the connection is a new tap. Installation is separate and falls to the owner.",
+    "source_name": "City of Atlanta ATL311 sewer connection permit cost article",
+    "source_url": "https://www.atl311.com/en-us/knowledgearticle/?code=KB0011799"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Kitchen or laundry line snaked back open",
+    "low": 93,
+    "high": 540,
+    "basis": "flat",
+    "note": "Accessible cleanout in daylight is the floor; cast iron from a roof vent the ceiling.",
+    "sources": [
+     {
+      "name": "Bardi, Atlanta, posted drain prices, read 2026-08-23",
+      "url": "https://ai.bardi.com/blogs/Peachtree-Corners-Drain-Cleaning-Cost-%E2%80%94-Professional-Plumbing"
+     },
+     {
+      "name": "TE Certified, Atlanta, published price guideline, read 2026-08-23",
+      "url": "https://www.tecertifiedelectricians.com/electrician-cost-pricing/te-certified-plumbing-price-guideline/"
+     },
+     {
+      "name": "PV Plumbing, Atlanta, posted drain price, read 2026-08-23",
+      "url": "https://www.pvhvac.com/plumbing/drain-cleaning/"
+     },
+     {
+      "name": "JMJ Plumbing, Atlanta, posted drain prices, read 2026-08-23",
+      "url": "https://jmjplumbing.com/drain-cleaning-service-cost/"
+     }
+    ]
+   },
+   {
+    "job": "After-hours visit for an overflowing drain or a leak with no shutoff",
+    "low": 200,
+    "high": 948,
+    "basis": "per visit",
+    "note": "Weeknight and weekend windows carry a premium, and so do storm-night callouts.",
+    "sources": [
+     {
+      "name": "Aaron Services, Atlanta, posted emergency rates, read 2026-08-23",
+      "url": "https://www.chooseaaronservices.com/plumbing-services/emergency-plumbing/emergency-plumbing-costs/"
+     },
+     {
+      "name": "JMJ Plumbing, Atlanta, posted after-hours rates, read 2026-08-23",
+      "url": "https://jmjplumbing.com/emergency-plumbing-prices/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer lateral camera inspection with a locate and report",
+    "low": 125,
+    "high": 425,
+    "basis": "flat",
+    "note": "Long laterals on deep intown lots take more line; root-filled clay needs clearing first.",
+    "sources": [
+     {
+      "name": "Bardi, Atlanta, posted camera prices, read 2026-08-23",
+      "url": "https://ai.bardi.com/blogs/Peachtree-Corners-Drain-Cleaning-Cost-%E2%80%94-Professional-Plumbing"
+     },
+     {
+      "name": "JMJ Plumbing, Atlanta, posted camera prices, read 2026-08-23",
+      "url": "https://jmjplumbing.com/drain-cleaning-service-cost/"
+     },
+     {
+      "name": "Foresight Inspections, Atlanta, posted scope price, read 2026-08-23",
+      "url": "https://www.fhinspectionsatl.com/services/sewer-scope-inspection/atlanta"
+     }
+    ]
+   },
+   {
+    "job": "Galvanized supply lines replaced in a whole-house repipe",
+    "low": 4500,
+    "high": 15000,
+    "basis": "flat",
+    "note": "Copper costs more than PEX; galvanized behind 1920s plaster adds days of patching.",
+    "sources": [
+     {
+      "name": "Repipe Specialists, Atlanta, posted repipe prices, read 2026-08-23",
+      "url": "https://atlanta.repipe.com/repipe-pricing.html"
+     },
+     {
+      "name": "TE Certified, Atlanta, published repipe guideline, read 2026-08-23",
+      "url": "https://www.tecertifiedelectricians.com/electrician-cost-pricing/te-certified-plumbing-price-guideline/"
+     },
+     {
+      "name": "Reliable, Atlanta, posted per-fixture prices, read 2026-08-23",
+      "url": "https://reliableair.com/plumbing/home-repiping"
+     }
+    ]
+   },
+   {
+    "job": "Water heater replaced, 40 or 50 gallon tank",
+    "low": 800,
+    "high": 3000,
+    "basis": "per unit",
+    "note": "Attic and closet installs need a pan, a drain line and often new venting.",
+    "sources": [
+     {
+      "name": "RooterPLUS, Atlanta, posted installed tank prices, read 2026-08-23",
+      "url": "https://www.rooterplus.com/blog/water-heater-replacement-cost-in-atlanta-2026-price-guide"
+     },
+     {
+      "name": "TE Certified, Atlanta, published heater guideline, read 2026-08-23",
+      "url": "https://www.tecertifiedelectricians.com/electrician-cost-pricing/te-certified-plumbing-price-guideline/"
+     },
+     {
+      "name": "JMJ Plumbing, Atlanta, posted heater prices, read 2026-08-23",
+      "url": "https://jmjplumbing.com/emergency-plumbing-prices/"
+     }
+    ]
+   },
+   {
+    "job": "Root-blocked clay sewer lateral opened and spot repaired",
+    "low": 600,
+    "high": 2500,
+    "basis": "flat",
+    "note": "Depth drives it, and a protected tree over the trench stretches the timeline.",
+    "sources": [
+     {
+      "name": "JMJ Plumbing, Atlanta, posted sewer prices, read 2026-08-23",
+      "url": "https://jmjplumbing.com/cost-to-repair-sewer-line/"
+     },
+     {
+      "name": "TD Lambert Plumbing, Atlanta, posted repair price, read 2026-08-23",
+      "url": "https://www.tdlambertplumbing.com/how-much-does-sewer-line-replacement-cost-in-atlanta"
+     },
+     {
+      "name": "TE Certified, Atlanta, published sewer guideline, read 2026-08-23",
+      "url": "https://www.tecertifiedelectricians.com/electrician-cost-pricing/te-certified-plumbing-price-guideline/"
+     }
+    ]
+   },
+   {
+    "job": "Sewer lateral relined or replaced end to end",
+    "low": 3000,
+    "high": 25000,
+    "basis": "flat",
+    "note": "Steep intown lots, long runs, street cuts and repaving carry the top.",
+    "sources": [
+     {
+      "name": "TD Lambert Plumbing, Atlanta, posted sewer prices, read 2026-08-23",
+      "url": "https://www.tdlambertplumbing.com/how-much-does-sewer-line-replacement-cost-in-atlanta"
+     },
+     {
+      "name": "JMJ Plumbing, Atlanta, posted lining prices, read 2026-08-23",
+      "url": "https://jmjplumbing.com/cost-to-repair-sewer-line/"
+     },
+     {
+      "name": "Bardi, Atlanta, posted sewer prices, read 2026-08-23",
+      "url": "https://ai.bardi.com/blogs/Peachtree-Corners-Drain-Cleaning-Cost-%E2%80%94-Professional-Plumbing"
+     }
+    ]
+   }
+  ]
  }
 }

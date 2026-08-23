@@ -277,3 +277,39 @@ Useful details to have ready without doing the repair yourself
 ## emergency_note
 
 Stay out of water around electrical power, do not stand under a bowing ceiling, and isolate any room affected by wastewater. Call 911 when the condition presents an immediate danger to people.
+
+## pricing_lede
+
+What follows is a researched picture of plumbing emergency costs in Colorado Springs, together with the permit and utility inspection amounts published for this region and the reasons a house at six thousand feet fails differently than one at sea level.
+
+## pricing_body
+
+### Two houses, one job description, two prices
+
+Take a failed water heater. In a Briargate garage with clearances on every side, the appliance comes out, the new one goes in, and the inspector has room to look at everything. Take the same failure in a hillside Old Colorado City house where the heater sits in a closet with an undersized vent and a floor drain nowhere near it, and the same job now includes venting, a drain pan with a routed discharge, and expansion control that was never there. The label on the work order is identical. The scope is not.
+
+That gap is what a range is for. The variables that decide where a job sits are reach, condition of the pipe already in place, and how much of the code catch-up the old installation postponed. Pikes Peak Regional Building Department's own water heater handout tells you what an inspector actually checks: an appliance listed for the application, safe venting and combustion air, shutoffs, relief valve discharge, and expansion control. Anything on that list that is missing today becomes part of the price tomorrow.
+
+### Altitude, freeze-thaw and the local failure calendar
+
+Colorado Springs Municipal Airport sits at 6,147 feet, and the thirty-year normals for January pair a 45 degree afternoon with an 18.5 degree night. That daily swing, not a single deep freeze, is what breaks pipe here. Water in an exposed line thaws, moves, refreezes and expands again on the same twenty-four hour cycle, so failures cluster in exterior walls, crawlspaces, garages and irrigation stub-outs rather than in the middle of a heated house. It also means the busiest hours for emergency work land in the coldest part of the night, when labor is at its most expensive.
+
+Ground conditions do the same thing to buried lines. Digging through decomposed granite and rock is slower than digging through loam, sloped lots need shoring before anybody works in a trench, and winter ground has to be broken before it can be moved. Depth and soil, not pipe diameter, decide the cost of an excavation in El Paso County.
+
+### One utility, several separate fees
+
+Colorado Springs Utilities delivers electricity, natural gas, water and wastewater as a single community-owned enterprise, which makes the billing simpler and the permitting less so, because the utility inspects service lines on top of the building department's permit. A repair, alteration or additional install on a single-family wastewater service carries a $200 utility permit; the water service line inspection for a new installation or repair runs $160; and each return trip after the first costs $100 again. Separately, the regional building department charges $40 for a water heater replacement permit, $75 when the vent goes with it, $50 for a furnace or boiler replacement, and $30 for a lawn sprinkler backflow device or a water softener install.
+
+None of those amounts is large. What they buy is scheduling, and scheduling is the thing that turns a one-day repair into a three-day one. A return inspection trip caused by an unfinished detail costs both the fee and another slot on the calendar.
+
+### What belongs in a written estimate
+
+Ask for the failure named, not the symptom repeated. On a leak that means the location and how it was found; on a drain that means camera footage with distance and depth marked; on a pressure complaint that means the actual static reading at a hose bib. Permits and utility inspections belong on their own lines with the fee shown, because they are pass-through amounts published by the building department and the utility. On any excavation the estimate should state trench depth, shoring, how the surface gets restored, who calls in the locates, and what happens to the yard. Diagnostic labor and repair labor should be separate figures with a clear statement about whether one applies against the other.
+
+### The trap here
+
+Cold snaps produce two predictable sales pitches. The first is whole-house repiping proposed after a single frozen break, when the actual fix is a repair plus insulation and a heat source in the space that froze. The second is a same-night replacement of a water heater that failed on a relief valve or a thermocouple, sold before anyone tested the part. Both are easier to sell at two in the morning than at noon. If water is contained and the shutoff holds, the honest move is a temporary repair now and a decision in daylight. Also watch for jetting proposed sight unseen on old lines and for membership plans presented as a condition of the visit.
+
+### What a national average leaves on the floor
+
+Cost pages built for the whole country miss most of what has been listed above: the regional building department permit, the two separate utility inspections, the return trip charges, shoring on a sloped lot, rock in the trench, and restoration of a driveway or sidewalk crossing. They also assume the old installation met current code, which around here is exactly the assumption that fails. The equipment is the predictable part of the invoice. Everything published on this page is the part people find out about afterward.

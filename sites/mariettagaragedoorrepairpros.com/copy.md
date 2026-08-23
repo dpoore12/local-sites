@@ -204,3 +204,39 @@ What helps the visit go smoothly
 
 ## emergency_note
 If a spring is broken, a cable is loose, or the door is off track, do not lift it or run the opener. Keep clear of the opening and unplug the unit.
+
+## pricing_lede
+
+A plain accounting of what garage door repairs and replacements go for in Marietta, what the city's permit and inspection fees add, and how Cobb County humidity and the downtown historic review shape both ends of every range.
+
+## pricing_body
+
+### Three things move the number
+
+Start with the failed component. Springs, cables, rollers, bearings, an opener gear set, a control board and a damaged section are separate parts at separate prices, and they are not interchangeable diagnoses even though every one of them produces a door that will not work properly.
+
+Second, the material the door is made of. Marietta has a lot of wood and wood-clad doors, especially on older houses and in the neighborhoods around the square, and wood behaves nothing like steel. It absorbs moisture, gains weight through a wet season, swells against the jamb and eventually rots at the bottom rail where water sits. A heavier door needs stronger springs, and a swollen door needs the balance reset rather than the opener asked to force it shut.
+
+Third, access. A detached garage behind a Frasier Park or Westside house, reached down a narrow drive, with one circuit and no ceiling blocking, is a longer job than a two-car attached garage on a newer street. Access is invisible on a price list and completely visible on an invoice.
+
+### Humidity is a cost driver here
+
+This is not a decorative detail. The Weather Service describes north Georgia summers as long stretches of warm, humid weather, with the region averaging 50 to 55 inches of rain across roughly 120 days with measurable precipitation in a typical year. Standing damp, pollen and grit work into every moving part of a garage door: the cable strands, the shaft bearings, the hinge pins, the roller stems and the fasteners holding the bottom fixture on. Corroded steel wears faster and binds sooner.
+
+What that means in dollars is twofold. Spring and cable life is shorter here than in a dry climate, so those repairs come around more often. And when a technician does arrive, seized hardware has to be cut and replaced rather than loosened, which converts a thirty-minute job into a ninety-minute one. Labor is the majority of most repair bills in this market: the May 2025 median hourly wage for general maintenance and repair workers across metro Atlanta is $23.86, and the billed hour is a multiple of that once the vehicle, the stocked parts and the drive time are covered.
+
+### Permit math, and the downtown exception
+
+Servicing hardware on an existing door is not a permit matter. Replacing the door assembly can be. The city states that a permit is required whenever an owner or contractor intends to construct, enlarge, alter, repair, move or demolish a building or structure, and it publishes no garage-door-only exemption, so the scope and the address should be confirmed with Building Inspections before a replacement is ordered. Addresses outside the city limits fall to Cobb County instead. When a permit does apply, Marietta calculates it from construction value at $5 per $1,000 of labor and materials with a $50 minimum, and failed inspections escalate at $50, then $75, then $100 for the third and each subsequent visit.
+
+The bigger local variable is the Downtown Historic District. Any exterior work there requires a Certificate of Approval from the Historic Board of Review, and the city says building permits will not be issued without an approved certificate when one is required. For a garage door that means material, color, window layout and overall appearance are reviewed before anything is ordered. A homeowner who selects a door first and applies second can lose weeks, and a special-order door that turns out not to be approvable is the most expensive mistake available in this trade locally.
+
+### What a straight quote looks like
+
+It separates the diagnostic charge from the repair, and says whether the first applies against the second. It gives the spring specification in full, meaning wire diameter, inside diameter, length and cycle rating, and states plainly whether one spring or the pair is being replaced. Leaving an original spring beside a new one on the same shaft is how a household pays for the same visit twice. It identifies roller type, because sealed nylon and bare steel are different products with different service lives in this climate. On an opener it lists the drive type, the horsepower class, and whether the sensors, rail and wall control are new. On a replacement it names the manufacturer, model, construction, insulation value, finish, glass, the permit if one applies, historic review if the address needs it, jamb and header repair, and removal of the old door.
+
+### The upsell, and the part nobody prices online
+
+The pitch to be skeptical of is a moisture problem answered with a full replacement. A door dragging at the jamb, a bottom seal that no longer meets the slab, surface rust on the track: those are adjustments, seals, bearings and rollers, not a new door. Rot that has climbed into the stiles of a wood door is genuinely a different conversation, and an honest technician will show you the wood rather than describe it.
+
+What the national averages never carry is the local overhead: the valuation-based permit, an escalating reinspection, historic board review downtown, rebuilding jambs where water has been sitting for years, wiring and blocking for a detached garage, and the lead time on a made-to-order wood or clad door. Those items are the space between the middle and the top of every band above.

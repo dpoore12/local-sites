@@ -212,3 +212,41 @@ Materials that help an Oceanside claim assessment begin
 
 ## emergency_note
 If you have urgent symptoms or immediate danger, call 911 or seek emergency medical care. Do not delay treatment to collect claim materials. Preserve originals and relevant dates once it is safe.
+
+## pricing_lede
+
+Two sets of numbers touch an Oceanside injury claim: the amounts the San Diego Superior Court prints on its own fee schedule, and the fee, which California regulates without ever naming a percentage. This page keeps them apart.
+
+## pricing_body
+
+### California writes no rate for an injury fee, and that is the finding
+
+The first thing to settle is what the state does not do. Under rule 1.5(a) of the California Rules of Professional Conduct, a fee that is unconscionable, or one that is illegal, may not be agreed to, billed, or taken in the first place. No subdivision after it turns that ban into a percentage. So a page announcing "the California limit" on a rear-end collision claim on Coast Highway is describing a custom, not a statute.
+
+Rule 1.5(b) explains how the prohibition is enforced. Unconscionability is measured on all the facts and circumstances existing when the agreement was entered into, except where both sides expected later events to affect the fee. The rule then lists considerations without closing the list: fraud or overreaching in setting the fee, material facts left undisclosed, the size of the fee against the value of the work actually performed, how sophisticated each side was, the amount at stake and the result, the experience of the lawyers, whether the fee was fixed or contingent, and whether the client gave informed consent. A percentage that looks unremarkable in a disputed-liability case with three carriers can look very different on a claim resolved with one letter.
+
+### Because the rate is open, the contract is the document that decides it
+
+Business and Professions Code section 6147 is where an injured person's leverage actually sits. The contract has to be written, signed by attorney and client, and the client walks away from the signing with a duplicate signed copy in hand. The rate the parties settled on has to appear. So does the treatment of disbursements and costs, and their effect on both fee and recovery, which is the clause people skip and then argue about. So does any compensation the client might owe on related matters the agreement leaves out. And unless the claim is one of the health care cases governed by section 6146, the writing has to say the rate is negotiable rather than fixed by law. When the writing misses a required element the agreement is voidable at the client's election, and the lawyer is left with a reasonable fee rather than the one in the contract.
+
+Read the costs clause twice. Applying the same percentage before costs and after costs produces two different checks, and the difference on a claim with depositions and treating-physician testimony is not small.
+
+### The court's own figures, which do not move with the facts
+
+San Diego County publishes its civil fee schedule and the amounts are fixed. Opening an unlimited civil case, meaning any complaint pleading more than $35,000, is $435, and each other party pays the same on its first appearance. A motion or paper requiring a hearing is $60, whether it is a discovery motion, a request to move the trial date, a motion for new trial, or an ex parte application that requires notice to the other side. Summary judgment or summary adjudication is $500. Preserving a jury takes $150 in advance and the deposit is not refundable. Reporting a civil proceeding of less than an hour is $30, while anything longer is billed as a court reporter per diem of $585 for a half day and $1,170 for a full day. A complex designation adds $1,000 charged to the plaintiff side, plus $1,000 per defendant, and the complex fees stop at $18,000 for the whole case.
+
+An Oceanside claim that reaches litigation usually files at the North County Division in Vista rather than downtown, and the schedule is the same either way. What changes with the courthouse is travel time, not the price of a filing.
+
+### What comes off a recovery before anybody sees a check
+
+Fees are one deduction and costs are another. The larger line items in a North County file tend to be deposition transcripts, records from Tri-City and other providers, treating-physician testimony, and any retained expert. Reimbursement claims are the third deduction, and they have their own statutory limits. Where Medi-Cal paid for treatment, Welfare and Institutions Code section 14124.78 provides that the Director shall in no event recover more than the beneficiary recovers after attorney fees and litigation costs paid by the beneficiary are deducted. That is a floor under the injured person's share, and it is worth asking about early, because a claim resolved without that arithmetic done can leave a person holding very little.
+
+### The percentages that belong to a case this is not
+
+California caps a contingency in exactly one setting. Section 6146 limits the fee in an action for injury against a health care provider based on professional negligence to 25 percent of the recovery when every party signs a release and settles before any complaint or demand for arbitration has been filed. Once the case passes that point the figure becomes 33 percent, measured against the net sum recovered. A lawyer who tried the case may move for more, and the court decides on evidence of good cause.
+
+Those figures have nothing to do with a truck merging off the 78, a pedestrian struck near a Coast Highway crossing, or a fall in a Mission Avenue parking lot. When they appear on a general injury page, that page was assembled rather than checked.
+
+### The practical version
+
+Nothing in California law sets the rate, so the rate is negotiated and the statute requires the contract to say so. Costs sit separate from the fee, and the contract has to explain how they interact. Everything else is between an injured person and the lawyer that person picks.

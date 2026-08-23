@@ -1,144 +1,315 @@
 {
- "domain": "sacramentoacrepair.com",
- "phase": 2,
- "brand": "Sacramento Air Conditioner Repair Pros",
- "service": "Air Conditioner Repair",
- "service_inline": "air conditioner repair",
- "city": "Sacramento",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Sacramento"
- ],
- "area_codes": [
-  "916",
-  "279"
- ],
- "phone_display": "(916) 884-9420",
- "phone_tel": "+19168849420",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "housing_vintage",
-   "claim": "ACS 2024 estimates put Sacramento's median year of construction at 1978, with about 23,500 of roughly 212,000 city housing units \u2014 close to one in nine \u2014 built in 1939 or earlier. Inside the same county, Elk Grove's median year built is 2001.",
-   "why_it_matters": "Pre-war houses in Boulevard Park, Curtis Park, Midtown and Land Park were built with floor furnaces or wall heaters and no cooling ducts at all, so cooling arrived later as an attic coil, a hall-closet air handler or ductless heads, usually with the condenser squeezed into a narrow side yard. Postwar Tahoe Park and Oak Park houses tend to have a garage furnace with an add-on coil, and 1990s-2000s North Natomas homes have purpose-built systems with real access. Equipment location, access time and likely failure points differ in all three.",
-   "sources": [
-    "https://censusreporter.org/tables/B25035/",
-    "https://data.census.gov/table/ACSDT5Y2024.B25035",
-    "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034&geo_ids=16000US0664000,16000US0622020"
-   ],
-   "verified": "2026-08-21",
-   "title": "One Sacramento house in nine predates 1940, so cooling was retrofitted"
+  "domain": "sacramentoacrepair.com",
+  "phase": 2,
+  "brand": "Sacramento Air Conditioner Repair Pros",
+  "service": "Air Conditioner Repair",
+  "service_inline": "air conditioner repair",
+  "city": "Sacramento",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Sacramento"
+  ],
+  "area_codes": [
+    "916",
+    "279"
+  ],
+  "phone_display": "(916) 884-9420",
+  "phone_tel": "+19168849420",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "permit_rule",
-   "claim": "The City of Sacramento requires a building permit for repairs and replacements to mechanical systems, and its express planning exemption form allows an HVAC change-out only when the new unit goes back in the same location; a unit placed in a new location must be screened so it is not visible from any street view, and the form cannot be used on a landmark parcel or in a historic district. California's energy code adds independent field verification and diagnostic testing, with documentation required to close the permit.",
-   "why_it_matters": "A condenser change-out in Sacramento is not a cash-and-carry swap. Moving the outdoor unit out of a cramped side yard to somewhere easier to service triggers a screening requirement, and in the older designated districts near downtown the express exemption is off the table entirely. Field verification also means the finished job has to be tested, not just installed, which is worth knowing before anyone agrees to work with no permit.",
-   "sources": [
-    "https://www.cityofsacramento.gov/community-development/building/permit-services/required-permits.html",
-    "https://www.cityofsacramento.gov/content/dam/portal/cdd/Building/Forms/CDD-0035_Planning-Exemption-Form-Express.pdf",
-    "https://www.energy.ca.gov/programs-and-topics/programs/home-energy-rating-system-hers-program"
-   ],
-   "verified": "2026-08-21",
-   "title": "Change-outs need a city permit, and moving the condenser needs screening"
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "claim": "ACS 2024 estimates put Sacramento's median year of construction at 1978, with about 23,500 of roughly 212,000 city housing units — close to one in nine — built in 1939 or earlier. Inside the same county, Elk Grove's median year built is 2001.",
+      "why_it_matters": "Pre-war houses in Boulevard Park, Curtis Park, Midtown and Land Park were built with floor furnaces or wall heaters and no cooling ducts at all, so cooling arrived later as an attic coil, a hall-closet air handler or ductless heads, usually with the condenser squeezed into a narrow side yard. Postwar Tahoe Park and Oak Park houses tend to have a garage furnace with an add-on coil, and 1990s-2000s North Natomas homes have purpose-built systems with real access. Equipment location, access time and likely failure points differ in all three.",
+      "sources": [
+        "https://censusreporter.org/tables/B25035/",
+        "https://data.census.gov/table/ACSDT5Y2024.B25035",
+        "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034&geo_ids=16000US0664000,16000US0622020"
+      ],
+      "verified": "2026-08-21",
+      "title": "One Sacramento house in nine predates 1940, so cooling was retrofitted"
+    },
+    {
+      "id": "permit_rule",
+      "claim": "The City of Sacramento requires a building permit for repairs and replacements to mechanical systems, and its express planning exemption form allows an HVAC change-out only when the new unit goes back in the same location; a unit placed in a new location must be screened so it is not visible from any street view, and the form cannot be used on a landmark parcel or in a historic district. California's energy code adds independent field verification and diagnostic testing, with documentation required to close the permit.",
+      "why_it_matters": "A condenser change-out in Sacramento is not a cash-and-carry swap. Moving the outdoor unit out of a cramped side yard to somewhere easier to service triggers a screening requirement, and in the older designated districts near downtown the express exemption is off the table entirely. Field verification also means the finished job has to be tested, not just installed, which is worth knowing before anyone agrees to work with no permit.",
+      "sources": [
+        "https://www.cityofsacramento.gov/community-development/building/permit-services/required-permits.html",
+        "https://www.cityofsacramento.gov/content/dam/portal/cdd/Building/Forms/CDD-0035_Planning-Exemption-Form-Express.pdf",
+        "https://www.energy.ca.gov/programs-and-topics/programs/home-energy-rating-system-hers-program"
+      ],
+      "verified": "2026-08-21",
+      "title": "Change-outs need a city permit, and moving the condenser needs screening"
+    },
+    {
+      "id": "delta_breeze_swing",
+      "claim": "NOAA's 1991-2020 monthly normals for Sacramento Executive Airport give a July average high of 92.6F against a July average low of 59.2F, a daily swing of more than thirty degrees. NWS Sacramento attributes that evening cooling to the delta breeze, a sea breeze that pushes marine air inland through the Carquinez Strait, typically strengthening between about 2 and 4 p.m. Downtown Sacramento reached an all-time record 116F on September 6, 2022.",
+      "why_it_matters": "Overnight flushing by delta-breeze air masks weak cooling capacity for years: a system low on charge or short on airflow can still hold a house that starts each morning cool. The fault only shows during a stagnant, breezeless heat run, which is why calls cluster in the second week of a hot spell rather than the first. It also means the hottest indoor hours land inside SMUD's weekday 5-8 p.m. peak window, where summer power is priced at $0.3765 per kWh against $0.1550 off-peak, so an inefficient system runs longest when electricity costs the most.",
+      "sources": [
+        "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00023232&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL&format=json",
+        "https://www.weather.gov/media/aviation/CaseStudies/SACDeltaBreezeStratus_CaseStudy.pdf",
+        "https://www.smud.org/Rate-Information/Residential-rates"
+      ],
+      "verified": "2026-08-21",
+      "title": "Thirty-degree day-to-night swings hide a failing system until the breeze quits"
+    }
+  ],
+  "neighborhoods": [
+    "East Sacramento",
+    "Midtown",
+    "Land Park",
+    "Curtis Park",
+    "Oak Park",
+    "North Natomas"
+  ],
+  "symptoms": [
+    "ac_not_cooling",
+    "ac_blows_warm_air",
+    "ac_leaking_water",
+    "ac_wont_turn_on"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "delta_breeze_swing",
-   "claim": "NOAA's 1991-2020 monthly normals for Sacramento Executive Airport give a July average high of 92.6F against a July average low of 59.2F, a daily swing of more than thirty degrees. NWS Sacramento attributes that evening cooling to the delta breeze, a sea breeze that pushes marine air inland through the Carquinez Strait, typically strengthening between about 2 and 4 p.m. Downtown Sacramento reached an all-time record 116F on September 6, 2022.",
-   "why_it_matters": "Overnight flushing by delta-breeze air masks weak cooling capacity for years: a system low on charge or short on airflow can still hold a house that starts each morning cool. The fault only shows during a stagnant, breezeless heat run, which is why calls cluster in the second week of a hot spell rather than the first. It also means the hottest indoor hours land inside SMUD's weekday 5-8 p.m. peak window, where summer power is priced at $0.3765 per kWh against $0.1550 off-peak, so an inefficient system runs longest when electricity costs the most.",
-   "sources": [
-    "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00023232&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL&format=json",
-    "https://www.weather.gov/media/aviation/CaseStudies/SACDeltaBreezeStratus_CaseStudy.pdf",
-    "https://www.smud.org/Rate-Information/Residential-rates"
-   ],
-   "verified": "2026-08-21",
-   "title": "Thirty-degree day-to-night swings hide a failing system until the breeze quits"
+  "hero_accent": "Cool Air Restored Today",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "air-conditioner-repair",
+      "name": "Air Conditioner Repair",
+      "nav": "AC repair",
+      "h1": "Air Conditioner Repair",
+      "accent": "Cool Air Restored Fast",
+      "keyword": "air conditioner repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "ac-compressor-repair",
+      "name": "AC Compressor Repair",
+      "nav": "Compressor repair",
+      "h1": "AC Compressor Repair",
+      "accent": "Compressor Problems Diagnosed Clearly",
+      "keyword": "ac compressor repair",
+      "icon": "gear"
+    },
+    {
+      "slug": "ac-refrigerant-leak-repair",
+      "name": "AC Refrigerant Leak Repair",
+      "nav": "Refrigerant leaks",
+      "h1": "AC Refrigerant Leak Repair",
+      "accent": "Leaks Found and Cooling Restored",
+      "keyword": "ac refrigerant leak repair",
+      "icon": "search"
+    },
+    {
+      "slug": "ac-tune-up",
+      "name": "AC Tune-Up",
+      "nav": "AC tune-up",
+      "h1": "AC Tune-Up",
+      "accent": "Cooling Tuned for Reliable Comfort",
+      "keyword": "ac tune up",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "air-conditioner-repair",
+    "ac-refrigerant-leak-repair",
+    "air-conditioner-repair",
+    "ac-compressor-repair"
+  ],
+  "_market": {
+    "keyword": "ac repair sacramento",
+    "monthly_price": 1500,
+    "score": 73,
+    "volume": 900,
+    "cpc_usd": 20.0,
+    "weakest_competitor": "calljazz.com",
+    "competitor_dr": 22.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What the six common cooling jobs run in Sacramento",
+    "anchors": [
+      {
+        "label": "Mechanical permit, HVAC changeout",
+        "value": "$175",
+        "detail": "The city's flat specific-cost permit fee for HVAC work, plus an 8 percent technology surcharge, pulled by the contractor before a condenser or coil is swapped.",
+        "source_name": "City of Sacramento residential permit fee sheet CDD-0245",
+        "source_url": "https://www.cityofsacramento.gov/content/dam/portal/cdd/Building/Forms/CDD-0245_Fees-and-Charges-on-Residential-Bldg-Permits.pdf"
+      },
+      {
+        "label": "Median hourly wage, HVAC technicians",
+        "value": "$32.06",
+        "detail": "Median hourly pay for the 2,940 heating, air conditioning and refrigeration mechanics working in this metro, May 2025. Loaded labor on an invoice runs several times that.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_40900.htm"
+      },
+      {
+        "label": "Utility rebate, variable-stage heat pump",
+        "value": "$3,000",
+        "detail": "Paid on a gas-to-electric changeout done by a contractor in the utility's network, and only when the job passes Title 24 field verification on a CF3R form.",
+        "source_name": "SMUD heating and cooling rebate schedule",
+        "source_url": "https://www.smud.org/Rebates-and-Savings-Tips/Rebates-for-My-Home/Heating-and-Cooling-Rebates"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Diagnostic visit on a system that has quit cooling",
+        "low": 49,
+        "high": 250,
+        "basis": "per visit",
+        "note": "Weekday mornings sit low; evenings and peak heat runs sit high.",
+        "sources": [
+          {
+            "name": "Comfortable HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://comfortablehvacservices.com/blog/ac-repair-cost-sacramento"
+          },
+          {
+            "name": "A Cool Air, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://acoolair.com/our-prices-table/"
+          },
+          {
+            "name": "A-Class HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://a-classhvac.com/blog/ac-repair-cost-sacramento/"
+          }
+        ]
+      },
+      {
+        "job": "Capacitor or contactor replaced at the outdoor unit",
+        "low": 120,
+        "high": 475,
+        "basis": "flat",
+        "note": "Cheap part, quick job. Both parts together, or after hours, runs higher.",
+        "sources": [
+          {
+            "name": "Super Brothers, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://www.superbrothers.com/cities/sacramento/air-conditioning-repair/"
+          },
+          {
+            "name": "PRO MAX HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://www.promaxhvac.com/answers/ac-repair-cost-sacramento"
+          },
+          {
+            "name": "RK Mechanical, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://rkmechanicalairservices.com/ac-repair-cost-in-sacramento/"
+          },
+          {
+            "name": "Comfortable HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://comfortablehvacservices.com/blog/ac-repair-cost-sacramento"
+          }
+        ]
+      },
+      {
+        "job": "Condenser fan motor replaced",
+        "low": 200,
+        "high": 1200,
+        "basis": "flat",
+        "note": "An ECM motor and a tight side-yard condenser set the top.",
+        "sources": [
+          {
+            "name": "PRO MAX HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://www.promaxhvac.com/answers/ac-repair-cost-sacramento"
+          },
+          {
+            "name": "A-Class HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://a-classhvac.com/blog/ac-repair-cost-sacramento/"
+          },
+          {
+            "name": "A Cool Air, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://acoolair.com/our-prices-table/"
+          },
+          {
+            "name": "RK Mechanical, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://rkmechanicalairservices.com/ac-repair-cost-in-sacramento/"
+          }
+        ]
+      },
+      {
+        "job": "Refrigerant leak traced, repaired and the circuit recharged",
+        "low": 200,
+        "high": 1500,
+        "basis": "flat",
+        "note": "A valve core is cheap; detection, brazing and refrigerant reach the top.",
+        "sources": [
+          {
+            "name": "RK Mechanical, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://rkmechanicalairservices.com/ac-repair-cost-in-sacramento/"
+          },
+          {
+            "name": "A-Class HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://a-classhvac.com/blog/ac-repair-cost-sacramento/"
+          },
+          {
+            "name": "A Cool Air, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://acoolair.com/our-prices-table/"
+          },
+          {
+            "name": "Comfortable HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://comfortablehvacservices.com/blog/ac-repair-cost-sacramento"
+          }
+        ]
+      },
+      {
+        "job": "Evaporator coil replaced on a matched split system",
+        "low": 1000,
+        "high": 3782,
+        "basis": "per unit",
+        "note": "An attic coil costs more to reach than a cased garage coil.",
+        "sources": [
+          {
+            "name": "J.R. Putman, Rancho Cordova, posted price list, read 2026-08-23",
+            "url": "https://www.jrputman.com/air-conditioning/evaporator-coils/"
+          },
+          {
+            "name": "Alpha Mechanical, Folsom, posted price list, read 2026-08-23",
+            "url": "https://alphamechanicals.com/blog/evaporator-coil-replacement-cost-folsom"
+          },
+          {
+            "name": "A-Class HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://a-classhvac.com/blog/ac-repair-cost-sacramento/"
+          }
+        ]
+      },
+      {
+        "job": "Condenser and coil changeout, permitted and field verified",
+        "low": 6000,
+        "high": 25000,
+        "basis": "per unit",
+        "note": "Duct sealing, a new disconnect, permits and HERS testing push it upward.",
+        "sources": [
+          {
+            "name": "Cabs HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://www.cabshvac.com/air-conditioner-replacement-cost/"
+          },
+          {
+            "name": "River City Heating, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://rivercityheatingcooling.com/blog/ac-replacement-cost-sacramento-2026"
+          },
+          {
+            "name": "Bell Brothers, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://bellbroshvac.com/blog/how-much-does-ac-installation-cost-in-sacramento-what-youll-pay-in-2026/"
+          },
+          {
+            "name": "A-Class HVAC, Sacramento, posted price list, read 2026-08-23",
+            "url": "https://a-classhvac.com/blog/sacramento-hvac-cost-guide/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "East Sacramento",
-  "Midtown",
-  "Land Park",
-  "Curtis Park",
-  "Oak Park",
-  "North Natomas"
- ],
- "symptoms": [
-  "ac_not_cooling",
-  "ac_blows_warm_air",
-  "ac_leaking_water",
-  "ac_wont_turn_on"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Cool Air Restored Today",
- "trust_third": "Repair price quoted before work begins",
- "services": [
-  {
-   "slug": "air-conditioner-repair",
-   "name": "Air Conditioner Repair",
-   "nav": "AC repair",
-   "h1": "Air Conditioner Repair",
-   "accent": "Cool Air Restored Fast",
-   "keyword": "air conditioner repair",
-   "icon": "wrench"
-  },
-  {
-   "slug": "ac-compressor-repair",
-   "name": "AC Compressor Repair",
-   "nav": "Compressor repair",
-   "h1": "AC Compressor Repair",
-   "accent": "Compressor Problems Diagnosed Clearly",
-   "keyword": "ac compressor repair",
-   "icon": "gear"
-  },
-  {
-   "slug": "ac-refrigerant-leak-repair",
-   "name": "AC Refrigerant Leak Repair",
-   "nav": "Refrigerant leaks",
-   "h1": "AC Refrigerant Leak Repair",
-   "accent": "Leaks Found and Cooling Restored",
-   "keyword": "ac refrigerant leak repair",
-   "icon": "search"
-  },
-  {
-   "slug": "ac-tune-up",
-   "name": "AC Tune-Up",
-   "nav": "AC tune-up",
-   "h1": "AC Tune-Up",
-   "accent": "Cooling Tuned for Reliable Comfort",
-   "keyword": "ac tune up",
-   "icon": "check"
-  }
- ],
- "symptom_service": [
-  "air-conditioner-repair",
-  "ac-refrigerant-leak-repair",
-  "air-conditioner-repair",
-  "ac-compressor-repair"
- ],
- "_market": {
-  "keyword": "ac repair sacramento",
-  "monthly_price": 1500,
-  "score": 73,
-  "volume": 900,
-  "cpc_usd": 20.0,
-  "weakest_competitor": "calljazz.com",
-  "competitor_dr": 22.0
- }
 }

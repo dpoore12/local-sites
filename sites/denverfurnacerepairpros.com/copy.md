@@ -5,10 +5,10 @@
 - Write for Denver. Every block must have local detail that would be wrong or thin in another city.
   The build fails if any 15 consecutive words match another portfolio site.
 - Never promise a phone consultation. Describe the repair, arrival process and approved work instead.
-- Never name a business, a licence, a review count, a price or a number of years in business.
+- Never name a business, a license, a review count, a price or a number of years in business.
 - Home page lands 1,300-2,300 visible words. Each service page lands 900-1,500 visible words.
 - symptom_N blocks are 40-80 word teasers. The diagnostic depth belongs on the linked service page.
-- Use the existing local facts, neighbourhoods and source URLs; do not invent an operator or credentials.
+- Use the existing local facts, neighborhoods and source URLs; do not invent an operator or credentials.
 
 ---
 
@@ -387,3 +387,35 @@ Choose the furnace problem that best matches what the equipment is doing.
 ## crosslink_head
 
 Looking at a different furnace symptom?
+
+## pricing_lede
+
+Denver metro heating companies publish flat rate books, and the numbers below are theirs, part by part, next to the permit, license and rebate figures the city and the gas utility publish for themselves. It is market context for reading an estimate, not a quote.
+
+## pricing_body
+
+### The same part, four flat rates
+
+An igniter is an igniter. Yet the published flat rates for swapping one across this metro run from $150 at the low end of one company's range to $585 at the top of another's, and both companies are legitimate. The spread is not really about the part. It reflects whether the trip charge is folded in or billed separately, whether the shop stocks original manufacturer parts or universals, how long the labor warranty runs, and how far the truck drives. Reading a flat rate therefore means reading what it includes, because two identical dollar figures can describe very different obligations.
+
+The one comparison worth making across quotes is the treatment of the diagnostic. One company posts $60 when no repair follows and nothing when one does. Another credits $180 toward the work. Two more post $79 and $89 as flat visit fees. Ask which model applies before the truck is dispatched, and the rest of the estimate becomes readable.
+
+### A mile-high furnace is not a sea-level furnace
+
+Equipment nameplates are written for sea level, and at 5,280 feet the derating rules change both the input rating and, on many models, the pressure switch that has to be fitted. That has two consequences on this page. First, an oversized furnace short cycles, and short cycling is what puts igniters, inducers and boards into early graves, which is part of why part replacement calls cluster in older changeouts done on square footage alone. Second, arctic outbreaks here arrive every few winters and expose undersized ductwork and marginal combustion air the moment the furnace runs continuously for three days.
+
+### Permit arithmetic on a changeout
+
+Denver prices permits off declared valuation: $35 covers the first $2,000, then $8 for every additional $1,000. A $6,000 furnace replacement therefore carries a $67 permit, and because mechanical work falls in the quick permit category it is issued without a plan review charge on top. That is a small number against a five figure job, which is exactly why its absence from a bid is informative. The license behind it is not free either. Every mechanical license class costs $250 for three years and the supervisor certificate standing behind it another $60, and an outfit avoiding the permit is usually avoiding the license too.
+
+### After hours costs more, with the arithmetic shown
+
+One Denver company publishes the whole structure: a $175 minimum service charge after hours, a basic repair at $149 during the week and $250 after hours. Both charges apply on a night call, so the floor for a small after-hours fix is $425 before any part goes in, against $149 for the same fix on a weekday when the trip is covered by the repair. Another publishes an after-hours call of $150 to $250 with emergency labor of $140 to $210 an hour on top. The largest single variable on a minor repair in this market is not the part. It is the hour on the clock, which is worth knowing at eleven at night with a space heater running.
+
+### Where the pressure sits in this metro
+
+The rebate structure creates it. Xcel pays $300 on a 95 percent AFUE or better furnace, and only when the unit coming out is non-condensing at 86 percent AFUE or below, so there is a standing incentive to frame any repair on an older 80 percent furnace as a replacement decision. Sometimes that is right. It is right on a cracked exchanger, a failed exchanger on a twenty year old cabinet, or a third major part in two seasons. It is not right on a $500 board failure in a twelve year old condensing furnace, and a rebate does not change that. Ask for the carbon monoxide reading in parts per million and a photograph of the crack before signing anything that starts with removal.
+
+### What the online average leaves out
+
+Chimney liner work when a condensing furnace orphans the water heater on an oversized masonry flue, return duct that was never sized for a modern blower, a dedicated circuit, condensate protection in an unconditioned crawlspace, sidewall venting through a brick 1950s wall, and the permit and inspection. On the repair side it leaves out the second failure the first one caused, which is the usual reason a job that was quoted mid range lands at the top of it.

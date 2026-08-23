@@ -81,6 +81,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What Alabama and the federal carrier rules fix in a Jefferson County truck claim",
+  "col_a": "What is being measured",
+  "col_b": "The published figure",
+  "anchors": [
+   {
+    "label": "Complaint over $50,000, Jefferson County Circuit Court",
+    "value": "$351",
+    "detail": "The clerk's civil filing fee for one plaintiff against one defendant above fifty thousand dollars, with ten dollars for each additional defendant.",
+    "source_name": "Jefferson County Circuit Court, Civil Division filing fees",
+    "source_url": "https://jefferson.alacourt.gov/filing-fees/filing-fees-circuit-civil-cases/"
+   },
+   {
+    "label": "Federal liability insurance floor for an interstate truck",
+    "value": "$750,000 to $5 million",
+    "detail": "Seven hundred fifty thousand for nonhazardous freight, one million for oil and most hazardous materials, five million for bulk hazardous substances.",
+    "source_name": "49 C.F.R. 387.9, Table 1",
+    "source_url": "https://www.law.cornell.edu/cfr/text/49/387.9"
+   },
+   {
+    "label": "Percentage cap Alabama places on an injury fee",
+    "value": "None",
+    "detail": "Alabama's rule bars a clearly excessive fee and lists nine factors for judging one, among them whether a written agreement was signed by the client.",
+    "source_name": "Ala. R. Prof. Conduct 1.5(a)",
+    "source_url": "https://judicial.alabama.gov/docs/library/rules/cond1_5.pdf"
+   },
+   {
+    "label": "Demanding a jury in a Jefferson County civil case",
+    "value": "$100",
+    "detail": "A separate statutory line item, charged on top of the docket fee when a party asks for a jury rather than a bench trial.",
+    "source_name": "Ala. Code 12-19-71(a)(13), Jefferson County fee distribution chart",
+    "source_url": "https://www.alacourt.gov/docs/Jefferson-Birmingham.pdf"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "Workers' compensation, the one capped percentage",
+    "share": "15%",
+    "note": "A judge fixes the plaintiff's attorney fee in a compensation case and it cannot exceed fifteen percent of the compensation awarded or paid.",
+    "source_name": "Ala. Code 25-5-90(a)",
+    "source_url": "https://law.justia.com/codes/alabama/title-25/chapter-5/article-3/section-25-5-90/"
+   },
+   {
+    "stage": "What a contingent agreement must contain",
+    "share": "Writing, then a closing statement",
+    "note": "The method of computing the fee, the percentages on settlement, trial and appeal, and the expenses deducted, plus a written accounting at the end.",
+    "source_name": "Ala. R. Prof. Conduct 1.5(c)",
+    "source_url": "https://judicial.alabama.gov/docs/library/rules/cond1_5.pdf"
+   },
+   {
+    "stage": "Where Alabama forbids a contingent fee",
+    "share": "Divorce and criminal defense",
+    "note": "A fee turning on securing a divorce, on alimony, support or a property settlement in lieu of it, and any fee for defending a criminal case.",
+    "source_name": "Ala. R. Prof. Conduct 1.5(d)",
+    "source_url": "https://judicial.alabama.gov/docs/library/rules/cond1_5.pdf"
+   },
+   {
+    "stage": "Smaller claim, and getting the truck driver served",
+    "share": "$251, plus $10",
+    "note": "The civil docket fee up to fifty thousand dollars, and ten dollars for every document the Jefferson County Sheriff's Department serves.",
+    "source_name": "Jefferson County Circuit Court, Civil Division filing fees",
+    "source_url": "https://jefferson.alacourt.gov/filing-fees/filing-fees-circuit-civil-cases/"
+   },
+   {
+    "stage": "The motion a carrier's insurer files",
+    "share": "$50",
+    "note": "Judgment on the pleadings, default judgment or summary judgment each carry the same statutory motion fee in circuit court.",
+    "source_name": "Ala. Code 12-19-71(a)(10), Jefferson County fee distribution chart",
+    "source_url": "https://www.alacourt.gov/docs/Jefferson-Birmingham.pdf"
+   },
+   {
+    "stage": "The lawyer's claim against a judgment",
+    "share": "Ahead of everything but taxes",
+    "note": "On actions and judgments for money the fee lien ranks above all liens except tax liens, and it attaches only once the defendant is served.",
+    "source_name": "Ala. Code 34-3-61(b) and (d)",
+    "source_url": "https://law.justia.com/codes/alabama/title-34/chapter-3/article-3/section-34-3-61/"
+   }
+  ]
+ },
  "hero_accent": "Why Truck Claims Are Different",
  "trust_third": "Carrier rules and evidence deadlines, spelled out",
  "services": [

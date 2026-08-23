@@ -1,139 +1,220 @@
 {
- "domain": "jacksonvillewrongfuldeathlawyerpros.com",
- "phase": 1,
- "brand": "Jacksonville Wrongful Death Law Pros",
- "service": "Wrongful Death Lawyer",
- "service_inline": "wrongful death lawyer",
- "city": "Jacksonville",
- "state": "FL",
- "state_full": "Florida",
- "counties": [
-  "Duval",
-  "Saint Johns"
- ],
- "area_codes": [
-  "904"
- ],
- "phone_display": "(904) 663-0155",
- "phone_tel": "+19046630155",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "personal_representative",
-   "title": "One representative brings the action",
-   "claim": "Florida Statute section 768.20 requires the decedent’s personal representative to bring the wrongful death action for the benefit of the survivors and estate. Section 768.18 defines survivors as a spouse, children, parents, and, when partly or wholly dependent on the decedent for support or services, certain blood relatives and adopted siblings.",
-   "why_it_matters": "A Jacksonville family does not each file a separate wrongful death lawsuit. Identifying the estate representative and all possible statutory survivors comes before assumptions about who can sign, settle, or speak for the claim.",
-   "sources": [
-    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.20.html",
-    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.18.html"
-   ],
-   "verified": "2026-08-22"
+  "domain": "jacksonvillewrongfuldeathlawyerpros.com",
+  "phase": 1,
+  "brand": "Jacksonville Wrongful Death Law Pros",
+  "service": "Wrongful Death Lawyer",
+  "service_inline": "wrongful death lawyer",
+  "city": "Jacksonville",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Duval",
+    "Saint Johns"
+  ],
+  "area_codes": [
+    "904"
+  ],
+  "phone_display": "(904) 663-0155",
+  "phone_tel": "+19046630155",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "two_year_deadline",
-   "title": "Florida’s ordinary filing deadline",
-   "claim": "Florida Statute section 95.11(5)(e) places an action for wrongful death in the two-year limitations period. The statute also contains a separate provision for certain intentional torts resulting in death.",
-   "why_it_matters": "The death date needs to be preserved early. The ordinary two-year period is important, but related claims and the facts of a particular death can require a more specific legal review.",
-   "sources": [
-    "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.11.html"
-   ],
-   "verified": "2026-08-22"
+  "local_facts": [
+    {
+      "id": "personal_representative",
+      "title": "One representative brings the action",
+      "claim": "Florida Statute section 768.20 requires the decedent’s personal representative to bring the wrongful death action for the benefit of the survivors and estate. Section 768.18 defines survivors as a spouse, children, parents, and, when partly or wholly dependent on the decedent for support or services, certain blood relatives and adopted siblings.",
+      "why_it_matters": "A Jacksonville family does not each file a separate wrongful death lawsuit. Identifying the estate representative and all possible statutory survivors comes before assumptions about who can sign, settle, or speak for the claim.",
+      "sources": [
+        "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.20.html",
+        "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/Sections/0768.18.html"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "two_year_deadline",
+      "title": "Florida’s ordinary filing deadline",
+      "claim": "Florida Statute section 95.11(5)(e) places an action for wrongful death in the two-year limitations period. The statute also contains a separate provision for certain intentional torts resulting in death.",
+      "why_it_matters": "The death date needs to be preserved early. The ordinary two-year period is important, but related claims and the facts of a particular death can require a more specific legal review.",
+      "sources": [
+        "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.11.html"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "fourth_judicial_circuit",
+      "title": "Duval County’s circuit court",
+      "claim": "Duval County is served by Florida’s Fourth Judicial Circuit. The circuit lists the Duval County Courthouse at 501 West Adams Street in Jacksonville and serves Clay, Duval, and Nassau Counties.",
+      "why_it_matters": "A Jacksonville family may encounter probate and civil court questions in the Fourth Judicial Circuit. The court location is useful local context, while the proper venue for a particular action depends on its facts.",
+      "sources": [
+        "https://www.jud4.org/news/2021-03-30-welcome-to-the-official-website-of-the-4th-judicial-circuit-court"
+      ],
+      "verified": "2026-08-22"
+    }
+  ],
+  "neighborhoods": [
+    "Riverside",
+    "Avondale",
+    "San Marco",
+    "Springfield",
+    "Mandarin",
+    "Arlington"
+  ],
+  "symptoms": [
+    "fatal_car_crash",
+    "fatal_workplace_accident",
+    "death_after_medical_care",
+    "family_needs_claim_guidance"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "fourth_judicial_circuit",
-   "title": "Duval County’s circuit court",
-   "claim": "Duval County is served by Florida’s Fourth Judicial Circuit. The circuit lists the Duval County Courthouse at 501 West Adams Street in Jacksonville and serves Clay, Duval, and Nassau Counties.",
-   "why_it_matters": "A Jacksonville family may encounter probate and civil court questions in the Fourth Judicial Circuit. The court location is useful local context, while the proper venue for a particular action depends on its facts.",
-   "sources": [
-    "https://www.jud4.org/news/2021-03-30-welcome-to-the-official-website-of-the-4th-judicial-circuit-court"
-   ],
-   "verified": "2026-08-22"
+  "hero_accent": "Who Can File, And By When",
+  "trust_third": "Who may bring a claim, spelled out",
+  "services": [
+    {
+      "slug": "fatal-car-accident-claim",
+      "name": "Fatal Car Accident Claims",
+      "nav": "Fatal car accidents",
+      "h1": "Fatal Car Accident Claim Lawyer",
+      "accent": "Evidence, Liability and Loss Claims",
+      "keyword": "fatal car accident lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "fatal-work-accident-claim",
+      "name": "Fatal Work Accident Claims",
+      "nav": "Fatal work accidents",
+      "h1": "Fatal Work Accident Claim Lawyer",
+      "accent": "Workplace Records and Liability Questions",
+      "keyword": "fatal work accident lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "medical-negligence-death-claim",
+      "name": "Medical Negligence Death Claims",
+      "nav": "Medical negligence",
+      "h1": "Medical Negligence Death Claim Lawyer",
+      "accent": "Records, Care and Causation Review",
+      "keyword": "medical negligence death lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "wrongful-death-damages-claim",
+      "name": "Wrongful Death Damages",
+      "nav": "Damages claims",
+      "h1": "Wrongful Death Damages Lawyer",
+      "accent": "Losses, Dependents and Claim Terms",
+      "keyword": "wrongful death damages lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "fatal-car-accident-claim",
+    "fatal-work-accident-claim",
+    "medical-negligence-death-claim",
+    "wrongful-death-damages-claim"
+  ],
+  "_market": {
+    "keyword": "jacksonville wrongful death lawyer",
+    "monthly_price": 500,
+    "score": 67,
+    "volume": 250,
+    "cpc_usd": 55.0,
+    "weakest_competitor": "bencrump.com",
+    "competitor_dr": 67.0
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "The sliding fee schedule Florida actually publishes for a Duval County death claim, tier by tier",
+    "col_a": "What it covers",
+    "col_b": "What Florida sets",
+    "anchors": [
+      {
+        "label": "Presumed limit on the first $1 million, settled before an answer",
+        "value": "33 1/3 percent",
+        "detail": "Rule 4-1.5(f)(4)(B)(i)a.1 makes a fee above this presumptively excessive when the case resolves before an answer is filed.",
+        "source_name": "Fla. Bar Rule 4-1.5(f)(4)(B)(i)a",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "label": "Circuit civil filing fee, Duval County Clerk",
+        "value": "$401",
+        "detail": "The standard fee to open a circuit civil case, with $10 for each summons issued and $2.50 per defendant past five.",
+        "source_name": "Duval County Clerk of Courts fee schedules",
+        "source_url": "https://www.duvalclerk.com/about/fee-schedules"
+      },
+      {
+        "label": "Formal administration of an estate, Duval County Clerk",
+        "value": "$401",
+        "detail": "Needed because the personal representative, not the family, files the death claim; guardianship of the property is $400.",
+        "source_name": "Duval County Clerk of Courts probate and guardianship fees",
+        "source_url": "https://www.duvalclerk.com/about/fee-schedules"
+      },
+      {
+        "label": "Net settlement to a child that forces a property guardianship",
+        "value": "Over $15,000",
+        "detail": "Section 744.387 lets a natural guardian settle up to that figure without bond and requires a guardian of the property above it.",
+        "source_name": "Fla. Stat. 744.387(2) and (3)(b)",
+        "source_url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0744/Sections/0744.387.html"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Resolved before an answer or arbitration demand",
+        "share": "33 1/3, 30, 20 percent",
+        "note": "One third of the first million dollars, 30 percent of the next million, and 20 percent of anything above two million.",
+        "source_name": "Fla. Bar Rule 4-1.5(f)(4)(B)(i)a",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "After the answer, through entry of judgment",
+        "share": "40, 30, 20 percent",
+        "note": "The first tier rises to 40 percent of the first million once an answer or arbitration demand is filed; later tiers hold.",
+        "source_name": "Fla. Bar Rule 4-1.5(f)(4)(B)(i)b",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "All defendants admit liability, damages tried alone",
+        "share": "33 1/3, 20, 15 percent",
+        "note": "Where liability is conceded in the answers and only damages go to trial, the upper tiers drop to 20 and 15 percent.",
+        "source_name": "Fla. Bar Rule 4-1.5(f)(4)(B)(i)c",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "Appeal, postjudgment relief or collection",
+        "share": "Additional 5 percent",
+        "note": "Five percentage points may be added to any recovery obtained after an appellate proceeding or postjudgment action becomes necessary.",
+        "source_name": "Fla. Bar Rule 4-1.5(f)(4)(B)(i)d",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "Going above the schedule",
+        "share": "Court approval",
+        "note": "A client who cannot retain chosen counsel within these limits may petition the court to approve the contract under subdivision (f)(4)(B)(ii).",
+        "source_name": "Fla. Bar Rule 4-1.5(f)(4)(B)(ii)",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "How the fee comes out of a death recovery",
+        "share": "Pro rata by award",
+        "note": "Section 768.26 has the personal representative pay fees and expenses, deducted from each survivor's and the estate's award in proportion.",
+        "source_name": "Fla. Stat. 768.26",
+        "source_url": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0700-0799/0768/Sections/0768.26.html"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Riverside",
-  "Avondale",
-  "San Marco",
-  "Springfield",
-  "Mandarin",
-  "Arlington"
- ],
- "symptoms": [
-  "fatal_car_crash",
-  "fatal_workplace_accident",
-  "death_after_medical_care",
-  "family_needs_claim_guidance"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Who Can File, And By When",
- "trust_third": "Who may bring a claim, spelled out",
- "services": [
-  {
-   "slug": "fatal-car-accident-claim",
-   "name": "Fatal Car Accident Claims",
-   "nav": "Fatal car accidents",
-   "h1": "Fatal Car Accident Claim Lawyer",
-   "accent": "Evidence, Liability and Loss Claims",
-   "keyword": "fatal car accident lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "fatal-work-accident-claim",
-   "name": "Fatal Work Accident Claims",
-   "nav": "Fatal work accidents",
-   "h1": "Fatal Work Accident Claim Lawyer",
-   "accent": "Workplace Records and Liability Questions",
-   "keyword": "fatal work accident lawyer",
-   "icon": "gear"
-  },
-  {
-   "slug": "medical-negligence-death-claim",
-   "name": "Medical Negligence Death Claims",
-   "nav": "Medical negligence",
-   "h1": "Medical Negligence Death Claim Lawyer",
-   "accent": "Records, Care and Causation Review",
-   "keyword": "medical negligence death lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "wrongful-death-damages-claim",
-   "name": "Wrongful Death Damages",
-   "nav": "Damages claims",
-   "h1": "Wrongful Death Damages Lawyer",
-   "accent": "Losses, Dependents and Claim Terms",
-   "keyword": "wrongful death damages lawyer",
-   "icon": "check"
-  }
- ],
- "symptom_service": [
-  "fatal-car-accident-claim",
-  "fatal-work-accident-claim",
-  "medical-negligence-death-claim",
-  "wrongful-death-damages-claim"
- ],
- "_market": {
-  "keyword": "jacksonville wrongful death lawyer",
-  "monthly_price": 500,
-  "score": 67,
-  "volume": 250,
-  "cpc_usd": 55.0,
-  "weakest_competitor": "bencrump.com",
-  "competitor_dr": 67.0
- }
 }

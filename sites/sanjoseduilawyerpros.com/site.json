@@ -1,138 +1,219 @@
 {
- "domain": "sanjoseduilawyerpros.com",
- "phase": 1,
- "brand": "San Jose DUI Law Pros",
- "service": "DUI Lawyer",
- "service_inline": "dui lawyer",
- "city": "San Jose",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Santa Clara"
- ],
- "area_codes": [
-  "408",
-  "669"
- ],
- "phone_display": "(408) 745-4909",
- "phone_tel": "+14087454909",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-   {
-     "id": "dmv_aps_track",
-     "claim": "California DMV describes Administrative Per Se as an immediate action against driving privilege only. DMV says its sanctions are independent of court-imposed criminal penalties, and a person has the right to request a hearing within 10 days of receiving a suspension or revocation order.",
-     "why_it_matters": "A San Jose DUI arrest can create a DMV licensing matter before the criminal case progresses. The hearing request and the court appearance must be treated as separate jobs, because waiting on the criminal calendar can cost the chance to contest the DMV action.",
-     "sources": [
-       "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/"
-     ],
-     "verified": "2026-08-22",
-     "title": "The DMV case is a separate track with its own deadline"
-   },
-   {
-     "id": "hall_of_justice_venue",
-     "claim": "Santa Clara County Superior Court lists the Hall of Justice at 190 West Hedding Street in San Jose as the criminal courthouse handling matters for San Jose, Milpitas, Los Gatos, Saratoga, Monte Sereno, and Santa Clara.",
-     "why_it_matters": "For a San Jose criminal DUI case, the court notice must be checked against the local criminal venue, department, and appearance date. A DMV hearing is separate from this court process, so one notice never replaces the other.",
-     "sources": [
-       "https://santaclara.courts.ca.gov/divisions/criminal-division/criminal-case-records"
-     ],
-     "verified": "2026-08-22",
-     "title": "San Jose criminal cases have a specific Santa Clara County venue"
-   },
-   {
-     "id": "county_alcohol_crashes_2023",
-     "claim": "The California Office of Traffic Safety recorded 8,745 people killed or injured in fatal-and-injury crashes in Santa Clara County in 2023, including 1,030 in alcohol-involved collisions.",
-     "why_it_matters": "A DUI accusation can arise from a routine stop or a collision, and a collision creates a wider evidence record. Vehicle damage, scene documentation, dispatch audio, witnesses, medical records, and test records may all require prompt review alongside the DMV action.",
-     "sources": [
-       "https://www.ots.ca.gov/rankings/santa-clara-county-2023/"
-     ],
-     "verified": "2026-08-22",
-     "title": "Alcohol-involved crashes are a documented Santa Clara County issue"
-   }
- ],
- "neighborhoods": [
-  "Downtown",
-  "Japantown",
-  "Willow Glen",
-  "Alum Rock",
-  "Berryessa",
-  "Evergreen"
-],
- "symptoms": [
-  "first_dui_arrest",
-  "license_suspension_notice",
-  "failed_breath_test",
-  "multiple_dui_charge"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Protect Your License and Record",
- "trust_third": "Charges, deadlines, and options explained clearly",
- "services": [
-  {
-   "slug": "first-offense-dui-defense",
-   "name": "First-Offense DUI Defense",
-   "nav": "First offense DUI",
-   "h1": "First-Offense DUI Lawyer",
-   "accent": "Charges, Deadlines and Defense Options",
-   "keyword": "first offense dui lawyer",
-   "icon": "warn"
+  "domain": "sanjoseduilawyerpros.com",
+  "phase": 1,
+  "brand": "San Jose DUI Law Pros",
+  "service": "DUI Lawyer",
+  "service_inline": "dui lawyer",
+  "city": "San Jose",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Santa Clara"
+  ],
+  "area_codes": [
+    "408",
+    "669"
+  ],
+  "phone_display": "(408) 745-4909",
+  "phone_tel": "+14087454909",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "dui-license-suspension",
-   "name": "License Suspension Defense",
-   "nav": "License suspension",
-   "h1": "DUI License Suspension Lawyer",
-   "accent": "Hearing Deadlines and Driving Privileges",
-   "keyword": "dui license suspension lawyer",
-   "icon": "pin"
+  "local_facts": [
+    {
+      "id": "dmv_aps_track",
+      "claim": "California DMV describes Administrative Per Se as an immediate action against driving privilege only. DMV says its sanctions are independent of court-imposed criminal penalties, and a person has the right to request a hearing within 10 days of receiving a suspension or revocation order.",
+      "why_it_matters": "A San Jose DUI arrest can create a DMV licensing matter before the criminal case progresses. The hearing request and the court appearance must be treated as separate jobs, because waiting on the criminal calendar can cost the chance to contest the DMV action.",
+      "sources": [
+        "https://www.dmv.ca.gov/portal/driver-education-and-safety/dmv-safety-guidelines-actions/driving-under-the-influence/"
+      ],
+      "verified": "2026-08-22",
+      "title": "The DMV case is a separate track with its own deadline"
+    },
+    {
+      "id": "hall_of_justice_venue",
+      "claim": "Santa Clara County Superior Court lists the Hall of Justice at 190 West Hedding Street in San Jose as the criminal courthouse handling matters for San Jose, Milpitas, Los Gatos, Saratoga, Monte Sereno, and Santa Clara.",
+      "why_it_matters": "For a San Jose criminal DUI case, the court notice must be checked against the local criminal venue, department, and appearance date. A DMV hearing is separate from this court process, so one notice never replaces the other.",
+      "sources": [
+        "https://santaclara.courts.ca.gov/divisions/criminal-division/criminal-case-records"
+      ],
+      "verified": "2026-08-22",
+      "title": "San Jose criminal cases have a specific Santa Clara County venue"
+    },
+    {
+      "id": "county_alcohol_crashes_2023",
+      "claim": "The California Office of Traffic Safety recorded 8,745 people killed or injured in fatal-and-injury crashes in Santa Clara County in 2023, including 1,030 in alcohol-involved collisions.",
+      "why_it_matters": "A DUI accusation can arise from a routine stop or a collision, and a collision creates a wider evidence record. Vehicle damage, scene documentation, dispatch audio, witnesses, medical records, and test records may all require prompt review alongside the DMV action.",
+      "sources": [
+        "https://www.ots.ca.gov/rankings/santa-clara-county-2023/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Alcohol-involved crashes are a documented Santa Clara County issue"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown",
+    "Japantown",
+    "Willow Glen",
+    "Alum Rock",
+    "Berryessa",
+    "Evergreen"
+  ],
+  "symptoms": [
+    "first_dui_arrest",
+    "license_suspension_notice",
+    "failed_breath_test",
+    "multiple_dui_charge"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "dui-breath-test-defense",
-   "name": "Breath Test Defense",
-   "nav": "Breath test defense",
-   "h1": "DUI Breath Test Defense Lawyer",
-   "accent": "Testing Process and Evidence Review",
-   "keyword": "dui breath test lawyer",
-   "icon": "search"
+  "hero_accent": "Protect Your License and Record",
+  "trust_third": "Charges, deadlines, and options explained clearly",
+  "services": [
+    {
+      "slug": "first-offense-dui-defense",
+      "name": "First-Offense DUI Defense",
+      "nav": "First offense DUI",
+      "h1": "First-Offense DUI Lawyer",
+      "accent": "Charges, Deadlines and Defense Options",
+      "keyword": "first offense dui lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "dui-license-suspension",
+      "name": "License Suspension Defense",
+      "nav": "License suspension",
+      "h1": "DUI License Suspension Lawyer",
+      "accent": "Hearing Deadlines and Driving Privileges",
+      "keyword": "dui license suspension lawyer",
+      "icon": "pin"
+    },
+    {
+      "slug": "dui-breath-test-defense",
+      "name": "Breath Test Defense",
+      "nav": "Breath test defense",
+      "h1": "DUI Breath Test Defense Lawyer",
+      "accent": "Testing Process and Evidence Review",
+      "keyword": "dui breath test lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "felony-dui-defense",
+      "name": "Felony DUI Defense",
+      "nav": "Felony DUI",
+      "h1": "Felony DUI Lawyer",
+      "accent": "Serious Charges and Case Stages",
+      "keyword": "felony dui lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "first-offense-dui-defense",
+    "dui-license-suspension",
+    "dui-breath-test-defense",
+    "felony-dui-defense"
+  ],
+  "_market": {
+    "keyword": "san jose dui lawyer",
+    "monthly_price": 500,
+    "score": 88,
+    "volume": 500,
+    "cpc_usd": 20.0,
+    "weakest_competitor": "sjdefender.com",
+    "competitor_dr": 3.2
   },
-  {
-   "slug": "felony-dui-defense",
-   "name": "Felony DUI Defense",
-   "nav": "Felony DUI",
-   "h1": "Felony DUI Lawyer",
-   "accent": "Serious Charges and Case Stages",
-   "keyword": "felony dui lawyer",
-   "icon": "bolt"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "criminal",
+    "table_head": "Amounts fixed by California statute and by the Santa Clara County courts in a San Jose DUI case",
+    "col_a": "Item",
+    "col_b": "Amount the law fixes",
+    "anchors": [
+      {
+        "label": "Bail, DUI with no priors and a result under 0.15",
+        "value": "$5,000",
+        "detail": "The Santa Clara County 2026 Criminal Bail Schedule lists this figure for Vehicle Code 23152(a) through (e) with no priors, and doubles it to $10,000 once the alcohol level reaches 0.15.",
+        "source_name": "Santa Clara County 2026 Criminal Bail Schedule",
+        "source_url": "https://santaclara.courts.ca.gov/system/files/criminal/2026-criminal-bail-schedule.pdf"
+      },
+      {
+        "label": "County penalty assessment, Santa Clara County",
+        "value": "$5.50 per $10 of fine",
+        "detail": "Government Code section 76000(a)(1) levies $7 for every $10 of fine statewide, then lists a per-county figure in the body of the section. Santa Clara County appears at $5.50, which is 21 cents above the Orange County entry.",
+        "source_name": "Cal. Gov. Code 76000(a)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=76000"
+      },
+      {
+        "label": "License reissue after a refusal or excessive-alcohol suspension",
+        "value": "$125",
+        "detail": "Vehicle Code section 14905(a) requires this payment to the department before a license comes back after a suspension imposed under section 13353 or 13353.2, to fund administration of those programs.",
+        "source_name": "Cal. Veh. Code 14905(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=14905"
+      },
+      {
+        "label": "Interlock cost share at or below the poverty line",
+        "value": "10 percent",
+        "detail": "Under Vehicle Code section 23575.3(k), a driver at 100 percent of the federal poverty level or below who provides income verification is responsible for that fraction of the manufacturer's standard program cost, rising to 25, 50 and 90 percent at higher income bands.",
+        "source_name": "Cal. Veh. Code 23575.3(k)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23575.3"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Charging a share of the result",
+        "share": "Not allowed in a criminal case",
+        "note": "Rule 1.5(c)(2) prohibits a contingent fee for representing a criminal defendant. Rule 1.5(a) separately bars an unconscionable or illegal fee of any structure.",
+        "source_name": "Cal. Rules of Prof. Conduct 1.5",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "Fine on a probationary first-offense sentence",
+        "share": "$390 minimum, $1,000 maximum",
+        "note": "Section 23538(a)(1) sets that range where the court grants probation, and it is the base figure every proportional assessment is calculated from.",
+        "source_name": "Cal. Veh. Code 23538(a)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23538"
+      },
+      {
+        "stage": "Second conviction within ten years",
+        "share": "$390 to $1,000 fine, 90 days to one year in jail",
+        "note": "Section 23540 keeps the same fine range as a first offense but raises the custody exposure sharply, which is why the fine is a poor guide to severity.",
+        "source_name": "Cal. Veh. Code 23540(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23540"
+      },
+      {
+        "stage": "Court operations assessment",
+        "share": "$40 per conviction",
+        "note": "A flat charge imposed on every criminal conviction, including a Vehicle Code offense, and collected separately from any fine or penalty.",
+        "source_name": "Cal. Penal Code 1465.8(a)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=1465.8"
+      },
+      {
+        "stage": "State-only DNA identification penalty",
+        "share": "$4 per $10 of fine",
+        "note": "Levied in addition to the $1 per $10 penalty in section 76104.6, on every fine a court collects for a criminal offense.",
+        "source_name": "Cal. Gov. Code 76104.7(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=76104.7"
+      },
+      {
+        "stage": "Department of Motor Vehicles reissue charges",
+        "share": "$55 DUI reissue, plus a $15 administrative service fee",
+        "note": "Both appear on the published licensing fee schedule, alongside $15 to add and $20 to remove a court restriction for a second offender.",
+        "source_name": "California DMV licensing fees",
+        "source_url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/licensing-fees/"
+      }
+    ]
   }
- ],
- "symptom_service": [
-  "first-offense-dui-defense",
-  "dui-license-suspension",
-  "dui-breath-test-defense",
-  "felony-dui-defense"
- ],
- "_market": {
-  "keyword": "san jose dui lawyer",
-  "monthly_price": 500,
-  "score": 88,
-  "volume": 500,
-  "cpc_usd": 20.0,
-  "weakest_competitor": "sjdefender.com",
-  "competitor_dr": 3.2
- }
 }

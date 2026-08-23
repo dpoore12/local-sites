@@ -277,3 +277,43 @@ Four things worth preserving now
 ## emergency_note
 
 Get emergency help first if anyone may be seriously hurt or the scene is unsafe. Otherwise, preserve the report number, photos, medical paperwork, and insurance documents; do not sign a release before you understand what it covers.
+
+## pricing_lede
+
+California puts no number on what pursuing a crash claim is worth to the lawyer who handles it. It does fix the standard a fee has to survive, the contract that has to exist before anyone signs, and the court and lien amounts that read the same for every plaintiff filing in Monterey County.
+
+## pricing_body
+
+### The governing rule never names a percentage
+
+Rule 1.5(a) of the California Rules of Professional Conduct runs one sentence: a lawyer shall not make an agreement for, charge, or collect an unconscionable or illegal fee. Behind it sits no schedule of permitted percentages. Rule 1.5(b) supplies thirteen factors for measuring a fee instead, and they read like an audit rather than a price list: whether there was overreaching in setting the fee, whether material facts were withheld, the amount of the fee in proportion to the value of the services actually performed, the relative sophistication of the two sides, the difficulty of the questions, the amount involved and the result reached, the time and labor spent, whether the fee is fixed or contingent, and whether the client gave informed consent to it.
+
+Two things follow. Any percentage stated as "the California rate" is somebody's practice, not law. And the review looks backward, at the facts as they stood when the agreement was signed.
+
+### The one corner where California does cap a percentage
+
+Business and Professions Code section 6146 caps a contingency fee in an action against a health care provider for professional negligence: twenty-five percent of the amount recovered where the claim resolves by settlement and release before a civil complaint or an arbitration demand is filed, thirty-three percent where it resolves after that point, and anything higher only if the court or arbitrator grants a motion supported by evidence of good cause. The statute also defines what "recovered" means: the net sum after disbursements and costs, with the injured person's own medical bills and the lawyer's office overhead excluded from that deduction.
+
+That ceiling belongs to malpractice claims. A rear-end impact at Boronda Road, a left-turn collision off North Main Street, a farm truck that pulls onto Highway 101 without clearance -- all ordinary negligence, none of them governed by section 6146. Anyone reciting the twenty-five and thirty-three percent figures for a car crash has picked up the wrong statute.
+
+### Section 6147 decides what has to be on paper
+
+For any contingency arrangement, section 6147(a) requires a written contract, signed by both sides, with a duplicate copy handed to the plaintiff at the moment it is entered into. Four things have to appear in it: the rate agreed on, how disbursements and costs will affect both the fee and the client's share, the extent to which the client could owe compensation for related matters outside the contract, and, in every case that section 6146 does not reach, a statement that the fee is not set by law but is negotiable between attorney and client. Section 6147(b) supplies the consequence: a contract missing any of that is voidable at the plaintiff's option, and the lawyer is then left with a reasonable fee rather than the bargain.
+
+### Costs are the other half of the arithmetic
+
+Costs are money that leaves the file and goes to third parties. Code of Civil Procedure section 1033.5 sets out which of them a winning party can recover: filing, motion and jury fees, deposition transcripts and video, service of process, court-ordered expert fees, statutory court reporter fees, exhibit enlargements that helped the trier of fact. It also names what a prevailing party cannot recover -- experts the court never ordered, investigation expenses, postage, telephone and photocopying outside exhibits.
+
+The court amounts in Monterey County are public. A complaint pleading more than $35,000 is an unlimited civil case at $435; below that line it is limited civil at $370, or $225 where the claim stays under $10,000. Every paper requiring a hearing costs $60, a summary judgment motion $500, court reporting for a hearing of an hour or less $30, and the advance jury fee $150. A case designated complex adds $1,000 for the plaintiffs and $1,000 for each defendant, capped at $18,000.
+
+### The order of subtraction changes the answer
+
+Two agreements with the same percentage can hand a client different amounts. Compute the fee on the gross and then subtract costs, and the fee is calculated on money that was never available to anyone. Subtract costs first and compute the fee on the remainder, and the client keeps the percentage of that cost total. Section 6147 requires the contract to state which way it works, which is the point of the requirement. Ask for the sentence, and ask who advances a $3,000 expert retainer if the file needs one.
+
+### What comes off the top besides the fee
+
+Civil Code section 3040 limits a health plan or medical group reimbursement lien to what the plan actually paid providers, and then, where the injured person engaged a lawyer, to no more than one-third of the money due under the judgment or settlement. It further requires pro rata reduction for the attorney fees and costs that produced the fund, and reduction by the same comparative-fault percentage the recovery was cut by. Hospital liens, Medi-Cal recovery and workers' compensation claims run under separate provisions, so the one-third figure is not universal.
+
+### Questions worth asking in Monterey County before signing anything
+
+Is the percentage the same before and after a complaint is filed. Are costs deducted before or after the fee is figured. Who fronts the cost of an out-of-county deposition when a commercial driver lives elsewhere. What happens to the fee if the file is associated out to another firm -- rule 1.5.1 requires a written agreement, written client consent after full disclosure, and no increase in the total fee for the division. If the answers are not in the contract, they are not answers.

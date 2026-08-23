@@ -269,3 +269,43 @@ What to collect before a truck-claim review begins
 ## emergency_note
 
 If you have urgent medical symptoms, call 911 or seek emergency care. For the claim, keep every crash, treatment, and insurer document together and avoid signing a release without understanding it.
+
+## pricing_lede
+
+Alabama does not fix a percentage for a truck injury fee. It bars a clearly excessive one, requires the contingent agreement in writing, and publishes the Jefferson County court costs to the dollar. The federal carrier rules add insurance figures of their own.
+
+## pricing_body
+
+### Alabama's rule uses a different adjective, and it matters
+
+Most states test a fee against the word reasonable. Alabama's Rule of Professional Conduct 1.5(a) forbids agreeing to, billing, or collecting a fee that is clearly excessive, and gives nine factors for deciding whether one is: hours and labor spent, together with how novel and difficult the questions were and the skill they called for; the odds, if the client could see them, that the engagement would foreclose other work; what the locality customarily charges for comparable services; the sum at issue and the outcome reached; time limitations in play; how long and of what character the professional relationship has been; the ability, standing and experience of the lawyers involved; whether the fee is fixed or contingent; and whether a written fee agreement carries the client's signature.
+
+That last factor is worth pausing on, because Alabama put the existence of a signed writing into the excessiveness analysis itself. No percentage appears anywhere in the rule. Alabama sets no ceiling on a contingency in a tractor-trailer case, and a figure presented as the state maximum is a practice, not a statute.
+
+Rule 1.5(c) governs the paperwork. A contingent agreement goes in writing and spells out how the fee is computed: the percentages attaching at settlement, at trial and on appeal, which litigation and other expenses are charged against the recovery, and whether the percentage is applied before those expenses are subtracted or afterward. At the conclusion the lawyer owes the client a written statement of the outcome and, where there is a recovery, the remittance and the method of its determination. Rule 1.5(d) is the prohibition list: a fee may not ride on obtaining a divorce, nor on the size of alimony, support, or a property settlement standing in for them, and no contingent fee may be taken for defending a criminal matter.
+
+### The 15 percent figure, and the case it belongs to
+
+Search Alabama attorney fees and a hard number surfaces: fifteen percent. It is real and it is not an injury cap. Ala. Code 25-5-90(a) provides that no part of workers' compensation payable under the Act goes to the claimant's attorney unless the judge orders or approves the employment, and that the judge fixes the fee and the manner of its payment, which shall not exceed 15 percent of the compensation awarded or paid. That is a workers' compensation provision, applied by a judge in a compensation proceeding.
+
+The distinction is live in a Birmingham truck case, because a driver hurt on the job in a commercial vehicle can have a compensation claim and a claim against the at-fault carrier running at the same time, under two different fee regimes. Anyone quoting the comp percentage as the limit on a third-party liability claim has merged two files.
+
+### What the federal side publishes
+
+Truck claims come with numbers no state prints. Under 49 C.F.R. 387.9, an interstate for-hire carrier operating a vehicle rated above 10,000 pounds must carry at least $750,000 in public liability coverage for nonhazardous property. The floor rises to $1,000,000 for oil and most hazardous materials and waste, and to $5,000,000 for bulk hazardous substances, bulk Division 1.1 through 1.3 explosives, and highway route controlled quantities of Class 7 radioactive material.
+
+Those are minimums, not the coverage a given carrier actually bought, and they say nothing about what a claim is worth. What they do is set the questions to ask about the rigs moving through the I-20, I-59 and I-65 interchange: what the trailer was carrying, whether the load made the run a hazmat run, and who filed the coverage. That usually decides which insurer is at the table.
+
+### Jefferson County's published costs
+
+The Circuit Clerk publishes the civil filing fees. One plaintiff against one defendant is $251 where the claim is up to $50,000 and $351 above that or where the amount is unspecified, with $100 for each additional plaintiff up to a thousand-dollar total and $10 for each additional defendant. A jury demand is $100. Service through the Jefferson County Sheriff's Department adds $10 per document, a charge that also attaches to subpoenas, garnishments and executions. A subpoena itself is $12. A counterclaim, cross claim or third-party complaint is $297. Judgment on the pleadings, default judgment and summary judgment each carry a $50 motion fee, and the Administrative Office of Courts chart for Jefferson County ties those lines to Ala. Code 12-19-71.
+
+Those figures are the small end of a truck file. Electronic control module downloads, driver qualification and hours-of-service records, maintenance histories, a reconstruction expert and multiple depositions are the real cost lines, they are separate from the fee, and Rule 1.5(c) requires the agreement to say whether they are deducted before or after the percentage is applied.
+
+### One more Alabama provision worth knowing
+
+Ala. Code 34-3-61 gives a lawyer a lien for fees. On papers and money already in hand the lien is possessory. On actions and judgments for money it is superior to every lien except a tax lien, and no one may satisfy the judgment until the fee claim is satisfied. The lien does not attach until the defendant has been served with summons, writ or other process, and a settlement reached before the defendant has actual notice of the filing discharges the claim. In a case where a client changes firms, that section, not the fee agreement, is what governs who gets paid out of the recovery.
+
+### The short version
+
+No cap on a contingency here, a clearly excessive fee prohibited, and the rate left to a written agreement that spells out the expense order. Fifteen percent is workers' compensation. Jefferson County charges $351 to open a claim over $50,000, $100 for a jury and $10 a document for service.

@@ -1,137 +1,291 @@
 {
- "domain": "phoenixleakdetectionpros.com",
- "phase": 1,
- "brand": "Phoenix Leak Detection Pros",
- "service": "Leak Detection",
- "service_inline": "leak detection",
- "city": "Phoenix",
- "state": "AZ",
- "state_full": "Arizona",
- "counties": [
-  "Maricopa"
- ],
- "area_codes": [
-  "602"
- ],
- "phone_display": "(602) 894-0220",
- "phone_tel": "+16028940220",
- "phone_status": "LIVE",
- "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
- "emergency": true,
- "timezone": "America/Phoenix",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "water_hardness_2025",
-   "claim": "Phoenix\u2019s 2025 Water Quality Report lists total hardness at 172\u2013302 ppm, or 10\u201317.6 grains per gallon, and says hard water can cause scaling in pipes, water heaters, and plumbing fixtures.",
-   "why_it_matters": "Mineral scale is a useful condition to inspect in older copper and at fixtures when pressure or water-loss symptoms appear. It is not proof of a pinhole leak, so the technician still isolates and tests the affected system before recommending a repair.",
-   "sources": [
-    "https://www.phoenix.gov/content/dam/phoenix/waterservicessite/documents/wsdprimarywqr.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Phoenix water carries enough minerals to leave plumbing scale"
+  "domain": "phoenixleakdetectionpros.com",
+  "phase": 1,
+  "brand": "Phoenix Leak Detection Pros",
+  "service": "Leak Detection",
+  "service_inline": "leak detection",
+  "city": "Phoenix",
+  "state": "AZ",
+  "state_full": "Arizona",
+  "counties": [
+    "Maricopa"
+  ],
+  "area_codes": [
+    "602"
+  ],
+  "phone_display": "(602) 894-0220",
+  "phone_tel": "+16028940220",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+  "emergency": true,
+  "timezone": "America/Phoenix",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "sewer_fee_review_2026",
-   "claim": "Phoenix Water Services says its Sewer Fee Review may adjust a sewer fee when higher-than-usual water use is caused by broken plumbing or outdoor irrigation equipment. For the 2026 review, requests received more than 60 days after the July bill date are not eligible, and prior years cannot be adjusted.",
-   "why_it_matters": "A sudden City Services bill is often the first practical sign of a hidden leak. Keeping bills and repair records gives a homeowner the documentation needed to check current eligibility, while prompt detection prevents additional loss.",
-   "sources": [
-    "https://www.phoenix.gov/administration/departments/waterservices/city-services-bill/submit-a-sewer-fee-review.html"
-   ],
-   "verified": "2026-08-22",
-   "title": "A bill spike has a time-sensitive city review path"
+  "local_facts": [
+    {
+      "id": "water_hardness_2025",
+      "claim": "Phoenix’s 2025 Water Quality Report lists total hardness at 172–302 ppm, or 10–17.6 grains per gallon, and says hard water can cause scaling in pipes, water heaters, and plumbing fixtures.",
+      "why_it_matters": "Mineral scale is a useful condition to inspect in older copper and at fixtures when pressure or water-loss symptoms appear. It is not proof of a pinhole leak, so the technician still isolates and tests the affected system before recommending a repair.",
+      "sources": [
+        "https://www.phoenix.gov/content/dam/phoenix/waterservicessite/documents/wsdprimarywqr.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Phoenix water carries enough minerals to leave plumbing scale"
+    },
+    {
+      "id": "sewer_fee_review_2026",
+      "claim": "Phoenix Water Services says its Sewer Fee Review may adjust a sewer fee when higher-than-usual water use is caused by broken plumbing or outdoor irrigation equipment. For the 2026 review, requests received more than 60 days after the July bill date are not eligible, and prior years cannot be adjusted.",
+      "why_it_matters": "A sudden City Services bill is often the first practical sign of a hidden leak. Keeping bills and repair records gives a homeowner the documentation needed to check current eligibility, while prompt detection prevents additional loss.",
+      "sources": [
+        "https://www.phoenix.gov/administration/departments/waterservices/city-services-bill/submit-a-sewer-fee-review.html"
+      ],
+      "verified": "2026-08-22",
+      "title": "A bill spike has a time-sensitive city review path"
+    },
+    {
+      "id": "subsidence_earth_fissures",
+      "claim": "The Arizona Geological Survey says groundwater withdrawal can drive land subsidence and earth-fissure formation, and lists Maricopa County among counties that host earth fissures. It notes that fissures can damage utility lines, roads, and canals.",
+      "why_it_matters": "Ground movement is a reason to carefully evaluate a buried water-line route when testing points outside the house. It does not diagnose a fissure or establish the cause of a specific leak; the pipe still needs evidence-based detection at the property.",
+      "sources": [
+        "https://azgs.arizona.edu/earth-fissures-ground-subsidence/more-arizonas-earth-fissures"
+      ],
+      "verified": "2026-08-22",
+      "title": "Buried lines in Maricopa County may face changing ground conditions"
+    }
+  ],
+  "neighborhoods": [
+    "Arcadia",
+    "Coronado",
+    "Encanto-Palmcroft",
+    "Garfield",
+    "Willo",
+    "Roosevelt"
+  ],
+  "symptoms": [
+    "high_water_bill",
+    "wet_spot_on_floor",
+    "low_water_pressure",
+    "pool_losing_water"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "subsidence_earth_fissures",
-   "claim": "The Arizona Geological Survey says groundwater withdrawal can drive land subsidence and earth-fissure formation, and lists Maricopa County among counties that host earth fissures. It notes that fissures can damage utility lines, roads, and canals.",
-   "why_it_matters": "Ground movement is a reason to carefully evaluate a buried water-line route when testing points outside the house. It does not diagnose a fissure or establish the cause of a specific leak; the pipe still needs evidence-based detection at the property.",
-   "sources": [
-    "https://azgs.arizona.edu/earth-fissures-ground-subsidence/more-arizonas-earth-fissures"
-   ],
-   "verified": "2026-08-22",
-   "title": "Buried lines in Maricopa County may face changing ground conditions"
+  "hero_accent": "Hidden Leak Found Today",
+  "trust_third": "Detection price explained before testing begins",
+  "services": [
+    {
+      "slug": "water-leak-detection",
+      "name": "Water Leak Detection",
+      "nav": "Water leaks",
+      "h1": "Water Leak Detection",
+      "accent": "Hidden Water Leaks Located Precisely",
+      "keyword": "water leak detection",
+      "icon": "search"
+    },
+    {
+      "slug": "slab-leak-detection",
+      "name": "Slab Leak Detection",
+      "nav": "Slab leaks",
+      "h1": "Slab Leak Detection",
+      "accent": "Slab Leaks Located Before Damage Spreads",
+      "keyword": "slab leak detection",
+      "icon": "drop"
+    },
+    {
+      "slug": "underground-leak-detection",
+      "name": "Underground Leak Detection",
+      "nav": "Underground leaks",
+      "h1": "Underground Leak Detection",
+      "accent": "Underground Leaks Traced Without Guesswork",
+      "keyword": "underground leak detection",
+      "icon": "pin"
+    },
+    {
+      "slug": "pool-leak-detection",
+      "name": "Pool Leak Detection",
+      "nav": "Pool leaks",
+      "h1": "Pool Leak Detection",
+      "accent": "Pool Leaks Found Before Water Loss Grows",
+      "keyword": "pool leak detection",
+      "icon": "eye"
+    }
+  ],
+  "symptom_service": [
+    "water-leak-detection",
+    "slab-leak-detection",
+    "water-leak-detection",
+    "pool-leak-detection"
+  ],
+  "_market": {
+    "keyword": "leak detection phoenix",
+    "monthly_price": 650,
+    "score": 67,
+    "volume": 250,
+    "cpc_usd": 35.0,
+    "weakest_competitor": "phxleakdetection.com",
+    "competitor_dr": 3.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Phoenix leak work, job by job",
+    "anchors": [
+      {
+        "label": "City position on customer side leaks",
+        "value": "No forgiveness",
+        "detail": "The code makes each customer responsible for all leaks downstream of the point of service delivery, and for full payment of charges for any water lost to those leaks. There is no water leak credit program to apply for.",
+        "source_name": "Phoenix City Code section 37-27",
+        "source_url": "https://phoenix.municipal.codes/CC/37-27"
+      },
+      {
+        "label": "Water in the high use season",
+        "value": "$6.13 per 100 cubic feet",
+        "detail": "The June through September rate for an inside city account, against $4.93 in the low season, on top of a $4.64 monthly service charge on a five eighths inch meter. One hundred cubic feet is 748 gallons.",
+        "source_name": "City of Phoenix water rates effective March 2025",
+        "source_url": "https://www.phoenix.gov/content/dam/phoenix/waterservicessite/documents/rates_effective_march_2025.pdf"
+      },
+      {
+        "label": "Sewer fee review window",
+        "value": "60 days",
+        "detail": "Sewer charges are recalculated each July from average January through March water use. A review requested more than 60 days after that July bill date is ineligible, with no exceptions stated.",
+        "source_name": "City of Phoenix sewer fee review",
+        "source_url": "https://www.phoenix.gov/administration/departments/waterservices/city-services-bill/submit-a-sewer-fee-review.html"
+      },
+      {
+        "label": "Minimum residential permit fee",
+        "value": "$195",
+        "detail": "The schedule adopted in December 2025 sets a $195 minimum permit fee for single lot residential construction, includes the first re-inspection, and charges $195 for each re-inspection after that.",
+        "source_name": "City of Phoenix development fee schedule",
+        "source_url": "https://www.phoenix.gov/content/dam/phoenix/pddsite/documents/impact-fees/fee-schedule.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Electronic locate on a pressurized water line",
+        "low": 150,
+        "high": 600,
+        "basis": "flat",
+        "note": "Darrel's posts a flat $150 for about an hour, Miracle $150 to $400, American Leak Detection $375 for roughly two hours, Rapid Rooter $250 to $600.",
+        "sources": [
+          {
+            "name": "Darrel's Locating, Phoenix, posted water leak locate price, read 2026-08-23",
+            "url": "https://www.darrelslocating.com/waterleaks.html"
+          },
+          {
+            "name": "Miracle Plumbing & AC, Phoenix metro, posted detection cost, read 2026-08-23",
+            "url": "https://miracleplumbingaz.com/2026/07/08/slab-leak-repair-in-queen-creek-and-phoenix-metro-signs-costs-and-methods/"
+          },
+          {
+            "name": "American Leak Detection of Phoenix, posted flat rate, read 2026-08-23",
+            "url": "https://www.americanleakdetection.com/phoenix/residential/plumbing/leak-detection/"
+          },
+          {
+            "name": "Rapid Rooter Plumbing, Phoenix, posted leak detection range, read 2026-08-23",
+            "url": "https://rapidrooteraz.com/leak-detection"
+          }
+        ]
+      },
+      {
+        "job": "Slab leak opened and repaired at one spot",
+        "low": 450,
+        "high": 4000,
+        "basis": "flat",
+        "note": "ASAP posts $450 to $750 caught early and $2,000 to $4,000 standard, Miracle $500 to $1,500 for an open slab spot repair, Patrick Riley $600 to $4,000.",
+        "sources": [
+          {
+            "name": "ASAP Plumbing, Phoenix valley, posted slab leak repair costs, read 2026-08-23",
+            "url": "https://asapplumbingaz.com/leak-detection/slab-leak-repair/"
+          },
+          {
+            "name": "Miracle Plumbing & AC, Phoenix metro, posted spot repair cost, read 2026-08-23",
+            "url": "https://miracleplumbingaz.com/2026/07/08/slab-leak-repair-in-queen-creek-and-phoenix-metro-signs-costs-and-methods/"
+          },
+          {
+            "name": "Patrick Riley, greater Phoenix, posted slab leak repair range, read 2026-08-23",
+            "url": "https://patrickrileyservices.com/residential-plumbing-services/slab-leak-detections-repairs"
+          }
+        ]
+      },
+      {
+        "job": "Line rerouted through walls or attic instead of the slab",
+        "low": 1500,
+        "high": 4000,
+        "basis": "flat",
+        "note": "Miracle posts $1,500 to $4,000 with no concrete broken after detection. Patrick Riley posts $2,000 to $4,000 where the leak is extensive enough to warrant rerouting.",
+        "sources": [
+          {
+            "name": "Miracle Plumbing & AC, Phoenix metro, posted reroute cost, read 2026-08-23",
+            "url": "https://miracleplumbingaz.com/2026/07/08/slab-leak-repair-in-queen-creek-and-phoenix-metro-signs-costs-and-methods/"
+          },
+          {
+            "name": "Patrick Riley, greater Phoenix, posted rerouting range, read 2026-08-23",
+            "url": "https://patrickrileyservices.com/residential-plumbing-services/slab-leak-detections-repairs"
+          }
+        ]
+      },
+      {
+        "job": "Whole house repipe after repeat failures",
+        "low": 4000,
+        "high": 24000,
+        "basis": "flat",
+        "note": "Miracle posts $4,000 to $10,000. Simba prices by size and material, from $4,500 for PEX in a small house to $24,000 for copper in a large one.",
+        "sources": [
+          {
+            "name": "Miracle Plumbing & AC, Phoenix metro, posted repiping cost, read 2026-08-23",
+            "url": "https://miracleplumbingaz.com/2026/07/08/slab-leak-repair-in-queen-creek-and-phoenix-metro-signs-costs-and-methods/"
+          },
+          {
+            "name": "Simba Plumbing, Phoenix and the Valley, posted repipe price table, read 2026-08-23",
+            "url": "https://www.simbaplumbingphx.com/blog/how-much-does-it-cost-to-repipe-a-house"
+          }
+        ]
+      },
+      {
+        "job": "Sewer or drain camera inspection on its own",
+        "low": 250,
+        "high": 500,
+        "basis": "flat",
+        "note": "Rapid Rooter posts $250 to $450 for a standalone inspection. American Home Water posts $250 to $500, rising where access is hard or the run is long.",
+        "sources": [
+          {
+            "name": "Rapid Rooter Plumbing, Phoenix, posted camera inspection price, read 2026-08-23",
+            "url": "https://rapidrooteraz.com/plumber/sewer-camera-inspection-phoenix/"
+          },
+          {
+            "name": "American Home Water & Air, Phoenix, posted camera inspection cost, read 2026-08-23",
+            "url": "https://americanhomewater.com/how-much-plumbing-camera-inspection-cost/"
+          }
+        ]
+      },
+      {
+        "job": "Pool leak located and pinned down",
+        "low": 100,
+        "high": 1200,
+        "basis": "flat",
+        "note": "Phoenix Leak Detectors posts $100 to $600 a visit, American Leak Detection $250 to $700 by plumbing configuration, AE Outdoor $350 to $1,200 by method.",
+        "sources": [
+          {
+            "name": "Phoenix Leak Detectors, Phoenix and Maricopa County, posted detection cost, read 2026-08-23",
+            "url": "https://www.phoenixleakdetectors.com/faqs.html"
+          },
+          {
+            "name": "American Leak Detection of Phoenix, posted pool detection rates, read 2026-08-23",
+            "url": "https://www.americanleakdetection.com/phoenix/residential/pools-spas-fountains/leak-detection/"
+          },
+          {
+            "name": "AE Outdoor Living, Phoenix metro, posted pool leak pricing, read 2026-08-23",
+            "url": "https://aeoutdoorliving.com/pool-leak-detection-phoenix"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Arcadia",
-  "Coronado",
-  "Encanto-Palmcroft",
-  "Garfield",
-  "Willo",
-  "Roosevelt"
- ],
- "symptoms": [
-  "high_water_bill",
-  "wet_spot_on_floor",
-  "low_water_pressure",
-  "pool_losing_water"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Hidden Leak Found Today",
- "trust_third": "Detection price explained before testing begins",
- "services": [
-  {
-   "slug": "water-leak-detection",
-   "name": "Water Leak Detection",
-   "nav": "Water leaks",
-   "h1": "Water Leak Detection",
-   "accent": "Hidden Water Leaks Located Precisely",
-   "keyword": "water leak detection",
-   "icon": "search"
-  },
-  {
-   "slug": "slab-leak-detection",
-   "name": "Slab Leak Detection",
-   "nav": "Slab leaks",
-   "h1": "Slab Leak Detection",
-   "accent": "Slab Leaks Located Before Damage Spreads",
-   "keyword": "slab leak detection",
-   "icon": "drop"
-  },
-  {
-   "slug": "underground-leak-detection",
-   "name": "Underground Leak Detection",
-   "nav": "Underground leaks",
-   "h1": "Underground Leak Detection",
-   "accent": "Underground Leaks Traced Without Guesswork",
-   "keyword": "underground leak detection",
-   "icon": "pin"
-  },
-  {
-   "slug": "pool-leak-detection",
-   "name": "Pool Leak Detection",
-   "nav": "Pool leaks",
-   "h1": "Pool Leak Detection",
-   "accent": "Pool Leaks Found Before Water Loss Grows",
-   "keyword": "pool leak detection",
-   "icon": "eye"
-  }
- ],
- "symptom_service": [
-  "water-leak-detection",
-  "slab-leak-detection",
-  "water-leak-detection",
-  "pool-leak-detection"
- ],
- "_market": {
-  "keyword": "leak detection phoenix",
-  "monthly_price": 650,
-  "score": 67,
-  "volume": 250,
-  "cpc_usd": 35.0,
-  "weakest_competitor": "phxleakdetection.com",
-  "competitor_dr": 3.0
- }
 }

@@ -216,3 +216,33 @@ Start with the water situation you are seeing
 
 ## crosslink_head
 A different water problem than the one you have?
+
+## pricing_lede
+
+Water damage is priced in two halves that get confused constantly: mitigation, which is extraction, containment and drying, and reconstruction, which is putting the house back. The ranges below are built from prices Austin area restoration firms post publicly, converted where they are quoted per square foot or per equipment day, and set against the city and utility figures that surround a loss. None of it is a quote.
+
+## pricing_body
+
+### Contamination sets the price before square footage does
+
+ANSI/IICRC S500 sorts water by contamination rather than volume, and that sorting moves the number first. Clean supply-line water, gray water from an appliance overflow, and grossly contaminated water are three different jobs on one floor plan. Austin firms publish the gap plainly: roughly three to four dollars per square foot for clean water, four to six and a half for gray plus a stated contamination markup, and seven and up for the contaminated category with a larger markup and material replacement. Two nuances get lost online. Category can shift with time and temperature, so response speed is a cost factor. And the standard body has stated that wind-driven rain is not automatically the worst category; storm water is assessed, not assumed.
+
+### Square feet times a rate, plus equipment days
+
+Most posted pricing here is a rate, not a total, so both arithmetic steps behind the table are worth showing. A 500 square foot affected area at three to eight dollars per square foot is $1,500 to $4,000 of mitigation. Drying equipment bills by the day on top: three air movers and one dehumidifier for four days runs about $448 at posted low daily rates with a $65 setup charge, or about $1,031 at high rates with a $175 setup charge. That is why an invoice looks nothing like the rate someone read online. Duration is not arbitrary either: published drying times run one to two days for tile, three to five for drywall, and five to seven for hardwood that often gets replaced anyway.
+
+### The Austin specifics that change a loss
+
+Expansive clay soils move with drought and downpour, and a slab-on-grade home with no basement lets water spread laterally across a wide floor area instead of collecting in one low room. Affected square footage climbs fast on a small leak, so wall cavities and cabinet toe kicks get checked before anyone signs off. Source matters as much: a meaningful share of city land sits in floodplain and flash floods are fast, so a scope establishes where water came from before deciding how clean it was.
+
+### Permits, and the utility bill nobody expects
+
+Mitigation is not permitted work, but the repair that caused the loss often is. The failed supply line, drain, water heater connection or sewer lateral is plumbing work, and the City of Austin homeowner permitting fees, fiscal year 2026 schedule lists a residential plumbing permit at $200.43, up from $184.70. Reconstruction touching structure, plumbing or electrical carries its own permit and review time. Then there is the water that ran: a leak unnoticed for a billing cycle shows up as a spike, and the utility publishes an adjustment path under City Code section 15-9-141, requested within 90 days of the repair with the paid invoice, account number, service address and dates of the high bills.
+
+### Two contracts, not one
+
+Drying a house and rebuilding it are separate scopes, often separate contracts. Posted mitigation figures stop at extraction, containment, drying and monitoring; they exclude drywall, paint, flooring and trim. Reconstruction is priced after the space is dry, and local rebuild ranges run from one room to several to structural work.
+
+### Reading a restoration estimate
+
+A complete estimate states the water category and the reasoning, the measured affected area, and the evaporation load. It lists equipment by type and count with a daily rate and expected days, not one drying charge. It says what is removed and hauled away, whether flood cuts are planned and to what height, and who signs off that the structure is dry, since that signature starts a rebuild. National averages describe a modest clean-water loss in a house with a basement in a mild climate; they omit the plumbing permit, the floor area a slab gives water to travel, the extra equipment days hardwood demands, and the rebuild that follows a serious loss.

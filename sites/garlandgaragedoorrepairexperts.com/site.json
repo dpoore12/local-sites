@@ -1,143 +1,319 @@
 {
- "domain": "garlandgaragedoorrepairexperts.com",
- "phase": 1,
- "brand": "Garland Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Garland",
- "state": "TX",
- "state_full": "Texas",
- "counties": [
-  "Dallas"
- ],
- "area_codes": [
-  "214",
-  "469",
-  "972"
- ],
- "phone_display": "(214) 935-5873",
- "phone_tel": "+12149355873",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "municipal_power_provider",
-   "claim": "Garland Power & Light is the City of Garland's municipally owned electric utility and the sole electricity provider for approximately 85% of Garland residents. Addresses outside its service area may use another electric provider.",
-   "why_it_matters": "A dark opener can be a garage-circuit or utility issue rather than an opener failure. Checking whether the outlet has power and which utility serves the address helps separate a service interruption from a repairable opener, sensor, or door-balance fault before parts are recommended.",
-   "sources": [
-    "https://www.garlandtx.gov/2119/Service-Providers-Connections"
-   ],
-   "verified": "2026-08-22",
-   "title": "Most Garland homes are on the city's own electric utility"
+  "domain": "garlandgaragedoorrepairexperts.com",
+  "phase": 1,
+  "brand": "Garland Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Garland",
+  "state": "TX",
+  "state_full": "Texas",
+  "counties": [
+    "Dallas"
+  ],
+  "area_codes": [
+    "214",
+    "469",
+    "972"
+  ],
+  "phone_display": "(214) 935-5873",
+  "phone_tel": "+12149355873",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "may_2024_power_outage",
-   "claim": "After the May 28, 2024 storm, the City of Garland reported that about 35,000 Garland Power & Light customers had lost power. It also reported that some outages required repairs and that street blockages had to be cleared before crews could access some neighborhoods.",
-   "why_it_matters": "After a major local outage, a dead or reset garage-door opener may be reacting to a powerless outlet, tripped breaker, or power-return event instead of needing immediate replacement. Technicians should check the power source and the door's mechanical balance before diagnosing the opener head.",
-   "sources": [
-    "https://www.garlandtx.gov/CivicAlerts.aspx?AID=3339"
-   ],
-   "verified": "2026-08-22",
-   "title": "Storm outages can change the first opener check"
+  "local_facts": [
+    {
+      "id": "municipal_power_provider",
+      "claim": "Garland Power & Light is the City of Garland's municipally owned electric utility and the sole electricity provider for approximately 85% of Garland residents. Addresses outside its service area may use another electric provider.",
+      "why_it_matters": "A dark opener can be a garage-circuit or utility issue rather than an opener failure. Checking whether the outlet has power and which utility serves the address helps separate a service interruption from a repairable opener, sensor, or door-balance fault before parts are recommended.",
+      "sources": [
+        "https://www.garlandtx.gov/2119/Service-Providers-Connections"
+      ],
+      "verified": "2026-08-22",
+      "title": "Most Garland homes are on the city's own electric utility"
+    },
+    {
+      "id": "may_2024_power_outage",
+      "claim": "After the May 28, 2024 storm, the City of Garland reported that about 35,000 Garland Power & Light customers had lost power. It also reported that some outages required repairs and that street blockages had to be cleared before crews could access some neighborhoods.",
+      "why_it_matters": "After a major local outage, a dead or reset garage-door opener may be reacting to a powerless outlet, tripped breaker, or power-return event instead of needing immediate replacement. Technicians should check the power source and the door's mechanical balance before diagnosing the opener head.",
+      "sources": [
+        "https://www.garlandtx.gov/CivicAlerts.aspx?AID=3339"
+      ],
+      "verified": "2026-08-22",
+      "title": "Storm outages can change the first opener check"
+    },
+    {
+      "id": "ef4_tornado_2015",
+      "claim": "The National Weather Service identifies the Sunnyvale-Garland-Rowlett tornado of December 26, 2015 as an EF4 and reports the most intense damage of that North and Central Texas tornado outbreak occurred with that tornado.",
+      "why_it_matters": "After a wind event or falling debris, a dented garage-door panel is not the only concern. The inspection should also look for bent track, bowed reinforcement struts, shifted brackets, loose cables, and rollers that no longer sit correctly in the rail.",
+      "sources": [
+        "https://www.weather.gov/fwd/dec26tornadoes"
+      ],
+      "verified": "2026-08-22",
+      "title": "Garland has a documented severe-wind reason to inspect the whole door"
+    }
+  ],
+  "neighborhoods": [
+    "Williams",
+    "Western Heights",
+    "Freeman Heights",
+    "Quail Creek",
+    "Firewheel Farms",
+    "Duck Creek"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "ef4_tornado_2015",
-   "claim": "The National Weather Service identifies the Sunnyvale-Garland-Rowlett tornado of December 26, 2015 as an EF4 and reports the most intense damage of that North and Central Texas tornado outbreak occurred with that tornado.",
-   "why_it_matters": "After a wind event or falling debris, a dented garage-door panel is not the only concern. The inspection should also look for bent track, bowed reinforcement struts, shifted brackets, loose cables, and rollers that no longer sit correctly in the rail.",
-   "sources": [
-    "https://www.weather.gov/fwd/dec26tornadoes"
-   ],
-   "verified": "2026-08-22",
-   "title": "Garland has a documented severe-wind reason to inspect the whole door"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Garland",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Garland",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Garland",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Garland",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair garland",
+    "monthly_price": 650,
+    "score": 71,
+    "volume": 300,
+    "cpc_usd": 20.0,
+    "weakest_competitor": "planooverhead.com",
+    "competitor_dr": 37.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Garland market ranges, job by job",
+    "anchors": [
+      {
+        "label": "Single family repair or remodel permit, minimum",
+        "value": "$50",
+        "detail": "Garland prices a residential repair or remodel permit at 41 cents per square foot of impacted area with a $50 floor, and adds a processing charge of 25 percent of the permit fee, never below $15.",
+        "source_name": "City of Garland master fee and rate schedule",
+        "source_url": "https://ecode360.com/40345889"
+      },
+      {
+        "label": "Inspection outside business hours",
+        "value": "$120 minimum",
+        "detail": "Billed at $60 per hour with a two-hour floor. A single failed reinspection during the normal week is $50, and a double is $100, under the same adopted schedule.",
+        "source_name": "Garland fee schedule, building inspection fees",
+        "source_url": "https://ecode360.com/40345889"
+      },
+      {
+        "label": "Median wage, installation and repair workers, all other",
+        "value": "$21.84",
+        "detail": "The May 2025 median hourly figure for the 5,300 workers in this catch-all repair occupation across the metro. Overhead, a stocked truck and cross-town travel multiply it several times over on a bill.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_19100.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Snapped torsion spring, both springs renewed",
+        "low": 200,
+        "high": 553,
+        "basis": "flat",
+        "note": "Wire size, door weight and cycle rating set the parts cost. Same-day evening work sits at the ceiling.",
+        "sources": [
+          {
+            "name": "TrueSafe Garage Door Repair, Garland, posted cost list, read 2026-08-23",
+            "url": "https://www.truesafegaragedoors.com/blog/how-much-does-garage-door-repair-cost-garland-tx"
+          },
+          {
+            "name": "SOS Garage Doors, Garland, posted spring repair price table, read 2026-08-23",
+            "url": "https://www.sosgaragedoors.com/garland_springs.html"
+          },
+          {
+            "name": "Garland Garage Door Repair Pro, Garland, posted repair prices, read 2026-08-23",
+            "url": "https://www.gaterepairpro.com/garland/garage-door-repair-garland-tx/"
+          },
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          }
+        ]
+      },
+      {
+        "job": "Frayed lift cable replaced and the drums retimed",
+        "low": 89,
+        "high": 489,
+        "basis": "flat",
+        "note": "If the door dropped, the bottom fixture and the lowest track section usually need attention as well.",
+        "sources": [
+          {
+            "name": "TrueSafe Garage Door Repair, Garland, posted cost list, read 2026-08-23",
+            "url": "https://www.truesafegaragedoors.com/blog/how-much-does-garage-door-repair-cost-garland-tx"
+          },
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "M&M Garage Door Services, Dallas, posted repair cost table, read 2026-08-23",
+            "url": "https://mandmgaragedfw.com/blog/garage-door-repair-cost-dallas/"
+          }
+        ]
+      },
+      {
+        "job": "Opener that lost power or memory brought back into service",
+        "low": 100,
+        "high": 489,
+        "basis": "per visit",
+        "note": "Often a dead outlet, a tripped breaker or a reset after an outage rather than a failed opener head.",
+        "sources": [
+          {
+            "name": "TrueSafe Garage Door Repair, Garland, posted cost list, read 2026-08-23",
+            "url": "https://www.truesafegaragedoors.com/blog/how-much-does-garage-door-repair-cost-garland-tx"
+          },
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "Garage Door Rescue, Dallas-Fort Worth, posted repair price list, read 2026-08-23",
+            "url": "https://garagedoorrescuellc.com/garage-door-repair-cost-dfw/"
+          }
+        ]
+      },
+      {
+        "job": "Opener head replaced, sensors and rail included",
+        "low": 200,
+        "high": 800,
+        "basis": "per unit",
+        "note": "A discontinued unit with no parts support, plus new ceiling blocking and a keypad, pushes it upward.",
+        "sources": [
+          {
+            "name": "TrueSafe Garage Door Repair, Garland, posted cost list, read 2026-08-23",
+            "url": "https://www.truesafegaragedoors.com/blog/how-much-does-garage-door-repair-cost-garland-tx"
+          },
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "Garage Door Rescue, Dallas-Fort Worth, posted repair price list, read 2026-08-23",
+            "url": "https://garagedoorrescuellc.com/garage-door-repair-cost-dfw/"
+          }
+        ]
+      },
+      {
+        "job": "Storm damage assessment with track and bracket repair",
+        "low": 100,
+        "high": 775,
+        "basis": "per visit",
+        "note": "Shifted brackets, a bowed strut and rollers no longer seated in the rail are the parts that stop travel.",
+        "sources": [
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "M&M Garage Door Services, Dallas, posted repair cost table, read 2026-08-23",
+            "url": "https://mandmgaragedfw.com/blog/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "Garage Door Rescue, Dallas-Fort Worth, posted repair price list, read 2026-08-23",
+            "url": "https://garagedoorrescuellc.com/garage-door-repair-cost-dfw/"
+          }
+        ]
+      },
+      {
+        "job": "Single damaged section replaced on an older steel door",
+        "low": 150,
+        "high": 700,
+        "basis": "flat",
+        "note": "Finding a matching profile for a door out of production is what drives this, not installation time.",
+        "sources": [
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "Garage Door Rescue, Dallas-Fort Worth, posted repair price list, read 2026-08-23",
+            "url": "https://garagedoorrescuellc.com/garage-door-repair-cost-dfw/"
+          }
+        ]
+      },
+      {
+        "job": "Two-car door replaced with insulated steel",
+        "low": 800,
+        "high": 3000,
+        "basis": "per unit",
+        "note": "Windows, heavier gauge, rebuilt jambs on a 1960s frame and a second matching door all add up.",
+        "sources": [
+          {
+            "name": "Dallas Garage Door Pro, Dallas and Garland area, posted price table, read 2026-08-23",
+            "url": "https://dallasgaragedoorrepairpro.com/garage-door-repair-cost-dallas/"
+          },
+          {
+            "name": "Garage Door Rescue, Dallas-Fort Worth, posted repair price list, read 2026-08-23",
+            "url": "https://garagedoorrescuellc.com/garage-door-repair-cost-dfw/"
+          },
+          {
+            "name": "Fast Mobile Garage Doors, Fort Worth and Garland, posted price list, read 2026-08-23",
+            "url": "https://fastmobilegaragedoors.com/garage-door-repair-cost-dallas-tx.html"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Williams",
-  "Western Heights",
-  "Freeman Heights",
-  "Quail Creek",
-  "Firewheel Farms",
-  "Duck Creek"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Garland",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Garland",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Garland",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Garland",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair garland",
-  "monthly_price": 650,
-  "score": 71,
-  "volume": 300,
-  "cpc_usd": 20.0,
-  "weakest_competitor": "planooverhead.com",
-  "competitor_dr": 37.0
- }
 }

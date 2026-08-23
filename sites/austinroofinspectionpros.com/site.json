@@ -137,5 +137,152 @@
   "cpc_usd": 25.0,
   "weakest_competitor": "j-connroofing.com",
   "competitor_dr": 3.5
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Austin roof inspection ranges, job by job",
+  "anchors": [
+   {
+    "label": "What a licensed inspector must do on the roof",
+    "value": "22 TAC 535.228(c)",
+    "detail": "The Texas Real Estate Commission standards of practice require the inspector to inspect roof covering materials from the surface of the roof, and expressly do not require an opinion on remaining life, layer count, or latent hail damage.",
+    "source_name": "TREC standards of practice for inspectors",
+    "source_url": "https://www.trec.texas.gov/online-sops"
+   },
+   {
+    "label": "Professional Inspector license, TREC application fee",
+    "value": "$120",
+    "detail": "Effective December 15, 2025 the state charges $120 to apply as a Professional Inspector and $60 to renew, with the Real Estate Inspector tier at $100 and $50 and the apprentice tier at $60 and $30.",
+    "source_name": "TREC fee schedule",
+    "source_url": "https://www.trec.texas.gov/agency-information/fee-schedule"
+   },
+   {
+    "label": "Shingle-over-shingle replacement, city permit",
+    "value": "Exempt",
+    "detail": "Austin exempts asphalt shingles that replace existing asphalt shingles from a building permit, unless the property sits in the Wildland-Urban Interface area and half or more of the roofing is being replaced.",
+    "source_name": "City of Austin work exempt from building permits",
+    "source_url": "https://www.austintexas.gov/development-services/work-exempt-building-permits"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Standard roof inspection with a photo report",
+    "low": 125,
+    "high": 300,
+    "basis": "flat",
+    "note": "Steep pitch, metal, tile, or a roof over 3,000 square feet moves this to the upper end.",
+    "sources": [
+     {
+      "name": "Austin Roofing and Water Damage, Austin, posted inspection cost page, read 2026-08-23",
+      "url": "https://austinroofingandwaterdamage.com/roof-inspection-cost/"
+     },
+     {
+      "name": "Ripple Roofs, Austin, posted roof inspection page, read 2026-08-23",
+      "url": "https://rippleroofs.com/services/roof-inspection"
+     },
+     {
+      "name": "RISE Roofing, Austin, posted inspection cost page, read 2026-08-23",
+      "url": "https://www.riseroofingaustin.com/roof-inspection-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Roof certification for a sale file or an insurance carrier",
+    "low": 150,
+    "high": 800,
+    "basis": "flat",
+    "note": "Written condition letters, remaining-life language, and gutter and vent documentation each add scope and time.",
+    "sources": [
+     {
+      "name": "RISE Roofing, Austin, posted roof inspection cost page, read 2026-08-23",
+      "url": "https://www.riseroofingaustin.com/roof-inspection-cost/"
+     },
+     {
+      "name": "Ripple Roofs, Austin, posted pre-purchase inspection prices, read 2026-08-23",
+      "url": "https://rippleroofs.com/services/roof-inspection"
+     },
+     {
+      "name": "Austin Roofing and Water Damage, Austin, posted complete inspection prices, read 2026-08-23",
+      "url": "https://austinroofingandwaterdamage.com/roof-inspection-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Drone or infrared moisture scan added to the visit",
+    "low": 150,
+    "high": 600,
+    "basis": "flat",
+    "note": "Multi-story elevations, thermal imaging of wet decking, and flight planning around trees drive the top figure.",
+    "sources": [
+     {
+      "name": "Clear Choice Roofing ATX, Austin, posted drone inspection cost article, read 2026-08-23",
+      "url": "https://clearchoiceroofingatx.com/blog/cost-of-drone-roof-inspection"
+     },
+     {
+      "name": "RISE Roofing, Austin, posted drone and infrared prices, read 2026-08-23",
+      "url": "https://www.riseroofingaustin.com/roof-inspection-cost/"
+     }
+    ]
+   },
+   {
+    "job": "Full home inspection covering the roof, on a 2,000 square foot house",
+    "low": 395,
+    "high": 475,
+    "basis": "flat, 2,000 square feet of conditioned space",
+    "note": "Priced off square footage tiers, so an added guest suite or a second structure jumps the tier.",
+    "sources": [
+     {
+      "name": "First Responding Home Inspections, Austin, posted square-footage price tiers, read 2026-08-23",
+      "url": "https://www.frhinspect.com/home-inspection-pricing"
+     },
+     {
+      "name": "Austin REI, Austin, posted inspection price tiers, read 2026-08-23",
+      "url": "https://www.austinrei.com/home-inspection-cost-austin/"
+     },
+     {
+      "name": "Inspect It Austin, Austin, posted pricing page, read 2026-08-23",
+      "url": "https://inspectitaustin.com/pricing/"
+     }
+    ]
+   },
+   {
+    "job": "Termite and wood-destroying insect report on the same trip",
+    "low": 105,
+    "high": 160,
+    "basis": "add-on to a scheduled inspection",
+    "note": "Lowest when bundled with the main inspection; ordered alone it carries a separate trip charge.",
+    "sources": [
+     {
+      "name": "Inspection Time, Austin and Central Texas, posted add-on prices, read 2026-08-23",
+      "url": "https://inspectiontimetx.com/austin-residential-home-inspection-services/"
+     },
+     {
+      "name": "Austin REI, Austin, posted ancillary service prices, read 2026-08-23",
+      "url": "https://www.austinrei.com/home-inspection-cost-austin/"
+     }
+    ]
+   },
+   {
+    "job": "Single leak traced and repaired after the report flags it",
+    "low": 150,
+    "high": 1500,
+    "basis": "flat per repair",
+    "note": "A pipe boot is the floor. Rotten decking, valley rework, and wet underlayment sit at the ceiling.",
+    "sources": [
+     {
+      "name": "RISE Roofing, Austin, posted leak repair cost page, read 2026-08-23",
+      "url": "https://www.riseroofingaustin.com/roof-leak-repair-cost/"
+     },
+     {
+      "name": "Austin Roofing Company, Austin, posted repair price table, read 2026-08-23",
+      "url": "https://austinroofingcompany.com/guides/roof-repair-vs-replacement-austin-tx"
+     },
+     {
+      "name": "The Austin Roof Doctor, Austin, posted 2026 cost guide, read 2026-08-23",
+      "url": "https://theaustinroofdr.com/austin-roof-cost-guide-2026/"
+     }
+    ]
+   }
+  ]
  }
 }

@@ -216,3 +216,37 @@ Four things worth preserving after a Las Vegas dog attack
 
 ## emergency_note
 If the dog is loose or presents an immediate threat, move to a safe location and contact emergency services. For a serious wound or urgent health concern, seek medical care before making reports or dealing with insurance.
+
+## pricing_lede
+
+Nevada leaves the size of a contingent fee in an animal attack claim to negotiation while regulating the paperwork around it closely, and the sections below walk through Rule 1.5 of the Nevada Rules of Professional Conduct, the single statute that does cap a percentage, and the filing amounts the Eighth Judicial District Court publishes for Clark County.
+
+## pricing_body
+
+### The percentage itself is open
+
+There is no Nevada rule that fixes a maximum percentage on a bite or animal attack recovery. Rule 1.5(a) of the Nevada Rules of Professional Conduct says only that a lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. Reasonableness is then judged against eight considerations: time and labor, novelty and difficulty, and the skill needed; whether accepting the matter blocks other employment; what lawyers in the locality customarily charge for similar work; the amount involved and the result obtained; deadlines imposed by the client or the situation; how long and how closely the two have worked together; the standing and ability of counsel; and whether payment is fixed or hangs on the outcome.
+
+### The formalities Nevada adds
+
+Rule 1.5(b) requires the scope of the work and the basis of the fee and expenses to be communicated, preferably in writing, before or within a reasonable time after the representation starts. Rule 1.5(c) goes considerably further than most states. The contingent fee agreement must be written, must be signed by the client, and its key terms must appear in boldface type at least as large as the largest type used anywhere in the document. Those terms are the method of calculating the fee including the percentages on settlement, trial and appeal; whether expenses are taken out of the recovery and whether that happens before or after the fee is figured; and whether the client owes those expenses whatever the outcome.
+
+### Two warnings the document must carry
+
+Nevada is unusual in requiring the agreement to state the downside in the same emphasized type. Rule 1.5(c)(4) requires it to say that if the case is lost the client may be liable for the opposing party's attorney fees and will be liable for the opposing party's costs to the extent the law requires. Rule 1.5(c)(5) requires it to say that a suit brought solely to harass or to coerce a settlement may result in liability for malicious prosecution or abuse of process. At the end of the matter the lawyer owes a written statement of the outcome and, if money came in, the remittance and how it was calculated.
+
+### The one Nevada cap, and why it is not this claim
+
+NRS 7.095 is the statute people sometimes hear about secondhand. It bars a contingent fee greater than 35 percent of the amount recovered when the client is seeking damages for injury or death against a provider of health care based on professional negligence, and it applies whether the money arrives by settlement, arbitration award or judgment. Subsection 3 defines the recovered amount as the net figure after disbursements and the costs of prosecuting or settling the claim come out. A claim against the owner or keeper of a dog is not a professional negligence action against a health care provider, so that ceiling has nothing to say about it. Rule 1.5(d) separately bars any contingency in a divorce-related matter or for a criminal defendant.
+
+### What the Regional Justice Center charges
+
+Filing amounts come from the Clerk of the Eighth Judicial District Court and are built from a stack of statutes rather than set locally by choice. A general civil complaint is $270.00, assembled from components in NRS 19.013, 19.020, 19.030, 19.0302, 19.0303, 19.031, 19.0312, 19.0313 and 19.0315. Each additional plaintiff adds $30.00 under NRS 19.0335, and each defendant filing an answer pays $223.00 with the same $30.00 addition per extra party. A third party complaint costs $135.00 and a summary judgment motion $200.00. A construction defect or otherwise complex complaint jumps to $520.00. In a contingency arrangement these amounts are usually advanced and then recouped from the recovery, so the written agreement should say so directly.
+
+### Costs beyond the filing window
+
+NRS 18.005 defines what counts as costs a prevailing party can be awarded, and the list is long: clerks' and reporters' fees, jurors' fees, witness fees, interpreters, service of process, photocopies, postage, travel and lodging for depositions, and reasonable and necessary expenses including computerized legal research. The figure worth remembering is in subsection 5, which allows reasonable fees for no more than five expert witnesses at no more than $15,000 for each of them unless the court finds the circumstances warranted paying more. In a serious attack case, a treating specialist or a reconstructive surgeon giving opinion testimony is exactly the kind of expense that provision governs.
+
+### Where the county ordinance puts dollar figures
+
+Clark County Code Title 10 attaches money mainly to permits rather than to bites. Section 10.08.135 charges $800 for a breeder or show permit, including the initial site inspection by Animal Protection Services, and $800 again on annual renewal, falling to $400 where each animal has taken part in a show once during the year. A failed inspection or a violation of Chapter 10 adds a $100 reinspection fee. Separately, NRS 202.500 makes it a misdemeanor to keep a dog known to be vicious more than seven days, and a category D felony where such a dog causes substantial bodily harm, while forbidding any local ordinance that turns on breed alone.

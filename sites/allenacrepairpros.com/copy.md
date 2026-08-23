@@ -267,3 +267,43 @@ Not sure which card fits? Choose the symptom that is most urgent and schedule an
 ## emergency_note
 
 If you smell burning, see smoke, hear electrical arcing, or find water at electrical equipment, turn the system off if it is safe to do so and keep clear of the area until it is checked.
+
+## pricing_lede
+
+Here is what Collin County air conditioning companies publish for their own repair work, set beside the permit, registration and inspection fees the City of Allen actually charges and the metro wage figure that anchors every labor rate in the table.
+
+## pricing_body
+
+### The diagnostic fee decides how the rest of the bill reads
+
+Start with the smallest number in the table, because it shifts everything above it. Collin County shops publish diagnostic and service call fees across a wide spread and handle that fee three ways: waived when the repair is authorized, credited against the total, or charged separately and never applied to the work. At least one local price list states in writing that its diagnostic is not credited. That is a business model rather than a scam, but it means two identical capacitor repairs at the same part price can differ by most of a hundred dollars.
+
+So the first thing worth doing on a Collin County service call is asking whether the fee applies to the repair, and whether the quoted repair figure already contains it. A published part price of $135 alongside a separate $95 diagnostic is a $230 visit, and the table above reflects totals rather than headline part prices.
+
+### Why a young suburb still generates big repair bills
+
+Allen is not an old housing market. Much of it went up during and after the 1990s growth wave, so most systems here are on their second or third condenser and the equipment is generally R-410A rather than phased out R-22. That should make repairs cheaper, and for small parts it does. What it does not solve is where the equipment lives. Builders here put the air handler and evaporator coil in an attic that runs past 130 degrees on an August afternoon, and a coil or blower change up there is slow two person work.
+
+The labor market sets the floor. Across the Dallas, Fort Worth and Arlington metro area, the May 2025 median wage for heating and air conditioning mechanics and installers was $28.63 an hour across 10,910 workers, a large trade pool that gives Collin County real price competition on small repairs. August demand still hits every shop at once, and priority scheduling is priced accordingly.
+
+### What the city charges once equipment changes
+
+Repair work is not permitted. Replacement is. The City of Allen fee schedule, June 2025 prices a complete HVAC system permit at $175, over the counter trade permits at $75, and requires every contractor pulling a permit to hold a $50 annual city registration. That registration is the useful part: an unregistered shop cannot legally permit the changeout it is selling.
+
+Inspections have their own arithmetic. Allen prices an inspection outside normal business hours at $75 an hour with a two hour minimum, and reinspections escalate at $75, then $100, then $125 for each additional trip. A changeout that fails inspection over the disconnect, the condensate line or the equipment pad costs both money and days without cooling.
+
+### Reading a Collin County estimate
+
+A written estimate shows the diagnostic charge as its own line and states whether it is credited. On a component repair it names the part, states whether it is under manufacturer warranty, and separates part from labor. Refrigerant is priced per pound with the pounds stated, not described as a top off, and a leak search is a separate line, because finding a leak and fixing one are different jobs.
+
+On a changeout, an estimate should list the outdoor unit and indoor coil by model number, the tonnage, the efficiency rating, whether the lineset is reused or replaced, whether the disconnect and pad are new, the thermostat, any duct modifications, and the Allen permit as its own line item. Anything missing is a change order waiting to happen.
+
+### The oversell, said plainly
+
+In this market the pressure point is the compressor conversation. A failed compressor on a fourteen year old condenser is genuinely a replacement discussion. The problem is the reverse move: a capacitor, contactor or fan motor failure presented as a system on its last legs. Those parts fail on healthy equipment routinely. Ask for the measurement behind the diagnosis, the microfarad reading on a capacitor, the amp draw on a motor, superheat and subcooling on a refrigerant claim.
+
+The second pattern is refrigerant sold repeatedly. A sealed system does not consume refrigerant. Two summers of top offs means a leak, and paying a third time without a leak search is filling a bucket with a hole in it.
+
+### What the online average leaves out
+
+National cost pages price a condenser and a coil in a driveway. They do not price the Allen permit, a reinspection, the attic access that makes an indoor coil change hard here, a lineset carrying mineral oil from an R-22 system, a panel that cannot support a larger unit, or the duct static problem that made the old system struggle. That last item decides whether a new system cools the back bedrooms.

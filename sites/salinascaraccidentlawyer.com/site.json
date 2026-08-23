@@ -79,6 +79,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What California fixes in a Monterey County injury claim, and what it leaves to the written contract",
+  "col_a": "The part of the money",
+  "col_b": "What the rule or statute fixes",
+  "anchors": [
+   {
+    "label": "Percentage ceiling on an injury fee",
+    "value": "None stated",
+    "detail": "Rule 1.5 of the California Rules of Professional Conduct bars an unconscionable or illegal fee and then lists thirteen factors for testing one. It prints no percentage for ordinary negligence work.",
+    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)-(b)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   },
+   {
+    "label": "First paper in an unlimited civil case, Monterey County",
+    "value": "$435",
+    "detail": "Charged by the Monterey County Superior Court on the complaint in any case pleading more than $35,000, and again on the first paper filed by each other party.",
+    "source_name": "Monterey County Superior Court civil fee schedule",
+    "source_url": "https://www.monterey.courts.ca.gov/system/files/general/2024-civil-fee-schedule.pdf"
+   },
+   {
+    "label": "Advance jury fee, nonrefundable",
+    "value": "$150",
+    "detail": "One side of the case posts it or the right to a jury is waived. Daily juror deposits after the first day are set by the court on top of it.",
+    "source_name": "Cal. Code Civ. Proc. 631(b)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=631.&lawCode=CCP"
+   },
+   {
+    "label": "Health plan lien ceiling once a lawyer is involved",
+    "value": "One-third",
+    "detail": "A managed-care or medical-group reimbursement lien cannot take more than a third of the money due to the injured person under a judgment, compromise or settlement.",
+    "source_name": "Cal. Civ. Code 3040(c)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3040.&lawCode=CIV"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "The fee itself, in a crash claim",
+    "share": "No statutory percentage",
+    "note": "Tested after the fact against thirteen listed factors, among them proportionality to the work, the results obtained, and whether the client gave informed consent.",
+    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(b)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   },
+   {
+    "stage": "Medical malpractice claims only",
+    "share": "25% before filing, 33% after",
+    "note": "Malpractice-specific statute. Twenty-five percent where the claim settles before a complaint or arbitration demand is filed, thirty-three percent after, and more only by motion on good cause.",
+    "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+    "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
+   },
+   {
+    "stage": "The written contingency contract",
+    "share": "Duplicate signed copy, four required statements",
+    "note": "It must state the rate, how costs affect both the fee and the recovery, any charges for related matters, and that the fee is not set by law but is negotiable.",
+    "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+   },
+   {
+    "stage": "Filing the complaint in Salinas",
+    "share": "$435 unlimited, $370 or $225 limited",
+    "note": "The $35,000 pleading line decides which tier applies, and the limited tier splits again at $10,000.",
+    "source_name": "Monterey County Superior Court civil fee schedule",
+    "source_url": "https://www.monterey.courts.ca.gov/system/files/general/2024-civil-fee-schedule.pdf"
+   },
+   {
+    "stage": "Motions and a summary judgment motion",
+    "share": "$60 and $500",
+    "note": "Each paper requiring a hearing draws sixty dollars; a summary judgment or summary adjudication motion draws five hundred.",
+    "source_name": "Monterey County Superior Court civil fee schedule",
+    "source_url": "https://www.monterey.courts.ca.gov/system/files/general/2024-civil-fee-schedule.pdf"
+   },
+   {
+    "stage": "Costs recoverable if the case is won",
+    "share": "Statutory list",
+    "note": "Filing, motion and jury fees, depositions, service of process and court-ordered expert fees are on it. Investigation expenses and experts the court did not order are not.",
+    "source_name": "Cal. Code Civ. Proc. 1033.5",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1033.5.&lawCode=CCP"
+   }
+  ]
+ },
  "hero_accent": "Deadlines, Evidence, What Comes Next",
  "trust_third": "Filing deadlines and evidence steps, spelled out",
  "services": [

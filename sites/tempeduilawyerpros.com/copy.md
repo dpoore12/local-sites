@@ -279,3 +279,43 @@ Four details worth bringing to a Tempe DUI lawyer
 ## emergency_note
 
 Do not ignore a printed court date, discard case paperwork, or drive if your license or privilege has been suspended. Keep the documents together and confirm the next required appearance.
+
+## pricing_lede
+
+Arizona is unusual in how a DUI bill is built. The fine is small and capped, the mandatory assessments behind it are large and fixed, and a surcharge is levied on the fine but not on those assessments. All of it is statute. The attorney fee is a separate written arrangement that Arizona does not permit to be tied to the outcome.
+
+## pricing_body
+
+### The ethical rule that rules out a percentage
+
+Arizona puts its fee rules in ER 1.5, adopted as part of Rule 42 of the Rules of the Supreme Court. Subdivision (d)(2) is the operative line for criminal defense, barring a lawyer from entering an arrangement for, charging, or collecting "a contingent fee for representing a defendant in a criminal case." Subdivision (d)(3) adds that a fee described as "earned upon receipt" or "nonrefundable" is permitted only if the client is advised in writing at the same time that the lawyer may be discharged at any point.
+
+ER 1.5(b) requires the scope of the representation and the basis or rate of the fee and expenses to be communicated in writing, before or within a reasonable time after the work starts, and any later change in that basis to be put in writing before the higher charges are incurred.
+
+### The fine is the small number here
+
+A first offense under A.R.S. 28-1381 is a class 1 misdemeanor, and A.R.S. 13-802(A) caps a class 1 misdemeanor fine at $2,500. But A.R.S. 28-1381(I) is where the real arithmetic sits. A first conviction carries not less than ten consecutive days in jail, a fine of not less than $250, an additional assessment of $500 deposited in the prison construction and operations fund, and a further $500 assessment for the public safety equipment fund. The statute says in both places that these assessments are not subject to any surcharge. A second conviction inside the 84-month window raises the fine floor to $500, each assessment to $1,250, and the jail minimum to 90 days.
+
+### Surcharges multiply the fine, and only the fine
+
+Four separate surcharge provisions apply to a fine collected by an Arizona court. A.R.S. 12-116.01 levies 42 percent in subsection (A), 7 percent in subsection (B), and 6 percent in subsection (C). A.R.S. 12-116.02 adds 13 percent. Together they take a $250 minimum fine to $420. A.R.S. 12-116.04 then adds a flat $13 penalty assessment for law enforcement officer equipment. Add the two fixed $500 assessments and a minimum first-offense sentence lands at roughly $1,433 in court money before jail costs, screening, treatment, interlock or the license charges. Because the largest components are fixed by statute and shielded from surcharge, arguing the fine down from $400 to $250 changes the total far less than most people expect.
+
+### The extreme and aggravated tiers are separate statutes
+
+A.R.S. 28-1382 covers an alcohol concentration of 0.15 or more. At 0.15 to below 0.20 the sentence is not less than 30 consecutive days in jail, a fine of not less than $250 and a $250 assessment. At 0.20 or above it is not less than 45 consecutive days, a fine of not less than $500 and the same $250 assessment, and the statute adds assessments of $1,000 to the prison construction and operations fund and $1,000 to the public safety equipment fund on a first extreme conviction. A second violation inside 84 months raises those two to $1,250 each.
+
+A.R.S. 28-1383 is the aggravated felony tier, reached by driving impaired on a suspended license or by a third violation within 84 months. Subsection (J) carries a $250 abatement fund assessment, a fine of not less than $750, and further assessments of $1,500 and $1,500.
+
+### Tempe Municipal Court charges for time
+
+The court's published fine and sanction schedule carries the local charges. Paying a penalty over time adds a $20 time payment fee per case, and A.R.S. 12-116 makes it non-waivable: a judge may not waive or suspend it. Failing to pay or appear produces a $50 default judgment for each violation under Tempe City Code section 1-10, plus the same $20 fee, with collection charges added on top.
+
+If counsel is appointed, A.R.S. 11-584(C) says the service is without expense to the defendant but permits the court to order an indigent administrative assessment of not more than $25, and to order repayment to the county of a reasonable amount toward the cost of the defense.
+
+### The MVD bill is separate from the court bill
+
+Reinstating a driving privilege is an MVD transaction. Its published schedule lists a $10 suspension fee, a $20 revocation reinstatement fee, and an additional $50 on an admin per se suspension, plus an application fee scaled by age: $10 at 50 and older, $15 at 45 to 49, $20 at 40 to 44, and $25 for drivers 39 and younger or any driver holding a Travel ID. After a DUI or a test refusal the MVD requires SR-22 proof of future financial responsibility, which the insurer charges for. A.R.S. 28-1461 puts the cost of installing and maintaining a certified ignition interlock device on the driver, and requires proof of calibration every 90 days.
+
+### What a Tempe defense fee actually turns on
+
+Which statute is charged, first: a section 28-1382 extreme count and a section 28-1383 felony count are different cases with different exposure and different hours. Then whether the breath or blood result is challenged, since that means subpoenaing instrument and calibration records. Then whether a prior inside the 84-month window is alleged, which decides the sentencing floor. Then whether the matter is tried. The statutory figures below do not shift with any of that.

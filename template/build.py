@@ -12,6 +12,7 @@ below. Run with --check-only to validate without writing.
 """
 import json
 import re
+from urllib.parse import urlsplit
 import sys
 import shutil
 import datetime
@@ -89,6 +90,81 @@ BANNED_PRE_TENANT = [
     "millions recovered", "no upfront cost", "you pay nothing",
     "read our reviews", "since 19", "since 20",
 ]
+
+# The pricing page is the one place numbers are allowed, so it gets its own
+# guard. The rule that makes it safe: the page may describe what a job COSTS IN
+# THE MARKET, sourced, and may never state what the advertiser charges. Any
+# first-person price is a quote, and pre-tenant there is nobody to quote.
+BANNED_PRICING = [
+    "we charge", "our price", "our prices", "our rate", "our rates", "our fee",
+    "our fees", "our pricing", "we quote", "we bill", "we offer", "our cost",
+    "call for a quote", "call for pricing", "ask about our", "we beat",
+    "lowest price", "best price", "cheapest", "price match", "discount",
+    "coupon", "special offer", "save $", "% off", "starting at only", "as low as",
+]
+# Terms the sitewide pre-tenant ban blocks, but which the fees page must be able
+# to use, because explaining what a state's own rule permits is information --
+# not a claim about what anyone here charges.
+PRICING_EXEMPT = ["contingency fee"]
+# Ceiling is generous because the standing chrome on this page (the sourced
+# anchor cards, the caveat, the table, the swapped disclosure) runs ~750 words
+# before any authored copy. Authored body still targets 700-900.
+PRICING_WORDS = (900, 1750)
+PRICING_ROWS = (4, 8)
+# Every dollar range in a cost row needs real published figures behind it. This
+# requirement exists because it was missing: the first 20 home-service pages
+# were built with rows reasoned from a wage figure and a guess at parts, sitting
+# next to genuinely cited permit fees, which made invented numbers look sourced.
+# Legal fee_rows always required a source. Cost rows now do too.
+PRICING_ROW_SOURCES = (2, 4)
+# A source must be a business that actually serves the metro and publishes its
+# own prices, or a manufacturer/utility/government schedule. National "cost
+# guide" pages are lead-generation content with modelled numbers and no
+# accountability, and several of them disagree with each other by 3x.
+BANNED_PRICE_SOURCES = [
+    "angi.com", "angieslist.com", "homeadvisor.com", "thumbtack.com",
+    "fixr.com", "homewyse.com", "porch.com", "yelp.com", "forbes.com",
+    "bobvila.com", "costpatch.com", "buildx.pro", "modernize.com",
+    "thisoldhouse.com", "houzz.com", "networx.com", "homeguide.com",
+    "lawnstarter.com", "manta.com", "expertise.com", "bark.com",
+    "costimates.com", "improvenet.com", "hometownquotes.com", "networx.net",
+    "sidepost.com", "craftjack.com", "servicewhale.com",
+]
+PRICING_FEE_ROWS = (3, 6)
+PRICING_ANCHORS = (2, 4)
+
+# These are American sites for American readers. British spellings slipped into
+# 15 sites before this guard existed, including the footer disclosure on all 40
+# legal sites. Checked on every page of every site, not just the pricing page.
+# Matched as whole words. Substring matching gave false positives: a garage door
+# opener is "programmed", which contains the British "programme", and "analysis"
+# is correct American English while "analyse" is not.
+BRITISH_SPELLINGS = re.compile(
+    r"\b("
+    r"licence[sd]?|labour[esr]*|colour[sedu]*|organis(?:e|es|ed|ing|ation[s]?)"
+    r"|centre[sd]?|behaviour[s]?|whilst|analyse[sd]?|analysing|defence[s]?"
+    r"|favour(?:s|ed|ing|able|ite[s]?)?|neighbour(?:s|hood[s]?|ing)?"
+    r"|metre[s]?|honour(?:s|ed|able)?|cheque[s]?|programme[s]?"
+    r"|enrol|enrolment[s]?|fulfil|fulfilment[s]?|travelled|travelling"
+    r"|practise[sd]?|practising|towards"
+    # -ise/-isation verbs. Enumerated rather than pattern-matched because plenty
+    # of correct American words end in -ise: advertise, exercise, supervise,
+    # franchise, comprise, promise, enterprise, compromise, merchandise.
+    r"|(?:authoris|recognis|realis|apologis|specialis|minimis|maximis|utilis"
+    r"|prioritis|categoris|summaris|criticis|standardis|modernis|normalis"
+    r"|penalis|publicis|stabilis|sterilis|sympathis|theoris|visualis|customis"
+    r"|optimis|legalis|finalis|formalis|generalis|itemis|jeopardis|memoris"
+    r"|mobilis|neutralis|popularis|pressuris|rationalis|revitalis|scrutinis"
+    r"|synchronis|vandalis|weatheris|emphasis(?=e))(?:e|es|ed|ing|ation[s]?)"
+    r"|(?:paralys|catalys|hydrolys)(?:e|es|ed|ing|is)"
+    # Spelling pairs that matter on these trades: mould/mold on the remediation
+    # site, storey/story on multi-level buildings, tyre and kerb on driveways.
+    r"|offence[s]?|pretence[s]?|storey[s]?|mould[siy]*|smoulder\w*|kerb[s]?"
+    r"|tyre[s]?|aluminium|draught[sy]*|plough\w*|grey(?:ish)?|gaol\w*"
+    r"|label(?:led|ling)|model(?:led|ling)|signal(?:led|ling)|fuel(?:led|ling)"
+    r"|total(?:led|ling)|marvellous|instalment[s]?|skilful\w*|wilful\w*"
+    r"|distil|instil|councillor[s]?|jewellery|programm(?:ed|ing)(?= a )"
+    r")\b", re.I)
 
 TENANT_FIELDS = ["business_name", "license_number", "years_in_business",
                  "reviews", "service_hours", "family_owned", "veteran_owned"]
@@ -362,7 +438,7 @@ def build(domain, live=False, check_only=False, corpus=None):
         f"not a referral or matching service, and does not screen, evaluate, "
         f"recommend or select an {pro} for anyone. When an {pro} advertises here, "
         f"calls reach that one office and go nowhere else. No fee arrangement, "
-        f"outcome, price, licence, insurance or review claim appears on this page, "
+        f"outcome, price, license, insurance or review claim appears on this page, "
         f"because no {pro} is named on it yet. Confirm credentials directly with "
         f"anyone you engage."
     ) if legal else (
@@ -422,6 +498,9 @@ def build(domain, live=False, check_only=False, corpus=None):
     if phase == 2 and len(services) < MIN_SERVICES:
         errs.append(f"{len(services)} service pages, needs {MIN_SERVICES}+")
     ctx["nav_services"] = services
+    # Must be set before any page renders -- every page's nav reads it.
+    ctx["has_pricing"] = bool(s.get("pricing"))
+    ctx["pricing_nav"] = ("How Fees Work" if legal else "What It Costs")
 
     pages = {}
     pages["index.html"] = env.get_template("index.html").render(
@@ -475,6 +554,181 @@ def build(domain, live=False, check_only=False, corpus=None):
         page_lede="One number, and the four things worth having ready when you call.",
         page_body=contact_body, page_cards=None, page_expects=expects, **ctx)
 
+    # --- pricing / fees page -------------------------------------------------
+    pr = s.get("pricing")
+    if pr:
+        mode = pr.get("mode")
+        if mode not in ("cost", "fees"):
+            errs.append(f"pricing.mode must be 'cost' or 'fees', got {mode!r}")
+        if legal and mode == "cost":
+            errs.append("pricing.mode 'cost' on a legal site: publishing dollar "
+                        "ranges for legal work reads as a fee claim, use 'fees'")
+        if not legal and mode == "fees":
+            errs.append("pricing.mode 'fees' on a home-services site, use 'cost'")
+        if not pr.get("table_head"):
+            errs.append("pricing.table_head is missing")
+
+        anchors = pr.get("anchors", [])
+        if not (PRICING_ANCHORS[0] <= len(anchors) <= PRICING_ANCHORS[1]):
+            errs.append(f"pricing.anchors: {len(anchors)}, needs "
+                        f"{PRICING_ANCHORS[0]}-{PRICING_ANCHORS[1]}")
+        for i, a in enumerate(anchors, 1):
+            for f in ("label", "value", "detail", "source_name", "source_url"):
+                if not a.get(f):
+                    errs.append(f"pricing.anchors[{i}] is missing {f!r}")
+            if not str(a.get("source_url", "")).startswith("https://"):
+                errs.append(f"pricing.anchors[{i}] source_url must be https")
+
+        if mode == "cost":
+            rows = pr.get("rows", [])
+            if not (PRICING_ROWS[0] <= len(rows) <= PRICING_ROWS[1]):
+                errs.append(f"pricing.rows: {len(rows)}, needs "
+                            f"{PRICING_ROWS[0]}-{PRICING_ROWS[1]}")
+            for i, r in enumerate(rows, 1):
+                for f in ("job", "basis", "note"):
+                    if not r.get(f):
+                        errs.append(f"pricing.rows[{i}] is missing {f!r}")
+                lo, hi = r.get("low"), r.get("high")
+                if not isinstance(lo, int) or not isinstance(hi, int):
+                    errs.append(f"pricing.rows[{i}] low/high must be whole dollars")
+                elif not (0 < lo < hi):
+                    errs.append(f"pricing.rows[{i}] needs 0 < low < high, got {lo}/{hi}")
+                nw = len(str(r.get("note", "")).split())
+                if not (5 <= nw <= 30):
+                    errs.append(f"pricing.rows[{i}] note is {nw} words, must be 5-30")
+                # Every range needs published figures behind it, from separate
+                # businesses. One operator's price list is that operator's
+                # price, not the market.
+                srcs = r.get("sources") or []
+                if not (PRICING_ROW_SOURCES[0] <= len(srcs) <= PRICING_ROW_SOURCES[1]):
+                    errs.append(
+                        f"pricing.rows[{i}] has {len(srcs)} sources, needs "
+                        f"{PRICING_ROW_SOURCES[0]}-{PRICING_ROW_SOURCES[1]} -- a "
+                        "dollar range with no published figure behind it is invented")
+                hosts = []
+                for j, sc in enumerate(srcs, 1):
+                    if not sc.get("name") or not sc.get("url"):
+                        errs.append(f"pricing.rows[{i}].sources[{j}] needs name and url")
+                        continue
+                    u = str(sc["url"])
+                    if not u.startswith("https://"):
+                        errs.append(f"pricing.rows[{i}].sources[{j}] url must be https")
+                    host = urlsplit(u).hostname or ""
+                    host = host.lower().removeprefix("www.")
+                    hosts.append(host)
+                    bad = [b for b in BANNED_PRICE_SOURCES if b in host]
+                    if bad:
+                        errs.append(
+                            f"pricing.rows[{i}].sources[{j}] is {bad[0]}, a national "
+                            "cost-guide -- use businesses that serve this metro and "
+                            "publish their own prices")
+                if len(set(h for h in hosts if h)) < len([h for h in hosts if h]):
+                    errs.append(f"pricing.rows[{i}] cites the same site twice -- "
+                                "sources must be separate businesses")
+        else:
+            frows = pr.get("fee_rows", [])
+            if not (PRICING_FEE_ROWS[0] <= len(frows) <= PRICING_FEE_ROWS[1]):
+                errs.append(f"pricing.fee_rows: {len(frows)}, needs "
+                            f"{PRICING_FEE_ROWS[0]}-{PRICING_FEE_ROWS[1]}")
+            for i, r in enumerate(frows, 1):
+                for f in ("stage", "share", "note", "source_name", "source_url"):
+                    if not r.get(f):
+                        errs.append(f"pricing.fee_rows[{i}] is missing {f!r}")
+                if not str(r.get("source_url", "")).startswith("https://"):
+                    errs.append(f"pricing.fee_rows[{i}] source_url must be https "
+                                "-- every fee ceiling needs the rule it comes from")
+
+        # The sitewide footer says no price claim appears on the page. On this one
+        # page that would be false, so that single clause is swapped for the
+        # narrower true statement. The wording depends on what the table actually
+        # holds: researched market ranges on a cost page, amounts the law sets on
+        # a fees page. Calling a statutory fine a "market range" would be wrong.
+        price_disclosure = disclosure
+        if pre:
+            what = (f"prices published by companies working in {s['city']}"
+                    if mode == "cost"
+                    else f"amounts set by {s['state_full']} law and by Bar rule")
+            price_disclosure = (disclosure
+                .replace("No fee arrangement, outcome, price, license, insurance or "
+                         "review claim appears on this page, because no "
+                         f"{pro} is named on it yet.",
+                         f"The figures on this page are {what}, sources named, not "
+                         f"a fee quote and not an offer from any {pro}. No outcome, "
+                         "license, insurance or review claim appears here.")
+                .replace("No pricing, licensing, insurance or review claims are made "
+                         "on this page, because no provider is named on it yet.",
+                         f"The figures on this page are {what}, sources named, not a "
+                         "quote and not an offer from any provider. No licensing, "
+                         "insurance or review claim appears here."))
+
+        for key in ("pricing_lede", "pricing_body"):
+            if not c.get(key):
+                errs.append(f"copy.md is missing '## {key}' but site.json has pricing")
+
+        if pre and price_disclosure == disclosure:
+            errs.append("the pricing disclosure swap did not fire -- the page would "
+                        "claim no price appears on it while showing prices")
+
+        # These sentences are the compliance line on the page. They are fixed in
+        # code on purpose: copy.md never gets to reword them.
+        fee_kind = pr.get("fee_kind")
+        if mode == "fees" and fee_kind not in ("contingency", "criminal"):
+            errs.append("pricing.fee_kind must be 'contingency' or 'criminal', "
+                        f"got {fee_kind!r} -- the two have different fee rules")
+        # One numbered list per page, deduped by URL, so a row can cite three
+        # operators without turning the table into a wall of links. Rows carry
+        # the reference numbers.
+        price_sources = []
+        if mode == "cost":
+            seen = {}
+            for r in pr.get("rows", []):
+                refs = []
+                for sc in (r.get("sources") or []):
+                    u = sc.get("url")
+                    if not u:
+                        continue
+                    if u not in seen:
+                        price_sources.append({"name": sc.get("name", ""), "url": u})
+                        seen[u] = len(price_sources)
+                    refs.append(seen[u])
+                r["refs"] = sorted(set(refs))
+
+        CAVEATS = {
+            "cost": (
+                f"Every range below is what companies working in {s['city']} publish "
+                "for that job, gathered from the numbered price pages under the "
+                "table. It spans what several of them show, so the figures move "
+                "with the specifics of the property and with who does the work. "
+                "Nothing here is a quote, and no business has set a price on this "
+                "page. A real number comes from whoever looks at the job."),
+            "contingency": (
+                f"These are the ceilings the {s['state_full']} rules put on a fee taken "
+                "out of a recovery, not what any particular firm charges. A fee is "
+                "set in a written agreement signed with the firm, and a ceiling is "
+                "a limit rather than a going rate."),
+            "criminal": (
+                "A fee taken out of the result is not allowed in a criminal case, "
+                "so nothing here is a percentage. The amounts below are what "
+                f"{s['state_full']} law itself sets, and what a firm charges to handle "
+                "the case is separate, written down, and agreed before the work "
+                "starts. Nothing on this page is a quote."),
+        }
+        caveat = CAVEATS.get("cost" if mode == "cost" else fee_kind, "")
+        pages["pricing/index.html"] = env.get_template("pricing.html").render(
+            meta_title=(f"{s['service']} Cost in {s['city']}, {s['state']}"
+                        if mode == "cost" else
+                        f"{s['service']} Fees in {s['city']}, {s['state']}"),
+            meta_description=c.get("pricing_lede", "").split(". ")[0][:155] + ".",
+            canonical_path="/pricing/", base="../", schema_json=None,
+            page_h1=(f"What {s['service']} Costs" if mode == "cost"
+                     else f"How {s['service']} Fees Work"),
+            page_kicker=f"in {s['city']}",
+            page_lede=c.get("pricing_lede", ""),
+            page_body=md.markdown(c.get("pricing_body", "")),
+            pr=pr, range_caveat=caveat, price_sources=price_sources,
+            page_cards=None, page_links=services,
+            **{**ctx, "disclosure": price_disclosure})
+
     for key in ("hero_accent", "trust_third"):
         if not s.get(key):
             errs.append(f"site.json is missing {key!r} -- it appears in the H1 or the trust band")
@@ -515,6 +769,35 @@ def build(domain, live=False, check_only=False, corpus=None):
         for phrase in BANNED_PRE_TENANT:
             if phrase in low:
                 errs.append(f"unverifiable pre-tenant claim on page: '{phrase}'")
+
+    for page_name, page_html in pages.items():
+        hit = BRITISH_SPELLINGS.search(" ".join(visible_words(page_html)))
+        if hit:
+            errs.append(f"{page_name}: British spelling '{hit.group(0)}' "
+                        "-- these are American sites")
+
+    if "pricing/index.html" in pages:
+        pw = visible_words(pages["pricing/index.html"])
+        n = len(pw)
+        if not (PRICING_WORDS[0] <= n <= PRICING_WORDS[1]):
+            errs.append(f"pricing page {n} visible words, must be "
+                        f"{PRICING_WORDS[0]}-{PRICING_WORDS[1]}")
+        low = " ".join(pw).lower()
+        for phrase in BANNED_PRICING:
+            if phrase in low:
+                errs.append(f"pricing page states the advertiser's own price: '{phrase}'")
+        if pre:
+            for phrase in BANNED_PRE_TENANT:
+                if phrase in PRICING_EXEMPT:
+                    continue
+                if phrase in low:
+                    errs.append(f"unverifiable pre-tenant claim on pricing page: '{phrase}'")
+        # A range with no sourced local anchor is just a guess with a table
+        # around it. Every pricing page must name where its local numbers came
+        # from, on the page, in visible text.
+        if not any(a.get("source_name", "") in " ".join(pw)
+                   for a in s.get("pricing", {}).get("anchors", [])):
+            errs.append("pricing page shows no anchor source name in visible text")
 
     # cross-site duplicate prose: no two sites may share SHINGLE consecutive words
     if corpus is not None:
@@ -605,6 +888,24 @@ def main():
     if not targets:
         targets = sorted(p.name for p in SITES.iterdir() if (p / "site.json").exists())
     corpus, ok, drafts = {}, True, []
+    # Preload the corpus with every OTHER site's shingles when only some sites
+    # were named. The corpus is filled as sites are processed, so a single-domain
+    # run used to compare against an empty corpus and could never report a
+    # duplicate -- a batch could pass its own check and still collide with the
+    # portfolio. Preloading makes one-site checks as strict as the full run.
+    all_sites = sorted(p.name for p in SITES.iterdir() if (p / "site.json").exists())
+    if set(targets) != set(all_sites):
+        for other in all_sites:
+            if other in targets or is_draft(other):
+                continue
+            try:
+                oc = parse_copy(SITES / other / "copy.md")
+            except Exception:
+                continue
+            authored = " ".join(str(v) for k, v in sorted(oc.items()))
+            low = re.findall(r"[a-z0-9']+", authored.lower())
+            corpus[other] = {" ".join(low[i:i + SHINGLE])
+                             for i in range(len(low) - SHINGLE + 1)}
     for d in targets:
         if is_draft(d):
             drafts.append(d)

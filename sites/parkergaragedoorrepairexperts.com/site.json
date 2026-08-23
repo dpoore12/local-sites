@@ -1,143 +1,319 @@
 {
- "domain": "parkergaragedoorrepairexperts.com",
- "phase": 1,
- "brand": "Parker Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Parker",
- "state": "CO",
- "state_full": "Colorado",
- "counties": [
-  "Douglas"
- ],
- "area_codes": [
-  "303",
-  "720"
- ],
- "phone_display": "(720) 735-8376",
- "phone_tel": "+17207358376",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Denver",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-    "id": "newer_housing_and_growth",
-    "claim": "Parker's median year structure built is 2003, and the Census Bureau estimates the town grew from 58,495 residents at the 2020 estimates base to 65,473 in July 2024, an 11.9% increase.",
-    "why_it_matters": "Parker has a large concentration of newer sectional doors and original builder-installed openers, springs, rollers and sensor hardware. Similar installation eras can produce similar wear patterns, but every spring and opener part still has to be measured and tested on site rather than guessed from the neighborhood.",
-    "sources": [
-      "https://www.point2homes.com/US/Neighborhood/CO/Parker-Demographics.html",
-      "https://www.census.gov/quickfacts/fact/table/parkertowncolorado/PST045223"
-    ],
-    "verified": "2026-08-22",
-    "title": "A fast-growing town with a newer garage-door base"
+  "domain": "parkergaragedoorrepairexperts.com",
+  "phase": 1,
+  "brand": "Parker Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Parker",
+  "state": "CO",
+  "state_full": "Colorado",
+  "counties": [
+    "Douglas"
+  ],
+  "area_codes": [
+    "303",
+    "720"
+  ],
+  "phone_display": "(720) 735-8376",
+  "phone_tel": "+17207358376",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Denver",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-    "id": "door_replacement_permit",
-    "claim": "The Town of Parker states that permits are required for all window and door replacements, and processes applications online through eTRAKiT.",
-    "why_it_matters": "Replacing a spring, cable, roller, sensor or opener component is repair work on an existing system. A full door replacement is an exterior-door project that should include the Town's permit process before a door is ordered; changes to framing or electrical equipment may create additional review needs.",
-    "sources": [
-      "https://www.parkerco.gov/451/When-Permits-are-Required"
-    ],
-    "verified": "2026-08-22",
-    "title": "A new garage door belongs in Parker's permit timeline"
+  "local_facts": [
+    {
+      "id": "newer_housing_and_growth",
+      "claim": "Parker's median year structure built is 2003, and the Census Bureau estimates the town grew from 58,495 residents at the 2020 estimates base to 65,473 in July 2024, an 11.9% increase.",
+      "why_it_matters": "Parker has a large concentration of newer sectional doors and original builder-installed openers, springs, rollers and sensor hardware. Similar installation eras can produce similar wear patterns, but every spring and opener part still has to be measured and tested on site rather than guessed from the neighborhood.",
+      "sources": [
+        "https://www.point2homes.com/US/Neighborhood/CO/Parker-Demographics.html",
+        "https://www.census.gov/quickfacts/fact/table/parkertowncolorado/PST045223"
+      ],
+      "verified": "2026-08-22",
+      "title": "A fast-growing town with a newer garage-door base"
+    },
+    {
+      "id": "door_replacement_permit",
+      "claim": "The Town of Parker states that permits are required for all window and door replacements, and processes applications online through eTRAKiT.",
+      "why_it_matters": "Replacing a spring, cable, roller, sensor or opener component is repair work on an existing system. A full door replacement is an exterior-door project that should include the Town's permit process before a door is ordered; changes to framing or electrical equipment may create additional review needs.",
+      "sources": [
+        "https://www.parkerco.gov/451/When-Permits-are-Required"
+      ],
+      "verified": "2026-08-22",
+      "title": "A new garage door belongs in Parker's permit timeline"
+    },
+    {
+      "id": "hoa_improvement_review",
+      "claim": "The Town of Parker's HOA resource page says an HOA may require a homeowner to provide a plan showing proposed improvements to the property.",
+      "why_it_matters": "An identical repair may be simple, while a full replacement with different windows, color or panel profile can be an exterior change that needs association review. Checking the governing documents while the door is being measured avoids ordering a style that has not been approved.",
+      "sources": [
+        "https://www.parkerco.gov/2361/HOA-Resources"
+      ],
+      "verified": "2026-08-22",
+      "title": "Exterior changes can carry an association review step"
+    }
+  ],
+  "neighborhoods": [
+    "Anthology",
+    "Canterberry Crossing",
+    "Clarke Farms",
+    "Cottonwood",
+    "The Pinery",
+    "Stonegate"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-    "id": "hoa_improvement_review",
-    "claim": "The Town of Parker's HOA resource page says an HOA may require a homeowner to provide a plan showing proposed improvements to the property.",
-    "why_it_matters": "An identical repair may be simple, while a full replacement with different windows, color or panel profile can be an exterior change that needs association review. Checking the governing documents while the door is being measured avoids ordering a style that has not been approved.",
-    "sources": [
-      "https://www.parkerco.gov/2361/HOA-Resources"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Parker",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Parker",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Parker",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Parker",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair parker",
+    "monthly_price": 800,
+    "score": 84,
+    "volume": 150,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "elizabethgaragedoors.com",
+    "competitor_dr": 5.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Parker market ranges, door by door",
+    "anchors": [
+      {
+        "label": "Building permit fee, project valued at $500 or less",
+        "value": "$23.50",
+        "detail": "The Town's valuation schedule starts at $23.50, adds plan review at 65 percent of the permit fee, and collects construction use tax calculated as half the valuation times 4.0 percent.",
+        "source_name": "Town of Parker Building Permit Fee Valuation Schedule",
+        "source_url": "https://www.parkerco.gov/DocumentCenter/View/736"
+      },
+      {
+        "label": "Class D building contractor registration",
+        "value": "$75",
+        "detail": "Annual registration for the class that covers garages, alterations and remodels. Parker issues permits only to a registered contractor or an authorized representative, so an unregistered crew cannot legally file the door.",
+        "source_name": "Parker Municipal Code Chapter 11.19, Contractor Registration",
+        "source_url": "https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT11BUCO_CH11.19CORE"
+      },
+      {
+        "label": "Median hourly wage, carpenters, Denver metro",
+        "value": "$31.21",
+        "detail": "The May 2025 midpoint across 7,250 carpenters in the Denver metro area, and one of the highest of any large inland market. Front Range labor is the single biggest reason numbers here sit above national averages.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_19740.htm"
+      }
     ],
-    "verified": "2026-08-22",
-    "title": "Exterior changes can carry an association review step"
+    "rows": [
+      {
+        "job": "Come out and diagnose a door that stopped working",
+        "low": 29,
+        "high": 149,
+        "basis": "per visit",
+        "note": "Booked weekday slots sit low, often credited against the repair.",
+        "sources": [
+          {
+            "name": "Smart Garage Door, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.smartgaragedoorco.com/how-much-does-it-cost-to-fix-a-garage-door-in-denver"
+          },
+          {
+            "name": "Hoppers Garage, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.hgs-denver.com/price-transparency"
+          },
+          {
+            "name": "Denver Garage Door Ltd, Denver, posted price list, read 2026-08-23",
+            "url": "https://denvergaragedoor.com/service-areas/garage-door-sensor-alignment-in-denver-colorado/"
+          }
+        ]
+      },
+      {
+        "job": "Pair of torsion springs replaced on a builder-installed double door",
+        "low": 150,
+        "high": 600,
+        "basis": "flat",
+        "note": "Original builder springs are common; both go together to stay balanced.",
+        "sources": [
+          {
+            "name": "Highlands Ranch Garage Door, Highlands Ranch, posted price list, read 2026-08-23",
+            "url": "https://highlandsranchgaragedoor.com/articles/garage-door-repair-cost-highlands-ranch"
+          },
+          {
+            "name": "One Clear Choice Garage Doors, Parker, posted price list, read 2026-08-23",
+            "url": "https://www.oneclearchoicegaragedoors.com/garage-door-repair-cost-denver-2026/"
+          },
+          {
+            "name": "Blue Sky Doors, Denver, posted price list, read 2026-08-23",
+            "url": "https://blueskygaragedoors.com/blog/garage-door-opener-installation-denver/"
+          }
+        ]
+      },
+      {
+        "job": "Full set of ten nylon rollers replaced",
+        "low": 79,
+        "high": 250,
+        "basis": "per unit",
+        "note": "Stamped rollers grind once the grease dries; nylon runs quieter.",
+        "sources": [
+          {
+            "name": "Smart Garage Door, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.smartgaragedoorco.com/how-much-does-it-cost-to-fix-a-garage-door-in-denver"
+          },
+          {
+            "name": "Hoppers Garage, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.hgs-denver.com/price-transparency"
+          },
+          {
+            "name": "Highlands Ranch Garage Door, Highlands Ranch, posted price list, read 2026-08-23",
+            "url": "https://highlandsranchgaragedoor.com/articles/garage-door-repair-cost-highlands-ranch"
+          }
+        ]
+      },
+      {
+        "job": "Cables re-spooled and drums reset after the door came off crooked",
+        "low": 89,
+        "high": 400,
+        "basis": "flat",
+        "note": "Cables are quoted per side, so a two-sided reset doubles it.",
+        "sources": [
+          {
+            "name": "Hoppers Garage, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.hgs-denver.com/price-transparency"
+          },
+          {
+            "name": "One Clear Choice Garage Doors, Parker, posted price list, read 2026-08-23",
+            "url": "https://www.oneclearchoicegaragedoors.com/garage-door-repair-cost-denver-2026/"
+          },
+          {
+            "name": "Sky Castle Garage Doors, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.skycastlegaragedoors.com/garage-door-faqs"
+          }
+        ]
+      },
+      {
+        "job": "Safety sensors, wiring and travel limits sorted out",
+        "low": 59,
+        "high": 200,
+        "basis": "flat",
+        "note": "Sun glare and stapled builder wiring cause most of these calls.",
+        "sources": [
+          {
+            "name": "Smart Garage Door, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.smartgaragedoorco.com/how-much-does-it-cost-to-fix-a-garage-door-in-denver"
+          },
+          {
+            "name": "Blue Sky Doors, Denver, posted price list, read 2026-08-23",
+            "url": "https://blueskygaragedoors.com/blog/garage-door-opener-installation-denver/"
+          },
+          {
+            "name": "Denver Garage Door Ltd, Denver, posted price list, read 2026-08-23",
+            "url": "https://denvergaragedoor.com/service-areas/garage-door-sensor-alignment-in-denver-colorado/"
+          }
+        ]
+      },
+      {
+        "job": "Opener replaced with a quiet head and battery backup",
+        "low": 249,
+        "high": 1299,
+        "basis": "per unit",
+        "note": "Bedrooms sit over most garages, so quiet heads are the practical pick.",
+        "sources": [
+          {
+            "name": "Smart Garage Door, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.smartgaragedoorco.com/how-much-does-it-cost-to-fix-a-garage-door-in-denver"
+          },
+          {
+            "name": "Hoppers Garage, Denver, posted price list, read 2026-08-23",
+            "url": "https://www.hgs-denver.com/price-transparency"
+          },
+          {
+            "name": "Blue Sky Doors, Denver, posted price list, read 2026-08-23",
+            "url": "https://blueskygaragedoors.com/blog/garage-door-opener-installation-denver/"
+          }
+        ]
+      },
+      {
+        "job": "Insulated steel double door installed, permitted and use tax paid",
+        "low": 1050,
+        "high": 6000,
+        "basis": "per unit",
+        "note": "Windows and thicker sections drive it; permit and use tax ride along.",
+        "sources": [
+          {
+            "name": "Martin Garage Door, Parker, posted price list, read 2026-08-23",
+            "url": "https://www.martingaragedoor.com/new-garage-door-cost-in-parker-co/"
+          },
+          {
+            "name": "G Brothers, Denver, posted price list, read 2026-08-23",
+            "url": "https://gbrothersgaragedoors.com/blog/garage-door-replacement-cost-denver-in-denver/"
+          },
+          {
+            "name": "Don's Garage Doors, Parker, posted price list, read 2026-08-23",
+            "url": "https://donsgaragedoors.com/new-garage-door-installation-cost-timeline/"
+          }
+        ]
+      }
+    ]
   }
-],
- "neighborhoods": [
-  "Anthology",
-  "Canterberry Crossing",
-  "Clarke Farms",
-  "Cottonwood",
-  "The Pinery",
-  "Stonegate"
-],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Parker",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Parker",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Parker",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Parker",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair parker",
-  "monthly_price": 800,
-  "score": 84,
-  "volume": 150,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "elizabethgaragedoors.com",
-  "competitor_dr": 5.0
- }
 }

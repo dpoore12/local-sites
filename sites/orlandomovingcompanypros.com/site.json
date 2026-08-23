@@ -1,144 +1,328 @@
 {
- "domain": "orlandomovingcompanypros.com",
- "phase": 2,
- "brand": "Orlando Moving Services Pros",
- "service": "Moving Services",
- "service_inline": "moving services",
- "city": "Orlando",
- "state": "FL",
- "state_full": "Florida",
- "counties": [
-  "Orange",
-  "Brevard"
- ],
- "area_codes": [
-  "321",
-  "407"
- ],
- "phone_display": "(321) 463-9055",
- "phone_tel": "+13214639055",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "mover_registration_rule",
-   "claim": "Chapter 507 of the Florida Statutes requires every mover doing intrastate household moves in Florida to register with the Florida Department of Agriculture and Consumer Services before operating or advertising. The registration number must appear on each estimate and contract, in advertising, and on a sign on the driver's-side door of the truck in lettering at least 1.5 inches tall. Operating unregistered draws an immediate cease and desist order and a civil penalty of up to $5,000, and withholding delivery of goods after the shipper has paid what the estimate states is a prohibited practice.",
-   "why_it_matters": "It gives an Orlando household three concrete things to check before load day: the number on the written estimate, the number in the advertisement, and the number on the door of the truck in the driveway. It also means the written estimate is a regulated document rather than a courtesy, and that goods cannot be held in storage as leverage once payment matches the estimate.",
-   "sources": [
-    "https://www.fdacs.gov/Business-Services/Moving-Companies",
-    "https://www.flsenate.gov/Laws/Statutes/2024/507.03",
-    "https://www.flsenate.gov/Laws/Statutes/2024/507.07"
-   ],
-   "verified": "2026-08-21",
-   "title": "Florida movers must carry a state registration number on the estimate and on the truck door"
+  "domain": "orlandomovingcompanypros.com",
+  "phase": 2,
+  "brand": "Orlando Moving Services Pros",
+  "service": "Moving Services",
+  "service_inline": "moving services",
+  "city": "Orlando",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Orange",
+    "Brevard"
+  ],
+  "area_codes": [
+    "321",
+    "407"
+  ],
+  "phone_display": "(321) 463-9055",
+  "phone_tel": "+13214639055",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "orange_county_growth",
-   "claim": "The Census Bureau puts Orange County at 1,528,002 residents as of July 1, 2025, up 6.9 percent from the 1,429,910 counted in the 2020 census. The Orlando Economic Partnership reports the Orlando region added 37,690 residents in the year ending July 1, 2025, the sixth fastest growth among large U.S. regions.",
-   "why_it_matters": "Constant in-migration and turnover is why moving capacity in Orlando is tight at month end and why interstate loads arriving here are usually consolidated with other shipments. It also explains the mix of jobs: long hauls inbound from other states, and short cross-county moves as households shift between Orange, Osceola, Seminole and Brevard.",
-   "sources": [
-    "https://www.census.gov/quickfacts/fact/table/orangecountyflorida/PST045225",
-    "https://news.orlando.org/blog/orlando-population-growth-again-among-highest-in-nation/"
-   ],
-   "verified": "2026-08-21",
-   "title": "Orange County passed 1.5 million residents and the region added 37,690 people in a year"
+  "local_facts": [
+    {
+      "id": "mover_registration_rule",
+      "claim": "Chapter 507 of the Florida Statutes requires every mover doing intrastate household moves in Florida to register with the Florida Department of Agriculture and Consumer Services before operating or advertising. The registration number must appear on each estimate and contract, in advertising, and on a sign on the driver's-side door of the truck in lettering at least 1.5 inches tall. Operating unregistered draws an immediate cease and desist order and a civil penalty of up to $5,000, and withholding delivery of goods after the shipper has paid what the estimate states is a prohibited practice.",
+      "why_it_matters": "It gives an Orlando household three concrete things to check before load day: the number on the written estimate, the number in the advertisement, and the number on the door of the truck in the driveway. It also means the written estimate is a regulated document rather than a courtesy, and that goods cannot be held in storage as leverage once payment matches the estimate.",
+      "sources": [
+        "https://www.fdacs.gov/Business-Services/Moving-Companies",
+        "https://www.flsenate.gov/Laws/Statutes/2024/507.03",
+        "https://www.flsenate.gov/Laws/Statutes/2024/507.07"
+      ],
+      "verified": "2026-08-21",
+      "title": "Florida movers must carry a state registration number on the estimate and on the truck door"
+    },
+    {
+      "id": "orange_county_growth",
+      "claim": "The Census Bureau puts Orange County at 1,528,002 residents as of July 1, 2025, up 6.9 percent from the 1,429,910 counted in the 2020 census. The Orlando Economic Partnership reports the Orlando region added 37,690 residents in the year ending July 1, 2025, the sixth fastest growth among large U.S. regions.",
+      "why_it_matters": "Constant in-migration and turnover is why moving capacity in Orlando is tight at month end and why interstate loads arriving here are usually consolidated with other shipments. It also explains the mix of jobs: long hauls inbound from other states, and short cross-county moves as households shift between Orange, Osceola, Seminole and Brevard.",
+      "sources": [
+        "https://www.census.gov/quickfacts/fact/table/orangecountyflorida/PST045225",
+        "https://news.orlando.org/blog/orlando-population-growth-again-among-highest-in-nation/"
+      ],
+      "verified": "2026-08-21",
+      "title": "Orange County passed 1.5 million residents and the region added 37,690 people in a year"
+    },
+    {
+      "id": "rental_and_multifamily_mix",
+      "claim": "Census QuickFacts puts the owner-occupied housing rate in Orange County at 56.8 percent for 2020-2024, meaning roughly 43 to 44 percent of occupied homes are rented. Orange County's own fair housing analysis counts 209,073 renter-occupied units out of 444,543 occupied units, about 44 percent, and reports that apartment complexes make up about 28 percent of the county's housing stock against 56.5 percent single-family detached.",
+      "why_it_matters": "Apartment and condo moves are the most common household move in Orlando, and managed properties set the terms: a certificate of insurance naming the property, a reserved service elevator or loading window that is often weekday-only, gate codes and dock heights. Those requirements decide the arrival time and the crew size, and a crew that turns up without the paperwork is refused at the dock.",
+      "sources": [
+        "https://www.census.gov/quickfacts/fact/table/orangecountyflorida/PST045225",
+        "https://www.orangecountyfl.net/Portals/0/resource%20library/neighbors%20-%20housing/2016-2020%20Orange%20County%20Analysis%20of%20Impediments%20to%20Fair%20Housing%20Choice.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "About 44 percent of Orange County households rent, and building rules run the move"
+    }
+  ],
+  "neighborhoods": [
+    "College Park",
+    "Baldwin Park",
+    "Thornton Park",
+    "Audubon Park",
+    "Lake Nona",
+    "MetroWest"
+  ],
+  "symptoms": [
+    "moving_locally",
+    "moving_long_distance",
+    "apartment_move",
+    "needs_packing_help"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "rental_and_multifamily_mix",
-   "claim": "Census QuickFacts puts the owner-occupied housing rate in Orange County at 56.8 percent for 2020-2024, meaning roughly 43 to 44 percent of occupied homes are rented. Orange County's own fair housing analysis counts 209,073 renter-occupied units out of 444,543 occupied units, about 44 percent, and reports that apartment complexes make up about 28 percent of the county's housing stock against 56.5 percent single-family detached.",
-   "why_it_matters": "Apartment and condo moves are the most common household move in Orlando, and managed properties set the terms: a certificate of insurance naming the property, a reserved service elevator or loading window that is often weekday-only, gate codes and dock heights. Those requirements decide the arrival time and the crew size, and a crew that turns up without the paperwork is refused at the dock.",
-   "sources": [
-    "https://www.census.gov/quickfacts/fact/table/orangecountyflorida/PST045225",
-    "https://www.orangecountyfl.net/Portals/0/resource%20library/neighbors%20-%20housing/2016-2020%20Orange%20County%20Analysis%20of%20Impediments%20to%20Fair%20Housing%20Choice.pdf"
-   ],
-   "verified": "2026-08-21",
-   "title": "About 44 percent of Orange County households rent, and building rules run the move"
+  "hero_accent": "Careful Moving, Clear Pricing",
+  "trust_third": "Move price outlined before moving day",
+  "services": [
+    {
+      "slug": "local-moving",
+      "name": "Local Moving",
+      "nav": "Local moving",
+      "h1": "Local Moving Services",
+      "accent": "Careful Moves Across Town",
+      "keyword": "local moving company",
+      "icon": "house"
+    },
+    {
+      "slug": "long-distance-moving",
+      "name": "Long-Distance Moving",
+      "nav": "Long-distance moving",
+      "h1": "Long-Distance Moving Services",
+      "accent": "Long-Distance Moves Planned Clearly",
+      "keyword": "long distance moving company",
+      "icon": "pin"
+    },
+    {
+      "slug": "apartment-moving",
+      "name": "Apartment Moving",
+      "nav": "Apartment moving",
+      "h1": "Apartment Moving Services",
+      "accent": "Apartment Moves Handled Carefully",
+      "keyword": "apartment movers",
+      "icon": "house"
+    },
+    {
+      "slug": "packing-services",
+      "name": "Packing Services",
+      "nav": "Packing services",
+      "h1": "Packing Services",
+      "accent": "Belongings Packed for a Safer Move",
+      "keyword": "packing services movers",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "local-moving",
+    "long-distance-moving",
+    "apartment-moving",
+    "packing-services"
+  ],
+  "_market": {
+    "keyword": "orlando moving company",
+    "monthly_price": 1250,
+    "score": 67,
+    "volume": 350,
+    "cpc_usd": 12.0,
+    "weakest_competitor": "orlandomovingco.com",
+    "competitor_dr": 4.0
+  },
+  "pro_noun": "crew",
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Orlando crew rates and finished job totals, as posted",
+    "anchors": [
+      {
+        "label": "Florida mover registration, per year",
+        "value": "$300",
+        "detail": "Every mover or moving broker handling an intrastate Florida household move pays $300 a year to register with the Department of Agriculture and Consumer Services, and the assigned registration number has to appear on the written estimate and the contract.",
+        "source_name": "Fla. Stat. 507.03",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/0507.03"
+      },
+      {
+        "label": "Civil penalty for working unregistered",
+        "value": "up to $5,000",
+        "detail": "The statute also requires the mover's name and registration number in lettering at least one and a half inches high on the driver's side of the truck, so the number on the paperwork can be matched to the vehicle in the driveway.",
+        "source_name": "Fla. Stat. 507.07",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2024/507.07"
+      },
+      {
+        "label": "Median hourly wage, freight and material movers, Orlando metro",
+        "value": "$18.57",
+        "detail": "The May 2025 median for the 24,080 people doing this work across Orlando, Kissimmee and Sanford. A truck, fuel, pads, insurance and dispatch sit on top of that wage before an hour becomes billable.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_36740.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Two movers and a truck, by the hour",
+        "low": 120,
+        "high": 180,
+        "basis": "per hour, truck and fuel included",
+        "note": "Weekend and month-end slots sit at the ceiling. Card payment adds a posted processing percentage at several companies.",
+        "sources": [
+          {
+            "name": "Cento Moving, Orlando, posted hourly bands, read 2026-08-23",
+            "url": "https://centomoving.com/cost-to-hire-movers-in-orlando/"
+          },
+          {
+            "name": "Liberty Moves, Orlando, posted crew rate page, read 2026-08-23",
+            "url": "https://www.libertymovesorlando.com/orlando-moving-cost"
+          },
+          {
+            "name": "We Like To Move It Movers, Orlando, posted rate card, read 2026-08-23",
+            "url": "https://weliketomoveitmovers.com/"
+          },
+          {
+            "name": "Toro Movers, Orlando, posted crew rate bands, read 2026-08-23",
+            "url": "https://toromovers.com/blog/how-much-does-a-local-move-cost-orlando"
+          }
+        ]
+      },
+      {
+        "job": "Three movers and a truck, by the hour",
+        "low": 150,
+        "high": 270,
+        "basis": "per hour, truck and fuel included",
+        "note": "The third mover usually shortens the job enough to cost less overall than two movers on a full house.",
+        "sources": [
+          {
+            "name": "Toro Movers, Orlando, posted crew rate bands, read 2026-08-23",
+            "url": "https://toromovers.com/blog/how-much-does-a-local-move-cost-orlando"
+          },
+          {
+            "name": "Liberty Moves, Orlando, posted crew rate page, read 2026-08-23",
+            "url": "https://www.libertymovesorlando.com/orlando-moving-cost"
+          },
+          {
+            "name": "We Like To Move It Movers, Orlando, posted rate card, read 2026-08-23",
+            "url": "https://weliketomoveitmovers.com/"
+          },
+          {
+            "name": "Cento Moving, Orlando, posted hourly bands, read 2026-08-23",
+            "url": "https://centomoving.com/cost-to-hire-movers-in-orlando/"
+          }
+        ]
+      },
+      {
+        "job": "Two-person labor crew, household supplies the truck",
+        "low": 90,
+        "high": 150,
+        "basis": "per hour, no vehicle",
+        "note": "Loading a rental truck or a container. Cheaper by the hour, but the driving, fuel and tolls fall on the household.",
+        "sources": [
+          {
+            "name": "Easy Moving Pros, Orlando, posted labor-only rate, read 2026-08-23",
+            "url": "https://easymovingpros.com/"
+          },
+          {
+            "name": "UniMovers Orlando, posted hourly rate, read 2026-08-23",
+            "url": "https://unimovers.com/movers/fl/orlando/"
+          },
+          {
+            "name": "Happy Moving LLC, Orlando, posted helper rates, read 2026-08-23",
+            "url": "https://www.happymovingllc.com/"
+          }
+        ]
+      },
+      {
+        "job": "The posted minimum, before a single box is carried",
+        "low": 180,
+        "high": 405,
+        "basis": "two to three hour minimum, crew of two",
+        "note": "Almost every Orlando company bills a floor. A one-hour job is charged as two or three hours.",
+        "sources": [
+          {
+            "name": "Easy Moving Pros, Orlando, posted two-hour minimum, read 2026-08-23",
+            "url": "https://easymovingpros.com/"
+          },
+          {
+            "name": "Happy Moving LLC, Orlando, posted two-hour minimum, read 2026-08-23",
+            "url": "https://www.happymovingllc.com/"
+          },
+          {
+            "name": "We Like To Move It Movers, Orlando, posted three-hour minimum, read 2026-08-23",
+            "url": "https://weliketomoveitmovers.com/"
+          }
+        ]
+      },
+      {
+        "job": "Studio or one-bedroom apartment, across town",
+        "low": 340,
+        "high": 750,
+        "basis": "finished job, two movers",
+        "note": "Elevator buildings and a long walk from the loading zone to the door are what push a small load upward.",
+        "sources": [
+          {
+            "name": "Toro Movers, Orlando, posted job averages, read 2026-08-23",
+            "url": "https://toromovers.com/blog/how-much-does-a-local-move-cost-orlando"
+          },
+          {
+            "name": "Orlando Express Movers, posted job totals, read 2026-08-23",
+            "url": "https://orlandoexpressmovers.com/orlando-moving-cost/"
+          },
+          {
+            "name": "Liberty Moves, Orlando, posted job totals, read 2026-08-23",
+            "url": "https://www.libertymovesorlando.com/orlando-moving-cost"
+          }
+        ]
+      },
+      {
+        "job": "Two-bedroom apartment or small house, under thirty miles",
+        "low": 725,
+        "high": 1100,
+        "basis": "finished job, two or three movers, four to five hours",
+        "note": "Second-floor walk-ups at both ends add an hour or more of carrying that nothing in the inventory predicts.",
+        "sources": [
+          {
+            "name": "Toro Movers, Orlando, posted two-bedroom average, read 2026-08-23",
+            "url": "https://toromovers.com/blog/how-much-does-a-local-move-cost-orlando"
+          },
+          {
+            "name": "Orlando Express Movers, posted two-bedroom window, read 2026-08-23",
+            "url": "https://orlandoexpressmovers.com/orlando-moving-cost/"
+          },
+          {
+            "name": "We Like To Move It Movers, Orlando, posted hourly rate and return travel policy, read 2026-08-23",
+            "url": "https://weliketomoveitmovers.com/"
+          }
+        ]
+      },
+      {
+        "job": "Three-bedroom house, local",
+        "low": 1200,
+        "high": 2200,
+        "basis": "finished job, three or four movers, six to eight hours",
+        "note": "A garage, an attic and a shed are the three rooms nobody counts, and each one adds crew hours.",
+        "sources": [
+          {
+            "name": "Liberty Moves, Orlando, posted three-bedroom window, read 2026-08-23",
+            "url": "https://www.libertymovesorlando.com/orlando-moving-cost"
+          },
+          {
+            "name": "Orlando Express Movers, posted three-bedroom window, read 2026-08-23",
+            "url": "https://orlandoexpressmovers.com/orlando-moving-cost/"
+          },
+          {
+            "name": "Toro Movers, Orlando, posted three-bedroom average, read 2026-08-23",
+            "url": "https://toromovers.com/blog/how-much-does-a-local-move-cost-orlando"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "College Park",
-  "Baldwin Park",
-  "Thornton Park",
-  "Audubon Park",
-  "Lake Nona",
-  "MetroWest"
- ],
- "symptoms": [
-  "moving_locally",
-  "moving_long_distance",
-  "apartment_move",
-  "needs_packing_help"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Careful Moving, Clear Pricing",
- "trust_third": "Move price outlined before moving day",
- "services": [
-  {
-   "slug": "local-moving",
-   "name": "Local Moving",
-   "nav": "Local moving",
-   "h1": "Local Moving Services",
-   "accent": "Careful Moves Across Town",
-   "keyword": "local moving company",
-   "icon": "house"
-  },
-  {
-   "slug": "long-distance-moving",
-   "name": "Long-Distance Moving",
-   "nav": "Long-distance moving",
-   "h1": "Long-Distance Moving Services",
-   "accent": "Long-Distance Moves Planned Clearly",
-   "keyword": "long distance moving company",
-   "icon": "pin"
-  },
-  {
-   "slug": "apartment-moving",
-   "name": "Apartment Moving",
-   "nav": "Apartment moving",
-   "h1": "Apartment Moving Services",
-   "accent": "Apartment Moves Handled Carefully",
-   "keyword": "apartment movers",
-   "icon": "house"
-  },
-  {
-   "slug": "packing-services",
-   "name": "Packing Services",
-   "nav": "Packing services",
-   "h1": "Packing Services",
-   "accent": "Belongings Packed for a Safer Move",
-   "keyword": "packing services movers",
-   "icon": "check"
-  }
- ],
- "symptom_service": [
-  "local-moving",
-  "long-distance-moving",
-  "apartment-moving",
-  "packing-services"
- ],
- "_market": {
-  "keyword": "orlando moving company",
-  "monthly_price": 1250,
-  "score": 67,
-  "volume": 350,
-  "cpc_usd": 12.0,
-  "weakest_competitor": "orlandomovingco.com",
-  "competitor_dr": 4.0
- },
- "pro_noun": "crew"
 }

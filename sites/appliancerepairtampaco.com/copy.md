@@ -269,3 +269,39 @@ A few details that make the repair visit faster
 ## emergency_note
 
 For smoke, a burning smell, a hot plug, or an appliance that trips a breaker, stop using it and turn off power at the breaker. For an active leak, shut off the appliance water supply if it is safe.
+
+## pricing_lede
+
+These are the diagnostic fees and repair ranges Tampa Bay appliance companies publish for their own work, set next to the tax, permit and licensing rules the state, the county and the city publish for theirs. Nothing here is a quote for your machine.
+
+## pricing_body
+
+### The diagnosis comes first, and it is usually credited
+
+Four Tampa Bay shops publish the same structure with different numbers: a flat fee to come out, diagnose the fault and put a written estimate in your hand, then that fee waived or deducted once the repair is approved. The published figures are $65, $79, $89 and $120. Read the wording rather than the number, because one company publishes both a $19 service call and a separate $120 diagnostic fee that goes away on approval, which means the trip itself is not free even when the diagnosis becomes free.
+
+The same reading habit sets the realistic floor on a small job. One shop publishes an $89 diagnostic that is deducted from the total, plus a $185 minimum labor fee. Because the diagnostic is deducted rather than added, the smallest invoice once a part is actually fitted is $185 plus the part, not $274. Stacking a credited diagnostic on top of minimum labor overstates the bill by the diagnostic, and it is the most common arithmetic error in comparing two estimates.
+
+### The tax line on the invoice
+
+Florida's rule catches people out. If the shop supplies any part that becomes part of the machine, the entire repair charge is taxable, labor included, and it stays taxable even when parts are not listed separately. Labor only work is exempt, but only when the invoice documents that no parts were used. The state rate is 6 percent and Hillsborough County adds 1.5 percent, so a taxable repair invoice in Tampa carries 7.5 percent. On a $500 refrigerator repair that is another $37.50, and no national cost page carries it.
+
+### Nobody licenses appliance repair in this state
+
+There is no state appliance repair license to check. The Hillsborough County Tax Collector business tax license categories page lists small appliance repair among the tasks that do not require a contractor license, and the office issues no handyman receipt at all. That pushes the screening onto the homeowner: a written estimate before any part is ordered, the manufacturer part number on the invoice, and the warranty term stated in writing on both the part and the labor.
+
+The permitted trades are the bright line. Once a repair turns into moving a water line, replacing a gas range connection or altering a circuit, the City of Tampa trade permit fee schedule prices a general residential plumbing, electrical or mechanical permit at $120 and natural or LP gas piping at $162, each with a state surcharge of 2.5 percent of permit value and a $4 floor. If someone proposes gas or plumbing alteration as part of an appliance repair with no permit line, that is the moment to ask who is pulling it.
+
+### The fifty percent rule, and what humidity does here
+
+The usual guideline is to repair when the repair costs less than half of a comparable new machine, and one local shop states it in exactly those terms. Two local factors bend it. Tampa water is hard enough to scale heating elements and clog ice makers and dishwasher solenoids well before the rest of the appliance is worn out, which makes several of the least expensive repairs on this page the ones most likely to recur if the underlying water quality is ignored. This is also a humid coastal market, hard on dryer transitions, vent runs and control boards in unconditioned laundry closets and garages.
+
+Housing tenure matters too. Roughly half of the housing units in this county are renter occupied, so many machines being diagnosed belong to a landlord rather than the person standing in the kitchen. Sorting out who authorizes the repair beforehand saves a diagnostic fee nobody wants to pay twice.
+
+### Reading the estimate before the part is ordered
+
+A usable estimate names the diagnostic fee and how it is treated, the part number and whether it is a manufacturer part or an aftermarket equivalent, the labor separately from the part, the tax, and the warranty on each. It says whether the repair involves the sealed system, because that is the row where prices roughly double and where refrigerant handling rules apply. It also says what happens if the first part does not fix the fault, which on a modern board controlled machine is a real possibility.
+
+### What the online range leaves out
+
+Brand premiums on diagnosis, parts that have gone out of production on a ten year old model, the extra labor to pull a stacked laundry pair apart, second faults found once the panel is off, and the 7.5 percent that lands on the total the moment a part is involved.

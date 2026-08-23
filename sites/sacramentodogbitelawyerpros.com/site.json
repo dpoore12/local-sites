@@ -81,6 +81,87 @@
   "local_business": false,
   "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
  },
+ "pricing": {
+  "mode": "fees",
+  "fee_kind": "contingency",
+  "table_head": "What California's fee statutes require, and the tiers Sacramento Superior Court prints",
+  "col_a": "What it covers",
+  "col_b": "What the rule or schedule sets",
+  "anchors": [
+   {
+    "label": "First paper where the claim stays under $10,000",
+    "value": "$225",
+    "detail": "The schedule the court posts steps up to $370 above $10,000 and $435 once more than $35,000 is at issue.",
+    "source_name": "Sacramento Superior Court civil fee schedule",
+    "source_url": "https://www.saccourt.ca.gov/fees/docs/fee-schedule.pdf"
+   },
+   {
+    "label": "Motion for summary judgment",
+    "value": "$500",
+    "detail": "Government Code section 70617(d) prices this one motion at $500 while an ordinary motion needing a hearing costs $60.",
+    "source_name": "Sacramento Superior Court civil fee schedule",
+    "source_url": "https://www.saccourt.ca.gov/fees/docs/fee-schedule.pdf"
+   },
+   {
+    "label": "Threshold that forces a written fee contract",
+    "value": "$1,000",
+    "detail": "Where hourly or flat-rate work is reasonably expected to cost the client more than this, section 6148 requires the contract in writing.",
+    "source_name": "Cal. Bus. & Prof. Code 6148(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6148.&lawCode=BPC"
+   },
+   {
+    "label": "Annual county license, unaltered dog",
+    "value": "$50",
+    "detail": "Sacramento County Animal Care charges this a year in the unincorporated county, against $15 for an altered animal.",
+    "source_name": "Sacramento County Animal Care license fees",
+    "source_url": "https://animalcare.saccounty.gov/Licensing/Documents/AnimalLicenseApp.pdf"
+   }
+  ],
+  "fee_rows": [
+   {
+    "stage": "The cut taken from a dog bite recovery",
+    "share": "Unconscionability standard",
+    "note": "Rule 1.5(a) prohibits an unconscionable or illegal fee. Factor (b)(3) asks how the fee compares with the value of the services actually performed.",
+    "source_name": "Cal. R. Prof. Conduct 1.5(a)",
+    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+   },
+   {
+    "stage": "Contents of a contingency contract",
+    "share": "Rate, costs, negotiability",
+    "note": "Section 6147(a) requires the rate, how disbursements affect the fee and the recovery, and the plain statement that the rate is negotiable, not fixed by law.",
+    "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+   },
+   {
+    "stage": "A recovery belonging to a child",
+    "share": "The judge sets it",
+    "note": "Rule 7.955 makes a court apply a reasonable fee standard, weighing fourteen factors including risk of loss, costs advanced and delay in payment.",
+    "source_name": "Cal. R. Ct. 7.955",
+    "source_url": "https://www.courts.ca.gov/cms/rules/index.cfm?title=seven&linkid=rule7_955"
+   },
+   {
+    "stage": "Hourly or flat-rate work above $1,000",
+    "share": "Writing, or voidable",
+    "note": "Section 6148 requires the basis of compensation and the nature of the services in writing, and a bill within ten days of a client's request.",
+    "source_name": "Cal. Bus. & Prof. Code 6148",
+    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6148.&lawCode=BPC"
+   },
+   {
+    "stage": "Filing tier by amount at issue",
+    "share": "$225, $370 or $435",
+    "note": "Reclassifying a limited case as unlimited costs $140 more, a continuance $20, and a change of venue $50 on the schedule the court publishes.",
+    "source_name": "Sacramento Superior Court civil fee schedule",
+    "source_url": "https://www.saccourt.ca.gov/fees/docs/fee-schedule.pdf"
+   },
+   {
+    "stage": "Licensing the dog in Sacramento County",
+    "share": "$50 or $15, plus $25 late",
+    "note": "County Code 8.24.030 requires the license; Animal Care charges $50 a year unaltered, $15 altered, $45 for a qualifying ranch or competition dog.",
+    "source_name": "Sacramento County Animal Care license fees",
+    "source_url": "https://animalcare.saccounty.gov/Licensing/Documents/AnimalLicenseApp.pdf"
+   }
+  ]
+ },
  "hero_accent": "What The Law Says About Dog Attacks",
  "trust_third": "Liability rules explained before you call",
  "services": [

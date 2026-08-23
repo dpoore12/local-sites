@@ -265,3 +265,83 @@ What to keep together after a collision
 ## emergency_note
 
 If anyone has severe pain, trouble breathing, loss of consciousness, or another urgent medical concern after a crash, call 911 or seek emergency care immediately.
+
+## pricing_lede
+
+Nothing in California law caps the share taken from a Ventura County collision recovery, and this page shows what does apply: an unconscionability standard, a contract statute that voids agreements missing a required term, and the filing amounts the Ventura County Superior Court publishes for itself.
+
+## pricing_body
+
+### Where the percentage limits stop
+
+California's numeric fee ceilings live in Business and Professions Code 6146, and they
+belong to one kind of case: professional negligence against a health care provider. There
+the share is a quarter of the amount recovered if every party signs the settlement and the
+release while no complaint and no arbitration demand has yet reached a clerk, and a third
+if recovery arrives after that point, computed on the net sum left once disbursements come out. An arbitrator or judge may
+allow more only on a motion showing good cause.
+
+A rear-end impact on Rice Avenue or a broadside at Oxnard Boulevard is not that kind of
+case. The applicable limit is Rule 1.5(a) of the California Rules of Professional Conduct,
+which forbids making an agreement for, charging, or collecting an unconscionable or illegal
+fee. There is no schedule behind it and no percentage published anywhere in the rule. That
+absence is the honest answer to the question "what is the legal limit in California," and
+it puts the weight on the contract instead.
+
+### The contract statute, and the word "voidable"
+
+Section 6147 requires an injury contingency contract to be written, signed by both the
+attorney and the client, with a duplicate signed copy provided to the client when the
+contract is entered into. The contract must set out the agreed rate; how disbursements and
+costs affect both the fee and the client's recovery; what compensation, if any, the client
+might owe for related matters outside the contract; and, because a collision claim is not a
+6146 claim, a plain statement that no statute fixes the rate and the client may negotiate it.
+
+Failure on any provision renders the agreement voidable at the plaintiff's option, and the
+attorney is then entitled to collect only a reasonable fee. That is unusually sharp
+consumer protection, and it only works for people who read the document. Anyone signing in
+a hospital bed should keep the duplicate copy and read it the following week.
+
+### What the Ventura County court charges
+
+The court publishes its own figures, and they are worth knowing before deciding whether a
+claim belongs in a full civil filing or in small claims. An initial complaint, petition or
+application costs $435 when the amount demanded exceeds $35,000, $370 when it is above
+$10,000 through $35,000, and $225 at $10,000 or less. An answer or response costs the same
+amounts, charged per defendant, so a crash with several drivers and a vehicle owner
+generates several of them.
+
+After a first appearance fee has been paid, each motion costs $60 in the civil division,
+which is what makes a discovery dispute a budget item rather than a footnote. Appealing an
+unlimited civil decision runs $775 to the Court of Appeal plus a $100 deposit to the Ventura
+clerk for the transcript. On the small claims side, the court's own instructions set filing
+at $30 for a claim of $1,500 or less, $50 above $1,500 through $5,000, and $75 above $5,000
+through $12,500 for a natural person, rising to $100 for anyone who has filed more than
+twelve claims in the previous twelve months, with $15 per defendant for certified mail
+service. A small claims appeal costs $75.
+
+### Costs behave differently from fees
+
+A fee compensates work. A cost pays a third party, and it comes out of the recovery no
+matter how the percentage is written. In a Ventura County collision claim the recurring
+ones are certified medical records from several providers, the traffic collision report,
+deposition reporter charges, a private mediator's daily rate, treating physician testimony,
+and photogrammetry or reconstruction work when a farm-road intersection or a Highway 101
+merge is in dispute. Agricultural and port traffic around Oxnard means commercial vehicles
+appear often, and a commercial defendant brings corporate records, safety files and more
+depositions.
+
+### The questions that reveal a weak agreement
+
+Does the percentage change, and does the document name the event that changes it. Are costs
+deducted before or after the fee is calculated, and is a worked example available. Who owes
+advanced costs if nothing is recovered. Is there a cost approval threshold above which the
+client is consulted before an expert is retained. Who negotiates hospital and health plan
+reimbursement claims, and is that work inside the stated rate or billed separately.
+
+### One firm rule to carry away
+
+The percentage is negotiable and the statute says so in writing. The court costs above are
+not negotiable and go to the county and the state regardless of who is hired. Keeping those
+two categories apart on paper is the single best defense against a settlement statement
+nobody can explain.

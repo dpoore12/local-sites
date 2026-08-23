@@ -1,143 +1,290 @@
 {
- "domain": "danvillegaragedoorrepairpros.com",
- "phase": 1,
- "brand": "Danville Garage Door Repair Pros",
- "service": "Garage Door Repair",
- "service_inline": "garage door repair",
- "city": "Danville",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Contra Costa"
- ],
- "area_codes": [
-  "925"
- ],
- "phone_display": "(925) 230-5528",
- "phone_tel": "+19252305528",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "hillside_topography",
-   "claim": "Town planning materials state that nearly 50 percent of Danville is located on hillsides, including the Las Trampas Ridge area and the hills paralleling Sycamore Valley.",
-   "why_it_matters": "Steep driveways, narrow approaches, and hillside garages change the practical setup for a repair visit: safe truck placement, access to the opening, and how an out-of-service door is secured. Mentioning those conditions before dispatch helps the technician plan the visit without guessing.",
-   "sources": [
-    "https://www.danville.ca.gov/DocumentCenter/View/10792/Appendix-B---Constraints"
-   ],
-   "verified": "2026-08-22",
-   "title": "Nearly half of Danville sits on hillsides"
+  "domain": "danvillegaragedoorrepairpros.com",
+  "phase": 1,
+  "brand": "Danville Garage Door Repair Pros",
+  "service": "Garage Door Repair",
+  "service_inline": "garage door repair",
+  "city": "Danville",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Contra Costa"
+  ],
+  "area_codes": [
+    "925"
+  ],
+  "phone_display": "(925) 230-5528",
+  "phone_tel": "+19252305528",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "wildfire_ember_gaps",
-   "claim": "Danville identifies its undeveloped and open-space edges, including grassland and oak woodland, as Very High Fire Hazard Severity Zone areas. CAL FIRE says garage-door gaps and missing gasketing can allow ember intrusion.",
-   "why_it_matters": "A service visit should include a look at damaged bottom and side seals, warped panels, and visible gaps. A routine repair does not automatically trigger a code project, but a garage near open space has a concrete reason to keep its exterior seals intact and to ask the Town about requirements for a larger replacement.",
-   "sources": [
-    "https://www.danville.ca.gov/DocumentCenter/View/10792/Appendix-B---Constraints",
-    "https://www.fire.ca.gov/home-hardening"
-   ],
-   "verified": "2026-08-22",
-   "title": "Garage-door gaps matter near Danville open space"
+  "local_facts": [
+    {
+      "id": "hillside_topography",
+      "claim": "Town planning materials state that nearly 50 percent of Danville is located on hillsides, including the Las Trampas Ridge area and the hills paralleling Sycamore Valley.",
+      "why_it_matters": "Steep driveways, narrow approaches, and hillside garages change the practical setup for a repair visit: safe truck placement, access to the opening, and how an out-of-service door is secured. Mentioning those conditions before dispatch helps the technician plan the visit without guessing.",
+      "sources": [
+        "https://www.danville.ca.gov/DocumentCenter/View/10792/Appendix-B---Constraints"
+      ],
+      "verified": "2026-08-22",
+      "title": "Nearly half of Danville sits on hillsides"
+    },
+    {
+      "id": "wildfire_ember_gaps",
+      "claim": "Danville identifies its undeveloped and open-space edges, including grassland and oak woodland, as Very High Fire Hazard Severity Zone areas. CAL FIRE says garage-door gaps and missing gasketing can allow ember intrusion.",
+      "why_it_matters": "A service visit should include a look at damaged bottom and side seals, warped panels, and visible gaps. A routine repair does not automatically trigger a code project, but a garage near open space has a concrete reason to keep its exterior seals intact and to ask the Town about requirements for a larger replacement.",
+      "sources": [
+        "https://www.danville.ca.gov/DocumentCenter/View/10792/Appendix-B---Constraints",
+        "https://www.fire.ca.gov/home-hardening"
+      ],
+      "verified": "2026-08-22",
+      "title": "Garage-door gaps matter near Danville open space"
+    },
+    {
+      "id": "design_review_exteriors",
+      "claim": "Danville’s Design Review Board evaluates proposed site design and architecture for consistency with Town standards, and its submittal requirements call for exterior doors, materials, and colors to be identified on plans.",
+      "why_it_matters": "A simple repair is different from a larger exterior project. When a new door changes the facade, accompanies new construction, or is part of a hillside or ridgeline project, the homeowner should check address-specific Town planning requirements before ordering. The technician still measures the opening and hardware at the property so the door fits.",
+      "sources": [
+        "https://www.danville.ca.gov/276/Design-Review-Board",
+        "https://www.danville.ca.gov/DocumentCenter/View/1724/Design-Review-Board-Requirements"
+      ],
+      "verified": "2026-08-22",
+      "title": "Exterior-door changes can be a design-review question"
+    }
+  ],
+  "neighborhoods": [
+    "Greenbrook",
+    "Sycamore",
+    "Danville South",
+    "Diablo Highlands",
+    "Tassajara Ranch",
+    "Shadow Creek"
+  ],
+  "symptoms": [
+    "broken_torsion_spring",
+    "door_reverses_before_closing",
+    "off_track_or_panel_damage",
+    "opener_runs_but_door_does_not_move"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "design_review_exteriors",
-   "claim": "Danville\u2019s Design Review Board evaluates proposed site design and architecture for consistency with Town standards, and its submittal requirements call for exterior doors, materials, and colors to be identified on plans.",
-   "why_it_matters": "A simple repair is different from a larger exterior project. When a new door changes the facade, accompanies new construction, or is part of a hillside or ridgeline project, the homeowner should check address-specific Town planning requirements before ordering. The technician still measures the opening and hardware at the property so the door fits.",
-   "sources": [
-    "https://www.danville.ca.gov/276/Design-Review-Board",
-    "https://www.danville.ca.gov/DocumentCenter/View/1724/Design-Review-Board-Requirements"
-   ],
-   "verified": "2026-08-22",
-   "title": "Exterior-door changes can be a design-review question"
+  "hero_accent": "Same-Day Repair, Upfront Pricing",
+  "trust_third": "Price quoted before the work starts",
+  "services": [
+    {
+      "slug": "garage-door-spring-repair",
+      "name": "Spring Repair",
+      "nav": "Spring repair",
+      "h1": "Garage Door Spring Repair",
+      "accent": "Same-Day Spring Replacement",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door spring repair Danville",
+      "icon": "bolt"
+    },
+    {
+      "slug": "garage-door-opener-repair",
+      "name": "Opener Repair",
+      "nav": "Opener repair",
+      "h1": "Garage Door Opener Repair",
+      "accent": "Sensors, Gears and Full Replacement",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door opener repair Danville",
+      "icon": "gear"
+    },
+    {
+      "slug": "off-track-garage-door-repair",
+      "name": "Off-Track and Cable Repair",
+      "nav": "Off-track door",
+      "h1": "Off-Track Garage Door Repair",
+      "accent": "Cables, Rollers and Bent Track",
+      "photo": "assets/work-2.jpg",
+      "keyword": "off track garage door repair Danville",
+      "icon": "warn"
+    },
+    {
+      "slug": "garage-door-replacement",
+      "name": "Door and Panel Replacement",
+      "nav": "Door replacement",
+      "h1": "Garage Door Replacement",
+      "accent": "Single Panels and Full Doors",
+      "photo": "assets/hero.jpg",
+      "keyword": "garage door replacement Danville",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "garage-door-spring-repair",
+    "garage-door-opener-repair",
+    "off-track-garage-door-repair",
+    "garage-door-opener-repair"
+  ],
+  "_market": {
+    "keyword": "garage door repair danville",
+    "monthly_price": 500,
+    "score": 89,
+    "volume": 150,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "byerlygaragedoor.com",
+    "competitor_dr": 7.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Danville and San Ramon Valley market ranges",
+    "anchors": [
+      {
+        "label": "Minimum building permit and inspection fee, any permit",
+        "value": "$122",
+        "detail": "The Town's floor for a permit, applied per inspection where no other fee is listed, and also the minimum for a reinspection. Building permit fees themselves start at $25.08 for the first $500 of valuation.",
+        "source_name": "Town of Danville Master Fee Schedule 2026/27",
+        "source_url": "https://www.danville.ca.gov/DocumentCenter/View/836/Master-Fee-Schedule-PDF"
+      },
+      {
+        "label": "Electrical sub-permit, opener circuit",
+        "value": "20 percent of the building permit fee",
+        "detail": "Charged on top of the building permit when a circuit is added or altered. Structural and architectural plan review, where drawings are reviewed, runs 65 percent of the building fee.",
+        "source_name": "Town of Danville Master Fee Schedule 2026/27",
+        "source_url": "https://www.danville.ca.gov/DocumentCenter/View/836/Master-Fee-Schedule-PDF"
+      },
+      {
+        "label": "California contractor license bond",
+        "value": "$25,000",
+        "detail": "The bond amount every licensed California contractor has carried since January 1, 2023, along with a $25,000 bond of qualifying individual where that applies. Compliance overhead is priced into every market in the state.",
+        "source_name": "Contractors State License Board bond requirements",
+        "source_url": "https://www.cslb.ca.gov/contractors/maintain_license/bond_information/bond_requirements.aspx"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Annual tune-up and safety inspection on one door",
+        "low": 45,
+        "high": 100,
+        "basis": "per visit",
+        "note": "Covers lubrication, balance, hardware tightening and a reverse test.",
+        "sources": [
+          {
+            "name": "Bay Area Doors, Contra Costa, posted price list, read 2026-08-23",
+            "url": "https://bayareadoors.net/spring-replacement/how-much-does-garage-door-spring-replacement-cost-in-contra-costa-county/"
+          },
+          {
+            "name": "Generational Garage Doors, Danville, posted price list, read 2026-08-23",
+            "url": "https://gengaragedoors.com/garage-door-price-list/"
+          },
+          {
+            "name": "Garage Door Danville, Danville, posted price list, read 2026-08-23",
+            "url": "https://thedanvillegaragedoors.com/"
+          }
+        ]
+      },
+      {
+        "job": "Torsion springs replaced as a pair on a two-car door",
+        "low": 250,
+        "high": 499,
+        "basis": "flat",
+        "note": "Short headroom and a shaft crowded against framing add time.",
+        "sources": [
+          {
+            "name": "Generational Garage Doors, Danville, posted price list, read 2026-08-23",
+            "url": "https://gengaragedoors.com/garage-door-price-list/"
+          },
+          {
+            "name": "Prime Garage Door Repair Tech, Pleasanton, posted price list, read 2026-08-23",
+            "url": "https://primegaragedoorrepairtech.com/service-areas/pleasanton/"
+          }
+        ]
+      },
+      {
+        "job": "Lift cables replaced and drums reset",
+        "low": 89,
+        "high": 350,
+        "basis": "flat",
+        "note": "Uneven drum wear widens the scope beyond the snapped cable.",
+        "sources": [
+          {
+            "name": "Generational Garage Doors, Danville, posted price list, read 2026-08-23",
+            "url": "https://gengaragedoors.com/garage-door-cable-replacement/"
+          },
+          {
+            "name": "Prime Garage Door Repair Tech, Pleasanton, posted price list, read 2026-08-23",
+            "url": "https://primegaragedoorrepairtech.com/service-areas/pleasanton/"
+          },
+          {
+            "name": "911 Garage Doors, San Ramon, posted price list, read 2026-08-23",
+            "url": "https://911garagedoors.com/san-ramon-ca/garage-door-repair"
+          }
+        ]
+      },
+      {
+        "job": "Door reset on track after coming off one side",
+        "low": 100,
+        "high": 599,
+        "basis": "flat",
+        "note": "A clean reset is low; a kinked track and torn stile reach high.",
+        "sources": [
+          {
+            "name": "Prime Garage Door Repair Tech, Pleasanton, posted price list, read 2026-08-23",
+            "url": "https://primegaragedoorrepairtech.com/service-areas/pleasanton/"
+          },
+          {
+            "name": "911 Garage Doors, San Ramon, posted price list, read 2026-08-23",
+            "url": "https://911garagedoors.com/san-ramon-ca/garage-door-repair"
+          },
+          {
+            "name": "Generational Garage Doors, Danville, posted price list, read 2026-08-23",
+            "url": "https://gengaragedoors.com/garage-door-cable-replacement/"
+          }
+        ]
+      },
+      {
+        "job": "Opener replaced and installed, existing door reused",
+        "low": 300,
+        "high": 1500,
+        "basis": "per unit",
+        "note": "Battery backup is required statewide, and wall-mount units cost more.",
+        "sources": [
+          {
+            "name": "Prime Garage Door Repair Tech, Pleasanton, posted price list, read 2026-08-23",
+            "url": "https://primegaragedoorrepairtech.com/service-areas/pleasanton/"
+          },
+          {
+            "name": "Garage Door Danville, Danville, posted price list, read 2026-08-23",
+            "url": "https://thedanvillegaragedoors.com/"
+          },
+          {
+            "name": "Generational Garage Doors, Danville, posted price list, read 2026-08-23",
+            "url": "https://gengaragedoors.com/garage-door-price-list/"
+          }
+        ]
+      },
+      {
+        "job": "Insulated sectional door and hardware replaced",
+        "low": 1200,
+        "high": 4200,
+        "basis": "per unit",
+        "note": "Steel-backed insulation, flush panel designs and two-car openings set the range.",
+        "sources": [
+          {
+            "name": "Prime Garage Door Repair Tech, Pleasanton, posted price list, read 2026-08-23",
+            "url": "https://primegaragedoorrepairtech.com/service-areas/pleasanton/"
+          },
+          {
+            "name": "Generational Garage Doors, Danville, posted price list, read 2026-08-23",
+            "url": "https://gengaragedoors.com/garage-door-price-list/"
+          }
+        ]
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Greenbrook",
-  "Sycamore",
-  "Danville South",
-  "Diablo Highlands",
-  "Tassajara Ranch",
-  "Shadow Creek"
- ],
- "symptoms": [
-  "broken_torsion_spring",
-  "door_reverses_before_closing",
-  "off_track_or_panel_damage",
-  "opener_runs_but_door_does_not_move"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Same-Day Repair, Upfront Pricing",
- "trust_third": "Price quoted before the work starts",
- "services": [
-  {
-   "slug": "garage-door-spring-repair",
-   "name": "Spring Repair",
-   "nav": "Spring repair",
-   "h1": "Garage Door Spring Repair",
-   "accent": "Same-Day Spring Replacement",
-   "photo": "assets/work-1.jpg",
-   "keyword": "garage door spring repair Danville",
-   "icon": "bolt"
-  },
-  {
-   "slug": "garage-door-opener-repair",
-   "name": "Opener Repair",
-   "nav": "Opener repair",
-   "h1": "Garage Door Opener Repair",
-   "accent": "Sensors, Gears and Full Replacement",
-   "photo": "assets/work-3.jpg",
-   "keyword": "garage door opener repair Danville",
-   "icon": "gear"
-  },
-  {
-   "slug": "off-track-garage-door-repair",
-   "name": "Off-Track and Cable Repair",
-   "nav": "Off-track door",
-   "h1": "Off-Track Garage Door Repair",
-   "accent": "Cables, Rollers and Bent Track",
-   "photo": "assets/work-2.jpg",
-   "keyword": "off track garage door repair Danville",
-   "icon": "warn"
-  },
-  {
-   "slug": "garage-door-replacement",
-   "name": "Door and Panel Replacement",
-   "nav": "Door replacement",
-   "h1": "Garage Door Replacement",
-   "accent": "Single Panels and Full Doors",
-   "photo": "assets/hero.jpg",
-   "keyword": "garage door replacement Danville",
-   "icon": "house"
-  }
- ],
- "symptom_service": [
-  "garage-door-spring-repair",
-  "garage-door-opener-repair",
-  "off-track-garage-door-repair",
-  "garage-door-opener-repair"
- ],
- "_market": {
-  "keyword": "garage door repair danville",
-  "monthly_price": 500,
-  "score": 89,
-  "volume": 150,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "byerlygaragedoor.com",
-  "competitor_dr": 7.0
- }
 }

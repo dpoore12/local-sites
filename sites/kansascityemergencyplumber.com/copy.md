@@ -267,3 +267,39 @@ Four details that help get the right work started
 ## emergency_note
 
 If water is near electrical equipment, leave the area and do not touch switches, cords, or panels. For an active supply leak, close an accessible main shutoff; for a sewage backup, stop using water and keep people and pets away from contaminated areas.
+
+## pricing_lede
+
+Below are researched market ranges for plumbing emergencies in Kansas City, alongside the permit and utility fees the city and KC Water actually publish, and the local reasons an old house on the Missouri side costs what it does to fix.
+
+## pricing_body
+
+### Where a job sits in its range, and why
+
+Three questions decide it. How old is the pipe that failed? How much finished construction stands between a technician and that pipe? And how far from the street does the work have to go? A pinhole in accessible copper above a basement laundry is a short visit. The same pinhole inside a plaster wall in a century-old Hyde Park house is a repair plus demolition plus patching, done by different hands on different days.
+
+Material history explains a lot of the spread here. Cast iron drain, waste and vent piping was standard in homes built from the 1950s into the early 1980s, and local inspection work still turns up original lead and cast iron in houses of that vintage. Older neighborhoods add clay tile laterals to the mix. Those materials do not fail at a single point; they fail along a length, which is why a rodding visit and a camera survey often produce two very different conversations about money.
+
+### Winter is the local cost driver
+
+Kansas City freezes hard enough to break plumbing on a schedule. National Weather Service records for the February 2021 event show minimums of minus six, minus ten and minus thirteen degrees on three consecutive days. In that kind of cold, pipe in an unheated crawlspace, a garage wall or an exterior kitchen run does not survive, and everyone calls at once. Two things follow. Emergency labor is at its most expensive precisely when the failures cluster, and materials for the routine repairs run short at supply houses during the same week.
+
+Frost depth matters just as much for buried work. A lateral or a water service has to be replaced below the frost line, which means a deeper trench than a milder city would dig, and limestone shows up in plenty of trenches around here. Hills add shoring. Winter ground adds hours. Those are the reasons excavation numbers in this market start where they do.
+
+### Two states, and the fees on the Missouri side
+
+The metro's shared name hides two separate permitting and water authorities. Kansas City, Missouri requires permits before most plumbing work, while water customers in Kansas City, Kansas are served by a different utility with its own rules. On the Missouri side the city's own fee table for one- and two-family dwellings starts at $52 for work valued up to $1,000, moves to $58 for the first $2,000, and adds $4.33 for each additional $1,000 of job value.
+
+KC Water bills separately. A water service permit costs $100 per permit, and that applies not only to a new tap but to altering, extending, renewing or repairing an existing service from the first valve to the building. Plan review runs $110 for up to ten service connections, and a resubmission after a rejection costs $65. If a meter or tap has already been removed, restoring service costs $610 on top of any permit or tap charge. On a straightforward repair those are small amounts. On a service line replacement they are real, and they belong on an estimate rather than in a surprise.
+
+### What a real estimate contains
+
+Look for the diagnosis in writing with the evidence attached: the leak location and how it was found, or camera footage with distances and depths for a drain. Look for the plan stated as a choice among options, since a spot repair, a stack replacement and a full lateral replacement are three different projects with three different prices. Permits and utility fees should be their own line items at published amounts. On any dig, the estimate should say how deep, whether shoring is needed, how the trench is backfilled and compacted, what happens to the driveway or street cut, and who calls in the locates. Diagnostic and repair labor should be listed separately with a clear rule about whether the first applies against the second.
+
+### The pattern that costs people money
+
+Basement backups are the pressure point in this market. When a floor drain surges during a heavy rain, a full lateral replacement is easy to sell on the spot. Sometimes the pipe is genuinely finished. Often it is roots at one clay joint, or a mainline problem that is not the homeowner's line at all, which is worth checking with the utility before signing anything. A rodding today and a camera survey tomorrow costs a fraction of a wrong decision made tonight. Two smaller habits to watch: jetting quoted before any inspection on old clay or cast iron, and a maintenance membership pitched at the moment of highest stress. And in a freeze, a repair plus real insulation and a heat source in the space that froze usually beats a repipe proposal written the same night.
+
+### What a national average leaves out
+
+Cost guides written for the whole country assume shallow trenches, unfrozen ground, no permits and no restoration. Missing here: the city permit and its inspection wait, the KC Water service permit, plan review and restoration fees, frost-depth excavation, rock and shoring, street cut repaving, and the plaster, tile and paint that follow work inside an old house. On a backup they also leave out the diagnostic step that tells you whose pipe actually failed, which is the best money spent on the entire problem.

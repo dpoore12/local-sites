@@ -205,3 +205,41 @@ What a planned bathroom project looks like
 
 ## emergency_note
 Bathroom remodeling is a scheduled project, not a 24-hour emergency service. If active water is escaping, shut off the nearest safe water supply if you can and contact an appropriate plumbing professional; otherwise, schedule the bathroom visit when the room can be reviewed properly.
+
+## pricing_lede
+
+Bathroom remodelers across Tarrant County and the wider Dallas-Fort Worth market post their package prices and project bands openly. This page gathers what they publish for the scopes an Arlington homeowner actually buys, beside the city permit fees and metro trade wages underneath them. Nothing here is a quote.
+
+## pricing_body
+
+### Three decisions set the number, and only one of them is tile
+
+Ask why one bathroom bid came in at eleven thousand dollars and the neighbor's at forty, and the answer is almost never the finishes. It is scope.
+
+The first decision is whether plumbing moves. Leaving the toilet flange, tub drain and vanity supplies where they are keeps a job in the refresh band. Moving a drain means opening the floor, and on an Arlington slab-on-grade house that means breaking and repouring concrete. That one change separates the second row of the table from the fourth.
+
+The second is whether the room comes apart to the studs. A refresh replaces what is visible; a gut replaces substrate, waterproofing and often supply piping, the only version that fixes what cannot be seen. With a 1984 median year built and over sixty-five percent of the stock predating 1990, Arlington bathrooms open up on galvanized branch lines, undersized vents, spent mortar-bed pans and subfloor that has been wet for years.
+
+The third is the shower. An acrylic base with tiled walls, a tiled curbed pan, and a curbless pan sloped to a linear drain are three different builds, priced roughly ten thousand dollars apart from bottom to top in this metro. Curbless is the most expensive small decision in a bathroom.
+
+### What the city adds, with the arithmetic
+
+The City of Arlington Planning and Development Services fee schedule, adopted by Resolution 25-258 and effective October 1, 2025, sets a $325 minimum for an alteration, remodel or repair, with plan review a separate non-refundable 35 percent of the permit fee. The floor on a permitted bathroom is therefore $325 plus $113.75, or $438.75, before an inspector arrives. A revision to an issued permit is $100, and starting work first carries its own charge.
+
+On a residential project that one permit fee includes the building, electrical, mechanical and plumbing fees rather than billing each trade separately, so it does not multiply by four. Sequencing matters more than the money. An inspection request made after 7 a.m. is scheduled for the following business day, so the job runs demolition, rough-in, inspection, then waterproofing, tile and fixtures. A crew that tiles over uninspected rough-in either opens it back up or fails.
+
+### Why labor is the bulk of the bid
+
+Plumbers across the Dallas-Fort Worth-Arlington metro had a median wage of $29.45 an hour in May 2025, and tile and stone setters $23.04, per the BLS Occupational Employment and Wage Statistics, May 2025 release. A gut bathroom needs several days of each, plus a carpenter, an electrician, a drywall finisher and a painter, all sequenced around inspections. Texas also requires a Responsible Master Plumber carrying at least $300,000 of commercial general liability coverage behind the plumbing. Trade labor is roughly half of a Tarrant County bathroom budget, which is why two bids with identical material lists differ by ten thousand dollars.
+
+### Reading a bid like somebody who has done the work
+
+A real Arlington bid names demolition and disposal, the exact rough plumbing changes, the waterproofing system by manufacturer, the tile setting method, the square footage and allowance per square foot for each tile, the vanity and top, every fixture by model, the glass by thickness, the exhaust fan by cubic feet per minute, the permit line, and payments tied to milestones rather than dates. It says who buys materials, because an allowance bid and a fixed-price bid with named products are not comparable documents.
+
+### The trap in this market
+
+Two of them. The first is the flat package figure that reads all-in but excludes fixtures, tile or the vanity, leaving a five to eight thousand dollar selections bill after signing. Ask which of fixtures, tile, vanity, glass and lighting are included, at what allowance. The second is the tub-to-shower conversion sold as a one-day job. A same-day acrylic wall system is a legitimate product at the bottom of that row, but it is not a tiled shower.
+
+### What the online number leaves out
+
+Published bands assume a bathroom that stays where it is, sized as it is, with sound subfloor and framing. They exclude permit and plan review, structural repair found at demolition, replacing galvanized pipe back to the main, a circuit for a heated floor, asbestos or lead work in an older house, somewhere to shower while the only bathroom is out, and the lead time on a stone slab that keeps a finished room unusable.

@@ -1,137 +1,218 @@
 {
- "domain": "newportbeachduilawyerpros.com",
- "phase": 1,
- "brand": "Newport Beach DUI Law Pros",
- "service": "DUI Lawyer",
- "service_inline": "dui lawyer",
- "city": "Newport Beach",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Orange"
- ],
- "area_codes": [
-  "949"
- ],
- "phone_display": "(949) 593-2793",
- "phone_tel": "+19495932793",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "harbor_justice_center",
-   "claim": "Orange County Superior Court states that the Harbor Justice Center \u2013 Newport Beach handles traffic, minor offenses, and criminal matters. Its criminal and traffic mailing address is 4601 Jamboree Road, Newport Beach, CA 92660-2595.",
-   "why_it_matters": "A Newport Beach criminal matter should be organized around the court date and department shown in the person\u2019s own paperwork, with the Harbor Justice Center\u2019s local criminal process in mind. The citation, release papers, and any later notice should be retained so an appearance is not missed and the setting can be confirmed.",
-   "sources": [
-    "https://www.occourts.org/location/harbor-justice-center-newport-beach"
-   ],
-   "verified": "2026-08-22",
-   "title": "Newport Beach has a local criminal court venue"
+  "domain": "newportbeachduilawyerpros.com",
+  "phase": 1,
+  "brand": "Newport Beach DUI Law Pros",
+  "service": "DUI Lawyer",
+  "service_inline": "dui lawyer",
+  "city": "Newport Beach",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Orange"
+  ],
+  "area_codes": [
+    "949"
+  ],
+  "phone_display": "(949) 593-2793",
+  "phone_tel": "+19495932793",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "id": "boating_under_influence",
-   "claim": "California Harbors and Navigation Code section 655 prohibits operating a vessel while under the influence of alcohol, drugs, or their combined influence, and separately prohibits operating a recreational vessel with a blood alcohol concentration of 0.08 percent or more.",
-   "why_it_matters": "An alleged impaired operation on Newport Harbor is a vessel-law matter. The response may need to examine who was operating, the vessel\u2019s location and course, the Harbor Patrol contact, testing timing and method, passengers, and the records maintained by the responding agency.",
-   "sources": [
-    "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=HNC&division=3.&title=&part=&chapter=5.&article=1."
-   ],
-   "verified": "2026-08-22",
-   "title": "Newport Harbor allegations can involve vessel DUI law"
+  "local_facts": [
+    {
+      "id": "harbor_justice_center",
+      "claim": "Orange County Superior Court states that the Harbor Justice Center – Newport Beach handles traffic, minor offenses, and criminal matters. Its criminal and traffic mailing address is 4601 Jamboree Road, Newport Beach, CA 92660-2595.",
+      "why_it_matters": "A Newport Beach criminal matter should be organized around the court date and department shown in the person’s own paperwork, with the Harbor Justice Center’s local criminal process in mind. The citation, release papers, and any later notice should be retained so an appearance is not missed and the setting can be confirmed.",
+      "sources": [
+        "https://www.occourts.org/location/harbor-justice-center-newport-beach"
+      ],
+      "verified": "2026-08-22",
+      "title": "Newport Beach has a local criminal court venue"
+    },
+    {
+      "id": "boating_under_influence",
+      "claim": "California Harbors and Navigation Code section 655 prohibits operating a vessel while under the influence of alcohol, drugs, or their combined influence, and separately prohibits operating a recreational vessel with a blood alcohol concentration of 0.08 percent or more.",
+      "why_it_matters": "An alleged impaired operation on Newport Harbor is a vessel-law matter. The response may need to examine who was operating, the vessel’s location and course, the Harbor Patrol contact, testing timing and method, passengers, and the records maintained by the responding agency.",
+      "sources": [
+        "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=HNC&division=3.&title=&part=&chapter=5.&article=1."
+      ],
+      "verified": "2026-08-22",
+      "title": "Newport Harbor allegations can involve vessel DUI law"
+    },
+    {
+      "id": "harbor_patrol",
+      "claim": "The City of Newport Beach says that the Orange County Sheriff’s Department Harbor Patrol-Marine Operations Bureau manages the emergency and law-enforcement services of Newport Harbor.",
+      "why_it_matters": "For a boating-under-the-influence allegation, the responding agency, written report, dispatch or radio records, and exact place of the contact may be important evidence. That differs from the record trail in an ordinary roadway stop.",
+      "sources": [
+        "https://www.newportbeachca.gov/government/departments/harbor/contact-us/sheriff-s-harbor-patrol"
+      ],
+      "verified": "2026-08-22",
+      "title": "Harbor Patrol records can be central evidence"
+    }
+  ],
+  "neighborhoods": [
+    "Balboa Peninsula",
+    "Balboa Island",
+    "Lido Isle",
+    "Corona del Mar",
+    "Newport Coast",
+    "Dover Shores"
+  ],
+  "symptoms": [
+    "first_dui_arrest",
+    "license_suspension_notice",
+    "failed_breath_test",
+    "multiple_dui_charge"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "id": "harbor_patrol",
-   "claim": "The City of Newport Beach says that the Orange County Sheriff\u2019s Department Harbor Patrol-Marine Operations Bureau manages the emergency and law-enforcement services of Newport Harbor.",
-   "why_it_matters": "For a boating-under-the-influence allegation, the responding agency, written report, dispatch or radio records, and exact place of the contact may be important evidence. That differs from the record trail in an ordinary roadway stop.",
-   "sources": [
-    "https://www.newportbeachca.gov/government/departments/harbor/contact-us/sheriff-s-harbor-patrol"
-   ],
-   "verified": "2026-08-22",
-   "title": "Harbor Patrol records can be central evidence"
+  "hero_accent": "Protect Your License and Record",
+  "trust_third": "Charges, deadlines, and options explained clearly",
+  "services": [
+    {
+      "slug": "first-offense-dui-defense",
+      "name": "First-Offense DUI Defense",
+      "nav": "First offense DUI",
+      "h1": "First-Offense DUI Lawyer",
+      "accent": "Charges, Deadlines and Defense Options",
+      "keyword": "first offense dui lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "dui-license-suspension",
+      "name": "License Suspension Defense",
+      "nav": "License suspension",
+      "h1": "DUI License Suspension Lawyer",
+      "accent": "Hearing Deadlines and Driving Privileges",
+      "keyword": "dui license suspension lawyer",
+      "icon": "pin"
+    },
+    {
+      "slug": "dui-breath-test-defense",
+      "name": "Breath Test Defense",
+      "nav": "Breath test defense",
+      "h1": "DUI Breath Test Defense Lawyer",
+      "accent": "Testing Process and Evidence Review",
+      "keyword": "dui breath test lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "felony-dui-defense",
+      "name": "Felony DUI Defense",
+      "nav": "Felony DUI",
+      "h1": "Felony DUI Lawyer",
+      "accent": "Serious Charges and Case Stages",
+      "keyword": "felony dui lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "first-offense-dui-defense",
+    "dui-license-suspension",
+    "dui-breath-test-defense",
+    "felony-dui-defense"
+  ],
+  "_market": {
+    "keyword": "newport beach dui lawyer",
+    "monthly_price": 500,
+    "score": 89,
+    "volume": 200,
+    "cpc_usd": 55.0,
+    "weakest_competitor": "cmcdefense.com",
+    "competitor_dr": 14.0
+  },
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "criminal",
+    "table_head": "What California law and Orange County set in a Newport Beach DUI case, and what no lawyer may charge",
+    "col_a": "What it covers",
+    "col_b": "What the law sets",
+    "anchors": [
+      {
+        "label": "Base fine, first DUI conviction",
+        "value": "$390 - $1,000",
+        "detail": "Vehicle Code section 23536(a) pairs this fine with 96 hours to six months in county jail on a first conviction under section 23152. Every penalty assessment in the case is calculated from this figure, not added to a flat total.",
+        "source_name": "Cal. Veh. Code 23536(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23536"
+      },
+      {
+        "label": "Orange County penalty assessment",
+        "value": "$5.29 per $10 of fine",
+        "detail": "Government Code section 76000(a)(1) sets a countywide penalty of $7 for every $10 of fine, then lists a reduced figure for most counties. The entry for Orange County is $5.29.",
+        "source_name": "Cal. Gov. Code 76000(a)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=76000"
+      },
+      {
+        "label": "Bail, first misdemeanor DUI",
+        "value": "$2,500",
+        "detail": "The Orange County Superior Court 2026 Uniform Bail Schedule lists this amount for a first misdemeanor under Vehicle Code 23152(a) or (b), and states that bail on it is not doubled under Vehicle Code section 42009.",
+        "source_name": "Orange County Superior Court 2026 Uniform Bail Schedule",
+        "source_url": "https://www.occourts.org/system/files?file=criminal/felonybailsched.pdf"
+      },
+      {
+        "label": "Emergency response expense billed to the driver",
+        "value": "up to $12,000",
+        "detail": "Government Code section 53155 caps at this amount what a public agency may recover for one incident from a driver whose intoxication caused an emergency response, separate from any fine.",
+        "source_name": "Cal. Gov. Code 53155",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=53155"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "A defense fee tied to the outcome",
+        "share": "Prohibited",
+        "note": "Rule 1.5(c)(2) bars any agreement for, charge of, or collection of a contingent fee for representing a defendant in a criminal case.",
+        "source_name": "Cal. Rules of Prof. Conduct 1.5(c)(2)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "Written fee contract with the lawyer",
+        "share": "Required once total expense passes $1,000",
+        "note": "Section 6148 requires a signed written contract, with a duplicate copy handed to the client, whenever total expense including fees is reasonably foreseeable above that line.",
+        "source_name": "Cal. Bus. & Prof. Code 6148(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6148"
+      },
+      {
+        "stage": "State penalty assessment on the fine",
+        "share": "$10 for every $10 of fine",
+        "note": "Levied on every fine, penalty or forfeiture a court collects for a criminal offense, so it matches the base fine dollar for dollar.",
+        "source_name": "Cal. Penal Code 1464(a)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=1464"
+      },
+      {
+        "stage": "State surcharge",
+        "share": "20 percent of the base fine",
+        "note": "Section 1465.7 levies it on the same base fine used for the section 1464 penalty, and forbids folding the surcharge back into that base.",
+        "source_name": "Cal. Penal Code 1465.7(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=1465.7"
+      },
+      {
+        "stage": "County alcohol and drug problem assessment",
+        "share": "not more than $100",
+        "note": "Levied on fines collected for a Vehicle Code 23152 or 23153 violation in a judicial district that takes part in the county assessment program.",
+        "source_name": "Cal. Veh. Code 23649(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=VEH&sectionNum=23649"
+      },
+      {
+        "stage": "Getting the driver license reissued",
+        "share": "$55 DUI reissue, $125 after an administrative per se action",
+        "note": "The department fee schedule lists both figures, plus $100 for a zero tolerance suspension under 21 and a $15 administrative service fee.",
+        "source_name": "California DMV licensing fees",
+        "source_url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/licensing-fees/"
+      }
+    ]
   }
- ],
- "neighborhoods": [
-  "Balboa Peninsula",
-  "Balboa Island",
-  "Lido Isle",
-  "Corona del Mar",
-  "Newport Coast",
-  "Dover Shores"
- ],
- "symptoms": [
-  "first_dui_arrest",
-  "license_suspension_notice",
-  "failed_breath_test",
-  "multiple_dui_charge"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Protect Your License and Record",
- "trust_third": "Charges, deadlines, and options explained clearly",
- "services": [
-  {
-   "slug": "first-offense-dui-defense",
-   "name": "First-Offense DUI Defense",
-   "nav": "First offense DUI",
-   "h1": "First-Offense DUI Lawyer",
-   "accent": "Charges, Deadlines and Defense Options",
-   "keyword": "first offense dui lawyer",
-   "icon": "warn"
-  },
-  {
-   "slug": "dui-license-suspension",
-   "name": "License Suspension Defense",
-   "nav": "License suspension",
-   "h1": "DUI License Suspension Lawyer",
-   "accent": "Hearing Deadlines and Driving Privileges",
-   "keyword": "dui license suspension lawyer",
-   "icon": "pin"
-  },
-  {
-   "slug": "dui-breath-test-defense",
-   "name": "Breath Test Defense",
-   "nav": "Breath test defense",
-   "h1": "DUI Breath Test Defense Lawyer",
-   "accent": "Testing Process and Evidence Review",
-   "keyword": "dui breath test lawyer",
-   "icon": "search"
-  },
-  {
-   "slug": "felony-dui-defense",
-   "name": "Felony DUI Defense",
-   "nav": "Felony DUI",
-   "h1": "Felony DUI Lawyer",
-   "accent": "Serious Charges and Case Stages",
-   "keyword": "felony dui lawyer",
-   "icon": "bolt"
-  }
- ],
- "symptom_service": [
-  "first-offense-dui-defense",
-  "dui-license-suspension",
-  "dui-breath-test-defense",
-  "felony-dui-defense"
- ],
- "_market": {
-  "keyword": "newport beach dui lawyer",
-  "monthly_price": 500,
-  "score": 89,
-  "volume": 200,
-  "cpc_usd": 55.0,
-  "weakest_competitor": "cmcdefense.com",
-  "competitor_dr": 14.0
- }
 }

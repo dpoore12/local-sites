@@ -206,3 +206,37 @@ What to preserve after a dog bite
 
 ## emergency_note
 For an immediate safety threat, call 911. For a bite, seek medical guidance and report the incident to NYC Health within 24 hours.
+
+## pricing_lede
+
+New York is the rare state where an appellate court publishes an actual fee schedule for personal injury work, and because a dog bite claim is a personal injury claim rather than malpractice, the schedule in 22 NYCRR 603.25 is the ceiling that governs a Manhattan case, with a different sliding scale in the Judiciary Law that applies only to medical claims.
+
+## pricing_body
+
+### The rule that controls a Manhattan bite claim
+
+New York County lies within the First Judicial Department, and its Appellate Division has adopted 22 NYCRR 603.25(e). The provision reaches any claim or action for personal injury or wrongful death, resolved by judgment or by settlement, in which the attorney's compensation depends on the outcome, and it excludes claims alleging medical, dental or podiatric malpractice. A fee equal to or below the scheduled amount is deemed fair and reasonable. A fee above it, the rule says, constitutes the exaction of unreasonable and unconscionable compensation in violation of the Rules of Professional Conduct, unless a court has authorized it by written order.
+
+### Schedule A, the graduated ladder
+
+The first of the two options in the rule steps down as the recovery grows. Fifty percent of the first $1,000 recovered. Forty percent of the next $2,000. Thirty-five percent of the next $22,000. Twenty-five percent of any amount above $25,000. Because serious bite injuries settle well past that last breakpoint, the marginal rate on the bulk of a substantial recovery under this option is the twenty-five percent tier, and the blended rate across the whole recovery drops the larger the number gets. Someone comparing arrangements should do that arithmetic on the figure realistically in play rather than on the headline percentage at the top of the ladder.
+
+### Schedule B, the flat alternative
+
+The second option is a percentage not exceeding thirty-three and one third percent of the sum recovered, and it is available only if the initial contractual arrangement provides for it. There is a tradeoff written into the rule. Choosing the flat option removes access to the procedure by which counsel may later apply for additional compensation on grounds of extraordinary circumstances. Under Schedule A that route stays open: where counsel believes in good faith the scheduled fee is inadequate because of extraordinary circumstances, an application may be made on affidavit to the designated justice, with written notice and an opportunity to be heard given to the client and to anyone holding a lien.
+
+### Net or gross, and the choice the client makes
+
+Subdivision (e)(3) is the part of the rule most likely to change what actually lands in a client's account. The percentage may be computed one of two ways, and the client selects which in the retainer agreement or letter of engagement. Either on the net sum recovered after deducting expenses and disbursements for expert testimony and investigative or other services properly chargeable to the claim, or, where the attorney has agreed to pay those costs under Judiciary Law 488(2)(d), on the gross sum before any such deduction. The agreement must describe both methods, explain the financial consequences of each, and clearly show which one the client picked. Costs as taxed, including interest on a judgment, count as part of the amount recovered. No deduction is made in the computation for a lien or claim in favor of a hospital, for medical care and treatment by doctors and nurses, or of a self-insurer or an insurance carrier.
+
+### The malpractice scale that does not apply here
+
+Judiciary Law 474-a is frequently quoted as though it governed all injury work in New York. It does not. Its sliding scale reaches medical, dental and podiatric malpractice actions only, capping the fee at thirty percent of the first $250,000 recovered, twenty-five percent of the next $250,000, twenty percent of the next $500,000, fifteen percent of the next $250,000, and ten percent of anything above $1,250,000. A claim against the owner of a dog that bit someone on a sidewalk in Chelsea is an ordinary personal injury claim, so the First Department schedule applies and this one does not. If a hospital's handling of the wound became its own claim, that separate claim would fall under 474-a.
+
+### A child's claim goes before the court
+
+Judiciary Law 474 makes an agreement between an attorney and the guardian of an infant for compensation dependent on the success of the infant's claim, or for a percentage of the infant's recovery, invalid and unenforceable unless it was made subject to the court's power to fix the amount. On a recovery, award, compromise or settlement, the attorney applies on notice to the guardian, the court proceeds summarily to determine the value of the services by affidavit, reference or examination of witnesses, and then orders a suitable amount out of the money. Given how many bite victims in the city are children, this is the operative fee mechanism in a large share of cases.
+
+### What the paperwork and the County Clerk cost
+
+Rule 1215.1 of the Rules of the Chief Administrator requires a written letter of engagement before the representation begins, or within a reasonable time after where that is impracticable, explaining the scope of the services, the fees, expenses and billing practices, and, where it applies, the client's right to fee arbitration under Part 137. A signed retainer covering those subjects satisfies the requirement, and a significant change in scope calls for an updated letter. On the litigation side, CPLR 8018(a) fixes the index number fee at $190 payable in advance, plus $5 for records management and $15 for the cultural education account, so $210 opens the file. Filing a note of issue costs $125 where no request for judicial intervention was needed. City licensing runs $8.50 a year for a spayed or neutered dog and $34 for an unaltered dog older than four months, with a $2 fine for each year a license went unrenewed.

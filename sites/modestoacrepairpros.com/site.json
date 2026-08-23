@@ -142,5 +142,148 @@
   "cpc_usd": 25.0,
   "weakest_competitor": "lovesair.com",
   "competitor_dr": 3.9
+ },
+ "pricing": {
+  "mode": "cost",
+  "table_head": "Modesto and Stanislaus County prices, job by job",
+  "anchors": [
+   {
+    "label": "Minor mechanical, plumbing and electrical permit",
+    "value": "$242",
+    "detail": "The fiscal year 2025 to 2026 fee schedule charges $242 for the minor permit covering an HVAC replacement. A water heater permit is $139.",
+    "source_name": "City of Modesto Building Safety Division development user fees, fiscal year 2025-26",
+    "source_url": "https://www.modestogov.com/DocumentCenter/View/19115/Building-Safety-Division-Development-User-Fees-Fiscal-Year-25-26-PDF"
+   },
+   {
+    "label": "MID rebate, high efficiency central air conditioner",
+    "value": "$350 or $600",
+    "detail": "MID pays $350 on a qualifying central air conditioner and $600 at the higher tier, with heat pumps at $450 and $700, up to 65,000 Btu per hour.",
+    "source_name": "Modesto Irrigation District residential rebate catalog",
+    "source_url": "https://middev-tomcat.azurewebsites.net/rebates/home/documents/MID_residential_catalog.pdf"
+   },
+   {
+    "label": "Median hourly wage, heating and air conditioning mechanics",
+    "value": "$31.13",
+    "detail": "May 2025 median for the 470 HVAC mechanics and installers in the Modesto metro area, a small trade pool against a valley summer.",
+    "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+    "source_url": "https://www.bls.gov/oes/current/oes_33700.htm"
+   }
+  ],
+  "rows": [
+   {
+    "job": "Diagnostic visit on a system that stopped cooling",
+    "low": 65,
+    "high": 99,
+    "basis": "per visit",
+    "note": "Local shops differ on whether it is credited. One states the fee is waived with a paid repair, another that it never applies to labor.",
+    "sources": [
+     {
+      "name": "Irish Heat and Air, Modesto and Stanislaus County, posted diagnostic fee, read 2026-08-23",
+      "url": "https://www.irishheatandair.com/service-area/"
+     },
+     {
+      "name": "De Hart Plumbing Heating and Air, Modesto, posted diagnostic fee, read 2026-08-23",
+      "url": "https://www.dehartinc.com/modesto/hvac/air-conditioning/ac-repair-maintenance"
+     },
+     {
+      "name": "Geske Air Conditioning and Heating, Modesto, posted diagnostic pricing, read 2026-08-23",
+      "url": "https://www.geskeair.com/"
+     }
+    ]
+   },
+   {
+    "job": "Seasonal tune-up and system inspection",
+    "low": 79,
+    "high": 150,
+    "basis": "flat",
+    "note": "Spring promotional pricing sits at the bottom and the regular posted rate at the top. Same visit, different month.",
+    "sources": [
+     {
+      "name": "Geske Air Conditioning and Heating, Modesto, posted tune-up pricing, read 2026-08-23",
+      "url": "https://www.geskeair.com/"
+     },
+     {
+      "name": "GS Home Services, Modesto and Stockton, posted tune-up special, read 2026-08-23",
+      "url": "https://www.gshomeservices.com/stay-cool/"
+     },
+     {
+      "name": "Valley Air Pro, Turlock and Modesto area, posted pricing page, read 2026-08-23",
+      "url": "https://valleyairpro.com/pricing"
+     }
+    ]
+   },
+   {
+    "job": "Common summer repair, capacitor, contactor, thermostat or recharge",
+    "low": 100,
+    "high": 600,
+    "basis": "parts and labor",
+    "note": "One Modesto shop puts the local average near the middle of this band, which is a useful sanity check on any quote.",
+    "sources": [
+     {
+      "name": "De Hart Plumbing Heating and Air, Modesto, posted repair range, read 2026-08-23",
+      "url": "https://www.dehartinc.com/modesto/hvac/air-conditioning/ac-repair-maintenance"
+     },
+     {
+      "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted repair pricing, read 2026-08-23",
+      "url": "https://wallyfalkes.com/air-conditioning-repair/"
+     },
+     {
+      "name": "Comfort Experts, Modesto, posted average repair figure, read 2026-08-23",
+      "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
+     }
+    ]
+   },
+   {
+    "job": "Refrigerant leak located and the system recharged",
+    "low": 200,
+    "high": 1600,
+    "basis": "leak search plus refrigerant",
+    "note": "Where the leak hides decides it. A valve or fitting is quick, a leak in the coil or the buried lineset is not.",
+    "sources": [
+     {
+      "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted leak repair pricing, read 2026-08-23",
+      "url": "https://wallyfalkes.com/5-common-a-c-repairs/"
+     },
+     {
+      "name": "Comfort Experts, Modesto, posted leak detection and repair pricing, read 2026-08-23",
+      "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
+     }
+    ]
+   },
+   {
+    "job": "Compressor or corroded coil replaced instead of the whole system",
+    "low": 600,
+    "high": 2000,
+    "basis": "parts and labor",
+    "note": "Worth doing on a young system under warranty. On a fifteen year old condenser this money is usually better spent elsewhere.",
+    "sources": [
+     {
+      "name": "Comfort Experts, Modesto, posted compressor replacement pricing, read 2026-08-23",
+      "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
+     },
+     {
+      "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted coil replacement pricing, read 2026-08-23",
+      "url": "https://wallyfalkes.com/5-common-a-c-repairs/"
+     }
+    ]
+   },
+   {
+    "job": "Full changeout with the Modesto permit pulled",
+    "low": 4500,
+    "high": 15000,
+    "basis": "installed",
+    "note": "One local page states permit cost sits inside the quote. Duct replacement and an electrical upgrade are what reach the top.",
+    "sources": [
+     {
+      "name": "NorCal Repairs, Modesto and Stanislaus County, posted replacement pricing, read 2026-08-23",
+      "url": "https://norcalrepairs.com/hvac/ac-replacement/modesto"
+     },
+     {
+      "name": "Wally Falke's Heating and Air, Central Valley, posted replacement cost page, read 2026-08-23",
+      "url": "https://wallyfalkes.com/central-valley-ac-replacement-cost/"
+     }
+    ]
+   }
+  ]
  }
 }
