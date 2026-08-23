@@ -11,3 +11,6 @@ research_*.json
 
 # One-off writer helper scripts, kept out of the root
 tools/
+
+.stage/
+data/_worker.bundle
