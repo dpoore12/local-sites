@@ -64,3 +64,18 @@ piece of work and it is not started.
 ## Refreshing this
 
     python3 phones.py       # re-read the account, rewrite this file
+
+## Routing — built and tested 2026-08-22
+
+All 83 numbers are now attached to their own handler on Telnyx. Every call is
+answered, logged, and (once a market is sold) bridged to the contractor with a
+whisper. Nothing is recorded except voicemail messages.
+
+- Handlers live at https://call-desk-xi.vercel.app — see `call-desk/README.md`
+- Turn a market live: `cd call-desk && python3 flip.py <domain> <phone>`
+- Turn it back to voicemail: `python3 flip.py <domain> off`
+- Call log: `python3 call_log.py` → `call-desk/log/calls.csv` (permanent, in this repo)
+- Check everything: `python3 verify_wiring.py` and `verify_wiring.py --files-only`
+
+Verified by real test calls: voicemail path records and logs; forwarding path
+plays the whisper to the contractor, then bridges, preserving the caller's number.

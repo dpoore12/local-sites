@@ -1,0 +1,11 @@
+leg_id,when_pt,domain,city,service,caller,tracking_number,seconds_on_call,left_message,message_seconds
+92ce9304-9e93-11f1-aa70-262edab58668,2026-08-22 18:40:08,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+17137154760,+19168849420,27,no,
+92f3a3a6-9e93-11f1-84b6-02420aef97a1,2026-08-22 18:40:09,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+17137154760,+19168849420,27,yes,6
+f74ff34c-9e96-11f1-8eae-02420a0dfc20,2026-08-22 19:04:25,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+12146170560,+19168849420,92,no,
+f787a81e-9e96-11f1-9560-02420aef94a1,2026-08-22 19:04:26,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+12146170560,+19168849420,91,no,
+f84b9cf6-9e96-11f1-a62d-02420a0dfe20,2026-08-22 19:04:27,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+12146170560,+17137154760,90,no,
+f878db26-9e96-11f1-af2a-02420aef8aa1,2026-08-22 19:04:27,houstonmotorcycleaccidentlawyerpros.com,Houston,Motorcycle Accident Lawyer,+12146170560,+17137154760,90,yes,71
+45aa0a50-9e97-11f1-ba86-02420aef8da1,2026-08-22 19:06:37,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+12146170560,+19168849420,91,no,
+45cb1a88-9e97-11f1-9093-02420aef8aa1,2026-08-22 19:06:37,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+12146170560,+19168849420,91,no,
+46296b88-9e97-11f1-824c-02420aef8ea1,2026-08-22 19:06:38,sacramentoacrepair.com,Sacramento,Air Conditioner Repair,+12146170560,+17137154760,90,no,
+4643cf46-9e97-11f1-b2fc-02420aef8e20,2026-08-22 19:06:38,houstonmotorcycleaccidentlawyerpros.com,Houston,Motorcycle Accident Lawyer,+12146170560,+17137154760,90,yes,71

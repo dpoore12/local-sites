@@ -1,0 +1,835 @@
+{
+ "base": "https://call-desk-xi.vercel.app",
+ "markets": [
+  {
+   "domain": "allenacrepairpros.com",
+   "brand": "Allen Air Conditioner Repair Pros",
+   "city": "Allen",
+   "state": "TX",
+   "service": "Air Conditioner Repair",
+   "tracking_number": "+12147224321",
+   "tracking_display": "(214) 722-4321",
+   "forwards_to": null
+  },
+  {
+   "domain": "annarborgaragedoorrepairpros.com",
+   "brand": "Ann Arbor Garage Door Repair Pros",
+   "city": "Ann Arbor",
+   "state": "MI",
+   "service": "Garage Door Repair",
+   "tracking_number": "+17348882606",
+   "tracking_display": "(734) 888-2606",
+   "forwards_to": null
+  },
+  {
+   "domain": "appliancerepairtampaco.com",
+   "brand": "Tampa Appliance Repair Pros",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Appliance Repair",
+   "tracking_number": "+18137221409",
+   "tracking_display": "(813) 722-1409",
+   "forwards_to": null
+  },
+  {
+   "domain": "arlingtonbathroomremodelingpros.com",
+   "brand": "Arlington Bathroom Remodeling Pros",
+   "city": "Arlington",
+   "state": "TX",
+   "service": "Bathroom Remodeling",
+   "tracking_number": "+16826282026",
+   "tracking_display": "(682) 628-2026",
+   "forwards_to": null
+  },
+  {
+   "domain": "arvadaemergencyplumber.com",
+   "brand": "Arvada Emergency Plumbing Pros",
+   "city": "Arvada",
+   "state": "CO",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+17206400287",
+   "tracking_display": "(720) 640-0287",
+   "forwards_to": null
+  },
+  {
+   "domain": "atlantadogbitelawyerpros.com",
+   "brand": "Atlanta Dog Bite Law Pros",
+   "city": "Atlanta",
+   "state": "GA",
+   "service": "Dog Bite Lawyer",
+   "tracking_number": "+14046667615",
+   "tracking_display": "(404) 666-7615",
+   "forwards_to": null
+  },
+  {
+   "domain": "atlantaemergencyplumberpros.com",
+   "brand": "Atlanta Emergency Plumbing Pros",
+   "city": "Atlanta",
+   "state": "GA",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+14043414588",
+   "tracking_display": "(404) 341-4588",
+   "forwards_to": null
+  },
+  {
+   "domain": "austinroofinspectionpros.com",
+   "brand": "Austin Roof Inspection Pros",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Roof Inspection",
+   "tracking_number": "+15125439525",
+   "tracking_display": "(512) 543-9525",
+   "forwards_to": null
+  },
+  {
+   "domain": "austinwrongfuldeathlawyerpros.com",
+   "brand": "Austin Wrongful Death Law Pros",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Wrongful Death Lawyer",
+   "tracking_number": "+15127299561",
+   "tracking_display": "(512) 729-9561",
+   "forwards_to": null
+  },
+  {
+   "domain": "bellevuebathroomremodeling.com",
+   "brand": "Bellevue Bathroom Remodeling Pros",
+   "city": "Bellevue",
+   "state": "NE",
+   "service": "Bathroom Remodeling",
+   "tracking_number": "+14026988275",
+   "tracking_display": "(402) 698-8275",
+   "forwards_to": null
+  },
+  {
+   "domain": "birminghamtruckaccidentlawyerpros.com",
+   "brand": "Birmingham Truck Accident Law Pros",
+   "city": "Birmingham",
+   "state": "AL",
+   "service": "Truck Accident Lawyer",
+   "tracking_number": "+12059313685",
+   "tracking_display": "(205) 931-3685",
+   "forwards_to": null
+  },
+  {
+   "domain": "bocaratongaragedoorrepairpros.com",
+   "brand": "Boca Raton Garage Door Repair Pros",
+   "city": "Boca Raton",
+   "state": "FL",
+   "service": "Garage Door Repair",
+   "tracking_number": "+15615760305",
+   "tracking_display": "(561) 576-0305",
+   "forwards_to": null
+  },
+  {
+   "domain": "carrolltongaragedoorrepairexperts.com",
+   "brand": "Carrollton Garage Door Repair Pros",
+   "city": "Carrollton",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "tracking_number": "+12148170539",
+   "tracking_display": "(214) 817-0539",
+   "forwards_to": null
+  },
+  {
+   "domain": "charlotteguttercleaningpros.com",
+   "brand": "Charlotte Gutter Cleaning Pros",
+   "city": "Charlotte",
+   "state": "NC",
+   "service": "Gutter Cleaning",
+   "tracking_number": "+19809078311",
+   "tracking_display": "(980) 907-8311",
+   "forwards_to": null
+  },
+  {
+   "domain": "cincinnatipersonalinjurylawyerpros.com",
+   "brand": "Cincinnati Personal Injury Law Pros",
+   "city": "Cincinnati",
+   "state": "OH",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+15137969335",
+   "tracking_display": "(513) 796-9335",
+   "forwards_to": null
+  },
+  {
+   "domain": "coloradospringsemergencyplumber.com",
+   "brand": "Colorado Springs Emergency Plumbing Pros",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+17198505028",
+   "tracking_display": "(719) 850-5028",
+   "forwards_to": null
+  },
+  {
+   "domain": "coloradospringsfurnacerepair.com",
+   "brand": "Colorado Springs Furnace Repair Pros",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "service": "Furnace Repair",
+   "tracking_number": "+17198721436",
+   "tracking_display": "(719) 872-1436",
+   "forwards_to": null
+  },
+  {
+   "domain": "coloradospringsmoldremediationexperts.com",
+   "brand": "Colorado Springs Mold Remediation Pros",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "service": "Mold Remediation",
+   "tracking_number": "+17194358032",
+   "tracking_display": "(719) 435-8032",
+   "forwards_to": null
+  },
+  {
+   "domain": "concordcaraccidentlawyerpros.com",
+   "brand": "Concord Car Accident Law Pros",
+   "city": "Concord",
+   "state": "NC",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+17049511636",
+   "tracking_display": "(704) 951-1636",
+   "forwards_to": null
+  },
+  {
+   "domain": "concordpersonalinjurylawyer.com",
+   "brand": "Concord Personal Injury Law Pros",
+   "city": "Concord",
+   "state": "NC",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+17044713231",
+   "tracking_display": "(704) 471-3231",
+   "forwards_to": null
+  },
+  {
+   "domain": "dallaswindowreplacementexperts.com",
+   "brand": "Dallas Window Replacement Pros",
+   "city": "Dallas",
+   "state": "TX",
+   "service": "Window Replacement",
+   "tracking_number": "+12148170398",
+   "tracking_display": "(214) 817-0398",
+   "forwards_to": null
+  },
+  {
+   "domain": "dallaswrongfuldeathlawyerpros.com",
+   "brand": "Dallas Wrongful Death Law Pros",
+   "city": "Dallas",
+   "state": "TX",
+   "service": "Wrongful Death Lawyer",
+   "tracking_number": "+12146170560",
+   "tracking_display": "(214) 617-0560",
+   "forwards_to": null
+  },
+  {
+   "domain": "danvillegaragedoorrepairpros.com",
+   "brand": "Danville Garage Door Repair Pros",
+   "city": "Danville",
+   "state": "CA",
+   "service": "Garage Door Repair",
+   "tracking_number": "+19252305528",
+   "tracking_display": "(925) 230-5528",
+   "forwards_to": null
+  },
+  {
+   "domain": "denverdivorcelawyerpros.com",
+   "brand": "Denver Divorce Law Pros",
+   "city": "Denver",
+   "state": "CO",
+   "service": "Divorce Lawyer",
+   "tracking_number": "+13039553375",
+   "tracking_display": "(303) 955-3375",
+   "forwards_to": null
+  },
+  {
+   "domain": "denverfurnacerepairpros.com",
+   "brand": "Denver Furnace Repair Pros",
+   "city": "Denver",
+   "state": "CO",
+   "service": "Furnace Repair",
+   "tracking_number": "+13039553612",
+   "tracking_display": "(303) 955-3612",
+   "forwards_to": null
+  },
+  {
+   "domain": "edenprairiegaragedoorrepairpros.com",
+   "brand": "Eden Prairie Garage Door Repair Pros",
+   "city": "Eden Prairie",
+   "state": "MN",
+   "service": "Garage Door Repair",
+   "tracking_number": "+19528669214",
+   "tracking_display": "(952) 866-9214",
+   "forwards_to": null
+  },
+  {
+   "domain": "fortlauderdaledomesticviolencelawyer.com",
+   "brand": "Fort Lauderdale Domestic Violence Law Pros",
+   "city": "Fort Lauderdale",
+   "state": "FL",
+   "service": "Domestic Violence Lawyer",
+   "tracking_number": "+17542918480",
+   "tracking_display": "(754) 291-8480",
+   "forwards_to": null
+  },
+  {
+   "domain": "fortworthgaragedoorrepairpros.com",
+   "brand": "Fort Worth Garage Door Repair Pros",
+   "city": "Fort Worth",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "tracking_number": "+16823808979",
+   "tracking_display": "(682) 380-8979",
+   "forwards_to": null
+  },
+  {
+   "domain": "foundationrepairaustinco.com",
+   "brand": "Austin Foundation Repair Pros",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Foundation Repair",
+   "tracking_number": "+15127299323",
+   "tracking_display": "(512) 729-9323",
+   "forwards_to": null
+  },
+  {
+   "domain": "fresnowrongfuldeathlawyerpros.com",
+   "brand": "Fresno Wrongful Death Law Pros",
+   "city": "Fresno",
+   "state": "CA",
+   "service": "Wrongful Death Lawyer",
+   "tracking_number": "+15593405097",
+   "tracking_display": "(559) 340-5097",
+   "forwards_to": null
+  },
+  {
+   "domain": "friscogaragedoorrepairexperts.com",
+   "brand": "Frisco Garage Door Repair Pros",
+   "city": "Frisco",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "tracking_number": "+12149970301",
+   "tracking_display": "(214) 997-0301",
+   "forwards_to": null
+  },
+  {
+   "domain": "garagedoorrepairnapervillepros.com",
+   "brand": "Naperville Garage Door Pros",
+   "city": "Naperville",
+   "state": "IL",
+   "service": "Garage Door Repair",
+   "tracking_number": "+16303898193",
+   "tracking_display": "(630) 389-8193",
+   "forwards_to": null
+  },
+  {
+   "domain": "garlandgaragedoorrepairexperts.com",
+   "brand": "Garland Garage Door Repair Pros",
+   "city": "Garland",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "tracking_number": "+12149355873",
+   "tracking_display": "(214) 935-5873",
+   "forwards_to": null
+  },
+  {
+   "domain": "harrisburgcaraccidentlawyerpros.com",
+   "brand": "Harrisburg Car Accident Law Pros",
+   "city": "Harrisburg",
+   "state": "PA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+17175008218",
+   "tracking_display": "(717) 500-8218",
+   "forwards_to": null
+  },
+  {
+   "domain": "houstonmotorcycleaccidentlawyerpros.com",
+   "brand": "Houston Motorcycle Accident Law Pros",
+   "city": "Houston",
+   "state": "TX",
+   "service": "Motorcycle Accident Lawyer",
+   "tracking_number": "+17137154760",
+   "tracking_display": "(713) 715-4760",
+   "forwards_to": null
+  },
+  {
+   "domain": "jacksonvilleemergencyplumberpros.com",
+   "brand": "Jacksonville Emergency Plumbing Pros",
+   "city": "Jacksonville",
+   "state": "FL",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+19045821651",
+   "tracking_display": "(904) 582-1651",
+   "forwards_to": null
+  },
+  {
+   "domain": "jacksonvillewrongfuldeathlawyerpros.com",
+   "brand": "Jacksonville Wrongful Death Law Pros",
+   "city": "Jacksonville",
+   "state": "FL",
+   "service": "Wrongful Death Lawyer",
+   "tracking_number": "+19046630155",
+   "tracking_display": "(904) 663-0155",
+   "forwards_to": null
+  },
+  {
+   "domain": "jonesboropersonalinjurylawyerpros.com",
+   "brand": "Jonesboro Personal Injury Law Pros",
+   "city": "Jonesboro",
+   "state": "AR",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+18703843198",
+   "tracking_display": "(870) 384-3198",
+   "forwards_to": null
+  },
+  {
+   "domain": "kansascityemergencyplumber.com",
+   "brand": "Kansas City Emergency Plumbing Pros",
+   "city": "Kansas City",
+   "state": "MO",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+18162641558",
+   "tracking_display": "(816) 264-1558",
+   "forwards_to": null
+  },
+  {
+   "domain": "lasvegasdogbitelawyerpros.com",
+   "brand": "Las Vegas Dog Bite Law Pros",
+   "city": "Las Vegas",
+   "state": "NV",
+   "service": "Dog Bite Lawyer",
+   "tracking_number": "+17028277970",
+   "tracking_display": "(702) 827-7970",
+   "forwards_to": null
+  },
+  {
+   "domain": "longbeachpersonalinjurylawyerpros.com",
+   "brand": "Long Beach Personal Injury Law Pros",
+   "city": "Long Beach",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+15625869166",
+   "tracking_display": "(562) 586-9166",
+   "forwards_to": null
+  },
+  {
+   "domain": "losangelesacinstall.com",
+   "brand": "Los Angeles Air Conditioning Installation Pros",
+   "city": "Los Angeles",
+   "state": "CA",
+   "service": "Air Conditioning Installation",
+   "tracking_number": "+12137719221",
+   "tracking_display": "(213) 771-9221",
+   "forwards_to": null
+  },
+  {
+   "domain": "losangelesdogbitelawyerpros.com",
+   "brand": "Los Angeles Dog Bite Law Pros",
+   "city": "Los Angeles",
+   "state": "CA",
+   "service": "Dog Bite Lawyer",
+   "tracking_number": "+12139531047",
+   "tracking_display": "(213) 953-1047",
+   "forwards_to": null
+  },
+  {
+   "domain": "louisvillecaraccidentlawyerpros.com",
+   "brand": "Louisville Car Accident Law Pros",
+   "city": "Louisville",
+   "state": "KY",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+15022684918",
+   "tracking_display": "(502) 268-4918",
+   "forwards_to": null
+  },
+  {
+   "domain": "mariettagaragedoorrepairpros.com",
+   "brand": "Marietta Garage Door Repair Pros",
+   "city": "Marietta",
+   "state": "GA",
+   "service": "Garage Door Repair",
+   "tracking_number": "+16787194781",
+   "tracking_display": "(678) 719-4781",
+   "forwards_to": null
+  },
+  {
+   "domain": "mckinneygaragedoorrepairpros.com",
+   "brand": "McKinney Garage Door Repair Pros",
+   "city": "McKinney",
+   "state": "TX",
+   "service": "Garage Door Repair",
+   "tracking_number": "+12149355494",
+   "tracking_display": "(214) 935-5494",
+   "forwards_to": null
+  },
+  {
+   "domain": "mesquiteacrepairpros.com",
+   "brand": "Mesquite Air Conditioner Repair Pros",
+   "city": "Mesquite",
+   "state": "TX",
+   "service": "Air Conditioner Repair",
+   "tracking_number": "+12143908347",
+   "tracking_display": "(214) 390-8347",
+   "forwards_to": null
+  },
+  {
+   "domain": "modestoacrepairpros.com",
+   "brand": "Modesto Air Conditioner Repair Pros",
+   "city": "Modesto",
+   "state": "CA",
+   "service": "Air Conditioner Repair",
+   "tracking_number": "+12093099163",
+   "tracking_display": "(209) 309-9163",
+   "forwards_to": null
+  },
+  {
+   "domain": "modestocaraccidentlawyerpros.com",
+   "brand": "Modesto Car Accident Law Pros",
+   "city": "Modesto",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+12098059881",
+   "tracking_display": "(209) 805-9881",
+   "forwards_to": null
+  },
+  {
+   "domain": "modestopersonalinjurylawyerpros.com",
+   "brand": "Modesto Personal Injury Law Pros",
+   "city": "Modesto",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+12093099564",
+   "tracking_display": "(209) 309-9564",
+   "forwards_to": null
+  },
+  {
+   "domain": "neworleansmotorcycleaccidentlawyerpros.com",
+   "brand": "New Orleans Motorcycle Accident Law Pros",
+   "city": "New Orleans",
+   "state": "LA",
+   "service": "Motorcycle Accident Lawyer",
+   "tracking_number": "+15045204493",
+   "tracking_display": "(504) 520-4493",
+   "forwards_to": null
+  },
+  {
+   "domain": "newportbeachduilawyerpros.com",
+   "brand": "Newport Beach DUI Law Pros",
+   "city": "Newport Beach",
+   "state": "CA",
+   "service": "DUI Lawyer",
+   "tracking_number": "+19495932793",
+   "tracking_display": "(949) 593-2793",
+   "forwards_to": null
+  },
+  {
+   "domain": "newyorkdogbitelawyerpros.com",
+   "brand": "New York Dog Bite Law Pros",
+   "city": "New York",
+   "state": "NY",
+   "service": "Dog Bite Lawyer",
+   "tracking_number": "+16469149310",
+   "tracking_display": "(646) 914-9310",
+   "forwards_to": null
+  },
+  {
+   "domain": "oceansidepersonalinjurylawyerpros.com",
+   "brand": "Oceanside Personal Injury Law Pros",
+   "city": "Oceanside",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+14422468708",
+   "tracking_display": "(442) 246-8708",
+   "forwards_to": null
+  },
+  {
+   "domain": "orlandoduilawyerpros.com",
+   "brand": "Orlando DUI Law Pros",
+   "city": "Orlando",
+   "state": "FL",
+   "service": "DUI Lawyer",
+   "tracking_number": "+13214639784",
+   "tracking_display": "(321) 463-9784",
+   "forwards_to": null
+  },
+  {
+   "domain": "orlandomovingcompanypros.com",
+   "brand": "Orlando Moving Services Pros",
+   "city": "Orlando",
+   "state": "FL",
+   "service": "Moving Services",
+   "tracking_number": "+13214639055",
+   "tracking_display": "(321) 463-9055",
+   "forwards_to": null
+  },
+  {
+   "domain": "overlandparkgaragedoorrepairpros.com",
+   "brand": "Overland Park Garage Door Repair Pros",
+   "city": "Overland Park",
+   "state": "KS",
+   "service": "Garage Door Repair",
+   "tracking_number": "+19137998294",
+   "tracking_display": "(913) 799-8294",
+   "forwards_to": null
+  },
+  {
+   "domain": "oxnardcaraccidentlawyerpros.com",
+   "brand": "Oxnard Car Accident Law Pros",
+   "city": "Oxnard",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+18053445595",
+   "tracking_display": "(805) 344-5595",
+   "forwards_to": null
+  },
+  {
+   "domain": "parkergaragedoorrepairexperts.com",
+   "brand": "Parker Garage Door Repair Pros",
+   "city": "Parker",
+   "state": "CO",
+   "service": "Garage Door Repair",
+   "tracking_number": "+17207358376",
+   "tracking_display": "(720) 735-8376",
+   "forwards_to": null
+  },
+  {
+   "domain": "phoenixleakdetectionpros.com",
+   "brand": "Phoenix Leak Detection Pros",
+   "city": "Phoenix",
+   "state": "AZ",
+   "service": "Leak Detection",
+   "tracking_number": "+16028940220",
+   "tracking_display": "(602) 894-0220",
+   "forwards_to": null
+  },
+  {
+   "domain": "raleighmovingcompanypros.com",
+   "brand": "Raleigh Moving Services Pros",
+   "city": "Raleigh",
+   "state": "NC",
+   "service": "Moving Services",
+   "tracking_number": "+19199136126",
+   "tracking_display": "(919) 913-6126",
+   "forwards_to": null
+  },
+  {
+   "domain": "sacramentoacrepair.com",
+   "brand": "Sacramento Air Conditioner Repair Pros",
+   "city": "Sacramento",
+   "state": "CA",
+   "service": "Air Conditioner Repair",
+   "tracking_number": "+19168849420",
+   "tracking_display": "(916) 884-9420",
+   "forwards_to": null
+  },
+  {
+   "domain": "sacramentodogbitelawyerpros.com",
+   "brand": "Sacramento Dog Bite Law Pros",
+   "city": "Sacramento",
+   "state": "CA",
+   "service": "Dog Bite Lawyer",
+   "tracking_number": "+19169370789",
+   "tracking_display": "(916) 937-0789",
+   "forwards_to": null
+  },
+  {
+   "domain": "salinascaraccidentlawyer.com",
+   "brand": "Salinas Car Accident Law Pros",
+   "city": "Salinas",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+18316138424",
+   "tracking_display": "(831) 613-8424",
+   "forwards_to": null
+  },
+  {
+   "domain": "sandiegodogbitelawyerpros.com",
+   "brand": "San Diego Dog Bite Law Pros",
+   "city": "San Diego",
+   "state": "CA",
+   "service": "Dog Bite Lawyer",
+   "tracking_number": "+16196589664",
+   "tracking_display": "(619) 658-9664",
+   "forwards_to": null
+  },
+  {
+   "domain": "sandiegoleakdetectionpros.com",
+   "brand": "San Diego Leak Detection Pros",
+   "city": "San Diego",
+   "state": "CA",
+   "service": "Leak Detection",
+   "tracking_number": "+16196030192",
+   "tracking_display": "(619) 603-0192",
+   "forwards_to": null
+  },
+  {
+   "domain": "sandiegowrongfulterminationlaw.com",
+   "brand": "San Diego Wrongful Termination Law Pros",
+   "city": "San Diego",
+   "state": "CA",
+   "service": "Wrongful Termination Lawyer",
+   "tracking_number": "+16196129902",
+   "tracking_display": "(619) 612-9902",
+   "forwards_to": null
+  },
+  {
+   "domain": "sanjoseduilawyerpros.com",
+   "brand": "San Jose DUI Law Pros",
+   "city": "San Jose",
+   "state": "CA",
+   "service": "DUI Lawyer",
+   "tracking_number": "+14087454909",
+   "tracking_display": "(408) 745-4909",
+   "forwards_to": null
+  },
+  {
+   "domain": "sanjoseemergencyplumberpros.com",
+   "brand": "San Jose Emergency Plumbing Pros",
+   "city": "San Jose",
+   "state": "CA",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+14085122397",
+   "tracking_display": "(408) 512-2397",
+   "forwards_to": null
+  },
+  {
+   "domain": "sanjosemovingcompanypros.com",
+   "brand": "San Jose Moving Services Pros",
+   "city": "San Jose",
+   "state": "CA",
+   "service": "Moving Services",
+   "tracking_number": "+14084616238",
+   "tracking_display": "(408) 461-6238",
+   "forwards_to": null
+  },
+  {
+   "domain": "santaanapersonalinjurylawyerpros.com",
+   "brand": "Santa Ana Personal Injury Law Pros",
+   "city": "Santa Ana",
+   "state": "CA",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+16573599924",
+   "tracking_display": "(657) 359-9924",
+   "forwards_to": null
+  },
+  {
+   "domain": "santabarbaracaraccidentlawyer.com",
+   "brand": "Santa Barbara Car Accident Law Pros",
+   "city": "Santa Barbara",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+18054670462",
+   "tracking_display": "(805) 467-0462",
+   "forwards_to": null
+  },
+  {
+   "domain": "scottsdalegaragedoorrepairpros.com",
+   "brand": "Scottsdale Garage Door Repair Pros",
+   "city": "Scottsdale",
+   "state": "AZ",
+   "service": "Garage Door Repair",
+   "tracking_number": "+14809191801",
+   "tracking_display": "(480) 919-1801",
+   "forwards_to": null
+  },
+  {
+   "domain": "tampacriminaldefenselawyerpros.com",
+   "brand": "Tampa Criminal Defense Law Pros",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Criminal Defense Lawyer",
+   "tracking_number": "+18135886602",
+   "tracking_display": "(813) 588-6602",
+   "forwards_to": null
+  },
+  {
+   "domain": "tampafamilylawattorneypros.com",
+   "brand": "Tampa Family Law Law Pros",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Family Law Attorney",
+   "tracking_number": "+18138458721",
+   "tracking_display": "(813) 845-8721",
+   "forwards_to": null
+  },
+  {
+   "domain": "tampatileroofrepair.com",
+   "brand": "Tampa Tile Roof Repair Pros",
+   "city": "Tampa",
+   "state": "FL",
+   "service": "Tile Roof Repair",
+   "tracking_number": "+18137420423",
+   "tracking_display": "(813) 742-0423",
+   "forwards_to": null
+  },
+  {
+   "domain": "tempeduilawyerpros.com",
+   "brand": "Tempe DUI Law Pros",
+   "city": "Tempe",
+   "state": "AZ",
+   "service": "DUI Lawyer",
+   "tracking_number": "+14807419606",
+   "tracking_display": "(480) 741-9606",
+   "forwards_to": null
+  },
+  {
+   "domain": "tucsonemergencyplumberpros.com",
+   "brand": "Tucson Emergency Plumbing Pros",
+   "city": "Tucson",
+   "state": "AZ",
+   "service": "Emergency Plumbing",
+   "tracking_number": "+15205211268",
+   "tracking_display": "(520) 521-1268",
+   "forwards_to": null
+  },
+  {
+   "domain": "victorvillecaraccidentlawyerpros.com",
+   "brand": "Victorville Car Accident Law Pros",
+   "city": "Victorville",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+14429368681",
+   "tracking_display": "(442) 936-8681",
+   "forwards_to": null
+  },
+  {
+   "domain": "virginiabeachcaraccidentlawyerpros.com",
+   "brand": "Virginia Beach Car Accident Law Pros",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+17575268901",
+   "tracking_display": "(757) 526-8901",
+   "forwards_to": null
+  },
+  {
+   "domain": "virginiabeachpersonalinjurylawyerpros.com",
+   "brand": "Virginia Beach Personal Injury Law Pros",
+   "city": "Virginia Beach",
+   "state": "VA",
+   "service": "Personal Injury Lawyer",
+   "tracking_number": "+17576848383",
+   "tracking_display": "(757) 684-8383",
+   "forwards_to": null
+  },
+  {
+   "domain": "waterdamageaustinco.com",
+   "brand": "Austin Water Damage Restoration Pros",
+   "city": "Austin",
+   "state": "TX",
+   "service": "Water Damage Restoration",
+   "tracking_number": "+15125661943",
+   "tracking_display": "(512) 566-1943",
+   "forwards_to": null
+  },
+  {
+   "domain": "westcovinacaraccidentlawyerpros.com",
+   "brand": "West Covina Car Accident Law Pros",
+   "city": "West Covina",
+   "state": "CA",
+   "service": "Car Accident Lawyer",
+   "tracking_number": "+16262638045",
+   "tracking_display": "(626) 263-8045",
+   "forwards_to": null
+  }
+ ]
+}

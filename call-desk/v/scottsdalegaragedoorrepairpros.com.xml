@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="Polly.Joanna">Thanks for calling Scottsdale Garage Door Repair Pros. Leave your name, your number and the address, and we will call you right back.</Say>
+  <Record maxLength="120" timeout="5" finishOnKey="#" playBeep="true" trim="trim-silence" format="mp3"/>
+  <Say voice="Polly.Joanna">Got it. We will call you right back.</Say>
+  <Hangup/>
+</Response>
