@@ -36,42 +36,10 @@ PROJECT = "local-sites"
 STATE = os.path.join(ROOT, "data", "hosting.json")
 MANIFEST = os.path.join(ROOT, "data", "manifest.json")
 
-WORKER = """// One project, many sites. The hostname picks the folder.
-export default {
-  async fetch(request, env) {
-    const url = new URL(request.url);
-    let host = url.hostname.toLowerCase().replace(/^www\\./, "");
-
-    // browsing the project directly: serve as-is
-    if (host.endsWith(".pages.dev") || host === "localhost") {
-      return env.ASSETS.fetch(request);
-    }
-
-    const target = new URL(request.url);
-    target.pathname = "/" + host + url.pathname;
-    let res = await env.ASSETS.fetch(new Request(target.toString(), request));
-
-    // /foo -> /foo/
-    if (res.status === 404 && !url.pathname.endsWith("/")) {
-      const alt = new URL(target.toString());
-      alt.pathname = alt.pathname + "/";
-      const retry = await env.ASSETS.fetch(new Request(alt.toString(), request));
-      if (retry.status !== 404) return retry;
-    }
-
-    // anything else on that site falls back to its own home page
-    if (res.status === 404) {
-      const home = new URL(target.toString());
-      home.pathname = "/" + host + "/";
-      const fallback = await env.ASSETS.fetch(new Request(home.toString(), request));
-      if (fallback.status === 200) {
-        return new Response(fallback.body, {status: 404, headers: fallback.headers});
-      }
-    }
-    return res;
-  }
-};
-"""
+# The router lives in router/_worker.js so it can be edited, diffed and
+# reviewed like code. It used to be an inline string here.
+WORKER = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                      "router", "_worker.js")
 
 
 def api(method, path, body=None, form=None, tries=5):
@@ -159,7 +127,7 @@ def stage():
     for d in domains():
         shutil.copytree(os.path.join(DIST, d), os.path.join(STAGE, d))
         n += 1
-    open(os.path.join(STAGE, "_worker.js"), "w").write(WORKER)
+    shutil.copyfile(WORKER, os.path.join(STAGE, "_worker.js"))
     files = sum(len(f) for _, _, f in os.walk(STAGE))
     size = subprocess.run(["du", "-sh", STAGE], capture_output=True, text=True).stdout.split()[0]
     print(f"staged {n} sites, {files} files, {size}")

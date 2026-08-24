@@ -173,8 +173,19 @@ TAG = re.compile(r"<[^>]+>")
 WS = re.compile(r"\s+")
 
 
+# The lead form is chrome: byte-identical on all 83 sites. It is removed before
+# any word count and before the duplication guard, because counting it would
+# both blow the page ceilings and make the shingle guard fire on site number 2.
+# The form's script tag goes with it: TAG.sub strips the <script> element but
+# leaves the JavaScript inside it sitting in the text, where it counted as ~70
+# words on every page.
+CHROME = re.compile(
+    r'<section class="leadband".*?</section>'
+    r'|<script data-lead-js>.*?</script>', re.S)
+
+
 def visible_words(html):
-    return WS.sub(" ", TAG.sub(" ", html)).strip().split()
+    return WS.sub(" ", TAG.sub(" ", CHROME.sub(" ", html))).strip().split()
 
 
 def parse_copy(path):
@@ -466,8 +477,33 @@ def build(domain, live=False, check_only=False, corpus=None):
     work = [{"src": f"assets/work-{i}.jpg", "caption": svc_names[i - 1]}
             for i in (1, 2, 3)]
 
+    # --- lead form copy -------------------------------------------------------
+    # Nothing here may name a city, a service or a symptom: this block renders
+    # identically on all 83 sites, which is what lets the duplication guard
+    # ignore it. Anything market-specific belongs in copy.md.
+    lf = dict(
+        lf_eyebrow="Rather not call?",
+        lf_head=("Tell us what happened" if legal else "Tell us what is wrong"),
+        lf_sub=("Six boxes, about thirty seconds. You pick when to be called "
+                "back, and that is when the phone rings."),
+        lf_problem_label=("What happened?" if legal
+                          else "What do you need help with?"),
+        lf_problem_ph=("In a few words \u2014 what happened?" if legal
+                       else "In a few words \u2014 what is wrong?"),
+        lf_button="Request a callback",
+        lf_fine=(
+            ("Sending this form does not create an attorney-client relationship, "
+             "and nothing sent through it is confidential or privileged. Keep it "
+             "brief and leave the details until you have spoken with a lawyer. "
+             if legal else "")
+            + "What you enter is used to arrange this callback. It is not sold, "
+              "and it is not added to a shared list."),
+        lf_thanks=("Got it. Expect a call at the time you picked. "
+                   f"If it cannot wait, calling {s['phone_display']} is faster."),
+    )
+
     ctx = dict(
-        s=s, c=c, year=YEAR,
+        s=s, c=c, year=YEAR, legal=legal, **lf,
         robots="index, follow" if live else "noindex, nofollow",
         logo_mark=LOGO_MARK, hero_note=hero_note, disclosure=disclosure,
         values=values, steps=steps, factors=factors, expects=expects,

@@ -31,6 +31,8 @@
 
 {% block main %}{% endblock %}
 
+{% include "leadform.html" %}
+
 <footer>
   <div class="wrapper">
     <p><strong>{{ s.brand }}</strong> &mdash; {{ s.service }} in {{ s.city }}, {{ s.state }}. Serving {{ s.city }} and the surrounding communities across {{ s.counties | counties_surrounding(city=s.city) }}.</p>
@@ -54,6 +56,42 @@
 <div class="mobile-callbar">
   <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call Now: {{ s.phone_display }}</a>
 </div>
+
+<script data-lead-js>
+/* Lead form. Posts in the background so the visitor never leaves the page.
+   With scripting off the same form posts normally and the endpoint returns a
+   plain confirmation page, so the form still works. */
+(function () {
+  var f = document.querySelector('[data-lead-form]');
+  if (!f) return;
+  var stamp = f.querySelector('[data-lead-stamp]');
+  if (stamp) stamp.value = String(Date.now());
+  var status = f.querySelector('[data-lead-status]');
+  var btn = f.querySelector('.lf-submit');
+  f.addEventListener('submit', function (e) {
+    if (!f.reportValidity()) return;
+    e.preventDefault();
+    btn.disabled = true;
+    status.removeAttribute('data-bad');
+    status.textContent = 'Sending\u2026';
+    fetch(f.action, {
+      method: 'POST',
+      headers: { 'Accept': 'application/json' },
+      body: new URLSearchParams(new FormData(f))
+    }).then(function (r) { return r.json().catch(function () { return { ok: r.ok }; }); })
+      .then(function (d) {
+        if (!d.ok) throw new Error(d.error || 'failed');
+        f.classList.add('is-sent');
+        status.textContent = {{ lf_thanks | tojson }};
+      })
+      .catch(function () {
+        btn.disabled = false;
+        status.setAttribute('data-bad', '1');
+        status.textContent = 'That did not go through. Call {{ s.phone_display }} instead.';
+      });
+  });
+})();
+</script>
 
 </body>
 </html>

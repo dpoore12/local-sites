@@ -1118,3 +1118,130 @@ html, body { overflow-x: hidden; max-width: 100%; }
 .price-sources li { font-size: var(--text-sm); margin-bottom: .45rem; break-inside: avoid; }
 .price-sources li a { color: var(--brand); }
 @media (max-width: 640px) { .price-sources ol { columns: 1; } }
+
+/* ---------------------------------------------------------------- lead form
+   Added 2026-08-23. The 83 sites shipped phone-only, and the first-party
+   benchmark data says roughly four in five trade enquiries arrive as a form
+   rather than a call. Two columns on desktop: the ask on the left, the form on
+   a white card to the right. Tokens are the locked navy-and-gold set -- no new
+   colours are introduced here. */
+.leadband {
+  background:
+    radial-gradient(120% 140% at 12% -20%, var(--brand-mid) 0%, var(--brand-deep) 62%);
+  padding: calc(var(--band-pad) * 0.82) 1.5rem;
+}
+.leadband-inner {
+  max-width: 1120px; margin: 0 auto;
+  display: grid; grid-template-columns: minmax(0, 0.86fr) minmax(0, 1.14fr);
+  gap: 3.4rem; align-items: start;
+}
+.leadband-copy { padding-top: 0.35rem; }
+.leadband-copy h2 {
+  color: #fff; font-size: clamp(1.72rem, 3.4vw, 2.3rem);
+  line-height: 1.15; margin: 0.55rem 0 0.9rem; letter-spacing: -0.015em;
+}
+.leadband-copy p { color: #c6d5e1; font-size: 1.04rem; line-height: 1.62; margin: 0 0 1.6rem; max-width: 42ch; }
+.leadband-tel {
+  display: inline-flex; align-items: center; gap: 0.55rem;
+  color: var(--cta); font-weight: 700; font-size: 1.06rem; text-decoration: none;
+  border-bottom: 2px solid rgba(245, 165, 36, 0.42); padding-bottom: 0.18rem;
+}
+.leadband-tel:hover, .leadband-tel:focus { border-bottom-color: var(--cta); }
+.leadband-tel svg { width: 18px; height: 18px; flex: none; }
+
+.leadform {
+  background: var(--card); border-radius: 14px;
+  padding: 1.9rem 1.9rem 1.6rem;
+  box-shadow: var(--shadow-lg);
+  border-top: 4px solid var(--cta);
+}
+.lf-trap { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.lf-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+.lf-row .lf-narrow { max-width: 8.5rem; }
+.lf-field { display: block; margin-bottom: 1rem; }
+.lf-label {
+  display: block; font-size: 0.76rem; font-weight: 700;
+  letter-spacing: 0.075em; text-transform: uppercase;
+  color: var(--brand); margin-bottom: 0.38rem;
+}
+.lf-label em { font-style: normal; font-weight: 600; color: var(--muted); text-transform: none; letter-spacing: 0.02em; }
+.leadform input[type="text"], .leadform input[type="tel"],
+.leadform input[type="email"], .leadform textarea {
+  width: 100%; font: inherit; font-size: 1rem; color: var(--ink);
+  background: #fcfcfa; border: 1.5px solid var(--line);
+  border-radius: 8px; padding: 0.72rem 0.85rem;
+  -webkit-appearance: none; appearance: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.leadform textarea { resize: vertical; min-height: 5.2rem; line-height: 1.5; }
+.leadform input::placeholder, .leadform textarea::placeholder { color: #9aa7b3; }
+.leadform input:focus, .leadform textarea:focus {
+  outline: none; background: #fff;
+  border-color: var(--brand-mid);
+  box-shadow: 0 0 0 3px rgba(27, 79, 112, 0.16);
+}
+.leadform input:user-invalid, .leadform textarea:user-invalid { border-color: #b3452f; }
+
+.lf-when { border: 0; padding: 0; margin: 0.35rem 0 1.25rem; }
+.lf-when legend { padding: 0; margin-bottom: 0.45rem; }
+.lf-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
+/* On a phone the four chips wrap 3 + 1, which looks like a mistake. A two by
+   two grid is tidier and gives every option the same wide tap target. */
+@media (max-width: 560px) {
+  .lf-chips { display: grid; grid-template-columns: 1fr 1fr; }
+  .lf-chips span { text-align: center; padding: 0.62rem 0.5rem; }
+}
+.lf-chips label { position: relative; }
+.lf-chips input {
+  position: absolute; opacity: 0; width: 100%; height: 100%;
+  left: 0; top: 0; margin: 0; cursor: pointer;
+}
+.lf-chips span {
+  display: block; padding: 0.5rem 0.95rem;
+  border: 1.5px solid var(--line); border-radius: 999px;
+  font-size: 0.93rem; font-weight: 600; color: var(--ink-soft);
+  background: #fcfcfa; transition: all 0.14s ease;
+}
+.lf-chips input:checked + span {
+  background: var(--brand); border-color: var(--brand); color: #fff;
+}
+.lf-chips input:focus-visible + span { box-shadow: 0 0 0 3px rgba(27, 79, 112, 0.22); }
+
+.lf-submit {
+  display: block; width: 100%; font: inherit;
+  font-size: 1.09rem; font-weight: 800; letter-spacing: 0.01em;
+  background: var(--cta); color: var(--cta-ink);
+  border: 0; border-bottom: 3px solid var(--cta-deep);
+  border-radius: 9px; padding: 0.98rem 1rem; cursor: pointer;
+  transition: transform 0.14s ease, filter 0.14s ease;
+}
+.lf-submit:hover { filter: brightness(1.04); transform: translateY(-1px); }
+.lf-submit:active { transform: translateY(1px); }
+.lf-submit[disabled] { opacity: 0.62; cursor: default; transform: none; }
+
+.lf-status { margin: 0.85rem 0 0; font-size: 0.95rem; font-weight: 600; color: var(--brand); }
+.lf-status[data-bad] { color: #b3452f; }
+.lf-fine {
+  margin: 0.9rem 0 0; font-size: 0.8rem; line-height: 1.55;
+  color: var(--muted); max-width: 56ch;
+}
+
+/* Success replaces the fields rather than sitting under them, so there is no
+   second submit on a form that has already been sent. */
+.leadform.is-sent .lf-row, .leadform.is-sent .lf-field,
+.leadform.is-sent .lf-when, .leadform.is-sent .lf-submit,
+.leadform.is-sent .lf-fine { display: none; }
+.leadform.is-sent .lf-status { font-size: 1.08rem; margin: 0; }
+
+@media (max-width: 900px) {
+  .leadband-inner { grid-template-columns: 1fr; gap: 2rem; }
+  .leadband-copy p { max-width: none; margin-bottom: 1.1rem; }
+}
+@media (max-width: 560px) {
+  .leadband { padding: 3.4rem 1.1rem; }
+  .leadform { padding: 1.4rem 1.25rem 1.3rem; border-radius: 12px; }
+  .lf-row { grid-template-columns: 1fr; gap: 0; }
+  .lf-row .lf-narrow { max-width: none; }
+  .lf-chips span { padding: 0.55rem 0.85rem; font-size: 0.9rem; }
+}

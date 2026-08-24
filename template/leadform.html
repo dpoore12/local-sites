@@ -1,0 +1,65 @@
+{# The lead form. Rendered on every page of every site from base.html.
+   Every word here is chrome -- identical on all 83 sites -- so build.py strips
+   this whole section before counting visible words and before the duplication
+   guard runs. If it were counted, the shingle guard would fire on site 2. #}
+<section class="leadband" id="request">
+  <div class="leadband-inner">
+    <div class="leadband-copy">
+      <span class="eyebrow">{{ lf_eyebrow }}</span>
+      <h2>{{ lf_head }}</h2>
+      <p>{{ lf_sub }}</p>
+      <a class="leadband-tel" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Or call {{ s.phone_display }}</a>
+    </div>
+
+    <form class="leadform" method="post" action="{{ base }}lead" data-lead-form>
+      <input type="hidden" name="site" value="{{ s.domain }}">
+      <input type="hidden" name="page" value="{{ canonical_path }}">
+      <input type="hidden" name="t" value="" data-lead-stamp>
+      <label class="lf-trap" aria-hidden="true"><span>Company website</span>
+        <input type="text" name="company_url" tabindex="-1" autocomplete="off"></label>
+
+      <div class="lf-row">
+        <label class="lf-field">
+          <span class="lf-label">Name</span>
+          <input type="text" name="name" required autocomplete="name" placeholder="First and last">
+        </label>
+        <label class="lf-field">
+          <span class="lf-label">Phone</span>
+          <input type="tel" name="phone" required autocomplete="tel" inputmode="tel"
+                 placeholder="(555) 555-5555">
+        </label>
+      </div>
+
+      <label class="lf-field">
+        <span class="lf-label">{{ lf_problem_label }}</span>
+        <textarea name="problem" rows="3" required placeholder="{{ lf_problem_ph }}"></textarea>
+      </label>
+
+      <div class="lf-row">
+        <label class="lf-field lf-narrow">
+          <span class="lf-label">ZIP</span>
+          <input type="text" name="zip" inputmode="numeric" pattern="[0-9]{5}" maxlength="5"
+                 autocomplete="postal-code" placeholder="5 digits">
+        </label>
+        <label class="lf-field">
+          <span class="lf-label">Email <em>optional</em></span>
+          <input type="email" name="email" autocomplete="email" placeholder="you@email.com">
+        </label>
+      </div>
+
+      <fieldset class="lf-when">
+        <legend class="lf-label">Best time to call</legend>
+        <div class="lf-chips">
+          <label><input type="radio" name="when" value="Right away" checked><span>Right away</span></label>
+          <label><input type="radio" name="when" value="Morning"><span>Morning</span></label>
+          <label><input type="radio" name="when" value="Afternoon"><span>Afternoon</span></label>
+          <label><input type="radio" name="when" value="Evening"><span>Evening</span></label>
+        </div>
+      </fieldset>
+
+      <button type="submit" class="lf-submit">{{ lf_button }}</button>
+      <p class="lf-status" data-lead-status role="status" aria-live="polite"></p>
+      <p class="lf-fine">{{ lf_fine }}</p>
+    </form>
+  </div>
+</section>
