@@ -278,19 +278,19 @@ What pushes a job past that is anything sealed or anything in the airflow path. 
 
 ### What Modesto charges, and what MID pays back
 
-Repairs are not permitted work. A replacement is. Under the City of Modesto Building Safety Division development user fees, fiscal year 2025-26, the minor mechanical, plumbing and electrical permit covering an HVAC replacement is $242, and a water heater replacement permit is $139. That is larger than most Texas or Arizona cities charge, and California also requires duct leakage testing on many changeouts, a step that never appears on a national price page.
+Repairs are not permitted work. A replacement is. Under the City of Modesto Building Safety Division development user fees, fiscal year 2025-26, the minor mechanical, plumbing and electrical permit covering an HVAC replacement is $242, and a water heater replacement permit is $139. California also requires duct leakage testing on many changeouts, a step that never appears on a national price page.
 
-Running the other direction is the rebate. Modesto Irrigation District pays $350 on a qualifying central air conditioner and $600 at the higher efficiency tier, with central heat pumps at $450 and $700, on equipment up to 65,000 Btu per hour. That is money against the replacement figure in the table, and it depends on the installed equipment qualifying and the paperwork being filed. Ask which tier the proposed equipment hits, because the gap between the two tiers is often smaller than the gap between the two rebates.
+Running the other direction is the rebate. Modesto Irrigation District pays $350 on a qualifying central air conditioner and $600 at the higher efficiency tier, with central heat pumps at $450 and $700, on equipment up to 65,000 Btu per hour. That money comes off the replacement figure in the table, but only if the installed equipment qualifies and the paperwork is filed. Ask which tier the proposed equipment hits, because the gap between the two tiers is often smaller than the gap between the two rebates.
 
 ### Reading a Modesto estimate
 
-The diagnostic fee belongs on its own line with its treatment stated in writing. A component repair names the part and separates part from labor. Refrigerant is quoted by the pound with the type named and the quantity stated. A leak search is a separate line from the leak repair, because they are separate jobs.
+The diagnostic fee belongs on its own line with its treatment stated in writing. A component repair names the part and separates part from labor. Refrigerant is quoted by the pound with the type named and the quantity stated. A leak search is a separate line from the leak repair; they are separate jobs.
 
-On a changeout, the estimate names the condenser and coil by model number, the tonnage, the efficiency rating, whether the lineset is reused, the thermostat, any duct or electrical work, the leakage test if one is required, the Modesto permit as its own line, and the rebate amount with a note on who files for it.
+On a changeout, the estimate names the condenser and coil by model number, the tonnage, the efficiency rating, and whether the lineset is reused. It also lists the thermostat, any duct or electrical work, the leakage test if one is required, the Modesto permit as its own line, and the rebate amount with a note on who files for it.
 
 ### The oversell here
 
-The dominant pattern in this valley is the repair-or-replace conversation arriving before the diagnosis does. Local pages even publish a rule of thumb for it, multiplying the system's age in years by the cost of the repair and replacing when the result clears five thousand. It is a reasonable heuristic and it cuts both ways: a six year old system facing a six hundred dollar repair scores thirty six hundred and should be repaired, and any technician who reaches for replacement on that system is selling rather than diagnosing.
+In this valley, the repair-or-replace conversation usually arrives before the diagnosis. Local pages even publish a rule of thumb for it, multiplying the system's age in years by the cost of the repair and replacing when the result clears five thousand. It is a reasonable heuristic and it cuts both ways: a six year old system facing a six hundred dollar repair scores thirty six hundred and should be repaired, and any technician who reaches for replacement on that system is selling rather than diagnosing.
 
 The second pattern is oversizing. A house that never cooled well is easily sold more tonnage, but a unit too large for the load short cycles and wears out faster. Uneven cooling in an older Modesto house is usually a duct and airflow problem, which a load calculation reveals and a bigger box does not.
 

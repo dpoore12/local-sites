@@ -4,7 +4,7 @@
 <div class="hero">
   <div class="hero-inner">
     <span class="hero-eyebrow">{{ ico_pin | safe }}Serving {{ s.city }}, {{ s.state }}</span>
-    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }}<span class="hero-accent">{{ s.hero_accent }}</span></h1>
+    <h1>{{ s.service }} in {{ s.city }}, {{ s.state }} <span class="hero-accent">{{ s.hero_accent }}</span></h1>
     <p>{{ c.hero_promise }}</p>
     <a href="tel:{{ s.phone_tel }}" class="cta-button">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     <p class="hero-note">{{ hero_note }}</p>
@@ -169,7 +169,7 @@
       {% for q in faqs %}
       <details{% if loop.first %} open{% endif %}>
         <summary><strong>{{ q.q }}</strong></summary>
-        <p>{{ q.a }}</p>
+        {{ q.a_html | safe }}
       </details>
       {% endfor %}
     </section>

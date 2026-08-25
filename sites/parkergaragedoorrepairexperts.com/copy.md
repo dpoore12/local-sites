@@ -28,13 +28,8 @@ A loud snap, then a door too heavy to raise
 
 ## symptom_1
 
-That sharp report from the garage is often a torsion spring breaking. The opener did not suddenly become weak; it lost the counterbalance that normally makes a heavy sectional door feel nearly weightless. Look from a safe distance at the steel shaft above the door. A broken torsion spring usually has a clear gap in the coil. Do not put a hand on the shaft, winding cone, cable, or bottom bracket. Those pieces work under stored force even when the door is down.
+That bang was almost certainly a torsion spring letting go above the opening. The opener did not weaken overnight; the counterbalance that carried the door's weight is gone. From the floor, look along the steel shaft for a clean gap in one coil. Leave the shaft, the winding cones, the cables and the bottom brackets alone. Unplug the operator so nobody presses a button out of habit, and let the door stay down.
 
-Unplug the opener and leave the door closed if possible. Do not use the wall button repeatedly, and do not pull the emergency release on a door that is already open or hanging partway. The motor can strain itself trying to lift an unbalanced door, but the bigger issue is the door's weight. A double door can be far too heavy to control safely without the springs doing their job.
-
-Parker's newer housing matters here in a different way than an old-garage market. In communities built out in the same broad period, many original builder-installed spring sets reach the end of their cycle life close together. The right repair is not selecting a generic spring by the appearance of the door. The technician measures the wire, inside diameter, length, and door height, examines the cables and bearings while tension is off, and installs springs sized to the door. On a two-spring system, replacing the matched pair is normally the sensible option because both springs have carried the same workload.
-
-The final check is done with the opener disconnected: the door should stay near mid-travel rather than sinking or shooting upward. That hand-balance test protects the opener and confirms the new springs are doing the lifting.
 
 ## symptom_2_title
 
@@ -42,13 +37,8 @@ It starts down and immediately returns to the ceiling
 
 ## symptom_2
 
-A door that begins to close and then reverses is responding to its safety system. Start with the two photo-eye sensors near the floor, one on each side of the opening. They need a clear, aligned path to each other. A recycling bin, bicycle wheel, child’s toy, cobweb, or a bracket nudged by a car bumper can interrupt the beam. Check their small indicator lights and clean the lenses with a soft dry cloth. Do not defeat the sensors or tape a button down to force the door closed.
+The door is obeying its own safety circuit rather than failing. Two photo eyes sit near the slab facing each other, and anything crossing that beam ends the close cycle. Look at the indicator lamps, wipe each lens dry, and move whatever leans against the brackets. Never tape a wall button down, and never twist an eye off its aim to make the door finish.
 
-If both sensors are clean and aimed correctly, the door may be telling the opener it encountered resistance. Rollers can bind, hinges can drag, a track can shift slightly, or a door that is out of balance can make the operator hit its force limit. Increasing the force setting without finding that resistance is not a real repair. It can make a closing door less responsive to an actual obstruction.
-
-This comes up often in Parker garages because a door can look new while its original rollers, hinges, and sensor brackets have spent years cycling under ordinary family use. A short inspection separates a simple sensor alignment from a door that needs rollers, track adjustment, or spring work. The technician checks the eyes, runs the door by hand, tests the reversal system, and sets travel limits only after the door moves freely.
-
-If you need the door secured before the visit, keep people, pets, and vehicles clear of the opening. If it is safe and the door is fully shut, disconnect power to prevent accidental operation. A door that will not stay down or is stuck with a visible cable problem should be handled as an urgent on-site repair, not as a sensor adjustment.
 
 ## symptom_3_title
 
@@ -56,13 +46,8 @@ One side is lower, a roller has escaped, or a panel is bent
 
 ## symptom_3
 
-A crooked garage door is not a cosmetic nuisance. When one corner sits lower, a cable may have slipped off its drum after a spring failure, a roller may have climbed out of its track, or the track itself may have been bent by impact. The door is no longer traveling as one supported unit. Pressing the opener again can twist sections, tear hinges, or bring the entire door down in a way that turns a contained repair into a replacement project.
+A corner sitting low means the door is no longer traveling as one supported unit. A cable has left its drum, a roller has jumped the rail, or something has bent the track. Every further press of the button spreads that damage further. Stop operating it, keep people and vehicles out from under the opening, and leave a slack cable hanging exactly where it is.
 
-Stop using the opener. If the door is not fully closed, do not stand below it, try to lift one side, or pull on a loose cable. Keep cars clear of the opening. A technician can secure the door, inspect the drums and bottom brackets, bring the sections back into the rails, replace damaged rollers or hinges, and reset the cables to matched tension. The door is then balanced by hand before the opener is reconnected.
-
-On Parker's newer double-door garages, visual consistency can tempt someone to focus only on the panel face. The working parts behind it are more important. A shallow crease may be only cosmetic, while a bent horizontal strut or a track that is slightly out of plumb can make every roller wear faster. Conversely, a heavily creased section can lose stiffness and may need replacement even if the rails look straight. An on-site look decides which case you have.
-
-If the panel or whole door must be replaced, the decision includes more than size. Town permit rules apply to door replacements, and a neighborhood association can have its own exterior review process. For a patterned subdivision, choosing a similar profile, color, and window layout before ordering avoids ending up with a correct mechanical repair but an exterior change that needs separate approval.
 
 ## symptom_4_title
 
@@ -70,13 +55,8 @@ The opener hums or runs, but the door stays in place
 
 ## symptom_4
 
-An opener that makes noise while the door remains still is not automatically a dead opener. Only with the door resting securely on the floor, look along the rail as the wall control is pressed. A moving drive rail with no door travel can mean the latch that couples the door arm to the opener carriage has been released. The red pull cord can leave those two pieces disconnected if it was pulled or caught on stored equipment. With a level, closed door, the coupling can often be reset according to its manual. Do not try that on a raised, crooked, or unexpectedly heavy door.
+Noise without movement usually means the two halves have come apart. With the door flat on the slab, watch the rail while somebody presses the wall control. A rail that travels alone says the carriage released, often from a yanked emergency cord. A motor that only hums while the rail sits still points instead at a drive gear or a capacitor.
 
-If the motor hums and the rail does not move, a worn internal drive gear, capacitor, or other opener component may be at fault. A grinding sound with no chain or belt movement points to a different repair from an opener that has no lights, no response, or a tripped outlet. The diagnosis begins with power at the outlet, the wall control, the safety sensors, the rail, and the door balance. Replacing an opener before checking the door itself can simply install a new motor onto a door that is still dragging or over-weighted.
-
-In a fast-growing town, it is common to see several homes with similar original opener models installed within a short construction window. That can make a part repair practical when the unit is otherwise sound, but it does not make every failure identical. The technician identifies the failed part and explains whether it is available, whether the motor housing is intact, and whether the door is safe for the repaired unit to operate.
-
-Replacement becomes the sensible choice when required safety features are absent, the needed part is discontinued, the housing is damaged, or repeated faults make further repair poor value. A new opener is installed only after the door itself has been checked and balanced, then its travel and reversal protection are tested at the finished job.
 
 ## qa_1_question
 
@@ -106,6 +86,10 @@ Often, but it depends on the governing documents for your address. The Town's HO
 
 Schedule the on-site repair, get the scope and total before the tools come out, and have the door tested before the technician leaves. For a snapped spring, loose cable, or off-track door, turn off the opener and keep clear of the opening until the door is secured.
 
+## services_summary
+
+Four separate jobs share one search phrase in Parker, and sending the wrong one up a driveway is how a single failure becomes two appointments. Spring repair restores the counterbalance that makes a double door liftable by hand. Opener work covers drive gears, boards, capacitors, travel settings and the entrapment sensors federal rules require. Off-track and cable repair covers drums that unspooled, rollers out of the rail, and vertical track knocked out of plumb by a windstorm. Door and panel replacement is the only one of the four that reaches the Town's permit counter, because Parker requires a permit for every door replacement.
+
 ## about_summary
 
 This page is written for garage doors in Parker and Douglas County, where a large share of homes were built in relatively recent waves rather than over a century of scattered construction. That changes the service conversation. The issue is often not an antique one-piece door; it is an original spring, roller set, or opener installed across a newer subdivision and now wearing out after years of daily use. It also means exterior choices can be controlled by the Town's permit process and an association's design rules. The point is to send a technician who can inspect the actual door, make it safe, and repair what failed instead of guessing from a photo.
@@ -124,7 +108,7 @@ A repair total before the work
 
 ## value_2
 
-The technician inspects the door at the house, explains the fault, and gives the number before repair begins.
+The technician inspects the door at the house and explains the fault. You get the number for the repair before the work begins.
 
 ## value_3_title
 
@@ -238,6 +222,146 @@ Replacement rules and exterior matching
 
 Parker requires permits for door replacements, and some associations request plans for exterior improvements. A full replacement can therefore involve mechanical measurements plus style and approval timing.
 
+## svc_garage_door_spring_repair_lede
+
+The counterbalance above the opening does the lifting, and when it parts a double door becomes several hundred pounds of dead steel. This is the most common failure in a Parker garage and the one most likely to hurt somebody attempting it alone.
+
+## svc_garage_door_spring_repair_body
+
+### How you know the counterbalance is what let go
+
+A broken torsion spring announces itself, often at two in the morning with nobody near the garage, because a fatigue crack finishes on its own schedule rather than during use. What follows barely varies. The operator strains, raises the door two inches, and quits, or the door will not budge under a hand that expects it to feel almost weightless. Look along the steel shaft above the opening from the floor rather than from a ladder. A failed coil shows a clean gap where the wire parted, with both halves relaxed and sitting slightly apart on the shaft.
+
+### What a Parker builder hung above your opening
+
+The Town spans 22.4 square miles and counted roughly 72,147 residents inside its boundaries at the start of 2026, and the median house here was finished in 2003. Housing that arrives in phases wears out in phases. On most streets in Canterberry Crossing, Clarke Farms, Cottonwood and Stonegate the working assumption is a sectional steel door on a single torsion set chosen to a builder's cost target, with the identical package repeating down the block. Anthology's newer sections and the larger custom openings out toward The Pinery pull in opposite directions, which is why wire sizes get discussed before a truck is loaded.
+
+### Winding bars, and nothing else that happens to be in the garage
+
+The surviving half of a broken spring is still partly loaded, and a two-spring shaft with one break holds a serious amount of stored energy. Winding bars sized to the cone are the only correct tool for releasing it. Screwdrivers, rebar and hex keys slip out under load and travel across the garage at speed. If a spring has gone, cut power to the operator, leave the door resting on the slab, and keep the bay clear until somebody with the right bars arrives.
+
+### The weight question that follows a replacement door
+
+Springs are sized to the door hanging there now, not to the one the builder installed. Insulated sections, a row of windows, extra horizontal struts and heavier gauge steel all raise the load the counterbalance carries. The industry body that publishes standards for this hardware warns that reinforcement a manufacturer never specified adds weight and can cause tracks or other components to fail. It also warns that fitting a spring without confirming the door's counterbalance requirement shortens the service life of the door assembly and of the motor. Paint and anything bolted to a section count as well, and weighing the door with the counterbalance released settles the argument in a minute.
+
+### Cycle counts, not calendar years, at 5,900 feet
+
+In the published sectional door standard, a cycle is counted only once the door has gone up from shut, reached the top, and come back down again. That is the unit spring life is measured in. Usage therefore does the deciding. A garage that serves as the household's real front entrance works through a rating years ahead of one that opens on weekends. Parker's own adopted design table summarizes the environment those coils live in: a winter design temperature of 3 degrees, a summer figure of 90, a daily range classed high, and an altitude of 5,900 feet. Federal guidance on ultraviolet exposure puts the increase at roughly two percent for every thousand feet of elevation, so seals, bushings and plastic parts around the shaft age faster than a sea-level manual assumes. Lubricant that has dried out of the bearing plates makes the spring work harder on every one of those cycles.
+
+### What the visit looks like on site
+
+Measurements come first. Wire diameter, inside diameter, overall length and wind direction get read from the failed spring or its stamped cone, then checked against the door's actual height and weight. Both springs come off a two-spring shaft, because the survivor has logged the same cycles in the same air and is no bargain to keep. Cables get inspected with the tension released, since a spring rarely lets go without scoring one on the way down. Drums are reseated, new springs are wound to the turn count for the door height, and the balance check happens before the operator is reconnected. Released from the opener, the door should hold still near waist height rather than drifting down or climbing.
+
+### Where the money goes on a spring job
+
+This is a parts-and-labor repair with a reasonably predictable range along the Front Range, and the figure gets settled before anything is wound. What moves it is spring count, wire size, whether cables, bearings or drums are renewed at the same time, and whether the appointment is a weekday morning or a Sunday night. A higher cycle rating is the upgrade that repays itself on the door a family uses daily. Researched Parker ranges sit on the pricing page beside the Town's published fees, so the shape of a fair number is visible before anyone knocks.
+
+## svc_garage_door_opener_repair_lede
+
+Two entirely different faults get reported as opener trouble. One door retreats to the ceiling partway down; another head runs cheerfully while the door never moves. Neither usually means buying a motor.
+
+## svc_garage_door_opener_repair_body
+
+### The door that refuses to finish closing
+
+That behavior is entrapment protection working, and the federal rule is specific about how it must behave. Residential operators built for sale in this country since the start of 1993 have to begin reversing within two seconds of contact with an obstruction and then carry the door back to the full open position. The same rule requires the head to check for its secondary sensing device at least once during every close cycle. Lose a photo eye to a cut wire, a short, or an interrupted wireless signal, and a closing door must open, while an open door may not travel more than a foot below the top. So a door that comes down a hand's width and climbs back is frequently a sensor circuit reporting itself.
+
+### What to look at before anyone is dispatched
+
+Begin at the two eyes near the slab. Wipe both lenses, watch for a steady indicator lamp, and move the snow shovel, recycling bin or bag of ice melt leaning against a bracket. The federal test procedure places its obstruction at three points across the opening, a foot in from each end and at the midpoint, which is a sensible sweep for a homeowner as well. If the beam is clean and lit and the door still refuses, the resistance is in the door itself. Raising the close-force setting hides that resistance and blunts the protection that just did its job.
+
+### Heads that lose track of where the door is
+
+Some operators watch door position and some only watch the clock. A design that monitors position has to do it in increments no greater than an inch and reverse when travel departs from its learned profile. A design that does not monitor position has to reverse if the lower limit device is never reached within thirty seconds of starting down. That distinction explains two very different complaints on the same street. One door stops at a random height every third attempt; another closes fully and then reverses in the last inch. Neither is cured by a new remote.
+
+### Altitude, temperature swing and the electronics on the ceiling
+
+Parker's adopted design figures put the outdoor winter design temperature at 3 degrees and the summer figure at 90, with the daily range classed high. A logic board screwed to an uninsulated garage ceiling passes through that spread twice a day, year after year. The federal endurance procedure for these products conditions them for fourteen days at 140 degrees and impact-tests outdoor devices after three hours near 31 degrees below zero, which indicates what the hardware is expected to survive. In practice the symptoms turn strange rather than obvious. A head answers every button at breakfast and ignores the remote by late afternoon, limits forget themselves, a unit reboots in mid-travel. Boards, receivers and capacitors are separate parts on most residential units, so heat and cold damage is usually a component swap.
+
+### Wind, outages and the release cord
+
+Downslope windstorms take the grid down along the Front Range. During a December 2025 event the weather service logged a 102 mph gust at Rocky Flats, Highway 93 closed, and schools canceled for planned power outages. What happens next in a garage is predictable. Somebody pulls the emergency cord to get a car out, the trolley never re-engages, and the motor then runs an entire cycle in an empty rail. Reconnecting it takes seconds. On a raised door, or a door whose spring has already broken, that cord hands the full weight to gravity, so it belongs to a door resting on the slab. The trade guidance is also explicit that doors should not be operated while a high wind event is underway.
+
+### When a new head is the honest answer
+
+Replacement earns its place when a unit predates external entrapment protection, when the board or gear is no longer manufactured, when the housing is cracked, or when a second failure would cost more than the difference. It is not a way around balancing a door. A motor coupled to an unbalanced door inherits the same problem and wears out early. Battery backup is worth discussing in a town where wind events pull the power down, though that is an upgrade being offered rather than a repair anybody needs.
+
+### What the work runs in this market
+
+A gear kit, a capacitor or a sensor pair is a modest parts-and-labor repair. A full head swap is a larger number, and drive type moves it further: chain, belt and wall-mount jackshaft units all price differently, with the jackshaft earning its premium where headroom is short. Diagnosis comes before the figure and the figure comes before the tools, because the same complaint can be a five-dollar alignment or a new motor. Researched Parker ranges for each of those paths are laid out on the pricing page.
+
+## svc_off_track_garage_door_repair_lede
+
+A door hanging crooked, a cable off its drum or a roller out of the rail is no longer a supported assembly. One more press of the button is what turns a contained repair into a replacement project.
+
+## svc_off_track_garage_door_repair_body
+
+### Reading a door that has come out of line
+
+One corner sits lower than the other, a gap opens along the top section, or the door binds at the same point on every pass. Look for a cable hanging in a loose loop at one drum, a roller stem clear of the track, and the place where vertical rail curves into the horizontal run. That curve is where most rollers leave, because the load changes direction there. Do not lift one side by hand, pull on slack cable, or leave a vehicle parked under a door in that condition.
+
+### The three ordinary causes, and the order they arrive in
+
+A spring lets go, the door drops unevenly, and one cable unspools its drum into a loose coil. A roller stem wears or a nylon wheel cracks until it slides instead of rolling, then climbs out at the curve. Or a bumper nudges the vertical track at the jamb by a quarter inch, which is enough to pop a roller at the same spot on every pass until somebody finds the bend. The sequence also runs backward, since bent rail can cut a cable and a failed cable can bend rail.
+
+### The Parker version of this failure is wind
+
+Here is where a Front Range garage differs from one in a sheltered inland market. Warm dry Chinook winds pour down the eastern slopes and, in the weather service's own wording, can exceed 100 mph in extreme cases. A cold high crossing the Rockies produces a Bora off the same slopes that can do likewise. Measurements near this town support the warning. On May 6, 2024 the weather service logged gusts of 79 and 78 mph near Greenland in Douglas County, along with a 65 knot gust at Centennial Airport that overturned one parked aircraft and damaged eleven more. A thunderstorm gust of 66 knots was measured at Highlands Ranch on June 22, 2023, and an automated station near Greenland reached 69 mph in October 2022.
+
+### Why the largest opening in the house tries to lift itself
+
+Federal mitigation guidance is blunt about the geometry. A garage door is one of the largest openings in a building, and its size leaves it vulnerable to being blown in, pulled out, or twisted off its tracks. The trade data sheet on securing doors during wind events explains the mechanism precisely. Vertical track is deliberately tilted back so the sections do not rub in normal use, and the top rollers rest in the curved portion of the track when the door is shut. Wind pressure pushes the sections against that tilted track, and the geometry converts part of the push into an upward force. The harder it blows, the harder the door works to open itself. After Hurricane Andrew, investigators found doors along the storm path that the wind had opened with no help from anyone inside.
+
+### Hail, and the inspection sequence that actually matters
+
+Douglas County collects big hail. Storm records list stones of one and three-quarter inches at Parker on August 7, 2018, two inches on July 4, 2019, and one and three-quarter inches again on June 9, 2024, with two and a half inch reports at Castle Rock in June 2019. The published post-event checklist for this hardware sets an order of inspection, and the panel face is not the top of it. Door alignment comes first, then the opening frame and how the jambs and header are attached to the structure, then the track for loose fasteners, twisting, or rails that have opened up, then rollers, brackets and hinges. Where stress or fatigue has compromised the system's ability to survive another event, that written assessment is what an insurer needs to see.
+
+### What the repair involves
+
+The door gets clamped and blocked so it cannot travel before anything is loosened. Load comes off in the correct order, sections return to the rails one at a time, and damaged rollers, hinges and brackets are replaced rather than persuaded back into shape. Both cables are respooled to matched tension so the drums start and finish together, and vertical track is checked for plumb and spacing against the jamb. The counterbalance gets examined as a cause rather than a coincidence. Then the door is run by hand, and only afterward is the operator reconnected and its travel reset.
+
+### What it costs to put a door back in its tracks
+
+The failed part sets the floor and the collateral damage sets the ceiling. A single roller and a short length of rail is a small job with a narrow range. A cable that unspooled and racked the whole assembly brings in hinges, brackets, sometimes a section, and the counterbalance work that started it. Storm visits carry one extra element, which is the written assessment a homeowner may need for a claim. Ranges for each of those cases are broken out on the pricing page.
+
+## svc_garage_door_replacement_lede
+
+This is the only one of the four jobs that begins at the Town's permit counter. In Parker it is also the job where wind rating, association design rules and a heavier door all show up in the same conversation.
+
+## svc_garage_door_replacement_body
+
+### When a section is the repair and when the door is the repair
+
+A shallow dent in a steel skin changes nothing mechanical and can wait for an adjuster. A section that has lost its stiffness is a different matter, as is a wood door with rot along the bottom rail. Availability decides many of these calls, because matching one section on a discontinued profile can cost more than that money contributes toward a whole door.
+
+### The permit is the Town's, not the County's
+
+Two jurisdictions publish design criteria here, which is where confusion starts. Douglas County's building codes are adopted and enforced in the unincorporated county. Inside town limits the Town of Parker's Building Division holds the file, applications go through the Town's online eTRAKiT system, and the Town lists all window and door replacements among work that requires a permit. Town Council adopted the 2024 edition of the international codes, in effect as of June 30, 2026. An address a mile outside the boundary is a county permit instead, so settle which applies first.
+
+### Registration, and why the crew's paperwork becomes your problem
+
+Parker issues permits only to a registered contractor or that contractor's authorized representative. Registration classes appear in the municipal code, and Class D covers garages, alterations, remodels and decks, where a door replacement lands. Registrations expire a year from issue, and no permit may be pulled or work continued until one is renewed. A property owner may act as owner-builder on their own residence, though only for one dwelling in any twelve-month period. A crew without current registration cannot file the job, whatever its estimate says.
+
+### What the wind figures mean for the door you order
+
+The Town's residential design table lists a 115 mph wind speed, a 30 psf ground snow load and an altitude of 5,900 feet. Exposure is where it gets interesting. That table names exposure category B with a footnote returning the question to a site-specific determination, while the Town's building code amendment states that exposure C shall be used for the design of all structures in Parker. Trade guidance on exposure categories notes that the category alone can change the design pressure on a vehicular door by thirty percent or more. Exposure also shifts as a subdivision fills in, since the code bases it on conditions once adjacent houses are built.
+
+### The label to insist on, and the reinforcement to refuse
+
+The residential code requires a garage door to be tested against a recognized static pressure standard and to carry a permanent label. That label identifies the maker, the model or series, the positive and negative design wind pressure ratings, the installation drawing reference and the test standard applied. Not every door sold is wind-load rated, and an unrated door carries no label. The rating is also expressed in pounds per square foot rather than in miles per hour, so a wind speed quoted at the door answers the wrong question. Reinforcement the manufacturer never specified adds weight and can cause tracks or components to fail, and a vertical post pushes load into the header and the slab, so a design professional should look at the structure first. The building official is the final authority on what an opening needs.
+
+### Why this opening is the one the wind finds
+
+Mitigation guidance describes a garage door as one of the largest openings in a building and generally the largest single product in a house. Losing it has consequences well past the door: an assessment team report cited garage door damage as a key contributor to pressurization inside a building that ended with the roof assembly blowing off. Bracing recommended for a storm works by shortening the unbraced span, anchored into the garage slab and the ceiling framing above. The jamb connection matters as much as the leaf, since anchoring it follows an engineered fastener schedule.
+
+### What an association can and cannot require in Colorado
+
+Parker is association-heavy newer construction, and the Town's own homeowner resources note that an association may ask for a plan showing the proposed improvement. State law draws the boundaries. Under the common interest ownership act, a decision approving or denying an owner's application for an architectural change must follow the standards and procedures in the declaration or duly adopted rules, and may not be made arbitrarily or capriciously. The declaration sits atop the governing document hierarchy, above bylaws, policies and design guidelines. The statute lists what an association may not prohibit, including flags, xeriscape, rain barrels, renewable energy devices and vehicle charging. Garage door appearance is absent from that list, so panel style, color and window layout stay inside the association's design authority, while the process used to decide has to be the published one.
+
+### What a replacement costs, and what a national average leaves out
+
+Insulation level, section style, window inserts, hardware grade and door width move the total most, and haul-away belongs on the estimate as its own line. A wind-rated door with additional struts weighs more than the one coming down, so springs and drums join the same job rather than surprising anyone a month later. Where framing changes, the Town's permit, plan review and use tax figures go on top, itemized on the pricing page. Lead time is what an online average never carries, since a specific color and window pattern is ordered, not stocked.
+
 ## urgency_bullet
 
 Broken springs, loose cables, and off-track doors prioritized
@@ -278,6 +402,14 @@ The few details that help on-site repair go smoothly
 
 Do not operate a door with a broken spring, slack cable, or roller outside the track. Disconnect the opener if the door is safely closed and keep people clear until it is secured.
 
+## services_pick_head
+
+Start with the failure that matches your door
+
+## crosslink_head
+
+Other work on this door
+
 ## pricing_lede
 
 What follows is the going cost of garage door work in Parker, alongside the Town's published permit, plan review and use tax figures and the Denver metro wage data that sits underneath every labor hour on the invoice.
@@ -286,11 +418,11 @@ What follows is the going cost of garage door work in Parker, alongside the Town
 
 ### Front Range labor is the headline number
 
-Start with the wage, because it explains most of the gap between what a Parker homeowner pays and what a national cost article promises. Federal survey data puts the midpoint for a Denver metro carpenter at $31.21 an hour, well ahead of most inland markets. Add a truck, fuel across a town that stretches from The Pinery to Stonegate, liability coverage, and a parts inventory deep enough to finish the job on the first trip, and the hourly rate a customer sees is a multiple of that wage. None of that is markup for its own sake. It is why a company that answers on a Sunday evening exists at all, and it is why the ceiling of each row above is usually a scheduling decision rather than a parts decision.
+Start with the wage, because it explains most of the gap between what a Parker homeowner pays and what a national cost article promises. Federal survey data puts the midpoint for a Denver metro carpenter at $31.21 an hour, well ahead of most inland markets. Add a truck, fuel across a town that stretches from The Pinery to Stonegate, liability coverage, and a parts inventory deep enough to finish on the first trip, and the hourly rate a customer sees is a multiple of that wage. None of that is markup for its own sake. It is why anyone answers on a Sunday evening, and why the ceiling of each row above is usually a scheduling decision rather than a parts decision.
 
 ### An entire town's hardware is aging on the same clock
 
-Parker's median home was completed in 2003, and the population climbed nearly twelve percent between 2020 and 2024, so the housing here arrived in waves. Doors installed in the same wave carry the same builder specification: one torsion spring set rated for about ten thousand cycles, stamped rollers, and an entry-level chain opener. A household that opens the door four times a day burns through ten thousand cycles in under seven years, which is why so many original systems in this town are now failing within a season or two of each other. Practically, that means a spring call in a Canterberry Crossing or Clarke Farms garage is rarely a spring call alone. The bearings, the cables, the rollers and the opener gear are all the same age, and the honest repair is a short list.
+Parker's median home was completed in 2003, and the population climbed nearly twelve percent between 2020 and 2024, so the housing here arrived in waves. Doors installed in the same wave carry the same builder specification: one torsion spring set, stamped rollers, and an entry-level chain opener. Systems bought together tend to give out together, which is why so many original doors in this town are failing within a season or two of each other. A spring call in a Canterberry Crossing or Clarke Farms garage is therefore rarely a spring call alone. The bearings, the cables, the rollers and the opener gear are all the same age, and the honest repair is a short list rather than one part.
 
 ### What the Town charges, and what it will not let happen
 
@@ -298,12 +430,51 @@ Parker states plainly that permits are required for all window and door replacem
 
 ### Where the range moves once someone is on site
 
-Two variables do most of the work. One is weight. A single-layer builder door and an insulated replacement of the same width need different spring wire, and hanging the second on hardware sized for the first is the most common cause of a repeat failure. The other is altitude and sun. Parker sits above six thousand feet with intense ultraviolet exposure and dramatic daily temperature swings, which hardens rubber bottom seals, dries out factory lubricant, and cooks the plastic gear in an opener sooner than a milder climate would. A door that has been running dry and out of balance for two years has already worn parts that a technician then has to include, and that is the difference between the low and high column.
+Two variables do most of the work. One is weight. A single-layer builder door and an insulated replacement of the same width need different spring wire, and hanging the second on hardware sized for the first is the most common cause of a repeat failure. The other is altitude and sun. The Town sits at 5,900 feet, and its own design table pairs a winter figure of 3 degrees with a summer figure of 90 and a daily range classed high. That spread hardens bottom seals, dries factory lubricant and ages an opener's plastic gear early. A door running dry and out of balance for two years has already worn parts a technician has to include, which is the gap between the low and high column.
 
 ### Reading the estimate like somebody who has done the work
 
-The spring specification should be written down: wire diameter, inside diameter, overall length, and rated cycles. Anything described only as heavy duty is a description of nothing. Roller count and bearing type should appear, along with cable diameter. For an opener, insist on the model number, the drive type, whether battery backup is included, whether the old head and rail leave with the crew, and whether a reinforcement strut is needed before a motor starts pulling on a thin section. For a replacement door, the permit, plan review, use tax and disposal each deserve their own line. A single number with no breakdown is not a bargain; it is a place for extras to appear later.
+The spring specification should be written down: wire diameter, inside diameter, overall length, and rated cycles. Roller count and bearing type should appear, along with cable diameter, since "heavy duty" describes nothing. For an opener, insist on the model number, the drive type, whether battery backup is included, and whether the old head and rail leave with the crew. For a replacement door, the permit, plan review, use tax and disposal each deserve their own line, along with the door's labeled wind pressure rating. A single number with no breakdown is not a bargain; it is a place for extras to appear later.
 
 ### The pattern worth refusing
 
-The upsell in this trade is the jump from a broken part to a whole door. A snapped spring gets diagnosed in the driveway as a system at the end of its life, and a four-figure replacement proposal follows before anybody has weighed the door or checked whether the track is plumb. Sometimes replacement genuinely is the right call, on a rotted wood door or one that has been hit hard. But a straight steel door with sound sections and a bent rail is a repair, and the way to tell the difference is to ask what specifically cannot be corrected. The second pattern is the advertised inspection priced below anybody's cost of showing up, which is a lead-generation number rather than a service. Nothing on this page is a quote from anyone; these are researched market ranges, and the real figure comes from whoever puts hands on the door.
+The upsell in this trade is the jump from a broken part to a whole door. A snapped spring gets diagnosed in the driveway as a system at the end of its life, and a four-figure proposal follows before anybody has weighed the door or put a level on the track. Sometimes replacement genuinely is the right call, on a rotted wood door or one that has been hit hard. But a straight steel door with sound sections and a bent rail is a repair, and the test is asking what specifically cannot be corrected. The second pattern is the advertised inspection priced below anybody's cost of showing up. Nothing here is a quote from anyone; these are researched market ranges, and the real figure comes from whoever puts hands on the door.
+
+## SOURCES
+
+Each local figure above came from one of the following pages, read directly.
+
+- Town elevation of 5,900 feet, 22.4 square miles and about 72,147 residents inside town limits as of January 1, 2026: https://www.parkerco.gov/159/About-Parker
+- Adoption of the 2024 edition of the international codes, in effect June 30, 2026, and the 2023 electrical code through December 31, 2026: https://www.parkerco.gov/445/Building-Codes
+- Residential design criteria table with the 115 mph wind speed, 30 psf ground snow load, exposure category B with a site-specific footnote, altitude 5,900, winter design temperature 3 degrees, summer 90 and daily range H: https://www.parkerco.gov/DocumentCenter/View/22597
+- Town building code amendment requiring exposure C for the design of all structures in Parker, and the 30 psf snow load with drifting: https://www.parkerco.gov/DocumentCenter/View/22590
+- Permits required for all window and door replacements: https://www.parkerco.gov/451/When-Permits-are-Required
+- Applications submitted through the Town's eTRAKiT system and contractor licensing in the Town of Parker: https://www.parkerco.gov/457/Obtaining-Permits
+- Permits issued only to a registered contractor or an authorized representative, the Class D scope covering garages and alterations, one-year registrations and the owner-builder limit of one dwelling per twelve months, Parker Municipal Code Chapter 11.19: https://library.municode.com/co/parker/codes/municipal_code?nodeId=TIT11BUCO_CH11.19CORE
+- An association may require a plan showing proposed improvements: https://www.parkerco.gov/2361/HOA-Resources
+- Douglas County building codes adopted and enforced in unincorporated Douglas County: https://www.douglas.co.us/building-division/
+- County design information, 115 mph ultimate wind speed and exposure C below 7,000 feet: https://www.douglas.co.us/building-division/design-information/
+- Chinook and Bora downslope winds exceeding 100 mph in extreme cases along the eastern slopes: https://www.weather.gov/bou/highwind
+- Gusts of 79 and 78 mph near Greenland in Douglas County and the 65 knot gust at Centennial Airport on May 6, 2024: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1166101
+- The 66 knot thunderstorm gust measured at Highlands Ranch on June 22, 2023: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1108974
+- The 69 mph peak gust at an automated station near Greenland in October 2022: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1061286
+- The 102 mph gust at Rocky Flats, the closure of Highway 93 and schools canceled for planned power outages in December 2025: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1300862
+- Hail of 1.75 inches at Parker on August 7, 2018: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=770278
+- Hail of 2.00 inches at Parker on July 4, 2019: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=824724
+- Hail of 1.75 inches at Parker on June 9, 2024: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1175874
+- Hail of 2.50 inches at Castle Rock on June 8, 2019: https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=818497
+- Ultraviolet radiation increasing about two percent per 1,000 feet of elevation: https://www.epa.gov/sites/default/files/documents/uviguide.pdf
+- Garage doors as one of the largest openings in a building, vulnerability to being blown in, pulled out or twisted off the tracks, and bracing that reduces the unbraced length of the door, FEMA P-2181 Fact Sheet 3.2: https://www.fema.gov/sites/default/files/documents/fema_p-2181-fact-sheet-3-2-wall-openings.pdf
+- Garage doors as the largest product in a single-family home, and the mitigation assessment team finding on cascading pressurization and roof blow-off: https://www.iccsafe.org/building-safety-journal/bsj-technical/garage-door-provisions-in-the-international-residential-code/
+- Both positive and negative pressure ratings, the warning against reinforcement not specified by the manufacturer, and the advice against parking a vehicle against a door or operating one during a high wind event, DASMA Technical Data Sheet 152: https://www.dasma.com/wp-content/uploads/2024/01/TDS152.pdf
+- Vertical posts transmitting wind load into the header and floor, and the need for a qualified design professional, DASMA Technical Data Sheet 153: https://www.dasma.com/wp-content/uploads/2022/05/TDS153.pdf
+- Tilted vertical track, top rollers in the curved section, the resulting upward force, and the post-Hurricane Andrew finding that doors were opened by the wind, DASMA Technical Data Sheet 192: https://www.dasma.com/wp-content/uploads/2021/12/TDS192.pdf
+- Exposure category alone changing design pressure by 30 percent or more, and exposure based on site conditions once adjacent structures are built, DASMA Technical Data Sheet 193: https://www.dasma.com/wp-content/uploads/2022/03/TDS193.pdf
+- Jamb anchorage schedules, minimum fastener spacing in concrete and masonry, and the requirement for a registered professional engineer on supporting structural elements, DASMA Technical Data Sheet 161: https://www.dasma.com/wp-content/uploads/2024/05/TDS-161.pdf
+- The wind load label contents, testing to ASTM E330 or ANSI/DASMA 108, ratings stated in pounds per square foot rather than miles per hour, unrated doors carrying no label, and the building official as final authority, DASMA Technical Data Sheet 1502: https://www.dasma.com/wp-content/uploads/2025/01/TDS-1502.pdf
+- Reinforcement weight, counterbalance matching, and the effect on service life of the door assembly and of the motor, in the trade sheet numbered 190 on spring cycle life: https://www.dasma.com/wp-content/uploads/pubs/TechDataSheets/CommercialResidential/TDS190.pdf
+- The post-event inspection order covering door alignment, opening frame, track, rollers and hinges, and forwarding a fatigue assessment to an insurer, DASMA Technical Data Sheets 174 and 175: https://www.dasma.com/wp-content/uploads/2022/09/TDS174.pdf
+- Definition of one door cycle, ANSI/DASMA 102: https://www.dasma.com/wp-content/uploads/2021/01/ANSIDASMA102.pdf
+- Reversal within two seconds, the one foot limit near the top, monitoring the secondary device once per close cycle, position monitoring in one inch increments, the thirty second lower limit rule, the three obstruction positions across the opening, and the endurance conditioning at 140 degrees and cold impact near 31 degrees below zero, 16 CFR Part 1211: https://www.govinfo.gov/content/pkg/CFR-2025-title16-vol2/pdf/CFR-2025-title16-vol2-part1211.pdf
+- Architectural approval decisions that may not be arbitrary or capricious under C.R.S. 38-33.3-302(3)(b), and the governing document hierarchy placing the declaration highest: https://dre.colorado.gov/hoa-frequently-asked-questions
+- The statutory list of things an association may not prohibit, which does not include garage door appearance: https://content.leg.colorado.gov/sites/default/files/homeowners-rights-in-ccioa.pdf

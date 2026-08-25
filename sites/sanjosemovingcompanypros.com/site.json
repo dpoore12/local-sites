@@ -1,9 +1,10 @@
 {
   "domain": "sanjosemovingcompanypros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "San Jose Moving Services Pros",
   "service": "Moving Services",
   "service_inline": "moving services",
+  "vertical": "home",
   "city": "San Jose",
   "state": "CA",
   "state_full": "California",

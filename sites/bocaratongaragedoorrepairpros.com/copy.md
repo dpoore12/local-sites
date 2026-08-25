@@ -21,45 +21,25 @@ Start with the door’s position: down, up, or stopped partway. Then describe th
 A bang, a door that suddenly feels far too heavy, or rust around the spring
 
 ## symptom_1
-A torsion spring counterbalances the door; it does not lift the door by itself. When it breaks, the opener is suddenly trying to move the full weight of every panel, and the first clue is often a hard crack from the garage followed by a door that rises only a few inches or will not rise at all. From a safe distance, look above the opening. A torsion spring with a clean gap in its coil is a strong sign of failure. Do not pull the emergency release when the door is open, and do not put a screwdriver into the winding cone. Leave the door where it is, unplug the opener, and keep people and cars clear of the opening.
-
-In Boca Raton, brown dust on the coils, cable ends, hinge barrels, or track fasteners deserves more attention than a squeak. Salt-laden moisture and humidity can leave a spring pitted rather than simply worn from normal cycles. That does not mean every rusty-looking coil needs replacement, and it does not make a failed spring safe to inspect closely. It means the technician should look at the paired spring, bearing plates, cables, drums and fasteners together instead of replacing only the part that finally snapped.
-
-The repair begins by securing the door, measuring the old spring’s wire size, inside diameter and length, then matching the new counterbalance to the actual door weight. A balanced door should stay near the halfway position when disconnected from the opener. If it drops or shoots upward, the work is not finished. On a two-spring system, the unbroken mate is assessed at the same visit because it has carried the same door through the same coastal exposure. The quote should state whether the scope is one spring, a matched pair, cables or bearings as well — before tension is put back on the system.
+A sharp crack from the garage, then a door that lifts a few inches and quits, means the counterbalance let go. From a safe distance look at the shaft above the header for a coil split by a finger-width gap. Rust streaking down the coils is the other local tell. Unplug the operator, leave the door where it sits, and keep the driveway clear.
 
 ## symptom_2_title
 The door reaches the floor, then reverses, or refuses to close in bright light
 
 ## symptom_2
-A door that begins closing and then travels back up is usually reacting to its safety system, not deciding on its own that it needs a new opener. The photo eyes sit low on both sides of the opening. They need a clean, uninterrupted line between them before the door can close. A trash bin, a child’s toy, sand at the threshold, a bent bracket, a loose low-voltage wire, or a lens filmed with grime can interrupt that beam. Direct afternoon light can also make a marginal sensor arrangement act up. Check the indicator lights without moving the brackets aggressively. If either light is off or flickering, clear the path and let the technician square and test the pair.
-
-If both sensors are clean and aligned, the door itself may be creating the resistance. A roller that is dragging in a corroded hinge, a dry bearing plate, a twisted horizontal track, or a bottom seal catching the slab can make the opener interpret normal closing force as an obstruction. Increasing the force setting is not a repair. It can hide the drag for a while and weakens the reversal protection that is supposed to stop the door.
-
-Boca Raton’s combination of coastal moisture and storm-driven debris makes the visual inspection important. The technician follows the whole closing path: rollers, hinge joints, tracks, cables, the bottom weather seal and the photo-eye brackets. That separates a low-voltage sensor problem from a mechanical problem that happens to trigger the same reversal. The price should distinguish cleaning and adjustment, replacement of a damaged sensor or bracket, and work needed to correct the door’s travel. A door with glass sections or a planned replacement has an additional question: its product approval and installation details must match the particular opening, not just the look of a catalog photo.
+Reversal near the slab is the safety circuit doing its job, not a dying motor. Check the two photo eyes bolted low on each jamb. Salt haze on a lens, sand banked at the threshold, or a bracket nudged out of aim will break the beam. Clear the path, wipe the lenses gently, and leave brackets and force settings for the technician.
 
 ## symptom_3_title
 One side is lower, a roller has left the track, or wind damage bent more than the panel
 
 ## symptom_3
-A crooked door is not a door to test again. When one cable has jumped its drum, one roller has escaped the track, or a track has bent away from the jamb, the door may be hanging from only part of the system. Pressing the wall button can pull the remaining rollers out, bend sections, or drop the assembly into the garage. Unplug the opener. Do not cut a cable, loosen the bottom bracket, clamp a vice grip on the cable, or try to force a roller back into the rail. Keep the driveway and opening clear until the door can be secured and examined.
-
-The visible damage is not always the piece that caused the failure. A vehicle bump can push a vertical track out of plumb. A spring break can leave slack cable on one side and rack the panels. Storm wind can flex a wide door enough to damage a strut, hinge, track connection, or fastener while the outside skin shows only a small dent. Hurricane Wilma caused wind damage in Boca Raton in 2005; that history is a reminder to inspect the moving and attachment parts after a major wind event rather than judging the door from the street.
-
-The first job on site is stabilization. The technician supports the door, checks which rollers, hinges, cables and sections remain sound, and traces the track back to the header and jamb. Bent track is not always a candidate for straightening; a kink at the radius or a damaged mounting point can make replacement safer. Cables are reset only after the spring and drum arrangement are checked. The completed door is run by hand and through the opener so travel, balance and reversal are verified together.
-
-For a replacement section or whole door, Boca Raton work must account for more than color and panel profile. The installed system must suit the opening and its wind conditions, and the approval documents specify the configuration and installation method. That is why a technician should never promise that an off-the-shelf panel, random fasteners, or the old track will be compatible before seeing the damage.
+A door sitting crooked is carrying its weight through whatever is left holding it. Cut power at the operator and stop pressing buttons. Do not pry a roller back into the rail, cut a cable, or loosen the bottom brackets. Note whether a bumper, a storm, or a snapped spring came first, then keep people and vehicles out from under the opening.
 
 ## symptom_4_title
 The opener motor runs, but the door stays still or the chain grinds
 
 ## symptom_4
-Motor noise with a motionless door has several different causes, and replacing the opener first is usually a gamble. Watch from the floor, well clear of the door, while another adult presses the control. If the chain or belt moves but the door does not, the trolley may have disconnected from the carriage. That can happen after the emergency release is pulled, sometimes when a vehicle catches the release cord. If the door is fully closed, reconnecting may be straightforward; if it is open, crooked, or has a broken spring, stop and wait for the technician rather than tugging the release.
-
-A hum with no chain or belt movement points inside the opener. On many chain-drive units, a worn drive gear produces a coarse grinding sound. A brief hum followed by a stop can be a capacitor, motor, control board, or a door that has become too heavy for the opener to move. The important distinction is whether the opener is failing or correctly refusing to force a mechanically bad door. A healthy opener cannot compensate for a broken spring, seized rollers, or a track that is out of line.
-
-Coastal conditions add a reason to examine the entire operator path. Corroded hinge barrels and rollers can make a door draw more force every day; corroded fasteners at the track can change alignment; an opener mounted over a wet, poorly ventilated garage should have its wiring and housing checked without assuming moisture is the diagnosis. The technician disconnects the opener only when it is safe, moves the door by hand to test balance and drag, then checks the trolley, rail, drive gear, travel limits and safety reversal.
-
-The result should be a clear choice: reconnect and adjust, replace a worn internal part, correct the door mechanics, or replace an opener whose parts or safety features no longer make sense. If a new opener is paired with a new door, that is also the time to confirm that the door hardware, wind-load installation and association requirements are resolved before installation day.
+Motor noise with a motionless door usually means the trolley has let go of the carriage, often after somebody pulled the red release cord. A gritty grinding instead of clean motor noise points at a chewed drive gear inside the head. Neither one needs a whole new unit. Watch from the floor while another adult runs the button.
 
 ## qa_1_question
 Why does a Boca Raton replacement door need more paperwork than a simple repair?
@@ -211,6 +191,154 @@ What to notice before the technician arrives
 ## emergency_note
 If a cable is slack, a spring is broken, or a roller is outside the track, do not run the opener or try to lift the door. Keep clear and leave it in place.
 
+## services_summary
+
+Four separate jobs get filed under one heading here, and the difference between them decides whether one visit is enough. Counterbalance springs are the failure that strands a car. Operator work covers safety circuits, drive gears, boards and travel limits. Cable, roller and rail work is what a crooked door needs. Replacement is the only one of the four that pulls in a city permit, a product approval number and, on many streets, an association review. Buy the wrong one and you pay twice: a new motor bolted over a binding door still stops short of the slab.
+
+## services_pick_head
+
+Which of these four is your door doing?
+
+## crosslink_head
+
+Not the failure you have?
+
+## svc_garage_door_spring_repair_lede
+
+A snapped counterbalance is the call that strands a car behind a door nobody can lift. On this coast it has two causes rather than one, because fatigue and salt pitting arrive at the same piece of steel from different directions.
+
+## svc_garage_door_spring_repair_body
+
+### How you know the counterbalance is what failed
+
+The story barely changes from one driveway to the next. Something in the garage bangs like a dropped sheet of plywood, and after that the door will not rise. Press the wall control and the motor strains against a slab of steel that suddenly weighs what it has always weighed. Walk in and look at the shaft above the header. A failed torsion spring shows a clean gap of an inch or two in the coil, both halves sitting relaxed and slightly unwound. Older side-mounted systems fail differently. There the spring droops slack along the horizontal rail, and its safety cable is all that keeps it from whipping loose.
+
+### What shoreline air does to spring steel
+
+Salt adds a second failure path that dry inland markets rarely deal with. DASMA's technical data sheet on spring cycle life is direct about it: springs should be kept dry to prevent surface rust, because rust reduces the effective area of the spring wire and lowers its overall strength. The sheet goes further and warns that rust creates corrosion pits, and that fatigue cracks accelerate out of those pits and cut cycle life. That is the mechanism behind a coil that lets go years ahead of schedule within sight of the Atlantic. Brown staining on coils, drums and bearing plates is a measurement, not a cosmetic complaint.
+
+### Cycle life, and the arithmetic for your own house
+
+ANSI/DASMA 102 sets the floor at a minimum of 10,000 cycles for a door system that is properly selected, installed, operated and maintained. The same standard defines one cycle as travel from closed to fully open and back to closed again. Do that division against your own routine. A garage that serves as the household's real front entrance can run six or eight cycles a day, which consumes 10,000 of them in roughly four years. A door opened twice a day stretches the same rating across more than a decade. When the door is the entrance everyone uses, a higher cycle rating is worth ordering.
+
+### Winding bars, and why no household tool substitutes
+
+Even a broken torsion spring is dangerous, because the surviving half is still partly loaded and the shaft can turn. Winding bars sized to the cone are the only correct tool. Screwdrivers, rebar and long bolts slip out under load and leave the garage at speed. If a coil has parted, pull the operator plug so nobody presses the button from habit, leave the panels resting on the slab, and move cars and people well away from the opening. The stored energy in the second spring is the part homeowners consistently underestimate.
+
+### Why a wind-rated door changes the spring math
+
+Weight is where the building code reaches into the counterbalance. A door approved for an opening designed at the 170 mph velocity the city applies to single-family homes carries heavier gauge steel, additional horizontal struts and reinforced end stiles. Every pound of that has to be balanced by the spring. DASMA 102 also constrains the geometry, ruling out torsion springs on a sectional door with an index ratio under six to one, meaning a mean coil diameter of at least six times the wire diameter. Reusing springs from the lighter door that used to hang in the same opening is the error that follows a replacement around for years.
+
+### What happens during the visit
+
+The technician reads wire size, inside diameter and length off the failed spring, or the stamped cone if the numbers survived, and matches replacements to the weight of the door actually hanging there. Both springs come off a two-spring system, since the survivor has logged identical cycles in identical air. Drums get reset and cables get inspected with the tension off, since a spring that lets go often chews a cable as it unwinds. Balance is the last check. With the operator disconnected, the door should hold still near waist height rather than sinking or climbing. Ask to watch that test happen.
+
+### What the work costs, and what moves it
+
+This is parts-and-labor work with a reasonably predictable range once someone can see the door. Spring count, wire size and door height set the base. What pushes a Boca Raton job up the range is what else came off with the spring: drums seized on the shaft, cable strands necked down where they wrap, or bearings that have gone dry and gritty. Corrosion is the variable that separates a straightforward morning from a shaft-and-drum job. The figure should be in your hand before tension goes back on the system.
+
+## svc_garage_door_opener_repair_lede
+
+An operator that hums, grinds or backs away from the floor is usually reporting a problem rather than having one. Sorting the electronics from the mechanics before anything gets replaced is what keeps this to a single visit.
+
+## svc_garage_door_opener_repair_body
+
+### Telling a safety reversal apart from a dead operator
+
+Start by watching, from the floor and well clear of the opening, while another adult runs the control. Four patterns cover almost everything. The chain or belt moves and the door does not, which means the trolley has let go of the carriage. The head hums with nothing turning, which points inside the housing. The door starts down and climbs back up, which is the safety circuit firing. Or the door moves in fits and grinds, which usually means resistance somewhere along the rail. Each of those leads somewhere different, and only one of them ends in a new operator.
+
+### What the federal rule actually requires
+
+Every residential operator manufactured on or after January 1, 1993 for sale in the United States falls under the Consumer Product Safety Commission standard in 16 CFR part 1211. The rule requires inherent primary entrapment protection, plus one of three secondary arrangements: constant-pressure control, a connection for an external device such as photo eyes, or an inherent secondary device. The performance test is specific. Past the first foot of travel down from the upmost position, the operator has to begin reversing within two seconds of contact with an obstruction, then carry the door back to the full upmost position. The floor test object is one inch high, with the operator exerting a 25 pound pull or its rated pull, whichever is greater.
+
+### Salt film, threshold sand, and the photo eyes
+
+Two beams cross the opening a few inches off the slab, and they are the parts this climate reaches first. A haze of salt on a lens scatters enough light to break the circuit. On the streets closest to the beach, sand and shell grit drift under the door and bank up against the bottom seal and the sensor brackets. Fasteners loosen in humid, unconditioned garages, and a bracket that has drifted a degree or two out of aim stops the pair from seeing each other. Wipe the lenses gently, clear the threshold, and leave the aiming to somebody with a level.
+
+### Turning the force setting up is not a repair
+
+When a door drags, the operator reads that drag as an obstruction and behaves exactly as the standard says it must. Cranking the force limit up hides the symptom for a few weeks. It also spends the protection that federal rule was written to guarantee, since the reversal has to happen against a real obstruction and not just a stiff one. The honest sequence is the opposite: find the resistance, remove it, then reset the limits. Corroded roller bearings, a hinge that has stiffened, a bottom seal packed with grit and a horizontal rail nudged out of line are the usual sources here.
+
+### Inside the housing
+
+A coarse grinding noise with the motor running on a chain-drive unit generally means the nylon drive gear has been chewed. That is a part swap, not a replacement. A short hum that stops can be a capacitor, a motor winding, a logic board, or a door that has simply grown too heavy for the unit. Humidity matters at this stage. Wiring, terminals and the receptacle deserve a look in a garage that stays damp, though moisture is a suspect rather than a diagnosis. The relays inside an entrapment protection circuit are built to survive 100,000 cycles of operation, so they are rarely the first thing to quit.
+
+### The trap that produces a second visit
+
+A door that reverses before it closes is the most frequently over-repaired complaint in Palm Beach County garages. New unit, same behavior, because the fault was a clouded lens, a loose bracket, drifted travel limits or a binding roller. There is a second version of the trap. A new operator hung under a heavier wind-rated replacement door still needs travel and force set for that door, and if the counterbalance was never rematched to the new weight, the motor takes the abuse. Ask what was measured, not just what was installed.
+
+### What happens during the visit, and what it costs
+
+The technician disconnects the operator when it is safe to do so, moves the door by hand to feel for drag, and checks balance before touching the head. Then the trolley, rail, drive gear, travel limits, force settings and safety reversal get tested in order, with the reversal proved against an object on the floor rather than a hand. Costs split into three bands. Sensor and bracket work sits lowest. An internal part such as a gear kit or a board sits in the middle. A complete unit with battery backup, a rail extension or a new receptacle sits highest, and the range should be stated before any of it starts.
+
+## svc_off_track_garage_door_repair_lede
+
+When one corner drops, the door starts carrying weight through parts that were never meant to hold it. Cables, rollers and the rail are the three suspects, and after a storm the rail is the one that is quietly bent.
+
+## svc_off_track_garage_door_repair_body
+
+### What this failure looks like from the driveway
+
+One corner rides lower than the other. A roller sits outside the rail with the section it belongs to leaning into the garage. A cable has jumped its drum and hangs loose while the opposite side stays tight. Sometimes the top section has pulled away from the header and the whole stack is resting on a single bracket. None of these are conditions to test twice. Pressing the button again can drag the remaining rollers out, crease a panel, or bring the assembly down into the parking space.
+
+### Three ways it starts on this stretch of coast
+
+A broken counterbalance is the most common trigger, because slack cable lets one side drop while the other holds, and the door racks in its frame. Vehicle contact is the second, and it usually pushes a vertical rail out of plumb rather than denting anything obvious. Wind is the third, and it is the one homeowners misread. A wide door flexes under pressure, and that flex works on struts, hinges, rail brackets and the fasteners at the jamb. NOAA's record of Hurricane Wilma on October 24, 2005 describes widespread wind damage across this city. Doors that kept operating afterward were not necessarily undamaged.
+
+### Where cables give out within a mile of the ocean
+
+Lift cables fail at the wrap. Where the strands curve around the drum they carry the highest stress and hold moisture the longest, and chloride-laden air finishes the job by pitting individual wires until the bundle loses cross section. A cable that looks sound along its straight run can be half gone at the drum. The same air attacks roller bearings, hinge pins, the shaft the drums ride on, and the fasteners holding the rail to the jamb. Corrosion is why an inspection that stops at the visible damage tends to miss the reason for it.
+
+### What to leave completely alone
+
+Cut power to the operator and stop there. The bottom brackets at each side of the door are attached to the lift cables and hold spring tension, so removing or loosening one is how people get badly hurt. Do not cut a cable to relieve the bind, clamp a vise grip on the cable, pry a roller back into the rail, or hammer a kinked section of rail straight. Keep the driveway clear, keep children away from the opening, and leave the door in whatever position it settled into.
+
+### Stabilize, then trace the rail back to the jamb
+
+The first move on site is supporting the door so nothing shifts while the work happens. From there the technician checks which rollers, hinges, cables and sections are still sound, and follows the rail back to its mounting points at the header and the jamb. That last step is the one a careless crew skips. A bracket that has pulled its anchors, a jamb fastener spinning in a corroded hole, or a rail kinked at the radius will put the same door back on the floor within weeks. Anchoring is not decorative on a wind-loaded opening.
+
+### Why a bent rail is often replaced rather than straightened
+
+Steel that has been folded and pressed back keeps a memory of the fold. On the curved radius section, a repaired kink narrows the channel just enough to catch a roller under load, and it catches worst when the door is heaviest and moving fastest. Replacing that piece of rail costs less than a return trip and a creased panel. Cables go back on only after the spring, shaft and drum arrangement have been verified, because reseating a cable onto a drum that is loose or scored simply reruns the failure.
+
+### What the finished job should prove, and what it costs
+
+Before anyone leaves, the door gets run by hand and then through the operator, so travel, balance and safety reversal are all confirmed together. Ranges here depend on how far the damage traveled. Cable and roller work on an otherwise sound door sits at the low end. Rail replacement, a bent shaft, damaged brackets or a section that has to be reordered move it up. Wind or vehicle damage that reached the struts and attachment points is where the conversation shifts to whether replacement makes better sense, and that comparison belongs in writing.
+
+## svc_garage_door_replacement_lede
+
+Replacing a door in this city is a code exercise before it is a style choice. The opening sits in a wind-borne debris region, and the paperwork that follows the door is as much a part of the installation as the panels themselves.
+
+## svc_garage_door_replacement_body
+
+### When replacement beats another repair
+
+Some doors are worth more in parts and labor than they are worth intact. A section creased through its skin and inner ribs, a stack racked out of square, struts bowed by wind pressure, or a rail and jamb that have both pulled their anchors add up quickly. Availability matters too, because a discontinued panel profile can hold a partial repair hostage for weeks. The other trigger is documentation. If the existing assembly cannot be shown to be approved for this opening, a repair only preserves that problem.
+
+### The code your address actually sits under
+
+Palm Beach County adopted its amendments to the Florida Building Code, 8th Edition (2023), effective December 31, 2023, the same date the statewide code edition took effect. The county's own wind speed material states that all of unincorporated Palm Beach County falls inside the wind-borne debris region. The code draws that region two ways. It covers land within one mile of the coastal mean high water line where the ultimate design wind speed reaches 130 mph. It also covers anywhere the ultimate design wind speed reaches 140 mph. Inside those boundaries, protection of openings is not an upgrade. For a single-family residence, the city's over-the-counter affidavit for windows, doors and shutters applies a wind velocity of 170 mph, treating structures as Exposure C unless Exposure D applies.
+
+### What you can look up about your own door
+
+Two public databases hold the answer, and a homeowner can search both. The state runs a product approval search where you enter an FL number or pick a manufacturer and a code version, then read the design pressure, the impact rating and whether the product is approved inside or outside the high velocity hurricane zone. Miami-Dade County runs a parallel Notice of Acceptance search, keyed to a file number in a format such as 01-0712.04, with filters for category, material, impact rating and maximum design pressure in both directions. Exterior doors, including rollup and sectional types, are the first of the eight product categories the state rule covers.
+
+### Rated is not the same as approved as installed
+
+This is where inspections fail. An approval covers an assembly, not a panel. The maximum door size, the track and hardware, the strut count and the fastener schedule into the jamb all live inside the approval document and the manufacturer's installation instructions. Palm Beach County's amendments require the building official to confirm two things about impact-resistant systems: that the system on the plans is the system installed, and that it went in according to those instructions and the product approval. Scale explains why this is strict. The code's own garage door table puts a sixteen by seven foot door at a 170 mph ultimate design wind speed near 26 pounds per square foot pushing in and 29 pulling out. Those are the values before adjustment, and Exposure C at a fifteen foot mean roof height multiplies them by 1.21. Glazed sections carry their own requirement, since garage door glazing has to meet an approved impact-resisting standard or ANSI/DASMA 115.
+
+### Permits, inspections and the association step
+
+City rules draw the line between hardware service and a new door system. Boca Raton exempts alteration or repair work under $1,000 in any twelve-month period from a building permit, but only when the work does not affect wind load protection for roofing, windows, doors and shutters, or structural components. A replacement door affects both, so it is permitted work. Projects over $5,000 need a recorded and certified Notice of Commencement at application. Product approval or Notice of Acceptance documents for everything installed must be legible and on site for the inspection, and the city warns that failing to produce them can mean a failed inspection with reinspection fees. Separately, the city's own affidavit states that a permit does not release an owner from association rules, and some architectural committees require written approval before replacement door work begins.
+
+### What the street tells the installer
+
+Build era changes the opening more than the catalog does. Old Floresta went in after the Mizner Development Corporation bought the tract in 1925, and its twenty-nine houses were finished by the end of 1927, with detached garages of their own from the same period. Pearl City, established in 1915, is the oldest community in the city and its lots and structures reflect that. Riviera was platted in four stages in 1945, and homes there still date from the late forties and early fifties. Camino Gardens rose on the old Africa U.S.A. park site, underway by 1962 with houses by a local architect. Boca Villas and Spanish River Land are older plat names still riding on addresses today. Headroom, jamb material, block condition and the depth of the existing anchors vary across all of them.
+
+### How the price is built
+
+Replacement quotes cover more than a door, which is why they spread so widely. The variables are opening size, panel construction and insulation, glazing, the rated assembly required for the exposure, new track and hardware rather than reused parts, removal of the old assembly, springs matched to the heavier weight, and the permit and inspection process. A serious proposal names the approval or acceptance number, the design pressure the assembly is rated for, the fastener schedule into masonry, the strut count and the spring specification. If a number on the quote cannot be traced to one of those items, ask what it is paying for.
+
 ## pricing_lede
 
 Here is what garage door work runs in the Boca Raton market, what the city's own fee schedule collects on a permitted door, and why a coastal Palm Beach County opening costs more to make right than the same opening two states inland.
@@ -220,19 +348,19 @@ Here is what garage door work runs in the Boca Raton market, what the city's own
 
 ### The wind rating is the price
 
-Everything about door cost on this stretch of coast starts with one requirement: an opening this size has to stay closed in a design wind event. The city's over-the-counter affidavit for windows, doors and impact shutters states that the wind velocity used for a single family residence is 170 mph, and product approval or Notice of Acceptance paperwork for every installed product has to be on site when the inspector arrives. Sectional and rollup exterior doors are their own product-approval categories, so the door, its track, its bracing and its fasteners are approved as an assembly and cannot be mixed freely.
+Everything about door cost on this stretch of coast starts with one requirement: an opening this size has to stay closed in a design wind event. The city's over-the-counter affidavit for windows, doors and impact shutters states that the wind velocity used for a single family residence is 170 mph. Product approval or Notice of Acceptance paperwork for every installed product must be on site when the inspector arrives. Sectional and rollup exterior doors are their own product-approval categories, so the door, its track, its bracing and its fasteners are approved as an assembly and cannot be mixed freely.
 
-That is why a replacement here occupies a different price band than a replacement in a non-coastal market. A rated door carries heavier gauge steel, additional horizontal struts, a specific jamb-fastening pattern into the block or tie column, and reinforced end stiles. Substituting a lighter door and reusing old track saves money for exactly as long as it takes an inspector or a storm to notice.
+That is why a replacement here occupies a different price band than the same job in a non-coastal market. A rated door carries heavier gauge steel, added horizontal struts, reinforced end stiles and a specific jamb-fastening pattern into the block or tie column. Substituting a lighter door and reusing old track saves money only until an inspector or a storm notices.
 
 ### What moves a repair up its range
 
-Salt is the second cost driver, and it works quietly. Air off 4.75 miles of managed shoreline carries chloride inland, and it settles on the parts nobody looks at: torsion spring coils, the drum set screws, cable strands where they wrap, roller bearings, hinge pins and the fasteners in the bottom section. A spring changed on clean hardware is a straightforward morning. A spring changed where the drums are seized on the shaft and the cable has necked down to half its strand count becomes a shaft, drum and cable job, and the range moves accordingly.
+Salt is the second cost driver, and it works quietly. Air off 4.75 miles of managed shoreline carries chloride inland onto the parts nobody looks at: spring coils, drum set screws, cable strands where they wrap, roller bearings and hinge pins. A spring changed on clean hardware is a straightforward morning. Change one where the drums are seized and the cable has necked down to half its strand count and it becomes a shaft, drum and cable job.
 
 ### The permit and paperwork arithmetic
 
-The City of Boca Raton user fee schedule for the building permit section lists additions, alterations and repairs, a category that names garage doors specifically, at a minimum fee of $100 covering the first $500 of construction valuation, then 1.75 percent of the remaining valuation, which includes plan check and sub-permit fees except fire. Work done within a year of a named storm event to repair storm damage sits on its own line at $99 for garage doors, with retrofitting excluded. A reinspection costs $79. Building permits valued above $5,000 also need a certified Notice of Commencement recorded before work proceeds.
+The city user fee schedule for the building permit section lists additions, alterations and repairs, a category that names garage doors specifically. The minimum fee is $100, covering the first $500 of construction valuation, then 1.75 percent of the rest. Plan check and sub-permit fees are included, except fire. Storm damage repair within a year of a named storm sits on its own line at $99 for garage doors, with retrofitting excluded. A reinspection costs $79. Building permits valued above $5,000 also need a certified Notice of Commencement recorded before work proceeds.
 
-There is a fourth approver in much of the city. Boca Raton's own homeowner association affidavit states plainly that a city permit does not exempt an owner from association rules, and some association architectural forms require written approval before replacement door work begins. Color, panel style and window inserts are exactly the things those boards rule on, so that question belongs at the start of the process.
+There is a fourth approver in much of the city. The city's own homeowner association affidavit states plainly that a permit does not exempt an owner from association rules. Some architectural forms require written approval before replacement door work begins. Color, panel style and window inserts are what those boards rule on, so ask early.
 
 ### What a serious quote spells out
 
@@ -248,5 +376,5 @@ The second is opener replacement offered as the answer to a door that reverses b
 
 ### What the online average leaves out
 
-A national cost page prices a door, not a coastal opening. It leaves out the permit and its deposit, the recorded notice on larger jobs, the reinspection fee when the fastening pattern fails a first look, the association review, the hurricane-rated track and struts, the stainless or coated hardware that survives salt air longer than plated hardware, and the removal of the old assembly. On repairs it leaves out the corroded second part that comes off with the first one, which in this market is closer to the rule than the exception.
+A national cost page prices a door, not a coastal opening. It leaves out the permit, the recorded notice on larger jobs, and the reinspection fee when a fastening pattern fails its first look. It also leaves out the association review, rated track and struts, coated hardware, and removal of the old assembly. On repairs it leaves out the corroded second part that comes off with the first, which here is closer to the rule than the exception.
 

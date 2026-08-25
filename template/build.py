@@ -21,6 +21,7 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import markdown as md
+from html import escape as html_escape
 
 ROOT = Path(__file__).resolve().parent.parent
 TPL = ROOT / "template"
@@ -184,6 +185,46 @@ CHROME = re.compile(
     r'|<script data-lead-js>.*?</script>', re.S)
 
 
+MD_LINK = re.compile(r"\[([^\]\n]{1,120})\]\((https?://[^)\s]{4,300})\)")
+
+def md_strip(s):
+    """Plain text for FAQ schema: keep the link label, drop the markup."""
+    s = MD_LINK.sub(r"\1", s)
+    s = re.sub(r"\*\*([^*\n]+)\*\*", r"\1", s)
+    return re.sub(r"(?<!\w)\*([^*\n]+)\*(?!\w)", r"\1", s)
+
+def md_inline(s):
+    """Q&A answers are authored in markdown but render inside a <p>, so a full
+    markdown pass would nest block tags. Convert the inline forms only."""
+    out, last = [], 0
+    for m in MD_LINK.finditer(s):
+        out.append(html_escape(s[last:m.start()]))
+        out.append('<a href="%s" rel="nofollow noopener" target="_blank">%s</a>'
+                   % (html_escape(m.group(2), True), html_escape(m.group(1))))
+        last = m.end()
+    out.append(html_escape(s[last:]))
+    h = "".join(out)
+    h = re.sub(r"\*\*([^*\n]+)\*\*", r"<strong>\1</strong>", h)
+    return re.sub(r"(?<!\w)\*([^*\n]+)\*(?!\w)", r"<em>\1</em>", h)
+
+def md_paras(s):
+    """Same inline conversion, but a blank line starts a new paragraph. Answers
+    used to render inside one hard-coded <p>, which forced every multi-paragraph
+    answer to be squeezed into a single wall of text."""
+    parts = [p.strip() for p in re.split(r"\n\s*\n", s) if p.strip()]
+    return "".join("<p>%s</p>" % md_inline(p) for p in parts)
+
+
+def _promote_headings(html):
+    """The service-page body is the top level of content on that page, so its
+    subheads belong at h2. Writers author them as markdown ###, which renders as
+    h3 and leaves an h1 -> h3 jump with no h2 in between. Shift the body up one
+    level. Ascending order, so a promoted heading is never promoted twice."""
+    for src, dst in ((3, 2), (4, 3), (5, 4), (6, 5)):
+        html = html.replace(f"<h{src}>", f"<h{dst}>").replace(f"</h{src}>", f"</h{dst}>")
+    return html
+
+
 def visible_words(html):
     return WS.sub(" ", TAG.sub(" ", CHROME.sub(" ", html))).strip().split()
 
@@ -191,17 +232,24 @@ def visible_words(html):
 def parse_copy(path):
     """copy.md is a flat list of `## key` blocks. Comments start with #."""
     blocks, key, buf = {}, None, []
+    def close(buf):
+        # Some writers put a `---` rule between sections. The splitter reads to
+        # the next `## `, so a trailing rule lands inside the block and renders
+        # as literal dashes at the end of a paragraph.
+        while buf and buf[-1].strip() in ("", "---", "***", "___"):
+            buf.pop()
+        return "\n".join(buf).strip()
     for line in path.read_text().splitlines():
         if line.startswith("## "):
             if key:
-                blocks[key] = "\n".join(buf).strip()
+                blocks[key] = close(buf)
             key, buf = line[3:].strip(), []
         elif line.startswith("#") and key is None:
             continue
         elif key:
             buf.append(line)
     if key:
-        blocks[key] = "\n".join(buf).strip()
+        blocks[key] = close(buf)
     # RULES is the writer's instruction header, not copy a visitor ever reads.
     # It is identical in every stub, so leaving it in the corpus makes the
     # duplication guard fire on whichever site kept it second.
@@ -288,7 +336,8 @@ def build(domain, live=False, check_only=False, corpus=None):
     faqs, i = [], 1
     while f"qa_{i}_question" in c:
         a = need(f"qa_{i}_answer", QA_WORDS)
-        faqs.append({"q": c[f"qa_{i}_question"], "a": a})
+        faqs.append({"q": c[f"qa_{i}_question"], "a": md_strip(a),
+                     "a_html": md_paras(a)})
         i += 1
     if len(faqs) < MIN_QAS:
         errs.append(f"{len(faqs)} local Q&As, needs {MIN_QAS}+")
@@ -782,7 +831,7 @@ def build(domain, live=False, check_only=False, corpus=None):
             meta_title=f"{o['h1']} in {s['city']}, {s['state']}",
             meta_description=lede.split(". ")[0][:155] + ".",
             canonical_path=f"/{o['slug']}/", base="../", schema_json=None,
-            svc=o, svc_lede=lede, svc_body=md.markdown(body), **ctx)
+            svc=o, svc_lede=lede, svc_body=_promote_headings(md.markdown(body)), **ctx)
         wc = len(visible_words(html))
         if not (SERVICE_WORDS[0] <= wc <= SERVICE_WORDS[1]):
             errs.append(f"service {o['slug']}: {wc} visible words, must be "

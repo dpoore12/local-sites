@@ -19,6 +19,36 @@
 
 ---
 
+### Verified sources used for this copy
+- HNC 655 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-655/
+- HNC 655.05 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-655-05/
+- HNC 655.1 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-655-1/
+- HNC 655.2 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-655-2/
+- HNC 655.6 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-655-6/
+- HNC 656 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-656/
+- HNC 658 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-658/
+- HNC 663 https://law.justia.com/codes/california/code-hnc/division-3/chapter-5/article-1/section-663/
+- HNC 668 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-668/
+- HNC 678.11 https://codes.findlaw.com/ca/harbors-and-navigation-code/hnc-sect-678-11/
+- VC 13353.2 https://codes.findlaw.com/ca/vehicle-code/veh-sect-13353-2/
+- VC 13353.3 https://codes.findlaw.com/ca/vehicle-code/veh-sect-13353-3/
+- VC 13558 https://codes.findlaw.com/ca/vehicle-code/veh-sect-13558/
+- VC 23538 https://codes.findlaw.com/ca/vehicle-code/veh-sect-23538/
+- VC 23540 https://law.justia.com/codes/california/code-veh/division-11-5/chapter-2/article-2/section-23540/
+- BPC 802.1 https://law.justia.com/codes/california/code-bpc/division-2/chapter-1/article-11/section-802-1/
+- BPC 10186.2 https://law.justia.com/codes/california/code-bpc/division-4/part-1/chapter-3/article-3/section-10186-2/
+- BPC 7071.18 https://law.justia.com/codes/california/code-bpc/division-3/chapter-9/article-5/section-7071-18/
+- BPC 6068 https://codes.findlaw.com/ca/business-and-professions-code/bpc-sect-6068/
+- BPC 490 https://codes.findlaw.com/ca/business-and-professions-code/bpc-sect-490/
+- Board of Registered Nursing convictions https://www.rn.ca.gov/enforcement/convictions.shtml
+- Harbor Justice Center https://www.occourts.org/location/harbor-justice-center-newport-beach
+- OTS 2023 Newport Beach profile https://www.ots.ca.gov/rankings/newport-beach-2023/
+- NBPD OTS grant release https://www.nbpd.org/Home/Components/News/News/44230/20969
+- OC Sheriff Harbor Patrol https://www.ocsheriff.gov/commands-divisions/patrol-operations-command/transit-operations/harbor-patrol
+- Newport Harbor no-wake limit https://www.ocsheriff.gov/commands-divisions/patrol-operations-command/transit-operations/harbor-patrol/newport-harbor
+- OC Grand Jury harbor moorings report https://ocgrandjury.org/sites/jury/files/2023-08/newportharbormoorings.pdf
+- City visitor page population and harbor figures https://www.newportbeachca.gov/i-am-a/visitor/about-newport-beach
+
 ## meta_title
 Newport Beach DUI Lawyer — Harbor Justice Center & Boating DUI Matters
 
@@ -38,41 +68,29 @@ Start with the location and date of the stop or the boating contact, then the pa
 A first DUI arrest left you with a court date and no clear plan
 
 ## symptom_1
-A first arrest is often confusing because the paperwork reads like a conclusion before anyone has looked closely at what happened. A citation, release form, vehicle paperwork, and a notice about driving may all arrive at once. They do not answer the same question. One may identify a court appearance. Another may describe an allegation. Another may set a separate deadline. Put every page in date order and keep the originals. A missed date or lost notice makes a manageable case harder to organize.
 
-The useful early work is factual. What was the reason given for the stop? What did the officer observe before requesting roadside tests? Were instructions audible and understandable? Was there body-camera, dash-camera, private security, restaurant, marina, or nearby business footage that may disappear with time? If a chemical test was taken, the method, timing, machine or laboratory records, and handling of the sample may matter. A number on a printout is evidence to be examined, not the whole case.
-
-For a Newport Beach arrest, the criminal matter may be handled through the Harbor Justice Center at 4601 Jamboree Road, which the Orange County Superior Court lists as handling criminal matters as well as traffic and minor offenses. Court representation means preparing for that actual venue: knowing the date, verifying the department, tracking filing and appearance requirements, and presenting a response built from the record rather than a generic online checklist. The goal at the beginning is control of the calendar and the evidence, not a rushed explanation of the worst possible outcome.
+An arrest packet is not a summary of the case. Sort the citation, the release form, any towing or impound paperwork and any driving notice into date order, photograph each page front and back, then confirm which document carries the appearance date. Leave the originals unmarked. The first-offense page walks through both codes an arrest in this city can be charged under.
 
 ## symptom_2_title
 A driving-privilege notice came with the DUI paperwork
 
 ## symptom_2
-A notice affecting driving can create the most immediate pressure after an arrest. It may be easy to focus only on the court date and set the notice aside, especially when work, school, caregiving, or travel depends on a car. That is a mistake. The criminal allegation and the administrative issue do not necessarily move on the same timetable or use the same paperwork. Treat every document as time-sensitive until its purpose and deadline are confirmed.
 
-Start by photographing or scanning the front and back of each page, including any small-print instructions. Keep a simple log of the arrest date, release date, dates on notices, and any date a driving privilege changed. Do not alter, discard, or write on original documents. If a vehicle was impounded or a temporary license was issued, keep those papers with the citation. That record helps identify what must be addressed first and avoids relying on a recollection made weeks later.
-
-The case review should also look at the foundation of the underlying stop and testing. A driving-related consequence does not make questions about reasonable grounds, observation, procedure, or testing records disappear. It makes early organization more important. For a Newport Beach matter, that work has to fit the county court calendar while also accounting for any separate notice in the arrest packet. The right approach is deliberate: preserve the papers, confirm the dates, request the available records, and make decisions from the actual case file rather than from a warning passed around online.
+A notice about your driving privilege is a Department of Motor Vehicles document rather than a court reminder, and the window to answer it is counted in days from the moment the paper reached you. Find that service date, write it down, and treat it as the deadline that governs. The suspension page sets out the counting and the interlock route back.
 
 ## symptom_3_title
 A breath result feels like the entire case against you
 
 ## symptom_3
-A breath result can feel final, especially when it appears in a report as a precise decimal. It is not the end of the factual inquiry. Breath testing is a process with timing, observation, equipment, maintenance, and recordkeeping behind it. The case needs the full sequence, beginning with why the vehicle was stopped and continuing through the request for a test, the observation period, the instructions, the individual test results, and the records for the device involved.
 
-Small details can matter without guaranteeing any particular result. Was the reported driving behavior captured on video? Were roadside exercises explained and conducted on a safe, level surface? Did the officer record the timing accurately? Is there a gap between driving and the test? Did a medical condition, mouth alcohol, medication, or another issue call for careful review? A defense is not built by picking one theory from a list. It is built by comparing the reports, footage, receipts, witnesses, dispatch records, and test materials against each other.
-
-Newport Beach cases can also involve a stop near restaurants, hotels, coastal roads, or marina activity, where independent cameras and witnesses may exist. Those sources are not permanent. A prompt request can be more valuable than a confident assumption about what a device reading means. The practical work is to preserve the record, obtain the agency materials, identify inconsistencies or missing steps, and prepare a position that can be used at the Harbor Justice Center if the case proceeds there. The number deserves scrutiny, but so does every event that produced it.
+A printed decimal is the end of a procedure, not the end of the inquiry. Record the agency, the report number, the vessel or the vehicle, and every clock time on the printout while the sequence is still exact. Being on the water rather than on Pacific Coast Highway changes which testing statute applies. The breath page covers both.
 
 ## symptom_4_title
 The allegation involves a prior DUI, a collision, or a vessel in Newport Harbor
 
 ## symptom_4
-A case becomes more complicated when there is a prior conviction, an injury allegation, a collision, a refusal allegation, or an accusation involving a boat. These facts can change the charges, the evidence that must be reviewed, and the consequences a person faces. They also make it especially important not to treat the event as an ordinary traffic stop. The timeline, custody status, insurance communications, witness contacts, photographs, vessel records, and electronic data should be protected before they become harder to obtain.
 
-Newport Harbor adds a local issue that is easy to overlook: California’s Harbors and Navigation Code applies to vessel operation. Section 655 prohibits operating a vessel while under the influence of alcohol, drugs, or their combined influence, and separately addresses a recreational vessel when blood alcohol concentration is 0.08 percent or more. A boating-under-the-influence matter is not simply a roadway DUI relocated to the water. The questions can include who was operating, the vessel’s condition and course, docking or navigation circumstances, the point of contact, safety equipment, passengers, weather and visibility, and records maintained by the responding agency.
-
-The City of Newport Beach identifies the Orange County Sheriff’s Harbor Patrol as providing law-enforcement and emergency services for Newport Harbor. That makes the agency, report, radio or dispatch material, and exact location of the encounter important from the start. If a criminal matter is filed, the Harbor Justice Center is the local Orange County court facility to watch for the court date and department. A serious fact pattern needs a serious, document-driven response: retain the papers, avoid discussing the incident broadly, and get the events reviewed before assumptions solidify into the case narrative.
+Injury to a passenger, a claimed earlier conviction, or a Harbor Patrol collision report pushes a case into heavier statutes and a much longer records fight. Follow every written release condition, keep the boat or the car available for inspection, and discuss the night with nobody except counsel. The felony page covers the injury counts and the prior-conviction windows.
 
 ## qa_1_question
 Where would a Newport Beach DUI criminal case be handled?
@@ -232,9 +250,9 @@ A DUI arrest in Newport Beach produces two separate money questions, and they ar
 
 ### Why there is no percentage anywhere on this page
 
-Rule 1.5 of the California Rules of Professional Conduct closes the door on outcome-based pricing in a criminal matter. Subdivision (c)(2) says a lawyer shall not make an agreement for, charge, or collect "a contingent fee for representing a defendant in a criminal case." There is no exception for a first-offense misdemeanor and no version of the rule that allows a bonus if a charge is reduced.
+Rule 1.5 of the California Rules of Professional Conduct closes the door on outcome-based pricing in a criminal matter. Subdivision (c)(2) says a lawyer shall not make an agreement for, charge, or collect "a contingent fee for representing a defendant in a criminal case." No exception exists for a first-offense misdemeanor.
 
-What is permitted instead is a flat fee for described work, or an hourly rate billed against an advance. A fee labeled "earned on receipt" or "non-refundable" is allowed only when it is a true retainer paid to secure availability, with written agreement after disclosure. Business and Professions Code section 6148 then requires a signed written contract whenever total expense to the client is reasonably foreseeable above $1,000, spelling out the basis of compensation, the general nature of the work, and who is responsible for what.
+What is permitted instead is a flat fee for described work, or an hourly rate billed against an advance. Business and Professions Code section 6148 then requires a signed written contract whenever total expense to the client is reasonably foreseeable above $1,000, spelling out the basis of compensation, the general nature of the work, and who is responsible for what.
 
 ### Bail comes first, and Orange County publishes the number
 
@@ -247,8 +265,7 @@ This is where most readers guess wrong. Vehicle Code section 23536(a) sets the f
 - Penal Code section 1464(a)(1): a state penalty of $10 for every $10 of fine, which by itself equals the base fine again.
 - Government Code section 76000(a)(1): the county penalty, $5.29 per $10 in Orange County, or about $206 on a $390 base.
 - Penal Code section 1465.7(a): a 20 percent state surcharge on that same base fine.
-- Government Code section 70372(a)(1): $5 per $10 for court construction.
-- Government Code sections 76104.6 and 76104.7: $1 per $10 and a further state-only $4 per $10 for DNA identification funding.
+- Government Code section 70372(a)(1): $5 per $10 for court construction. Sections 76104.6 and 76104.7 then add $1 per $10, plus a further state-only $4 per $10, for DNA identification funding.
 - Government Code section 70373: a flat $30 conviction assessment on a misdemeanor or felony.
 - Penal Code section 1465.8(a)(1): a flat $40 court operations assessment.
 
@@ -256,7 +273,7 @@ Run the arithmetic on the statutory minimum and a $390 fine turns into roughly $
 
 ### Two Newport Beach items that do not show up in generic DUI math
 
-Government Code sections 53150 and 53155 let a public agency bill a driver whose intoxication caused an emergency response for the cost of that response, capped at $12,000 for a single incident. On Pacific Coast Highway, on Jamboree, or on the Newport Coast grades, that response can involve a city engine company, paramedics and the county fire authority, and the bill is separate from anything a court orders.
+Government Code sections 53150 and 53155 let a public agency bill a driver whose intoxication caused an emergency response for the cost of that response, capped at $12,000 for a single incident. That bill is separate from anything a court orders.
 
 The second is on the water. Harbor Code enforcement around the Balboa Peninsula and the harbor entrance runs on Harbors and Navigation Code section 655, and section 668(e) sets a fine of not more than $1,000 and up to six months in county jail for a first violation of subdivisions (b) through (e). A section 655(f) violation, where impairment causes injury, carries $250 to $5,000 under section 668(g). A boating case is a different statute with different exposure from a Vehicle Code count, and a fee agreement should say which one it covers.
 
@@ -266,4 +283,168 @@ The license consequence is administrative and moves on its own clock. Vehicle Co
 
 ### What actually moves the size of a defense fee
 
-Four things, none of them the size of the fine. Whether the matter includes a Department of Motor Vehicles hearing as well as the criminal case, a second proceeding with its own record. Whether there is a prior within ten years, which changes the sentencing floor and the bail listing. Whether the blood or breath result is contested, since a challenge to the draw, the instrument log or the calibration record means records requests, an expert and a contested hearing at the Harbor Justice Center. And whether the case is set for trial rather than resolved, which is the single largest difference in hours. Ask where the written scope ends.
+Four things, none of them the size of the fine. Whether the matter includes a Department of Motor Vehicles hearing as well as the criminal case, a second proceeding with its own record. Whether there is a prior within ten years, which changes the sentencing floor and the bail listing. Whether the blood or breath result is contested, since that fight means records requests, an expert and a contested hearing. And whether the case is set for trial rather than resolved, which is the single largest difference in hours. Ask where the written scope ends.
+
+## services_summary
+
+Four separate jobs sit behind the search that brought you here. One is answering a first charge, which in this city may be filed under the Vehicle Code or under the Harbors and Navigation Code depending on whether a hull or a highway was involved. One is the driving-privilege file, opened by the Department of Motor Vehicles on a clock of its own. One is the evidence fight over a chemical reading and the procedure that produced it. One is an injury or repeat allegation, where the statute changes and so does the lookback period. Confusing them is how a deadline passes unanswered and a suspension runs that had an answer available.
+
+## services_pick_head
+
+Start with the paper the harbor or the roadway produced
+
+## crosslink_head
+
+A different piece of the file?
+
+## svc_first_offense_dui_defense_lede
+
+A citation written on Pacific Coast Highway and a Harbor Patrol contact off Lido Isle both read like an impaired-operation arrest. They are charged under different codes, carry different limits, and count differently against you later.
+
+## svc_first_offense_dui_defense_body
+
+### Two codes, one bad evening on the same square mile
+
+Driving cases run through Vehicle Code section 23152, which reaches both being under the influence and driving at 0.08 percent or more. On the water the governing statute is Harbors and Navigation Code section 655. Subdivision (b) covers operating a vessel, or manipulating water skis or an aquaplane, while under the influence of alcohol, a drug, or the two combined. Subdivision (c) sets 0.08 percent for a recreational vessel. Subdivision (d) sets a lower figure, 0.04 percent, for a vessel that is not recreational, which is the number that matters to anyone paid to run a charter, a tender or a harbor cruise out of the bay.
+
+### Twenty-one is a hard line on the water too
+
+A skipper under 21 is covered by section 655.6, which makes it an infraction to operate a motorized vessel or manipulate water skis at 0.01 percent or more. The graduated fines top out at $100 for a first violation, $200 for a second inside a year and $250 for a third, and the section also sends the person to an alcohol education or community service program. Crew on a commercial vessel face section 655.05 instead: found at 0.01 percent or more by a peace officer, the operator is ordered out of service for a full 24 hours.
+
+### What a first boating charge is actually punished by
+
+Section 668(e) prices a first violation of subdivisions (b) through (e) at a fine of not more than $1,000, up to six months in county jail, or both. Where probation is granted, the court may require completion of an alcohol or drug education, training or treatment program, and program costs are set against the person's ability to pay under the Health and Safety Code. That is the exposure a plea has to be measured against, not the Vehicle Code sentencing table people find first.
+
+### Being boarded is not the same as being pulled over
+
+Section 663 gives every peace officer of the state, a city or a county the duty to enforce the boating chapter, together with authority to stop and board any vessel covered by it when the officer has probable cause to believe a violation exists. Two other rules make a harbor contact easy to justify. Section 655.2 caps speed at five miles per hour within 100 feet of a person bathing and within 200 feet of a bathing beach, a swimming float or a landing float used to load passengers, and the Sheriff's Department applies a no-wake limit throughout the harbor out to the breakwater. Section 655(g) then allows information from a Coast Guard officer who directly observed the offense to serve as the sole basis for reasonable cause to arrest.
+
+### The prior that only runs one direction
+
+Here is the part almost nobody is told. Section 668(f) reaches back seven years and counts a Vehicle Code 23152 or 23153 conviction from a motor vehicle as the prior that lifts a later boating conviction toward a year in county jail. The Vehicle Code does not return the favor. Section 23540, which sets second-offense sentencing on a road case, counts only a separate violation of section 23103 as specified in 23103.5, section 23152 or section 23153 inside ten years. A Harbors and Navigation Code conviction is not on that list, and the administrative license statutes are written around driving a motor vehicle. Verify how any earlier case was actually charged before anyone assumes the exposure.
+
+### If you hold a state license, a second clock starts
+
+Physicians, osteopathic physicians, podiatrists and physician assistants must report a conviction of any felony or misdemeanor to their board in writing within 30 days under Business and Professions Code section 802.1, and failing to do so is itself an offense punishable by a fine up to $5,000. Real estate licensees carry the same 30-day duty under section 10186.2. Contractors have 90 days under section 7071.18 for a felony or a crime substantially related to the trade. Attorneys report to the State Bar within 30 days under section 6068. Registered nurses answer the question at renewal, and the Board of Registered Nursing says an infraction fined under $1,000 still has to be disclosed when alcohol was involved.
+
+### Where the answer gets filed, and who is watching the roads
+
+Orange County Superior Court lists the Harbor Justice Center at 4601 Jamboree Road as a facility handling traffic, minor offenses and criminal matters, though the department and hour printed on your own release paperwork are what control the appearance. Enforcement pressure on the land side is funded and public: the police department announced a $515,000 California Office of Traffic Safety grant running through September 2026, paying for checkpoints and patrols aimed at impaired drivers. State traffic-safety figures for 2023 put 399 driving-under-the-influence arrests in this city of roughly 83,000 average residents.
+
+### How the fee has to be built
+
+Rule 1.5(c)(2) of the California Rules of Professional Conduct bars any contingent fee for defending a criminal case, so the price is described work or hourly effort. Business and Professions Code section 6148 requires a signed written contract once total expense is reasonably foreseeable above $1,000. Ask which code the engagement covers, because a vessel charge and a Vehicle Code count are not the same file.
+
+## svc_dui_license_suspension_lede
+
+The driving privilege is decided in an office, not a courtroom, and on a shorter calendar than the criminal case. What surprises people most is which arrests produce that paperwork at all and which ones leave the license untouched.
+
+## svc_dui_license_suspension_body
+
+### Ten days, counted from the day the paper reached your hand
+
+Vehicle Code section 13558 is where the number lives. If you want a hearing before the order of suspension or revocation takes effect, the request has to be made within 10 days of receipt of the notice, and the department holds the hearing before the effective date when the request is postmarked or received inside that span. Receipt is the trigger, so the date the officer handed the form over is the date to write down, photograph and keep. The statute also narrows the subject matter: the issues are the facts listed in section 13557, not guilt of a crime.
+
+### Four months, starting on day thirty
+
+Section 13353.3 fixes the length. Where there is no qualifying prior inside ten years, no administrative refusal finding and no earlier excessive-alcohol determination, the privilege is suspended for four months. The order becomes effective 30 days after service of the notice. Those two figures do different work. The 30-day gap is the planning window; the four months is the consequence, and neither one waits for the criminal calendar at the Harbor Justice Center to reach a disposition.
+
+### The device is what ends the suspension early
+
+The same section provides the exit. A four-month suspension terminates where the person is convicted of a violation arising out of the same occurrence, is eligible for a restricted license under section 13352 or 13352.1, installs a functioning certified ignition interlock device as those sections require, and satisfies the remaining conditions. Read that as a sequence rather than a favor. Eligibility, installation and compliance all have to be documented before the restriction is issued, and the paperwork travels between the court, the installer and the department.
+
+### A harbor arrest usually leaves the license alone
+
+This is the least understood consequence in a market built around boats. The administrative suspension in section 13353.2 is written around a person driving a motor vehicle at 0.08 percent or more, and the refusal machinery that costs a license sits in the Vehicle Code as well. On the water, Harbors and Navigation Code section 655.1 handles testing differently: the arrested person is advised of a right to refuse chemical testing and warned that an officer may seek a search warrant compelling a blood sample. The pressure point is a warrant, not the driving privilege. None of that makes a vessel charge minor, because section 668 still carries jail exposure and a boating conviction is a criminal conviction on the record.
+
+### The program has to finish before ordinary driving resumes
+
+Vehicle Code section 23538 splits first offenders by result. Below 0.20 percent the referral is at least three months in a licensed program of at least 30 hours of activities. At 0.20 percent or above, or after a refusal, it becomes at least nine months and at least 60 hours. The section also says the driving privilege is not restored until proof of successful completion reaches department headquarters, which means an unopened envelope or an unforwarded certificate can quietly extend the problem past the suspension itself.
+
+### Losing a car costs more on a peninsula than on a grid
+
+Geography does real damage here. Balboa Peninsula is a long single-access strip, Balboa Island is served by a short ferry and one bridge, and Newport Coast and Corona del Mar sit above the highway on hillside streets with limited transit. Summer makes it worse: the city puts its permanent population at 86,738 and says the figure climbs past 100,000 with 20,000 to 100,000 visitors on a summer day. A restriction that permits travel to work and to the program is worth more in that traffic than a shortened suspension with no driving at all.
+
+### What to have in one folder before anything is requested
+
+Keep the temporary permit, the order of suspension, the citation, the release conditions and any tow receipt together, with the dates on the front of the file. Add the name of the arresting agency, whether Harbor Patrol or the police department, since the record trail differs. Then note whether any test was breath, blood or refused, because that answer decides which statute governs the administrative side.
+
+### How fees work on the license side
+
+A criminal engagement cannot be priced off a result, because rule 1.5(c)(2) of the California Rules of Professional Conduct forbids a contingent fee for a defendant in a criminal case. Ask instead whether the described work includes the hearing request, a subpoena for the officer, a continuance and the later restriction application, or whether those are billed as separate steps.
+
+## svc_dui_breath_test_defense_lede
+
+A reading looks like a measurement and behaves like a conclusion assembled from forms, timings and instrument logs. On the water the statute behind those forms is not the one most defense checklists were written for.
+
+## svc_dui_breath_test_defense_body
+
+### The consent statute on the water reads differently
+
+Harbors and Navigation Code section 655.1 controls testing after a vessel arrest. A peace officer with reasonable cause who lawfully arrests for subdivisions (b) through (f) of section 655 may request a test of blood, breath or urine. The advisement that follows is unusual. The person must be told that a complaint may be filed, that there is a right to refuse chemical testing, that an officer may seek a search warrant compelling a blood sample under Penal Code section 1524, and that no attorney may be present before the choice is made. Whether each of those things was said, and when, is a fact question with a paper trail behind it.
+
+### The retained sample you were supposed to be offered
+
+Breath keeps nothing. Section 655.1 requires the person to be advised that the equipment retains no sample and that none will be available for later analysis, and then to be offered the chance to give a blood or urine sample that is kept at no cost so something exists to test. The statute adds that the retained sample may be tested by either party. If that offer is missing from the report, the absence is worth examining, because it is the difference between arguing about a figure and measuring it independently.
+
+### Three hours, and the bands that come with the number
+
+Section 655(h) creates a rebuttable presumption that a recreational operator was at 0.08 percent or more at the time of operation when a chemical test inside three hours after operating shows that concentration. Subdivision (i) does the same at 0.04 percent for vessels that are not recreational. For the under-the-influence counts, subdivision (j) sets three bands: below 0.05 percent the person is presumed not under the influence, between 0.05 and 0.08 percent no presumption arises either way, and at 0.08 percent or more the presumption runs against the operator. Time between operating and testing therefore belongs in the evidence, not in a footnote.
+
+### Which limit applies depends on what the boat was doing
+
+A weekend cruiser out of Dover Shores is measured against 0.08 percent. A vessel that is not recreational is measured against 0.04 percent, and the charter, tender and sportfishing traffic working a harbor with roughly 9,900 permanent vessels makes that classification a live issue rather than a technicality. Crew face a third figure entirely under section 655.05, where a finding of 0.01 percent or more brings a 24-hour out-of-service order. Establishing who was at the helm, what the vessel was licensed to do and who was aboard changes which number the case is even about.
+
+### Field exercises on a moving deck are not a level sidewalk
+
+Roadside coordination tests assume a stable surface. A deck answers to wake, chop and other traffic, and a harbor limited to five miles per hour out to the breakwater still carries constant movement from cruisers, tenders and rental craft. Sun exposure, spray, cold, fatigue after hours on the water and footwear all belong in a written account of the contact. Record those conditions promptly and factually, because they will be argued from the report if nobody else documents them.
+
+### The records a harbor contact produces
+
+The trail differs from a traffic stop. Sheriff's Harbor Patrol runs around-the-clock enforcement, marine firefighting and rescue across 48 miles of county coastline and the three main harbors, with its headquarters and its own dispatch operation in this city. That means radio traffic, dispatch logs, vessel assignment records and a written report, and where a collision or casualty occurred, section 656 requires reporting into a state system built to match Coast Guard rules. Commercial docks, restaurants and marina offices along the bayfront may hold video that ages out in weeks.
+
+### What to write down while it is still exact
+
+Note the instrument or laboratory identifier, the report number, every printed time, and the last food, drink or medication before the contact. Add any dental appliance, mouth injury, reflux condition or diving-related complaint. Do not annotate the officer's forms and do not narrate the evening online. Preserved documents beat a corrected memory.
+
+### Where the money goes in a records case
+
+Because rule 1.5(c)(2) of the California Rules of Professional Conduct keeps criminal defense off any contingent basis, a testing fight is priced as tasks and hours. Ask what the scope includes for subpoenas to the responding agency and the laboratory, for instrument maintenance and accuracy records, and for independent analysis of a retained sample.
+
+## svc_felony_dui_defense_lede
+
+An injury allegation changes which subdivision is charged, how long the exposure runs, and how far back the state may reach for a prior. On the water it also changes which agency wrote the report you have never seen.
+
+## svc_felony_dui_defense_body
+
+### Where the injury count lives in each code
+
+On the road, causing injury while driving under the influence is charged under Vehicle Code section 23153, and it may be filed as a felony. On the water the parallel is Harbors and Navigation Code section 655(f), which requires impaired operation plus an act forbidden by law or a duty neglected, and requires that the act or omission proximately cause bodily injury to someone other than the operator. Those extra elements matter. A number alone does not establish subdivision (f); the state also has to prove the violation and the causal link between it and the injury.
+
+### What subdivision (f) is punished by
+
+Section 668(g) sets the range: imprisonment under Penal Code section 1170(h) or in county jail for not less than 90 days and not more than one year, plus a fine of not less than $250 and not more than $5,000. Probation does not make it soft. Under section 668(h), where the person has a separate conviction of subdivisions (b) through (e) inside seven years, probation must include at least five days in county jail. Where the earlier conviction was for subdivision (f) itself, a Vehicle Code 23152 or 23153 count, or vehicular manslaughter under the Penal Code, the probation floor rises to 90 days.
+
+### Seven years on the water, ten on the road
+
+The two codes use different lookback periods, and the difference decides real exposure. Section 668(f) counts a prior inside seven years, and it counts driving convictions among the qualifying priors. Vehicle Code section 23540 uses a ten-year window and a list limited to Vehicle Code offenses. Certified records of the earlier disposition, the actual charge and the date of the offense have to be pulled before anyone concedes a prior, since an assumed conviction is often not the conviction the abstract shows.
+
+### The duty that starts the moment something goes wrong
+
+Section 656 obliges the operator of a vessel involved in a collision, accident or other casualty to render the assistance that is practicable and necessary to protect the people affected, so far as it can be done without serious danger to the operator's own vessel, crew and passengers. The same section routes accident reports into a state system aligned with federal rules and requires a peace officer receiving a report of a death or disappearance to forward it immediately. What was done in the first minutes, and what the report says was done, is often the contested ground.
+
+### A felony charge accelerates the licensing problem
+
+For several professions the duty triggers at the charge, not the conviction. Section 802.1 of the Business and Professions Code requires a physician, osteopathic physician, podiatrist or physician assistant to report the bringing of an indictment or information charging a felony within 30 days, alongside the separate duty to report any conviction. Real estate licensees report a felony complaint, information or indictment inside 30 days under section 10186.2. Section 490 then lets a board suspend or revoke where the conviction is substantially related to the profession, and allows action once probation is granted with sentence suspended, regardless of a later dismissal under Penal Code section 1203.4. Coordinating the criminal defense with those filings, rather than discovering them afterward, is part of the work.
+
+### What the first week should preserve
+
+Keep the vessel or the vehicle available and unrepaired for inspection, and photograph damage, deck layout, seating and lighting before anything is cleaned up. Collect the slip or mooring paperwork, the launch receipt, passenger names, charter or rental agreements, and any messages that fix the timeline of the outing. Confirm whether the operator held the California Boater Card that section 678.11 has required of all ages since the start of 2025, since rental operators sit inside a stated exemption. Medical treatment for anyone injured should be documented rather than discussed.
+
+### The scene evidence a bay produces
+
+A harbor of 800 acres with seven islands, roughly 2,330 slips and about 1,235 moorings is thick with witnesses and cameras, and almost none of them are permanent. Preservation requests to the responding agency, to marina offices and to bayfront businesses are time-sensitive. On the roadway side, state figures for 2023 recorded 494 people killed or injured in crashes here, 71 of them in alcohol-involved crashes, which ranked this city thirteenth among 103 California cities of similar size.
+
+### How a felony defense fee is structured
+
+Rule 1.5(c)(2) of the California Rules of Professional Conduct removes any contingent arrangement for a criminal defendant, so a serious case is priced by the work in front of it. Ask where the described engagement stops, whether a preliminary hearing and a fight over an alleged prior sit inside that scope, and who authorizes a naval architect, a collision analyst or a toxicologist if one is needed.

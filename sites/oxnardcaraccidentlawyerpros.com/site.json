@@ -1,218 +1,219 @@
 {
- "domain": "oxnardcaraccidentlawyerpros.com",
- "phase": 1,
- "brand": "Oxnard Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "Oxnard",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Ventura"
- ],
- "area_codes": [
-  "805"
- ],
- "phone_display": "(805) 344-5595",
- "phone_tel": "+18053445595",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "oxnard_101_corridor",
-   "claim": "Caltrans identifies the City of Oxnard segment of US 101 as running from Telephone Road to Rice Avenue. Its corridor plan identifies ramp, merging, weaving, and congestion locations near Victoria Avenue, Oxnard Boulevard, Vineyard Avenue, Rose Avenue, and Rice Avenue.",
-   "why_it_matters": "A crash described only as happening 'on the 101' is hard to investigate. The travel direction, lane, nearest interchange, time, and traffic movement can help identify the correct collision record, scene evidence, and possible camera sources before those details fade.",
-   "sources": [
-    "https://dot.ca.gov/-/media/dot-media/district-5/documents/csmp-slo-101-vensb-plan-a11y.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "The Oxnard stretch of Highway 101 is not one generic crash location"
-  },
-  {
-   "id": "ventura_civil_venue",
-   "claim": "The Superior Court of California, County of Ventura states that its civil division is where civil matters are filed and that general civil cases are heard at the Ventura Courthouse.",
-   "why_it_matters": "An Oxnard collision claim that becomes a general civil case follows Ventura County's civil-court structure. A well-organized collision, medical, and insurance file is useful long before filing is considered.",
-   "sources": [
-    "https://ventura.courts.ca.gov/divisions/civil"
-   ],
-   "verified": "2026-08-22",
-   "title": "General civil cases for Ventura County are heard in Ventura"
-  },
-  {
-   "id": "ventura_county_crash_data",
-   "claim": "California's Office of Traffic Safety recorded 5,130 people killed or injured in Ventura County traffic crashes in 2023, including 1,030 in speed-related fatal-and-injury collisions and 318 in hit-and-run fatal-and-injury collisions.",
-   "why_it_matters": "County totals do not prove an individual claim. They do show why it is important to preserve a particular crash's report, scene evidence, witness information, treatment records, and insurance notices instead of relying on a general description of what happened.",
-   "sources": [
-    "https://www.ots.ca.gov/rankings/ventura-county-2023/"
-   ],
-   "verified": "2026-08-22",
-   "title": "Ventura County crash figures show the scale, not fault in one case"
-  }
- ],
- "neighborhoods": [
-  "La Colonia",
-  "Riverpark",
-  "Oxnard Shores",
-  "Silver Strand",
-  "Lemonwood / Eastmont",
-  "Hobson Park West"
- ],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What the law sets for a Ventura County crash claim, priced from the court's own schedule",
-  "col_a": "What it covers",
-  "col_b": "What the rule, statute or court sets",
-  "anchors": [
-   {
-    "label": "Legal limit on a crash fee percentage",
-    "value": "No number",
-    "detail": "California measures an injury fee against the unconscionable-or-illegal standard. The percentage limits in the fee statute reach medical negligence claims only.",
-    "source_name": "Cal. Rule of Professional Conduct 1.5(a)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "label": "Complaint over $35,000, Ventura County",
-    "value": "$435",
-    "detail": "The court's published figure for an initial complaint, petition or application above the unlimited civil line, and the same amount per answering defendant.",
-    "source_name": "Ventura County Superior Court fee answers",
-    "source_url": "https://ventura.courts.ca.gov/general-information/frequently-asked-questions"
-   },
-   {
-    "label": "Motion after the first appearance",
-    "value": "$60",
-    "detail": "Charged by the Ventura civil division on each motion once the first appearance fee has already been paid, which is what makes discovery fights expensive.",
-    "source_name": "Ventura County Superior Court, Civil Division",
-    "source_url": "https://ventura.courts.ca.gov/divisions/civil"
-   },
-   {
-    "label": "Small claims filing, up to $12,500",
-    "value": "$75",
-    "detail": "The court's top small claims tier for a natural person, with $30 and $50 tiers below it and $15 per defendant for certified mail service.",
-    "source_name": "Ventura County Superior Court form VN139",
-    "source_url": "https://ventura.courts.ca.gov/system/files/vn139.pdf"
-   }
+  "domain": "oxnardcaraccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "Oxnard Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "vertical": "legal",
+  "city": "Oxnard",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Ventura"
   ],
-  "fee_rows": [
-   {
-    "stage": "Fee taken from a collision settlement",
-    "share": "Unregulated by percentage",
-    "note": "California polices it through the unconscionable-or-illegal test rather than a ceiling, so the written contract carries the whole burden.",
-    "source_name": "Cal. Rule of Prof. Conduct 1.5(a)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "stage": "Six things the injury contract must contain",
-    "share": "Voidable if missed",
-    "note": "Miss any required provision and the plaintiff may void the agreement, leaving the lawyer entitled only to a reasonable fee.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(a), (b)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6147."
-   },
-   {
-    "stage": "Where percentages truly are capped",
-    "share": "Health care provider claims",
-    "note": "A quarter of a pre-complaint settlement and a third after filing, computed on the net sum left once disbursements come out.",
-    "source_name": "Cal. Bus. & Prof. Code 6146(a), (c)(1)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146."
-   },
-   {
-    "stage": "Opening and answering a Ventura civil case",
-    "share": "$435 \u00b7 $370 \u00b7 $225",
-    "note": "Tiers turn on the amount demanded: above $35,000, above $10,000, or $10,000 and under. Each defendant pays to respond.",
-    "source_name": "Ventura County Superior Court fee answers",
-    "source_url": "https://ventura.courts.ca.gov/general-information/frequently-asked-questions"
-   },
-   {
-    "stage": "Appealing an unlimited civil decision",
-    "share": "$775 plus $100",
-    "note": "The larger amount goes to the Court of Appeal; the deposit goes to the Ventura clerk for preparing the transcript.",
-    "source_name": "Ventura County Superior Court, Civil Division",
-    "source_url": "https://ventura.courts.ca.gov/divisions/civil"
-   },
-   {
-    "stage": "Small claims route for a minor collision",
-    "share": "$30 \u00b7 $50 \u00b7 $75",
-    "note": "Set by claim size, rising to $100 for anyone who has filed more than twelve claims in the previous twelve months.",
-    "source_name": "Ventura County Superior Court form VN139",
-    "source_url": "https://ventura.courts.ca.gov/system/files/vn139.pdf"
-   }
-  ]
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "805"
+  ],
+  "phone_display": "(805) 344-5595",
+  "phone_tel": "+18053445595",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "oxnard_101_corridor",
+      "claim": "Caltrans identifies the City of Oxnard segment of US 101 as running from Telephone Road to Rice Avenue. Its corridor plan identifies ramp, merging, weaving, and congestion locations near Victoria Avenue, Oxnard Boulevard, Vineyard Avenue, Rose Avenue, and Rice Avenue.",
+      "why_it_matters": "A crash described only as happening 'on the 101' is hard to investigate. The travel direction, lane, nearest interchange, time, and traffic movement can help identify the correct collision record, scene evidence, and possible camera sources before those details fade.",
+      "sources": [
+        "https://dot.ca.gov/-/media/dot-media/district-5/documents/csmp-slo-101-vensb-plan-a11y.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "The Oxnard stretch of Highway 101 is not one generic crash location"
+    },
+    {
+      "id": "ventura_civil_venue",
+      "claim": "The Superior Court of California, County of Ventura states that its civil division is where civil matters are filed and that general civil cases are heard at the Ventura Courthouse.",
+      "why_it_matters": "An Oxnard collision claim that becomes a general civil case follows Ventura County's civil-court structure. A well-organized collision, medical, and insurance file is useful long before filing is considered.",
+      "sources": [
+        "https://ventura.courts.ca.gov/divisions/civil"
+      ],
+      "verified": "2026-08-22",
+      "title": "General civil cases for Ventura County are heard in Ventura"
+    },
+    {
+      "id": "ventura_county_crash_data",
+      "claim": "California's Office of Traffic Safety recorded 5,130 people killed or injured in Ventura County traffic crashes in 2023, including 1,030 in speed-related fatal-and-injury collisions and 318 in hit-and-run fatal-and-injury collisions.",
+      "why_it_matters": "County totals do not prove an individual claim. They do show why it is important to preserve a particular crash's report, scene evidence, witness information, treatment records, and insurance notices instead of relying on a general description of what happened.",
+      "sources": [
+        "https://www.ots.ca.gov/rankings/ventura-county-2023/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Ventura County crash figures show the scale, not fault in one case"
+    }
+  ],
+  "neighborhoods": [
+    "La Colonia",
+    "Riverpark",
+    "Oxnard Shores",
+    "Silver Strand",
+    "Lemonwood / Eastmont",
+    "Hobson Park West"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What the law sets for a Ventura County crash claim, priced from the court's own schedule",
+    "col_a": "What it covers",
+    "col_b": "What the rule, statute or court sets",
+    "anchors": [
+      {
+        "label": "Legal limit on a crash fee percentage",
+        "value": "No number",
+        "detail": "California measures an injury fee against the unconscionable-or-illegal standard. The percentage limits in the fee statute reach medical negligence claims only.",
+        "source_name": "Cal. Rule of Professional Conduct 1.5(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "Complaint over $35,000, Ventura County",
+        "value": "$435",
+        "detail": "The court's published figure for an initial complaint, petition or application above the unlimited civil line, and the same amount per answering defendant.",
+        "source_name": "Ventura County Superior Court fee answers",
+        "source_url": "https://ventura.courts.ca.gov/general-information/frequently-asked-questions"
+      },
+      {
+        "label": "Motion after the first appearance",
+        "value": "$60",
+        "detail": "Charged by the Ventura civil division on each motion once the first appearance fee has already been paid, which is what makes discovery fights expensive.",
+        "source_name": "Ventura County Superior Court, Civil Division",
+        "source_url": "https://ventura.courts.ca.gov/divisions/civil"
+      },
+      {
+        "label": "Small claims filing, up to $12,500",
+        "value": "$75",
+        "detail": "The court's top small claims tier for a natural person, with $30 and $50 tiers below it and $15 per defendant for certified mail service.",
+        "source_name": "Ventura County Superior Court form VN139",
+        "source_url": "https://ventura.courts.ca.gov/system/files/vn139.pdf"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Fee taken from a collision settlement",
+        "share": "Unregulated by percentage",
+        "note": "California polices it through the unconscionable-or-illegal test rather than a ceiling, so the written contract carries the whole burden.",
+        "source_name": "Cal. Rule of Prof. Conduct 1.5(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "Six things the injury contract must contain",
+        "share": "Voidable if missed",
+        "note": "Miss any required provision and the plaintiff may void the agreement, leaving the lawyer entitled only to a reasonable fee.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a), (b)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6147."
+      },
+      {
+        "stage": "Where percentages truly are capped",
+        "share": "Health care provider claims",
+        "note": "A quarter of a pre-complaint settlement and a third after filing, computed on the net sum left once disbursements come out.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a), (c)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146."
+      },
+      {
+        "stage": "Opening and answering a Ventura civil case",
+        "share": "$435 · $370 · $225",
+        "note": "Tiers turn on the amount demanded: above $35,000, above $10,000, or $10,000 and under. Each defendant pays to respond.",
+        "source_name": "Ventura County Superior Court fee answers",
+        "source_url": "https://ventura.courts.ca.gov/general-information/frequently-asked-questions"
+      },
+      {
+        "stage": "Appealing an unlimited civil decision",
+        "share": "$775 plus $100",
+        "note": "The larger amount goes to the Court of Appeal; the deposit goes to the Ventura clerk for preparing the transcript.",
+        "source_name": "Ventura County Superior Court, Civil Division",
+        "source_url": "https://ventura.courts.ca.gov/divisions/civil"
+      },
+      {
+        "stage": "Small claims route for a minor collision",
+        "share": "$30 · $50 · $75",
+        "note": "Set by claim size, rising to $100 for anyone who has filed more than twelve claims in the previous twelve months.",
+        "source_name": "Ventura County Superior Court form VN139",
+        "source_url": "https://ventura.courts.ca.gov/system/files/vn139.pdf"
+      }
+    ]
   },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "oxnard car accident lawyer",
+    "monthly_price": 500,
+    "score": 81,
+    "volume": 400,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "cranefloresllp.com",
+    "competitor_dr": 14.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "oxnard car accident lawyer",
-  "monthly_price": 500,
-  "score": 81,
-  "volume": 400,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "cranefloresllp.com",
-  "competitor_dr": 14.0
- }
 }

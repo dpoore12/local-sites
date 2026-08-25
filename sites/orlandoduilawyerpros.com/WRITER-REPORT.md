@@ -32,7 +32,7 @@ The full build also reported 18 unwritten drafts skipped.
 # Orlando DUI research notes — 2026-08-22
 
 ## Fact 1 — Ninth Circuit PTI is discretionary and includes a DUI-specific screen
-The Ninth Judicial Circuit State Attorney’s Office describes its Pretrial Intervention program as a diversion program for qualifying defendants after arrest and filing. Entry requires approval of the program administrator, prosecutor, victim, and judge. Its published exclusions include DUI when BAC is above .22, there is a prior alcohol-related criminal traffic arrest/citation, a crash is involved, or the defendant holds a commercial driver’s license. A successful participant has charges dismissed. This is a program of the local State Attorney, not an automatic outcome.
+The Ninth Judicial Circuit State Attorney’s Office describes its Pretrial Intervention program as a diversion program for qualifying defendants after arrest and filing. Entry requires approval of the program administrator, prosecutor, victim, and judge. Its published exclusions include DUI when BAC is above 0.22, there is a prior alcohol-related criminal traffic arrest/citation, a crash is involved, or the defendant holds a commercial driver’s license. A successful participant has charges dismissed. This is a program of the local State Attorney, not an automatic outcome.
 
 Source: https://sao9th.com/second-chance-program/pretrial-intervention-pti/
 

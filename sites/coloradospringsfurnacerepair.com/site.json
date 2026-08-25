@@ -1,9 +1,10 @@
 {
   "domain": "coloradospringsfurnacerepair.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Colorado Springs Furnace Repair Pros",
   "service": "Furnace Repair",
   "service_inline": "furnace repair",
+  "vertical": "home",
   "city": "Colorado Springs",
   "state": "CO",
   "state_full": "Colorado",

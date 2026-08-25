@@ -1,9 +1,10 @@
 {
   "domain": "scottsdalegaragedoorrepairpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Scottsdale Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
+  "vertical": "home",
   "city": "Scottsdale",
   "state": "AZ",
   "state_full": "Arizona",

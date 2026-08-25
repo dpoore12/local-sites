@@ -68,7 +68,7 @@ Texas Civil Practice and Remedies Code §16.003 generally gives a person two yea
 What does Texas proportionate responsibility mean for a rider?
 
 ## qa_2_answer
-Texas Civil Practice and Remedies Code §33.001 bars recovery when a claimant’s percentage of responsibility is greater than 50 percent. Section 33.012 reduces damages by the percentage of responsibility assigned when the bar does not apply. A carrier’s suggestion that a rider was speeding or riding in the wrong place is not itself a percentage finding. Photographs, video, vehicle damage, witness accounts, and the complete roadway sequence can all be relevant to a dispute about responsibility.
+Recovery is barred under Texas Civil Practice and Remedies Code §33.001 when a claimant’s percentage of responsibility is greater than 50 percent. Section 33.012 reduces damages by the percentage of responsibility assigned when the bar does not apply. A carrier’s suggestion that a rider was speeding or riding in the wrong place is not itself a percentage finding. Photographs, video, vehicle damage, witness accounts, and the complete roadway sequence can all be relevant to a dispute about responsibility.
 
 ## qa_3_question
 What if the driver who hit the motorcycle had little or no insurance?
@@ -263,7 +263,7 @@ A swept mirror, paint streak on a rear door, broken footpeg, scuffed saddlebag, 
 
 ### A no-contact fall still needs a sequence
 
-A motorcycle can fall while avoiding a vehicle that never makes contact. Write down the vehicle type, color, plate characters if known, direction, and last location. Ask witnesses to describe what they saw in their own words, preserve any dash-camera or business-video lead, and file a police report promptly. The lack of paint transfer makes independent evidence more important, not less.
+Riders also go down while avoiding a vehicle that never makes contact. Write down the vehicle type, color, plate characters if known, direction, and last location. Ask witnesses to describe what they saw in their own words, preserve any dash-camera or business-video lead, and file a police report promptly. The lack of paint transfer makes independent evidence more important, not less.
 
 ### Witnesses are not interchangeable
 
@@ -359,9 +359,9 @@ Texas prints no percentage that a fee in a motorcycle injury claim has to fit in
 
 ### Rule 1.04 sets a standard, not a rate
 
-Fee conduct for every lawyer in Houston runs through Rule 1.04 of the Texas Disciplinary Rules of Professional Conduct. Paragraph (a) supplies the only ceiling there is: an illegal fee is barred, and so is an unconscionable one, meaning a fee that no competent lawyer could hold a reasonable belief was reasonable. Behind that standard sits no table of approved percentages. Paragraph (b) lists eight factors for testing a fee instead: the labor and skill the matter demanded and how hard its questions were; work the lawyer had to turn down to take it; what comparable services usually cost in the same locality; the stakes and what was actually achieved; deadlines imposed by the client or by circumstance; the length of the working relationship; the lawyer's experience, reputation and ability; and whether the arrangement was fixed or rode on the result.
+Fee conduct for every lawyer in Houston runs through Rule 1.04 of the Texas Disciplinary Rules of Professional Conduct. Paragraph (a) supplies the only ceiling: an illegal fee is barred, and so is an unconscionable one — a fee that no competent lawyer could hold a reasonable belief was reasonable. Behind that standard sits no table of approved percentages. Paragraph (b) lists eight factors for testing a fee instead. Four cover the work: the labor and skill the matter demanded and how hard its questions were; work the lawyer had to turn down to take it; what comparable services usually cost in the same locality; the stakes and what was actually achieved. The rest are deadlines imposed by the client or by circumstance; the length of the working relationship; the lawyer's experience, reputation and ability; and whether the arrangement was fixed or rode on the result.
 
-So a percentage quoted anywhere as "the Texas rate" is one firm's practice. The rule permits a fee contingent on the outcome of an injury matter under paragraph (d), and forbids one only where another provision does — paragraph (e) bars a contingent fee for defending a criminal case, which is why a rider also charged after a wreck faces two different fee structures on two files.
+So a percentage quoted anywhere as "the Texas rate" is one firm's practice. The rule permits a fee contingent on the outcome of an injury matter under paragraph (d), and forbids one only where another provision does. Paragraph (e) bars a contingent fee for defending a criminal case, which is why a rider also charged after a wreck faces two different fee structures on two files.
 
 ### What paragraph (d) forces onto paper
 
@@ -379,15 +379,15 @@ Section 33.001 states that a claimant may not recover damages if his percentage 
 
 ### What the courthouse itself charges
 
-The Harris County District Clerk publishes the amounts. A new civil suit filed without service costs $350. A citation is $8 and includes one copy. Service through Harris County civil process runs $85, with $15 added for service by mail, and service by certified or registered mail through the clerk is $100. The county jury fee is $10. Those are court costs, not compensation, and they belong on their own line in any accounting.
+The Harris County District Clerk publishes the amounts. A new civil suit filed without service costs $350. A citation is $8 and includes one copy. Service through Harris County civil process runs $85, with $15 added for service by mail, and service by certified or registered mail through the clerk is $100. The county jury fee is $10. Those are court costs, not compensation, and they belong on their own line.
 
 ### The hospital lien is subtracted before anybody celebrates
 
-Property Code section 55.004(b) limits a hospital lien to the lesser of three things: charges for services during the first 100 days of hospitalization, 50 percent of all amounts recovered through the claim, judgment or settlement, or, where the trier of fact specified an amount for hospital charges, that amount less the pro rata share of reasonable attorney fees and expenses. A rider airlifted from the Katy Freeway can generate a lien where the 50 percent cap, not the billed total, becomes the operative number.
+Property Code section 55.004(b) limits a hospital lien to the lesser of three things. The first two are charges for services during the first 100 days of hospitalization, and 50 percent of all amounts recovered through the claim, judgment or settlement. The third applies where the trier of fact specified an amount for hospital charges: that amount less the pro rata share of reasonable attorney fees and expenses. A rider airlifted from the Katy Freeway can generate a lien where the 50 percent cap, not the billed total, becomes the operative number.
 
 ### Minimum limits are the ceiling nobody mentions
 
-Transportation Code section 601.072 fixes the state minimum at $30,000 of coverage for one person's bodily injury, $60,000 where a single collision hurts two or more people, and $25,000 for property damage. A minimally insured driver who puts a rider in a trauma center has $30,000 of coverage behind him. Whether more exists depends on other policies, a commercial vehicle in the chain, or the rider's own uninsured and underinsured motorist coverage.
+Transportation Code section 601.072 fixes the state minimum at $30,000 of coverage for one person's bodily injury, $60,000 where a single collision hurts two or more people, and $25,000 for property damage. A minimally insured driver who puts a rider in a trauma center has $30,000 of coverage behind him. More may exist through other policies, a commercial vehicle in the chain, or the rider's own uninsured and underinsured motorist coverage.
 
 ### Ask these before signing anything in Harris County
 

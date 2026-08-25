@@ -1,219 +1,220 @@
 {
- "domain": "oceansidepersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Oceanside Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Oceanside",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "San Diego"
- ],
- "area_codes": [
-  "442",
-  "760"
- ],
- "phone_display": "(442) 246-8708",
- "phone_tel": "+14422468708",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "camp_pendleton_federal_claims",
-   "title": "Camp Pendleton claims may use a federal process",
-   "claim": "Marine Corps Base Camp Pendleton states that personal-injury, property-damage and wrongful-death claims caused by a government employee acting within the scope of employment may be recoverable under the Federal Tort Claims Act or Military Claims Act. Its Civil Law page directs completed claim packages to the appropriate federal processing agency and states that claims must be delivered within two years of accrual.",
-   "why_it_matters": "Oceanside borders Camp Pendleton. When an incident may involve base operations, a federal employee or government-owned equipment, the exact location, employer and agency record need to be identified early instead of assuming an ordinary California civil filing path.",
-   "sources": [
-    "https://www.pendleton.marines.mil/Main-Menu/Staff-Agencies/Legal-Assistance/Civil-Law/"
-   ],
-   "verified": "2026-08-22"
-  },
-  {
-   "id": "north_county_civil_court",
-   "title": "North County Superior Court in Vista hears civil matters",
-   "claim": "The San Diego Superior Court identifies the North County Regional Center at 325 South Melrose Drive in Vista as a full-service branch court that hears civil cases and has a venue encompassing most of Northern San Diego County.",
-   "why_it_matters": "The proper court and venue remain case-specific, but Oceanside claim review should preserve the incident address and full party names because North County court services are part of the local civil-court path.",
-   "sources": [
-    "https://www.sdcourt.ca.gov/sdcourt/generalinformation/courtlocations/northcountycourthouse"
-   ],
-   "verified": "2026-08-22"
-  },
-  {
-   "id": "oceanside_coastal_rail_corridor",
-   "title": "Oceanside’s coastal rail corridor has changing right-of-way conditions",
-   "claim": "North County Transit District documents separate fencing conditions along the Oceanside coastal rail corridor, including the segments from Morse Street to Cassidy Street, Cassidy Street to Vista Way, and Vista Way to Eaton Street.",
-   "why_it_matters": "An injury near the coastal corridor may sit beside different public, rail and private boundaries. A precise location, direction of travel, warning devices and responder information are more useful than a general description of being near the tracks.",
-   "sources": [
-    "https://gonctd.com/about-nctd/safety-security/trespasser-mitigation/eee/"
-   ],
-   "verified": "2026-08-22"
-  }
- ],
- "neighborhoods": [
-  "Downtown Oceanside",
-  "South Oceanside",
-  "Fire Mountain",
-  "Loma Alta",
-  "San Luis Rey",
-  "Rancho Del Oro"
- ],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "The published figures behind an Oceanside injury claim",
-  "col_a": "The item",
-  "col_b": "What the rule or the court publishes",
-  "anchors": [
-   {
-    "label": "Percentage ceiling California writes for a collision or fall claim",
-    "value": "None",
-    "detail": "The state forbids an unconscionable or illegal fee and stops there. No California statute names a rate for an ordinary injury matter.",
-    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "label": "Complaint in an unlimited civil case, San Diego County",
-    "value": "$435",
-    "detail": "Charged on any first paper pleading more than $35,000, whether it is filed at the North County Division in Vista or downtown.",
-    "source_name": "San Diego Superior Court civil fee schedule, item 1",
-    "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
-   },
-   {
-    "label": "Court reporter per diem, San Diego Superior Court",
-    "value": "$585 or $1,170",
-    "detail": "Half day and full day for a civil proceeding that runs past an hour. San Diego sets its own per diem under Government Code section 68086(a)(2).",
-    "source_name": "San Diego Superior Court civil fee schedule, item 68",
-    "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
-   },
-   {
-    "label": "What Medi-Cal may take back out of a settlement",
-    "value": "Never more than the patient keeps",
-    "detail": "The Director cannot recover more than the beneficiary recovers after attorney fees and litigation costs are deducted from the settlement, judgment or award.",
-    "source_name": "Cal. Welf. & Inst. Code 14124.78",
-    "source_url": "https://codes.findlaw.com/ca/welfare-and-institutions-code/wic-sect-14124-78/"
-   }
+  "domain": "oceansidepersonalinjurylawyerpros.com",
+  "phase": 2,
+  "brand": "Oceanside Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "vertical": "legal",
+  "city": "Oceanside",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "San Diego"
   ],
-  "fee_rows": [
-   {
-    "stage": "The one substantive limit on an injury fee",
-    "share": "Not unconscionable",
-    "note": "Unconscionability is judged on the facts existing when the agreement was signed, unless both sides expected later events to move the fee.",
-    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(b)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "stage": "Terms the contingency contract has to carry",
-    "share": "Rate, costs, related matters",
-    "note": "The agreed rate, how disbursements and costs hit both the fee and the recovery, and what else the client could owe outside the contract.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(a)(1)-(3)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
-   },
-   {
-    "stage": "The sentence the statute forces into the contract",
-    "share": "Not set by law, negotiable",
-    "note": "Outside a claim governed by section 6146, the writing must say the fee is not set by law but is negotiable between attorney and client.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(a)(4)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
-   },
-   {
-    "stage": "Motions after the first paper, San Diego County",
-    "share": "$60, or $500",
-    "note": "Sixty dollars for a discovery motion, a trial continuance or a noticed ex parte application; five hundred for summary judgment or adjudication.",
-    "source_name": "San Diego Superior Court civil fee schedule, items 46 and 52",
-    "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
-   },
-   {
-    "stage": "A case designated complex",
-    "share": "$1,000 each side, $18,000 ceiling",
-    "note": "One thousand dollars for all plaintiffs together and another thousand per defendant, capped at eighteen thousand for the whole case.",
-    "source_name": "San Diego Superior Court civil fee schedule, items 20 and 21",
-    "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
-   },
-   {
-    "stage": "Medical negligence, the single capped category",
-    "share": "25% then 33%",
-    "note": "The statutory ceiling applies to professional negligence claims against health care providers. It reaches no vehicle, premises or dog bite claim.",
-    "source_name": "Cal. Bus. & Prof. Code 6146(a)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6146.&lawCode=BPC"
-   }
-  ]
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "442",
+    "760"
+  ],
+  "phone_display": "(442) 246-8708",
+  "phone_tel": "+14422468708",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "camp_pendleton_federal_claims",
+      "title": "Camp Pendleton claims may use a federal process",
+      "claim": "Marine Corps Base Camp Pendleton states that personal-injury, property-damage and wrongful-death claims caused by a government employee acting within the scope of employment may be recoverable under the Federal Tort Claims Act or Military Claims Act. Its Civil Law page directs completed claim packages to the appropriate federal processing agency and states that claims must be delivered within two years of accrual.",
+      "why_it_matters": "Oceanside borders Camp Pendleton. When an incident may involve base operations, a federal employee or government-owned equipment, the exact location, employer and agency record need to be identified early instead of assuming an ordinary California civil filing path.",
+      "sources": [
+        "https://www.pendleton.marines.mil/Main-Menu/Staff-Agencies/Legal-Assistance/Civil-Law/"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "north_county_civil_court",
+      "title": "North County Superior Court in Vista hears civil matters",
+      "claim": "The San Diego Superior Court identifies the North County Regional Center at 325 South Melrose Drive in Vista as a full-service branch court that hears civil cases and has a venue encompassing most of Northern San Diego County.",
+      "why_it_matters": "The proper court and venue remain case-specific, but Oceanside claim review should preserve the incident address and full party names because North County court services are part of the local civil-court path.",
+      "sources": [
+        "https://www.sdcourt.ca.gov/sdcourt/generalinformation/courtlocations/northcountycourthouse"
+      ],
+      "verified": "2026-08-22"
+    },
+    {
+      "id": "oceanside_coastal_rail_corridor",
+      "title": "Oceanside’s coastal rail corridor has changing right-of-way conditions",
+      "claim": "North County Transit District documents separate fencing conditions along the Oceanside coastal rail corridor, including the segments from Morse Street to Cassidy Street, Cassidy Street to Vista Way, and Vista Way to Eaton Street.",
+      "why_it_matters": "An injury near the coastal corridor may sit beside different public, rail and private boundaries. A precise location, direction of travel, warning devices and responder information are more useful than a general description of being near the tracks.",
+      "sources": [
+        "https://gonctd.com/about-nctd/safety-security/trespasser-mitigation/eee/"
+      ],
+      "verified": "2026-08-22"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown Oceanside",
+    "South Oceanside",
+    "Fire Mountain",
+    "Loma Alta",
+    "San Luis Rey",
+    "Rancho Del Oro"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "The published figures behind an Oceanside injury claim",
+    "col_a": "The item",
+    "col_b": "What the rule or the court publishes",
+    "anchors": [
+      {
+        "label": "Percentage ceiling California writes for a collision or fall claim",
+        "value": "None",
+        "detail": "The state forbids an unconscionable or illegal fee and stops there. No California statute names a rate for an ordinary injury matter.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "Complaint in an unlimited civil case, San Diego County",
+        "value": "$435",
+        "detail": "Charged on any first paper pleading more than $35,000, whether it is filed at the North County Division in Vista or downtown.",
+        "source_name": "San Diego Superior Court civil fee schedule, item 1",
+        "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
+      },
+      {
+        "label": "Court reporter per diem, San Diego Superior Court",
+        "value": "$585 or $1,170",
+        "detail": "Half day and full day for a civil proceeding that runs past an hour. San Diego sets its own per diem under Government Code section 68086(a)(2).",
+        "source_name": "San Diego Superior Court civil fee schedule, item 68",
+        "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
+      },
+      {
+        "label": "What Medi-Cal may take back out of a settlement",
+        "value": "Never more than the patient keeps",
+        "detail": "The Director cannot recover more than the beneficiary recovers after attorney fees and litigation costs are deducted from the settlement, judgment or award.",
+        "source_name": "Cal. Welf. & Inst. Code 14124.78",
+        "source_url": "https://codes.findlaw.com/ca/welfare-and-institutions-code/wic-sect-14124-78/"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "The one substantive limit on an injury fee",
+        "share": "Not unconscionable",
+        "note": "Unconscionability is judged on the facts existing when the agreement was signed, unless both sides expected later events to move the fee.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5(b)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "Terms the contingency contract has to carry",
+        "share": "Rate, costs, related matters",
+        "note": "The agreed rate, how disbursements and costs hit both the fee and the recovery, and what else the client could owe outside the contract.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)(1)-(3)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "The sentence the statute forces into the contract",
+        "share": "Not set by law, negotiable",
+        "note": "Outside a claim governed by section 6146, the writing must say the fee is not set by law but is negotiable between attorney and client.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)(4)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "Motions after the first paper, San Diego County",
+        "share": "$60, or $500",
+        "note": "Sixty dollars for a discovery motion, a trial continuance or a noticed ex parte application; five hundred for summary judgment or adjudication.",
+        "source_name": "San Diego Superior Court civil fee schedule, items 46 and 52",
+        "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
+      },
+      {
+        "stage": "A case designated complex",
+        "share": "$1,000 each side, $18,000 ceiling",
+        "note": "One thousand dollars for all plaintiffs together and another thousand per defendant, capped at eighteen thousand for the whole case.",
+        "source_name": "San Diego Superior Court civil fee schedule, items 20 and 21",
+        "source_url": "https://www.sdcourt.ca.gov/pls/portal/docs/page/sdcourt/generalinformation/forms/adminforms/adm001.pdf"
+      },
+      {
+        "stage": "Medical negligence, the single capped category",
+        "share": "25% then 33%",
+        "note": "The statutory ceiling applies to professional negligence claims against health care providers. It reaches no vehicle, premises or dog bite claim.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6146.&lawCode=BPC"
+      }
+    ]
   },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "personal injury lawyer oceanside",
+    "monthly_price": 800,
+    "score": 89,
+    "volume": 150,
+    "cpc_usd": 60.0,
+    "weakest_competitor": "sargentlawfirm.com",
+    "competitor_dr": 21.0
   }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "personal injury lawyer oceanside",
-  "monthly_price": 800,
-  "score": 89,
-  "volume": 150,
-  "cpc_usd": 60.0,
-  "weakest_competitor": "sargentlawfirm.com",
-  "competitor_dr": 21.0
- }
 }

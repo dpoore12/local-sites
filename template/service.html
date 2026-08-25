@@ -5,7 +5,7 @@
       url('{{ base }}{{ svc.photo }}');">
   <div class="hero-inner">
     <span class="hero-eyebrow">{{ ico_pin | safe }}{{ s.city }}, {{ s.state }}</span>
-    <h1>{{ svc.h1 }} in {{ s.city }}, {{ s.state }}<span class="hero-accent">{{ svc.accent }}</span></h1>
+    <h1>{{ svc.h1 }} in {{ s.city }}, {{ s.state }} <span class="hero-accent">{{ svc.accent }}</span></h1>
     <p class="hero-lede">{{ svc_lede }}</p>
     <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     <p class="hero-note">{{ hero_note }}</p>
@@ -20,8 +20,14 @@
       {{ svc_body | safe }}
     </div>
     <div class="answer-box">
+      {# A law-firm page cannot promise a truck, a part, or a price up front. #}
+      {% if s.vertical == 'legal' %}
+      <p><strong>{{ svc.h1 }} in {{ s.city }}.</strong> Call {{ s.phone_display }} and a {{ s.city }} lawyer
+        reviews the claim and the deadline that applies. Nothing is signed on that call.</p>
+      {% else %}
       <p><strong>{{ svc.h1 }} in {{ s.city }}.</strong> Call {{ s.phone_display }} and a technician is
         dispatched with the parts on the truck. You get the price before the work starts.</p>
+      {% endif %}
       <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     </div>
   </div>
@@ -49,7 +55,7 @@
   <div class="band-inner">
     <div class="band-head">
       <span class="eyebrow">Local specifics</span>
-      <h2>Written for {{ s.city }},<br>not a national template</h2>
+      <h2>Written for {{ s.city }}, <br>not a national template</h2>
     </div>
     <div class="grid">
       {% for f in s.local_facts %}

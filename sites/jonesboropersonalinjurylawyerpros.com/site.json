@@ -1,9 +1,10 @@
 {
   "domain": "jonesboropersonalinjurylawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Jonesboro Personal Injury Law Pros",
   "service": "Personal Injury Lawyer",
   "service_inline": "personal injury lawyer",
+  "vertical": "legal",
   "city": "Jonesboro",
   "state": "AR",
   "state_full": "Arkansas",
@@ -137,7 +138,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "Published Arkansas figures behind a Craighead County injury claim, and the blank where a fee cap would be",
+    "table_head": "Published Arkansas figures, and the blank where a fee cap would be",
     "col_a": "What somebody is asking about",
     "col_b": "What Arkansas has written down",
     "anchors": [

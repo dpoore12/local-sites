@@ -4,6 +4,7 @@
   "brand": "Denver Furnace Repair Pros",
   "service": "Furnace Repair",
   "service_inline": "furnace repair",
+  "vertical": "home",
   "city": "Denver",
   "state": "CO",
   "state_full": "Colorado",
@@ -148,7 +149,7 @@
         "label": "Mechanical permit on a $6,000 changeout",
         "value": "$67",
         "detail": "Denver charges $35 for the first $2,000 of valuation and $8 for each additional $1,000, so a $6,000 furnace replacement is $67. Mechanical work is a quick permit category, issued without a plan review charge.",
-        "source_name": "Denver Community Planning and Development development fees",
+        "source_name": "Denver Community Planning and Development, development fees",
         "source_url": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Community-Planning-and-Development/Plan-Review-Permits-and-Inspections/Development-Fees"
       },
       {

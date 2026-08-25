@@ -1,219 +1,220 @@
 {
- "domain": "victorvillecaraccidentlawyerpros.com",
- "phase": 1,
- "brand": "Victorville Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "Victorville",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "San Bernardino"
- ],
- "area_codes": [
-  "442",
-  "760"
- ],
- "phone_display": "(442) 936-8681",
- "phone_tel": "+14429368681",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "i15_cajon_corridor",
-   "claim": "San Bernardino County’s I-15 Comprehensive Corridor Study reports 110,000 to 120,000 average daily vehicles at SR-138 and Cleghorn Road, Friday daily traffic above 130,000, holiday-Friday traffic nearing 150,000, and more than 90% autos on weekend days. The study corridor reaches the Mojave River crossing at Victorville.",
-   "why_it_matters": "A Victorville freeway collision may involve long-distance weekend travelers, multiple insurers, and witnesses or vehicles already headed out of the High Desert. The direction of travel, nearest exit, responding agency, tow yard, and original evidence need to be identified early rather than treated like a neighborhood-only crash.",
-   "sources": [
-    "https://www.gosbcta.com/wp-content/uploads/2019/10/I-Comprehensive-Corridor-Study.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "I-15 carries a distinct High Desert traffic mix"
-  },
-  {
-   "id": "cajon_pass_collision_context",
-   "claim": "The same county I-15 study describes Cajon Pass grades approaching 6% for roughly five miles, truck speeds restricted below 45 mph on the southbound descent while auto speeds exceed 65 mph, crash rates 58% above similar facilities, and rear-end collisions as the predominant crash type.",
-   "why_it_matters": "The road grade, speed differential, lane, traffic queue, and sequence of impacts can be central evidence in a freeway claim. A precise account is especially important in commercial-vehicle and multi-car crashes, where a broad description of “traffic stopped” may leave out the facts needed to evaluate fault.",
-   "sources": [
-    "https://www.gosbcta.com/wp-content/uploads/2019/10/I-Comprehensive-Corridor-Study.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Cajon Pass conditions make collision detail matter"
-  },
-  {
-   "id": "victorville_civil_division",
-   "claim": "The Superior Court of California, County of San Bernardino lists the Civil Division of the Victorville District at 14455 Civic Drive in Victorville. The court says the location accepts limited and unlimited civil matters and serves Victorville and several High Desert communities.",
-   "why_it_matters": "A nearby civil filing division is part of the practical local map after a serious crash. The proper venue still depends on the particular parties and facts, so it should be confirmed rather than assumed from an insurer’s correspondence or a mailing address.",
-   "sources": [
-    "https://www.sb-court.org/general-information/where-can-i-file"
-   ],
-   "verified": "2026-08-22",
-   "title": "Victorville has a civil division for High Desert filings"
-  }
- ],
- "neighborhoods": [
-  "Old Town",
-  "Green Tree",
-  "Green Tree East",
-  "Brentwood",
-  "Sunset Ridge",
-  "The College"
- ],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "San Bernardino County filing amounts, and the California rules that govern a fee",
-  "col_a": "Line item",
-  "col_b": "Published amount or requirement",
-  "anchors": [
-   {
-    "label": "Local courthouse construction surcharge",
-    "value": "$35",
-    "detail": "San Bernardino is one of three California counties whose first-paper filings carry a local surcharge, which is why limited civil filings cost more here than the statewide figure.",
-    "source_name": "San Bernardino Superior Court civil fee schedule appendix",
-    "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
-   },
-   {
-    "label": "Limited civil first paper, over $10,000 up to $35,000",
-    "value": "$380",
-    "detail": "Ten dollars above the $370 statewide amount once the surcharge is applied. A claim pleaded under $10,000 costs $240 here rather than $225.",
-    "source_name": "San Bernardino Superior Court civil fee schedule appendix",
-    "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
-   },
-   {
-    "label": "Percentage ceiling written into California law for a crash claim",
-    "value": "None",
-    "detail": "Rule 1.5 forbids an unconscionable or illegal fee and lists thirteen factors for judging one. It sets no rate for ordinary negligence work of any kind.",
-    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "label": "Contract defect remedy",
-    "value": "Voidable",
-    "detail": "A contingency agreement that omits anything section 6147 requires is voidable at the plaintiff's option, and the lawyer is then held to a reasonable fee instead.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(b)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
-   }
+  "domain": "victorvillecaraccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "Victorville Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "vertical": "legal",
+  "city": "Victorville",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "San Bernardino"
   ],
-  "fee_rows": [
-   {
-    "stage": "Unlimited civil first paper, San Bernardino",
-    "share": "$435",
-    "note": "The surcharge is offset in this tier, so the High Desert courthouses charge the same $435 as the rest of the state for a case pleading over $35,000.",
-    "source_name": "San Bernardino Superior Court civil fee schedule",
-    "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
-   },
-   {
-    "stage": "Limited civil first paper, San Bernardino",
-    "share": "$240 or $380",
-    "note": "Both figures include the county's $35 courthouse construction surcharge. The split falls at a $10,000 pleaded amount.",
-    "source_name": "San Bernardino Superior Court civil fee schedule appendix",
-    "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
-   },
-   {
-    "stage": "Jury fee and motion fees",
-    "share": "$150, $60, $500",
-    "note": "Nonrefundable advance jury fee, then sixty dollars per paper requiring a hearing and five hundred for a summary judgment motion.",
-    "source_name": "San Bernardino Superior Court civil fee schedule",
-    "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
-   },
-   {
-    "stage": "How a contingency rate is set",
-    "share": "By negotiation, in writing",
-    "note": "Section 6147 requires the rate in a signed contract, with a duplicate copy handed over, plus a statement that the fee is not fixed by law.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(a)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
-   },
-   {
-    "stage": "Malpractice claims, a separate rule",
-    "share": "25% or 33%",
-    "note": "Statutory ceilings that apply only to professional negligence claims against health care providers, measured on the net recovery after costs.",
-    "source_name": "Cal. Bus. & Prof. Code 6146(a)",
-    "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
-   },
-   {
-    "stage": "A health plan's reimbursement claim",
-    "share": "One-third maximum",
-    "note": "Where the injured person retained counsel, the plan lien cannot exceed a third of the money due, and it drops pro rata for the fees and costs that produced it.",
-    "source_name": "Cal. Civ. Code 3040(c)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3040.&lawCode=CIV"
-   }
-  ]
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "442",
+    "760"
+  ],
+  "phone_display": "(442) 936-8681",
+  "phone_tel": "+14429368681",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "i15_cajon_corridor",
+      "claim": "San Bernardino County’s I-15 Comprehensive Corridor Study reports 110,000 to 120,000 average daily vehicles at SR-138 and Cleghorn Road, Friday daily traffic above 130,000, holiday-Friday traffic nearing 150,000, and more than 90% autos on weekend days. The study corridor reaches the Mojave River crossing at Victorville.",
+      "why_it_matters": "A Victorville freeway collision may involve long-distance weekend travelers, multiple insurers, and witnesses or vehicles already headed out of the High Desert. The direction of travel, nearest exit, responding agency, tow yard, and original evidence need to be identified early rather than treated like a neighborhood-only crash.",
+      "sources": [
+        "https://www.gosbcta.com/wp-content/uploads/2019/10/I-Comprehensive-Corridor-Study.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "I-15 carries a distinct High Desert traffic mix"
+    },
+    {
+      "id": "cajon_pass_collision_context",
+      "claim": "The same county I-15 study describes Cajon Pass grades approaching 6% for roughly five miles, truck speeds restricted below 45 mph on the southbound descent while auto speeds exceed 65 mph, crash rates 58% above similar facilities, and rear-end collisions as the predominant crash type.",
+      "why_it_matters": "The road grade, speed differential, lane, traffic queue, and sequence of impacts can be central evidence in a freeway claim. A precise account is especially important in commercial-vehicle and multi-car crashes, where a broad description of “traffic stopped” may leave out the facts needed to evaluate fault.",
+      "sources": [
+        "https://www.gosbcta.com/wp-content/uploads/2019/10/I-Comprehensive-Corridor-Study.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Cajon Pass conditions make collision detail matter"
+    },
+    {
+      "id": "victorville_civil_division",
+      "claim": "The Superior Court of California, County of San Bernardino lists the Civil Division of the Victorville District at 14455 Civic Drive in Victorville. The court says the location accepts limited and unlimited civil matters and serves Victorville and several High Desert communities.",
+      "why_it_matters": "A nearby civil filing division is part of the practical local map after a serious crash. The proper venue still depends on the particular parties and facts, so it should be confirmed rather than assumed from an insurer’s correspondence or a mailing address.",
+      "sources": [
+        "https://www.sb-court.org/general-information/where-can-i-file"
+      ],
+      "verified": "2026-08-22",
+      "title": "Victorville has a civil division for High Desert filings"
+    }
+  ],
+  "neighborhoods": [
+    "Old Town",
+    "Green Tree",
+    "Green Tree East",
+    "Brentwood",
+    "Sunset Ridge",
+    "The College"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "San Bernardino County filing amounts, and the California rules that govern a fee",
+    "col_a": "Line item",
+    "col_b": "Published amount or requirement",
+    "anchors": [
+      {
+        "label": "Local courthouse construction surcharge",
+        "value": "$35",
+        "detail": "San Bernardino is one of three California counties whose first-paper filings carry a local surcharge, which is why limited civil filings cost more here than the statewide figure.",
+        "source_name": "San Bernardino Superior Court civil fee schedule appendix",
+        "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
+      },
+      {
+        "label": "Limited civil first paper, over $10,000 up to $35,000",
+        "value": "$380",
+        "detail": "Ten dollars above the $370 statewide amount once the surcharge is applied. A claim pleaded under $10,000 costs $240 here rather than $225.",
+        "source_name": "San Bernardino Superior Court civil fee schedule appendix",
+        "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
+      },
+      {
+        "label": "Percentage ceiling written into California law for a crash claim",
+        "value": "None",
+        "detail": "Rule 1.5 forbids an unconscionable or illegal fee and lists thirteen factors for judging one. It sets no rate for ordinary negligence work of any kind.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "Contract defect remedy",
+        "value": "Voidable",
+        "detail": "A contingency agreement that omits anything section 6147 requires is voidable at the plaintiff's option, and the lawyer is then held to a reasonable fee instead.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(b)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Unlimited civil first paper, San Bernardino",
+        "share": "$435",
+        "note": "The surcharge is offset in this tier, so the High Desert courthouses charge the same $435 as the rest of the state for a case pleading over $35,000.",
+        "source_name": "San Bernardino Superior Court civil fee schedule",
+        "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
+      },
+      {
+        "stage": "Limited civil first paper, San Bernardino",
+        "share": "$240 or $380",
+        "note": "Both figures include the county's $35 courthouse construction surcharge. The split falls at a $10,000 pleaded amount.",
+        "source_name": "San Bernardino Superior Court civil fee schedule appendix",
+        "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
+      },
+      {
+        "stage": "Jury fee and motion fees",
+        "share": "$150, $60, $500",
+        "note": "Nonrefundable advance jury fee, then sixty dollars per paper requiring a hearing and five hundred for a summary judgment motion.",
+        "source_name": "San Bernardino Superior Court civil fee schedule",
+        "source_url": "https://sanbernardino.courts.ca.gov/system/files/civil/feesched.pdf"
+      },
+      {
+        "stage": "How a contingency rate is set",
+        "share": "By negotiation, in writing",
+        "note": "Section 6147 requires the rate in a signed contract, with a duplicate copy handed over, plus a statement that the fee is not fixed by law.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "Malpractice claims, a separate rule",
+        "share": "25% or 33%",
+        "note": "Statutory ceilings that apply only to professional negligence claims against health care providers, measured on the net recovery after costs.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+        "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
+      },
+      {
+        "stage": "A health plan's reimbursement claim",
+        "share": "One-third maximum",
+        "note": "Where the injured person retained counsel, the plan lien cannot exceed a third of the money due, and it drops pro rata for the fees and costs that produced it.",
+        "source_name": "Cal. Civ. Code 3040(c)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=3040.&lawCode=CIV"
+      }
+    ]
   },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "car accident lawyer victorville",
+    "monthly_price": 500,
+    "score": 89,
+    "volume": 200,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "elawfirm.net",
+    "competitor_dr": 8.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "car accident lawyer victorville",
-  "monthly_price": 500,
-  "score": 89,
-  "volume": 200,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "elawfirm.net",
-  "competitor_dr": 8.0
- }
 }

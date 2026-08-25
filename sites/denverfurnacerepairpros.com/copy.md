@@ -237,7 +237,7 @@ The visible vent system—metal on some furnaces, listed intake/exhaust on many 
 
 ### What a complete repair visit checks
 
-The work begins with basic conditions: thermostat mode, power supply, filter installation, accessible returns, cabinet door switch, fault history and visible signs of water, corrosion or overheated wiring. Then the furnace is observed through a controlled call for heat. Combustion-side checks can include inducer operation, ignition, flame sensing, burner appearance, vent connection and applicable drainage. Air-side checks can include blower operation, motor current, wheel condition, filter restriction, return access, supply temperature response and whether a high-limit condition is ending the cycle.
+Diagnosis begins with basic conditions: thermostat mode, power supply, filter installation, accessible returns, cabinet door switch, fault history and visible signs of water, corrosion or overheated wiring. Then the furnace is observed through a controlled call for heat. Combustion-side checks can include inducer operation, ignition, flame sensing, burner appearance, vent connection and applicable drainage. Air-side checks can include blower operation, motor current, wheel condition, filter restriction, return access, supply temperature response and whether a high-limit condition is ending the cycle.
 
 The recommendation should name the confirmed component and any condition that caused the failure. A sensor, capacitor or control should not be offered as a shortcut around an unresolved airflow, combustion or vent problem.
 
@@ -382,7 +382,7 @@ Clear a path to the equipment, point out the rooms with poor delivery, and descr
 
 ## services_pick_head
 
-Choose the furnace problem that best matches what the equipment is doing.
+Choose the furnace problem that best matches what the equipment is doing
 
 ## crosslink_head
 

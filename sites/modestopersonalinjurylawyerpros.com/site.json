@@ -1,9 +1,10 @@
 {
   "domain": "modestopersonalinjurylawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Modesto Personal Injury Law Pros",
   "service": "Personal Injury Lawyer",
   "service_inline": "personal injury lawyer",
+  "vertical": "legal",
   "city": "Modesto",
   "state": "CA",
   "state_full": "California",
@@ -57,7 +58,7 @@
       "id": "civil_court_location",
       "title": "Stanislaus County civil court is in downtown Modesto",
       "claim": "The Superior Court of California, County of Stanislaus lists City Towers Courthouse (Civil) at 801 10th Street in Modesto, with civil departments and the Civil Clerk’s Office in the building.",
-      "why_it_matters": "A dispute that proceeds beyond an agency claim process is handled through a defined local civil court structure, not through a generic claims office.",
+      "why_it_matters": "A dispute that proceeds beyond an agency claim process moves into the Stanislaus County civil courts, which set their own filing steps and hearing dates.",
       "sources": [
         "https://www.stanislaus.courts.ca.gov/",
         "https://www.stanislaus.courts.ca.gov/location/city-towers-courthouse-civil"
@@ -141,7 +142,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "Three separate questions in a Stanislaus County injury claim: the fee standard, the caps on other case types, and the clerk's amounts",
+    "table_head": "The fee standard, the caps on other case types, and Stanislaus County filing costs",
     "col_a": "Question being asked",
     "col_b": "The published answer",
     "anchors": [

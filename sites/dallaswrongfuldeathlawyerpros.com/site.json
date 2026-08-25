@@ -4,6 +4,7 @@
   "brand": "Dallas Wrongful Death Law Pros",
   "service": "Wrongful Death Lawyer",
   "service_inline": "wrongful death lawyer",
+  "vertical": "legal",
   "city": "Dallas",
   "state": "TX",
   "state_full": "Texas",
@@ -142,7 +143,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "What the Texas fee rule requires of a Dallas County death case, and what the two clerks charge to run one",
+    "table_head": "What the Texas fee rule requires, and what the two clerks charge",
     "col_a": "What it covers",
     "col_b": "What Texas sets",
     "anchors": [

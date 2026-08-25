@@ -67,7 +67,7 @@ Get a technician out to the door and a price before the work starts. If a spring
 Garage door work in Naperville splits into four jobs that get confused with each other constantly. Spring replacement is the most common and the most dangerous to attempt yourself. Opener repair covers worn drive gears, failed capacitors, misaligned safety sensors, and force settings that have drifted out of adjustment. Track and roller work covers doors that bind, doors that have jumped the rail, and wind-bent sections. Panel and full door replacement is the only one of the four that turns into a permit question, and only when the size or style of the opening changes.
 
 ## about_summary
-This is a Naperville-only page. It exists to do one thing well: help someone standing in their garage at seven in the morning figure out what just broke, and put them in touch with a technician who works in DuPage and Will County rather than a lead marketplace that will sell the same call four times. The troubleshooting on this page was written for Naperville's specific housing mix, from the 1960s tilt-up doors in Cress Creek to the torsion-bar sectionals in the subdivisions built after 1990.
+This is a Naperville-only page. It exists to do one thing well: help someone standing in their garage at seven in the morning figure out what just broke. Then it points them to a technician who works in DuPage and Will County rather than a lead marketplace that will sell the same call four times. The troubleshooting on this page was written for Naperville's specific housing mix, from the 1960s tilt-up doors in Cress Creek to the torsion-bar sectionals in the subdivisions built after 1990.
 
 ## value_1_title
 Same-day in most of Naperville
@@ -231,7 +231,7 @@ A door off its track is held up by whatever is left of the cables and rollers, a
 
 ### The three things that cause it
 
-**A cable came off the drum.** Steel lift cables run from the bottom bracket up to a grooved drum at each end of the torsion bar. If one unspools — often after a spring break drops the door hard — that side loses support and the door racks in the opening. The tell is one side sitting noticeably lower than the other with a slack cable visible along the jamb.
+**One cable came off the drum.** Steel lift cables run from the bottom bracket up to a grooved drum at each end of the torsion bar. If one unspools — often after a spring break drops the door hard — that side loses support and the door racks in the opening. The tell is one side sitting noticeably lower than the other with a slack cable visible along the jamb.
 
 **A roller left the track.** Rollers are the small wheels on the edge of each section. Nylon ones go brittle and crack; steel ones seize when the bearings dry out. A seized roller drags instead of rolling, and eventually climbs out of the track, usually at the curve where the vertical section turns horizontal.
 
@@ -354,13 +354,13 @@ Climate does the rest. Freeze and thaw cycles, road salt carried in on tires and
 
 ### What the city charges, and what it does not
 
-The distinction matters. Naperville's building permit guidance requires a permit when a door replacement alters the size or style of the opening or puts a door in a new location. A straight like-for-like swap is not on the permit-required list, and a spring, cable, roller or opener repair is service on an existing door rather than a replacement. When a permit does apply, the residential fee schedule adopted under Ordinance 18-145 charges an $18 clerical fee plus $25 per plan page for miscellaneous residential permits, with $50 for the inspection and $68 for any reinspection, payable before the return visit is booked. Anyone proposing a wider opening, a taller door or added glass should be describing that filing as part of the timeline. Confirm the specific scope with the city before ordering, because the fee is trivial next to the delay of discovering the requirement afterward.
+The distinction matters. Naperville's building permit guidance requires a permit when a door replacement alters the size or style of the opening or puts a door in a new location. A straight like-for-like swap is not on the permit-required list, and a spring, cable, roller or opener repair is service on an existing door rather than a replacement. When a permit does apply, the residential fee schedule adopted under Ordinance 18-145 charges an $18 clerical fee plus $25 per plan page for miscellaneous residential permits, with $50 for the inspection and $68 for any reinspection, payable before the return visit is booked. Anyone proposing a wider opening, a taller door or added glass should describe that filing as part of the timeline. Confirm the scope with the city before ordering, because the fee is trivial next to the delay of discovering it afterward.
 
 ### Testing a quote before signing it
 
 Ask for the spring specification written out: wire diameter, inside diameter, overall length, and cycle rating. A 25,000-cycle spring costs more than a 10,000-cycle spring and lasts proportionally longer, so the rating is a price factor rather than a detail. Confirm whether the number covers both springs, because a shaft with one new spring and one original is half repaired. On an opener, look for the drive type, the horsepower class, whether battery backup is included, and whether the safety reversing sensors and wall control are new hardware or the old ones reused.
 
-On a replacement, the paperwork should name the manufacturer and model, the gauge of the steel, the insulation value, the window and hardware options, the color, the permit if one applies, jamb and header repair if the framing needs it, removal and disposal of the old door, and a realistic delivery date. Insulated doors in a chosen color are built to order, not pulled from a shelf.
+On a replacement, the paperwork should name the manufacturer and model, the gauge of the steel, the insulation value, the window and hardware options, and the color. It should also cover the permit if one applies, jamb and header repair if the framing needs it, removal and disposal of the old door, and a realistic delivery date. Insulated doors in a chosen color are built to order, not pulled from a shelf.
 
 ### The traps worth naming
 

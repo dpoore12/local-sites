@@ -1,9 +1,10 @@
 {
   "domain": "newportbeachduilawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Newport Beach DUI Law Pros",
   "service": "DUI Lawyer",
   "service_inline": "dui lawyer",
+  "vertical": "legal",
   "city": "Newport Beach",
   "state": "CA",
   "state_full": "California",
@@ -137,7 +138,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "criminal",
-    "table_head": "What California law and Orange County set in a Newport Beach DUI case, and what no lawyer may charge",
+    "table_head": "What California and Orange County set, and what no lawyer may charge",
     "col_a": "What it covers",
     "col_b": "What the law sets",
     "anchors": [

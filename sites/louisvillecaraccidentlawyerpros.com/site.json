@@ -1,219 +1,220 @@
 {
- "domain": "louisvillecaraccidentlawyerpros.com",
- "phase": 1,
- "brand": "Louisville Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "Louisville",
- "state": "KY",
- "state_full": "Kentucky",
- "counties": [
-  "Jefferson"
- ],
- "area_codes": [
-  "502"
- ],
- "phone_display": "(502) 268-4918",
- "phone_tel": "+15022684918",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "kentucky_no_fault_election",
-   "claim": "Kentucky generally treats drivers as having accepted motor-vehicle-reparations tort limitations, but a person can reject those limits only by a written or electronic form filed with the Department of Insurance before the crash. Basic reparation benefits for one person's economic loss are capped at $10,000 per accident.",
-   "why_it_matters": "A Louisville crash claim must start by finding the declarations page and any rejection form. A driver who accepted the limits may still qualify for a noneconomic claim through the statute's medical-expense threshold or serious-injury categories; a driver with a timely rejection retains full tort rights but may affect basic-reparation-benefit eligibility.",
-   "sources": [
-    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30030",
-    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57854"
-   ],
-   "verified": "2026-08-22",
-   "title": "Your policy election can change the right to sue"
-  },
-  {
-   "id": "jefferson_circuit_court",
-   "claim": "The Kentucky Court of Justice lists the Jefferson County Judicial Center, 700 W. Jefferson St. in Louisville, as housing Circuit Court and identifies Circuit Civil/Criminal among its functions.",
-   "why_it_matters": "A lawsuit is a formal Jefferson County court process, not an insurer negotiation tactic. Before filing, the parties, evidence, coverage documents, pleading requirements, and applicable timing need to fit the actual case and court.",
-   "sources": [
-    "https://kycourts.gov/Courts/County-Information/Pages/Jefferson.aspx"
-   ],
-   "verified": "2026-08-22",
-   "title": "Civil auto-injury cases have a local court path"
-  },
-  {
-   "id": "jefferson_crashes_2024",
-   "claim": "KYTC's 2020-2024 traffic crash analysis reports 25,417 public-road crashes in Jefferson County in 2024; 4.2% were fatal or injury crashes in the county table.",
-   "why_it_matters": "The volume of Louisville-area collisions makes early preservation practical: obtain the report number, identify witnesses, document the scene and vehicles, and request any nearby video before it is overwritten.",
-   "sources": [
-    "https://transportation.ky.gov/HighwaySafety/KYTrafficCrashAnalysis/AnalysisTrafficCrash2020-2024.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Jefferson County's crash volume makes early evidence preservation matter"
-  }
- ],
- "neighborhoods": [
-  "Old Louisville",
-  "The Highlands",
-  "Germantown",
-  "NuLu",
-  "Clifton",
-  "Crescent Hill"
- ],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What Kentucky law and Supreme Court rule fix for a Jefferson County collision claim",
-  "col_a": "What it covers",
-  "col_b": "What Kentucky sets",
-  "anchors": [
-   {
-    "label": "Cap on a collision fee percentage",
-    "value": "None",
-    "detail": "Kentucky's rule forbids an unreasonable fee and an unreasonable amount for expenses, then lists eight factors. It states no percentage for injury work.",
-    "source_name": "Ky. SCR 3.130(1.5)(a)",
-    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
-   },
-   {
-    "label": "Circuit Court civil filing fee",
-    "value": "$188",
-    "detail": "Paid to the circuit clerk when the case is filed, with a $20 court technology fee and other required charges on top.",
-    "source_name": "Supreme Court of Kentucky order 2026-15, CR 3.02(1)",
-    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202615.pdf"
-   },
-   {
-    "label": "Ceiling on a workers' compensation fee",
-    "value": "$18,000",
-    "detail": "Kentucky's one tiered fee schedule: a fifth of the first $25,000, 15 percent of the next $25,000, a tenth of the rest, and never more than this.",
-    "source_name": "KRS 342.320(2)(a)",
-    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
-   },
-   {
-    "label": "Limit on basic reparation benefits",
-    "value": "$10,000",
-    "detail": "The statutory maximum for all economic loss to one injured person from one crash, no matter how many carriers owe the benefit.",
-    "source_name": "KRS 304.39-020(2)",
-    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57854"
-   }
+  "domain": "louisvillecaraccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "Louisville Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "vertical": "legal",
+  "city": "Louisville",
+  "state": "KY",
+  "state_full": "Kentucky",
+  "counties": [
+    "Jefferson"
   ],
-  "fee_rows": [
-   {
-    "stage": "Share of a collision recovery",
-    "share": "No fixed ceiling",
-    "note": "The test is reasonableness across eight listed factors, including local custom, the result obtained and whether the fee is fixed or contingent.",
-    "source_name": "Ky. SCR 3.130(1.5)(a)",
-    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
-   },
-   {
-    "stage": "Written agreement and expense warning",
-    "share": "Signed by the client",
-    "note": "It must state percentages, list expenses deducted, say whether they come off first, and warn plainly about expenses owed even after a loss.",
-    "source_name": "Ky. SCR 3.130(1.5)(c)",
-    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
-   },
-   {
-    "stage": "Matters where a result-based fee is barred",
-    "share": "Criminal and divorce",
-    "note": "Kentucky forbids it for a criminal defendant and in domestic cases turning on divorce, alimony or support, apart from liquidated arrearages.",
-    "source_name": "Ky. SCR 3.130(1.5)(d)",
-    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
-   },
-   {
-    "stage": "Work injury fee schedule",
-    "share": "20% / 15% / 10%, capped at $18,000",
-    "note": "Approved by an administrative law judge, paid from the award, with the approval motion due inside 30 days of finality.",
-    "source_name": "KRS 342.320(2)(a), (3)",
-    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
-   },
-   {
-    "stage": "Filing the lawsuit in Jefferson Circuit Court",
-    "share": "$188 plus $20",
-    "note": "The rule adds a court technology fee and other required charges such as the court facility and library fees to the base filing fee.",
-    "source_name": "Ky. CR 3.02(1), 2026 order",
-    "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202615.pdf"
-   },
-   {
-    "stage": "Threshold before pain and suffering is claimable",
-    "share": "$1,000",
-    "note": "Medical expense benefits must pass that figure unless a fracture, permanent injury, disfigurement, loss of a body member or death is involved.",
-    "source_name": "KRS 304.39-060(2)(b)",
-    "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30030"
-   }
-  ]
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "502"
+  ],
+  "phone_display": "(502) 268-4918",
+  "phone_tel": "+15022684918",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "kentucky_no_fault_election",
+      "claim": "Kentucky generally treats drivers as having accepted motor-vehicle-reparations tort limitations, but a person can reject those limits only by a written or electronic form filed with the Department of Insurance before the crash. Basic reparation benefits for one person's economic loss are capped at $10,000 per accident.",
+      "why_it_matters": "A Louisville crash claim must start by finding the declarations page and any rejection form. A driver who accepted the limits may still qualify for a noneconomic claim through the statute's medical-expense threshold or serious-injury categories; a driver with a timely rejection retains full tort rights but may affect basic-reparation-benefit eligibility.",
+      "sources": [
+        "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30030",
+        "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57854"
+      ],
+      "verified": "2026-08-22",
+      "title": "Your policy election can change the right to sue"
+    },
+    {
+      "id": "jefferson_circuit_court",
+      "claim": "The Kentucky Court of Justice lists the Jefferson County Judicial Center, 700 W. Jefferson St. in Louisville, as housing Circuit Court and identifies Circuit Civil/Criminal among its functions.",
+      "why_it_matters": "A lawsuit is a formal Jefferson County court process, not an insurer negotiation tactic. Before filing, the parties, evidence, coverage documents, pleading requirements, and applicable timing need to fit the actual case and court.",
+      "sources": [
+        "https://kycourts.gov/Courts/County-Information/Pages/Jefferson.aspx"
+      ],
+      "verified": "2026-08-22",
+      "title": "Civil auto-injury cases have a local court path"
+    },
+    {
+      "id": "jefferson_crashes_2024",
+      "claim": "KYTC's 2020-2024 traffic crash analysis reports 25,417 public-road crashes in Jefferson County in 2024; 4.2% were fatal or injury crashes in the county table.",
+      "why_it_matters": "The volume of Louisville-area collisions makes early preservation practical: obtain the report number, identify witnesses, document the scene and vehicles, and request any nearby video before it is overwritten.",
+      "sources": [
+        "https://transportation.ky.gov/HighwaySafety/KYTrafficCrashAnalysis/AnalysisTrafficCrash2020-2024.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Jefferson County's crash volume makes early evidence preservation matter"
+    }
+  ],
+  "neighborhoods": [
+    "Old Louisville",
+    "The Highlands",
+    "Germantown",
+    "NuLu",
+    "Clifton",
+    "Crescent Hill"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Kentucky law and Supreme Court rule fix for a Jefferson County collision claim",
+    "col_a": "What it covers",
+    "col_b": "What Kentucky sets",
+    "anchors": [
+      {
+        "label": "Cap on a collision fee percentage",
+        "value": "None",
+        "detail": "Kentucky's rule forbids an unreasonable fee and an unreasonable amount for expenses, then lists eight factors. It states no percentage for injury work.",
+        "source_name": "Ky. SCR 3.130(1.5)(a)",
+        "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+      },
+      {
+        "label": "Circuit Court civil filing fee",
+        "value": "$188",
+        "detail": "Paid to the circuit clerk when the case is filed, with a $20 court technology fee and other required charges on top.",
+        "source_name": "Supreme Court of Kentucky order 2026-15, CR 3.02(1)",
+        "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202615.pdf"
+      },
+      {
+        "label": "Ceiling on a workers' compensation fee",
+        "value": "$18,000",
+        "detail": "Kentucky's one tiered fee schedule: a fifth of the first $25,000, 15 percent of the next $25,000, a tenth of the rest, and never more than this.",
+        "source_name": "KRS 342.320(2)(a)",
+        "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
+      },
+      {
+        "label": "Limit on basic reparation benefits",
+        "value": "$10,000",
+        "detail": "The statutory maximum for all economic loss to one injured person from one crash, no matter how many carriers owe the benefit.",
+        "source_name": "KRS 304.39-020(2)",
+        "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57854"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Share of a collision recovery",
+        "share": "No fixed ceiling",
+        "note": "The test is reasonableness across eight listed factors, including local custom, the result obtained and whether the fee is fixed or contingent.",
+        "source_name": "Ky. SCR 3.130(1.5)(a)",
+        "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+      },
+      {
+        "stage": "Written agreement and expense warning",
+        "share": "Signed by the client",
+        "note": "It must state percentages, list expenses deducted, say whether they come off first, and warn plainly about expenses owed even after a loss.",
+        "source_name": "Ky. SCR 3.130(1.5)(c)",
+        "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+      },
+      {
+        "stage": "Matters where a result-based fee is barred",
+        "share": "Criminal and divorce",
+        "note": "Kentucky forbids it for a criminal defendant and in domestic cases turning on divorce, alimony or support, apart from liquidated arrearages.",
+        "source_name": "Ky. SCR 3.130(1.5)(d)",
+        "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/200905.pdf"
+      },
+      {
+        "stage": "Work injury fee schedule",
+        "share": "20% / 15% / 10%, capped at $18,000",
+        "note": "Approved by an administrative law judge, paid from the award, with the approval motion due inside 30 days of finality.",
+        "source_name": "KRS 342.320(2)(a), (3)",
+        "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
+      },
+      {
+        "stage": "Filing the lawsuit in Jefferson Circuit Court",
+        "share": "$188 plus $20",
+        "note": "The rule adds a court technology fee and other required charges such as the court facility and library fees to the base filing fee.",
+        "source_name": "Ky. CR 3.02(1), 2026 order",
+        "source_url": "https://www.kycourts.gov/Courts/Supreme-Court/Supreme%20Court%20Orders/202615.pdf"
+      },
+      {
+        "stage": "Threshold before pain and suffering is claimable",
+        "share": "$1,000",
+        "note": "Medical expense benefits must pass that figure unless a fracture, permanent injury, disfigurement, loss of a body member or death is involved.",
+        "source_name": "KRS 304.39-060(2)(b)",
+        "source_url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30030"
+      }
+    ]
   },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "car accident lawyer louisville",
+    "monthly_price": 800,
+    "score": 79,
+    "volume": 200,
+    "cpc_usd": 45.0,
+    "weakest_competitor": "kytrial.com",
+    "competitor_dr": 22.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "car accident lawyer louisville",
-  "monthly_price": 800,
-  "score": 79,
-  "volume": 200,
-  "cpc_usd": 45.0,
-  "weakest_competitor": "kytrial.com",
-  "competitor_dr": 22.0
- }
 }

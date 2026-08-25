@@ -1,9 +1,10 @@
 {
   "domain": "longbeachpersonalinjurylawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Long Beach Personal Injury Law Pros",
   "service": "Personal Injury Lawyer",
   "service_inline": "personal injury lawyer",
+  "vertical": "legal",
   "city": "Long Beach",
   "state": "CA",
   "state_full": "California",
@@ -55,7 +56,7 @@
       "id": "long_beach_civil_departments",
       "title": "Civil trial departments are listed in Long Beach",
       "claim": "Los Angeles Superior Court’s civil trial courtroom list identifies Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue, Long Beach, California 90802.",
-      "why_it_matters": "Court procedure and venue are case-specific, but a local claim may involve a courthouse close to the city rather than an abstract statewide process.",
+      "why_it_matters": "Court procedure and venue are case-specific, but a Long Beach claim is usually heard at a courthouse near the city, on that court's own calendar and deadlines.",
       "sources": [
         "https://www.lacourt.org/division/civil/pdf/Trial_Courtrooms.pdf"
       ],
@@ -138,7 +139,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "What the contract has to say in a Long Beach injury claim, and what the Los Angeles courthouse collects",
+    "table_head": "What the contract has to say, and what the courthouse collects",
     "col_a": "Document or filing",
     "col_b": "What the statute or schedule requires",
     "anchors": [

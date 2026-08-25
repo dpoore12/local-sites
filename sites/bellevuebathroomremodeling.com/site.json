@@ -1,9 +1,10 @@
 {
   "domain": "bellevuebathroomremodeling.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Bellevue Bathroom Remodeling Pros",
   "service": "Bathroom Remodeling",
   "service_inline": "bathroom remodeling",
+  "vertical": "home",
   "city": "Bellevue",
   "state": "NE",
   "state_full": "Nebraska",

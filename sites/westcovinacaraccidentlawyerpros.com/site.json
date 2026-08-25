@@ -1,219 +1,220 @@
 {
- "domain": "westcovinacaraccidentlawyerpros.com",
- "phase": 1,
- "brand": "West Covina Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "West Covina",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Los Angeles"
- ],
- "area_codes": [
-  "626"
- ],
- "phone_display": "(626) 263-8045",
- "phone_tel": "+16262638045",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "i10_bridge_preservation",
-   "claim": "Caltrans scheduled bridge-preservation work on eastbound I-10 in West Covina between Pacific Avenue/West Covina Parkway and Sunset Avenue, with recurring weekend ramp and lane closures continuing through fall 2026.",
-   "why_it_matters": "A freeway crash file should identify the travel direction, nearest ramp, lane, time, and any work-zone or detour condition. “I-10 in West Covina” is too broad to reconstruct the traffic setup or locate the right records.",
-   "sources": [
-    "https://dot.ca.gov/caltrans-near-me/district-7/district-7-news/d7-55hr-extended-lane-closure-eb-i10-westcovina-bridge-preservation"
-   ],
-   "verified": "2026-08-22",
-   "title": "The I-10 scene may include ramp and work-zone conditions"
-  },
-  {
-   "id": "local_collision_patterns",
-   "claim": "West Covina’s 2022 Local Roadway Safety Plan, using 2017–2021 collision data, lists unsafe speed as the leading recorded cause at 24.4%, followed by improper turning at 19.5%; 34% of collisions occurred at night or during dusk or dawn.",
-   "why_it_matters": "Those are citywide patterns, not proof in one case. They show why the exact movement, signal or ramp, lighting, traffic conditions, and source of speed evidence should be documented rather than assumed.",
-   "sources": [
-    "https://records.westcovina.org/WebLink/DocView.aspx?id=68598&dbid=0&repo=WestCovina"
-   ],
-   "verified": "2026-08-22",
-   "title": "The location, lighting, and movement deserve to be recorded precisely"
-  },
-  {
-   "id": "east_district_civil_path",
-   "claim": "Los Angeles Superior Court lists West Covina as an East District court location and notes that Pomona civil cases were reassigned to the West Covina Courthouse on June 1, 2012. The Court also cautions that an address’s district does not necessarily determine where a case is or must be assigned.",
-   "why_it_matters": "A West Covina injury case should not be assumed to belong in the downtown courthouse merely because it is in Los Angeles County. Case type, local rules, and the facts govern the civil filing path.",
-   "sources": [
-    "https://www.lacourt.org/division/civil/pdf/civilcasenumbermatrix.pdf",
-    "https://www.lacourt.org/page/FL0105"
-   ],
-   "verified": "2026-08-22",
-   "title": "Los Angeles County civil filing has a local East District path"
-  }
- ],
- "neighborhoods": [
-  "South Hills",
-  "Woodside Village",
-  "Eastland",
-  "Azusa-Cameron",
-  "Cortez Park",
-  "Westside West Covina"
- ],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "Los Angeles Superior Court amounts, and the California limits on a fee",
-  "col_a": "What gets billed",
-  "col_b": "Amount or rule",
-  "anchors": [
-   {
-    "label": "Court reporter per diem, Los Angeles Superior Court",
-    "value": "$382 / $764",
-    "detail": "Three hundred eighty-two dollars for a civil proceeding running more than one hour but under four, and seven hundred sixty-four for four hours or more. Thirty dollars covers an hour or less.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "label": "Complex case designation",
-    "value": "$1,000",
-    "detail": "One thousand dollars for all plaintiffs and another thousand for each defendant, to a ceiling of $18,000 per case, on top of the ordinary first-paper fee.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "label": "Daily jury deposit after the first day",
-    "value": "$15 plus mileage",
-    "detail": "Los Angeles sets the running deposit at fifteen dollars per juror per day plus thirty-four cents a mile one way, deposited at the start of each session.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "label": "Statutory percentage for an auto injury fee",
-    "value": "Not set by statute",
-    "detail": "California controls the fee through an unconscionability standard and a written-contract statute. The rate itself is negotiated between the injured person and the lawyer.",
-    "source_name": "Cal. Rules of Prof. Conduct, rule 1.5",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   }
+  "domain": "westcovinacaraccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "West Covina Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "vertical": "legal",
+  "city": "West Covina",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Los Angeles"
   ],
-  "fee_rows": [
-   {
-    "stage": "Opening the case",
-    "share": "$435",
-    "note": "First paper in an unlimited civil case, and again for each other party's first paper. Limited civil filings run $370 or $225 by pleaded amount.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "stage": "Motions",
-    "share": "$60, or $500",
-    "note": "Sixty dollars for any paper requiring a hearing, including discovery motions and trial continuances; five hundred for summary judgment or summary adjudication.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "stage": "Keeping the jury",
-    "share": "$150 in advance",
-    "note": "Nonrefundable, and waived if unpaid by the deadline. After day one the Los Angeles deposit is fifteen dollars per juror per day plus mileage.",
-    "source_name": "Cal. Code Civ. Proc. 631(b)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=631.&lawCode=CCP"
-   },
-   {
-    "stage": "The fee agreement",
-    "share": "Written, duplicate, negotiable",
-    "note": "Section 6147 requires the rate, the treatment of costs, and a statement that the fee is not set by law, in a contract signed by both sides.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(a)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
-   },
-   {
-    "stage": "Health care malpractice claims",
-    "share": "25% pre-filing, 33% after",
-    "note": "A statutory ceiling limited to professional negligence claims against health care providers, with more allowed only by motion for good cause.",
-    "source_name": "Cal. Bus. & Prof. Code 6146(a)",
-    "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
-   },
-   {
-    "stage": "Costs a winning party can shift",
-    "share": "Enumerated list",
-    "note": "Filing, motion and jury fees, depositions, service of process and court-ordered experts are recoverable; investigation expenses and uninvited experts are not.",
-    "source_name": "Cal. Code Civ. Proc. 1033.5",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1033.5.&lawCode=CCP"
-   }
-  ]
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "626"
+  ],
+  "phone_display": "(626) 263-8045",
+  "phone_tel": "+16262638045",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "i10_bridge_preservation",
+      "claim": "Caltrans scheduled bridge-preservation work on eastbound I-10 in West Covina between Pacific Avenue/West Covina Parkway and Sunset Avenue, with recurring weekend ramp and lane closures continuing through fall 2026.",
+      "why_it_matters": "A freeway crash file should identify the travel direction, nearest ramp, lane, time, and any work-zone or detour condition. “I-10 in West Covina” is too broad to reconstruct the traffic setup or locate the right records.",
+      "sources": [
+        "https://dot.ca.gov/caltrans-near-me/district-7/district-7-news/d7-55hr-extended-lane-closure-eb-i10-westcovina-bridge-preservation"
+      ],
+      "verified": "2026-08-22",
+      "title": "The I-10 scene may include ramp and work-zone conditions"
+    },
+    {
+      "id": "local_collision_patterns",
+      "claim": "West Covina’s 2022 Local Roadway Safety Plan, using 2017–2021 collision data, lists unsafe speed as the leading recorded cause at 24.4%, followed by improper turning at 19.5%; 34% of collisions occurred at night or during dusk or dawn.",
+      "why_it_matters": "Those are citywide patterns, not proof in one case. They show why the exact movement, signal or ramp, lighting, traffic conditions, and source of speed evidence should be documented rather than assumed.",
+      "sources": [
+        "https://records.westcovina.org/WebLink/DocView.aspx?id=68598&dbid=0&repo=WestCovina"
+      ],
+      "verified": "2026-08-22",
+      "title": "The location, lighting, and movement deserve to be recorded precisely"
+    },
+    {
+      "id": "east_district_civil_path",
+      "claim": "Los Angeles Superior Court lists West Covina as an East District court location and notes that Pomona civil cases were reassigned to the West Covina Courthouse on June 1, 2012. The Court also cautions that an address’s district does not necessarily determine where a case is or must be assigned.",
+      "why_it_matters": "A West Covina injury case should not be assumed to belong in the downtown courthouse merely because it is in Los Angeles County. Case type, local rules, and the facts govern the civil filing path.",
+      "sources": [
+        "https://www.lacourt.org/division/civil/pdf/civilcasenumbermatrix.pdf",
+        "https://www.lacourt.org/page/FL0105"
+      ],
+      "verified": "2026-08-22",
+      "title": "Los Angeles County civil filing has a local East District path"
+    }
+  ],
+  "neighborhoods": [
+    "South Hills",
+    "Woodside Village",
+    "Eastland",
+    "Azusa-Cameron",
+    "Cortez Park",
+    "Westside West Covina"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "Los Angeles Superior Court amounts, and the California limits on a fee",
+    "col_a": "What gets billed",
+    "col_b": "Amount or rule",
+    "anchors": [
+      {
+        "label": "Court reporter per diem, Los Angeles Superior Court",
+        "value": "$382 / $764",
+        "detail": "Three hundred eighty-two dollars for a civil proceeding running more than one hour but under four, and seven hundred sixty-four for four hours or more. Thirty dollars covers an hour or less.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "label": "Complex case designation",
+        "value": "$1,000",
+        "detail": "One thousand dollars for all plaintiffs and another thousand for each defendant, to a ceiling of $18,000 per case, on top of the ordinary first-paper fee.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "label": "Daily jury deposit after the first day",
+        "value": "$15 plus mileage",
+        "detail": "The running deposit is set at fifteen dollars per juror per day plus thirty-four cents a mile one way, deposited at the start of each session.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "label": "Statutory percentage for an auto injury fee",
+        "value": "Not set by statute",
+        "detail": "California controls the fee through an unconscionability standard and a written-contract statute. The rate itself is negotiated between the injured person and the lawyer.",
+        "source_name": "Cal. Rules of Prof. Conduct, rule 1.5",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Opening the case",
+        "share": "$435",
+        "note": "First paper in an unlimited civil case, and again for each other party's first paper. Limited civil filings run $370 or $225 by pleaded amount.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "stage": "Motions",
+        "share": "$60, or $500",
+        "note": "Sixty dollars for any paper requiring a hearing, including discovery motions and trial continuances; five hundred for summary judgment or summary adjudication.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "stage": "Keeping the jury",
+        "share": "$150 in advance",
+        "note": "Nonrefundable, and waived if unpaid by the deadline. After day one the Los Angeles deposit is fifteen dollars per juror per day plus mileage.",
+        "source_name": "Cal. Code Civ. Proc. 631(b)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=631.&lawCode=CCP"
+      },
+      {
+        "stage": "The fee agreement",
+        "share": "Written, duplicate, negotiable",
+        "note": "Section 6147 requires the rate, the treatment of costs, and a statement that the fee is not set by law, in a contract signed by both sides.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "Health care malpractice claims",
+        "share": "25% pre-filing, 33% after",
+        "note": "A statutory ceiling limited to professional negligence claims against health care providers, with more allowed only by motion for good cause.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a)",
+        "source_url": "https://law.justia.com/codes/california/code-bpc/division-3/chapter-4/article-8-5/section-6146/"
+      },
+      {
+        "stage": "Costs a winning party can shift",
+        "share": "Enumerated list",
+        "note": "Filing, motion and jury fees, depositions, service of process and court-ordered experts are recoverable; investigation expenses and uninvited experts are not.",
+        "source_name": "Cal. Code Civ. Proc. 1033.5",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1033.5.&lawCode=CCP"
+      }
+    ]
   },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "car accident lawyer west covina",
+    "monthly_price": 500,
+    "score": 71,
+    "volume": 250,
+    "cpc_usd": 70.0,
+    "weakest_competitor": "mikepaynelaw.com",
+    "competitor_dr": 19.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "car accident lawyer west covina",
-  "monthly_price": 500,
-  "score": 71,
-  "volume": 250,
-  "cpc_usd": 70.0,
-  "weakest_competitor": "mikepaynelaw.com",
-  "competitor_dr": 19.0
- }
 }

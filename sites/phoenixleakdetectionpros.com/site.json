@@ -1,9 +1,10 @@
 {
   "domain": "phoenixleakdetectionpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Phoenix Leak Detection Pros",
   "service": "Leak Detection",
   "service_inline": "leak detection",
+  "vertical": "home",
   "city": "Phoenix",
   "state": "AZ",
   "state_full": "Arizona",

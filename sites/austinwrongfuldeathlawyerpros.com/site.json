@@ -1,9 +1,10 @@
 {
   "domain": "austinwrongfuldeathlawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Austin Wrongful Death Law Pros",
   "service": "Wrongful Death Lawyer",
   "service_inline": "wrongful death lawyer",
+  "vertical": "legal",
   "city": "Austin",
   "state": "TX",
   "state_full": "Texas",
@@ -141,7 +142,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "What Texas Rule 1.04 and chapter 71 govern in a Travis County death case, and what no Texas rule limits",
+    "table_head": "What Texas fixes in a Travis County death case, and what it does not",
     "col_a": "What it covers",
     "col_b": "What Texas sets",
     "anchors": [

@@ -51,7 +51,7 @@ A child was bitten by a dog known to the family
 
 ## symptom_2
 
-A familiar dog can still produce a difficult record, especially when the wound is on a child’s face, hand, or arm. The first priority is medical care and a report to the agency responsible for the address. Ask the provider to describe location and depth before the wound changes. The child-bite page covers the County’s reporting rule, the observation process, and why future treatment should be documented carefully.
+Familiar dogs can still produce a difficult record, especially when the wound is on a child’s face, hand, or arm. The first priority is medical care and a report to the agency responsible for the address. Ask the provider to describe location and depth before the wound changes. The child-bite page covers the County’s reporting rule, the observation process, and why future treatment should be documented carefully.
 
 ## symptom_3_title
 
@@ -95,7 +95,7 @@ Code of Civil Procedure section 335.1 sets a two-year period for an action for i
 
 ## closing_cta
 
-For a San Diego dog-bite inquiry, keep the treatment record, report number, photographs, owner information, and any insurance correspondence together. The person calling can use that file to speak with an attorney of their choosing before a statutory deadline becomes the immediate problem.
+For a local dog-bite inquiry, keep the treatment record, report number, photographs, owner information, and any insurance correspondence together. The person calling can use that file to speak with an attorney of their choosing before a statutory deadline becomes the immediate problem.
 
 ## services_summary
 
@@ -443,7 +443,7 @@ Keep the declarations page, policy forms, endorsements, letters, report number, 
 
 ## pricing_lede
 
-A dog bite claim here is normally taken on for a share of whatever the claim eventually pays, and California fixes no number for that share, so this page sets out what the State Bar rule and section 6147 force into the written agreement, what the Superior Court charges to move a case through, and the small city amounts that attach to the animal.
+A dog bite claim here is normally taken on for a share of whatever the claim eventually pays, and California fixes no number for that share. This page therefore sets out what the State Bar rule and section 6147 force into the written agreement, what the Superior Court charges to move a case through, and the small city amounts that attach to the animal.
 
 ## pricing_body
 
@@ -453,7 +453,7 @@ Rule 1.5(a) of the California Rules of Professional Conduct runs to one sentence
 
 ### Thirteen things that decide whether a fee is unconscionable
 
-Rule 1.5(b) judges the fee on the facts as they stood when the agreement was signed, except where both sides expected later events to change it. The listed considerations run from whether the lawyer engaged in fraud or overreaching while setting the fee, and whether material facts went undisclosed, through the proportion between the fee and the value of the work performed, the relative sophistication of lawyer and client, the novelty and difficulty of the questions, the chance that taking the matter shuts out other employment, the sum at stake and what was achieved, and the ability of the people actually doing the work.
+Rule 1.5(b) judges the fee on the facts as they stood when the agreement was signed, except where both sides expected later events to change it. The listed considerations start with whether the lawyer engaged in fraud or overreaching while setting the fee, and whether material facts went undisclosed. They take in the proportion between the fee and the value of the work performed, the relative sophistication of lawyer and client, and the novelty and difficulty of the questions. They also cover the chance that taking the matter shuts out other employment, the sum at stake and what was achieved, and the ability of the people actually doing the work.
 
 ### What section 6147 forces onto the page
 
@@ -461,7 +461,7 @@ Business and Professions Code section 6147(a) requires the contingency contract 
 
 ### The percentages that belong to a different case
 
-California does cap contingency percentages in exactly one area, and a dog bite is not it. Section 6146(a) covers claims against a health care provider based on professional negligence, and there the limits are 25 percent of the amount recovered when the case settles before a complaint or arbitration demand is filed, and 33 percent afterward, with 6146(a)(3) letting the plaintiff's attorney move for more on evidence of good cause. Those figures get quoted loosely around injury work generally. They have no application to a claim against a dog owner, a landlord, or a homeowners insurer, and a contract citing them for this kind of claim is citing the wrong statute.
+California does cap contingency percentages in exactly one area, and a dog bite is not it. Section 6146(a) covers claims against a health care provider based on professional negligence. There the limits are 25 percent of the amount recovered when the case settles before a complaint or arbitration demand is filed, and 33 percent afterward. Section 6146(a)(3) lets the plaintiff's attorney move for more on evidence of good cause. Those figures get quoted loosely around injury work generally. They have no application to a claim against a dog owner, a landlord, or a homeowners insurer, and a contract citing them for this kind of claim is citing the wrong statute.
 
 ### When the person bitten is a child
 

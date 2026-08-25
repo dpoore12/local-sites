@@ -370,7 +370,7 @@ When a death follows medical care, Texas Chapter 74 can apply in addition to the
 
 ### Why Chapter 74 is a separate procedural path
 
-[Chapter 74](https://statutes.capitol.texas.gov/docs/cp/htm/cp.74.htm) defines a health care liability claim as one against a physician or health-care provider for treatment, lack of treatment, or another claimed departure from accepted standards of medical care, health care, safety, or related professional or administrative services that proximately results in injury to or death of a claimant. That definition is broader than a label such as hospital error.
+[Chapter 74](https://statutes.capitol.texas.gov/docs/cp/htm/cp.74.htm) defines a health care liability claim as one against a physician or health-care provider for treatment, lack of treatment, or another claimed departure from accepted standards. Those standards cover medical care, health care, safety, and related professional or administrative services, and the departure must proximately result in injury to or death of a claimant. That definition is broader than a label such as hospital error.
 
 The setting may be a hospital, clinic, nursing facility, ambulance, surgery center, physician practice, or another provider. Whether Chapter 74 actually applies depends on the statutory definition and facts. It is not enough that a death occurred in a health-care setting. That classification matters because the chapter adds notice, authorization, and expert-report rules.
 
@@ -450,7 +450,7 @@ In a road collision, the question can involve several drivers, a vehicle owner, 
 
 ## pricing_lede
 
-Nothing in Texas law caps the percentage a lawyer may take out of a death recovery, so what protects a family in Dallas is the disclosure Rule 1.04 forces into the contract and the published cost of running the case, and this page sets out both, along with the separate survival claim and the probate filings a death case usually drags behind it.
+Nothing in Texas law caps the percentage a lawyer may take out of a death recovery. What protects a family in Dallas is the disclosure Rule 1.04 forces into the contract, plus the published cost of running the case. This page sets out both, along with the separate survival claim and the probate filings a death case usually drags behind it.
 
 ## pricing_body
 
@@ -464,7 +464,7 @@ Texas numbers its fee rule 1.04, which trips up anyone reading a form contract d
 
 ### Disclosure obligations that run before the signature and after the check
 
-Rule 1.04(c) requires the basis or rate of the fee to be communicated to the client, preferably in writing, either before the representation starts or within a reasonable time afterward. Rule 1.04(d) then sets out what a contingent contract must contain: the client's signature, the method of determining the fee, the percentage accruing on settlement, on trial and on appeal stated separately, the expenses to be deducted from the recovery, and whether those expenses are subtracted before or after the percentage is applied. Two contracts with the same headline percentage produce different checks depending on that one clause. When the case ends, the same subdivision requires a written statement of the outcome, and where money was recovered, the remittance to the client and how it was calculated.
+Rule 1.04(c) requires the basis or rate of the fee to be communicated to the client, preferably in writing, either before the representation starts or within a reasonable time afterward. Rule 1.04(d) then sets out what a contingent contract must contain: the client's signature, the method of determining the fee, and the percentage accruing on settlement, on trial and on appeal stated separately. The contract must also list the expenses to be deducted from the recovery and say whether those expenses are subtracted before or after the percentage is applied. Two contracts with the same headline percentage produce different checks depending on that one clause. When the case ends, the same subdivision requires a written statement of the outcome, and where money was recovered, the remittance to the client and how it was calculated.
 
 ### When a second firm is in the case
 

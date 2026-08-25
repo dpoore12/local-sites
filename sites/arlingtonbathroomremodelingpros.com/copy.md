@@ -122,7 +122,7 @@ The estimate begins with measurements, fixture locations, door and hall access, 
 Scope before selections
 
 ## expect_2
-Tile, fixtures, vanity size, glass, trim, and storage choices work better after the shower opening, drain location, clearances, and wall conditions are known.
+Tile, fixtures, vanity size, glass, trim, and storage choices work better after the shower opening, drain location, clearances, and wall conditions are known. Selections locked in before that usually have to be revised.
 
 ## expect_3_label
 Checks before cover-up
@@ -202,7 +202,7 @@ Ask why one bathroom bid came in at eleven thousand dollars and the neighbor's a
 
 The first decision is whether plumbing moves. Leaving the toilet flange, tub drain and vanity supplies where they are keeps a job in the refresh band. Moving a drain means opening the floor, and on an Arlington slab-on-grade house that means breaking and repouring concrete. That one change separates the second row of the table from the fourth.
 
-The second is whether the room comes apart to the studs. A refresh replaces what is visible; a gut replaces substrate, waterproofing and often supply piping, the only version that fixes what cannot be seen. With a 1984 median year built and over sixty-five percent of the stock predating 1990, Arlington bathrooms open up on galvanized branch lines, undersized vents, spent mortar-bed pans and subfloor that has been wet for years.
+Second: whether the room comes apart to the studs. A refresh replaces what is visible; a gut replaces substrate, waterproofing and often supply piping, the only version that fixes what cannot be seen. With a 1984 median year built and over sixty-five percent of the stock predating 1990, Arlington bathrooms open up on galvanized branch lines, undersized vents, spent mortar-bed pans and subfloor that has been wet for years.
 
 The third is the shower. An acrylic base with tiled walls, a tiled curbed pan, and a curbless pan sloped to a linear drain are three different builds, priced roughly ten thousand dollars apart from bottom to top in this metro. Curbless is the most expensive small decision in a bathroom.
 
@@ -222,7 +222,7 @@ Two of them. The first is the flat package figure that reads all-in but excludes
 
 ### What the online number leaves out
 
-Published bands assume a bathroom that stays where it is, sized as it is, with sound subfloor and framing. They exclude permit and plan review, structural repair found at demolition, replacing galvanized pipe back to the main, a circuit for a heated floor, asbestos or lead work in an older house, somewhere to shower while the only bathroom is out, and the lead time on a stone slab that keeps a finished room unusable.
+Published bands assume a bathroom that stays where it is, sized as it is, with sound subfloor and framing. They exclude permit and plan review, structural repair found at demolition, replacing galvanized pipe back to the main, and a circuit for a heated floor. They also leave out asbestos or lead work in an older house, somewhere to shower while the only bathroom is out, and the lead time on a stone slab that keeps a finished room unusable.
 
 ## services_summary
 
@@ -256,7 +256,7 @@ In a house from that postwar wave, the waste line leaving the toilet flange is v
 
 ### Blackland clay does not hold still
 
-The slab is not a fixed reference here. Arlington sits on Blackland and Grand Prairie clay, and the USDA description of Houston Black, the Texas state soil, records cracks a half inch to four inches wide at a twelve inch depth during dry spells, staying open ninety to a hundred and fifty cumulative days in a normal year. Slab foundations are the regional default: NAHB's reading of the Census Survey of Construction found 97.9 percent of new single-family starts in the West South Central states on slab in 2024. Ground that moves that much works on a rigid drain line, which is why old cast iron here develops sagging bellies and cracked hubs rather than even wear.
+The slab is not a fixed reference here. Arlington sits on Blackland and Grand Prairie clay. The USDA description of Houston Black, the Texas state soil, records cracks a half inch to four inches wide at a twelve inch depth during dry spells, staying open ninety to a hundred and fifty cumulative days in a normal year. Slab foundations are the regional default: NAHB's reading of the Census Survey of Construction found 97.9 percent of new single-family starts in the West South Central states on slab in 2024. Ground that moves that much works on a rigid drain line, which is why old cast iron here develops sagging bellies and cracked hubs rather than even wear.
 
 ### Who is allowed to move a drain in Texas
 
@@ -268,7 +268,7 @@ Arlington's permit guide names kitchen and bath remodels among the changes that 
 
 ### What a bid has to say before you can compare it
 
-Cost shape follows the tier, not the tile. A surface refresh sits in a fairly tight band because nothing behind the wall changes. A full strip-out widens it, because until the substrate is exposed nobody knows whether the subfloor, the vent and the drain are sound. Relocating fixtures is the widest band of all. A bid you can actually compare names the demolition and disposal, the exact plumbing changes, the waterproofing system by manufacturer, the tile setting method with an allowance per square foot, every fixture by model, the exhaust fan rating, the permit line, and what happens if demolition finds cast iron. On a multi-week job, payments tied to milestones beat payments tied to dates.
+Cost shape follows the tier, not the tile. A surface refresh sits in a fairly tight band because nothing behind the wall changes. A full strip-out widens it, because until the substrate is exposed nobody knows whether the subfloor, the vent and the drain are sound. Relocating fixtures is the widest band of all. A bid you can actually compare names the demolition and disposal, the exact plumbing changes, and the waterproofing system by manufacturer. It also names the tile setting method with an allowance per square foot, every fixture by model, the exhaust fan rating, the permit line, and what happens if demolition finds cast iron. On a multi-week job, payments tied to milestones beat payments tied to dates.
 
 ## svc_shower_remodel_lede
 
@@ -290,7 +290,7 @@ Grout is not a waterproof layer and was never meant to be one. Sealing a shower 
 
 ### Movement joints, and the reason that floor cracked in a line
 
-A straight crack running across a tile floor, or a line of loose grout parallel to a wall, is usually the slab telling on itself. Clay under the house swells with spring rain and shrinks through a summer that averages 20.2 days at or above one hundred degrees at the DFW airport, and rigid tile bonded to a moving slab has to be given somewhere to go. The TCNA Handbook's EJ171 detail sets interior movement joints no more than twenty-five feet apart in each direction, tightens that to eight to twelve feet where the installation sees moisture or direct sun, and calls for a soft joint at the room perimeter that base or shoe molding normally hides. A shower floor is a wet interior.
+A straight crack running across a tile floor, or a line of loose grout parallel to a wall, is usually the slab telling on itself. Clay under the house swells with spring rain and shrinks through a summer that averages 20.2 days at or above one hundred degrees at the DFW airport, and rigid tile bonded to a moving slab has to be given somewhere to go. The TCNA Handbook's EJ171 detail sets interior movement joints no more than twenty-five feet apart in each direction, and tightens that to eight to twelve feet where the installation sees moisture or direct sun. It also calls for a soft joint at the room perimeter that base or shoe molding normally hides. A shower floor is a wet interior.
 
 ### Slope, drains, and the thing under the pan
 
@@ -312,7 +312,7 @@ Pulling a tub looks like a one-day swap until the surround comes off. In an Arli
 
 ### When a tub is genuinely finished
 
-Not every tired tub needs replacing. Surface damage on a cast iron or steel tub with a sound enamel bed can be refinished, and a chip at the rim is a repair. Replacement is the honest answer when the floor of the tub flexes underfoot, when a crack passes through the shell rather than across the glaze, when the drain shoe or overflow gasket is weeping into the framing, when the surround has to come off anyway for another reason, or when the household needs a different fixture altogether. The test is where the water goes. A tub losing water into the structure is a framing and subfloor problem wearing a plumbing costume.
+Not every tired tub needs replacing. Surface damage on a cast iron or steel tub with a sound enamel bed can be refinished, and a chip at the rim is a repair. Replacement is the honest answer when the floor of the tub flexes underfoot, when a crack passes through the shell rather than across the glaze, or when the drain shoe or overflow gasket is weeping into the framing. It is also the answer when the surround has to come off anyway for another reason, or when the household needs a different fixture altogether. The test is where the water goes. A tub losing water into the structure is a framing and subfloor problem wearing a plumbing costume.
 
 ### Cast iron, weight, and the route out of the house
 
@@ -332,7 +332,7 @@ The other older-material question is asbestos, and Texas handles it differently 
 
 ### The one-bathroom problem
 
-The Heart of Arlington plan reports that almost 40 percent of houses in that area have exactly one bathroom, and those same neighborhoods hold the oldest tubs. If the tub being replaced is the only bathing fixture in the house, sequence matters more than the finish schedule. A swap in a stable alcove can be a two or three day interruption. If the surround comes off and the framing behind it is wet, or the drain under the slab turns out to be cast iron on borrowed time, that window opens up. A plan worth signing says out loud how many nights the shower is unavailable and what the fallback is.
+Almost 40 percent of houses in the Heart of Arlington plan area have exactly one bathroom, that plan reports, and those same neighborhoods hold the oldest tubs. If the tub being replaced is the only bathing fixture in the house, sequence matters more than the finish schedule. A swap in a stable alcove can be a two or three day interruption. If the surround comes off and the framing behind it is wet, or the drain under the slab turns out to be cast iron on borrowed time, that window opens up. A plan worth signing says out loud how many nights the shower is unavailable and what the fallback is.
 
 ### What the visit looks like, and what widens the band
 
@@ -366,7 +366,7 @@ The city's Heart of Arlington plan describes a typical house there at roughly 1,
 
 ### Drain relocation, the license question, and the permit
 
-Moving the drain is where this becomes regulated work. Texas defines plumbing to include the drain and waste piping that carries wastewater from or within a building, and state law says a person may not engage in plumbing without the proper license or registration and supervision by a license holder, with a narrow exception for an owner working on their own homestead. Behind any licensed plumbing outfit stands a responsible master plumber carrying at least three hundred thousand dollars of general liability coverage. On the city side, Arlington treats bath remodels as permit work, runs applications and inspection scheduling through its permit portal, and pushes any inspection requested after 7 a.m. to the next business day.
+Moving the drain is where this becomes regulated work. Texas defines plumbing to include the drain and waste piping that carries wastewater from or within a building. State law says a person may not engage in plumbing without the proper license or registration and supervision by a license holder, with a narrow exception for an owner working on their own homestead. Behind any licensed plumbing outfit stands a responsible master plumber carrying at least three hundred thousand dollars of general liability coverage. On the city side, Arlington treats bath remodels as permit work, runs applications and inspection scheduling through its permit portal, and pushes any inspection requested after 7 a.m. to the next business day.
 
 ### What the build looks like, and what moves the range
 

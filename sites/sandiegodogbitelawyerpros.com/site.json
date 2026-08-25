@@ -4,6 +4,7 @@
   "brand": "San Diego Dog Bite Law Pros",
   "service": "Dog Bite Lawyer",
   "service_inline": "dog bite lawyer",
+  "vertical": "legal",
   "city": "San Diego",
   "state": "CA",
   "state_full": "California",
@@ -43,7 +44,7 @@
     },
     {
       "id": "county_bite_reporting",
-      "claim": "San Diego County Code section 62.615 requires the bitten person, the parent or guardian of a bitten child, the treating physician, the animal's owner and anyone else who knows of a bite by a rabies-capable animal to notify the Department or Health Officer, and deems a failure to report within 24 hours a violation. County Animal Services says a biting dog must then be quarantined for ten days from the date of the bite even if its rabies vaccination is current.",
+      "claim": "San Diego County Code section 62.615 requires anyone who knows of a bite by a rabies-capable animal to notify the Department or Health Officer. That includes the bitten person, the parent or guardian of a bitten child, the treating physician and the animal's owner. A failure to report within 24 hours is a violation. County Animal Services says a biting dog must then be quarantined for ten days from the date of the bite even if its rabies vaccination is current.",
       "why_it_matters": "The report and the quarantine file are third-party documents that fix the date, the address and the identity of the dog before anyone's memory changes. They are often the strongest evidence in a claim the insurer did not create, and they also reveal whether this dog has bitten before. Which agency holds the file depends on the address: San Diego Humane Society handles field services for the City of San Diego, County Animal Services covers the unincorporated areas.",
       "sources": [
         "https://codelibrary.amlegal.com/codes/san_diego/latest/sandiego_regs/0-0-0-127231",
@@ -54,7 +55,7 @@
     },
     {
       "id": "grand_jury_bite_data",
-      "claim": "The 2023-2024 San Diego County Grand Jury dog bite report found that roughly 2,500 dog bites a year were reported by the county to the California Department of Public Health over the 2020 to 2022 period, that about 40 percent involved dogs that were unvaccinated or of unknown vaccination status, and that the true figure is higher because not every city files its statistics. It also recorded 9 to 18 Dangerous Dog hearings a year, of which 78 to 90 percent ended in a dangerous declaration.",
+      "claim": "The 2023-2024 San Diego County Grand Jury dog bite report found that roughly 2,500 dog bites a year were reported by the county to the California Department of Public Health over the 2020 to 2022 period. About 40 percent involved dogs that were unvaccinated or of unknown vaccination status, and the true figure is higher because not every city files its statistics. It also recorded 9 to 18 Dangerous Dog hearings a year, of which 78 to 90 percent ended in a dangerous declaration.",
       "why_it_matters": "Reported bites in this county run into the thousands every year, so an owner's claim that the incident was freakish carries little weight. The vaccination gap explains why so many San Diego bite victims face a rabies prophylaxis decision in the emergency room, which is a real cost item. And because a large share of Dangerous Dog hearings succeed, that county process can produce findings about the animal that sit alongside a civil claim.",
       "sources": [
         "https://www.sandiegocounty.gov/content/dam/sdc/grandjury/reports/2023-2024/dog-bites/23-24%20Dog%20Bite%20Report.pdf"
@@ -139,7 +140,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "What California pins down in a San Diego dog bite claim, and what it deliberately leaves to negotiation",
+    "table_head": "What California pins down, and what it leaves to negotiation",
     "col_a": "What it covers",
     "col_b": "What California sets",
     "anchors": [

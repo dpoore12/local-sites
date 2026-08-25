@@ -436,7 +436,7 @@ Keep the arrest affidavit, booking record, bond form, release conditions, notice
 
 ## pricing_lede
 
-Criminal defense in Florida is billed as a flat fee or by the hour, never as a share of the result, and this page explains why, what the written agreement has to spell out, and which amounts Florida statutes and Hillsborough County records fix regardless of who is hired.
+Criminal defense in Florida is billed as a flat fee or by the hour, never as a share of the result. This page explains why, what the written agreement has to spell out, and which amounts Florida statutes and Hillsborough County records fix regardless of who is hired.
 
 ## pricing_body
 

@@ -1,300 +1,301 @@
 {
- "domain": "charlotteguttercleaningpros.com",
- "phase": 2,
- "brand": "Charlotte Gutter Cleaning Pros",
- "service": "Gutter Cleaning",
- "service_inline": "gutter cleaning",
- "city": "Charlotte",
- "state": "NC",
- "state_full": "North Carolina",
- "counties": [
-  "Mecklenburg"
- ],
- "area_codes": [
-  "704",
-  "980"
- ],
- "phone_display": "(980) 907-8311",
- "phone_tel": "+19809078311",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "tree_canopy",
-   "title": "Charlotte’s 2022 canopy assessment measured 47% cover",
-   "claim": "Charlotte’s published 2022 Tree Canopy Assessment reports 47% canopy cover inside the city. The City also estimates 200,000 street trees and says a significant percentage are willow oaks. The assessment attributes 34 million gallons of annual runoff prevention to the tree canopy.",
-   "why_it_matters": "A city with mature tree cover sends leaf, twig and needle debris to roof valleys and gutters in a way an open-lot market does not. The practical maintenance plan should fit the trees above the roof: many canopy-covered homes need a spring cleanout and a second post-leaf-drop visit, while an open lot may need less. Clear outlets also keep concentrated roof runoff from reaching the foundation edge.",
-   "sources": [
-    "https://treescharlotte.org/wp-content/uploads/2023/11/Charlotte-NC-Tree-Canopy-Assessment-Factsheet.pdf",
-    "https://www.charlottenc.gov/City-Government/Departments/General-Services/Tree-Management/Commonly-Asked-Questions"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "tree_ordinance",
-   "title": "Charlotte’s tree ordinance protects heritage trees",
-   "claim": "Charlotte defines a heritage tree as a North Carolina native tree with a trunk diameter at breast height of 30 inches or greater. The ordinance states that heritage trees are protected in city limits and that qualifying removals require a City-issued tree work permit and approval.",
-   "why_it_matters": "For a property with a large mature tree over the roof, gutter cleaning and sensible maintenance are not a shortcut to aggressive tree removal. A crew can clear the drainage path and point out a branch conflict; pruning or removal that affects protected trees is a separate tree-care decision governed by the City’s rules.",
-   "sources": [
-    "https://www.charlottenc.gov/files/sharedassets/city/v/1/growth-and-development/getting-started/documents/charlotte-tree-ordinance-adopted.pdf",
-    "https://www.charlottenc.gov/Growth-and-Development/Getting-Started-on-Your-Project/Urban-Forestry"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "stormwater_context",
-   "title": "Charlotte regulates drainage to reduce private flood losses",
-   "claim": "Charlotte’s stormwater regulations state that local rules seek to promote public health and safety, minimize public and private losses due to flood conditions, and protect surface waters. The City says its stormwater system is maintained and improved to move rainwater safely through the community.",
-   "why_it_matters": "Routine gutter cleaning is not a city permit issue, but it is the first private link in a roof-drainage path. A blocked downspout or a discharge at the foundation corner concentrates roof runoff where a homeowner does not want it: beside trim, mulch, a foundation wall or a crawlspace. The visit should verify where water leaves the house, not stop at debris removal.",
-   "sources": [
-    "https://www.charlottenc.gov/Services/Stormwater/Stormwater-Regulations",
-    "https://www.charlottenc.gov/Services/Stormwater"
-   ],
-   "verified": "2026-08-21"
-  }
- ],
- "neighborhoods": [
-  "Myers Park",
-  "Dilworth",
-  "Plaza Midwood",
-  "NoDa",
-  "Elizabeth",
-  "Ballantyne"
- ],
- "symptoms": [
-  "overflowing_gutters",
-  "clogged_downspouts",
-  "gutter_leaks",
-  "gutter_debris"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Clear Gutters, Water Flowing Right",
- "trust_third": "Service price quoted before work starts",
- "services": [
-  {
-   "slug": "gutter-cleaning",
-   "name": "Gutter Cleaning",
-   "nav": "Gutter cleaning",
-   "h1": "Gutter Cleaning",
-   "accent": "Debris Cleared for Free Water Flow",
-   "keyword": "gutter cleaning",
-   "icon": "drop"
-  },
-  {
-   "slug": "gutter-repair",
-   "name": "Gutter Repair",
-   "nav": "Gutter repair",
-   "h1": "Gutter Repair",
-   "accent": "Leaking Gutters Repaired Properly",
-   "keyword": "gutter repair",
-   "icon": "wrench"
-  },
-  {
-   "slug": "gutter-guard-installation",
-   "name": "Gutter Guard Installation",
-   "nav": "Gutter guards",
-   "h1": "Gutter Guard Installation",
-   "accent": "Guards Installed to Cut Down Debris",
-   "keyword": "gutter guard installation",
-   "icon": "check"
-  },
-  {
-   "slug": "downspout-cleaning",
-   "name": "Downspout Cleaning",
-   "nav": "Downspout cleaning",
-   "h1": "Downspout Cleaning",
-   "accent": "Downspouts Cleared for Proper Drainage",
-   "keyword": "downspout cleaning",
-   "icon": "drop"
-  }
- ],
- "symptom_service": [
-  "gutter-cleaning",
-  "downspout-cleaning",
-  "gutter-repair",
-  "gutter-cleaning"
- ],
- "_market": {
-  "keyword": "gutter cleaning charlotte nc",
-  "monthly_price": 800,
-  "score": 85,
-  "volume": 500,
-  "cpc_usd": 15.0,
-  "weakest_competitor": "gleaminggutters.com",
-  "competitor_dr": 0.1
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "Charlotte gutter work, what the market posts",
-  "anchors": [
-   {
-    "label": "Residential storm water fee, Tier 2 house",
-    "value": "$14.78 per month",
-    "detail": "Charlotte bills every house monthly by impervious area: $10.32 under 2,000 square feet, $14.78 from 2,000 to 2,999, $21.43 from 3,000 to 4,999 and $35.48 above that, effective July 1, 2026.",
-    "source_name": "City of Charlotte storm water fees",
-    "source_url": "https://www.charlottenc.gov/Services/Stormwater/Fees"
-   },
-   {
-    "label": "Dollar figure that triggers a state contractor license",
-    "value": "$40,000",
-    "detail": "North Carolina requires a general contractor license where the cost of the undertaking is forty thousand dollars or more, which is why cleaning and most repairs sit outside it while large replacement projects can cross it.",
-    "source_name": "N.C. General Statutes 87-1",
-    "source_url": "https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_87/gs_87-1.html"
-   },
-   {
-    "label": "Limited license project ceiling",
-    "value": "$750,000",
-    "detail": "The state licensing board caps a Limited license at $750,000 per project, an Intermediate license at $1,500,000, and puts no restriction on an Unlimited license, so the class a contractor holds tells you the size of work they can legally sign.",
-    "source_name": "N.C. Licensing Board for General Contractors",
-    "source_url": "https://nclbgc.org/classifications-and-limitations/"
-   }
+  "domain": "charlotteguttercleaningpros.com",
+  "phase": 2,
+  "brand": "Charlotte Gutter Cleaning Pros",
+  "service": "Gutter Cleaning",
+  "service_inline": "gutter cleaning",
+  "vertical": "home",
+  "city": "Charlotte",
+  "state": "NC",
+  "state_full": "North Carolina",
+  "counties": [
+    "Mecklenburg"
   ],
-  "rows": [
-   {
-    "job": "One-story ranch cleared, roughly 150 to 180 feet of gutter",
-    "low": 149,
-    "high": 349,
-    "basis": "flat, 150 to 180 linear feet, single story",
-    "note": "Pine needles packed hard into a run take far longer than loose oak leaf litter.",
-    "sources": [
-     {
-      "name": "Gleaming Gutters, Charlotte, posted cleaning prices, read 2026-08-23",
-      "url": "https://www.gleaminggutters.com/gutter-cleaning-charlotte/"
-     },
-     {
-      "name": "Squeegee Pros, Charlotte, posted cleaning cost breakdown, read 2026-08-23",
-      "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
-     },
-     {
-      "name": "Clean Pro Gutter Cleaning, Charlotte, posted cost page, read 2026-08-23",
-      "url": "https://cleanproguttercleaning.com/gutter-cleaning-cost-charlotte-nc/"
-     }
+  "area_codes": [
+    "704",
+    "980"
+  ],
+  "phone_display": "(980) 907-8311",
+  "phone_tel": "+19809078311",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "tree_canopy",
+      "title": "Charlotte’s 2022 canopy assessment measured 47% cover",
+      "claim": "Charlotte’s published 2022 Tree Canopy Assessment reports 47% canopy cover inside the city. The City also estimates 200,000 street trees and says a significant percentage are willow oaks. The assessment attributes 34 million gallons of annual runoff prevention to the tree canopy.",
+      "why_it_matters": "A city with mature tree cover sends leaf, twig and needle debris to roof valleys and gutters in a way an open-lot market does not. The practical maintenance plan should fit the trees above the roof: many canopy-covered homes need a spring cleanout and a second post-leaf-drop visit, while an open lot may need less. Clear outlets also keep concentrated roof runoff from reaching the foundation edge.",
+      "sources": [
+        "https://treescharlotte.org/wp-content/uploads/2023/11/Charlotte-NC-Tree-Canopy-Assessment-Factsheet.pdf",
+        "https://www.charlottenc.gov/City-Government/Departments/General-Services/Tree-Management/Commonly-Asked-Questions"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "tree_ordinance",
+      "title": "Charlotte’s tree ordinance protects heritage trees",
+      "claim": "Charlotte defines a heritage tree as a North Carolina native tree with a trunk diameter at breast height of 30 inches or greater. The ordinance states that heritage trees are protected in city limits and that qualifying removals require a City-issued tree work permit and approval.",
+      "why_it_matters": "For a property with a large mature tree over the roof, gutter cleaning and sensible maintenance are not a shortcut to aggressive tree removal. A crew can clear the drainage path and point out a branch conflict; pruning or removal that affects protected trees is a separate tree-care decision governed by the City’s rules.",
+      "sources": [
+        "https://www.charlottenc.gov/files/sharedassets/city/v/1/growth-and-development/getting-started/documents/charlotte-tree-ordinance-adopted.pdf",
+        "https://www.charlottenc.gov/Growth-and-Development/Getting-Started-on-Your-Project/Urban-Forestry"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "stormwater_context",
+      "title": "Charlotte regulates drainage to reduce private flood losses",
+      "claim": "Charlotte’s stormwater regulations state that local rules seek to promote public health and safety, minimize public and private losses due to flood conditions, and protect surface waters. The City says its stormwater system is maintained and improved to move rainwater safely through the community.",
+      "why_it_matters": "Routine gutter cleaning is not a city permit issue, but it is the first private link in a roof-drainage path. A blocked downspout or a discharge at the foundation corner concentrates roof runoff where a homeowner does not want it: beside trim, mulch, a foundation wall or a crawlspace. The visit should verify where water leaves the house, not stop at debris removal.",
+      "sources": [
+        "https://www.charlottenc.gov/Services/Stormwater/Stormwater-Regulations",
+        "https://www.charlottenc.gov/Services/Stormwater"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Myers Park",
+    "Dilworth",
+    "Plaza Midwood",
+    "NoDa",
+    "Elizabeth",
+    "Ballantyne"
+  ],
+  "symptoms": [
+    "overflowing_gutters",
+    "clogged_downspouts",
+    "gutter_leaks",
+    "gutter_debris"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Clear Gutters, Water Flowing Right",
+  "trust_third": "Service price quoted before work starts",
+  "services": [
+    {
+      "slug": "gutter-cleaning",
+      "name": "Gutter Cleaning",
+      "nav": "Gutter cleaning",
+      "h1": "Gutter Cleaning",
+      "accent": "Debris Cleared for Free Water Flow",
+      "keyword": "gutter cleaning",
+      "icon": "drop"
+    },
+    {
+      "slug": "gutter-repair",
+      "name": "Gutter Repair",
+      "nav": "Gutter repair",
+      "h1": "Gutter Repair",
+      "accent": "Leaking Gutters Repaired Properly",
+      "keyword": "gutter repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "gutter-guard-installation",
+      "name": "Gutter Guard Installation",
+      "nav": "Gutter guards",
+      "h1": "Gutter Guard Installation",
+      "accent": "Guards Installed to Cut Down Debris",
+      "keyword": "gutter guard installation",
+      "icon": "check"
+    },
+    {
+      "slug": "downspout-cleaning",
+      "name": "Downspout Cleaning",
+      "nav": "Downspout cleaning",
+      "h1": "Downspout Cleaning",
+      "accent": "Downspouts Cleared for Proper Drainage",
+      "keyword": "downspout cleaning",
+      "icon": "drop"
+    }
+  ],
+  "symptom_service": [
+    "gutter-cleaning",
+    "downspout-cleaning",
+    "gutter-repair",
+    "gutter-cleaning"
+  ],
+  "_market": {
+    "keyword": "gutter cleaning charlotte nc",
+    "monthly_price": 800,
+    "score": 85,
+    "volume": 500,
+    "cpc_usd": 15.0,
+    "weakest_competitor": "gleaminggutters.com",
+    "competitor_dr": 0.1
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Charlotte gutter work, what the market posts",
+    "anchors": [
+      {
+        "label": "Residential storm water fee, Tier 2 house",
+        "value": "$14.78 per month",
+        "detail": "Charlotte bills every house monthly by impervious area: $10.32 under 2,000 square feet, $14.78 from 2,000 to 2,999, $21.43 from 3,000 to 4,999 and $35.48 above that, effective July 1, 2026.",
+        "source_name": "City of Charlotte storm water fees",
+        "source_url": "https://www.charlottenc.gov/Services/Stormwater/Fees"
+      },
+      {
+        "label": "Dollar figure that triggers a state contractor license",
+        "value": "$40,000",
+        "detail": "North Carolina requires a general contractor license where the cost of the undertaking is forty thousand dollars or more, which is why cleaning and most repairs sit outside it while large replacement projects can cross it.",
+        "source_name": "N.C. General Statutes 87-1",
+        "source_url": "https://www.ncleg.net/enactedlegislation/statutes/html/bysection/chapter_87/gs_87-1.html"
+      },
+      {
+        "label": "Limited license project ceiling",
+        "value": "$750,000",
+        "detail": "The state licensing board caps a Limited license at $750,000 per project, an Intermediate license at $1,500,000, and puts no restriction on an Unlimited license, so the class a contractor holds tells you the size of work they can legally sign.",
+        "source_name": "N.C. Licensing Board for General Contractors",
+        "source_url": "https://nclbgc.org/classifications-and-limitations/"
+      }
+    ],
+    "rows": [
+      {
+        "job": "One-story ranch cleared, roughly 150 to 180 feet of gutter",
+        "low": 149,
+        "high": 349,
+        "basis": "flat, 150 to 180 linear feet, single story",
+        "note": "Pine needles packed hard into a run take far longer than loose oak leaf litter.",
+        "sources": [
+          {
+            "name": "Gleaming Gutters, Charlotte, posted cleaning prices, read 2026-08-23",
+            "url": "https://www.gleaminggutters.com/gutter-cleaning-charlotte/"
+          },
+          {
+            "name": "Squeegee Pros, Charlotte, posted cleaning cost breakdown, read 2026-08-23",
+            "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
+          },
+          {
+            "name": "Clean Pro Gutter Cleaning, Charlotte, posted cost page, read 2026-08-23",
+            "url": "https://cleanproguttercleaning.com/gutter-cleaning-cost-charlotte-nc/"
+          }
+        ]
+      },
+      {
+        "job": "Two-story house cleared, roughly 180 to 220 feet of gutter",
+        "low": 125,
+        "high": 499,
+        "basis": "flat, 180 to 220 linear feet, two stories",
+        "note": "Ladder standoffs, roof anchors, and a second-story rear elevation over a deck are what widen this band.",
+        "sources": [
+          {
+            "name": "American Gutter CLT, Charlotte, posted pricing and estimates page, read 2026-08-23",
+            "url": "https://www.americangutterclt.com/pricing-and-estimates.html"
+          },
+          {
+            "name": "Squeegee Pros, Charlotte, posted two-story figures, read 2026-08-23",
+            "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
+          },
+          {
+            "name": "Clean Pro Gutter Cleaning, Charlotte, posted service tiers, read 2026-08-23",
+            "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
+          }
+        ]
+      },
+      {
+        "job": "Multi-wing or three-story home with hard roof access",
+        "low": 399,
+        "high": 1000,
+        "basis": "flat, 220 to 280 linear feet",
+        "note": "Steep slate-look shingle, dormer valleys, and copper runs that cannot be walked push crews to rope work.",
+        "sources": [
+          {
+            "name": "Clean Pro Gutter Cleaning, Charlotte, posted estate tier, read 2026-08-23",
+            "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
+          },
+          {
+            "name": "Squeegee Pros, Charlotte, posted three-story figures, read 2026-08-23",
+            "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
+          },
+          {
+            "name": "Gleaming Gutters, Charlotte, posted estate pricing, read 2026-08-23",
+            "url": "https://www.gleaminggutters.com"
+          }
+        ]
+      },
+      {
+        "job": "Sagging or storm-pulled run rehung and resealed",
+        "low": 85,
+        "high": 600,
+        "basis": "flat per repair",
+        "note": "An end cap reseal is the floor; a pulled 40-foot run replaced outright sits near the ceiling.",
+        "sources": [
+          {
+            "name": "Best Roofing Now, Charlotte, posted gutter repair price list, read 2026-08-23",
+            "url": "https://www.bestroofingnow.com/gutter-repair"
+          },
+          {
+            "name": "Gleaming Gutters, Charlotte, posted partial-run replacement price, read 2026-08-23",
+            "url": "https://www.gleaminggutters.com/gutter-replacement-charlotte/"
+          }
+        ]
+      },
+      {
+        "job": "Micro-mesh guards installed over about 150 feet",
+        "low": 1350,
+        "high": 3375,
+        "basis": "per 150 linear feet installed",
+        "note": "Screen mesh anchors the low end and surgical-grade stainless the high end, before any second-story surcharge.",
+        "sources": [
+          {
+            "name": "Gleaming Gutters, Charlotte, posted per-foot guard pricing, read 2026-08-23",
+            "url": "https://www.gleaminggutters.com/gutter-guards"
+          },
+          {
+            "name": "Keyway Construction, Charlotte, posted guard cost by type, read 2026-08-23",
+            "url": "https://www.keywayconstructionclt.com/gutter-guard-cost-charlotte-nc/"
+          },
+          {
+            "name": "Best Roofing Now, Charlotte, posted guard cost table, read 2026-08-23",
+            "url": "https://www.bestroofingnow.com/gutter-guard-cost"
+          },
+          {
+            "name": "Clean Pro Gutter Cleaning, Charlotte, posted per-linear-foot guard price, read 2026-08-23",
+            "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
+          }
+        ]
+      },
+      {
+        "job": "Whole gutter system replaced, about 150 feet with downspouts",
+        "low": 1000,
+        "high": 4000,
+        "basis": "flat, about 150 linear feet including downspouts",
+        "note": "Six-inch profile, oversized downspouts, fascia rot, and copper are the four things that lift this.",
+        "sources": [
+          {
+            "name": "Gleaming Gutters, Charlotte, posted replacement pricing, read 2026-08-23",
+            "url": "https://www.gleaminggutters.com/gutter-replacement-charlotte/"
+          },
+          {
+            "name": "Best Roofing Now, Charlotte, posted per-foot installation pricing, read 2026-08-23",
+            "url": "https://www.bestroofingnow.com/gutter-services"
+          },
+          {
+            "name": "Vision Roofing, Charlotte, posted gutter installation prices, read 2026-08-23",
+            "url": "https://visionroofingllc.com/services/gutters-installation-services/"
+          },
+          {
+            "name": "Best Choice Roofing, Charlotte, posted per-foot replacement figure, read 2026-08-23",
+            "url": "https://bestchoiceroofing.com/charlotte/new-gutter-cost-charlotte/"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "Two-story house cleared, roughly 180 to 220 feet of gutter",
-    "low": 125,
-    "high": 499,
-    "basis": "flat, 180 to 220 linear feet, two stories",
-    "note": "Ladder standoffs, roof anchors, and a second-story rear elevation over a deck are what widen this band.",
-    "sources": [
-     {
-      "name": "American Gutter CLT, Charlotte, posted pricing and estimates page, read 2026-08-23",
-      "url": "https://www.americangutterclt.com/pricing-and-estimates.html"
-     },
-     {
-      "name": "Squeegee Pros, Charlotte, posted two-story figures, read 2026-08-23",
-      "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
-     },
-     {
-      "name": "Clean Pro Gutter Cleaning, Charlotte, posted service tiers, read 2026-08-23",
-      "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
-     }
-    ]
-   },
-   {
-    "job": "Multi-wing or three-story home with hard roof access",
-    "low": 399,
-    "high": 1000,
-    "basis": "flat, 220 to 280 linear feet",
-    "note": "Steep slate-look shingle, dormer valleys, and copper runs that cannot be walked push crews to rope work.",
-    "sources": [
-     {
-      "name": "Clean Pro Gutter Cleaning, Charlotte, posted estate tier, read 2026-08-23",
-      "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
-     },
-     {
-      "name": "Squeegee Pros, Charlotte, posted three-story figures, read 2026-08-23",
-      "url": "https://squeegeepros.com/how-much-does-gutter-cleaning-cost-in-charlotte-nc/"
-     },
-     {
-      "name": "Gleaming Gutters, Charlotte, posted estate pricing, read 2026-08-23",
-      "url": "https://www.gleaminggutters.com"
-     }
-    ]
-   },
-   {
-    "job": "Sagging or storm-pulled run rehung and resealed",
-    "low": 85,
-    "high": 600,
-    "basis": "flat per repair",
-    "note": "An end cap reseal is the floor; a pulled 40-foot run replaced outright sits near the ceiling.",
-    "sources": [
-     {
-      "name": "Best Roofing Now, Charlotte, posted gutter repair price list, read 2026-08-23",
-      "url": "https://www.bestroofingnow.com/gutter-repair"
-     },
-     {
-      "name": "Gleaming Gutters, Charlotte, posted partial-run replacement price, read 2026-08-23",
-      "url": "https://www.gleaminggutters.com/gutter-replacement-charlotte/"
-     }
-    ]
-   },
-   {
-    "job": "Micro-mesh guards installed over about 150 feet",
-    "low": 1350,
-    "high": 3375,
-    "basis": "per 150 linear feet installed",
-    "note": "Screen mesh anchors the low end and surgical-grade stainless the high end, before any second-story surcharge.",
-    "sources": [
-     {
-      "name": "Gleaming Gutters, Charlotte, posted per-foot guard pricing, read 2026-08-23",
-      "url": "https://www.gleaminggutters.com/gutter-guards"
-     },
-     {
-      "name": "Keyway Construction, Charlotte, posted guard cost by type, read 2026-08-23",
-      "url": "https://www.keywayconstructionclt.com/gutter-guard-cost-charlotte-nc/"
-     },
-     {
-      "name": "Best Roofing Now, Charlotte, posted guard cost table, read 2026-08-23",
-      "url": "https://www.bestroofingnow.com/gutter-guard-cost"
-     },
-     {
-      "name": "Clean Pro Gutter Cleaning, Charlotte, posted per-linear-foot guard price, read 2026-08-23",
-      "url": "https://cleanproguttercleaning.com/locations/nc/charlotte"
-     }
-    ]
-   },
-   {
-    "job": "Whole gutter system replaced, about 150 feet with downspouts",
-    "low": 1000,
-    "high": 4000,
-    "basis": "flat, about 150 linear feet including downspouts",
-    "note": "Six-inch profile, oversized downspouts, fascia rot, and copper are the four things that lift this.",
-    "sources": [
-     {
-      "name": "Gleaming Gutters, Charlotte, posted replacement pricing, read 2026-08-23",
-      "url": "https://www.gleaminggutters.com/gutter-replacement-charlotte/"
-     },
-     {
-      "name": "Best Roofing Now, Charlotte, posted per-foot installation pricing, read 2026-08-23",
-      "url": "https://www.bestroofingnow.com/gutter-services"
-     },
-     {
-      "name": "Vision Roofing, Charlotte, posted gutter installation prices, read 2026-08-23",
-      "url": "https://visionroofingllc.com/services/gutters-installation-services/"
-     },
-     {
-      "name": "Best Choice Roofing, Charlotte, posted per-foot replacement figure, read 2026-08-23",
-      "url": "https://bestchoiceroofing.com/charlotte/new-gutter-cost-charlotte/"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

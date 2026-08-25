@@ -21,41 +21,25 @@ Expect practical questions: where the injury happened, what made the place unsaf
 I was hurt at a store, apartment, rental, or other private property
 
 ## symptom_1
-A fall or other injury on property does not establish a claim just because the injury was serious. The important work is identifying the condition, who controlled the area, and what can show that the condition existed long enough to be addressed. A wet entryway, uneven surface, failing handrail, loose flooring, poor lighting, falling merchandise, or broken gate each raises a different set of records. The practical first move is to preserve the scene before it changes: take wide and close photographs, save the shoes or clothing involved when relevant, write down what staff said, and identify anyone who saw it. Ask that video be preserved in writing; many systems overwrite footage quickly.
-
-Property control can be more complicated than the name on a sign. A retailer may lease space. A landlord may control common areas while a tenant controls the inside. A maintenance vendor may have a separate role. The exact place matters because it directs the record search toward inspection logs, cleaning schedules, repair tickets, lease responsibilities, policies, or prior complaints. Medical care matters as well, but do not let a form or insurance request turn your description of the incident into a rushed conclusion. Keep appointments, follow treatment directions, and retain bills and discharge paperwork.
-
-This is not a reason to assume fault or to confront a property owner. It is a reason to document the physical condition and the timeline while they can still be checked. A local attorney can evaluate whether the facts support a premises-liability claim and which person or organization may have had legal responsibility for the site.
+A fall on someone else's floor is not a claim on its own. What decides it is the condition, who ran that space, and how long the hazard sat there before you reached it. Photograph the spot from far back and up close, put something of known size beside any height difference, get the names of the staff who came over, and hand the manager a written request that video be held.
 
 ## symptom_2_title
-The injury involved a city, county, school, park, sidewalk, or other public property
+The medical care I got afterward may have made things worse
 
 ## symptom_2
-An injury tied to public property needs a faster first look than an ordinary private-property incident. The issue may be a dangerous condition at a public facility, a walkway, a park, a public building, or property maintained by a local entity. California’s Government Claims Act includes a notice requirement: Government Code section 911.2 says a claim for personal injury generally must be presented no later than six months after accrual. That is not the same as waiting to see whether an insurer responds, and it is not a deadline to estimate casually.
-
-Start by pinning down the correct public entity. “The city” may not be enough. The responsible organization could be the City of Modesto, Stanislaus County, a school district, a transit agency, or another district or authority. Preserve the exact location, photographs, date and time, names of employees or witnesses, and any report or incident number. If there is a physical condition, record it from more than one distance and note nearby landmarks. Do not assume a repair made after the incident proves what was known beforehand; the underlying records and the dates still matter.
-
-A public-entity claim also has its own administrative steps before a lawsuit can proceed. A response, rejection notice, late-claim request, or exception can carry separate rules. This card cannot tell you whether a claim is timely or valid. It explains why waiting for a complete recovery, a repair crew, or a routine insurance process can be risky when a government body may be involved. Prompt legal evaluation lets the proper notice and evidence questions be addressed early.
+A poor outcome is not proof of a mistake, and this state treats a claim against a clinician or hospital unlike every other injury case. There is an earlier clock, and a notice letter has to go out before anything can be filed. Ask in writing for the complete chart, including nursing notes and imaging with the radiologist's report, and get the sequence reviewed rather than waiting for an explanation to arrive.
 
 ## symptom_3_title
-I was injured while working in agriculture, food processing, or another job
+A machine, tool, or safety device failed and injured me
 
 ## symptom_3
-For a Modesto-area work injury, the first question is often not “who was careless?” but “which system applies?” Stanislaus County has a large agriculture and food-processing economy. State and county materials describe agriculture as supporting 29,192 direct county employees in 2017, and a Caltrans county forecast says food and beverage processing made up 47 percent of manufacturing employment. Those jobs can involve machinery, production lines, forklifts, ladders, repetitive tasks, chemicals, cold environments, and busy facilities. They also sit next to a legal boundary that matters immediately.
-
-California Labor Code section 3602 generally makes workers’ compensation the employee’s exclusive remedy against an employer when the statutory conditions apply. That does not mean every work-related injury has the same answer, and it does not determine whether another party played a role. A defective machine, a contractor, a property owner outside the employer relationship, or another company can change what needs review. The key is not to force a workplace incident into a personal-injury claim before the employment relationship and all potential actors are identified.
-
-Report the injury under the workplace process and keep copies of what you submit. Preserve photographs, work schedules, training materials, names of witnesses, equipment information, and any communications about the incident. If equipment caused the injury, do not alter it or agree to its disposal without understanding why its condition may matter. Seek medical attention promptly and describe how the incident occurred accurately. A legal review can separate the workers’ compensation process from possible claims involving someone other than the employer, without promising that such a claim exists.
+The object is the evidence. Do not return it, surrender it to an adjuster, or let anybody repair it. Keep the broken pieces, the box, the manual and the serial plate exactly as they are, and write down where it was bought and who assembled it. If this happened during a shift, report it through the workplace process as well and keep your own copy of what you filed.
 
 ## symptom_4_title
-A product, tool, or safety device failed and the injury may be life-changing
+The injury changed what the rest of my life will need
 
 ## symptom_4
-When a product injures someone, the product itself can be evidence. That is true for a household item, power tool, ladder, protective device, appliance, industrial component, or packaging. The first instinct is often to return it, let someone repair it, discard it, or give it to an insurer. Pause before doing that. Keep the item in the condition it was in after the event when safely possible. Save the packaging, instructions, receipt, serial number, photographs, and any broken pieces. Record the product name and where it came from, but do not try to test it again.
-
-A product matter can involve more than a simple “defect” label. The review may turn on how the product was designed, assembled, labeled, sold, installed, maintained, or used, and whether the warning or safety feature matched the foreseeable risk. If the injury happened at a job, there may also be a workers’ compensation issue to sort out before anyone assumes the employer is the only possible party. If the product was part of a building or rental, the property-control questions may overlap as well.
-
-For a serious injury, the record needs to show the human impact as well as the object. Keep treatment records, follow-up instructions, work restrictions, receipts, photographs over time, and a simple day-by-day account of limitations. Do not exaggerate and do not let a gap in paperwork become the only story of the recovery. This is a fact-heavy area. A local attorney can assess what should be preserved, which entities may be connected to the product, and whether the available evidence supports further action.
+When someone comes home from a trauma unit needing paid help, equipment or a rebuilt bathroom, most of the value of the claim sits in the future rather than in the bills already printed. Start a plain dated log of what assistance each day takes and what gets bought out of pocket. Keep every discharge summary and therapy plan, and get the future-care side evaluated early.
 
 ## qa_1_question
 What is the deadline if Modesto or another public entity may be involved?
@@ -213,21 +197,21 @@ Three different questions get collapsed into one when somebody asks what an inju
 
 ## pricing_body
 
-### Question one: what does California allow
+### Question one: what the statute demands of the paper
 
-Rule 1.5(a) of the California Rules of Professional Conduct states the whole standard in a single line: an attorney is barred from agreeing to, charging or collecting any unconscionable or illegal fee. No schedule follows, and no percentage for ordinary negligence work appears anywhere in the rule.
+No California provision prints a percentage for an ordinary negligence claim. What the state legislates instead is the document. Business and Professions Code section 6147(a) requires an agreement paid out of a recovery to be in writing, signed by both the attorney and the client, with a duplicate copy handed over at the moment of signing rather than mailed later.
 
-Rule 1.5(b) explains how unconscionability gets tested. It is judged on all the facts existing at the time the agreement was entered into, except where the parties contemplated later events affecting the fee, and thirteen listed circumstances feed the analysis: fraud or overreaching in setting the fee, failure to disclose material facts, the fee measured against the value of services actually performed, the relative sophistication of lawyer and client, the amount involved and results obtained, time and labor required, whether the fee is fixed or contingent, and informed consent.
+Four statements must appear in it. The agreed rate. What expenses and case costs will do to the fee and to the client's share of the recovery. Whether anything could be owed on related matters that grow out of the relationship yet sit outside the agreement. And, unless section 6146 governs the claim, that no law fixes the rate and it remains open to negotiation.
 
-Two consequences matter for anyone comparing arrangements along McHenry Avenue. The percentage is negotiable, and the review looks backward at the moment of signature. Rule 1.5(c) adds two flat prohibitions that show what a genuine ban looks like when California means one: no contingent fee in a family law dissolution or support matter, and, in subdivision (c)(2), none for representing a defendant in a criminal case. Injury claims appear on neither list.
+Subdivision (b) supplies the consequence. Miss any requirement of the section and the plaintiff may void the agreement, leaving the attorney a reasonable fee in place of the bargained share. A client comparing arrangements along McHenry Avenue can check that much without a legal education.
 
 ### Question two: whose percentages are those
 
 Three California provisions print numbers, and none of them governs a Modesto crash or fall.
 
-Business and Professions Code section 6146 sets a ceiling for actions against a health care provider based on professional negligence: twenty-five percent of the amount recovered where the claim resolves before a complaint or arbitration demand is filed, thirty-three percent afterward, and more only on a good-cause motion. The base is the net sum after disbursements. Medical negligence is its entire scope.
+Business and Professions Code section 6146 sets a ceiling for actions against a health care provider based on professional negligence. It allows twenty-five percent of the sum recovered where all parties sign a release before any complaint or arbitration demand goes in, and thirty-three percent afterward. More requires a good-cause motion. The base is the net figure after disbursements, and neither the patient's medical costs nor the attorney's overhead may be deducted from it. Medical negligence is the whole scope of the section, which is why section 6147 makes a claim inside it disclose that those rates are maximums open to negotiation downward.
 
-Labor Code section 4906 covers workers' compensation. A comp fee is unenforceable beyond what the appeals board finds reasonable, and no attorney may demand or accept payment from an injured worker until that board has approved or fixed the sum. Within ten days of execution the agreement is submitted for review, and the board looks at what responsibility the attorney took on, the care shown, the hours consumed and what the worker recovered, while a disclosure form sets out the range of fees customarily approved. Section 6147(c) excludes compensation contracts from the contingency contract statute altogether.
+Labor Code section 4906 covers workers' compensation. A comp fee is unenforceable beyond what the appeals board finds reasonable, and no attorney may demand or accept payment from an injured worker until that board has approved or fixed the sum. The board weighs the responsibility assumed, the care shown, the hours consumed and what the worker recovered. Section 6147(c) removes compensation contracts from the disclosure statute altogether.
 
 Civil Code section 3045.4 is the third and most frequently misread. A hospital holding a lien can reach the payor for the lien amount, or so much as can be satisfied out of 50 percent of the money due under a final judgment, compromise or settlement after prior liens are paid. That figure limits what the hospital takes from the injured person's recovery, not what a lawyer charges.
 
@@ -235,14 +219,170 @@ Civil Code section 3045.4 is the third and most frequently misread. A hospital h
 
 The Stanislaus County Superior Court posts the statewide civil fee schedule for its Modesto filings, so the amounts are public and identical for every litigant. Where the demand exceeds $10,000 but stays at or under $35,000, the first paper is $370, and the responding party pays $370 as well. At or below $10,000 both are $225. Anything pleading more than $35,000 is unlimited civil.
 
-The schedule also prices the middle of a case. Amending a complaint to raise the amount at issue is $145. Reclassifying a limited case as unlimited, which happens when discovery shows the injuries are worse than the first pleading assumed, is $140. Any motion or other paper requiring a hearing is $60, summary judgment or summary adjudication is $500, and the advance jury fee is $150 with later daily juror deposits set by the court. Court reporting is $30 for a hearing of an hour or less and shifts to a $700 full-day or $350 half-day per diem beyond that. Two items on the schedule do not apply here at all: the courthouse construction surcharges printed on it are collected only in Riverside, San Bernardino and San Francisco filings.
+Mid-case papers are priced on the same sheet. Amending a complaint to raise the amount at issue is $145. Reclassifying a limited case as unlimited, which happens when discovery shows the injuries are worse than the first pleading assumed, is $140. Any motion or other paper requiring a hearing is $60, summary judgment or summary adjudication is $500, and the advance jury fee is $150 with later daily juror deposits set by the court. Court reporting is $30 for a hearing of an hour or less and shifts to a $700 full-day or $350 half-day per diem beyond that. The courthouse construction surcharges printed on the same schedule are collected only in Riverside, San Bernardino and San Francisco.
 
-### Where the contract has to be explicit
+### Where the order of the arithmetic matters
 
-Section 6147(a) requires the contingency agreement to be written and signed by both sides, with a duplicate given to the plaintiff at signing, stating the rate, the effect of disbursements and costs on the fee and the recovery, any compensation owed for related matters, and, outside section 6146 claims, that the fee is not set by law but is negotiable. Subsection (b) makes noncompliance voidable at the plaintiff's option, leaving a reasonable fee.
-
-The cost-and-fee interaction is the practical heart of that list. Suppose a file carries $6,000 in records, deposition and filing expenses. Taking those off the recovery first and applying the percentage to what remains leaves the client a different number than applying the percentage first and reimbursing afterward. Both are lawful, and the contract has to say which one applies.
+The cost-and-fee interaction is the practical heart of the section 6147 disclosures. Suppose a file carries $6,000 in records, deposition and filing expenses. Taking those off the recovery first and applying the percentage to what remains leaves the client a different number than applying the percentage first and reimbursing afterward. Both are lawful, and the contract has to say which one applies.
 
 ### Worth pinning down before signature in Stanislaus County
 
-Confirm the rate at each stage in writing, including any change once a complaint is filed. Confirm the deduction order for expenses. Confirm who advances the jury fee, a reporter per diem or an expert retainer, and what happens to those advances if the case ends without a recovery. Confirm how a hospital or health plan lien gets handled before disbursement. And confirm the negotiability statement is present, since its absence is itself a defect the client can act on.
+Confirm the rate at each stage in writing, including any change once a complaint is filed, and the deduction order for expenses. Confirm who advances the jury fee, a reporter per diem or an expert retainer, and what becomes of those advances if the case ends without a recovery. Confirm how a hospital or health plan lien gets handled before disbursement. And check that the negotiability statement is there, since its absence is itself a defect the client can act on.
+
+## services_summary
+
+Four different jobs share one number on this page, and they do not run on the same rules. A fall at a Northwest Modesto shopping center turns on who inspected the floor and how often anyone walked it. Care that went wrong inside a hospital here carries a shorter clock and a notice letter that has to go out before anything is filed. A machine or consumer product can reach its maker, and sometimes the store, without proof that any person was careless. A permanent injury is valued mostly on care nobody has purchased yet. Filing the wrong kind of claim usually costs the deadline, not just the wait.
+
+## services_pick_head
+
+Start with what actually caused the harm
+
+## crosslink_head
+
+A different kind of injury
+
+## svc_slip_and_fall_lawyer_lede
+
+Wet tile inside a grocery entry, an unlit apartment stairwell in the College Area, a lifted sidewalk panel outside a storefront near La Loma. All three are premises claims, and each one lives or dies on a different pile of records.
+
+## svc_slip_and_fall_lawyer_body
+
+### The condition, and who answered for it
+
+California's general property rule sits in Civil Code section 1714, in wording that has stood since 1872. A person is responsible for injury caused to someone else by a want of ordinary care in managing property. For decades what you could recover depended on the label you wore when you arrived, trespasser or licensee or invitee. Rowland v. Christian threw that ranking out in 1968 and replaced it with a plainer question: did the person managing the place act reasonably, given how probable it was that somebody would be hurt. Where a court is asked to trim that duty back, it weighs a set list. Foreseeability of the harm, certainty that this plaintiff was injured, and how closely the conduct connects to the injury come first. Then moral blame, the policy of heading off future harm, the burden on the defendant and the wider community, and how available insurance is for that risk.
+
+### How long the hazard had been sitting there
+
+A store is not an insurer of everyone who walks through the door. Ortega v. Kmart put the burden on the injured person to show actual or constructive notice of the hazard, in time for the owner to have done something. The useful part of that decision is what it says about inspection. Where an owner cannot show the area was checked within a reasonable time, a jury is allowed to infer the condition had been there long enough to be found. That is an inference and not a presumption, so the defense still gets to argue it down. The court refused to fix any clock, and the earlier cases it collected ranged from a twenty-minute gap in walk-throughs to one of two and a half hours. In Ortega itself the sweep near the milk cooler ran every fifteen to thirty minutes, and the manager allowed that the puddle could have been down for five minutes or for two hours.
+
+### The rule that quietly ends pavement cases
+
+Trip on a raised slab and you will meet the trivial defect doctrine before you meet a jury. Government Code section 830.2 lets a trial or appellate court hold, as a matter of law and reading the evidence in the injured person's favor, that a condition was too minor to create a substantial risk for a walker using due care. Huckey v. City of Temecula laid out the factors courts now run through. Height or depth is only the opening item. The analysis also takes in broken pieces and jagged edges, dirt or debris hiding the defect from view, the walker's familiarity with the route, darkness, the weather, and whether the same spot had ever injured anyone else. Huckey involved a differential of nine sixteenths of an inch where the plaintiff's foot most likely struck, widening to one and seven thirty-seconds of an inch at the outer edge, and the city won.
+
+It does not always work that way. In Stack v. City of Lemoore the Fifth District upheld a jogger's verdict where two defects sat back to back, the leading one was tall with a rough edge, and pine needles hid part of it.
+
+### Public walk, private lot, or the owner fronting it
+
+Where the defendant is a public body, Government Code section 911.2 gives an injured person six months from accrual to present the claim. It is the shortest deadline most people in this county will ever face. The identity of the entity has to be pinned down first, since a walkway, a park path and a district facility may belong to different bodies. A public sidewalk can also produce a private defendant.
+
+Streets and Highways Code section 5610 places the duty to keep a fronting sidewalk in a condition that will not endanger persons or property on the owner of the abutting lot. Against the entity, notice runs through section 835.2. Constructive notice takes proof that the condition was obvious and stood long enough that reasonable care would have caught it, and the court may hear evidence on whether an inspection system existed and was actually operated. Where the layout itself is what failed, section 830.6 supplies design immunity if the plan had advance approval and any substantial evidence shows a reasonable employee could have adopted it.
+
+### The first week, in order
+
+Shoot the spot from twenty feet back and from a foot away, with something of known size beside a height difference. Note the light and the time. Ask in writing that video be held, and keep a copy of the request. Get the incident report number and the name of whoever wrote it. Keep the shoes unwashed. Then see a clinician and describe the mechanism accurately, because the chart becomes the first record of how you landed.
+
+### What the other side does with it
+
+Expect the file to be built around your own care rather than the floor. The hazard was open and obvious. You had walked that entrance for years. Nobody else had complained about it. Your attention was on a phone. Adjusters also mine gaps in treatment, earlier injuries to the same joint, and recorded statements taken in the first week. That is why the measurements and the inspection paperwork carry more weight than a strong account of the pain.
+
+### How the fee gets documented
+
+For an ordinary premises claim the percentage is not fixed anywhere in California law. Business and Professions Code section 6147 controls the paperwork instead. The agreement has to be written and signed by both sides, with a duplicate handed to the client at signing. It has to state the rate, how disbursements and costs will affect both the fee and the recovery, and, outside claims against health care providers, that the rate is negotiable rather than set by law. Miss any of that and the agreement becomes voidable at the client's option, leaving the attorney a reasonable fee.
+
+## svc_medical_malpractice_lawyer_lede
+
+A discharge that came too early, a scan nobody read, an infection that went unnoticed for two days. Families here usually arrive at this page holding a bad outcome, and the first job is separating a bad outcome from care that fell below the standard.
+
+## svc_medical_malpractice_lawyer_body
+
+### A poor result is not the claim
+
+Medicine carries known risks, and a complication that was disclosed and handled properly is generally not negligence. The claim is that the care itself fell below what a reasonably careful practitioner in the same field would have done, and that the shortfall caused the harm. Both halves have to hold. Causation is where many of these files stop, because a patient who was already gravely ill may have reached the same outcome under flawless treatment. That is why the analysis starts with the record rather than with the memory of the room.
+
+### Two clocks, and a letter that goes first
+
+Code of Civil Procedure section 340.5 runs a professional negligence claim on the shorter of two periods: three years from the date of injury, or one year from when the patient discovered, or with reasonable diligence should have discovered, the injury. Whichever arrives first ends it. The three-year outer limit stretches only on proof of fraud, intentional concealment, or a foreign body left inside with no therapeutic or diagnostic purpose. Children get their own rule. An action for a minor must be brought within three years of the wrongful act, and for a child under six it is three years or up to the eighth birthday, whichever gives longer.
+
+Section 364 adds a step that surprises people. No action may be commenced until the defendant has had at least ninety days' notice of the intention to file. No particular form is prescribed. The notice does have to identify what the claim rests on legally, what kind of loss followed, and, specifically, which injuries were suffered. If it is served inside the last ninety days before the limitations period closes, the deadline extends ninety days from service. The requirement does not apply to a defendant whose name is still unknown and who is sued under a fictitious name. A claim that clears the notice period and gets filed here is heard through the county's civil departments at the City Towers Courthouse on 10th Street downtown, where the civil clerk's window also sits.
+
+### Getting the chart, and what to ask for
+
+Request the complete record in writing rather than a summary, and name the parts people forget. Nursing notes, medication administration records, monitor strips, imaging with the radiologist's report, operative and anesthesia records, consultation notes, and the audit trail showing who opened the chart and when. Ask for the version as it existed on the date of care. Timing metadata often does more work than any single note, because the question is usually how long a finding sat unaddressed.
+
+### What the state limits, and what it leaves alone
+
+For cases filed on or after January 1, 2023, Civil Code section 3333.2 caps noneconomic damages, meaning the pain, the loss of function and the loss of a relationship. The starting figures were three hundred fifty thousand dollars where the patient survived and five hundred thousand where the negligence caused death. Each of those rises every January 1 for ten years, by forty thousand and fifty thousand respectively, climbing toward seven hundred fifty thousand and one million. The amount in force when judgment, award or settlement lands is the one that applies. Up to three separate limits can operate in a single case: one for health care providers as a group, one for institutions as a group, and one for an unaffiliated provider or institution whose own separate negligence occurred elsewhere. Economic loss sits outside all of it. Wage loss, attendant care, equipment and future treatment are proven and awarded on the evidence.
+
+### Where these claims get lost
+
+Talking through the incident with a risk manager or patient advocate before the record is in hand is the common one. So is accepting the word complication as an explanation without asking what the standard practice would have been. Waiting is the most expensive mistake of all, because the one-year discovery clock can start when a family first suspects something went wrong, not when a formal answer arrives. Signing an authorization that releases records to the facility's insurer while giving you nothing is another.
+
+### What the defense brings
+
+Expect board-certified experts in the same specialty testifying that the judgment call was within an accepted range, that the outcome was a recognized risk, and that the patient's own condition drove the result. Expect close reading of every missed appointment and every declined recommendation. Institutional defendants also litigate the notice letter and the limitations dates hard, since a dismissal on the calendar costs them nothing on the merits.
+
+### The one fee ceiling California actually prints
+
+This is the only injury claim in the state with statutory percentages. Business and Professions Code section 6146 caps the share at twenty-five percent where every party signs a settlement and release ahead of any filed complaint or arbitration demand, and at thirty-three percent once one of those has gone in. A higher share requires a motion showing good cause. The base is the net sum after disbursements, and the statute is explicit that the patient's medical costs and the attorney's office overhead are not deductible from it. Where future damages are ordered paid over time, the court values the stream across projected life expectancy and includes that total in the fee calculation. Section 6147 then requires the contract to say plainly that those rates are maximums and that a lower one can be negotiated.
+
+## svc_product_liability_lawyer_lede
+
+A guard that was never replaced after a cleaning shift, a ladder rail that folded, a heater that ignited what was next to it. In these files the object is the case, which is why the first instruction is the least intuitive one.
+
+## svc_product_liability_lawyer_body
+
+### Do not send the product anywhere
+
+Retailers offer refunds, employers order repairs, and adjusters ask for the item so their engineer can look at it. Every one of those requests, granted, can end the claim. Keep the item as it came to rest, along with every fragment, the packaging, the manual, the receipt and the serial or model plate. Photograph the labels and any warning text before anything moves. Write down where it was bought, who assembled or installed it, what it was doing when it failed, and who else was there. If the failure happened on a shift, report the injury through the workplace process too and keep your own copy of what you filed.
+
+### Three ways a product goes wrong
+
+Strict liability in California does not ask whether the maker was careless. It asks whether the product was defective and whether the defect caused the harm. A manufacturing defect means this unit departed from its own intended design, so the comparison is against the rest of the production run. A design defect means every unit carries the same flaw. A warning defect means the risk was knowable and the instructions or labeling did not convey it. The same failure can support more than one theory, and the evidence each one needs is different.
+
+### Which design test a jury gets
+
+Barker v. Lull Engineering set two routes. The first asks what an ordinary buyer would have assumed about safety. A product fails that route when its performance fell short of those minimum assumptions during use that was intended, or that the maker could reasonably have foreseen. Under the risk-benefit route, the injured person proves the design caused the harm, and then the burden of proof shifts to the manufacturer to show the design's benefits outweigh its inherent danger. A jury weighing that considers the gravity of the danger, how likely it was to occur, whether a safer design was mechanically feasible, what it would have cost, and what an alternative would have taken away from the product. Soule v. General Motors then fenced the first route in. Consumer expectation is reserved for failures where minimum safety is within the common knowledge of lay jurors. Where the theory turns on the behavior of obscure components under complex conditions, the case belongs to the risk-benefit analysis.
+
+### Who stays in the case, and who gets out
+
+Vandermark v. Ford put retailers squarely inside strict liability. A seller is part of the enterprise that profits from distributing the goods, is sometimes the only member of it the injured person can reach, and can press the maker on safety. The same decision held that a manufacturer cannot escape by tracing a flaw to a part someone else supplied.
+
+Component makers have their own shelter. O'Neil v. Crane held that a manufacturer is not liable for harm caused by another maker's product unless its own product contributed substantially to the harm, or it took a substantial part in creating the harmful combined use. Warning duties also shift with the audience. Under Johnson v. American Standard a supplier owes no warning to a sophisticated user who knew or should have known of the danger. Webb v. Special Electric allows a supplier to rely on a sufficiently sophisticated purchaser to pass warnings downstream. General awareness of a category of risk, though, is not the same as knowledge of the specific hazard sold.
+
+### Guarding, in a county that processes food
+
+Stanislaus County reported agriculture supporting 29,192 direct employees in 2017, and a Caltrans county forecast put food and beverage processing at 47 percent of local manufacturing employment. That mix produces a particular injury pattern, and Cal/OSHA writes to it. Title 8 section 4002 requires guarding wherever a machine creates a hazardous shearing, punching, pressing, rolling or mixing action, including pinch and shear points not already guarded by the frame or by location. Section 3314 covers what happens when the guard comes off. Equipment capable of movement must be stopped and de-energized before cleaning, servicing or adjusting, unjamming included, with blocking or lockout where inadvertent movement is possible. If the machine truly must run, the employer has to supply extension tools. Written lockout steps for each machine are required under subsection (g). In agriculture, section 3441 tells operators to keep every guard in place while the machine runs and to shut the engine down before unclogging it.
+
+Enforcement records show how often that fails. A planned inspection opened at a Modesto food processing plant in September 2018, run by the division's high hazard unit for the north state. It produced serious citations under the Group 8 machine-guarding sections, the largest carrying a penalty of 5,565 dollars, along with a citation for missing written lockout procedures. In a Tehama County case the division cited a walnut sheller and a labor contractor more than 100,000 dollars combined after a temporary worker was crushed beneath an 800-pound bin dumper that lowered automatically.
+
+### The employer boundary, and why it is not the end
+
+Labor Code section 3602 generally makes workers' compensation the exclusive remedy against an employer when its conditions apply. It says nothing about the company that built the machine, the firm that removed or defeated the guard, the party that leased the equipment, or the owner of the site. Identifying every entity that touched the machine is the practical work of the first month.
+
+### How the fee and the expenses are set
+
+These files carry real costs. Metallurgical or human factors experts, exemplar purchases, testing, and depositions of engineers in other states all get advanced before anything is recovered. Business and Professions Code section 6147 requires the agreement to state the rate, to spell out how those disbursements affect both the fee and what reaches the client, and to say that the rate is negotiable rather than fixed by law. Ask which comes first, the percentage or the cost reimbursement, since the order changes the client's number.
+
+## svc_catastrophic_injury_lawyer_lede
+
+A spinal cord injury, an amputation, a brain injury that changes how someone speaks. The bills already printed are the small part of these files. Almost all of the value sits in care and lost capacity that has not happened yet.
+
+## svc_catastrophic_injury_lawyer_body
+
+### What puts a case in this category
+
+The label is not about the size of the emergency room bill. It is about permanence: a deficit that will require paid help, equipment, home modification or supervision for the rest of a life, or that ends a working career. Locally the acute end of that path is short. The state EMS Authority's list of designated and verified trauma centers shows two Level II adult trauma centers in this city, both under the county's own local emergency medical services agency. Neither carries a pediatric designation on that list, which is why a badly injured child may be flown out of the county entirely. That travel matters later, because records, imaging and billing end up scattered across systems that do not talk to each other.
+
+### The largest number in the file has not been billed
+
+Future care is proven, not estimated in a paragraph. A life care plan is built by a qualified planner from the treating team's own recommendations, then priced. It sets out attendant hours by shift, replacement intervals for a wheelchair and a cushion, catheter and wound supplies, home and vehicle modification, revision surgeries, therapy blocks, medication, and case management, each with a frequency and a duration. An economist then reduces the stream to present value and separately values what the injured person can no longer earn. Code of Civil Procedure section 667.7 gives a useful checklist of what counts as future damages: medical treatment, care or custody, loss of future earnings, loss of bodily function, and future pain and suffering.
+
+### When a judgment gets paid over time
+
+That same section is the state's periodic payment provision, and it is narrower than most people assume. It applies in an action for injury or damages against a provider of health care services. There, at the request of either party, the court must enter judgment ordering future damages paid periodically rather than in a lump sum if the award reaches two hundred fifty thousand dollars in future damages. The judgment names the recipients, the amount, the interval and the number of payments, and a judgment debtor without adequate insurance has to post security. The portion representing loss of future earnings is not cut off by death; it goes to the people the recipient owed a duty of support. A continuing failure to pay is contempt, and carries the resulting damages, costs and attorney's fees. Outside a health care claim there is no equivalent statute, so a premises or product judgment is a lump sum unless the parties build a structured settlement by agreement.
+
+### Insurance you paid for stays out of the arithmetic
+
+Helfend v. Southern California Rapid Transit District settled the collateral source rule in this state, and applied it to public entities as well as private defendants. Compensation reaching the injured person from a source wholly independent of the wrongdoer is not deducted from damages. The court framed it as a policy choice favoring people who buy and keep insurance. It reaches benefits the person paid for directly or through employment, and benefits a source recoups by subrogation or refund. Evidence of the coverage is normally kept from the jury under Evidence Code section 352, so a defendant who wants it in has to make a proper offer of proof.
+
+### How fault splits when several parties are involved
+
+Civil Code section 1431.2 divides the award in two. Noneconomic damages are several only, never joint. Each defendant pays the share allocated to it in direct proportion to its own percentage of fault, in a separate judgment. Economic damages are not treated that way, and the statute defines them broadly enough to cover medical expenses, lost earnings, lost business opportunity and the cost of substitute domestic services. The practical consequence shows up when the party carrying most of the blame has little insurance. The economic side may still be collectible from a better-funded defendant, while the noneconomic side is limited to whatever share the jury assigns to each.
+
+### What the first months look like
+
+Get the acute records requested while the treating team still remembers the patient, and gather imaging on disc rather than as printed reports. Photograph the scene and the equipment before anything is repaired or cleared. Identify every insurer and health plan that has paid a dollar, because their reimbursement rights get resolved before disbursement rather than after. Start a dated log of daily help required, hours by task, and every item purchased out of pocket. Preserve the pay records and job description that establish earning capacity. If a public entity may own the site, treat the six-month presentment rule under Government Code section 911.2 as the controlling date on the calendar.
+
+### How a fee works on a file that runs for years
+
+Cases like these commonly run past two years and carry six figures of advanced cost in experts, life care planning, economic analysis and depositions. Business and Professions Code section 6147 requires the written agreement to state the rate, to explain how costs and disbursements affect both the fee and the recovery, and to disclose any compensation owed on related matters that arise out of the relationship. Outside a claim against a health care provider it must also state that the rate is negotiable and not set by law. Failure on any of those points makes the agreement voidable at the client's option, and a reasonable fee is what remains.

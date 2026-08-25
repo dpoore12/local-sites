@@ -7,9 +7,9 @@
 - All wording belongs to the Dallas window-replacement market and should not be reusable elsewhere. The site validator rejects a run of fifteen matching words from another site.
 - Present a site visit and completed installation work, never a paid or promised phone discussion. The price is set before installation begins.
 - Do not invent a company, license credential, review total, operating history, or stated dollar amount; no tenant has been assigned.
-- This first phase contains the home, about, and contact pages only. Do not add service-page copy.
-- The visible home-page total must stay from 1,700 to 3,200 words.
-- Each of the four symptom sections carries 200–360 words because it is the complete phase-one explanation.
+- This site is in phase two: home, about, contact, pricing, and four service pages.
+- The visible home-page total must stay from 1,300 to 2,300 words.
+- Each of the four symptom sections carries 40–80 words because the four service pages hold the detail.
 - `site.json` must contain three sourced local facts and six genuine Dallas neighborhoods.
 
 ---
@@ -40,11 +40,7 @@ The room stays hot near an old aluminum window
 
 ## symptom_1
 
-A window can be intact and still be the weak spot in a Dallas room. The usual clues are a hot strip of floor in the afternoon, a draft at the meeting rails in winter, outdoor noise coming through a closed sash, or blinds that seem to do more work than the glass. Older thin aluminum frames conduct heat readily, and original single-pane glass does not offer the separation provided by a modern insulated unit. Around Lakewood, Casa Linda, and long-built Oak Cliff blocks, that combination is worth looking for before assuming the air conditioner is the only issue.
-
-The first step is not picking a glass package from a brochure. The opening is measured, the frame is checked for movement and corrosion, and the sill is examined for a path that lets water sit or drain toward the wall. A replacement that fits the rough opening but ignores a soft sill or failed exterior seal only hides the problem for a while. If the existing frame is sound, an insert-style replacement may preserve more interior trim. If the frame is distorted, leaking, or too damaged to hold a square unit, a fuller replacement can be the cleaner choice. That decision belongs at the opening, after the old construction is visible.
-
-Dallas adopted its current residential energy code in 2023, and window specifications now include U-factor and solar heat-gain coefficient limits. Those figures are not decoration on a label. They help compare how a window handles heat flow and sun. Orientation, shading, room use, and the amount of glazing matter too. A south- or west-facing living-room wall needs a different conversation than a small shaded bathroom window. The work should end with sashes that latch, weatherstripping that contacts evenly, and exterior details that direct water away from the opening.
+An intact window can still be the hottest object in a Dallas room. A warm strip of floor by mid-afternoon, heat radiating off a west-facing pane, a frame too thin to interrupt the heat path: those point at the glass specification rather than the air conditioner. The adopted energy code caps solar heat gain on a replacement unit at 0.25, and that ceiling is where the conversation starts.
 
 ## symptom_2_title
 
@@ -52,13 +48,7 @@ The view is cloudy even after you clean both sides
 
 ## symptom_2
 
-Cloudiness that will not wipe away is often inside a failed insulated-glass unit. Two panes are separated by a sealed airspace. When the perimeter seal breaks down, moisture can enter that space and leave a haze, droplets, or a milky film between the panes. Cleaning the room side or the exterior will not reach it. The glass may still be in the opening, but the insulated portion has lost the condition it was designed to maintain.
-
-A technician first confirms where the moisture is. Condensation on the room side can come from indoor humidity or a cold glass surface. Moisture on the exterior can be a weather condition. Fog that stays trapped between panes is different. The surrounding sash and frame then need inspection. If a frame is straight, operates properly, and matches other nearby units, replacing the glass assembly may be sensible when the product can be correctly sourced. If the sash is warped, the balance hardware is worn out, or the frame leaks at its corners, a new insulated-glass unit alone may not solve the full problem.
-
-This distinction matters on Dallas houses where a room may have a mix of old and newer windows. Replacing every window because one has fogged glass is not automatically the right answer. But neither is treating a fogged unit as cosmetic if it comes with air leakage, sticking hardware, or a frame that has begun to deteriorate. The visit should identify what can stay, what needs replacement, and whether an exact visual match is realistic. Divided-light patterns, frame color, grid placement, and visible glass tint can all affect the result.
-
-Once the scope is chosen, the work is careful removal, preparation of the opening, placement and shimming so the sash remains square, insulation without overpacking the frame, flashing or exterior sealant where appropriate, and a final operating check. The goal is a clear view and a window that works as a complete weather barrier, not simply a new piece of glass set into an old problem.
+Haze that survives cleaning both surfaces is sealed inside the glass rather than sitting on it. A double-pane unit holds a dry, sealed cavity between the panes, and once the perimeter seal gives up, humid air works in and leaves film, streaks or standing droplets where nobody can reach them. The frame may be entirely serviceable. The insulating half of the assembly is finished.
 
 ## symptom_3_title
 
@@ -66,13 +56,7 @@ A cracked pane, broken sash, or damaged frame
 
 ## symptom_3
 
-A cracked pane needs attention even if a strip of tape seems to keep it together. Glass edges can spread with vibration and temperature changes, and a damaged insulated unit no longer performs as intended. Keep children and pets away from loose glass. If a sash is unstable, do not force it open or closed. Covering an opening temporarily may protect the room until the replacement visit, but it is not a substitute for correcting the damaged window and the reason it failed.
-
-The cause is part of the job. A lawn impact, a fallen branch, or a settlement-related frame twist produces a different inspection than a glass crack that appears without a visible strike. The technician checks the sash, glazing stops, locks, sill, and the surrounding wall finish. A frame that is out of square can keep stressing a new glass unit. A leaking exterior joint can soften wood or conceal damage behind trim. A single replacement installed into an opening that is not prepared correctly becomes the next failure point.
-
-For a like-for-like damaged-window replacement in Dallas, city guidance says repairs and replacement of damaged windows typically do not require a permit. That does not mean every project is identical. Work that changes the opening, affects structural parts of the wall, or occurs in a historic, conservation, or planned-development district may bring extra approval requirements. In those cases, the scope should be confirmed before an order is placed, not after materials have arrived. This is a window-specific check, not a generic construction warning.
-
-The replacement choice should fit the opening and the household’s priorities. Tempered safety glass may be appropriate in certain locations. An insulated unit may be needed to match adjacent units or improve a particularly exposed room. A discontinued sash can make full-window replacement more realistic than piecing together old hardware. Before work begins, know whether the plan is glass only, sash replacement, or a complete unit, plus what work is needed around the opening and how old materials are removed.
+Cracked glass travels with vibration and temperature swing, and tape buys time rather than safety. A split sash or a frame pushed out of square keeps loading whatever unit goes in next, so the cause gets inspected alongside the break. Keep people and pets clear of loose shards, and leave an unstable sash shut until someone has looked at the opening itself.
 
 ## symptom_4_title
 
@@ -80,13 +64,7 @@ The window sticks, drops, will not lock, or lets water in
 
 ## symptom_4
 
-A hard-to-open window is not always a minor annoyance. A sash that binds can leave a bedroom without a usable opening, while a lock that will not engage affects security and can be a sign the frame has shifted. Water staining at a sill, peeling paint, swollen trim, or a soft spot around the interior casing points beyond the hardware. The question is whether the issue is limited to a worn balance, track, crank, or latch—or whether the window and its surrounding opening have reached the point where replacement is the more durable repair.
-
-Begin with what the sash does. A vertical sash that slams down may have failed balance hardware. A slider that grinds can have worn rollers, a bent track, accumulated debris, or frame movement. A crank window that will not fully close may have stripped hardware or a distorted sash. These are different mechanisms, and no one should promise the same repair for all of them from a photo. The technician opens and closes the unit, verifies the lock alignment, checks for daylight around the weatherstripping, and looks outside at the sill, head flashing, brick or siding interface, and drainage path.
-
-Water needs particular care. Caulk smeared over a leaking joint is rarely a reliable fix if the sill is sloped wrong, the exterior trim is failing, or water is getting behind the frame. The surrounding material has to be probed before a new unit is installed. Any damaged wood or loose exterior detail should be addressed as part of preparing a stable, dry opening. A replacement window works only when it is square, supported, sealed in the right places, and allowed to shed water outward.
-
-Dallas’s housing mix makes that inspection useful. A mid-century ranch may have narrow aluminum frames; a later brick home may have a bulky builder-grade unit with a failing insulated sash; a renovated home can combine several generations of windows. The outcome is specific: identify whether hardware service is enough, whether the glass or sash can be replaced, or whether the whole window should be removed and reset. The price and scope are outlined before work starts.
+A sash that will not slide, drops on its own, or refuses to latch is a safety item before it is an irritation. A bedroom window has to open by hand, and a lock missing its keeper usually means something in the frame has moved. Staining under the sill, swollen casing or trim that gives under a thumb says water reached the wall already.
 
 ## qa_1_question
 
@@ -119,6 +97,18 @@ Put a technician in front of the problem window, get the replacement path in wri
 ## about_summary
 
 This page is for Dallas homeowners deciding what to do with a window that has stopped doing its job. It is built around the city’s older aluminum-frame stock, the sun-exposed rooms that make glass selection matter, and the practical difference between a failed insulated-glass unit, worn hardware, and an opening that needs real preparation. The work starts at the house: measure carefully, inspect the surrounding frame and wall, set out the scope, then install the replacement correctly.
+
+## services_summary
+
+Four jobs share one heading here, and they buy different things. A window replacement is a decision about the frame: whether the existing one stays and takes an insert, or comes out to the rough opening. Installation is the part that decides whether the unit lasts, because it is water management and hazard glazing, not carpentry. A double-pane replacement answers a failed seal, which sometimes needs glass alone. A sliding-window job carries the mid-century aluminum stock, the track, and the egress arithmetic that a single moving leaf makes tight. Two label numbers apply to all four, and the code cares about them on an alteration.
+
+## services_pick_head
+
+Start with the frame, then the failure
+
+## crosslink_head
+
+Another window job in mind?
 
 ## value_1_title
 
@@ -296,7 +286,7 @@ Window and door replacement prices published by Dallas-area companies, opening b
 
 ### Per window is the only unit that compares
 
-Every whole-house number in this trade is a per-opening price multiplied by a count, so the first thing to do with any proposal is divide. A quote of $14,000 means nothing until it becomes $14,000 across 16 openings, or $875 each, at which point it can be set beside a published per-window figure and judged. Companies in this market post installed vinyl anywhere from roughly $400 to $1,350 per opening, fiberglass from about $700, and aluminum-clad wood past $2,000, and the same house can be quoted at all three levels without anybody misbehaving.
+Every whole-house number in this trade is a per-opening price multiplied by a count, so the first thing to do with any proposal is divide. A quote of $14,000 means nothing until it becomes $14,000 across 16 openings, or $875 each, at which point it can be set beside a published per-window figure and judged. Companies in this market post installed vinyl anywhere from roughly $400 to $1,350 per opening, fiberglass from about $700, and aluminum-clad wood past $2,000.
 
 Three variables drive position inside a band. Frame material and brand tier come first and account for most of the spread. Installation method comes second: an insert reuses the existing frame, while a full-frame tear-out goes to the rough opening and rebuilds trim, flashing, and sometimes the sill. Size and glass come third, and they are lumpy rather than linear. A large fixed pane, a tempered unit beside a door, or grids between the panes add cost at one opening while the rest of the house stays flat.
 
@@ -312,7 +302,7 @@ The adopted City of Dallas development services fee schedule prices alterations 
 
 ### The tax credit conversation, told straight
 
-The federal 25C credit paid 30 percent of product cost with a $600 annual cap for windows and skylights meeting the ENERGY STAR Most Efficient criteria. It applied to products purchased and installed between January 1, 2023 and December 31, 2025. IRS guidance on the 2025 tax law states the credit will not be allowed for any property placed in service after December 31, 2025. So for work being scheduled now, that credit is closed. Anyone still using it as a reason to sign this month is either behind on the law or counting on the homeowner to be. Utility and manufacturer programs come and go independently and should be verified at the source, not taken from a sales sheet.
+The federal 25C credit paid 30 percent of product cost with a $600 annual cap for windows and skylights meeting the ENERGY STAR Most Efficient criteria. It applied to products purchased and installed between January 1, 2023 and December 31, 2025. IRS guidance on the 2025 tax law states the credit will not be allowed for any property placed in service after December 31, 2025. So for work being scheduled now, that credit is closed. Anyone still selling it as a reason to sign this month is behind on the law. Utility and manufacturer programs change independently and should be verified at the source.
 
 ### Reading a real window quote
 
@@ -320,8 +310,148 @@ It lists every opening with location, size, style, and glass package, so the cou
 
 ### The upsell pattern here
 
-The whole-house package sold to fix two failed windows. Fogging between panes means a sealed unit lost its seal, and in a sound frame the honest fix is a glass-only swap. The reverse trap exists too: repeated glass swaps in aluminum frames that sweat every winter, where replacement would have solved the real complaint. The tiebreaker is the frame. If it is straight, drains, and operates, keep it.
+The whole-house package sold to fix two failed windows. Fogging between panes means a sealed unit lost its seal, and in a sound frame the honest fix is a glass-only swap. The reverse trap: repeated glass swaps in aluminum frames that should have been replaced instead. The tiebreaker is the frame. If it is straight, drains, and operates, keep it.
 
 ### What the numbers here leave out
 
-Rotted sill or trim discovered on tear-out. Structural work at an altered opening. Interior paint after full-frame installation. Alarm sensor and blind reinstallation. Disposal of old aluminum and glass. And the second visit when one custom unit arrives wrong, which is common enough to plan around rather than be surprised by.
+Rotted sill or trim discovered on tear-out. Structural work at an altered opening. Interior paint after full-frame installation. Alarm sensor and blind reinstallation. Disposal of old aluminum and glass. And the second visit when one custom unit arrives wrong.
+
+## svc_window_replacement_lede
+
+A replacement window is a code purchase wearing the costume of a shopping decision. Two numbers on the label decide whether a unit belongs in this county, and the one that matters most in a Texas August is the one least often quoted.
+
+## svc_window_replacement_body
+
+### The code Dallas actually enforces on your window
+
+The city runs the 2021 International Energy Conservation Code as Chapter 59 of the Dallas City Code, titled the Dallas Energy Conservation Code. The adopting ordinance passed on April 12, 2023, took effect on May 12, 2023, and carries a penalty of up to $2,000 for a violation. The same ordinance edits the prescriptive envelope tables rather than adopting them untouched, which is why a national spec sheet is not the last word on a Dallas job.
+
+Geography then splits the numbers. The code's own climate zone table lists Dallas County as Zone 2A and Collin County as Zone 3A, so two houses fifteen miles apart answer to different lines of the same table. In Zone 2A the prescriptive maximum window U-factor is 0.40. In Zone 3A the model code says 0.30, and Dallas relaxed its own amended table to 0.32. Both zones cap glazed fenestration solar heat gain at 0.25.
+
+### Why the solar number outranks the insulation number
+
+U-factor measures heat conducted through the whole assembly, frame included. Solar heat gain coefficient measures the fraction of the sun's energy the glazing lets through, and it works whether the outdoor air is warm or not. In a cooling climate with long afternoons, a west or south wall of glass admits radiant load that no U-factor improvement offsets. A unit can post an impressive insulation figure and still cook a living room. That is why 0.25 is the line worth reading first, and why a clear double-pane unit with no low-emissivity coating disappoints people who paid for an upgrade.
+
+### The alteration rule most sales calls skip
+
+Homeowners are often told the code applies only to new construction. The existing-buildings chapter says otherwise. Where some or all of a fenestration unit is replaced with a new product, including sash and glazing, the replacement has to meet the table's U-factor and solar heat gain limits. Where several units go in at once, an area-weighted average across them is an accepted alternative, which is how one large picture window can be balanced by the rest of the order. Storm windows over existing sash and surface-applied film on single-pane glass are listed exceptions, and historic buildings can be excused where a signed report shows compliance would damage historic fabric.
+
+### Reading the label instead of the brochure
+
+Performance is certified through the National Fenestration Rating Council, and a certified product carries two labels. The temporary paper label is the one with the numbers: U-factor, solar heat gain coefficient and visible transmittance. The permanent label carries a certified product directory number and no performance data at all, so it identifies the unit without proving anything about it. The council's own guidance is blunt about the paper one: if the temporary label is missing, the product is treated as not certified, and it cannot be emailed or faxed after the fact. Take a photograph of every label before anyone peels it off, then match the directory number against the public listing.
+
+### What an unlabeled window costs on paper
+
+An unlabeled unit does not get the benefit of the doubt. The code assigns default values instead, and they are punishing by design. A metal-frame single-pane window is assumed to have a U-factor of 1.20; metal-frame double glazing, 0.80; nonmetal or metal-clad frames, 0.95. Default solar heat gain is 0.8 for single clear glazing and 0.7 for double clear. Nothing in that range passes a Dallas table, so a bargain window with no paperwork can fail an inspection while sitting perfectly plumb in the wall.
+
+### Insert or full-frame, decided at the opening
+
+An insert reuses the existing frame and leaves interior casing and exterior trim largely alone. It suits a frame that is square, dry, drains, and has a sill in sound condition, and it costs a little glass area because the new frame nests inside the old one. Full-frame removal goes back to the rough opening and puts the sheathing, the sill, the flashing and the head detail in plain view. That is the correct route when aluminum has corroded at the corners, when wood has gone soft, or when the opening needs to be squared before anything square can seal in it. Buyers wanting more than the minimum can look at the ENERGY STAR criteria for the Southern zone, which cap window U-factor at 0.32 and solar heat gain at 0.23.
+
+### Older blocks add a review step before an order
+
+Exterior work on a designated landmark or in a Dallas historic district needs a certificate of appropriateness before it starts. Small like-for-like items can be handled as routine maintenance at staff level, and the city commits to processing a certificate within 21 days, with most finished in seven to ten business days. Larger alterations and every demolition go to the Landmark Commission, which meets the first Monday of the month at 1:00 PM at 1500 Marilla Street, with applications due the fourth Monday at noon. Preservation Dallas guidance is worth reading before spending anything: it advises against replacing a historic window solely for peeling paint, broken glass, a stuck sash, missing hardware or high air infiltration, and against installing replacements whose visible light transmittance falls below 0.5.
+
+## svc_window_installation_lede
+
+Installation is where a good window becomes a bad one. The work is water management and hazard glazing rather than trim carpentry, and the tell is unmistakable: a failed installation shows up as rot in the wall, not as a draft you can feel.
+
+## svc_window_installation_body
+
+### Why the failure smells like wet wood rather than wind
+
+A draft announces itself. Water does not. Seal the perimeter of an opening on the inside and trap moisture on the outside, and the leak has nowhere to go but into sheathing, framing and the bottom of the casing. The first symptom is a soft spot two seasons later. Every wall assembly leaks a little; the question is whether the water gets back out. That is why the crew's attention belongs on the drainage path, the laps and the sill, and why caulk applied over the top of a failing joint is a repair with an expiry date.
+
+### The order of laps, and the pan under the unit
+
+Water moves down and sideways, so each layer has to shed onto the one below it. A sill pan, sloped out and closed at its back edge, catches whatever gets past the frame and returns it to daylight. Jamb flashing laps over the pan, head flashing laps over the jambs, and the weather-resistive barrier laps over the head, never the reverse. Around a brick return the details tighten: a masonry opening leaves less room for a proper pan, the steel lintel above wants clearance, and the mortar joint is not a sealant. Foam belongs in the shim space in a light pass, not packed hard enough to bow a jamb out of operation.
+
+### Where the glass has to be tempered
+
+Safety glazing is not a taste question. The residential code names hazardous locations, and windows in them need glazing that meets an impact standard. Glazing in a door qualifies, as does glazing beside a door where the bottom edge sits less than 60 inches above the floor and any part of the pane falls within 24 inches of the closed door's vertical edge. A window pane larger than 9 square feet counts where its bottom edge is under 18 inches, its top edge is over 36 inches, and a walking surface sits within 36 inches horizontally.
+
+Wet areas are stricter. Glazing in walls and enclosures containing or facing bathtubs, showers, hot tubs, whirlpools, saunas, steam rooms and indoor pools is hazardous whenever the bottom exposed edge is less than 60 inches, measured vertically, above any standing or walking surface. The exception is distance: more than 60 inches horizontally from the water's edge. Stairs bring their own lines, at less than 36 inches above a walking surface, and within a 60-inch arc of the bottom tread's nosing when the pane sits under 36 inches above the landing.
+
+### The mark that proves it, and it has to stay visible
+
+Each pane in a hazardous location carries a permanent manufacturer designation, applied by acid etching, sandblasting, ceramic firing, laser etching or embossing, so that it cannot be removed without damaging the glass. Find it in a corner before the crew leaves, and keep it out of the caulk line. An installer who cannot point to a mark on the pane beside a shower or a patio door has given you an inspection item, not a finished job.
+
+### A new unit must not shrink an escape opening
+
+Every sleeping room needs an operable emergency escape and rescue opening, and the numbers are unforgiving. Net clear opening is at least 5.7 square feet, reduced to 5 square feet only at grade-floor openings. Minimum clear height is 24 inches and minimum clear width is 20 inches, both achieved by normal operation and without tools or special knowledge. The bottom of that clear opening cannot sit more than 44 inches above the floor. Approved opening control devices are allowed, positioned no more than 70 inches above the finished floor. Because an insert nests inside the old frame, it takes clear opening away, which is exactly how a legal bedroom window becomes an illegal one during an upgrade.
+
+### The energy paperwork the city asks for on a remodel
+
+Dallas hands out a residential remodels and renovations form for the energy code, and two of its checkboxes are windows: adding new exterior doors and windows, and replacing existing windows or doors at the same size. Answering yes can mean hiring a certified third-party energy code inspector, and an energy code compliance certificate has to be provided before the first requested inspection. The compliance path form itself is not required with a remodel permit application, but the certificate is still expected at the end of the project, and city staff sign off the energy process before a building final passes.
+
+### What a finished installation should do in front of you
+
+Every sash cycles through its full travel and latches without a shoulder behind it. Weatherstripping meets evenly, with no daylight at the corners. Weep paths are open, not caulked shut. The exterior perimeter is sealed where sealing belongs and left open where drainage belongs. Interior casing sits tight to a plumb jamb. Then water gets run at the head and the sill before anyone loads a truck.
+
+## svc_double_pane_window_replacement_lede
+
+Fog between the panes is the one window failure nobody can argue about. What is worth arguing about is the fix, because the frame around a dead sealed unit is often in better shape than the sales pitch admits.
+
+## svc_double_pane_window_replacement_body
+
+### What is actually inside a sealed unit
+
+An insulating glass unit is two panes held apart by a spacer around the perimeter, sealed twice. A primary seal keeps gas in and moisture out, a secondary seal carries the structural load and protects the primary, and a desiccant inside the spacer absorbs whatever vapor remains after assembly. The cavity may hold air or a heavier inert gas. Nothing about that assembly is repairable in place. Its whole performance depends on staying sealed, and the desiccant has a finite appetite.
+
+### Why this climate is hard on the seal
+
+The cavity breathes whether the manufacturer likes it or not. Solar load raises cavity pressure through the afternoon and pulls it back down overnight, flexing the sealant twice a day, every day. Add ultraviolet exposure on the sealant bead, dark frames that run hotter than the air around them, and a summer that repeats the cycle for months, and the fatigue is cumulative rather than dramatic. Failure then arrives quietly. Sightlines pick up a film, then a tide mark, then droplets that come and go with the sun.
+
+### The tell, and what it rules out
+
+Moisture on the room side is indoor humidity meeting a cold surface, which is a ventilation and glass-temperature conversation. Moisture on the outside is weather. Haze that shifts through the day, will not wipe from either surface, and leaves a mineral outline as it dries is inside the cavity. Look for a stain pattern that follows the spacer line, because that is where the seal usually lets go first. A hair dryer and a rag settle the question in a minute.
+
+### Glass alone, or the whole unit
+
+The frame decides. A frame that is square, drains, and operates properly can take a new sealed unit while keeping its trim, its opening size and its escape clearance untouched. That is the honest answer to one fogged window in a sound wall, and it is a smaller job than the one usually proposed. The frame loses the argument when balances are gone, an aluminum corner has opened up, the sash is bowed, glazing stops are brittle, or the sill no longer sheds water. Glazing new glass into a frame that moves buys another failed seal.
+
+### Swapping the glass does not suspend the code
+
+The energy code's alteration rule reaches sash and glazing, not only whole windows. Replacement glazing therefore answers to the same table as a full unit: solar heat gain no higher than 0.25 in either local climate zone, with the U-factor line set by the county the house sits in. Where a batch of units goes in together, an area-weighted average across the batch is permitted. Ask for the certified product directory number of the exact glass makeup being ordered, not the family name of the product line.
+
+### Double pane is a construction, not a performance claim
+
+Two panes and a spacer say nothing about heat. A clear insulating unit with no low-emissivity coating admits most of the solar load that came through the single pane it replaced, and homeowners feel the difference mainly at night. The coating, its position in the cavity, and the tint carry the solar number. The ENERGY STAR Version 7.0 criteria, effective October 23, 2023, cap Southern zone window solar heat gain at 0.23 with a U-factor at or below 0.32, tighter than the local prescriptive line. The Department of Energy's consumer guide puts household savings from qualifying windows at 7 to 15 percent of an annual energy bill and notes low-emissivity coatings can cut ultraviolet fading by as much as 75 percent.
+
+### Matching, and the paperwork that outlives the crew
+
+One replaced unit sits beside its neighbors for twenty years, so the match matters more than it seems on order day. Glass tint, coating generation, grid pattern and grid placement between panes are all visible from the sidewalk, and a slightly greener pane in a row of five is a permanent reminder. Keep the temporary label photograph, the invoice, the directory number and the glass makeup together. A sealed-unit warranty is usually measured against the date and the specification on that paperwork, and it is the only leverage available the second time a seal fails.
+
+## svc_sliding_window_replacement_lede
+
+Sliders dominate whole streets of postwar Dallas housing, and they fail in a pattern: rollers, track, latch, then the seal. Replacing one is straightforward until the bedroom escape numbers are checked, because a single moving leaf gives up half the opening.
+
+## svc_sliding_window_replacement_body
+
+### Why so many local houses slide rather than lift
+
+The horizontal aluminum slider arrived with the postwar building boom and stayed. It was cheap to extrude, quick to set into a masonry opening, and it suited long low elevations, which is why Lakewood, Lochwood, Casa Linda and Lake Highlands carry so many of them. Thin aluminum conducts heat straight through the frame, and the original glazing in that stock is usually single pane. So the frame is often the weak point before the glass is, and the replacement conversation starts with what the opening was built to hold.
+
+### What wears out, in order
+
+Rollers go first. Grit collects in the lower track, the wheels flatten, and the sash starts dragging on the extrusion instead of rolling along it. Next the track deforms under that load, so the sash tips and the interlock no longer meets its mate. Latches then miss their keeper because the sash is riding low. Weep openings clog with the same debris, so the track holds water instead of releasing it. By the time the seal at the meeting stile whistles, several of those have happened, and a new roller in a bent track is a two-month reprieve.
+
+### The escape arithmetic a slider makes tight
+
+A slider only opens across half its width, and the emergency escape rules count clear opening rather than frame size. A sleeping room needs 5.7 square feet of net clear opening, or 5 square feet at a grade-floor opening, with clear height at least 24 inches and clear width at least 20 inches, reached by normal operation without tools. Do the multiplication before ordering: 5.7 square feet is about 821 square inches, so a 20-inch clear width has to be paired with roughly 41 inches of clear height to satisfy it. The sill limit is separate and easily missed, because the bottom of the clear opening cannot sit above 44 inches from the floor. Wide short sliders under a high sill are the classic bedroom problem in this housing stock.
+
+### Tempered glass where a slider meets a patio door
+
+Many of these openings sit beside a sliding patio door, and that proximity has a rule attached. Glazing next to a door is a hazardous location where its bottom edge is below 60 inches from the floor and any part of the pane falls within 24 inches of the door's closed vertical edge. The same 60-inch vertical trigger governs a slider serving a bathtub or shower area, unless the pane stands more than 60 inches horizontally from the water's edge. Confirm the order specifies tempered where those lines fall, and look for the permanent etched designation in the corner of the delivered pane.
+
+### Hail, impact glazing, and what nobody requires here
+
+North Texas earns its reputation for glass-breaking storms. The National Weather Service office covering Dallas recorded a 5.25-inch hailstone during the April 11, 2016 supercell, the largest in its forecast area, and reported that 80 percent of homes in Wylie were affected with damage above $300 million. Nothing in the code answers that with a mandate. The state windstorm inspection program applies only to designated catastrophe counties along the coast, plus certain cities in Harris County, and Dallas County is not among them. Impact-rated glazing inland is therefore a purchase, not a requirement, and the way to buy it is by the tested rating and the label rather than the word laminated in a brochure.
+
+### Water lives in the sill track
+
+A slider drains through its own frame. Weep slots in the outer sill let the track empty, and an internal path carries water back out below the sash. Sealing that path is the single most common well-meant mistake on these units, because a bead of caulk across the exterior sill turns the track into a bathtub. Water then stands against the interlock, wicks into the interior casing, and stains a wall the homeowner blames on the glass. On a replacement, the pan under the unit and the open weeps do the work, and the exterior sealant stops short of both.
+
+### Security and the way it should feel afterward
+
+A sliding sash lifts as easily as it slides, so the hardware has to control both. A latch that engages a keeper positively, an anti-lift provision at the head, and a track free of debris matter more than a second lock screwed to the frame. When the job is finished the sash should move with one hand from either end of its travel, latch without lifting, and stop where it is left. Then the same check as any window: even weatherstrip contact, no daylight at the corners, open weeps, and water run at the head before the crew packs up.

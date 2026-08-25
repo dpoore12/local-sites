@@ -1,9 +1,10 @@
 {
   "domain": "jacksonvillewrongfuldeathlawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Jacksonville Wrongful Death Law Pros",
   "service": "Wrongful Death Lawyer",
   "service_inline": "wrongful death lawyer",
+  "vertical": "legal",
   "city": "Jacksonville",
   "state": "FL",
   "state_full": "Florida",
@@ -139,7 +140,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "The sliding fee schedule Florida actually publishes for a Duval County death claim, tier by tier",
+    "table_head": "The sliding fee schedule Florida publishes, tier by tier",
     "col_a": "What it covers",
     "col_b": "What Florida sets",
     "anchors": [

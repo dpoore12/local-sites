@@ -1,227 +1,228 @@
 {
- "domain": "newyorkdogbitelawyerpros.com",
- "phase": 1,
- "brand": "New York Dog Bite Law Pros",
- "service": "Dog Bite Lawyer",
- "service_inline": "dog bite lawyer",
- "city": "New York",
- "state": "NY",
- "state_full": "New York",
- "counties": [
-  "New York"
- ],
- "area_codes": [
-  "212",
-  "646",
-  "332",
-  "718",
-  "347",
-  "929",
-  "917"
- ],
- "phone_display": "(646) 914-9310",
- "phone_tel": "+16469149310",
- "phone_status": "LIVE",
- "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "medical_costs_split",
-   "claim": "New York Agriculture and Markets Law §123(10) makes the owner or lawful custodian of a dangerous dog strictly liable for medical costs resulting from an injury caused by that dog.",
-   "why_it_matters": "That medical-cost rule is narrower than many people expect. A claim for pain, lost income or other damages still commonly depends on proof that the owner knew or should have known the dog had dangerous or vicious tendencies, so the file must preserve both treatment evidence and proof of prior behavior.",
-   "sources": [
-    "https://www.nysenate.gov/legislation/laws/AGM/123",
-    "https://www.nycourts.gov/courts/AD2/Handdowns/2024/Decisions/D74332.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Medical costs and the rest of the claim are not the same question"
-  },
-  {
-   "id": "health_reporting",
-   "claim": "NYC Health requires any type of animal bite to be reported within 24 hours of the event, and the city coordinates follow-up with the animal, owner and person bitten to assess rabies risk.",
-   "why_it_matters": "The Health Department report is a time-stamped public-health record that can help identify the dog and owner. It should be made promptly alongside medical care, while the separate evidence of notice, prior behavior and property control is preserved.",
-   "sources": [
-    "https://www.nyc.gov/site/doh/health/health-topics/animals-and-wildlife-report-animal-bite.page",
-    "https://portal.311.nyc.gov/article/?kanumber=KA-01109"
-   ],
-   "verified": "2026-08-22",
-   "title": "A bite report is due within 24 hours"
-  },
-  {
-   "id": "bite_data_2024",
-   "claim": "NYC Health reported 3,814 dog bites to city residents in 2024, the highest count in the 2015-2024 period and a 51% increase from 2015.",
-   "why_it_matters": "The citywide count underscores why a prompt Health Department report and a careful evidence record matter. A report addresses public-health follow-up; a civil claim still needs facts about the dog's prior behavior, the owner's notice and, in a building, any party with control.",
-   "sources": [
-    "https://www.nyc.gov/assets/doh/downloads/pdf/survey/dog-bites-2026.pdf",
-    "https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg"
-   ],
-   "verified": "2026-08-22",
-   "title": "Reported bites reached a ten-year high in 2024"
-  }
- ],
- "neighborhoods": [
-  "Harlem",
-  "Upper West Side",
-  "Chelsea",
-  "East Village",
-  "Washington Heights",
-  "Lower East Side"
- ],
- "symptoms": [
-  "bitten_by_dog",
-  "child_bitten_by_dog",
-  "dog_bite_at_rental",
-  "insurer_denied_claim"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "The fee schedule the First Department applies to a New York County injury claim",
-  "col_a": "What it covers",
-  "col_b": "What the schedule sets",
-  "anchors": [
-   {
-    "label": "Flat ceiling under Schedule B",
-    "value": "33 1/3%",
-    "detail": "Available only where the original retainer chose it, and choosing it gives up any later application for extra compensation.",
-    "source_name": "22 NYCRR 603.25(e)(2)",
-    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
-   },
-   {
-    "label": "Top step of the graduated Schedule A",
-    "value": "50%",
-    "detail": "Applies to the first $1,000 recovered only, then the schedule falls to 40, 35 and finally 25 percent above $25,000.",
-    "source_name": "22 NYCRR 603.25(e)(2)",
-    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
-   },
-   {
-    "label": "Index number from the County Clerk",
-    "value": "$210",
-    "detail": "CPLR 8018 sets $190 payable in advance plus $5 for records management and $15 for the cultural education account.",
-    "source_name": "CPLR 8018(a)",
-    "source_url": "https://www.nysenate.gov/legislation/laws/CVP/8018"
-   },
-   {
-    "label": "City license, unaltered dog over four months",
-    "value": "$34",
-    "detail": "A spayed or neutered dog is $8.50 a year, and a lapsed license carries a $2 fine for each year it went unrenewed.",
-    "source_name": "NYC Health dog license fees",
-    "source_url": "https://www.nyc.gov/site/doh/services/dog-licenses.page"
-   }
+  "domain": "newyorkdogbitelawyerpros.com",
+  "phase": 2,
+  "brand": "New York Dog Bite Law Pros",
+  "service": "Dog Bite Lawyer",
+  "service_inline": "dog bite lawyer",
+  "vertical": "legal",
+  "city": "New York",
+  "state": "NY",
+  "state_full": "New York",
+  "counties": [
+    "New York"
   ],
-  "fee_rows": [
-   {
-    "stage": "Schedule A, the graduated option",
-    "share": "50 / 40 / 35 / 25 percent",
-    "note": "Fifty percent of the first $1,000, forty of the next $2,000, thirty-five of the next $22,000, then twenty-five percent of everything past $25,000.",
-    "source_name": "22 NYCRR 603.25(e)(2)",
-    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
-   },
-   {
-    "stage": "Schedule B, the flat option",
-    "share": "Not above 33 1/3 percent",
-    "note": "The rule allows it only if the initial contract says so, and then shuts off the extraordinary circumstances application that Schedule A keeps open.",
-    "source_name": "22 NYCRR 603.25(e)(2)",
-    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
-   },
-   {
-    "stage": "Whether the percentage runs on net or gross",
-    "share": "The client picks",
-    "note": "Under 603.25(e)(3) the retainer must describe both methods and show the choice, and hospital and treatment liens are never deducted first.",
-    "source_name": "22 NYCRR 603.25(e)(3)",
-    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
-   },
-   {
-    "stage": "Anything above the schedule",
-    "share": "Unconscionable without an order",
-    "note": "603.25(e)(1) treats an excess fee as the exaction of unreasonable and unconscionable compensation unless a judge authorizes it in a written order.",
-    "source_name": "22 NYCRR 603.25(e)(1)",
-    "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
-   },
-   {
-    "stage": "Malpractice sliding scale",
-    "share": "30 / 25 / 20 / 15 / 10 percent",
-    "note": "Judiciary Law 474-a governs medical, dental and podiatric malpractice only. A bite claim against an owner is expressly outside it.",
-    "source_name": "Judiciary Law 474-a(2)",
-    "source_url": "https://www.nysenate.gov/legislation/laws/JUD/474-A"
-   },
-   {
-    "stage": "A claim belonging to a child",
-    "share": "Court fixes the amount",
-    "note": "Judiciary Law 474 voids a percentage agreement with an infant's guardian unless the court, on notice, summarily values the services and orders the fee.",
-    "source_name": "Judiciary Law 474",
-    "source_url": "https://www.nysenate.gov/legislation/laws/JUD/474"
-   }
-  ]
- },
- "hero_accent": "What The Law Says About Dog Attacks",
- "trust_third": "Liability rules explained before you call",
- "services": [
-  {
-   "slug": "dog-bite-injury-claim",
-   "name": "Dog Bite Injury Claims",
-   "nav": "Dog bite claims",
-   "h1": "Dog Bite Injury Lawyer",
-   "accent": "Injuries, Evidence and Liability",
-   "keyword": "dog bite injury lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "212",
+    "646",
+    "332",
+    "718",
+    "347",
+    "929",
+    "917"
+  ],
+  "phone_display": "(646) 914-9310",
+  "phone_tel": "+16469149310",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "child-dog-bite-claim",
-   "name": "Child Dog Bite Claims",
-   "nav": "Child bite claims",
-   "h1": "Child Dog Bite Claim Lawyer",
-   "accent": "Medical Needs and Future Damages",
-   "keyword": "child dog bite lawyer",
-   "icon": "eye"
+  "local_facts": [
+    {
+      "id": "medical_costs_split",
+      "claim": "New York Agriculture and Markets Law §123(10) makes the owner or lawful custodian of a dangerous dog strictly liable for medical costs resulting from an injury caused by that dog.",
+      "why_it_matters": "That medical-cost rule is narrower than many people expect. A claim for pain, lost income or other damages still commonly depends on proof that the owner knew or should have known the dog had dangerous or vicious tendencies, so the file must preserve both treatment evidence and proof of prior behavior.",
+      "sources": [
+        "https://www.nysenate.gov/legislation/laws/AGM/123",
+        "https://www.nycourts.gov/courts/AD2/Handdowns/2024/Decisions/D74332.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Medical costs and the rest of the claim are not the same question"
+    },
+    {
+      "id": "health_reporting",
+      "claim": "NYC Health requires any type of animal bite to be reported within 24 hours of the event, and the city coordinates follow-up with the animal, owner and person bitten to assess rabies risk.",
+      "why_it_matters": "The Health Department report is a time-stamped public-health record that can help identify the dog and owner. It should be made promptly alongside medical care, while the separate evidence of notice, prior behavior and property control is preserved.",
+      "sources": [
+        "https://www.nyc.gov/site/doh/health/health-topics/animals-and-wildlife-report-animal-bite.page",
+        "https://portal.311.nyc.gov/article/?kanumber=KA-01109"
+      ],
+      "verified": "2026-08-22",
+      "title": "A bite report is due within 24 hours"
+    },
+    {
+      "id": "bite_data_2024",
+      "claim": "NYC Health reported 3,814 dog bites to city residents in 2024, the highest count in the 2015-2024 period and a 51% increase from 2015.",
+      "why_it_matters": "The citywide count underscores why a prompt Health Department report and a careful evidence record matter. A report addresses public-health follow-up; a civil claim still needs facts about the dog's prior behavior, the owner's notice and, in a building, any party with control.",
+      "sources": [
+        "https://www.nyc.gov/assets/doh/downloads/pdf/survey/dog-bites-2026.pdf",
+        "https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg"
+      ],
+      "verified": "2026-08-22",
+      "title": "Reported bites reached a ten-year high in 2024"
+    }
+  ],
+  "neighborhoods": [
+    "Harlem",
+    "Upper West Side",
+    "Chelsea",
+    "East Village",
+    "Washington Heights",
+    "Lower East Side"
+  ],
+  "symptoms": [
+    "bitten_by_dog",
+    "child_bitten_by_dog",
+    "dog_bite_at_rental",
+    "insurer_denied_claim"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "landlord-dog-bite-liability",
-   "name": "Landlord Liability Claims",
-   "nav": "Landlord liability",
-   "h1": "Landlord Dog Bite Liability Lawyer",
-   "accent": "Property Control and Notice Questions",
-   "keyword": "landlord dog bite liability lawyer",
-   "icon": "house"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "The fee schedule the First Department applies to a New York County injury claim",
+    "col_a": "What it covers",
+    "col_b": "What the schedule sets",
+    "anchors": [
+      {
+        "label": "Flat ceiling under Schedule B",
+        "value": "33 1/3%",
+        "detail": "Available only where the original retainer chose it, and choosing it gives up any later application for extra compensation.",
+        "source_name": "22 NYCRR 603.25(e)(2)",
+        "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+      },
+      {
+        "label": "Top step of the graduated Schedule A",
+        "value": "50%",
+        "detail": "Applies to the first $1,000 recovered only, then the schedule falls to 40, 35 and finally 25 percent above $25,000.",
+        "source_name": "22 NYCRR 603.25(e)(2)",
+        "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+      },
+      {
+        "label": "Index number from the County Clerk",
+        "value": "$210",
+        "detail": "CPLR 8018 sets $190 payable in advance plus $5 for records management and $15 for the cultural education account.",
+        "source_name": "CPLR 8018(a)",
+        "source_url": "https://www.nysenate.gov/legislation/laws/CVP/8018"
+      },
+      {
+        "label": "City license, unaltered dog over four months",
+        "value": "$34",
+        "detail": "A spayed or neutered dog is $8.50 a year, and a lapsed license carries a $2 fine for each year it went unrenewed.",
+        "source_name": "NYC Health dog license fees",
+        "source_url": "https://www.nyc.gov/site/doh/services/dog-licenses.page"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Schedule A, the graduated option",
+        "share": "50 / 40 / 35 / 25 percent",
+        "note": "Fifty percent of the first $1,000, forty of the next $2,000, thirty-five of the next $22,000, then twenty-five percent of everything past $25,000.",
+        "source_name": "22 NYCRR 603.25(e)(2)",
+        "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+      },
+      {
+        "stage": "Schedule B, the flat option",
+        "share": "Not above 33 1/3 percent",
+        "note": "The rule allows it only if the initial contract says so, and then shuts off the extraordinary circumstances application that Schedule A keeps open.",
+        "source_name": "22 NYCRR 603.25(e)(2)",
+        "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+      },
+      {
+        "stage": "Whether the percentage runs on net or gross",
+        "share": "The client picks",
+        "note": "Under 603.25(e)(3) the retainer must describe both methods and show the choice, and hospital and treatment liens are never deducted first.",
+        "source_name": "22 NYCRR 603.25(e)(3)",
+        "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+      },
+      {
+        "stage": "Anything above the schedule",
+        "share": "Unconscionable without an order",
+        "note": "603.25(e)(1) treats an excess fee as the exaction of unreasonable and unconscionable compensation unless a judge authorizes it in a written order.",
+        "source_name": "22 NYCRR 603.25(e)(1)",
+        "source_url": "https://www.nycourts.gov/LegacyPDFS/rules/jointappellate/1st%20Dept.%20-%20603.25.pdf"
+      },
+      {
+        "stage": "Malpractice sliding scale",
+        "share": "30 / 25 / 20 / 15 / 10 percent",
+        "note": "Judiciary Law 474-a governs medical, dental and podiatric malpractice only. A bite claim against an owner is expressly outside it.",
+        "source_name": "Judiciary Law 474-a(2)",
+        "source_url": "https://www.nysenate.gov/legislation/laws/JUD/474-A"
+      },
+      {
+        "stage": "A claim belonging to a child",
+        "share": "Court fixes the amount",
+        "note": "Judiciary Law 474 voids a percentage agreement with an infant's guardian unless the court, on notice, summarily values the services and orders the fee.",
+        "source_name": "Judiciary Law 474",
+        "source_url": "https://www.nysenate.gov/legislation/laws/JUD/474"
+      }
+    ]
   },
-  {
-   "slug": "dog-bite-insurance-claim",
-   "name": "Dog Bite Insurance Claims",
-   "nav": "Insurance claims",
-   "h1": "Dog Bite Insurance Claim Lawyer",
-   "accent": "Coverage, Offers and Claim Terms",
-   "keyword": "dog bite insurance claim lawyer",
-   "icon": "check"
+  "hero_accent": "What The Law Says About Dog Attacks",
+  "trust_third": "Liability rules explained before you call",
+  "services": [
+    {
+      "slug": "dog-bite-injury-claim",
+      "name": "Dog Bite Injury Claims",
+      "nav": "Dog bite claims",
+      "h1": "Dog Bite Injury Lawyer",
+      "accent": "Injuries, Evidence and Liability",
+      "keyword": "dog bite injury lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "child-dog-bite-claim",
+      "name": "Child Dog Bite Claims",
+      "nav": "Child bite claims",
+      "h1": "Child Dog Bite Claim Lawyer",
+      "accent": "Medical Needs and Future Damages",
+      "keyword": "child dog bite lawyer",
+      "icon": "eye"
+    },
+    {
+      "slug": "landlord-dog-bite-liability",
+      "name": "Landlord Liability Claims",
+      "nav": "Landlord liability",
+      "h1": "Landlord Dog Bite Liability Lawyer",
+      "accent": "Property Control and Notice Questions",
+      "keyword": "landlord dog bite liability lawyer",
+      "icon": "house"
+    },
+    {
+      "slug": "dog-bite-insurance-claim",
+      "name": "Dog Bite Insurance Claims",
+      "nav": "Insurance claims",
+      "h1": "Dog Bite Insurance Claim Lawyer",
+      "accent": "Coverage, Offers and Claim Terms",
+      "keyword": "dog bite insurance claim lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "dog-bite-injury-claim",
+    "child-dog-bite-claim",
+    "landlord-dog-bite-liability",
+    "dog-bite-insurance-claim"
+  ],
+  "_market": {
+    "keyword": "dog bite lawyer new york",
+    "monthly_price": 500,
+    "score": 83,
+    "volume": 250,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "nydogbite.com",
+    "competitor_dr": 1.1
   }
- ],
- "symptom_service": [
-  "dog-bite-injury-claim",
-  "child-dog-bite-claim",
-  "landlord-dog-bite-liability",
-  "dog-bite-insurance-claim"
- ],
- "_market": {
-  "keyword": "dog bite lawyer new york",
-  "monthly_price": 500,
-  "score": 83,
-  "volume": 250,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "nydogbite.com",
-  "competitor_dr": 1.1
- }
 }

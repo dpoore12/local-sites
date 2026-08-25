@@ -1,289 +1,290 @@
 {
- "domain": "modestoacrepairpros.com",
- "phase": 2,
- "brand": "Modesto Air Conditioner Repair Pros",
- "service": "Air Conditioner Repair",
- "service_inline": "air conditioner repair",
- "city": "Modesto",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Stanislaus"
- ],
- "area_codes": [
-  "209",
-  "350"
- ],
- "phone_display": "(209) 309-9163",
- "phone_tel": "+12093099163",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "housing_vintage",
-   "title": "Half of Modesto's housing predates 1980",
-   "claim": "The median Modesto housing unit was built in 1979, and the 1970s alone account for 18,432 of the city's 75,882 units, the largest single decade. Roughly 51 percent of the housing stock predates 1980. The spread is wide: the streets around Modesto Junior College in the College Area were laid out in the 1920s and 1930s, while Village One on the northeast side was built mostly in the 1990s and early 2000s.",
-   "why_it_matters": "Vintage decides what a technician expects to find. Seventies and eighties tracts typically put the air handler in a hallway closet or a garage alcove, with undersized return grilles, one-inch filter slots and supply ducts that have baked in an attic for decades. Newer construction on the north and east edges usually has attic-mounted equipment and tighter ducts, which changes both the airflow diagnosis and where a failed condensate drain does damage.",
-   "sources": [
-    "https://censusreporter.org/profiles/16000US0648354-modesto-ca/",
-    "https://data.census.gov/table/ACSDT5Y2024.B25035",
-    "https://en.wikipedia.org/wiki/College_Area,_Modesto,_California"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "valley_heat_and_dust",
-   "title": "Long triple-digit runs, and valley air full of particulate",
-   "claim": "NWS Sacramento's Modesto climate summary for July 2026 recorded 26 days at or above 90 degrees, a monthly high of 104 on the 14th and 15th, and 0.00 inches of rain, with cooling degree days running 135 above the 1991-2020 normal for the year to date. Modesto Airport logged 45 days at or above 100 degrees in 2024. Meanwhile the San Joaquin Valley air basin is designated nonattainment for the federal fine particulate standard and nonattainment for both state particulate standards, and Stanislaus County harvested 217,352 acres of almonds in 2024, its highest-value crop, with harvest shakers and sweepers working dry orchard floors from August into October.",
-   "why_it_matters": "Long dry heat runs the equipment near its ceiling for months, and valley particulate plus orchard-season dust packs outdoor condenser fins and loads filters far faster than a coastal city would explain. A fouled coil cannot reject heat, so head pressure rises, capacity falls and the compressor draws more current at exactly the time of year it can least afford to. Coil cleaning and frequent filter changes are maintenance here, not an upsell.",
-   "sources": [
-    "https://forecast.weather.gov/product.php?site=CRH&issuedby=MOD&product=CLM&format=CI&version=1&glossary=0",
-    "https://www.weather.gov/sto/",
-    "https://www.valleyair.org/air-quality-information/ambient-air-quality-standards-valley-attainmnet-status/",
-    "https://www.stanag.org/pdf/cropreport/cropreport2024.pdf"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "permit_rule",
-   "title": "A changeout here needs a permit and a HERS test",
-   "claim": "The City of Modesto's Building Safety Division at 1010 Tenth Street issues the mechanical permit for HVAC work, and the city's expedited permit program lets a properly licensed contractor apply for, pay for and obtain an HVAC permit online. Modesto sits in California Building Climate Zone 12, and Title 24 requires refrigerant charge verification by an independent HERS rater on air-cooled air conditioner alterations in Climate Zones 2 and 8 through 15.",
-   "why_it_matters": "A capacitor or a drain clear is a straightforward repair with nothing to file. A condenser swap or a full system changeout is permitted work, and because Modesto falls inside the charge-verification climate zones, a compliant job includes third-party HERS verification and duct leakage testing. That is real cost and real scheduling, so ask any contractor whether the permit and the HERS registration are inside the quoted figure.",
-   "sources": [
-    "https://www.modestogov.com/2102/Expedited-Permits",
-    "https://www.modestogov.com/1281/Building-Permits",
-    "https://www.calbo.org/sites/main/files/file-attachments/residential_hvac_regulations.pdf?1525201917",
-    "https://www.energy.ca.gov/sites/default/files/2021-03/2019_Chapter%204%20-%20Building%20HVAC%20Requirements_ADA.pdf"
-   ],
-   "verified": "2026-08-21"
-  }
- ],
- "neighborhoods": [
-  "College Area",
-  "La Loma",
-  "Bret Harte",
-  "Sherwood Forest",
-  "Sylvan",
-  "Village One"
- ],
- "symptoms": [
-  "ac_not_cooling",
-  "ac_blows_warm_air",
-  "ac_leaking_water",
-  "ac_wont_turn_on"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Cool Air Restored Today",
- "trust_third": "Repair price quoted before work begins",
- "services": [
-  {
-   "slug": "air-conditioner-repair",
-   "name": "Air Conditioner Repair",
-   "nav": "AC repair",
-   "h1": "Air Conditioner Repair",
-   "accent": "Cool Air Restored Fast",
-   "keyword": "air conditioner repair",
-   "icon": "wrench"
-  },
-  {
-   "slug": "ac-compressor-repair",
-   "name": "AC Compressor Repair",
-   "nav": "Compressor repair",
-   "h1": "AC Compressor Repair",
-   "accent": "Compressor Problems Diagnosed Clearly",
-   "keyword": "ac compressor repair",
-   "icon": "gear"
-  },
-  {
-   "slug": "ac-refrigerant-leak-repair",
-   "name": "AC Refrigerant Leak Repair",
-   "nav": "Refrigerant leaks",
-   "h1": "AC Refrigerant Leak Repair",
-   "accent": "Leaks Found and Cooling Restored",
-   "keyword": "ac refrigerant leak repair",
-   "icon": "search"
-  },
-  {
-   "slug": "ac-tune-up",
-   "name": "AC Tune-Up",
-   "nav": "AC tune-up",
-   "h1": "AC Tune-Up",
-   "accent": "Cooling Tuned for Reliable Comfort",
-   "keyword": "ac tune up",
-   "icon": "check"
-  }
- ],
- "symptom_service": [
-  "air-conditioner-repair",
-  "ac-refrigerant-leak-repair",
-  "air-conditioner-repair",
-  "ac-compressor-repair"
- ],
- "_market": {
-  "keyword": "ac repair modesto",
-  "monthly_price": 1500,
-  "score": 90,
-  "volume": 450,
-  "cpc_usd": 25.0,
-  "weakest_competitor": "lovesair.com",
-  "competitor_dr": 3.9
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "Modesto and Stanislaus County prices, job by job",
-  "anchors": [
-   {
-    "label": "Minor mechanical, plumbing and electrical permit",
-    "value": "$242",
-    "detail": "The fiscal year 2025 to 2026 fee schedule charges $242 for the minor permit covering an HVAC replacement. A water heater permit is $139.",
-    "source_name": "City of Modesto Building Safety Division development user fees, fiscal year 2025-26",
-    "source_url": "https://www.modestogov.com/DocumentCenter/View/19115/Building-Safety-Division-Development-User-Fees-Fiscal-Year-25-26-PDF"
-   },
-   {
-    "label": "MID rebate, high efficiency central air conditioner",
-    "value": "$350 or $600",
-    "detail": "MID pays $350 on a qualifying central air conditioner and $600 at the higher tier, with heat pumps at $450 and $700, up to 65,000 Btu per hour.",
-    "source_name": "Modesto Irrigation District residential rebate catalog",
-    "source_url": "https://middev-tomcat.azurewebsites.net/rebates/home/documents/MID_residential_catalog.pdf"
-   },
-   {
-    "label": "Median hourly wage, heating and air conditioning mechanics",
-    "value": "$31.13",
-    "detail": "May 2025 median for the 470 HVAC mechanics and installers in the Modesto metro area, a small trade pool against a valley summer.",
-    "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
-    "source_url": "https://www.bls.gov/oes/current/oes_33700.htm"
-   }
+  "domain": "modestoacrepairpros.com",
+  "phase": 2,
+  "brand": "Modesto Air Conditioner Repair Pros",
+  "service": "Air Conditioner Repair",
+  "service_inline": "air conditioner repair",
+  "vertical": "home",
+  "city": "Modesto",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Stanislaus"
   ],
-  "rows": [
-   {
-    "job": "Diagnostic visit on a system that stopped cooling",
-    "low": 65,
-    "high": 99,
-    "basis": "per visit",
-    "note": "Local shops differ on whether it is credited. One states the fee is waived with a paid repair, another that it never applies to labor.",
-    "sources": [
-     {
-      "name": "Irish Heat and Air, Modesto and Stanislaus County, posted diagnostic fee, read 2026-08-23",
-      "url": "https://www.irishheatandair.com/service-area/"
-     },
-     {
-      "name": "De Hart Plumbing Heating and Air, Modesto, posted diagnostic fee, read 2026-08-23",
-      "url": "https://www.dehartinc.com/modesto/hvac/air-conditioning/ac-repair-maintenance"
-     },
-     {
-      "name": "Geske Air Conditioning and Heating, Modesto, posted diagnostic pricing, read 2026-08-23",
-      "url": "https://www.geskeair.com/"
-     }
+  "area_codes": [
+    "209",
+    "350"
+  ],
+  "phone_display": "(209) 309-9163",
+  "phone_tel": "+12093099163",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "housing_vintage",
+      "title": "Half of Modesto's housing predates 1980",
+      "claim": "The median Modesto housing unit was built in 1979, and the 1970s alone account for 18,432 of the city's 75,882 units, the largest single decade. Roughly 51 percent of the housing stock predates 1980. The spread is wide: the streets around Modesto Junior College in the College Area were laid out in the 1920s and 1930s, while Village One on the northeast side was built mostly in the 1990s and early 2000s.",
+      "why_it_matters": "Vintage decides what a technician expects to find. Seventies and eighties tracts typically put the air handler in a hallway closet or a garage alcove, with undersized return grilles, one-inch filter slots and supply ducts that have baked in an attic for decades. Newer construction on the north and east edges usually has attic-mounted equipment and tighter ducts, which changes both the airflow diagnosis and where a failed condensate drain does damage.",
+      "sources": [
+        "https://censusreporter.org/profiles/16000US0648354-modesto-ca/",
+        "https://data.census.gov/table/ACSDT5Y2024.B25035",
+        "https://en.wikipedia.org/wiki/College_Area,_Modesto,_California"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "valley_heat_and_dust",
+      "title": "Long triple-digit runs, and valley air full of particulate",
+      "claim": "NWS Sacramento's Modesto climate summary for July 2026 recorded 26 days at or above 90 degrees, a monthly high of 104 on the 14th and 15th, and 0.00 inches of rain, with cooling degree days running 135 above the 1991-2020 normal for the year to date. Modesto Airport logged 45 days at or above 100 degrees in 2024. Meanwhile the San Joaquin Valley air basin is designated nonattainment for the federal fine particulate standard and nonattainment for both state particulate standards, and Stanislaus County harvested 217,352 acres of almonds in 2024, its highest-value crop, with harvest shakers and sweepers working dry orchard floors from August into October.",
+      "why_it_matters": "Long dry heat runs the equipment near its ceiling for months, and valley particulate plus orchard-season dust packs outdoor condenser fins and loads filters far faster than a coastal city would explain. A fouled coil cannot reject heat, so head pressure rises, capacity falls and the compressor draws more current at exactly the time of year it can least afford to. Coil cleaning and frequent filter changes are maintenance here, not an upsell.",
+      "sources": [
+        "https://forecast.weather.gov/product.php?site=CRH&issuedby=MOD&product=CLM&format=CI&version=1&glossary=0",
+        "https://www.weather.gov/sto/",
+        "https://www.valleyair.org/air-quality-information/ambient-air-quality-standards-valley-attainmnet-status/",
+        "https://www.stanag.org/pdf/cropreport/cropreport2024.pdf"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "permit_rule",
+      "title": "A changeout here needs a permit and a HERS test",
+      "claim": "The City of Modesto's Building Safety Division at 1010 Tenth Street issues the mechanical permit for HVAC work, and the city's expedited permit program lets a properly licensed contractor apply for, pay for and obtain an HVAC permit online. Modesto sits in California Building Climate Zone 12, and Title 24 requires refrigerant charge verification by an independent HERS rater on air-cooled air conditioner alterations in Climate Zones 2 and 8 through 15.",
+      "why_it_matters": "A capacitor or a drain clear is a straightforward repair with nothing to file. A condenser swap or a full system changeout is permitted work, and because Modesto falls inside the charge-verification climate zones, a compliant job includes third-party HERS verification and duct leakage testing. That is real cost and real scheduling, so ask any contractor whether the permit and the HERS registration are inside the quoted figure.",
+      "sources": [
+        "https://www.modestogov.com/2102/Expedited-Permits",
+        "https://www.modestogov.com/1281/Building-Permits",
+        "https://www.calbo.org/sites/main/files/file-attachments/residential_hvac_regulations.pdf?1525201917",
+        "https://www.energy.ca.gov/sites/default/files/2021-03/2019_Chapter%204%20-%20Building%20HVAC%20Requirements_ADA.pdf"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "College Area",
+    "La Loma",
+    "Bret Harte",
+    "Sherwood Forest",
+    "Sylvan",
+    "Village One"
+  ],
+  "symptoms": [
+    "ac_not_cooling",
+    "ac_blows_warm_air",
+    "ac_leaking_water",
+    "ac_wont_turn_on"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Cool Air Restored Today",
+  "trust_third": "Repair price quoted before work begins",
+  "services": [
+    {
+      "slug": "air-conditioner-repair",
+      "name": "Air Conditioner Repair",
+      "nav": "AC repair",
+      "h1": "Air Conditioner Repair",
+      "accent": "Cool Air Restored Fast",
+      "keyword": "air conditioner repair",
+      "icon": "wrench"
+    },
+    {
+      "slug": "ac-compressor-repair",
+      "name": "AC Compressor Repair",
+      "nav": "Compressor repair",
+      "h1": "AC Compressor Repair",
+      "accent": "Compressor Problems Diagnosed Clearly",
+      "keyword": "ac compressor repair",
+      "icon": "gear"
+    },
+    {
+      "slug": "ac-refrigerant-leak-repair",
+      "name": "AC Refrigerant Leak Repair",
+      "nav": "Refrigerant leaks",
+      "h1": "AC Refrigerant Leak Repair",
+      "accent": "Leaks Found and Cooling Restored",
+      "keyword": "ac refrigerant leak repair",
+      "icon": "search"
+    },
+    {
+      "slug": "ac-tune-up",
+      "name": "AC Tune-Up",
+      "nav": "AC tune-up",
+      "h1": "AC Tune-Up",
+      "accent": "Cooling Tuned for Reliable Comfort",
+      "keyword": "ac tune up",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "air-conditioner-repair",
+    "ac-refrigerant-leak-repair",
+    "air-conditioner-repair",
+    "ac-compressor-repair"
+  ],
+  "_market": {
+    "keyword": "ac repair modesto",
+    "monthly_price": 1500,
+    "score": 90,
+    "volume": 450,
+    "cpc_usd": 25.0,
+    "weakest_competitor": "lovesair.com",
+    "competitor_dr": 3.9
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Modesto and Stanislaus County prices, job by job",
+    "anchors": [
+      {
+        "label": "Minor mechanical, plumbing and electrical permit",
+        "value": "$242",
+        "detail": "The fiscal year 2025 to 2026 fee schedule charges $242 for the minor permit covering an HVAC replacement. A water heater permit is $139.",
+        "source_name": "City of Modesto Building Safety Division development user fees, fiscal year 2025-26",
+        "source_url": "https://www.modestogov.com/DocumentCenter/View/19115/Building-Safety-Division-Development-User-Fees-Fiscal-Year-25-26-PDF"
+      },
+      {
+        "label": "MID rebate, high efficiency central air conditioner",
+        "value": "$350 or $600",
+        "detail": "MID pays $350 on a qualifying central air conditioner and $600 at the higher tier, with heat pumps at $450 and $700, up to 65,000 Btu per hour.",
+        "source_name": "Modesto Irrigation District residential rebate catalog",
+        "source_url": "https://middev-tomcat.azurewebsites.net/rebates/home/documents/MID_residential_catalog.pdf"
+      },
+      {
+        "label": "Median hourly wage, heating and air conditioning mechanics",
+        "value": "$31.13",
+        "detail": "May 2025 median for the 470 HVAC mechanics and installers in the Modesto metro area, a small trade pool against a valley summer.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_33700.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Diagnostic visit on a system that stopped cooling",
+        "low": 65,
+        "high": 99,
+        "basis": "per visit",
+        "note": "Local shops differ on whether it is credited. One states the fee is waived with a paid repair, another that it never applies to labor.",
+        "sources": [
+          {
+            "name": "Irish Heat and Air, Modesto and Stanislaus County, posted diagnostic fee, read 2026-08-23",
+            "url": "https://www.irishheatandair.com/service-area/"
+          },
+          {
+            "name": "De Hart Plumbing Heating and Air, Modesto, posted diagnostic fee, read 2026-08-23",
+            "url": "https://www.dehartinc.com/modesto/hvac/air-conditioning/ac-repair-maintenance"
+          },
+          {
+            "name": "Geske Air Conditioning and Heating, Modesto, posted diagnostic pricing, read 2026-08-23",
+            "url": "https://www.geskeair.com/"
+          }
+        ]
+      },
+      {
+        "job": "Seasonal tune-up and system inspection",
+        "low": 79,
+        "high": 150,
+        "basis": "flat",
+        "note": "Spring promotional pricing sits at the bottom and the regular posted rate at the top. Same visit, different month.",
+        "sources": [
+          {
+            "name": "Geske Air Conditioning and Heating, Modesto, posted tune-up pricing, read 2026-08-23",
+            "url": "https://www.geskeair.com/"
+          },
+          {
+            "name": "GS Home Services, Modesto and Stockton, posted tune-up special, read 2026-08-23",
+            "url": "https://www.gshomeservices.com/stay-cool/"
+          },
+          {
+            "name": "Valley Air Pro, Turlock and Modesto area, posted pricing page, read 2026-08-23",
+            "url": "https://valleyairpro.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Common summer repair, capacitor, contactor, thermostat or recharge",
+        "low": 100,
+        "high": 600,
+        "basis": "parts and labor",
+        "note": "One Modesto shop puts the local average near the middle of this band, which is a useful sanity check on any quote.",
+        "sources": [
+          {
+            "name": "De Hart Plumbing Heating and Air, Modesto, posted repair range, read 2026-08-23",
+            "url": "https://www.dehartinc.com/modesto/hvac/air-conditioning/ac-repair-maintenance"
+          },
+          {
+            "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted repair pricing, read 2026-08-23",
+            "url": "https://wallyfalkes.com/air-conditioning-repair/"
+          },
+          {
+            "name": "Comfort Experts, Modesto, posted average repair figure, read 2026-08-23",
+            "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
+          }
+        ]
+      },
+      {
+        "job": "Refrigerant leak located and the system recharged",
+        "low": 200,
+        "high": 1600,
+        "basis": "leak search plus refrigerant",
+        "note": "Where the leak hides decides it. A valve or fitting is quick, a leak in the coil or the buried lineset is not.",
+        "sources": [
+          {
+            "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted leak repair pricing, read 2026-08-23",
+            "url": "https://wallyfalkes.com/5-common-a-c-repairs/"
+          },
+          {
+            "name": "Comfort Experts, Modesto, posted leak detection and repair pricing, read 2026-08-23",
+            "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
+          }
+        ]
+      },
+      {
+        "job": "Compressor or corroded coil replaced instead of the whole system",
+        "low": 600,
+        "high": 2000,
+        "basis": "parts and labor",
+        "note": "Worth doing on a young system under warranty. On a fifteen year old condenser this money is usually better spent elsewhere.",
+        "sources": [
+          {
+            "name": "Comfort Experts, Modesto, posted compressor replacement pricing, read 2026-08-23",
+            "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
+          },
+          {
+            "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted coil replacement pricing, read 2026-08-23",
+            "url": "https://wallyfalkes.com/5-common-a-c-repairs/"
+          }
+        ]
+      },
+      {
+        "job": "Full changeout with the Modesto permit pulled",
+        "low": 4500,
+        "high": 15000,
+        "basis": "installed",
+        "note": "One local page states permit cost sits inside the quote. Duct replacement and an electrical upgrade are what reach the top.",
+        "sources": [
+          {
+            "name": "NorCal Repairs, Modesto and Stanislaus County, posted replacement pricing, read 2026-08-23",
+            "url": "https://norcalrepairs.com/hvac/ac-replacement/modesto"
+          },
+          {
+            "name": "Wally Falke's Heating and Air, Central Valley, posted replacement cost page, read 2026-08-23",
+            "url": "https://wallyfalkes.com/central-valley-ac-replacement-cost/"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "Seasonal tune-up and system inspection",
-    "low": 79,
-    "high": 150,
-    "basis": "flat",
-    "note": "Spring promotional pricing sits at the bottom and the regular posted rate at the top. Same visit, different month.",
-    "sources": [
-     {
-      "name": "Geske Air Conditioning and Heating, Modesto, posted tune-up pricing, read 2026-08-23",
-      "url": "https://www.geskeair.com/"
-     },
-     {
-      "name": "GS Home Services, Modesto and Stockton, posted tune-up special, read 2026-08-23",
-      "url": "https://www.gshomeservices.com/stay-cool/"
-     },
-     {
-      "name": "Valley Air Pro, Turlock and Modesto area, posted pricing page, read 2026-08-23",
-      "url": "https://valleyairpro.com/pricing"
-     }
-    ]
-   },
-   {
-    "job": "Common summer repair, capacitor, contactor, thermostat or recharge",
-    "low": 100,
-    "high": 600,
-    "basis": "parts and labor",
-    "note": "One Modesto shop puts the local average near the middle of this band, which is a useful sanity check on any quote.",
-    "sources": [
-     {
-      "name": "De Hart Plumbing Heating and Air, Modesto, posted repair range, read 2026-08-23",
-      "url": "https://www.dehartinc.com/modesto/hvac/air-conditioning/ac-repair-maintenance"
-     },
-     {
-      "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted repair pricing, read 2026-08-23",
-      "url": "https://wallyfalkes.com/air-conditioning-repair/"
-     },
-     {
-      "name": "Comfort Experts, Modesto, posted average repair figure, read 2026-08-23",
-      "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
-     }
-    ]
-   },
-   {
-    "job": "Refrigerant leak located and the system recharged",
-    "low": 200,
-    "high": 1600,
-    "basis": "leak search plus refrigerant",
-    "note": "Where the leak hides decides it. A valve or fitting is quick, a leak in the coil or the buried lineset is not.",
-    "sources": [
-     {
-      "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted leak repair pricing, read 2026-08-23",
-      "url": "https://wallyfalkes.com/5-common-a-c-repairs/"
-     },
-     {
-      "name": "Comfort Experts, Modesto, posted leak detection and repair pricing, read 2026-08-23",
-      "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
-     }
-    ]
-   },
-   {
-    "job": "Compressor or corroded coil replaced instead of the whole system",
-    "low": 600,
-    "high": 2000,
-    "basis": "parts and labor",
-    "note": "Worth doing on a young system under warranty. On a fifteen year old condenser this money is usually better spent elsewhere.",
-    "sources": [
-     {
-      "name": "Comfort Experts, Modesto, posted compressor replacement pricing, read 2026-08-23",
-      "url": "https://www.comfort-experts.com/air-conditioning/ac-repair-maintenance/"
-     },
-     {
-      "name": "Wally Falke's Heating and Air, Modesto and Turlock, posted coil replacement pricing, read 2026-08-23",
-      "url": "https://wallyfalkes.com/5-common-a-c-repairs/"
-     }
-    ]
-   },
-   {
-    "job": "Full changeout with the Modesto permit pulled",
-    "low": 4500,
-    "high": 15000,
-    "basis": "installed",
-    "note": "One local page states permit cost sits inside the quote. Duct replacement and an electrical upgrade are what reach the top.",
-    "sources": [
-     {
-      "name": "NorCal Repairs, Modesto and Stanislaus County, posted replacement pricing, read 2026-08-23",
-      "url": "https://norcalrepairs.com/hvac/ac-replacement/modesto"
-     },
-     {
-      "name": "Wally Falke's Heating and Air, Central Valley, posted replacement cost page, read 2026-08-23",
-      "url": "https://wallyfalkes.com/central-valley-ac-replacement-cost/"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

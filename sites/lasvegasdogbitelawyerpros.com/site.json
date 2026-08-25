@@ -1,221 +1,222 @@
 {
- "domain": "lasvegasdogbitelawyerpros.com",
- "phase": 1,
- "brand": "Las Vegas Dog Bite Law Pros",
- "service": "Dog Bite Lawyer",
- "service_inline": "dog bite lawyer",
- "city": "Las Vegas",
- "state": "NV",
- "state_full": "Nevada",
- "counties": [
-  "Clark"
- ],
- "area_codes": [
-  "702",
-  "725"
- ],
- "phone_display": "(702) 827-7970",
- "phone_tel": "+17028277970",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "nevada_negligence_framework",
-   "claim": "Nevada has no statewide civil dog-bite statute imposing automatic owner liability. Civil dog-bite claims are generally analyzed under negligence principles, while NRS 202.500 separately defines and regulates dangerous and vicious dogs.",
-   "why_it_matters": "The evidence file must do more than show that a bite occurred. It should preserve how the dog was handled, who controlled it, any prior behavior or warnings, the precise place, and the injury record. Local animal-control rules may be important evidence but do not replace the civil analysis.",
-   "sources": [
-    "https://www.justia.com/injury/premises-liability/animal-dog-bites/dog-bite-law-50-state-survey/",
-    "https://www.leg.state.nv.us/nrs/nrs-202.html#NRS202Sec500"
-   ],
-   "verified": "2026-08-22",
-   "title": "Nevada uses negligence, not an automatic bite statute"
-  },
-  {
-   "id": "jurisdiction_split",
-   "claim": "Clark County Animal Protection Services serves unincorporated Clark County only and verifies jurisdiction for calls. The City of Las Vegas separately operates Animal Protection Services for the city jurisdiction, which it describes as spanning 140 square miles.",
-   "why_it_matters": "Many valley locations use a Las Vegas mailing address but are not inside the City of Las Vegas. The street address can determine which animal-control agency receives a bite report and which local ordinance record may exist, so a zip code alone is not enough.",
-   "sources": [
-    "https://www.clarkcountynv.gov/government/departments/administrative_services/animal_protection_services/report-a-complaint",
-    "https://www.lasvegasnevada.gov/Government/Departments/Public-Safety/Animal-Protection-Services"
-   ],
-   "verified": "2026-08-22",
-   "title": "City and county animal protection split at the boundary"
-  },
-  {
-   "id": "city_animal_code",
-   "claim": "Las Vegas Municipal Code § 7.04.100 defines a bite as a puncture or tear of the skin inflicted by an animal’s teeth. The same chapter defines dangerous and vicious animals by reference to the declaration procedure in § 7.16.010.",
-   "why_it_matters": "For a bite within City of Las Vegas limits, the municipal animal-control process can create a local public-safety record and may identify the animal, owner, and incident details. It is separate from medical care and separate from a civil damages claim.",
-   "sources": [
-    "https://library.municode.com/nv/las_vegas/codes/code_of_ordinances?nodeId=TIT7AN_CH7.04DE"
-   ],
-   "verified": "2026-08-22",
-   "title": "The City has its own bite and dangerous-animal process"
-  }
- ],
- "neighborhoods": [
-  "Downtown Las Vegas",
-  "East Las Vegas",
-  "Twin Lakes",
-  "Summerlin North",
-  "Lone Mountain",
-  "Centennial Hills"
- ],
- "symptoms": [
-  "bitten_by_dog",
-  "child_bitten_by_dog",
-  "dog_bite_at_rental",
-  "insurer_denied_claim"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What Nevada sets on a fee taken from a recovery, and what Clark County charges to litigate",
-  "col_a": "What it covers",
-  "col_b": "What Nevada sets",
-  "anchors": [
-   {
-    "label": "General civil complaint, Eighth Judicial District Court",
-    "value": "$270",
-    "detail": "The Clerk's list itemizes the statutory pieces that build this figure, and adds $30.00 for every plaintiff after the first.",
-    "source_name": "Eighth Judicial District Court Clerk filing fee list",
-    "source_url": "https://www.clarkcountycourts.us/res/clerk/civil-criminal-library/legal-forms/Filing-Fee-List.pdf"
-   },
-   {
-    "label": "Contingent fee ceiling against a health care provider",
-    "value": "35%",
-    "detail": "NRS 7.095 caps a professional negligence fee at 35 percent of the net recovery. An animal attack claim falls outside that statute.",
-    "source_name": "NRS 7.095(1)",
-    "source_url": "https://www.leg.state.nv.us/nrs/nrs-007.html"
-   },
-   {
-    "label": "Expert witness fees taxable as costs",
-    "value": "$15,000",
-    "detail": "Per expert, for no more than five experts, unless the judge finds the testimony required a larger figure.",
-    "source_name": "NRS 18.005(5)",
-    "source_url": "https://www.leg.state.nv.us/nrs/nrs-018.html"
-   },
-   {
-    "label": "Clark County breeder or show permit",
-    "value": "$800",
-    "detail": "Charged to start the permit and again each year, dropping to $400 where every animal shows once a year, with a $100 reinspection.",
-    "source_name": "Clark County Code 10.08.135",
-    "source_url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:f1f58666-7941-4544-91ea-dd69326071b7/original/as/titles-1-and-10-final-combined-ordinance-jan2025.pdf"
-   }
+  "domain": "lasvegasdogbitelawyerpros.com",
+  "phase": 2,
+  "brand": "Las Vegas Dog Bite Law Pros",
+  "service": "Dog Bite Lawyer",
+  "service_inline": "dog bite lawyer",
+  "vertical": "legal",
+  "city": "Las Vegas",
+  "state": "NV",
+  "state_full": "Nevada",
+  "counties": [
+    "Clark"
   ],
-  "fee_rows": [
-   {
-    "stage": "A share of a dog bite recovery",
-    "share": "No stated maximum",
-    "note": "Nevada RPC 1.5(a) forbids an unreasonable fee and lists eight yardsticks, from the difficulty of the questions to what the locality customarily charges.",
-    "source_name": "Nev. R. Prof. Conduct 1.5(a)",
-    "source_url": "https://www.leg.state.nv.us/courtrules/rpc.html"
-   },
-   {
-    "stage": "How the agreement has to look",
-    "share": "Signed, in boldface",
-    "note": "RPC 1.5(c) demands a written agreement signed by the client, with the required terms set in boldface at least as large as the largest type in the document.",
-    "source_name": "Nev. R. Prof. Conduct 1.5(c)",
-    "source_url": "https://www.leg.state.nv.us/courtrules/rpc.html"
-   },
-   {
-    "stage": "Warnings the document must carry",
-    "share": "Loss exposure spelled out",
-    "note": "RPC 1.5(c)(3) through (5) require it to say who owes expenses whatever the result, that a loss can mean paying the other side's costs, and what a harassing suit risks.",
-    "source_name": "Nev. R. Prof. Conduct 1.5(c)(4)",
-    "source_url": "https://www.leg.state.nv.us/courtrules/rpc.html"
-   },
-   {
-    "stage": "A claim over medical treatment of the wound",
-    "share": "35% of the net recovery",
-    "note": "NRS 7.095 reaches a professional negligence action against a health care provider, measured after costs of prosecuting the claim come out.",
-    "source_name": "NRS 7.095",
-    "source_url": "https://www.leg.state.nv.us/nrs/nrs-007.html"
-   },
-   {
-    "stage": "Filing at the Regional Justice Center",
-    "share": "$270, then $30 a plaintiff",
-    "note": "A first appearance by the defense runs $223.00, a third party complaint $135.00, and a summary judgment motion $200.00 on the same list.",
-    "source_name": "Eighth Judicial District Court Clerk filing fee list",
-    "source_url": "https://www.clarkcountycourts.us/res/clerk/civil-criminal-library/legal-forms/Filing-Fee-List.pdf"
-   },
-   {
-    "stage": "Costs a losing side can be taxed",
-    "share": "17 listed categories",
-    "note": "NRS 18.005 runs from clerks' and reporters' fees to interpreters, process service, photocopies and deposition travel, with experts held to $15,000 each.",
-    "source_name": "NRS 18.005",
-    "source_url": "https://www.leg.state.nv.us/nrs/nrs-018.html"
-   }
-  ]
- },
- "hero_accent": "What The Law Says About Dog Attacks",
- "trust_third": "Liability rules explained before you call",
- "services": [
-  {
-   "slug": "dog-bite-injury-claim",
-   "name": "Dog Bite Injury Claims",
-   "nav": "Dog bite claims",
-   "h1": "Dog Bite Injury Lawyer",
-   "accent": "Injuries, Evidence and Liability",
-   "keyword": "dog bite injury lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "702",
+    "725"
+  ],
+  "phone_display": "(702) 827-7970",
+  "phone_tel": "+17028277970",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "child-dog-bite-claim",
-   "name": "Child Dog Bite Claims",
-   "nav": "Child bite claims",
-   "h1": "Child Dog Bite Claim Lawyer",
-   "accent": "Medical Needs and Future Damages",
-   "keyword": "child dog bite lawyer",
-   "icon": "eye"
+  "local_facts": [
+    {
+      "id": "nevada_negligence_framework",
+      "claim": "Nevada has no statewide civil dog-bite statute imposing automatic owner liability. Civil dog-bite claims are generally analyzed under negligence principles, while NRS 202.500 separately defines and regulates dangerous and vicious dogs.",
+      "why_it_matters": "The evidence file must do more than show that a bite occurred. It should preserve how the dog was handled, who controlled it, any prior behavior or warnings, the precise place, and the injury record. Local animal-control rules may be important evidence but do not replace the civil analysis.",
+      "sources": [
+        "https://www.justia.com/injury/premises-liability/animal-dog-bites/dog-bite-law-50-state-survey/",
+        "https://www.leg.state.nv.us/nrs/nrs-202.html#NRS202Sec500"
+      ],
+      "verified": "2026-08-22",
+      "title": "Nevada uses negligence, not an automatic bite statute"
+    },
+    {
+      "id": "jurisdiction_split",
+      "claim": "Clark County Animal Protection Services serves unincorporated Clark County only and verifies jurisdiction for calls. The City of Las Vegas separately operates Animal Protection Services for the city jurisdiction, which it describes as spanning 140 square miles.",
+      "why_it_matters": "Many valley locations use a Las Vegas mailing address but are not inside the City of Las Vegas. The street address can determine which animal-control agency receives a bite report and which local ordinance record may exist, so a zip code alone is not enough.",
+      "sources": [
+        "https://www.clarkcountynv.gov/government/departments/administrative_services/animal_protection_services/report-a-complaint",
+        "https://www.lasvegasnevada.gov/Government/Departments/Public-Safety/Animal-Protection-Services"
+      ],
+      "verified": "2026-08-22",
+      "title": "City and county animal protection split at the boundary"
+    },
+    {
+      "id": "city_animal_code",
+      "claim": "Las Vegas Municipal Code § 7.04.100 defines a bite as a puncture or tear of the skin inflicted by an animal’s teeth. The same chapter defines dangerous and vicious animals by reference to the declaration procedure in § 7.16.010.",
+      "why_it_matters": "For a bite within City of Las Vegas limits, the municipal animal-control process can create a local public-safety record and may identify the animal, owner, and incident details. It is separate from medical care and separate from a civil damages claim.",
+      "sources": [
+        "https://library.municode.com/nv/las_vegas/codes/code_of_ordinances?nodeId=TIT7AN_CH7.04DE"
+      ],
+      "verified": "2026-08-22",
+      "title": "The City has its own bite and dangerous-animal process"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown Las Vegas",
+    "East Las Vegas",
+    "Twin Lakes",
+    "Summerlin North",
+    "Lone Mountain",
+    "Centennial Hills"
+  ],
+  "symptoms": [
+    "bitten_by_dog",
+    "child_bitten_by_dog",
+    "dog_bite_at_rental",
+    "insurer_denied_claim"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "landlord-dog-bite-liability",
-   "name": "Landlord Liability Claims",
-   "nav": "Landlord liability",
-   "h1": "Landlord Dog Bite Liability Lawyer",
-   "accent": "Property Control and Notice Questions",
-   "keyword": "landlord dog bite liability lawyer",
-   "icon": "house"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Nevada sets on a fee taken from a recovery, and what Clark County charges to litigate",
+    "col_a": "What it covers",
+    "col_b": "What Nevada sets",
+    "anchors": [
+      {
+        "label": "General civil complaint, Eighth Judicial District Court",
+        "value": "$270",
+        "detail": "The Clerk's list itemizes the statutory pieces that build this figure, and adds $30.00 for every plaintiff after the first.",
+        "source_name": "Eighth Judicial District Court Clerk filing fee list",
+        "source_url": "https://www.clarkcountycourts.us/res/clerk/civil-criminal-library/legal-forms/Filing-Fee-List.pdf"
+      },
+      {
+        "label": "Contingent fee ceiling against a health care provider",
+        "value": "35%",
+        "detail": "NRS 7.095 caps a professional negligence fee at 35 percent of the net recovery. An animal attack claim falls outside that statute.",
+        "source_name": "NRS 7.095(1)",
+        "source_url": "https://www.leg.state.nv.us/nrs/nrs-007.html"
+      },
+      {
+        "label": "Expert witness fees taxable as costs",
+        "value": "$15,000",
+        "detail": "Per expert, for no more than five experts, unless the judge finds the testimony required a larger figure.",
+        "source_name": "NRS 18.005(5)",
+        "source_url": "https://www.leg.state.nv.us/nrs/nrs-018.html"
+      },
+      {
+        "label": "Clark County breeder or show permit",
+        "value": "$800",
+        "detail": "Charged to start the permit and again each year, dropping to $400 where every animal shows once a year, with a $100 reinspection.",
+        "source_name": "Clark County Code 10.08.135",
+        "source_url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:f1f58666-7941-4544-91ea-dd69326071b7/original/as/titles-1-and-10-final-combined-ordinance-jan2025.pdf"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "A share of a dog bite recovery",
+        "share": "No stated maximum",
+        "note": "Nevada RPC 1.5(a) forbids an unreasonable fee and lists eight yardsticks, from the difficulty of the questions to what the locality customarily charges.",
+        "source_name": "Nev. R. Prof. Conduct 1.5(a)",
+        "source_url": "https://www.leg.state.nv.us/courtrules/rpc.html"
+      },
+      {
+        "stage": "How the agreement has to look",
+        "share": "Signed, in boldface",
+        "note": "RPC 1.5(c) demands a written agreement signed by the client, with the required terms set in boldface at least as large as the largest type in the document.",
+        "source_name": "Nev. R. Prof. Conduct 1.5(c)",
+        "source_url": "https://www.leg.state.nv.us/courtrules/rpc.html"
+      },
+      {
+        "stage": "Warnings the document must carry",
+        "share": "Loss exposure spelled out",
+        "note": "RPC 1.5(c)(3) through (5) require it to say who owes expenses whatever the result, that a loss can mean paying the other side's costs, and what a harassing suit risks.",
+        "source_name": "Nev. R. Prof. Conduct 1.5(c)(4)",
+        "source_url": "https://www.leg.state.nv.us/courtrules/rpc.html"
+      },
+      {
+        "stage": "A claim over medical treatment of the wound",
+        "share": "35% of the net recovery",
+        "note": "NRS 7.095 reaches a professional negligence action against a health care provider, measured after costs of prosecuting the claim come out.",
+        "source_name": "NRS 7.095",
+        "source_url": "https://www.leg.state.nv.us/nrs/nrs-007.html"
+      },
+      {
+        "stage": "Filing at the Regional Justice Center",
+        "share": "$270, then $30 a plaintiff",
+        "note": "A first appearance by the defense runs $223.00, a third party complaint $135.00, and a summary judgment motion $200.00 on the same list.",
+        "source_name": "Eighth Judicial District Court Clerk filing fee list",
+        "source_url": "https://www.clarkcountycourts.us/res/clerk/civil-criminal-library/legal-forms/Filing-Fee-List.pdf"
+      },
+      {
+        "stage": "Costs a losing side can be taxed",
+        "share": "17 listed categories",
+        "note": "NRS 18.005 runs from clerks' and reporters' fees to interpreters, process service, photocopies and deposition travel, with experts held to $15,000 each.",
+        "source_name": "NRS 18.005",
+        "source_url": "https://www.leg.state.nv.us/nrs/nrs-018.html"
+      }
+    ]
   },
-  {
-   "slug": "dog-bite-insurance-claim",
-   "name": "Dog Bite Insurance Claims",
-   "nav": "Insurance claims",
-   "h1": "Dog Bite Insurance Claim Lawyer",
-   "accent": "Coverage, Offers and Claim Terms",
-   "keyword": "dog bite insurance claim lawyer",
-   "icon": "check"
+  "hero_accent": "What The Law Says About Dog Attacks",
+  "trust_third": "Liability rules explained before you call",
+  "services": [
+    {
+      "slug": "dog-bite-injury-claim",
+      "name": "Dog Bite Injury Claims",
+      "nav": "Dog bite claims",
+      "h1": "Dog Bite Injury Lawyer",
+      "accent": "Injuries, Evidence and Liability",
+      "keyword": "dog bite injury lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "child-dog-bite-claim",
+      "name": "Child Dog Bite Claims",
+      "nav": "Child bite claims",
+      "h1": "Child Dog Bite Claim Lawyer",
+      "accent": "Medical Needs and Future Damages",
+      "keyword": "child dog bite lawyer",
+      "icon": "eye"
+    },
+    {
+      "slug": "landlord-dog-bite-liability",
+      "name": "Landlord Liability Claims",
+      "nav": "Landlord liability",
+      "h1": "Landlord Dog Bite Liability Lawyer",
+      "accent": "Property Control and Notice Questions",
+      "keyword": "landlord dog bite liability lawyer",
+      "icon": "house"
+    },
+    {
+      "slug": "dog-bite-insurance-claim",
+      "name": "Dog Bite Insurance Claims",
+      "nav": "Insurance claims",
+      "h1": "Dog Bite Insurance Claim Lawyer",
+      "accent": "Coverage, Offers and Claim Terms",
+      "keyword": "dog bite insurance claim lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "dog-bite-injury-claim",
+    "child-dog-bite-claim",
+    "landlord-dog-bite-liability",
+    "dog-bite-insurance-claim"
+  ],
+  "_market": {
+    "keyword": "dog bite lawyer las vegas",
+    "monthly_price": 800,
+    "score": 85,
+    "volume": 400,
+    "cpc_usd": 45.0,
+    "weakest_competitor": "meeshamoultonlaw.com",
+    "competitor_dr": 4.8
   }
- ],
- "symptom_service": [
-  "dog-bite-injury-claim",
-  "child-dog-bite-claim",
-  "landlord-dog-bite-liability",
-  "dog-bite-insurance-claim"
- ],
- "_market": {
-  "keyword": "dog bite lawyer las vegas",
-  "monthly_price": 800,
-  "score": 85,
-  "volume": 400,
-  "cpc_usd": 45.0,
-  "weakest_competitor": "meeshamoultonlaw.com",
-  "competitor_dr": 4.8
- }
 }

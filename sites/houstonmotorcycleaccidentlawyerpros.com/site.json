@@ -1,223 +1,224 @@
 {
- "domain": "houstonmotorcycleaccidentlawyerpros.com",
- "phase": 2,
- "brand": "Houston Motorcycle Accident Law Pros",
- "service": "Motorcycle Accident Lawyer",
- "service_inline": "motorcycle accident lawyer",
- "city": "Houston",
- "state": "TX",
- "state_full": "Texas",
- "counties": [
-  "Harris",
-  "Fort Bend"
- ],
- "area_codes": [
-  "713",
-  "281",
-  "832",
-  "346"
- ],
- "phone_display": "(713) 715-4760",
- "phone_tel": "+17137154760",
- "phone_status": "LIVE",
- "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
- "emergency": false,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "harris_county_motorcycle_crashes",
-   "claim": "TxDOT's Crash Records Information System, queried on April 17, 2025 for the state's FY2026 highway safety grant application, ranked Harris County first in Texas for crashes involving a motorcycle and another motor vehicle in 2024, with 908. Dallas County was second at 438 and Fort Bend County recorded 74.",
-   "why_it_matters": "More rider-versus-driver collisions happen in this county than anywhere else in Texas, and the great majority of them are the ordinary kind: a car turning or merging into a motorcycle on a surface street or a freeway feeder. That is the crash pattern the explanations on this page are built around, and it is why physical evidence from the vehicles matters more here than a driver's account of not seeing the bike.",
-   "sources": [
-    "https://egrants.bts.txdot.gov/eGrantsHelp/Reports/FY26AGA.pdf"
-   ],
-   "verified": "2026-08-21",
-   "title": "Harris County leads Texas in motorcycle-versus-vehicle crashes"
-  },
-  {
-   "id": "two_year_deadline",
-   "claim": "Texas Civil Practice and Remedies Code 16.003 requires a personal injury suit to be brought no later than two years after the day the cause of action accrues, and sets the same two-year period for an action for injury resulting in death, running from the date of death.",
-   "why_it_matters": "A two-year filing date is easy to lose track of while treatment, insurance calls, and motorcycle storage compete for attention. Recording the date early helps the person involved seek individualized advice before relying on a general website explanation.",
-   "sources": [
-    "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm"
-   ],
-   "verified": "2026-08-21",
-   "title": "Two years, counted from the day the claim accrues"
-  },
-  {
-   "id": "proportionate_responsibility",
-   "claim": "Under Texas Civil Practice and Remedies Code 33.001 a claimant recovers nothing if their percentage of responsibility is greater than 50 percent, and under 33.012 a claimant below that line has their damages reduced by the percentage of responsibility assigned to them.",
-   "why_it_matters": "A percentage dispute can make the road sequence, vehicle damage, video, and witness accounts important. The helmet statute has its own requirement and statutory exceptions; this site does not make an evidence or damages statement about helmet use.",
-   "sources": [
-    "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm",
-    "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.661.htm"
-   ],
-   "verified": "2026-08-21",
-   "title": "Blame is split by percentage, and 51 percent ends it"
-  }
- ],
- "neighborhoods": [
-  "The Heights",
-  "Montrose",
-  "East End",
-  "Gulfton",
-  "Sharpstown",
-  "Spring Branch"
- ],
- "symptoms": [
-  "driver_turned_into_motorcycle",
-  "driver_changed_lanes",
-  "uninsured_driver_crash",
-  "insurer_blames_rider"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What Texas fixes in a Harris County motorcycle claim, and what it leaves to the written agreement",
-  "col_a": "Where the money goes",
-  "col_b": "What Texas law fixes",
-  "anchors": [
-   {
-    "label": "Percentage ceiling on an injury fee",
-    "value": "None stated",
-    "detail": "Rule 1.04 bars an illegal or unconscionable fee and lists eight factors for testing one. It prints no percentage for a negligence claim.",
-    "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(a)-(b)",
-    "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
-   },
-   {
-    "label": "New civil suit, filed without service",
-    "value": "$350",
-    "detail": "Charged by the Harris County District Clerk to open a civil case. A citation is $8 more, and service through county civil process is $85.",
-    "source_name": "Harris County District Clerk fee schedule",
-    "source_url": "https://www.hcdistrictclerk.com/Common/Civil/pdf/Fee_Schedule_Civil_and_Family.pdf"
-   },
-   {
-    "label": "Deadline to file a personal injury suit",
-    "value": "Two years",
-    "detail": "Measured from the day the cause of action accrues, and from the date of death where the injury caused one. Physical evidence on a bike disappears far sooner.",
-    "source_name": "Tex. Civ. Prac. & Rem. Code 16.003(a)",
-    "source_url": "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-2/subtitle-b/chapter-16/subchapter-a/section-16-003/"
-   },
-   {
-    "label": "Ceiling on a hospital lien against the recovery",
-    "value": "50 percent",
-    "detail": "A hospital lien is capped at the lesser of first-100-day charges, half of all amounts recovered, or the amount the trier of fact specified less pro rata fees and expenses.",
-    "source_name": "Tex. Prop. Code 55.004(b)",
-    "source_url": "https://codes.findlaw.com/tx/property-code/prop-sect-55-004/"
-   }
+  "domain": "houstonmotorcycleaccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "Houston Motorcycle Accident Law Pros",
+  "service": "Motorcycle Accident Lawyer",
+  "service_inline": "motorcycle accident lawyer",
+  "vertical": "legal",
+  "city": "Houston",
+  "state": "TX",
+  "state_full": "Texas",
+  "counties": [
+    "Harris",
+    "Fort Bend"
   ],
-  "fee_rows": [
-   {
-    "stage": "The fee itself, in a crash claim",
-    "share": "No statutory percentage",
-    "note": "A fee is unconscionable only if a competent lawyer could not form a reasonable belief that it is reasonable, judged against the eight factors in paragraph (b).",
-    "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(a)-(b)",
-    "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
-   },
-   {
-    "stage": "The written agreement",
-    "share": "Required terms",
-    "note": "Paragraph (d) requires writing, the method of determination, separate percentages for settlement, trial and appeal, which expenses are deducted, and whether they come out before or after the fee is figured.",
-    "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(d)",
-    "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
-   },
-   {
-    "stage": "A referral or a second firm",
-    "share": "Client consent in writing",
-    "note": "A division of fees requires the client's written consent to the terms, the identity of every lawyer involved, whether fees are divided by services or responsibility, and each share.",
-    "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(f)(2)",
-    "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
-   },
-   {
-    "stage": "Filing, citation and service in Harris County",
-    "share": "$350 / $8 / $85",
-    "note": "New civil suit, citation including one copy, and service by county civil process. Service by mail adds $15, clerk service by certified mail is $100, and the county jury fee is $10.",
-    "source_name": "Harris County District Clerk fee schedule",
-    "source_url": "https://www.hcdistrictclerk.com/Common/Civil/pdf/Fee_Schedule_Civil_and_Family.pdf"
-   },
-   {
-    "stage": "The rider's own share of fault",
-    "share": "Bar above 50 percent",
-    "note": "A claimant may not recover damages at all if his percentage of responsibility is greater than 50 percent. Below that line, damages are reduced by the share assigned.",
-    "source_name": "Tex. Civ. Prac. & Rem. Code 33.001",
-    "source_url": "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-2/subtitle-c/chapter-33/subchapter-a/section-33-001/"
-   },
-   {
-    "stage": "The at-fault driver's minimum coverage",
-    "share": "$30,000 / $60,000 / $25,000",
-    "note": "Texas financial responsibility limits per person, per collision for two or more people, and for property damage. A trauma admission can exceed the per-person figure on its own.",
-    "source_name": "Tex. Transp. Code 601.072",
-    "source_url": "https://law.justia.com/codes/texas/transportation-code/title-7/subtitle-d/chapter-601/subchapter-d/section-601-072/"
-   }
-  ]
- },
- "hero_accent": "What A Rider's Claim Actually Involves",
- "trust_third": "Rider-specific liability rules, spelled out",
- "services": [
-  {
-   "slug": "left-turn-motorcycle-accident",
-   "name": "Left-Turn Motorcycle Collisions",
-   "nav": "Left-turn crashes",
-   "h1": "Left-Turn Motorcycle Accident Lawyer",
-   "accent": "Fault, Visibility and Intersection Evidence",
-   "keyword": "left turn motorcycle accident lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "713",
+    "281",
+    "832",
+    "346"
+  ],
+  "phone_display": "(713) 715-4760",
+  "phone_tel": "+17137154760",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "lane-change-motorcycle-accident",
-   "name": "Lane-Change Collisions",
-   "nav": "Lane-change crashes",
-   "h1": "Lane-Change Motorcycle Accident Lawyer",
-   "accent": "Road Position and Driver Awareness",
-   "keyword": "lane change motorcycle accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "harris_county_motorcycle_crashes",
+      "claim": "TxDOT's Crash Records Information System, queried on April 17, 2025 for the state's FY2026 highway safety grant application, ranked Harris County first in Texas for crashes involving a motorcycle and another motor vehicle in 2024, with 908. Dallas County was second at 438 and Fort Bend County recorded 74.",
+      "why_it_matters": "More rider-versus-driver collisions happen in this county than anywhere else in Texas, and the great majority of them are the ordinary kind: a car turning or merging into a motorcycle on a surface street or a freeway feeder. That is the crash pattern the explanations on this page are built around, and it is why physical evidence from the vehicles matters more here than a driver's account of not seeing the bike.",
+      "sources": [
+        "https://egrants.bts.txdot.gov/eGrantsHelp/Reports/FY26AGA.pdf"
+      ],
+      "verified": "2026-08-21",
+      "title": "Harris County leads Texas in motorcycle-versus-vehicle crashes"
+    },
+    {
+      "id": "two_year_deadline",
+      "claim": "Texas Civil Practice and Remedies Code 16.003 requires a personal injury suit to be brought no later than two years after the day the cause of action accrues, and sets the same two-year period for an action for injury resulting in death, running from the date of death.",
+      "why_it_matters": "A two-year filing date is easy to lose track of while treatment, insurance calls, and motorcycle storage compete for attention. Recording the date early helps the person involved seek individualized advice before relying on a general website explanation.",
+      "sources": [
+        "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.16.htm"
+      ],
+      "verified": "2026-08-21",
+      "title": "Two years, counted from the day the claim accrues"
+    },
+    {
+      "id": "proportionate_responsibility",
+      "claim": "Under Texas Civil Practice and Remedies Code 33.001 a claimant recovers nothing if their percentage of responsibility is greater than 50 percent, and under 33.012 a claimant below that line has their damages reduced by the percentage of responsibility assigned to them.",
+      "why_it_matters": "A percentage dispute can make the road sequence, vehicle damage, video, and witness accounts important. The helmet statute has its own requirement and statutory exceptions; this site does not make an evidence or damages statement about helmet use.",
+      "sources": [
+        "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.33.htm",
+        "https://statutes.capitol.texas.gov/Docs/TN/htm/TN.661.htm"
+      ],
+      "verified": "2026-08-21",
+      "title": "Blame is split by percentage, and 51 percent ends it"
+    }
+  ],
+  "neighborhoods": [
+    "The Heights",
+    "Montrose",
+    "East End",
+    "Gulfton",
+    "Sharpstown",
+    "Spring Branch"
+  ],
+  "symptoms": [
+    "driver_turned_into_motorcycle",
+    "driver_changed_lanes",
+    "uninsured_driver_crash",
+    "insurer_blames_rider"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "uninsured-motorist-motorcycle-claim",
-   "name": "Uninsured Motorist Claims",
-   "nav": "Uninsured motorist",
-   "h1": "Uninsured Motorist Motorcycle Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured motorist motorcycle accident lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Texas fixes, and what the written agreement sets",
+    "col_a": "Where the money goes",
+    "col_b": "What Texas law fixes",
+    "anchors": [
+      {
+        "label": "Percentage ceiling on an injury fee",
+        "value": "None stated",
+        "detail": "Rule 1.04 bars an illegal or unconscionable fee and lists eight factors for testing one. It prints no percentage for a negligence claim.",
+        "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(a)-(b)",
+        "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "label": "New civil suit, filed without service",
+        "value": "$350",
+        "detail": "Charged by the Harris County District Clerk to open a civil case. A citation is $8 more, and service through county civil process is $85.",
+        "source_name": "Harris County District Clerk fee schedule",
+        "source_url": "https://www.hcdistrictclerk.com/Common/Civil/pdf/Fee_Schedule_Civil_and_Family.pdf"
+      },
+      {
+        "label": "Deadline to file a personal injury suit",
+        "value": "Two years",
+        "detail": "Measured from the day the cause of action accrues, and from the date of death where the injury caused one. Physical evidence on a bike disappears far sooner.",
+        "source_name": "Tex. Civ. Prac. & Rem. Code 16.003(a)",
+        "source_url": "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-2/subtitle-b/chapter-16/subchapter-a/section-16-003/"
+      },
+      {
+        "label": "Ceiling on a hospital lien against the recovery",
+        "value": "50 percent",
+        "detail": "A hospital lien is capped at the lesser of first-100-day charges, half of all amounts recovered, or the amount the trier of fact specified less pro rata fees and expenses.",
+        "source_name": "Tex. Prop. Code 55.004(b)",
+        "source_url": "https://codes.findlaw.com/tx/property-code/prop-sect-55-004/"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "The fee itself, in a crash claim",
+        "share": "No statutory percentage",
+        "note": "A fee is unconscionable only if a competent lawyer could not form a reasonable belief that it is reasonable, judged against the eight factors in paragraph (b).",
+        "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(a)-(b)",
+        "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "stage": "The written agreement",
+        "share": "Required terms",
+        "note": "Paragraph (d) requires writing, the method of determination, separate percentages for settlement, trial and appeal, which expenses are deducted, and whether they come out before or after the fee is figured.",
+        "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(d)",
+        "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "stage": "A referral or a second firm",
+        "share": "Client consent in writing",
+        "note": "A division of fees requires the client's written consent to the terms, the identity of every lawyer involved, whether fees are divided by services or responsibility, and each share.",
+        "source_name": "Tex. Disciplinary Rules Prof. Conduct 1.04(f)(2)",
+        "source_url": "https://legalethicstexas.com/resources/rules/texas-disciplinary-rules-of-professional-conduct/fees/"
+      },
+      {
+        "stage": "Filing, citation and service in Harris County",
+        "share": "$350 / $8 / $85",
+        "note": "New civil suit, citation including one copy, and service by county civil process. Service by mail adds $15, clerk service by certified mail is $100, and the county jury fee is $10.",
+        "source_name": "Harris County District Clerk fee schedule",
+        "source_url": "https://www.hcdistrictclerk.com/Common/Civil/pdf/Fee_Schedule_Civil_and_Family.pdf"
+      },
+      {
+        "stage": "The rider's own share of fault",
+        "share": "Bar above 50 percent",
+        "note": "A claimant may not recover damages at all if his percentage of responsibility is greater than 50 percent. Below that line, damages are reduced by the share assigned.",
+        "source_name": "Tex. Civ. Prac. & Rem. Code 33.001",
+        "source_url": "https://law.justia.com/codes/texas/civil-practice-and-remedies-code/title-2/subtitle-c/chapter-33/subchapter-a/section-33-001/"
+      },
+      {
+        "stage": "The at-fault driver's minimum coverage",
+        "share": "$30,000 / $60,000 / $25,000",
+        "note": "Texas financial responsibility limits per person, per collision for two or more people, and for property damage. A trauma admission can exceed the per-person figure on its own.",
+        "source_name": "Tex. Transp. Code 601.072",
+        "source_url": "https://law.justia.com/codes/texas/transportation-code/title-7/subtitle-d/chapter-601/subchapter-d/section-601-072/"
+      }
+    ]
   },
-  {
-   "slug": "motorcycle-injury-claim-negotiation",
-   "name": "Motorcycle Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Motorcycle Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "motorcycle injury claim lawyer",
-   "icon": "check"
+  "hero_accent": "What A Rider's Claim Actually Involves",
+  "trust_third": "Rider-specific liability rules, spelled out",
+  "services": [
+    {
+      "slug": "left-turn-motorcycle-accident",
+      "name": "Left-Turn Motorcycle Collisions",
+      "nav": "Left-turn crashes",
+      "h1": "Left-Turn Motorcycle Accident Lawyer",
+      "accent": "Fault, Visibility and Intersection Evidence",
+      "keyword": "left turn motorcycle accident lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "lane-change-motorcycle-accident",
+      "name": "Lane-Change Collisions",
+      "nav": "Lane-change crashes",
+      "h1": "Lane-Change Motorcycle Accident Lawyer",
+      "accent": "Road Position and Driver Awareness",
+      "keyword": "lane change motorcycle accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "uninsured-motorist-motorcycle-claim",
+      "name": "Uninsured Motorist Claims",
+      "nav": "Uninsured motorist",
+      "h1": "Uninsured Motorist Motorcycle Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured motorist motorcycle accident lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "motorcycle-injury-claim-negotiation",
+      "name": "Motorcycle Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Motorcycle Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "motorcycle injury claim lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "left-turn-motorcycle-accident",
+    "lane-change-motorcycle-accident",
+    "uninsured-motorist-motorcycle-claim",
+    "motorcycle-injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "houston motorcycle accident lawyer",
+    "monthly_price": 3000,
+    "score": 66,
+    "volume": 1100,
+    "cpc_usd": 85.0,
+    "weakest_competitor": "simmonsandfletcher.com",
+    "competitor_dr": 50.0
   }
- ],
- "symptom_service": [
-  "left-turn-motorcycle-accident",
-  "lane-change-motorcycle-accident",
-  "uninsured-motorist-motorcycle-claim",
-  "motorcycle-injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "houston motorcycle accident lawyer",
-  "monthly_price": 3000,
-  "score": 66,
-  "volume": 1100,
-  "cpc_usd": 85.0,
-  "weakest_competitor": "simmonsandfletcher.com",
-  "competitor_dr": 50.0
- }
 }

@@ -1,218 +1,219 @@
 {
- "domain": "losangelesdogbitelawyerpros.com",
- "phase": 1,
- "brand": "Los Angeles Dog Bite Law Pros",
- "service": "Dog Bite Lawyer",
- "service_inline": "dog bite lawyer",
- "city": "Los Angeles",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Los Angeles"
- ],
- "area_codes": [
-  "213"
- ],
- "phone_display": "(213) 953-1047",
- "phone_tel": "+12139531047",
- "phone_status": "LIVE",
- "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "city_restraint_rule",
-   "title": "City leash rule",
-   "claim": "Los Angeles Municipal Code section 53.06.2 requires a dog off its keeper’s premises to be under a competent person’s control on a substantial chain or leash no longer than six feet, except for the stated dog exercise or training-area exception.",
-   "why_it_matters": "For a bite on a City sidewalk, street, or common area, the exact location and restraint details may be evidence worth preserving; this City rule is not automatically the rule for every County address.",
-   "sources": [
-    "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-136443"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "county_dangerous_dog_process",
-   "title": "County dangerous-dog process",
-   "claim": "Los Angeles County Animal Care and Control says its Dangerous Dog Investigations Unit investigates reported dog bites and attacks; an investigating officer may prepare a petition for an administrative hearing officer, who may impose conditions or restrictions and, in some cases, order euthanasia.",
-   "why_it_matters": "A dangerous-dog case is a public-safety process that can generate records, but it is separate from the Public Health report and from a civil injury claim.",
-   "sources": [
-    "https://animalcare.lacounty.gov/protecting-people/"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "county_dog_bite_volume",
-   "title": "Documented County bite volume",
-   "claim": "A Public Health Reports study using Los Angeles County Department of Public Health surveillance data recorded 23,103 reported dog bites from 2009 through 2011, 88% of 26,169 reported animal-to-human bites; Pasadena, Long Beach, and Vernon were excluded because they had separate health departments and rabies-control protocols.",
-   "why_it_matters": "The dated data shows why the correct reporting jurisdiction matters and why an incident record should identify the exact city and agency rather than use “Los Angeles” as a catch-all.",
-   "sources": [
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5230840/"
-   ],
-   "verified": "2026-08-21"
-  }
- ],
- "neighborhoods": [
-  "Echo Park",
-  "Koreatown",
-  "Silver Lake",
-  "West Adams",
-  "Highland Park",
-  "Boyle Heights"
- ],
- "symptoms": [
-  "bitten_by_dog",
-  "child_bitten_by_dog",
-  "dog_bite_at_rental",
-  "insurer_denied_claim"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What California's fee rules set on a dog bite claim, and what the Los Angeles courthouse charges",
-  "col_a": "What it covers",
-  "col_b": "What the rule or schedule sets",
-  "anchors": [
-   {
-    "label": "First paper, unlimited civil case",
-    "value": "$435",
-    "detail": "The court's own schedule sets this for a complaint where more than $35,000 is at issue, and the same figure for each responding party.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "label": "Factors in the unconscionability test",
-    "value": "13",
-    "detail": "California asks whether a fee is unconscionable rather than merely unreasonable, and lists thirteen things that answer the question.",
-    "source_name": "Cal. R. Prof. Conduct 1.5(b)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "label": "Advance jury fee, nonrefundable",
-    "value": "$150",
-    "detail": "Posted under Code of Civil Procedure section 631(b) to keep a jury, with later daily deposits of $15.00 plus juror mileage.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "label": "City of Los Angeles dog license fee",
-    "value": "$91.50",
-    "detail": "Charged for processing an unaltered dog's license, against $16.50 where a veterinarian certifies the dog cannot breed.",
-    "source_name": "L.A. Municipal Code 53.15.3",
-    "source_url": "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-136780"
-   }
+  "domain": "losangelesdogbitelawyerpros.com",
+  "phase": 2,
+  "brand": "Los Angeles Dog Bite Law Pros",
+  "service": "Dog Bite Lawyer",
+  "service_inline": "dog bite lawyer",
+  "vertical": "legal",
+  "city": "Los Angeles",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Los Angeles"
   ],
-  "fee_rows": [
-   {
-    "stage": "A share of a dog bite recovery",
-    "share": "No fixed percentage",
-    "note": "Rule 1.5(a) bars an unconscionable or illegal fee, and Rule 1.5(b) weighs thirteen factors, among them the fee against the value of the work done.",
-    "source_name": "Cal. R. Prof. Conduct 1.5",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "stage": "What the contract has to admit",
-    "share": "The rate is negotiable",
-    "note": "Section 6147(a) requires the agreed rate in writing plus a statement that the fee is not set by law, and 6147(b) makes a defective contract voidable.",
-    "source_name": "Cal. Bus. & Prof. Code 6147",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
-   },
-   {
-    "stage": "A claim against a health care provider",
-    "share": "25% before filing, 33% after",
-    "note": "Section 6146 is the only California percentage ceiling in injury work. It governs professional negligence claims, not a claim against a dog's owner.",
-    "source_name": "Cal. Bus. & Prof. Code 6146",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6146.&lawCode=BPC"
-   },
-   {
-    "stage": "Opening the file downtown",
-    "share": "$435",
-    "note": "Government Code section 70611 sets the first paper fee for an unlimited civil case, and the Los Angeles schedule prints it alongside every other courtroom charge.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "stage": "Trial deposits, jury and reporter",
-    "share": "$150 jury, $764 a day reporter",
-    "note": "The reporter per diem falls to $382 for a session under four hours and $30 for an hour or less, under Government Code section 68086.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   },
-   {
-    "stage": "A case designated complex",
-    "share": "$1,000 a side, $18,000 cap",
-    "note": "Government Code section 70616 charges one fee for all plaintiffs and another for each defendant, stopping at $18,000 for the whole case.",
-    "source_name": "Los Angeles Superior Court civil fee schedule",
-    "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
-   }
-  ]
- },
- "hero_accent": "What Los Angeles Reports and Rules Actually Do",
- "trust_third": "Liability rules explained before a referral",
- "services": [
-  {
-   "slug": "dog-bite-injury-claim",
-   "name": "Dog Bite Injury Claims",
-   "nav": "Dog bite claims",
-   "h1": "Dog Bite Injury Lawyer",
-   "accent": "Injuries, Evidence and Liability",
-   "keyword": "dog bite injury lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "213"
+  ],
+  "phone_display": "(213) 953-1047",
+  "phone_tel": "+12139531047",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "child-dog-bite-claim",
-   "name": "Child Dog Bite Claims",
-   "nav": "Child bite claims",
-   "h1": "Child Dog Bite Claim Lawyer",
-   "accent": "Medical Needs and Future Damages",
-   "keyword": "child dog bite lawyer",
-   "icon": "eye"
+  "local_facts": [
+    {
+      "id": "city_restraint_rule",
+      "title": "City leash rule",
+      "claim": "Los Angeles Municipal Code section 53.06.2 requires a dog off its keeper’s premises to be under a competent person’s control on a substantial chain or leash no longer than six feet, except for the stated dog exercise or training-area exception.",
+      "why_it_matters": "For a bite on a City sidewalk, street, or common area, the exact location and restraint details may be evidence worth preserving; this City rule is not automatically the rule for every County address.",
+      "sources": [
+        "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-136443"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "county_dangerous_dog_process",
+      "title": "County dangerous-dog process",
+      "claim": "Los Angeles County Animal Care and Control says its Dangerous Dog Investigations Unit investigates reported dog bites and attacks. An investigating officer may prepare a petition for an administrative hearing officer, who may impose conditions or restrictions and, in some cases, order euthanasia.",
+      "why_it_matters": "A dangerous-dog case is a public-safety process that can generate records, but it is separate from the Public Health report and from a civil injury claim.",
+      "sources": [
+        "https://animalcare.lacounty.gov/protecting-people/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "county_dog_bite_volume",
+      "title": "Documented County bite volume",
+      "claim": "A Public Health Reports study using Los Angeles County Department of Public Health surveillance data recorded 23,103 reported dog bites from 2009 through 2011, 88% of 26,169 reported animal-to-human bites; Pasadena, Long Beach, and Vernon were excluded because they had separate health departments and rabies-control protocols.",
+      "why_it_matters": "The dated data shows why the correct reporting jurisdiction matters and why an incident record should identify the exact city and agency rather than use “Los Angeles” as a catch-all.",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5230840/"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Echo Park",
+    "Koreatown",
+    "Silver Lake",
+    "West Adams",
+    "Highland Park",
+    "Boyle Heights"
+  ],
+  "symptoms": [
+    "bitten_by_dog",
+    "child_bitten_by_dog",
+    "dog_bite_at_rental",
+    "insurer_denied_claim"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "landlord-dog-bite-liability",
-   "name": "Landlord Liability Claims",
-   "nav": "Landlord liability",
-   "h1": "Landlord Dog Bite Liability Lawyer",
-   "accent": "Property Control and Notice Questions",
-   "keyword": "landlord dog bite liability lawyer",
-   "icon": "house"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What California's fee rules set, and what the courthouse charges",
+    "col_a": "What it covers",
+    "col_b": "What the rule or schedule sets",
+    "anchors": [
+      {
+        "label": "First paper, unlimited civil case",
+        "value": "$435",
+        "detail": "The court's own schedule sets this for a complaint where more than $35,000 is at issue, and the same figure for each responding party.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "label": "Factors in the unconscionability test",
+        "value": "13",
+        "detail": "California asks whether a fee is unconscionable rather than merely unreasonable, and lists thirteen things that answer the question.",
+        "source_name": "Cal. R. Prof. Conduct 1.5(b)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "Advance jury fee, nonrefundable",
+        "value": "$150",
+        "detail": "Posted under Code of Civil Procedure section 631(b) to keep a jury, with later daily deposits of $15.00 plus juror mileage.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "label": "City of Los Angeles dog license fee",
+        "value": "$91.50",
+        "detail": "Charged for processing an unaltered dog's license, against $16.50 where a veterinarian certifies the dog cannot breed.",
+        "source_name": "L.A. Municipal Code 53.15.3",
+        "source_url": "https://codelibrary.amlegal.com/codes/los_angeles/latest/lamc/0-0-0-136780"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "A share of a dog bite recovery",
+        "share": "No fixed percentage",
+        "note": "Rule 1.5(a) bars an unconscionable or illegal fee, and Rule 1.5(b) weighs thirteen factors, among them the fee against the value of the work done.",
+        "source_name": "Cal. R. Prof. Conduct 1.5",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "What the contract has to admit",
+        "share": "The rate is negotiable",
+        "note": "Section 6147(a) requires the agreed rate in writing plus a statement that the fee is not set by law, and 6147(b) makes a defective contract voidable.",
+        "source_name": "Cal. Bus. & Prof. Code 6147",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6147.&lawCode=BPC"
+      },
+      {
+        "stage": "A claim against a health care provider",
+        "share": "25% before filing, 33% after",
+        "note": "Section 6146 is the only California percentage ceiling in injury work. It governs professional negligence claims, not a claim against a dog's owner.",
+        "source_name": "Cal. Bus. & Prof. Code 6146",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=6146.&lawCode=BPC"
+      },
+      {
+        "stage": "Opening the file downtown",
+        "share": "$435",
+        "note": "Government Code section 70611 sets the first paper fee for an unlimited civil case, and the Los Angeles schedule prints it alongside every other courtroom charge.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "stage": "Trial deposits, jury and reporter",
+        "share": "$150 jury, $764 a day reporter",
+        "note": "The reporter per diem falls to $382 for a session under four hours and $30 for an hour or less, under Government Code section 68086.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      },
+      {
+        "stage": "A case designated complex",
+        "share": "$1,000 a side, $18,000 cap",
+        "note": "Government Code section 70616 charges one fee for all plaintiffs and another for each defendant, stopping at $18,000 for the whole case.",
+        "source_name": "Los Angeles Superior Court civil fee schedule",
+        "source_url": "https://lascpubstorage.blob.core.windows.net/cpw/LIBSVCExecutiveSupport-265-2024FeeSchedule010124.pdf"
+      }
+    ]
   },
-  {
-   "slug": "dog-bite-insurance-claim",
-   "name": "Dog Bite Insurance Claims",
-   "nav": "Insurance claims",
-   "h1": "Dog Bite Insurance Claim Lawyer",
-   "accent": "Coverage, Offers and Claim Terms",
-   "keyword": "dog bite insurance claim lawyer",
-   "icon": "check"
+  "hero_accent": "What Los Angeles Reports and Rules Actually Do",
+  "trust_third": "Liability rules explained before a referral",
+  "services": [
+    {
+      "slug": "dog-bite-injury-claim",
+      "name": "Dog Bite Injury Claims",
+      "nav": "Dog bite claims",
+      "h1": "Dog Bite Injury Lawyer",
+      "accent": "Injuries, Evidence and Liability",
+      "keyword": "dog bite injury lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "child-dog-bite-claim",
+      "name": "Child Dog Bite Claims",
+      "nav": "Child bite claims",
+      "h1": "Child Dog Bite Claim Lawyer",
+      "accent": "Medical Needs and Future Damages",
+      "keyword": "child dog bite lawyer",
+      "icon": "eye"
+    },
+    {
+      "slug": "landlord-dog-bite-liability",
+      "name": "Landlord Liability Claims",
+      "nav": "Landlord liability",
+      "h1": "Landlord Dog Bite Liability Lawyer",
+      "accent": "Property Control and Notice Questions",
+      "keyword": "landlord dog bite liability lawyer",
+      "icon": "house"
+    },
+    {
+      "slug": "dog-bite-insurance-claim",
+      "name": "Dog Bite Insurance Claims",
+      "nav": "Insurance claims",
+      "h1": "Dog Bite Insurance Claim Lawyer",
+      "accent": "Coverage, Offers and Claim Terms",
+      "keyword": "dog bite insurance claim lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "dog-bite-injury-claim",
+    "child-dog-bite-claim",
+    "landlord-dog-bite-liability",
+    "dog-bite-insurance-claim"
+  ],
+  "_market": {
+    "keyword": "dog bite lawyer los angeles",
+    "monthly_price": 1250,
+    "score": 73,
+    "volume": 800,
+    "cpc_usd": 45.0,
+    "weakest_competitor": "dogbitelawgroup.com",
+    "competitor_dr": 18.0
   }
- ],
- "symptom_service": [
-  "dog-bite-injury-claim",
-  "child-dog-bite-claim",
-  "landlord-dog-bite-liability",
-  "dog-bite-insurance-claim"
- ],
- "_market": {
-  "keyword": "dog bite lawyer los angeles",
-  "monthly_price": 1250,
-  "score": 73,
-  "volume": 800,
-  "cpc_usd": 45.0,
-  "weakest_competitor": "dogbitelawgroup.com",
-  "competitor_dr": 18.0
- }
 }

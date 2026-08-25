@@ -1,223 +1,224 @@
 {
- "domain": "atlantadogbitelawyerpros.com",
- "phase": 1,
- "brand": "Atlanta Dog Bite Law Pros",
- "service": "Dog Bite Lawyer",
- "service_inline": "dog bite lawyer",
- "city": "Atlanta",
- "state": "GA",
- "state_full": "Georgia",
- "counties": [
-  "Cobb",
-  "Dekalb",
-  "Fulton"
- ],
- "area_codes": [
-  "404",
-  "678",
-  "770"
- ],
- "phone_display": "(404) 666-7615",
- "phone_tel": "+14046667615",
- "phone_status": "LIVE",
- "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "georgia_vicious_propensity_rule",
-   "claim": "Georgia Code § 51-2-7 does not make every dog bite automatic liability. It addresses injury caused by a vicious or dangerous animal through careless management or allowing the animal to go at liberty, and it requires that the injured person did not provoke the injury.",
-   "why_it_matters": "The dog’s prior behavior, what its owner or keeper knew, and how it was being handled are evidence questions in an Atlanta dog-bite claim. A first-bite explanation is not the end of the inquiry, but the incident needs a fact-specific review.",
-   "sources": [
-    "https://law.justia.com/codes/georgia/title-51/chapter-2/section-51-2-7/"
-   ],
-   "verified": "2026-08-22",
-   "title": "Georgia uses a proof-based rule, not automatic bite liability"
-  },
-  {
-   "id": "atlanta_dekalb_dog_control",
-   "claim": "In the portion of Atlanta within DeKalb County, the city code prohibits an owner or person in control from permitting a dog to be out of control and unattended off the owner’s premises or on another person’s property without permission; the code defines control to include a leash, being at heel, or being beside and obedient to a competent person.",
-   "why_it_matters": "Georgia Code § 51-2-7 says it can be sufficient to prove vicious propensity when a local ordinance required a dog at heel or on a leash and the dog was not restrained as required. The exact attack address is therefore important before anyone states what rule applied.",
-   "sources": [
-    "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO",
-    "https://law.justia.com/codes/georgia/title-51/chapter-2/section-51-2-7/"
-   ],
-   "verified": "2026-08-22",
-   "title": "An Atlanta restraint rule can change the evidence question"
-  },
-  {
-   "id": "fulton_animal_services_bite_response",
-   "claim": "Fulton County Animal Services lists dog bites as a reason residents can request field service and says animal bites are among the emergencies for which officers are available after regular hours.",
-   "why_it_matters": "A county animal-services report can create information worth locating after an attack, but it does not replace the injured person’s own photos, witness details, treatment records, and documentation of the dog’s restraint or the condition of the property.",
-   "sources": [
-    "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/animal-services/report-a-stray"
-   ],
-   "verified": "2026-08-22",
-   "title": "Fulton County treats animal bites as a field-service matter"
-  }
- ],
- "neighborhoods": [
-  "Ansley Park",
-  "Buckhead",
-  "Candler Park",
-  "East Atlanta",
-  "Grant Park",
-  "Kirkwood"
- ],
- "symptoms": [
-  "bitten_by_dog",
-  "child_bitten_by_dog",
-  "dog_bite_at_rental",
-  "insurer_denied_claim"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What Georgia's fee rule fixes in a Fulton County dog bite claim, and what it leaves open",
-  "col_a": "What it covers",
-  "col_b": "What Georgia sets",
-  "anchors": [
-   {
-    "label": "Filing a general civil action, Fulton County Superior Court",
-    "value": "$215",
-    "detail": "Paid to the Clerk when the complaint is docketed, with a further $8.00 for each party added beyond the first.",
-    "source_name": "Fulton County Clerk of Superior Court fee schedule",
-    "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
-   },
-   {
-    "label": "Factors that decide whether a fee is reasonable",
-    "value": "8",
-    "detail": "Georgia measures a fee against eight listed factors, one of which is the fee customarily charged in the locality for similar work.",
-    "source_name": "Ga. R. Prof. Conduct 1.5(a)",
-    "source_url": "https://www.gabar.org/handbook?rule=rule55"
-   },
-   {
-    "label": "Annual Atlanta dog owner's permit",
-    "value": "$3.00",
-    "detail": "Charged per dog six months or older, capped at $10.00 for a household however many dogs it keeps.",
-    "source_name": "Atlanta Code of Ordinances 18-61(a)(4)",
-    "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO"
-   },
-   {
-    "label": "Sheriff service of the complaint",
-    "value": "$50",
-    "detail": "The Fulton schedule lists this for service by the Sheriff, with subpoena service billed separately at $10.00.",
-    "source_name": "Fulton County Clerk of Superior Court fee schedule",
-    "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
-   }
+  "domain": "atlantadogbitelawyerpros.com",
+  "phase": 2,
+  "brand": "Atlanta Dog Bite Law Pros",
+  "service": "Dog Bite Lawyer",
+  "service_inline": "dog bite lawyer",
+  "vertical": "legal",
+  "city": "Atlanta",
+  "state": "GA",
+  "state_full": "Georgia",
+  "counties": [
+    "Cobb",
+    "Dekalb",
+    "Fulton"
   ],
-  "fee_rows": [
-   {
-    "stage": "A fee taken out of a dog bite recovery",
-    "share": "No percentage ceiling",
-    "note": "Georgia fixes no cap. Rule 1.5(a) bars an unreasonable fee and lists eight factors, including the amount involved, the results obtained, and local custom.",
-    "source_name": "Ga. R. Prof. Conduct 1.5(a)",
-    "source_url": "https://www.gabar.org/handbook?rule=rule55"
-   },
-   {
-    "stage": "The contingency agreement itself",
-    "share": "Writing required",
-    "note": "Rule 1.5(c)(1) requires the writing to give the method of calculation, the percentages on settlement, trial and appeal, and whether expenses come off before or after the fee.",
-    "source_name": "Ga. R. Prof. Conduct 1.5(c)(1)",
-    "source_url": "https://www.gabar.org/handbook?rule=rule55"
-   },
-   {
-    "stage": "The statement owed when the matter ends",
-    "share": "Written, itemized",
-    "note": "Rule 1.5(c)(2) requires the outcome in writing plus the remittance, how it was figured, the attorney fee, and any share paid to an outside lawyer.",
-    "source_name": "Ga. R. Prof. Conduct 1.5(c)(2)",
-    "source_url": "https://www.gabar.org/handbook?rule=rule55"
-   },
-   {
-    "stage": "A fee riding on a divorce or a criminal charge",
-    "share": "Barred outright",
-    "note": "Rule 1.5(d) forbids a contingency in a domestic relations matter tied to the divorce, alimony or support, and forbids one for a criminal defendant.",
-    "source_name": "Ga. R. Prof. Conduct 1.5(d)",
-    "source_url": "https://www.gabar.org/handbook?rule=rule55"
-   },
-   {
-    "stage": "Opening the case at the Justice Center",
-    "share": "$215 plus $8 a party",
-    "note": "The Clerk's schedule adds $50.00 for Sheriff service, $10.00 for subpoena service and $1.00 per motion filed.",
-    "source_name": "Fulton County Clerk of Superior Court fee schedule",
-    "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
-   },
-   {
-    "stage": "Getting an impounded dog back in Atlanta",
-    "share": "$7.50 plus $3.00 a day",
-    "note": "Sec. 18-61(a)(3) gives the owner seven days from the mailed notice and adds the unpaid permit fee and rabies cost where no current tag was worn.",
-    "source_name": "Atlanta Code of Ordinances 18-61(a)(3)",
-    "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO"
-   }
-  ]
- },
- "hero_accent": "What The Law Says About Dog Attacks",
- "trust_third": "Liability rules explained before you call",
- "services": [
-  {
-   "slug": "dog-bite-injury-claim",
-   "name": "Dog Bite Injury Claims",
-   "nav": "Dog bite claims",
-   "h1": "Dog Bite Injury Lawyer",
-   "accent": "Injuries, Evidence and Liability",
-   "keyword": "dog bite injury lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "404",
+    "678",
+    "770"
+  ],
+  "phone_display": "(404) 666-7615",
+  "phone_tel": "+14046667615",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx number already on Dan's account, confirmed by him on 2026-08-22 as not live in MarketCall, Ringba or any other campaign. Area code matches this market. Not yet routed.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "child-dog-bite-claim",
-   "name": "Child Dog Bite Claims",
-   "nav": "Child bite claims",
-   "h1": "Child Dog Bite Claim Lawyer",
-   "accent": "Medical Needs and Future Damages",
-   "keyword": "child dog bite lawyer",
-   "icon": "eye"
+  "local_facts": [
+    {
+      "id": "georgia_vicious_propensity_rule",
+      "claim": "Georgia Code § 51-2-7 does not make every dog bite automatic liability. It addresses injury caused by a vicious or dangerous animal through careless management or allowing the animal to go at liberty, and it requires that the injured person did not provoke the injury.",
+      "why_it_matters": "The dog’s prior behavior, what its owner or keeper knew, and how it was being handled are evidence questions in an Atlanta dog-bite claim. A first-bite explanation is not the end of the inquiry, but the incident needs a fact-specific review.",
+      "sources": [
+        "https://law.justia.com/codes/georgia/title-51/chapter-2/section-51-2-7/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Georgia uses a proof-based rule, not automatic bite liability"
+    },
+    {
+      "id": "atlanta_dekalb_dog_control",
+      "claim": "In the portion of Atlanta within DeKalb County, the city code prohibits an owner or person in control from permitting a dog to be out of control and unattended off the owner’s premises or on another person’s property without permission. The code defines control to include a leash, being at heel, or being beside and obedient to a competent person.",
+      "why_it_matters": "Georgia Code § 51-2-7 says it can be sufficient to prove vicious propensity when a local ordinance required a dog at heel or on a leash and the dog was not restrained as required. The exact attack address is therefore important before anyone states what rule applied.",
+      "sources": [
+        "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO",
+        "https://law.justia.com/codes/georgia/title-51/chapter-2/section-51-2-7/"
+      ],
+      "verified": "2026-08-22",
+      "title": "An Atlanta restraint rule can change the evidence question"
+    },
+    {
+      "id": "fulton_animal_services_bite_response",
+      "claim": "Fulton County Animal Services lists dog bites as a reason residents can request field service and says animal bites are among the emergencies for which officers are available after regular hours.",
+      "why_it_matters": "A county animal-services report can create information worth locating after an attack, but it does not replace the injured person’s own photos, witness details, treatment records, and documentation of the dog’s restraint or the condition of the property.",
+      "sources": [
+        "https://fultoncountyga.gov/inside-fulton-county/fulton-county-departments/animal-services/report-a-stray"
+      ],
+      "verified": "2026-08-22",
+      "title": "Fulton County treats animal bites as a field-service matter"
+    }
+  ],
+  "neighborhoods": [
+    "Ansley Park",
+    "Buckhead",
+    "Candler Park",
+    "East Atlanta",
+    "Grant Park",
+    "Kirkwood"
+  ],
+  "symptoms": [
+    "bitten_by_dog",
+    "child_bitten_by_dog",
+    "dog_bite_at_rental",
+    "insurer_denied_claim"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "landlord-dog-bite-liability",
-   "name": "Landlord Liability Claims",
-   "nav": "Landlord liability",
-   "h1": "Landlord Dog Bite Liability Lawyer",
-   "accent": "Property Control and Notice Questions",
-   "keyword": "landlord dog bite liability lawyer",
-   "icon": "house"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Georgia's fee rule fixes in a Fulton County dog bite claim, and what it leaves open",
+    "col_a": "What it covers",
+    "col_b": "What Georgia sets",
+    "anchors": [
+      {
+        "label": "Filing a general civil action, Fulton County Superior Court",
+        "value": "$215",
+        "detail": "Paid to the Clerk when the complaint is docketed, with a further $8.00 for each party added beyond the first.",
+        "source_name": "Fulton County Clerk of Superior Court fee schedule",
+        "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
+      },
+      {
+        "label": "Factors that decide whether a fee is reasonable",
+        "value": "8",
+        "detail": "Georgia measures a fee against eight listed factors, one of which is the fee customarily charged in the locality for similar work.",
+        "source_name": "Ga. R. Prof. Conduct 1.5(a)",
+        "source_url": "https://www.gabar.org/handbook?rule=rule55"
+      },
+      {
+        "label": "Annual Atlanta dog owner's permit",
+        "value": "$3.00",
+        "detail": "Charged per dog six months or older, capped at $10.00 for a household however many dogs it keeps.",
+        "source_name": "Atlanta Code of Ordinances 18-61(a)(4)",
+        "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO"
+      },
+      {
+        "label": "Sheriff service of the complaint",
+        "value": "$50",
+        "detail": "The Fulton schedule lists this for service by the Sheriff, with subpoena service billed separately at $10.00.",
+        "source_name": "Fulton County Clerk of Superior Court fee schedule",
+        "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "A fee taken out of a dog bite recovery",
+        "share": "No percentage ceiling",
+        "note": "Georgia fixes no cap. Rule 1.5(a) bars an unreasonable fee and lists eight factors, including the amount involved, the results obtained, and local custom.",
+        "source_name": "Ga. R. Prof. Conduct 1.5(a)",
+        "source_url": "https://www.gabar.org/handbook?rule=rule55"
+      },
+      {
+        "stage": "The contingency agreement itself",
+        "share": "Writing required",
+        "note": "Rule 1.5(c)(1) requires the writing to give the method of calculation, the percentages on settlement, trial and appeal, and whether expenses come off before or after the fee.",
+        "source_name": "Ga. R. Prof. Conduct 1.5(c)(1)",
+        "source_url": "https://www.gabar.org/handbook?rule=rule55"
+      },
+      {
+        "stage": "The statement owed when the matter ends",
+        "share": "Written, itemized",
+        "note": "Rule 1.5(c)(2) requires the outcome in writing plus the remittance, how it was figured, the attorney fee, and any share paid to an outside lawyer.",
+        "source_name": "Ga. R. Prof. Conduct 1.5(c)(2)",
+        "source_url": "https://www.gabar.org/handbook?rule=rule55"
+      },
+      {
+        "stage": "A fee riding on a divorce or a criminal charge",
+        "share": "Barred outright",
+        "note": "Rule 1.5(d) forbids a contingency in a domestic relations matter tied to the divorce, alimony or support, and forbids one for a criminal defendant.",
+        "source_name": "Ga. R. Prof. Conduct 1.5(d)",
+        "source_url": "https://www.gabar.org/handbook?rule=rule55"
+      },
+      {
+        "stage": "Opening the case at the Justice Center",
+        "share": "$215 plus $8 a party",
+        "note": "The Clerk's schedule adds $50.00 for Sheriff service, $10.00 for subpoena service and $1.00 per motion filed.",
+        "source_name": "Fulton County Clerk of Superior Court fee schedule",
+        "source_url": "https://www.fultonclerk.org/DocumentCenter/View/376/Superior-and-Magistrate-Court-Fee"
+      },
+      {
+        "stage": "Getting an impounded dog back in Atlanta",
+        "share": "$7.50 plus $3.00 a day",
+        "note": "Sec. 18-61(a)(3) gives the owner seven days from the mailed notice and adds the unpaid permit fee and rabies cost where no current tag was worn.",
+        "source_name": "Atlanta Code of Ordinances 18-61(a)(3)",
+        "source_url": "https://library.municode.com/ga/atlanta/codes/code_of_ordinances/177780?nodeId=PTIICOORENOR_CH18AN_ARTIIIDO_S18-62ADRACOREHECOFUCO"
+      }
+    ]
   },
-  {
-   "slug": "dog-bite-insurance-claim",
-   "name": "Dog Bite Insurance Claims",
-   "nav": "Insurance claims",
-   "h1": "Dog Bite Insurance Claim Lawyer",
-   "accent": "Coverage, Offers and Claim Terms",
-   "keyword": "dog bite insurance claim lawyer",
-   "icon": "check"
+  "hero_accent": "What The Law Says About Dog Attacks",
+  "trust_third": "Liability rules explained before you call",
+  "services": [
+    {
+      "slug": "dog-bite-injury-claim",
+      "name": "Dog Bite Injury Claims",
+      "nav": "Dog bite claims",
+      "h1": "Dog Bite Injury Lawyer",
+      "accent": "Injuries, Evidence and Liability",
+      "keyword": "dog bite injury lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "child-dog-bite-claim",
+      "name": "Child Dog Bite Claims",
+      "nav": "Child bite claims",
+      "h1": "Child Dog Bite Claim Lawyer",
+      "accent": "Medical Needs and Future Damages",
+      "keyword": "child dog bite lawyer",
+      "icon": "eye"
+    },
+    {
+      "slug": "landlord-dog-bite-liability",
+      "name": "Landlord Liability Claims",
+      "nav": "Landlord liability",
+      "h1": "Landlord Dog Bite Liability Lawyer",
+      "accent": "Property Control and Notice Questions",
+      "keyword": "landlord dog bite liability lawyer",
+      "icon": "house"
+    },
+    {
+      "slug": "dog-bite-insurance-claim",
+      "name": "Dog Bite Insurance Claims",
+      "nav": "Insurance claims",
+      "h1": "Dog Bite Insurance Claim Lawyer",
+      "accent": "Coverage, Offers and Claim Terms",
+      "keyword": "dog bite insurance claim lawyer",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "dog-bite-injury-claim",
+    "child-dog-bite-claim",
+    "landlord-dog-bite-liability",
+    "dog-bite-insurance-claim"
+  ],
+  "_market": {
+    "keyword": "dog bite lawyer atlanta",
+    "monthly_price": 650,
+    "score": 89,
+    "volume": 200,
+    "cpc_usd": 60.0,
+    "weakest_competitor": "thegeorgiadogbitelawyer.com",
+    "competitor_dr": 3.0
   }
- ],
- "symptom_service": [
-  "dog-bite-injury-claim",
-  "child-dog-bite-claim",
-  "landlord-dog-bite-liability",
-  "dog-bite-insurance-claim"
- ],
- "_market": {
-  "keyword": "dog bite lawyer atlanta",
-  "monthly_price": 650,
-  "score": 89,
-  "volume": 200,
-  "cpc_usd": 60.0,
-  "weakest_competitor": "thegeorgiadogbitelawyer.com",
-  "competitor_dr": 3.0
- }
 }

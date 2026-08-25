@@ -1,9 +1,10 @@
 {
   "domain": "waterdamageaustinco.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Austin Water Damage Restoration Pros",
   "service": "Water Damage Restoration",
   "service_inline": "water damage restoration",
+  "vertical": "home",
   "city": "Austin",
   "state": "TX",
   "state_full": "Texas",

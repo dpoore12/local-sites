@@ -87,7 +87,7 @@ I was not wearing a seat belt. Does that sink my claim?
 
 ## qa_3_answer
 
-Not by itself, and Virginia is unusually clear on this point. The safety belt statute sets a $25 civil penalty for adults who do not buckle up, assigns no demerit points, and then says plainly that a violation of the section does not constitute negligence, cannot be considered in mitigation of damages, and is not admissible as evidence in a civil matter. So an adjuster who opens by blaming an unbelted passenger for their own injuries is leaning on something the statute takes off the table.
+Not by itself, and Virginia is unusually clear on this point. The safety belt statute sets a $25 civil penalty for adults who do not buckle up, and it assigns no demerit points. It then says plainly that a violation of the section does not constitute negligence, cannot be considered in mitigation of damages, and is not admissible as evidence in a civil matter. So an adjuster who opens by blaming an unbelted passenger for their own injuries is leaning on something the statute takes off the table.
 
 ## closing_cta
 
@@ -149,7 +149,7 @@ Organize the available records
 
 ## step_2
 
-The police report, photographs, treatment timeline, correspondence, and both insurance declarations pages each describe a different part of the collision.
+A police report, photographs, treatment timeline, correspondence, and both insurance declarations pages each describe a different part of the collision.
 
 ## step_3_title
 
@@ -450,13 +450,13 @@ Virginia handles injury fees with a reasonableness rule, a list of terms that mu
 
 ### Virginia's rule requires a reasonable fee and names what that means
 
-Rule 1.5 of the Virginia Rules of Professional Conduct opens with four words that carry the whole standard: a lawyer's fee shall be reasonable. It then lists eight factors for testing one: the time and labor required, the novelty and difficulty of the questions and the skill needed; whether the matter closed off other employment; the fee customarily charged in the locality for similar services; the amount involved and the results obtained; time limits imposed by the client or the circumstances; the nature and length of the professional relationship; the experience, reputation and ability of the lawyers; and whether the fee is fixed or contingent.
+Rule 1.5 of the Virginia Rules of Professional Conduct opens with four words that carry the whole standard: a lawyer's fee shall be reasonable. It then lists eight factors for testing one: the time and labor required, the novelty and difficulty of the questions and the skill needed; whether the matter closed off other employment; and the fee customarily charged in the locality for similar services. The list continues with the amount involved and the results obtained; time limits imposed by the client or the circumstances; and the nature and length of the professional relationship. The last two are the experience, reputation and ability of the lawyers, and whether the fee is fixed or contingent.
 
 No percentage appears anywhere in that list. Virginia does not legislate a rate for injury work, so any figure presented as "the Virginia limit" for a car crash claim is somebody's practice rather than the Commonwealth's rule.
 
 ### Rule 1.5 also controls the paperwork, and it is specific
 
-Rule 1.5(b) requires the fee to be adequately explained, and where the lawyer has not regularly represented that client, the amount, basis or rate must be communicated preferably in writing before or within a reasonable time after the representation begins. Rule 1.5(c) is stricter for contingent matters. Such an agreement has to state in writing the method by which the fee is determined, the percentages that accrue to the lawyer on settlement, trial or appeal, the litigation and other expenses deducted from the recovery, and whether those expenses come out before or after the fee is calculated. When the matter concludes, the rule requires a written statement of the outcome and, where there was a recovery, the remittance and how it was computed.
+Rule 1.5(b) requires the fee to be adequately explained, and where the lawyer has not regularly represented that client, the amount, basis or rate must be communicated preferably in writing before or within a reasonable time after the representation begins. Rule 1.5(c) is stricter for contingent matters. Such an agreement has to state in writing the method by which the fee is determined, along with the percentages that accrue to the lawyer on settlement, trial or appeal. It must also list the litigation and other expenses deducted from the recovery, and say whether those expenses come out before or after the fee is calculated. When the matter concludes, the rule requires a written statement of the outcome and, where there was a recovery, the remittance and how it was computed.
 
 A single percentage for every scenario is not what the rule contemplates, and the before-or-after question about expenses is no technicality: the same percentage applied in the two orders produces different money for the client.
 
@@ -468,7 +468,7 @@ Court costs in the Commonwealth are assembled from parts rather than quoted as o
 
 Separately, Va. Code 58.1-1727 imposes a writ tax on commencing a civil action in a court of record: $5 where the debt or damages demanded does not exceed $49,999, $15 where the demand exceeds that but not $100,000, and $25 where it exceeds $100,000.
 
-The Virginia Beach Circuit Court's own civil fee schedule shows how a total is built, listing the components charged alongside the clerk fee and writ tax: a $9 legal aid fee, a $5 technology trust fund fee, a $4 law library fee, a $2 courthouse maintenance charge, a $1 indigent defense assessment, and a $10 court technology line on higher-tier filings. That is why a filing total here ends in an odd figure.
+The Virginia Beach Circuit Court's own civil fee schedule shows how a total is built, listing the components charged alongside the clerk fee and writ tax. Those are a $9 legal aid fee, a $5 technology trust fund fee, a $4 law library fee, a $2 courthouse maintenance charge, a $1 indigent defense assessment, and a $10 court technology line on higher-tier filings. That is why a filing total here ends in an odd figure.
 
 ### The claims that reach a recovery before the injured person does
 

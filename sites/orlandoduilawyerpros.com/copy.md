@@ -7,7 +7,42 @@
 - Write for this city. Every block must be unreusable on another site.
 - The build fails if any 15 consecutive words match another site.
 - Never name a law firm, attorney, license number, review count, case result, settlement figure, price, or years in business.
-- PHASE 1: this site is home + about + contact only. No service pages.
+- PHASE 2: home + about + contact + pricing + /services/ index + four service pages.
+
+### Sources verified for the phase 2 service pages (fetched 2026-08-25)
+
+- Fla. Stat. 316.193 (0.08 threshold, offense levels, fine bands, 0.15 tier, felony third/fourth, serious bodily injury, DUI manslaughter and the 4-year mandatory minimum): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.193.html
+- Fla. Stat. 322.2615 (10-day request for formal or informal review, 10-day temporary permit expiring at midnight of the 10th day, 6-month and 1-year unlawful-level suspensions, 1-year and 18-month refusal suspensions, review issues, no use at the criminal trial, invalidation after an acquittal): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.2615.html
+- Fla. Stat. 316.1932 (implied consent, test incidental to a lawful arrest, exact refusal warning, second- and first-degree misdemeanor refusal, refusal admissible, blood-test conditions): https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.1932.html
+- Fla. Stat. 316.1934 (0.05 / 0.05-0.08 / 0.08 presumption bands, affidavit contents including most recent required maintenance, right to subpoena the tester, substantial-compliance language): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.1934.html
+- Fla. Stat. 322.271 (business-purposes-only and employment-purposes-only definitions, hardship hearing, DUI school proof, 90-day completion after reinstatement): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.271.html
+- FLHSMV Florida DUI and Administrative Suspension Laws (30 days with no license before hardship on an unlawful level, 90 days on a first refusal, no hardship after two or more refusals, 5-year / 10-year / permanent revocation ladder and hardship waiting periods): https://www.flhsmv.gov/driver-licenses-id-cards/education-courses/dui-and-iid/florida-dui-administrative-suspension-laws/
+- FLHSMV Orange County locations page (Bureau of Administrative Reviews, 4101 Clarcona-Ocoee Road Suite 152, Orlando 32810, weekdays 8-5, hardship and formal review forms, submission by email without visiting): https://www.flhsmv.gov/locations/orange/
+- Florida Rules of Criminal Procedure 3.160(a) written plea of not guilty waiving arraignment and 3.180(a) presence of defendant: https://www.flcourts.gov/content/download/217910/file/Florida-Rules-of-Criminal-Procedure.pdf
+- Fla. Admin. Code R. 11D-8.006 (agency inspection of breath test instruments at least once each calendar month, Forms 39 and 40, inspections when taken out of and returned to evidentiary use): https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-11D-8-006
+- Fla. Admin. Code R. 11D-8.004 (department registration, annual department inspection, inspection after repair, Forms 36 and 41): https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-11D-8-004
+- Fla. Admin. Code R. 15A-10.019 Client Transfers (Interstate DUI Transfer Form, 90 days to enroll at the receiving program): https://www.law.cornell.edu/regulations/florida/Fla-Admin-Code-Ann-R-15A-10-019 and rule listing https://www.flrules.org/gateway/ruleNo.asp?id=15A-10.019
+- FDLE Alcohol Testing Program, Intoxilyzer 8000 record categories and public records route: https://www.fdle.state.fl.us/alcohol-testing-program/intoxilyzer-8000-records
+- Orange County Corrections first appearance (weekday 9 a.m. and 1 p.m. sessions, posted 4:30 a.m., 11 a.m. on weekends and court holidays, public galleries at the Booking and Release Center): https://netapps.ocfl.net/BestJail/Home/FirstAppearance
+- Orange County Corrections facilities (Booking and Release Center, 592 beds, booking / first appearance / release in one location, three courtrooms with public galleries, bail 24/7): https://netapps.ocfl.net/BestJail/Home/Facilities
+- Orange County bonding page (money order, traveler's check, certified or cashier's check payable to Clerk of the Courts, no cash or personal checks, Western Union city code ORLFLJAILCLERK, exact amount, 24-50 hours to confirm): https://www.ocfl.net/JailInmateServices/BondingOutOfJail.aspx
+- Orange County Clerk criminal court (felony cases processed at the downtown Orange County Courthouse, misdemeanors at any location, refer to court paperwork for arraignment location): http://www.myorangeclerk.com/Divisions/Criminal/Criminal-Court
+- Ninth Judicial Circuit about page (Orange and Osceola counties, one of 20 circuits, more than 2,500 square miles, more than 2 million residents, nearly 50 million visitors a year): https://ninthcircuit.org/about
+- Ninth Judicial Circuit Orange County Courthouse (opened 1997, 23-level tower, 416 feet, 965,000+ square feet, Public Defender in Building A, State Attorney in Building B, garage off Magnolia and Orange Avenues): https://ninthcircuit.org/about/courthouses/orange-county-courthouse
+- Ninth Judicial Circuit State Attorney pretrial intervention screen and published DUI exclusions: https://sao9th.com/second-chance-program/pretrial-intervention-pti/
+- FLHSMV Florida Traffic Crash Facts Annual Report 2023 (Orange County: 26,263 crashes, 172 fatalities, 19,618 injuries; 267 alcohol confirmed crashes, 24 alcohol confirmed fatalities, 190 alcohol confirmed injuries, 18 drug and alcohol confirmed crashes; "Alcohol Confirmed" defined as BAC greater than 0.00): https://www.flhsmv.gov/pdf/crashreports/crash_facts_2023.pdf
+- Neighborhood facts: Parramore bounds and 1880s history https://en.wikipedia.org/wiki/Parramore,_Orlando,_Florida ; Thornton Park one block east of Lake Eola Park (same page); College Park street names https://en.wikipedia.org/wiki/College_Park,_Orlando,_Florida ; Lake Nona southeast of Orlando International Airport with UCF College of Medicine https://en.wikipedia.org/wiki/Lake_Nona,_Orlando,_Florida ; Baldwin Park on the former Naval Training Center site listed for closure in 1993 https://www.orlando.gov/files/78953af6-1e7a-4559-8346-bf2945f25138/BaldwinPark-History.pdf ; Audubon Park Garden District on Corrine Drive between downtown Orlando and Winter Park https://www.orlando.gov/Our-Government/Departments-Offices/Economic-Development/Business-Development/Orlando-Main-Streets/Audubon-Park-Garden-District and https://www.helloapgd.com/gethere
+- Visit Orlando: 75.3 million visitors in 2024: https://www.visitorlando.org/media/press-releases/post/central-floridas-tourism-industry-reaches-record-945-billion-in-economic-impact-in-2024/
+- Rules Regulating The Florida Bar 4-1.5(f)(3)(B), contingent fee forbidden in criminal defense: https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf
+
+### Sources verified for the pricing page
+
+- Fla. Stat. 938.07 ($135 DUI court cost; $25 EMS Trust Fund, $50 FDLE Operating Trust Fund for the statewide criminal analysis laboratory system, $60 Brain and Spinal Cord Injury Program Trust Fund): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0938/Sections/0938.07.html
+- Fla. Stat. 938.05 ($60 misdemeanors, $60 criminal traffic offenses, $225 felonies): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0900-0999/0938/Sections/0938.05.html
+- Fla. Stat. 28.246(4) (monthly payment presumed to match ability to pay at the greater of 2 percent of annual net income divided by 12 or $25; down payment the lesser of 10 percent of the total owed or $100): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.246.html
+- Fla. Stat. 27.52(1)(b) ($50 application fee for court-appointed counsel, payable within 7 days after submitting the application): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0027/Sections/0027.52.html
+- Fla. Stat. 322.21(8) ($45 reinstatement service fee after a suspension, $75 after a revocation, additional $130 where the action was for a s. 316.193 violation or a test refusal, one such fee per incident): https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.21.html
+- Fla. Stat. 322.2715(5) (authorized installer collects and remits $12 for each interlock installation): https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/Sections/0322.2715.html
 
 ---
 
@@ -37,11 +72,7 @@ This is your first DUI arrest and the paperwork is hard to read
 
 ## symptom_1
 
-A first DUI arrest can feel like one accusation written on five different pieces of paper. The citation may list an alleged alcohol level, the release form may give a court date, and a separate driving notice may create a short deadline. Start by keeping every page together and writing down the timeline while it is fresh: the reason given for the stop, where you pulled over, what you were asked to do, the time of any test, and whether the vehicle was towed. Small gaps in the sequence matter later.
-
-A first arrest does not make the case simple. The work is to obtain and compare the actual records: the officer reports, dispatch and 911 audio where relevant, video, test paperwork, maintenance or observation records where relevant, and the charging document. The facts can raise questions about the basis for the stop, the administration of roadside exercises, the time between driving and testing, or whether the paperwork matches the video. It can also show facts that need to be addressed directly rather than avoided.
-
-In Orange County, do not assume the courthouse location from a friend’s case. The Clerk says criminal processing depends on the case type and directs people to the court paperwork for arraignment location. Missing a date because the wrong building was assumed is a preventable problem. Preserve the papers, follow every written condition, and have the file reviewed early enough to identify the actual next move.
+You were let go with a handful of paper that does not agree with itself. Read the citation for the statute subsection, the release sheet for a court setting, and the driving notice for a deadline that belongs to a different agency. Keep all three pages unmarked in one folder, then write the night down while the times are still exact.
 
 ## symptom_2_title
 
@@ -49,11 +80,7 @@ A driving notice arrived, and you still need to get to work or school
 
 ## symptom_2
 
-The driving problem after a DUI arrest is easy to confuse with the criminal charge because both begin around the same time. They are not the same file and they do not necessarily move on the same schedule. A notice from the Florida Department of Highway Safety and Motor Vehicles needs prompt attention. Florida’s process can include a ten-day window to seek review after an arrest-related suspension, so the notice date matters; it is not a detail to set aside until the criminal court date.
-
-The practical questions are whether a request was made on time, what kind of driving privilege may be available, what documents are required, and what restrictions apply while the criminal case is pending. Do not drive on an assumption that a hardship option, a temporary document, or a restricted license applies. A wrong turn here can create a new charge or make the original situation more difficult.
-
-The case work overlaps even though the tracks are separate. The same report may reveal what happened at the stop; the charging document may identify the allegation; the driving paperwork may show a deadline; and the actual test record may matter in more than one place. An Orlando DUI lawyer should organize these records together while treating each deadline on its own terms. Keep the original notice, not just a phone photo, and get the exact date on a calendar immediately.
+The notice of suspension is not the criminal case and does not wait for it. It travels with a temporary permit that dies at midnight on the tenth day after it was issued. Do not find out the hard way whether you can still drive to work. The suspension page covers the review request and the restricted privilege.
 
 ## symptom_3_title
 
@@ -61,11 +88,7 @@ You gave a breath sample, or refused one, and assume that decides everything
 
 ## symptom_3
 
-A breath number is evidence, not a case summary. A reported result may be important, but the question is how the number was obtained, recorded, and connected to driving. The defense review should start with the complete sequence: the stop, observations, roadside exercises if any, the request for a sample, the observation period, the instrument record, and the time stamps. A number on a citation leaves out most of that sequence.
-
-For a reported test, records can include the test affidavit, printout, agency video, operator materials, and the documents showing the machine’s status or any required checks. The issue is not to invent a flaw. It is to compare the government’s proof against the actual record and identify what can be tested. Delay, a mismatch between paperwork and video, an unclear observation period, or missing supporting material may need careful examination. Where the record is solid, the advice should be direct about that as well.
-
-A refusal also needs a record-based review. What was requested, what warnings were given, what answer was recorded, and whether a person was physically able to provide a sample are all separate facts. Refusal allegations can affect driving consequences and the way the State presents the case. Do not try to explain the event from memory alone after days have passed. Save the notice, identify the agency, and get the evidence request started while video and related records are still available.
+A number typed on a citation is one line lifted out of a long paper trail: the warning read aloud to you, the operator's state permit, the monthly instrument inspection, the sworn affidavit. A recorded refusal has its own warning script and its own consequences. Note the arresting agency, the report number, and the clock time of the sample.
 
 ## symptom_4_title
 
@@ -73,11 +96,7 @@ You have a prior DUI, a crash, or facts that may make this charge more serious
 
 ## symptom_4
 
-A DUI case needs a different level of care when there is a prior alcohol-related case, a crash, injuries, a passenger under 18, a commercial driver license, or an allegation of a high alcohol level. Those facts can affect charging, sentencing exposure, driving consequences, program eligibility, and the amount of evidence that must be collected. They also make casual advice especially risky. A person should not decide that a case is “just another DUI” from the citation label alone.
-
-Begin with the records that define the issue. For a prior case, that can mean certified dispositions and the exact dates, not a recollection of what happened years ago. For a crash, it can include the crash report, scene photos, 911 audio, vehicle data where available, medical documentation, and witness information. For a commercial license, the license status and the work consequences need separate attention. Each fact has its own paper trail and may need its own deadline.
-
-Florida’s ignition-interlock requirements also become more significant with repeat convictions and certain first-offense circumstances. The device is tied to the ability to operate a vehicle, so it is not an afterthought once a case reaches a disposition. The defense task is to map the actual allegation and record, then pursue the legal and factual work that fits that file. Follow bond conditions exactly, do not contact witnesses about their statements, and do not post about the arrest while the case is open.
+A prior conviction, a crash that hurt somebody, a passenger under 18, or a commercial license pushes a DUI out of routine county court territory. Some of those combinations are filed as felonies at the downtown courthouse instead. Follow every written bond condition exactly and post nothing about the crash anywhere.
 
 ## qa_1_question
 
@@ -85,7 +104,7 @@ Does Orlando have a DUI diversion program?
 
 ## qa_1_answer
 
-The Ninth Judicial Circuit State Attorney’s Office operates a Pretrial Intervention program, but entry is discretionary rather than automatic. It requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a breath or blood alcohol level above .22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license. The charge, history, and facts all matter. That local policy is why a generic Florida DUI page cannot tell you whether the option fits a particular Orange County case.
+The Ninth Judicial Circuit State Attorney’s Office operates a Pretrial Intervention program, but entry is discretionary rather than automatic. It requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a breath or blood alcohol level above 0.22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license. The charge, history, and facts all matter. That local policy is why a generic Florida DUI page cannot tell you whether the option fits a particular Orange County case.
 
 ## qa_2_question
 
@@ -279,6 +298,164 @@ Four things that make the first review more accurate
 
 A DUI charge is not a physical emergency, but a license notice or court paper may carry a short deadline. Save every page, follow any written driving restriction, and act on the dates shown.
 
+## services_summary
+
+Four different jobs hide inside the phrase Orlando DUI lawyer, and they keep separate calendars. A first arrest is a county court matter carrying two unrelated deadlines. A notice of suspension is an administrative fight with the Department of Highway Safety and Motor Vehicles, run through the Bureau of Administrative Reviews office on Clarcona-Ocoee Road. A breath reading or a recorded refusal is an evidence problem assembled from inspection paperwork. A third conviction, a serious injury, or a death is a felony filed downtown. Confuse one for another and the usual cost is a lapsed ten-day window, a longer revocation, or a driving restriction nobody explained.
+
+## services_pick_head
+
+Start from the piece of paper you were actually handed
+
+## crosslink_head
+
+Facing a different DUI problem?
+
+## svc_first_offense_dui_defense_lede
+
+Florida can prove a first DUI two separate ways, and an Orange County arrest sets two unrelated calendars running the same night. One ends at a court setting printed on your release sheet. The other expires at midnight on the tenth day.
+
+## svc_first_offense_dui_defense_body
+
+### One offense, two routes to a conviction
+
+Section 316.193(1), Florida Statutes, describes driving or being in actual physical control of a vehicle while under the influence to the extent that normal faculties are impaired. The same subsection also reaches a blood-alcohol level of 0.08 or more grams per 100 milliliters of blood, or a breath-alcohol level of 0.08 or more grams per 210 liters of breath. Two consequences follow from that structure. A case with no chemical reading is not automatically thin, because the impairment route stands on its own. A case with a reading is not automatically finished, because the reading has to survive the rules that let it into evidence at all.
+
+Section 316.1934(2) then sorts the numbers into three bands. At 0.05 or less the statute presumes the driver was not impaired. Above 0.05 but under 0.08 there is no presumption in either direction, and the figure is weighed with other competent evidence. At 0.08 or higher the reading is prima facie evidence of impairment and also establishes the separate unlawful-level offense.
+
+### What a first conviction is priced at by statute
+
+Under 316.193(2)(a)1, a first conviction carries a fine of not less than $500 and not more than $1,000, with imprisonment of not more than six months. Subsection (4) is a different tier rather than an add-on. Where the blood or breath level is 0.15 or higher, or a person under 18 was in the vehicle, a first conviction carries $1,000 to $2,000 and up to nine months, and the statute is explicit that only the instant offense has to involve the 0.15 figure. That tier also requires an ignition interlock for not less than six continuous months once the person qualifies for a permanent or restricted license.
+
+### The first hours run through one building
+
+Orange County Corrections describes a Booking and Release Center that handles booking, first court appearance, and release in a single 592-bed facility with three courtrooms, public galleries, and bail accepted around the clock. County records say first appearance sessions run weekdays at 9 a.m. or 1 p.m., are posted at 4:30 a.m., and are updated at 7:30 a.m. for the morning and noon for the afternoon, while weekends and court holidays get one session at 11 a.m. After that, the Orange County Clerk says misdemeanor cases can be processed at any of its locations while felony cases go to the downtown courthouse, and it tells people to read their own court paperwork for the arraignment location.
+
+### Diversion here is screened, not granted
+
+The Ninth Judicial Circuit State Attorney publishes its pretrial intervention terms, and entry needs approval from the program administrator, the prosecutor, the victim, and the judge. Its listed DUI exclusions include a reported alcohol level above 0.22, a prior alcohol-related criminal traffic arrest or citation, a crash, and a commercial driver license. That is a screen applied to your specific paperwork, which is why nobody can promise the program from the charge label alone.
+
+### Living somewhere else does not pause the file
+
+The Ninth Circuit says Central Florida hosts nearly 50 million business and vacationing visitors each year, so a large share of arrests here belong to people who fly home a day later. Two rules matter immediately. Rule 3.160(a) lets counsel file a written plea of not guilty at or before arraignment, and arraignment is then deemed waived. Rule 3.180(a) still lists the proceedings where a defendant has to be physically present, including first appearance, the entry of a plea unless it was made in writing, jury selection, and sentencing, while presence at a pretrial conference may be waived in writing.
+
+Money and coursework travel too. Orange County accepts a bond posted at the Booking and Release Center by money order, traveler's check, certified check, or cashier's check payable to the Clerk of the Courts, and it refuses cash and personal checks. The county also accepts a Western Union cash transfer under the city code ORLFLJAILCLERK for the exact bond amount, warning that confirmation can take 24 to 50 hours. For the education requirement, Florida Administrative Code Rule 15A-10.019 governs client transfers between DUI programs and provides an Interstate DUI Transfer Form, with the receiving program reporting a failure to complete if the client does not enroll within 90 days.
+
+### The error that quietly does the most damage
+
+Reading the breath number as the verdict, then letting the driving notice sit on the kitchen counter. Section 322.2615 suspends the privilege for six months on a first unlawful level, and the state's own guidance requires 30 days with no license or permit before any hardship reinstatement is even considered on that kind of suspension, plus proof of enrollment in DUI school. Ten days of inattention buys a month of no driving that had nothing to do with guilt.
+
+### How the fee is allowed to be built
+
+Subdivision (f)(3)(B) of Rules Regulating The Florida Bar 4-1.5 forbids a contingent fee for defending a criminal case, without exception for a first arrest. What remains is a fixed sum for described work or an hourly rate drawn against an advance, put in writing. Read the scope, not the figure: whether the administrative hearing sits inside it, what happens if the State files something different from the arrest paperwork, and where the work stops if the case is set for trial.
+
+## svc_dui_license_suspension_lede
+
+The permit an officer handed you has an expiration written into the statute, and the review that can undo the suspension has to be asked for before that permit dies. This page is about that ten-day stretch and what driving looks like afterward.
+
+## svc_dui_license_suspension_body
+
+### What the paper in your hand actually is
+
+Under section 322.2615, Florida Statutes, the officer takes the driver license, issues a notice of suspension, and issues a ten-day temporary permit if the driver is otherwise eligible for the privilege. The statute states plainly that the temporary permit expires at midnight of the tenth day following the date the notice of suspension was issued. Nothing about that clock is tied to the criminal court setting, and no county employee is going to call and remind you.
+
+### Two different suspensions, two different lengths
+
+The statute separates the unlawful level from the refusal. For driving or being in actual physical control with a blood or breath alcohol level of 0.08 or higher, the privilege is suspended six months for a first offense, or one year where the privilege was previously suspended under the same section. For refusing a lawful breath, blood, or urine test, it is one year for a first refusal and 18 months where the privilege was previously suspended as the result of a refusal. In each case the suspension period commences on the date the notice of suspension was issued, not on the date anyone gets around to reading it.
+
+### The request, and the office it goes to
+
+Section 322.2615 gives the driver ten days from issuance of the notice to request a formal or informal review by the department, or to request review of eligibility for a restricted driving privilege. In this metro that request goes to the Bureau of Administrative Reviews office at 4101 Clarcona-Ocoee Road, Suite 152, Orlando 32810, open weekdays from 8 a.m. to 5 p.m. The department's own Orange County page lists two forms for exactly this moment, a hardship license formal review and a first-DUI waiver of formal review, and says the hearing request or hardship application can be completed and emailed in without visiting the office at all. For a driver already back in Ohio or Ontario, that single sentence is the difference between a preserved hearing and a forfeited one.
+
+### What the hearing officer is deciding
+
+The statute limits the review to identified questions. One is whether the driver had an unlawful level of 0.08 or higher, or refused after being asked by a law enforcement or correctional officer. The other is whether the driver was warned that refusing would cost a year of driving privilege, or 18 months on a second or later refusal. Two provisions cut the other way as well. The department's decision, and any circuit court review of it, may not be considered in a trial for the criminal charge. And if the person is later found not guilty at trial of the underlying offense, the department is directed to invalidate a suspension imposed for an unlawful alcohol level.
+
+### Hardship driving is narrower than people expect
+
+Section 322.271 defines the two restricted privileges by hand. Business purposes only covers driving necessary to maintain livelihood, which the statute spells out as driving to and from work, necessary on-the-job driving, driving for educational purposes, and driving for church and medical purposes. Employment purposes only is tighter still: to and from work, plus on-the-job driving an employer or occupation requires. The statute adds that driving for any other reason is not permitted under either restriction.
+
+The waiting periods come from the department's published DUI guidance. On a suspension for an unlawful level of 0.08 or above, the driver must serve 30 days with no license or permit before becoming eligible for hardship reinstatement. On a first refusal it is 90 days. There is no hardship reinstatement at all after two or more refusals. Proof of enrollment in DUI school is part of the application, and if the course is not finished within 90 days after reinstatement the license is cancelled again until it is.
+
+### Why the restriction bites hard in this city
+
+Restricted driving is measured against real distances. Lake Nona sits southeast of Orlando International Airport around the medical campus that includes the UCF College of Medicine. College Park keeps street names borrowed from Princeton, Harvard, and Yale a short run northwest of the core. Thornton Park begins one block east of Lake Eola Park. Parramore, the historic hub of the city's Black community since the 1880s, is bounded on the east by Interstate 4 and on the west by Orange Blossom Trail. Baldwin Park occupies the former Naval Training Center site the closure commission listed in 1993, and the Audubon Park Garden District runs along Corrine Drive between downtown and Winter Park. A business-purposes license gets a Lake Nona nurse to a shift. It does not get anyone to dinner on Corrine Drive, and a stop on the way home is a separate charge.
+
+### Then the interlock decides when ordinary driving returns
+
+Section 322.2715 sets minimum interlock periods that scale with the record: at least six months in specified first-offense situations, at least a year for a second DUI, two years for a third, and five years for a fourth or later. The device attaches to issuance of the permanent or restricted license and covers vehicles the person owns, leases, or routinely operates, so its length belongs in any discussion of a proposed resolution rather than after one.
+
+## svc_dui_breath_test_defense_lede
+
+A breath reading arrives as one number resting on a stack of dated records: a spoken warning, an operator permit, a monthly instrument check, a sworn affidavit. This page is about that stack, and about what a recorded refusal does instead.
+
+## svc_dui_breath_test_defense_body
+
+### The consent you are treated as having given
+
+Section 316.1932, Florida Statutes, says a person who accepts the privilege of operating a motor vehicle in Florida is deemed by that operation to have consented to an approved chemical or physical test of the breath, including an infrared light test. That deemed consent applies if the person is lawfully arrested for an offense allegedly committed while driving or in actual physical control while under the influence. The same subsection attaches two conditions. The test must be incidental to a lawful arrest, and it must be administered at the request of an officer with reasonable cause to believe the person was driving or in actual physical control while under the influence. Those conditions get examined long before anyone argues about the reading.
+
+### The warning has fixed words in it
+
+Before a breath test the statute requires the person be told that failing to submit will suspend the driving privilege for one year on a first refusal. That becomes 18 months where the privilege was previously suspended or the person was previously fined for a refusal. The warning must also state that refusing is a second-degree misdemeanor, or a first-degree misdemeanor where the privilege had already been suspended for a prior refusal. The statute adds that the refusal itself is admissible in a criminal proceeding. A refusal is therefore not silence. It is a piece of evidence with a script attached, and what was actually said and recorded is a question of fact rather than recollection.
+
+### The affidavit is a checklist in disguise
+
+Section 316.1934 makes an affidavit of test results admissible without further authentication and presumptive proof of those results, but only if it discloses a set list of items. It must state the type of test and the procedures followed, the time the sample was collected, and the numerical results. It must also give the type and status of the permit the tester held from the Department of Law Enforcement and, for a breath instrument, the date the most recent required maintenance was performed. Each of those five items points at a separate record that either exists or does not. The same statute preserves the right to subpoena the person who administered the test as an adverse witness, so the affidavit is a starting point rather than the last word.
+
+### The reading is read against three bands
+
+Under 316.1934(2), a level of 0.05 or less carries a presumption that the driver was not impaired. Between 0.05 and 0.08 there is no presumption either way and the figure is considered alongside other competent evidence. At 0.08 or higher the figure is prima facie evidence of impairment and separately establishes the unlawful-level offense. That ladder is why the gap between a roadside observation and the time printed on the instrument record matters as much as the number does.
+
+### Instruments are checked on a published schedule
+
+Florida Administrative Code Rule 11D-8.006 requires an agency inspector to inspect each evidentiary breath test instrument at least once each calendar month, following state inspection procedures and recording the outcome on the agency inspection report form. The same rule requires an inspection whenever an instrument is taken out of evidentiary use, and another before it goes back in. Rule 11D-8.004 puts a second layer above that: the department registers and inspects each instrument before it is first placed into evidentiary use, inspects registered instruments at least once each calendar year, and requires a department inspection after any repair and before the instrument returns to service. That schedule produces dated paperwork for the specific machine that produced your reading.
+
+### Where the paperwork is kept
+
+The Department of Law Enforcement's alcohol testing program publishes categories of instrument records: instrument files and registrations, subject test electronic data, inspection test and other electronic data, and subject test statistics. The same list covers alcohol reference solutions, dry gas standards, evaluations and research studies, and correspondence, and the program directs anyone who cannot find a record online to make a public records request. Requesting the right slice of that quickly matters, because section 316.1934 also says a test must have been performed substantially in accordance with department-approved methods by a person holding a valid permit, while insubstantial differences from approved technique do not invalidate a result. The work is separating a substantial departure from a clerical one, using records rather than adjectives.
+
+### When the sample was blood instead
+
+Section 316.1932 treats blood differently. Deemed consent to an approved blood test applies where there is reasonable cause and the person appears for treatment at a hospital, clinic, or other medical facility and administering a breath or urine test is impractical or impossible, and the test must be performed in a reasonable manner. A person incapable of refusal because of unconsciousness or another mental or physical condition is deemed not to have withdrawn consent. After a crash on I-4 or the Beachline that route is common, and it brings medical records and hospital timing into a file that would otherwise contain only an instrument printout.
+
+### The first week is about preservation
+
+Write down the arresting agency, the report number, the date, and the clock times you remember, including when driving stopped and when the sample was taken. Keep receipts, rideshare records, or card charges that fix your evening on a timeline. Contesting a reading takes records and often an analyst to read them, so the cost of this defense tracks the volume of material rather than the citation label, and a written agreement should say who pays for records and experts before either is ordered.
+
+## svc_felony_dui_defense_lede
+
+Three sets of facts turn a Florida DUI into a felony, and each one is defined by arithmetic or by injury rather than by how the night felt. Getting the category right decides which courthouse the case is filed in and how long driving stops.
+
+## svc_felony_dui_defense_body
+
+### The three routes into felony territory
+
+Section 316.193, Florida Statutes, gets there three ways. A third conviction for an offense occurring within ten years after a prior conviction is a third-degree felony, and the court is directed to order an interlock for not less than two years. A fourth or later conviction is a third-degree felony regardless of when any prior occurred, with a fine that may be not less than $2,000. Separately, a driver in violation of subsection (1) who by operating a vehicle causes or contributes to causing serious bodily injury to another, as that term is defined in section 316.1933, commits a third-degree felony, while damage to the property or person of another is a first-degree misdemeanor. Those are different questions: two are about dates, one is about the severity of an injury.
+
+### Where a death takes the case
+
+Causing the death of a human being or unborn child is DUI manslaughter, a second-degree felony, and the statute imposes a mandatory minimum term of four years. It becomes a first-degree felony where the person knew or should have known at the time that the crash occurred and failed to give information and render aid as section 316.062 requires, or where there is a qualifying prior conviction. The leaving-the-scene element is a separate factual dispute layered on top of impairment, and it is often the part decided by video and phone records rather than by any test.
+
+### A third case ten years out is a different animal
+
+Subsection (2)(b)2 covers a third conviction for an offense more than ten years after a prior conviction. That tier carries a fine of not less than $2,000 and not more than $5,000, imprisonment of not more than twelve months, the portion of the fine above $2,500 remitted to the Department of Revenue, and an interlock for at least two years. It is not a felony. The distance between that paragraph and the felony paragraph above it is measured in calendar days, which is why certified dispositions with exact dates from every prior clerk are the first records worth ordering rather than anyone's memory of what year something happened.
+
+### Which building the case lands in
+
+The Ninth Judicial Circuit serves Orange and Osceola counties, is one of twenty circuits in Florida, covers more than 2,500 square miles, and serves more than two million residents. Within it, the Orange County Clerk says felony criminal cases are processed at the downtown Orange County Courthouse while misdemeanor cases can be processed at any of its locations, and it tells people to check their own paperwork for the arraignment location. That courthouse opened in 1997 as a 23-level tower rising 416 feet, with high-volume courts and jury assembly in its four-story base. The Public Defender sits in Building A and the State Attorney in Building B, and garage entrances off Magnolia and Orange Avenues charge by the hour up to a daily maximum. Guess the wrong building and you lose a morning, sometimes a court date.
+
+### What the county crash figures do and do not prove
+
+In the state's 2023 crash report, Orange County recorded 26,263 total crashes with 172 fatalities and 19,618 injuries. Within that, 267 crashes were alcohol confirmed, with 24 alcohol confirmed fatalities and 190 alcohol confirmed injuries, and 18 crashes were drug and alcohol confirmed. Read the definition before reading the number: the report defines an alcohol confirmed crash as one involving a driver or non-motorist whose blood alcohol content was greater than 0.00. That is not the 0.08 threshold the criminal statute uses, and it is not a finding of impairment. A crash report that carries the label still has to be matched against what section 316.193 requires the State to prove.
+
+### The license consequence outlasts the sentence
+
+The department's published DUI guidance sets the revocation ladder. A second conviction within five years brings a five-year revocation, with a hardship hearing possible after one year and continued DUI program supervision for the rest of the revocation. The applicant must also have consumed no alcohol or controlled substance and driven no vehicle for the twelve months before reinstatement. A third conviction within ten years of a prior brings a ten-year revocation with a hardship hearing possible after two years and a two-year interlock. DUI manslaughter with no prior DUI-related conviction is a permanent revocation, with hardship eligibility only after five years and only on stated conditions. Convictions for manslaughter, DUI serious bodily injury, or vehicular homicide bring a three-year revocation with an immediate right to apply. Separately, there is no hardship reinstatement after a second or later refusal suspension or after two or more DUI convictions.
+
+### What the first week should produce
+
+Order the certified prior dispositions. Preserve the crash report, scene photographs, dispatch audio, medical records, and any vehicle data before it is overwritten. Read every bond condition literally and treat travel, alcohol, and no-contact terms as court orders rather than suggestions until a judge changes them. Say nothing about the crash on a recorded jail line or in a message, and do not approach a witness about a statement. On a felony filing the record is large and it grows quickly, so a written fee agreement should say plainly whether it covers depositions, motion hearings, and trial, since Florida forbids any arrangement that would tie a criminal defense fee to the outcome.
+
 ## pricing_lede
 
 Florida writes most of the money in a DUI case into statute. The fine band, the court costs, the reinstatement charges, the interlock charge and the clerk's payment plan terms are all fixed in the Florida Statutes, and none of them are attorney fees. The attorney fee is a separate written agreement, and Florida bars any version of it that moves with the outcome.
@@ -287,9 +464,9 @@ Florida writes most of the money in a DUI case into statute. The fine band, the 
 
 ### Florida will not let a defense fee ride on the verdict
 
-The Rules Regulating The Florida Bar handle fees in rule 4-1.5. Subdivision (f)(3) sets out the two arrangements a lawyer must not enter into, charge, or collect, and item (B) is "a contingent fee for representing a defendant in a criminal case." The prohibition is unconditional. It does not soften for a first arrest, for a breath refusal, or for a case a lawyer believes will be dropped at the first pretrial hearing.
+The Rules Regulating The Florida Bar handle fees in rule 4-1.5. Subdivision (f)(3) sets out the two arrangements a lawyer must not enter into, charge, or collect, and item (B) is "a contingent fee for representing a defendant in a criminal case." The prohibition is unconditional. It does not soften for a first arrest, for a refusal, or for a case a lawyer expects to be dropped early.
 
-That leaves two lawful shapes for the fee: a fixed sum covering defined work, or an hourly rate drawn against an advance. Either one belongs in writing, with the scope described in enough detail that both sides know whether it stops at a plea or carries through a jury trial in the Ninth Judicial Circuit. Ask specifically about a violation of probation, about an amended charge, and about whether the administrative license hearing is inside or outside the quoted work.
+That leaves two lawful shapes: a fixed sum covering defined work, or an hourly rate drawn against an advance. Either belongs in writing, with the scope described in enough detail that both sides know whether it stops at a plea or carries through a jury trial. Ask about a violation of probation, an amended charge, and whether the administrative license hearing sits inside the quoted work.
 
 ### The fine bands, tier by tier, without rounding
 
@@ -299,20 +476,20 @@ Subsection (4) is the tier readers underestimate. Where the blood or breath alco
 
 ### Court costs are added by statute, not by a judge's discretion
 
-Fla. Stat. 938.07 says a court cost of $135 shall be added to any fine imposed for a DUI, and it names the destinations: $25 to the Emergency Medical Services Trust Fund, $50 to the crime laboratory trust fund of the arresting agency's jurisdiction, and $60 to the Brain and Spinal Cord Injury Program Trust Fund. Fla. Stat. 938.05 adds $60 as a cost on a criminal traffic offense or a misdemeanor, and $225 on a felony, which is the figure that appears when a DUI is charged with serious bodily injury.
+Fla. Stat. 938.07 says a court cost of $135 shall be added to any fine imposed for a DUI, and it names the destinations. Of that, $25 goes to the Emergency Medical Services Trust Fund, $50 to the Department of Law Enforcement's Operating Trust Fund for the statewide criminal analysis laboratory system, and $60 to the Brain and Spinal Cord Injury Program Trust Fund. Fla. Stat. 938.05 adds $60 as a cost on a criminal traffic offense or a misdemeanor, and $225 on a felony, the figure appearing when a DUI is charged with serious bodily injury.
 
 For anyone who cannot pay the total at disposition, Fla. Stat. 28.246(4) governs the clerk's payment plan. A monthly amount is presumed to match ability to pay when it does not exceed the greater of $25 or two percent of annual net income divided by twelve, and any down payment the clerk requires is capped at the lesser of ten percent of the balance or $100. The clerk must enroll a person the court finds indigent for costs.
 
 ### Appointed counsel costs $50 to ask for
 
-Fla. Stat. 27.52(1)(b) requires a $50 application fee to the clerk for each application for court-appointed counsel, payable within seven days of filing. If it goes unpaid before the case is resolved, the clerk notifies the court and the amount is assessed as part of the sentence or as a condition of probation. The financial affidavit behind the application covers income, assets down to equity in a boat or vehicle, all liabilities, and the source of any bail money already posted.
+Fla. Stat. 27.52(1)(b) requires a $50 application fee to the clerk for each application for court-appointed counsel, payable within seven days after the application is submitted. If it goes unpaid before the case is resolved, the clerk notifies the court and the amount is assessed as part of the sentence or as a condition of probation. The financial affidavit behind it covers income, assets down to equity in a boat or vehicle, liabilities, and the source of any bail money already posted.
 
 ### The license side runs through the state, not the courthouse
 
 Fla. Stat. 322.21(8) sets a service fee of $45 to reinstate after a suspension and $75 after a revocation, then adds a further $130 fee where the reinstatement follows a DUI conviction or a refusal, limited to one such charge per incident and not collected if the underlying action is overturned. Fla. Stat. 322.2715(5) requires the authorized interlock installer to collect $12 for each installation and remit it to the department, which sits on top of whatever the monitoring provider charges each month.
 
-The department's own DUI guidance fills in the rest of the timeline: a first conviction brings a revocation of six months to one year, a DUI causing serious bodily injury brings at least three years, and DUI school has to be finished within 90 days after reinstatement or the license is cancelled again. Reinstatement after a DUI also requires FR-44 insurance held for three years at $100,000 bodily injury per person, $300,000 per occurrence, and $50,000 property damage, or a combined single limit of $350,000. That insurance requirement usually costs more over three years than the fine did.
+The department's DUI guidance fills in the rest of the timeline. A first conviction brings a revocation of six months to one year, and a DUI causing serious bodily injury brings at least three years. DUI school must be finished within 90 days after reinstatement or the license is cancelled again. Reinstatement after a DUI also requires FR-44 insurance held for three years at $100,000 bodily injury per person, $300,000 per occurrence, and $50,000 property damage, or a combined single limit of $350,000. Over three years that requirement usually outruns the fine.
 
 ### What changes the size of a defense fee in Orange County
 
-The charge tier matters most, because a subsection (4) case at 0.15 or above, or a felony filing after a crash, involves evidence a plain first-offense case does not. After that: whether the breath, blood or urine result is contested, since that means subpoenaing instrument records and often retaining an analyst; whether the case is eligible for a diversion track and what compliance costs; and whether the matter is set for trial. The fine in the table below does not move with any of that, and neither figure predicts the other.
+The charge tier matters most, because a subsection (4) case at 0.15 or above, or a felony filing after a crash, involves evidence a plain first-offense case does not. After that: whether the chemical result is contested, since that means subpoenaing instrument records and often retaining an analyst; whether a diversion track is open and what compliance costs; and whether the matter is set for trial. The statutory fine below moves with none of that.

@@ -313,7 +313,7 @@ A bead of sealant run over a dirty, damp seam without cleaning or drying the met
 
 ### What a correct repair involves
 
-Clear the run, water test it, then set the work in order: re-establish a consistent fall toward the outlet, replace failed hangers into sound wood at a tighter spacing than the original, cut out and reseal miters with the surfaces dry, and add an outlet or a second downspout where the collected roof area justifies it. North Carolina requires a general contractor license once the cost of an undertaking reaches 40,000 dollars, which no ordinary gutter repair approaches, so the useful question is not a license class but proof of general liability and workers compensation for people working off a ladder on your property.
+Clear the run, water test it, then set the work in order. Re-establish a consistent fall toward the outlet, and replace failed hangers into sound wood at a tighter spacing than the original. Cut out and reseal miters with the surfaces dry, and add an outlet or a second downspout where the collected roof area justifies it. North Carolina requires a general contractor license once the cost of an undertaking reaches $40,000, which no ordinary gutter repair approaches, so the useful question is not a license class but proof of general liability and workers compensation for people working off a ladder on your property.
 
 ### The shape of the range
 

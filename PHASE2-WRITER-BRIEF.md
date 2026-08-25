@@ -170,3 +170,48 @@ Do not report done until the check prints `[PASS]` for your domain.
 - The four service page slugs you wrote
 - Every external fact you used, with the URL you verified it against
 - Anything you could not verify and wrote around
+
+---
+
+## 12. QC RULES (added Aug 25 after a full QC pass over the finished sites)
+
+These are the exact defects the automated QC pass found in earlier sites. Do not
+reproduce them. Your work is checked against all of these.
+
+**Sentence length.** Keep sentences under 45 words. The QC pass flags anything
+over 48 and we found sentences up to 98 words. Long statutory sentences are the
+worst offenders: when you are listing what a rule requires, break the list into
+two or three sentences instead of chaining clauses with semicolons and commas.
+
+**Headings.**
+- Keep every heading under 90 characters. We found headings of 96 to 133
+  characters that wrap to three lines and look broken.
+- A heading that is ONE sentence must not end with a period. A heading that is
+  deliberately two short sentences may keep its periods.
+- Never put two headings back to back with no body between them.
+- Do not repeat the same heading text twice on one page.
+
+**Numbers.** Never write a bare decimal. Write `0.22`, never `.22`.
+
+**Doubled words.** Read for accidental repeats. A real one we shipped was
+"Denver Community Planning and Development development fees". If a proper noun
+ends with the same word that comes next, add a comma or rephrase.
+
+**Markdown.** Q&A answers now render inline markdown links, bold and italic
+correctly, so `[label](url)` is safe in `qa_N_answer`. Block markdown is not:
+no headings, no bullet lists, no tables inside a Q&A answer.
+
+**Paragraph openers.** Do not open three or more paragraphs in a row with the
+same word. The city name is the most common offender. Vary the opening.
+
+**One-sentence paragraphs.** Do not run five or more single-sentence paragraphs
+back to back. It reads like a list that lost its bullets.
+
+**Subject word repetition.** The city name and the service name will repeat, and
+that is expected. But do not exceed roughly 2% of the page for either. We found
+one page at 3.1% for the state name. Use pronouns, "the city", "here", and the
+county or neighborhood name instead.
+
+**Verify before you write a state law.** One writer was handed a brief naming the
+wrong state. `site.json` is the authority for city and state, not the brief. If
+they disagree, follow `site.json` and say so in your report.

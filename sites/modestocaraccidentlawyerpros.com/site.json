@@ -1,219 +1,220 @@
 {
- "domain": "modestocaraccidentlawyerpros.com",
- "phase": 2,
- "brand": "Modesto Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "Modesto",
- "state": "CA",
- "state_full": "California",
- "counties": [
-  "Stanislaus"
- ],
- "area_codes": [
-  "209",
-  "350"
- ],
- "phone_display": "(209) 805-9881",
- "phone_tel": "+12098059881",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Los_Angeles",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "dmv_sr1",
-   "title": "A crash report can still leave a separate 10-day DMV task",
-   "claim": "California DMV requires an SR-1 within 10 days when a crash causes any injury or death, or more than $1,000 in property damage; it is separate from a police, CHP, or insurance report.",
-   "why_it_matters": "A Modesto collision file can have a CHP or police report and still carry an independent DMV reporting deadline.",
-   "sources": [
-    "https://www.dmv.ca.gov/portal/dmv-virtual-office/accident-reporting/"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "limits_2025",
-   "title": "The familiar 15/30/5 shorthand is not the current floor",
-   "claim": "California raised standard auto-policy minimum liability limits as policies renewed beginning January 1, 2025, from $15,000/$30,000/$5,000 to $30,000/$60,000/$15,000.",
-   "why_it_matters": "The crash and policy-renewal dates affect which limits are relevant, and a minimum limit is not a measure of the full loss.",
-   "sources": [
-    "https://www.insurance.ca.gov/0400-news/0102-alerts/2025/New-Year-Means-New-Changes-for-Insurance.cfm"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "stanislaus_2023",
-   "title": "Stanislaus County\u2019s traffic-injury volume makes early evidence practical",
-   "claim": "The California Office of Traffic Safety recorded 4,679 people killed or injured in Stanislaus County traffic collisions in 2023, including 389 fatal-and-injury hit-and-run collisions.",
-   "why_it_matters": "In a county with this volume of serious crash events, report requests, camera preservation, witness details, and insurance records need early attention.",
-   "sources": [
-    "https://www.ots.ca.gov/rankings/stanislaus-county-2023/"
-   ],
-   "verified": "2026-08-21"
-  }
- ],
- "neighborhoods": [
-  "Downtown Modesto",
-  "La Loma",
-  "College Area",
-  "Village One",
-  "Coffee-Claratina",
-  "Pelandale-Snyder"
- ],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What California fixes for a Stanislaus County injury claim, and where the caps really apply",
-  "col_a": "What it covers",
-  "col_b": "What California sets",
-  "anchors": [
-   {
-    "label": "Statutory percentage for a traffic collision claim",
-    "value": "None",
-    "detail": "The State Bar rule bars an unconscionable or illegal fee, and the fee statute for injury contracts requires the contract to say the rate is negotiable.",
-    "source_name": "Cal. Rule of Professional Conduct 1.5(a)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "label": "Medical negligence ceiling, before a filing",
-    "value": "25%",
-    "detail": "California's only numeric fee ceiling reaches claims against health care providers, and it drops to this level when the release is signed before anything is filed.",
-    "source_name": "Cal. Bus. & Prof. Code 6146(a)(1)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146."
-   },
-   {
-    "label": "First paper, unlimited civil case",
-    "value": "$435",
-    "detail": "Due from the plaintiff when a case worth more than $35,000 is filed, and again from every other party that files a first paper.",
-    "source_name": "Statewide Civil Fee Schedule, eff. Jan. 1, 2026 (Gov. Code 70611)",
-    "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
-   },
-   {
-    "label": "Advance jury fee",
-    "value": "$150",
-    "detail": "A nonrefundable deposit required to keep the right to a jury, with daily jury deposits set separately by the court once trial begins.",
-    "source_name": "Cal. Code Civ. Proc. 631(b), 2026 fee schedule",
-    "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
-   }
+  "domain": "modestocaraccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "Modesto Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "vertical": "legal",
+  "city": "Modesto",
+  "state": "CA",
+  "state_full": "California",
+  "counties": [
+    "Stanislaus"
   ],
-  "fee_rows": [
-   {
-    "stage": "Share of a vehicle injury recovery",
-    "share": "No cap in statute",
-    "note": "Only the unconscionable-or-illegal standard applies. The legislature wrote percentage limits for medical negligence claims and left driving cases out.",
-    "source_name": "Cal. Rule of Prof. Conduct 1.5(a)",
-    "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
-   },
-   {
-    "stage": "What the contract must tell the client",
-    "share": "Rate is negotiable",
-    "note": "The statute requires that sentence whenever the medical negligence limits do not apply, plus a duplicate signed copy handed over at signing.",
-    "source_name": "Cal. Bus. & Prof. Code 6147(a)",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6147."
-   },
-   {
-    "stage": "Claim against a health care provider",
-    "share": "25% before filing \u00b7 33% after",
-    "note": "Measured on the net sum after costs, and a higher share needs a motion showing good cause to the court or arbitrator.",
-    "source_name": "Cal. Bus. & Prof. Code 6146",
-    "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146."
-   },
-   {
-    "stage": "Filing in Stanislaus County Superior Court",
-    "share": "$435",
-    "note": "Charged on the complaint in an unlimited civil case and on each other party's first paper, which is why defense answers add up.",
-    "source_name": "2026 Statewide Civil Fee Schedule",
-    "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
-   },
-   {
-    "stage": "Keeping a jury trial available",
-    "share": "$150 nonrefundable",
-    "note": "Deposited in advance under the code, then daily jury deposits are set by the court for each day the panel sits.",
-    "source_name": "Cal. Code Civ. Proc. 631(b), (e)",
-    "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
-   },
-   {
-    "stage": "Case designated complex",
-    "share": "$1,000 per side",
-    "note": "One charge covers all plaintiffs, then each defendant owes the same, with a total of $18,000 for the whole case.",
-    "source_name": "Cal. Gov. Code 70616, 2026 fee schedule",
-    "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
-   }
-  ]
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "209",
+    "350"
+  ],
+  "phone_display": "(209) 805-9881",
+  "phone_tel": "+12098059881",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Los_Angeles",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "dmv_sr1",
+      "title": "A crash report can still leave a separate 10-day DMV task",
+      "claim": "California DMV requires an SR-1 within 10 days when a crash causes any injury or death, or more than $1,000 in property damage; it is separate from a police, CHP, or insurance report.",
+      "why_it_matters": "A Modesto collision file can have a CHP or police report and still carry an independent DMV reporting deadline.",
+      "sources": [
+        "https://www.dmv.ca.gov/portal/dmv-virtual-office/accident-reporting/"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "limits_2025",
+      "title": "The familiar 15/30/5 shorthand is not the current floor",
+      "claim": "California raised standard auto-policy minimum liability limits as policies renewed beginning January 1, 2025, from $15,000/$30,000/$5,000 to $30,000/$60,000/$15,000.",
+      "why_it_matters": "The crash and policy-renewal dates affect which limits are relevant. A minimum limit is not a measure of the full loss.",
+      "sources": [
+        "https://www.insurance.ca.gov/0400-news/0102-alerts/2025/New-Year-Means-New-Changes-for-Insurance.cfm"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "stanislaus_2023",
+      "title": "Stanislaus County’s traffic-injury volume makes early evidence practical",
+      "claim": "The California Office of Traffic Safety recorded 4,679 people killed or injured in Stanislaus County traffic collisions in 2023, including 389 fatal-and-injury hit-and-run collisions.",
+      "why_it_matters": "In a county with this volume of serious crash events, report requests, camera preservation, witness details, and insurance records need early attention.",
+      "sources": [
+        "https://www.ots.ca.gov/rankings/stanislaus-county-2023/"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown Modesto",
+    "La Loma",
+    "College Area",
+    "Village One",
+    "Coffee-Claratina",
+    "Pelandale-Snyder"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What California fixes for a Stanislaus County injury claim, and where the caps really apply",
+    "col_a": "What it covers",
+    "col_b": "What California sets",
+    "anchors": [
+      {
+        "label": "Statutory percentage for a traffic collision claim",
+        "value": "None",
+        "detail": "The State Bar rule bars an unconscionable or illegal fee, and the fee statute for injury contracts requires the contract to say the rate is negotiable.",
+        "source_name": "Cal. Rule of Professional Conduct 1.5(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "label": "Medical negligence ceiling, before a filing",
+        "value": "25%",
+        "detail": "California's only numeric fee ceiling reaches claims against health care providers, and it drops to this level when the release is signed before anything is filed.",
+        "source_name": "Cal. Bus. & Prof. Code 6146(a)(1)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146."
+      },
+      {
+        "label": "First paper, unlimited civil case",
+        "value": "$435",
+        "detail": "Due from the plaintiff when a case worth more than $35,000 is filed, and again from every other party that files a first paper.",
+        "source_name": "Statewide Civil Fee Schedule, eff. Jan. 1, 2026 (Gov. Code 70611)",
+        "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+      },
+      {
+        "label": "Advance jury fee",
+        "value": "$150",
+        "detail": "A nonrefundable deposit required to keep the right to a jury, with daily jury deposits set separately by the court once trial begins.",
+        "source_name": "Cal. Code Civ. Proc. 631(b), 2026 fee schedule",
+        "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Share of a vehicle injury recovery",
+        "share": "No cap in statute",
+        "note": "Only the unconscionable-or-illegal standard applies. The legislature wrote percentage limits for medical negligence claims and left driving cases out.",
+        "source_name": "Cal. Rule of Prof. Conduct 1.5(a)",
+        "source_url": "https://www.calbar.ca.gov/legal-professionals/rules/rules-professional-conduct/current-rules-professional-conduct/chapter-1-lawyer-client-relationship"
+      },
+      {
+        "stage": "What the contract must tell the client",
+        "share": "Rate is negotiable",
+        "note": "The statute requires that sentence whenever the medical negligence limits do not apply, plus a duplicate signed copy handed over at signing.",
+        "source_name": "Cal. Bus. & Prof. Code 6147(a)",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6147."
+      },
+      {
+        "stage": "Claim against a health care provider",
+        "share": "25% before filing · 33% after",
+        "note": "Measured on the net sum after costs, and a higher share needs a motion showing good cause to the court or arbitrator.",
+        "source_name": "Cal. Bus. & Prof. Code 6146",
+        "source_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=6146."
+      },
+      {
+        "stage": "Filing in Stanislaus County Superior Court",
+        "share": "$435",
+        "note": "Charged on the complaint in an unlimited civil case and on each other party's first paper, which is why defense answers add up.",
+        "source_name": "2026 Statewide Civil Fee Schedule",
+        "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+      },
+      {
+        "stage": "Keeping a jury trial available",
+        "share": "$150 nonrefundable",
+        "note": "Deposited in advance under the code, then daily jury deposits are set by the court for each day the panel sits.",
+        "source_name": "Cal. Code Civ. Proc. 631(b), (e)",
+        "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+      },
+      {
+        "stage": "Case designated complex",
+        "share": "$1,000 per side",
+        "note": "One charge covers all plaintiffs, then each defendant owes the same, with a total of $18,000 for the whole case.",
+        "source_name": "Cal. Gov. Code 70616, 2026 fee schedule",
+        "source_url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+      }
+    ]
   },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "modesto car accident lawyer",
+    "monthly_price": 1000,
+    "score": 93,
+    "volume": 500,
+    "cpc_usd": 40.0,
+    "weakest_competitor": "yourpersonalinjuryfirm.com",
+    "competitor_dr": 27.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "modesto car accident lawyer",
-  "monthly_price": 1000,
-  "score": 93,
-  "volume": 500,
-  "cpc_usd": 40.0,
-  "weakest_competitor": "yourpersonalinjuryfirm.com",
-  "competitor_dr": 27.0
- }
 }

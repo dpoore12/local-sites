@@ -76,7 +76,7 @@ Do I need a permit to replace my air conditioner in Sacramento?
 
 ## qa_1_answer
 
-Yes. The City of Sacramento lists repairs and replacements to mechanical systems among the projects that require a building permit, and equipment changeouts inside city limits go through the Community Development Department. There is also a planning side that catches people out. The city's express planning exemption form covers an HVAC changeout only when the new unit goes back in the same spot as the old one; putting the condenser somewhere new requires it to be screened by a solid fence, shrubs or the building itself so it is not visible from the street. That form cannot be used at all if the property is a landmark parcel or sits in a historic district, which takes in a good deal of the older grid. On top of the local permit, state energy code requires independent field verification and diagnostic testing on permitted equipment and duct work, and that paperwork has to be finished for the permit to close.
+Yes. The City of Sacramento lists repairs and replacements to mechanical systems among the projects that require a building permit, and equipment changeouts inside city limits go through the Community Development Department. There is also a planning side that catches people out. The city's express planning exemption form covers an HVAC changeout only when the new unit goes back in the same spot as the old one. Putting the condenser somewhere new requires screening by a solid fence, shrubs or the building itself, so the unit is not visible from the street. That form cannot be used at all if the property is a landmark parcel or sits in a historic district, which takes in a good deal of the older grid. On top of the local permit, state energy code requires independent field verification and diagnostic testing on permitted equipment and duct work, and that paperwork has to be finished for the permit to close.
 
 ## qa_2_question
 
@@ -84,7 +84,7 @@ Why does my house cool off overnight but lose the fight by three in the afternoo
 
 ## qa_2_answer
 
-Because Sacramento's nights do most of the work for you, and when a system is marginal that hides the problem for years. The 1991 to 2020 climate normals for Sacramento Executive Airport put the July average high at 92.6 degrees and the July average low at 59.2 — a swing of more than thirty degrees in a single day, driven by the delta breeze pushing marine air up through the Carquinez Strait in the afternoon and evening. A house that gets flushed with sixty-degree air overnight starts the next day with cool mass in the walls and floors, so equipment that is down on capacity still keeps up until early afternoon. Then a stagnant night arrives, or a stretch like the September 2022 run that took downtown to an all-time 116 degrees, and the same unit that seemed fine cannot hold the house. The failure was there the whole time.
+Because Sacramento's nights do most of the work for you, and when a system is marginal that hides the problem for years. The 1991 to 2020 climate normals for Sacramento Executive Airport put the July average high at 92.6 degrees and the July average low at 59.2 — a swing of more than thirty degrees in a single day. The delta breeze drives it, pushing marine air up through the Carquinez Strait in the afternoon and evening. A house that gets flushed with sixty-degree air overnight starts the next day with cool mass in the walls and floors, so equipment that is down on capacity still keeps up until early afternoon. Then a stagnant night arrives, or a stretch like the September 2022 run that took downtown to an all-time 116 degrees, and the same unit that seemed fine cannot hold the house. The failure was there the whole time.
 
 ## qa_3_question
 
@@ -106,7 +106,7 @@ They overlap because a dirty filter can freeze a coil, and that thaw can look li
 
 ## about_summary
 
-This page covers Sacramento and nothing else. It exists so that somebody sitting in an eighty-eight-degree living room in Land Park can work out whether they are looking at a dead capacitor, a plugged condensate drain or a genuine compressor failure — and reach a technician who works this county rather than a lead broker reselling the same call to four contractors. The troubleshooting here was written around what actually gets installed in this city: attic retrofits in the pre-war grid, garage furnaces with add-on coils in the postwar tracts, and newer closet systems out in Natomas. Local rules and pricing get named where they matter, including the city permit requirement for mechanical changeouts and the SMUD weekday peak window that decides what an inefficient system costs to run.
+This page covers Sacramento and nothing else. It exists so that somebody sitting in an eighty-eight-degree living room in Land Park can work out whether they are looking at a dead capacitor, a plugged condensate drain or a genuine compressor failure. It also points them to a technician who works this county rather than a lead broker reselling the same call to four contractors. The troubleshooting here was written around what actually gets installed in this city: attic retrofits in the pre-war grid, garage furnaces with add-on coils in the postwar tracts, and newer closet systems out in Natomas. Local rules and pricing get named where they matter, including the city permit requirement for mechanical changeouts and the SMUD weekday peak window that decides what an inefficient system costs to run.
 
 ## value_1_title
 
@@ -369,7 +369,7 @@ The comparison should identify the measured failure, refrigerant, condition of t
 
 ## svc_ac_refrigerant_leak_repair_lede
 
-A low refrigerant reading is evidence of a leak, not a request to “top it off.” Sacramento refrigerant-leak repair finds the escape point, repairs it when practical, and then restores the system by the approved charging procedure—especially important when an older R-22 system or a major coil repair changes the decision.
+A low refrigerant reading is evidence of a leak, not a request to “top it off” and move on. Sacramento refrigerant-leak repair finds the escape point and repairs it when practical. The system is then restored by the approved charging procedure, which matters most when an older R-22 system or a major coil repair changes the decision.
 
 ## svc_ac_refrigerant_leak_repair_body
 
@@ -467,7 +467,7 @@ The second reason a range stays wide is that one fault often sits underneath ano
 
 ### Why this city prices the way it does
 
-Three documented local numbers explain most of it. Median pay for the roughly 2,940 heating, air conditioning and refrigeration mechanics in this metro is $32.06 an hour according to BLS wage data for the Sacramento-Roseville-Folsom metro, and by the time a technician's vehicle, refrigerant recovery gear, gauges, insurance and drive time are loaded on, the billed hourly figure lands at several times the wage. That is why access matters so much here: an attic coil in a Curtis Park bungalow in July burns billable hours that a garage installation does not.
+Three documented local numbers explain most of it. Median pay for the roughly 2,940 heating, air conditioning and refrigeration mechanics in this metro is $32.06 an hour, according to BLS wage data for the Sacramento-Roseville-Folsom metro. By the time a technician's vehicle, refrigerant recovery gear, gauges, insurance and drive time are loaded on, the billed hourly figure lands at several times that wage. That is why access matters so much here: an attic coil in a Curtis Park bungalow in July burns billable hours that a garage installation does not.
 
 Second, a changeout is a permitted, tested job. The city takes $175 for HVAC work as a flat specific-cost permit under the City of Sacramento residential permit fee sheet CDD-0245, plus an eight percent technology surcharge, and state energy code then requires independent field verification with the paperwork filed before the permit closes. The permit money is small next to the sequence it starts: scheduling, duct leakage testing, refrigerant charge and airflow verification, and an inspection that has to line up with somebody being at the house.
 
@@ -483,4 +483,4 @@ The pattern that costs people the most money in this market is the leap from a s
 
 ### What the number found online leaves out
 
-National cost pages quote equipment and basic labor. They rarely include the permit and the technology surcharge, the field verification visit, duct sealing on 1960s ductwork that never met current leakage limits, an enlarged return where the original one was sized for a smaller unit, a new pad and disconnect, or the screening a relocated condenser needs to stay out of street view. On a repair they leave out the second fault, and on a replacement they leave out the wait: an inspection slot and a verification appointment are calendar items, not line items, and in the middle of a heat run they are the reason a job spans days rather than hours.
+National cost pages quote equipment and basic labor. They rarely include the permit and the technology surcharge, the field verification visit, or duct sealing on 1960s ductwork that never met current leakage limits. Left out too are an enlarged return where the original one was sized for a smaller unit, a new pad and disconnect, and the screening a relocated condenser needs to stay out of street view. On a repair they leave out the second fault, and on a replacement they leave out the wait. An inspection slot and a verification appointment are calendar items, not line items, and in the middle of a heat run they are the reason a job spans days rather than hours.

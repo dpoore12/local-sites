@@ -1,9 +1,10 @@
 {
   "domain": "losangelesacinstall.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Los Angeles Air Conditioning Installation Pros",
   "service": "Air Conditioning Installation",
   "service_inline": "air conditioning installation",
+  "vertical": "home",
   "city": "Los Angeles",
   "state": "CA",
   "state_full": "California",

@@ -1,9 +1,10 @@
 {
   "domain": "edenprairiegaragedoorrepairpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Eden Prairie Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
+  "vertical": "home",
   "city": "Eden Prairie",
   "state": "MN",
   "state_full": "Minnesota",

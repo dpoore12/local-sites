@@ -15,47 +15,39 @@ A personal injury matter starts with a record that can be checked: the place, th
 The event is put into a usable timeline. Start with the exact date, time and address; identify every person, company or public body that may be involved; and gather reports, original photos, witness information, care records and insurer correspondence. The first review should also sort out the setting. A fall at a resort, a product failure at home, treatment at a medical facility, a serious accident, and an injury with a Navy or federal connection can require different records and different procedural questions. Medical care comes first. After that, the work is to preserve facts before a repair, cleanup, staff change or video overwrite makes them harder to verify.
 
 ## what_they_will_ask
-Have the essentials ready if you can: when and where the injury happened; who owned, managed or worked at the location; names of witnesses and responders; report or claim numbers; photographs and video in their original form; care dates, providers and discharge paperwork; and every letter, email or text from an insurer, property owner, employer or government office. For an injury connected to NAS Oceana, Dam Neck, another federal facility, government equipment or a federal employee, identify that connection precisely rather than guessing at the legal route. If a product is involved, keep the product, packaging, instructions, receipt, serial number and any broken pieces when it is safe to do so.
+Have the essentials ready if you can: when and where the injury happened; who owned, managed or worked at the location; names of witnesses and responders; report or claim numbers. Bring photographs and video in their original form, care dates, providers and discharge paperwork, and every letter, email or text from an insurer, property owner, employer or government office. For an injury connected to NAS Oceana, Dam Neck, another federal facility, government equipment or a federal employee, identify that connection precisely rather than guessing at the legal route. If a product is involved, keep the product, packaging, instructions, receipt, serial number and any broken pieces when it is safe to do so.
 
 ## symptom_1_title
-You were injured at a hotel, restaurant, boardwalk-adjacent business or other property
+You were injured at a hotel, restaurant, parking deck or other property
+
 
 ## symptom_1
-A fall on a wet lobby floor, a broken chair at a restaurant, an unsafe stair, a dark parking area, a loose handrail or an object that falls can cause serious harm. It does not automatically establish that someone else is legally responsible. The useful early questions are much more concrete: what was the condition, exactly where was it, who controlled that part of the property, when might it have appeared, and what record still shows it?
+A wet lobby floor, an unlit stairwell, a loose handrail, a broken chair on a patio. Write down the street address, the exact spot inside or outside the building, the time, the lighting, and any warning sign that was or was not there. Ask for an incident report number before you leave. Spills get mopped and camera footage is overwritten on a schedule.
 
-That need for precision is especially real around the Virginia Beach Oceanfront. The resort area mixes hotels, restaurants, boardwalk traffic, parking, beach access and public space in close quarters. “Near Atlantic Avenue” does not identify the entrance, walkway, elevator, deck, stairwell or curb where an event occurred. Write down the street address, business name, floor or side of the building, time, lighting, weather, route taken and any warning sign. Ask for an incident report number. Keep the shoes and clothing involved if they help document the event, but do not risk another fall trying to recreate it.
-
-If you can do so safely, take wide photographs showing the surrounding area and close photographs of the condition itself. Record the names of employees, security staff, first responders and witnesses. A property may clean a spill, fix a light or replace a damaged surface quickly; camera footage can also be recorded over on a schedule. An incident report is useful, but it is not the final word about cause or responsibility. A careful review may need to consider ownership, leasing, property management, maintenance contractors and the facts known about the condition. Seek needed medical care first, then preserve the location record while it can still be found.
 
 ## symptom_2_title
-The injury involves a service member, a federal employee or a military installation
+Something went wrong during treatment and the new harm looks separate
+
 
 ## symptom_2
-Virginia Beach has a military footprint that makes one question unusually important at the beginning: was the injury connected to federal work, federal property, government equipment or military status? NAS Oceana is in the city, and its related facilities include Dam Neck Annex and Naval Auxiliary Landing Field Fentress. That setting does not make every injury a federal claim, and it does not mean an ordinary Virginia case is impossible. It does mean that the employer, location, property owner and activity at the moment of injury should be identified accurately before anyone assumes which process applies.
+Keep the sequence rather than the conclusion. Save admission and discharge paperwork, visit summaries, imaging reports, medication lists and every message sent through the patient portal, then start a dated log of symptoms and appointments. A bad outcome is not the same finding as a departure from the standard of care, and the difference gets decided by records and a qualified expert opinion.
 
-Preserve the facts that distinguish the setting. Record the precise gate, building, roadway, parking area or off-base location. Keep access or visitor paperwork, a badge or work-status record if applicable, incident reports, names and roles of witnesses, and any documents that identify the equipment involved. If the incident involved a contractor, note the contractor’s full legal name rather than only the name of the base or unit. A claim involving negligence by a federal employee may require a written administrative claim to the appropriate federal agency before a lawsuit can be brought. That is why the connection needs to be sorted early, not after a state-court filing decision has been made.
-
-Service status can matter separately from location. A civilian visitor, a federal civilian employee, an active-duty service member, a dependent, a contractor and a person injured off base may not use the same system. Do not rely on a rumor that “the military handles it” or that a case is automatically barred. Keep medical treatment moving, avoid changing records, and gather the documents that show who was involved and what they were doing. Those facts allow an attorney to determine whether a Virginia civil path, a federal administrative path, a benefits process or another route needs attention.
 
 ## symptom_3_title
-A product, medical treatment or safety device may have made the injury worse
+A product, part or piece of equipment failed and someone was hurt
+
 
 ## symptom_3
-A defective consumer item and a harmful outcome after treatment both require patience with the evidence. A product injury may concern design, manufacturing, warnings, assembly, maintenance, alteration or use. A medical injury may concern the original condition, the care provided, the information available at the time and whether new harm followed. Neither conclusion can be reached from a label on the box, an unhappy result, or a single bill.
+Stop using the item and put it somewhere safe. Do not repair it, throw it out, hand it back to the seller or ship it to an adjuster before its condition has been photographed and written down. Keep every broken fragment, the packaging, the manual, the receipt and the serial or lot number. If a landlord, employer or rental shop holds it, ask in writing that it be preserved.
 
-For a product, stop using it and make the area safe. Do not repair it, discard it, return it to a seller, or send it to an insurer before its condition has been documented. Keep the whole item, every separated part, packaging, instructions, receipts, online order confirmation, serial or lot numbers, repair records and product messages. Take photographs from a distance and close up. If someone else holds the product, document who has it and ask that it be preserved. The chain from maker to retailer to installer may matter, as may a later repair or modification.
-
-For a concern arising from medical care, keep the sequence clear. Save admission and discharge records, visit summaries, imaging, prescriptions, referrals, provider messages and billing information. Make a factual dated log of symptoms, appointments and changes in treatment. Do not alter ordinary records because a page seems unhelpful, and do not treat an apology or insurance explanation as a legal answer. In a serious matter, records may come from an emergency department, specialist, rehabilitation program, pharmacy and primary-care office. The first job is assembling the complete chronology so the original injury and any later care can be evaluated on their actual facts.
 
 ## symptom_4_title
 The injury now affects work, mobility, family care or everyday tasks
 
+
 ## symptom_4
-A major injury is not captured by the first ambulance invoice or emergency visit. A traumatic brain injury, spinal injury, severe fracture, burn, amputation, nerve injury or loss of function can alter work, driving, sleep, home care and the ability to handle ordinary tasks over months or years. The record should show those changes steadily and honestly rather than lock the story into an early estimate.
+Money is not the only thing a severe injury changes, but the file has to show the change. Keep therapy plans, work restrictions, leave paperwork, wage records and equipment receipts in date order, and add a plain calendar of appointments, missed shifts and tasks somebody else had to do for you. Specific entries carry weight later; broad statements about how hard life became do not.
 
-Keep treating providers’ instructions, therapy plans, imaging reports, medication lists, assistive-device records, work restrictions, leave paperwork, wage information and bills in date order. Add a simple calendar: appointments attended, shifts missed, mileage for treatment, tasks someone else had to perform and practical limits such as stairs avoided or driving paused. Specific observations are stronger than broad conclusions. “Could not transfer from bed without help for ten days” tells a clearer story than “life was impossible.” Do not ask a provider, coworker or family member to change a record; accuracy matters even where the facts are uncomfortable.
-
-This is also where the Virginia Beach court structure becomes practical. The city’s General District Court has a $50,000 jurisdictional limit for personal-injury and wrongful-death claims. A matter beyond that limit raises a Circuit Court question in Virginia Beach, an independent city with its own court system rather than a county courthouse. The amount is not the only issue: parties, venue, procedure, insurance coverage and the nature of the claim still matter. Keep the exact address and legal names of all possible parties, along with the developing medical and economic records. A local attorney can assess the correct route from the real file, not from a guess about the eventual value.
 
 ## qa_1_question
 Why does a Virginia Beach military connection need to be identified right away?
@@ -76,7 +68,7 @@ What should be saved after an injury at an Oceanfront property?
 Save original photographs, the exact address and part of the property, the date and time, lighting and weather conditions, incident-report details, witness contacts, relevant footwear or clothing, care records and communications with the property or insurer. On the Oceanfront, identify whether the event was on a hotel property, business entry, restaurant, parking area, public walkway, beach access or another adjacent area. The city describes an Oceanfront district with a three-mile boardwalk and more than 40 beachfront hotels and resorts, which is why a broad label such as “at the beach” can obscure who controlled a particular location. Medical care takes priority; gather the material once it is safe.
 
 ## closing_cta
-After an injury, protect health first and preserve the event record as soon as you safely can. This is general information, not legal advice or a prediction about fault, damages or outcome. A Virginia Beach attorney can review the evidence, the local court question and any federal connection in context.
+After an injury, protect health first and preserve the event record as soon as you safely can. This is general information, not legal advice or a prediction about fault, damages or outcome. A local attorney can review the evidence, the court question and any federal connection in context.
 
 ## about_summary
 This Virginia Beach page is for someone trying to understand what must be gathered before a personal-injury matter can be evaluated. It is not a law firm and does not promise a result, a settlement or a particular legal path. The focus is local and practical: a dense Oceanfront resort district, an independent-city court system with a distinct General District Court limit, and a major military presence centered on NAS Oceana. Those facts do not decide responsibility; they explain why precise location, status, ownership and records are so important. The same attention applies across Kempsville, Great Neck, Hilltop, Bayside, Oceanfront and Sandbridge.
@@ -85,7 +77,7 @@ This Virginia Beach page is for someone trying to understand what must be gather
 Start with the exact location
 
 ## value_1
-An address, floor, entrance, roadway, gate or unit can identify the people and records that a broad description of “Virginia Beach” cannot.
+An address, floor, entrance, roadway, gate or unit identifies the people and records involved. A broad description of “Virginia Beach” does not.
 
 ## value_2_title
 Protect originals before they change
@@ -215,11 +207,11 @@ Virginia does not set a percentage for an injury fee. It sets a reasonableness s
 
 ### The standard, and why no number follows it
 
-The Virginia Rules of Professional Conduct handle fees through Rule 1.5, and subdivision (a) states the whole substantive limit in five words: a lawyer's fee shall be reasonable. Eight factors follow for testing one: hours and labor demanded alongside the skill required to do the work properly; whether the engagement shut out other employment; what lawyers in the locality customarily charge for comparable services; how much was at stake and what result came of it; deadlines set by the client or by the circumstances; how long the professional relationship has run; the reputation and experience the lawyers bring; and whether the arrangement is a fixed fee or a contingent one.
+The Virginia Rules of Professional Conduct handle fees through Rule 1.5, and subdivision (a) states the whole substantive limit in five words: a lawyer's fee shall be reasonable. Eight factors follow for testing one. The first four cover the hours and skill the work demands, whether it shuts out other employment, the customary local charge for comparable services, and the amount at stake with the result obtained. The rest cover deadlines set by the client or by the circumstances, how long the professional relationship has run, the reputation and experience the lawyers bring, and whether the arrangement is a fixed fee or a contingent one.
 
 A percentage is absent from that list on purpose. The Commonwealth measures a fee against the work rather than against a table, which means a rate quoted as "the Virginia maximum" for a collision at Virginia Beach Boulevard and First Colonial is a market convention someone has dressed up as law.
 
-Subdivision (c) is the operative paperwork rule for injury work. A contingent agreement has to put the method of computing the fee in writing, with the percentage attaching at settlement, at trial and on appeal, an account of litigation and other expenses chargeable against the recovery, and a statement of whether the fee is figured before those expenses are taken off or after them. At the end of the matter the client gets a written statement of the outcome and, if there was money, the remittance and how it was figured. Subdivision (d) marks the two places a contingent fee is barred in Virginia: domestic relations matters, except in rare instances, and defending a criminal case. An injury claim is neither.
+Subdivision (c) is the operative paperwork rule for injury work. A contingent agreement has to put the method of computing the fee in writing, with the percentage attaching at settlement, at trial and on appeal. The writing also accounts for litigation and other expenses chargeable against the recovery, and states whether the fee is figured before those expenses are taken off or after them. At the end of the matter the client gets a written statement of the outcome and, if there was money, the remittance and how it was figured. Subdivision (d) marks the two places a contingent fee is barred in Virginia: domestic relations matters, except in rare instances, and defending a criminal case. An injury claim is neither.
 
 ### Which courthouse the claim goes to, because that decides the cost
 
@@ -235,12 +227,162 @@ Va. Code 54.1-3932(A) gives a lawyer a lien on a tort cause of action as securit
 
 ### What actually moves the cost of working a Virginia Beach claim
 
-Not the clerk. The variables are the same ones anywhere on the resort strip and the corridors feeding it: how many treating providers there are, whether records come from a military treatment facility or the Veterans Affairs system for one of the region's many service members and dependents, whether an out-of-state defendant has to be served, and whether an expert is needed on causation or future care. Each of those is a cost line, separate from the fee, and the written agreement is supposed to say who advances it and when it comes off.
+Not the clerk. The variables are the same across the resort strip and the corridors feeding it. What matters is how many treating providers there are, whether records sit with a military treatment facility or the Veterans Affairs system, whether an out-of-state defendant has to be served, whether an expert is needed on causation or future care. Each is a cost line, separate from the fee, and the written agreement is supposed to say who advances it and when it comes off.
 
 ### The cap that is not a fee cap
 
-Virginia does cap money in one category, and it is regularly quoted wrong. Va. Code 8.01-581.15 limits the total amount recoverable for injury to or death of a patient in a malpractice action against a health care provider, on a scale that rises each year and reaches three million dollars for acts of malpractice occurring on or after July 1, 2031. That statute constrains the verdict or judgment. It says nothing about any lawyer's percentage, it applies only to malpractice, and it has no bearing on a rear-end collision on Independence Boulevard or a fall at a Lynnhaven store.
+Virginia does cap money in one category, and it is regularly quoted wrong. Va. Code 8.01-581.15 limits the total amount recoverable for injury to or death of a patient in a malpractice action against a health care provider. That ceiling rises each year and reaches three million dollars for acts of malpractice occurring on or after July 1, 2031. That statute constrains the verdict or judgment. It says nothing about any lawyer's percentage, it applies only to malpractice, and it has no bearing on a rear-end collision on Independence Boulevard or a fall at a Lynnhaven store.
 
 ### The short version
 
 Reasonable, in writing, with the expense order spelled out. A district court claim tops out at fifty thousand dollars and costs $52 plus $12 a defendant to start. Service out of state runs $75. The lien notice clock is 45 days. Anything presented as Virginia's statutory fee percentage does not exist.
+
+## services_summary
+
+Four different jobs sit under one heading here, and their rules diverge quickly. A fall at an Oceanfront hotel turns on who controlled that walking surface and whether a court calls the hazard open and obvious. A treatment claim cannot even be served until a signed expert opinion exists, and one statute caps the entire recovery. A failed-product claim has to trace the defect back to the moment the item left a particular defendant's hands. A life-altering injury raises caps, short notice deadlines and, near the jet base, a federal filing route instead. Choosing the wrong frame burns the two-year clock, and nothing restarts it.
+
+## services_pick_head
+
+Start with the injury you are actually dealing with
+
+## crosslink_head
+
+A different injury question?
+
+## svc_slip_and_fall_lawyer_lede
+
+Millions of visitors a year move through this city's hotel lobbies, decks, stairwells and parking areas. A fall claim here turns on two things: who controlled that surface, and whether a court treats the hazard as open and obvious.
+
+## svc_slip_and_fall_lawyer_body
+
+### Two duties, and the excuse gets measured against both
+
+The premises rule in the Commonwealth is short. An owner owes an invitee ordinary care to keep the place reasonably safe for the visit that was invited, and ordinary care to warn of an unsafe condition it knew about or should have known about. That is the formulation the Supreme Court of Virginia used in Fobbs v. Webb Building Limited Partnership, a rainy-morning fall in front of an elevator bank. Notice is where most of the fight sits. A property does not have to have seen the spill land: in Memco Stores v. Yeatman the court held constructive notice sufficient, alongside a duty to get foreign objects off the floor within a reasonable time. So the useful questions are how long the hazard sat there and who walked past it.
+
+### The open and obvious exception is where these claims die
+
+That duty comes with a carve-out which swallows a great many falls. There is no duty to warn of a condition open and obvious to a reasonable person exercising ordinary care for his own safety. Defense counsel will therefore build a record about what you could have seen: the lighting, the color contrast of a step edge, whether your arms were full, whether a cone already stood next to the mop bucket. Photograph the sightline from where you were walking, not only the hazard from above. An image shot straight down at a puddle proves the puddle and hands the other side its best argument.
+
+### A share of the blame ends the case rather than shrinking it
+
+Most states would cut a recovery by a percentage. This is one of the last places where an injured person's own failure to use reasonable care, once it helped cause the harm, defeats the claim outright. Notice how narrowly the General Assembly has moved off that position. Section 8.01-58 substitutes proportional reduction only for railroad employees suing a common carrier, and diminishes damages in proportion to that employee's negligence. One industry, one statute. Everybody else stands on the older rule, which is why a casual "I wasn't really looking" said to a duty manager can outweigh the photographs.
+
+### Assumption of risk is a separate defense with a personal test
+
+In Amusement Slides Corporation v. Lehmann the court called the doctrine venturousness and applied a subjective standard: what this particular plaintiff in fact saw, knew, understood and appreciated. Two things must be shown. The nature and extent of the risk has to have been fully appreciated, and the risk has to have been voluntarily incurred. That same opinion drew the line that matters in a resort setting. A man who rode a steep slide accepted its speed; he did not accept an attendant's failure to keep the waxed surface watered. Accepting an activity is not accepting somebody else's carelessness inside it.
+
+### A fall on city ground starts a six-month clock
+
+Trip on a public walkway, a municipal lot or a city-run facility and the ordinary two-year deadline is not what ends the claim. Under § 15.2-209 a negligence claim against a city is forever barred unless written notice of the nature of the claim, with the time and place of the injury, reaches the locality within six months. The City Attorney's Office publishes what belongs in that letter: claimant name and address, the date, the individuals involved if known, the location, and a description of what happened and why the City is said to be responsible. It goes to the City Attorney at 2401 Courthouse Drive and is forwarded to Risk Management, which investigates and decides whether anything is paid voluntarily. A claim against a state agency instead needs written notice within one year under § 8.01-195.6, and the claimant carries the burden of proving it arrived.
+
+### The resort strip is a crowd of separate defendants
+
+The Oceanfront district carries a three-mile boardwalk, the Atlantic and Pacific Avenue corridors behind it, and more than 40 beachfront hotels and resorts. The city counted 14.3 million visitors in 2024, and 58.8 percent of them came for the day, so parking decks, beach accesses, public restrooms and restaurant patios absorb enormous foot traffic in a short season. "At the beach" identifies nobody. One hotel lobby, the deck stairs of the next building, a leased restaurant space inside a third and the public walkway between them can involve four different parties responsible for upkeep. Away from the water the mix changes rather than thins: shopping-center pavement at Hilltop, apartment stairwells in Kempsville, waterfront decks off Great Neck and Bayside, and Sandbridge rental houses where owner, management company and cleaning contractor are three separate names.
+
+### Where it gets filed, and how the fee is set
+
+A claim up to $50,000 can be heard in the city's General District Court; above that the Circuit Court question opens, and this is an independent city with its own courthouse rather than a county seat. That court's stated goal is to conclude a civil case within 18 months of filing, and it wants a civil cover sheet with the first pleading plus a praecipe to get a trial date. The suit deadline itself is two years from accrual for the injury and five years for damaged property. On fees, the Commonwealth publishes no percentage. Rule 1.5 requires a reasonable fee. Where the arrangement is contingent, the writing has to show the computation method, the share taken if the matter settles, the share if it is tried and the share on an appeal, plus which costs are deducted from money recovered.
+
+## svc_medical_malpractice_lawyer_lede
+
+A malpractice claim in the Commonwealth cannot be served until a signed expert opinion already exists, and one statute caps everything recoverable rather than only the noneconomic part. Both rules bite long before anyone argues about the chart.
+
+## svc_medical_malpractice_lawyer_body
+
+### A poor outcome and a standard-of-care failure are separate findings
+
+Care is measured against a statewide standard: the degree of skill and diligence practiced by a reasonably prudent practitioner in that field or specialty in the Commonwealth. Section 8.01-581.20 allows a locality standard only where a party proves by a preponderance that local facilities and customary practice supply a more appropriate measure. The statute also screens the witness. An expert must demonstrate knowledge of the defendant's specialty and must have had active clinical practice in that specialty or a related field within one year of the act complained of. That requirement quietly ends some claims, because a long-retired or purely academic reviewer will not qualify.
+
+### Nothing gets served until a signed opinion is in hand
+
+Under § 8.01-20.1, asking that a defendant be served is itself a certification that the plaintiff already holds a written opinion signed by a qualified expert. That opinion must state that this defendant deviated from the applicable standard of care and that the deviation proximately caused the injuries claimed. Each defendant covered has to be identified in the certification. Within 21 days of an answer, the plaintiff must certify compliance to that defendant. Where the opinion did not exist when service was requested, the court shall impose sanctions and may dismiss with prejudice. One exception exists, for the rare theory whose alleged negligence lies inside the jury's common knowledge, and it is narrower than clients assume. No separate pre-suit notice statute sits in front of this; the certification tied to service is the gate, and the section was amended again in 2025.
+
+### The cap covers the whole recovery, not the noneconomic slice
+
+This is the rule described wrongly most often. Section 8.01-581.15 limits the total amount recoverable for any injury to, or death of, a patient in an action against a health care provider. Not general damages: the total. Medical bills, lost earnings, future attendant care and everything else land inside one figure. It rises $50,000 a year and is keyed to the date of the malpractice rather than the date of suit or verdict. An act occurring between July 1, 2026 and June 30, 2027 carries a ceiling of $2.75 million, where the preceding year sat at $2.70 million, and the schedule keeps stepping until acts on or after July 1, 2031, which are capped at $3 million. Punitive damages are limited separately to $350,000 by § 8.01-38.1, which also directs that the jury never hear about the limit.
+
+### The review panel that almost nowhere else has
+
+Within 30 days of the responsive pleading, either side may request a medical malpractice review panel. The request goes to the Clerk of the Supreme Court of Virginia, which designates the panel within 60 days, and proceedings are stayed while the review runs. Membership is fixed by statute: two impartial attorneys, two impartial health care providers licensed and actively practicing here, and a circuit judge who presides without a vote. Within 30 days of receiving the evidence, the panel issues one or more of four listed opinions, ranging from no support for a standard-of-care failure through support for both failure and causation. The written opinion is admissible at trial but not conclusive, and either side may call a panelist other than the judge as a witness at its own cost.
+
+### Two years, and the four ways it stretches
+
+Section 8.01-243 gives two years from accrual, and then names the exceptions. A retained foreign object with no diagnostic or therapeutic purpose adds one year from the date it is discovered or reasonably should have been. Fraud, concealment or intentional misrepresentation that prevented discovery adds one year from discovery. A negligent failure to diagnose a malignant tumor, cancer, or an intracranial, intraspinal or spinal schwannoma adds one year from the day that diagnosis is communicated to the patient. None of these may push the period past ten years from accrual, apart from tolling for a person under a disability.
+
+### The patient's own conduct gets examined too
+
+Because a contributing share of fault bars a claim here instead of trimming it, the defense reads hard for missed follow-up appointments, an incomplete history given at intake, medication not taken as directed and discharge instructions not followed. That does not make the chart the last word on anything. It does mean the record you keep now matters: dates of calls to the office, portal messages, pharmacy pickups, and what you were told to do and when you did it.
+
+### Two things that sit outside the ordinary claim
+
+Treatment delivered by federal employees, including at a military medical facility in this city, is generally not a state-court matter at all. It runs through the Federal Tort Claims Act, which requires a written claim presented to the agency within two years of accrual and suit within six months of a mailed final denial.
+
+Fees are the other. The Commonwealth sets no percentage; Rule 1.5 requires a reasonable fee, and a contingent arrangement must be written down with its computation method, its shares and its treatment of costs made plain. The statutory cap constrains the judgment, not what a fee may be.
+
+## svc_product_liability_lawyer_lede
+
+Nothing about a product claim in this state is automatic. The injured person has to prove the item was unreasonably dangerous for its ordinary use and that the condition existed when it left the hands of the defendant being sued.
+
+## svc_product_liability_lawyer_body
+
+### What has to be proved, and the accident alone is not it
+
+Whatever label sits on the count, the burden is the same here. In Logan v. Montgomery Ward the Supreme Court of Virginia held that a plaintiff must show the goods were unreasonably dangerous for their ordinary purposes, or for a special use brought to the defendant's attention. The plaintiff must also show the condition existed when the goods left that defendant's hands. The same opinion refused res ipsa loquitur where an unexplained accident could be attributed to one of several causes, some of them nobody's responsibility. A gas range that exploded was not, standing alone, evidence of a defect. That is why an intact item and a documented chain of custody do more for a claim than a vivid account of the failure.
+
+### Keep the item, and keep every piece of it
+
+The failed thing is the case. Do not repair it, discard it, return it to the store, trade it in or mail it to an adjuster before its condition has been recorded. Keep separated fragments, the packaging, the manual, the receipt or order confirmation, the serial or lot number, and any recall or service notice that arrives afterward. Photograph it at a distance and close up, including labels and printed warnings, since the adequacy of a warning is frequently the entire dispute. Where a landlord, employer, rental operator or repair shop has possession, note who holds it and ask in writing that it be preserved.
+
+### Several limitation periods, and they do not start together
+
+Injury to a person is two years from accrual whatever the theory of recovery, under § 8.01-243(A). Damage to property, including the house or vehicle a product destroyed, gets five years under subsection B. A claim on the sale itself runs four years under § 8.2-725, and it usually accrues at tender of delivery rather than at the failure, unless the warranty explicitly reaches future performance. A signed written agreement, a service contract or extended warranty among them, carries five years under § 8.01-246(A)(2), while an unwritten one carries three. Section 8.01-246(C) then routes the personal-injury part of a products case back to the two-year rule. Somebody who waits on the injury claim because the warranty paperwork looks generous has misread which clock governs.
+
+### Misuse, modification and the risk taken on purpose
+
+Two defenses do most of the work in this category. A contributing share of the injured person's own negligence defeats the claim here rather than reducing it, so how the item was assembled, maintained and operated gets examined line by line. Assumption of risk is separate and personal. Amusement Slides Corporation v. Lehmann described the doctrine as venturousness, applied a subjective test of what the particular plaintiff saw, knew and appreciated, and required both full appreciation of the risk and voluntary exposure to it. Running a tool with its guard removed is the familiar version. That same case marks the limit: accepting an ordinary hazard of an activity is not accepting a hazard the operator created.
+
+### Rented, borrowed and resort-issue equipment
+
+A destination city puts a great deal of unfamiliar equipment into unfamiliar hands. With 14.3 million visitors counted in 2024, the thing that failed was often rented, borrowed or supplied rather than bought. Think of a bicycle, a beach chair, a grill on a hotel deck, a pool gate latch, a ladder on a Hilltop jobsite or an appliance in a Sandbridge rental house. That changes the list of names on the pleading. Manufacturer, importer, distributor, retailer, installer, rental operator and whoever serviced the item last can each be a separate defendant holding separate records, and a rental operator's maintenance log may be the only document showing what the item had been through.
+
+### Where the case sits and who has to be reached
+
+Claims up to $50,000 may be heard in the General District Court of this independent city; past that figure the Circuit Court analysis opens, and that court's stated goal is to conclude a civil case within 18 months of filing. Manufacturers are often somewhere else entirely, so process must go outside the Commonwealth, which is slower and carries a higher statutory service charge than reaching someone in the city. Take the corporate name from the plate, the label or the registration rather than the brand on the box, because the seller, the maker and the entity that must be served are frequently three different companies.
+
+### What the fee rule requires before anything is signed
+
+No percentage for injury work is published by the Commonwealth. Rule 1.5 of the Rules of Professional Conduct requires that a fee be reasonable and lists eight factors for testing one. A contingent arrangement has to be written down. The writing must disclose the computation method, the share taken on a settlement and the separate shares on a trial and an appeal, the litigation costs deducted from money recovered, and whether the share is figured before or after those costs come out. Expert examination of a failed item is usually the largest cost line in this kind of case, so that ordering is not a technicality.
+
+## svc_catastrophic_injury_lawyer_lede
+
+A catastrophic claim gets shaped by numbers written down early: the sum pleaded, the cap attached to whoever caused the harm, and a notice deadline that runs from the injury rather than from the day the prognosis becomes clear.
+
+## svc_catastrophic_injury_lawyer_body
+
+### The figure in the complaint becomes a ceiling
+
+People learn this one late. Section 8.01-379.1 lets any party tell the jury the amount of damages the plaintiff seeks, in opening statement or closing argument or both, and lets the plaintiff request less than the ad damnum. What it does not do is let a verdict rise above the sum pleaded. In a matter where future surgeries, attendant care and a lifetime of lost earning capacity are still being estimated, that pleading has to leave room the medicine has not yet confirmed. Punitive damages are limited separately and sharply: § 8.01-38.1 caps the total against all defendants at $350,000, and the jury is not told the limit exists.
+
+### Who the defendant is decides what is recoverable
+
+The same injury carries different ceilings. Against a private business or an individual there is no statutory cap on compensatory damages. Against a health care provider, § 8.01-581.15 puts everything recoverable for the patient's injury or death inside one figure, $2.75 million for acts between July 1, 2026 and June 30, 2027. Against the Commonwealth or a transportation district, § 8.01-195.3 limits recovery to $100,000 or the maximum limits of any liability policy in force, whichever is greater, and rules out punitive damages and prejudgment interest altogether. Working out which employer stands behind the person who caused the harm is therefore a damages question as much as a liability question.
+
+### Notice deadlines run long before the prognosis is known
+
+Where a locality is involved, § 15.2-209 requires a written statement of the nature of the claim, with the time and place, within six months of accrual, filed with the local attorney, chief executive or mayor. The City Attorney's Office here asks for the claimant's name and address, the incident date, the individuals involved if known, the location and an account of why the City is contended to be responsible, then routes the letter to Risk Management for investigation. Where the defendant is a state agency, § 8.01-195.6 gives one year, and the statement goes to the Director of the Division of Risk Management or the Attorney General, or to the Commissioner of Highways where the agency is the transportation department. In a contested case the claimant must prove the notice was received, which is an argument for a signed delivery receipt.
+
+### A federal connection replaces the whole procedure
+
+Naval Air Station Oceana was commissioned in August 1943 and now runs more than seven miles of runways, with over 14,600 military personnel, 2,000 civilians and 19 fighter and attack squadrons, plus Dam Neck Annex and the Fentress landing field. Where a federal employee's negligence is involved, the Federal Tort Claims Act governs and its sequence is unforgiving. A written claim must be presented to the agency within two years of accrual. No suit may be filed until the agency denies the claim in writing, though six months of silence may be treated as a denial at the claimant's option, and suit must follow within six months of a mailed final denial. Under 28 U.S.C. § 2675(b) the action cannot seek more than the sum stated on that administrative claim, absent newly discovered evidence or proof of intervening facts. On a brain or spinal cord injury, a cautious number written on the form early can cost more than any argument made later.
+
+### Fault remains all or nothing in a severe case
+
+Catastrophic harm does not soften the fault rule one bit. Where the injured person's own lack of reasonable care helped bring about the event, the claim can be defeated rather than discounted, which is why the defense in a serious case invests so heavily in reconstructing the seconds beforehand. Statements made in an emergency department, posted on social media or given to a claims representative are read with that in mind. The answer is not silence. It is precision about what is actually known, and candor about what is not.
+
+### Building the damages record while treatment continues
+
+Keep it in date order and keep it dull. Therapy plans and discharge instructions, work restrictions and leave paperwork, wage and benefit records, treatment mileage, equipment and home-modification receipts, and a log of the tasks family members absorbed and the hours they spent on them. Photographs of a ramp, a widened doorway or a lift installed at home document a loss that a bill alone does not explain. Two years is the outer limit for filing the injury claim and five years for damaged property, and neither period waits for a stable prognosis.
+
+### What the fee rule requires when the numbers are large
+
+Percentages for injury work are not set by the Commonwealth. Rule 1.5 requires a reasonable fee tested against eight listed factors. A contingent arrangement has to be reduced to writing. It states the computation method, the separate shares tied to a settlement, to a trial and to an appeal, the costs deducted from money recovered, and the order in which the deduction and the fee calculation happen. In a case carrying life-care planning, vocational and economic experts, that ordering moves real money. When the matter ends, the client is entitled to a written statement of the outcome and of how any remittance was figured.

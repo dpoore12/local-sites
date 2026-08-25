@@ -1,310 +1,311 @@
 {
- "domain": "jacksonvilleemergencyplumberpros.com",
- "phase": 1,
- "brand": "Jacksonville Emergency Plumbing Pros",
- "service": "Emergency Plumbing",
- "service_inline": "emergency plumbing",
- "city": "Jacksonville",
- "state": "FL",
- "state_full": "Florida",
- "counties": [
-  "Duval",
-  "Saint Johns"
- ],
- "area_codes": [
-  "904"
- ],
- "phone_display": "(904) 582-1651",
- "phone_tel": "+19045821651",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "consolidated_response_geography",
-   "claim": "Jacksonville and Duval County consolidated in 1968. A City financial report describes the City/County area as 840.1 square miles, with four separate municipalities remaining within Duval County.",
-   "why_it_matters": "Emergency-plumbing routing cannot treat “Jacksonville” as one compact service area. The exact address establishes the response route and helps distinguish central neighborhoods from far-out Duval locations before a technician is dispatched.",
-   "sources": [
-    "https://www.jacksonville.gov/getContentAsset/00fd9c5d-d3c7-47d1-b81e-ab03f6ca9a38/135b97c9-84fa-4e82-b956-0fbccec4aa1f/2010-CAFR-sec.pdf?language=en"
-   ],
-   "verified": "2026-08-22",
-   "title": "Jacksonville’s service map is much larger than a typical city call area"
-  },
-  {
-   "id": "septic_phase_out",
-   "claim": "At a January 22, 2024 City meeting, the Septic Tank Phase Out Program reported 35 septic tank failure areas and approximately 23,000 failing septic tanks in Duval County. The program had four active areas: Biltmore, Beverly Hills, Christobel, and Riverview.",
-   "why_it_matters": "A wastewater backup cannot be assumed to be a public sewer-line problem. The property may use septic infrastructure or JEA sewer, and that distinction changes how the technician traces the failure and what repair can address it.",
-   "sources": [
-    "https://www.jacksonville.gov/departments/neighborhoods/neighborhood-services-office/docs/southesast-cpac/se-summaries-2024/01-22-24-se-cpac-meeting-summary.aspx"
-   ],
-   "verified": "2026-08-22",
-   "title": "Some Jacksonville backups start with septic, not sewer"
-  },
-  {
-   "id": "shallow_water_table_and_slab_plumbing",
-   "claim": "A U.S. Geological Survey report states that, throughout most of Duval County, the water table is within 5 feet of land surface and can fluctuate as much as 5 feet between wet and dry seasons. City residential inspection guidance requires underground plumbing to be inspected before a slab inspection when plumbing is included in the project.",
-   "why_it_matters": "Water showing at a slab edge or through flooring needs careful locating before concrete is opened. The visible wet area may be some distance from the failed buried line, so an emergency repair begins with isolation and tracing rather than a guess at where to break the slab.",
-   "sources": [
-    "https://fl.water.usgs.gov/PDF_files/wri93_4130_phelps.pdf",
-    "https://www.jacksonville.gov/Departments/public-works/Building-Inspection-Division/Residential-Inspection"
-   ],
-   "verified": "2026-08-22",
-   "title": "Shallow groundwater makes under-slab water evidence worth tracing carefully"
-  }
- ],
- "neighborhoods": [
-  "Riverside",
-  "Avondale",
-  "San Marco",
-  "Springfield",
-  "Mandarin",
-  "Arlington"
- ],
- "symptoms": [
-  "burst_pipe",
-  "overflowing_drain",
-  "sewage_backup",
-  "no_running_water"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Water Stopped Today, Price First",
- "trust_third": "Price quoted before emergency work starts",
- "services": [
-  {
-   "slug": "emergency-plumbing-repair",
-   "name": "Emergency Plumbing Repair",
-   "nav": "Emergency repair",
-   "h1": "Emergency Plumbing Repair",
-   "accent": "Fast Help for Active Leaks",
-   "keyword": "emergency plumbing repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "burst-pipe-repair",
-   "name": "Burst Pipe Repair",
-   "nav": "Burst pipes",
-   "h1": "Burst Pipe Repair",
-   "accent": "Pipe Repaired Before More Damage",
-   "keyword": "burst pipe repair",
-   "icon": "drop"
-  },
-  {
-   "slug": "drain-cleaning",
-   "name": "Drain Cleaning",
-   "nav": "Drain cleaning",
-   "h1": "Drain Cleaning",
-   "accent": "Clogs Cleared and Flow Restored",
-   "keyword": "drain cleaning",
-   "icon": "wrench"
-  },
-  {
-   "slug": "sewer-line-repair",
-   "name": "Sewer Line Repair",
-   "nav": "Sewer line repair",
-   "h1": "Sewer Line Repair",
-   "accent": "Backups Stopped at the Source",
-   "keyword": "sewer line repair",
-   "icon": "warn"
-  }
- ],
- "symptom_service": [
-  "burst-pipe-repair",
-  "drain-cleaning",
-  "sewer-line-repair",
-  "emergency-plumbing-repair"
- ],
- "_market": {
-  "keyword": "emergency plumber jacksonville",
-  "monthly_price": 500,
-  "score": 77,
-  "volume": 150,
-  "cpc_usd": 45.0,
-  "weakest_competitor": "rotorooter.com",
-  "competitor_dr": 74.0
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "Cost ranges for plumbing emergencies across Duval County",
-  "anchors": [
-   {
-    "label": "Minimum plumbing permit fee",
-    "value": "$60",
-    "detail": "The floor for a plumbing permit under the city's fee schedule, regardless of how the itemized formula adds up on a small repair.",
-    "source_name": "City of Jacksonville fee schedule, Section 320.409",
-    "source_url": "https://www.jacksonville.gov/departments/finance/city-fees"
-   },
-   {
-    "label": "Permit line for each fixture or sewer connection",
-    "value": "$11",
-    "detail": "Charged per roughed-in fixture or plugged outlet, per building sewer connection, and per $100 of estimated cost on repairs to waste, soil, vent or building drain pipe.",
-    "source_name": "City of Jacksonville fee schedule, Section 320.409",
-    "source_url": "https://www.jacksonville.gov/departments/finance/city-fees"
-   },
-   {
-    "label": "JEA sewer tap, six-inch connection",
-    "value": "$8,330",
-    "detail": "What the utility charges to set a six-inch sewer connection, with a $2,894 tap extension fee where an existing tap only needs bringing to the property line.",
-    "source_name": "JEA water and sewer system tariff",
-    "source_url": "https://www.jea.com/Pdf/Download/12884909745"
-   },
-   {
-    "label": "JEA water tap and meter set, three-quarter inch service",
-    "value": "$1,360 plus $300",
-    "detail": "The tap fee for a one-inch tap serving a three-quarter inch line, plus the meter set fee, charged before any plumbing contractor touches the house side of the meter.",
-    "source_name": "JEA water and sewer system tariff",
-    "source_url": "https://www.jea.com/Pdf/Download/12884909745"
-   }
+  "domain": "jacksonvilleemergencyplumberpros.com",
+  "phase": 2,
+  "brand": "Jacksonville Emergency Plumbing Pros",
+  "service": "Emergency Plumbing",
+  "service_inline": "emergency plumbing",
+  "vertical": "home",
+  "city": "Jacksonville",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Duval",
+    "Saint Johns"
   ],
-  "rows": [
-   {
-    "job": "Emergency visit and diagnosis, fee credited toward the repair",
-    "low": 99,
-    "high": 280,
-    "basis": "per visit",
-    "note": "The posted diagnostic fee is credited if you approve the repair.",
-    "sources": [
-     {
-      "name": "Greatful Plumber, Jacksonville, posted service fee, read 2026-08-23",
-      "url": "https://tgplumber.com/jacksonville-plumber-pricing-guide/"
-     },
-     {
-      "name": "Mr. Rooter, Jacksonville, posted drain price, read 2026-08-23",
-      "url": "https://www.mrrooter.com/jacksonville/"
-     },
-     {
-      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
-      "url": "https://emsplumb.com/services/"
-     }
+  "area_codes": [
+    "904"
+  ],
+  "phone_display": "(904) 582-1651",
+  "phone_tel": "+19045821651",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "consolidated_response_geography",
+      "claim": "Jacksonville and Duval County consolidated in 1968. A City financial report describes the City/County area as 840.1 square miles, with four separate municipalities remaining within Duval County.",
+      "why_it_matters": "Emergency-plumbing routing cannot treat “Jacksonville” as one compact service area. The exact address establishes the response route and helps distinguish central neighborhoods from far-out Duval locations before a technician is dispatched.",
+      "sources": [
+        "https://www.jacksonville.gov/getContentAsset/00fd9c5d-d3c7-47d1-b81e-ab03f6ca9a38/135b97c9-84fa-4e82-b956-0fbccec4aa1f/2010-CAFR-sec.pdf?language=en"
+      ],
+      "verified": "2026-08-22",
+      "title": "Jacksonville’s service map is much larger than a typical city call area"
+    },
+    {
+      "id": "septic_phase_out",
+      "claim": "At a January 22, 2024 City meeting, the Septic Tank Phase Out Program reported 35 septic tank failure areas and approximately 23,000 failing septic tanks in Duval County. The program had four active areas: Biltmore, Beverly Hills, Christobel, and Riverview.",
+      "why_it_matters": "A wastewater backup cannot be assumed to be a public sewer-line problem. The property may use septic infrastructure or JEA sewer, and that distinction changes how the technician traces the failure and what repair can address it.",
+      "sources": [
+        "https://www.jacksonville.gov/departments/neighborhoods/neighborhood-services-office/docs/southesast-cpac/se-summaries-2024/01-22-24-se-cpac-meeting-summary.aspx"
+      ],
+      "verified": "2026-08-22",
+      "title": "Some Jacksonville backups start with septic, not sewer"
+    },
+    {
+      "id": "shallow_water_table_and_slab_plumbing",
+      "claim": "A U.S. Geological Survey report states that, throughout most of Duval County, the water table is within 5 feet of land surface and can fluctuate as much as 5 feet between wet and dry seasons. City residential inspection guidance requires underground plumbing to be inspected before a slab inspection when plumbing is included in the project.",
+      "why_it_matters": "Water showing at a slab edge or through flooring needs careful locating before concrete is opened. The visible wet area may be some distance from the failed buried line, so an emergency repair begins with isolation and tracing rather than a guess at where to break the slab.",
+      "sources": [
+        "https://fl.water.usgs.gov/PDF_files/wri93_4130_phelps.pdf",
+        "https://www.jacksonville.gov/Departments/public-works/Building-Inspection-Division/Residential-Inspection"
+      ],
+      "verified": "2026-08-22",
+      "title": "Shallow groundwater makes under-slab water evidence worth tracing carefully"
+    }
+  ],
+  "neighborhoods": [
+    "Riverside",
+    "Avondale",
+    "San Marco",
+    "Springfield",
+    "Mandarin",
+    "Arlington"
+  ],
+  "symptoms": [
+    "burst_pipe",
+    "overflowing_drain",
+    "sewage_backup",
+    "no_running_water"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Water Stopped Today, Price First",
+  "trust_third": "Price quoted before emergency work starts",
+  "services": [
+    {
+      "slug": "emergency-plumbing-repair",
+      "name": "Emergency Plumbing Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Plumbing Repair",
+      "accent": "Fast Help for Active Leaks",
+      "keyword": "emergency plumbing repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "burst-pipe-repair",
+      "name": "Burst Pipe Repair",
+      "nav": "Burst pipes",
+      "h1": "Burst Pipe Repair",
+      "accent": "Pipe Repaired Before More Damage",
+      "keyword": "burst pipe repair",
+      "icon": "drop"
+    },
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "nav": "Drain cleaning",
+      "h1": "Drain Cleaning",
+      "accent": "Clogs Cleared and Flow Restored",
+      "keyword": "drain cleaning",
+      "icon": "wrench"
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "nav": "Sewer line repair",
+      "h1": "Sewer Line Repair",
+      "accent": "Backups Stopped at the Source",
+      "keyword": "sewer line repair",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "burst-pipe-repair",
+    "drain-cleaning",
+    "sewer-line-repair",
+    "emergency-plumbing-repair"
+  ],
+  "_market": {
+    "keyword": "emergency plumber jacksonville",
+    "monthly_price": 500,
+    "score": 77,
+    "volume": 150,
+    "cpc_usd": 45.0,
+    "weakest_competitor": "rotorooter.com",
+    "competitor_dr": 74.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Cost ranges for plumbing emergencies across Duval County",
+    "anchors": [
+      {
+        "label": "Minimum plumbing permit fee",
+        "value": "$60",
+        "detail": "The floor for a plumbing permit under the city's fee schedule, regardless of how the itemized formula adds up on a small repair.",
+        "source_name": "City of Jacksonville fee schedule, Section 320.409",
+        "source_url": "https://www.jacksonville.gov/departments/finance/city-fees"
+      },
+      {
+        "label": "Permit line for each fixture or sewer connection",
+        "value": "$11",
+        "detail": "Charged per roughed-in fixture or plugged outlet, per building sewer connection, and per $100 of estimated cost on repairs to waste, soil, vent or building drain pipe.",
+        "source_name": "City of Jacksonville fee schedule, Section 320.409",
+        "source_url": "https://www.jacksonville.gov/departments/finance/city-fees"
+      },
+      {
+        "label": "JEA sewer tap, six-inch connection",
+        "value": "$8,330",
+        "detail": "What the utility charges to set a six-inch sewer connection, with a $2,894 tap extension fee where an existing tap only needs bringing to the property line.",
+        "source_name": "JEA water and sewer system tariff",
+        "source_url": "https://www.jea.com/Pdf/Download/12884909745"
+      },
+      {
+        "label": "JEA water tap and meter set, three-quarter inch service",
+        "value": "$1,360 plus $300",
+        "detail": "The tap fee for a one-inch tap serving a three-quarter inch line, plus the meter set fee, charged before any plumbing contractor touches the house side of the meter.",
+        "source_name": "JEA water and sewer system tariff",
+        "source_url": "https://www.jea.com/Pdf/Download/12884909745"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Emergency visit and diagnosis, fee credited toward the repair",
+        "low": 99,
+        "high": 280,
+        "basis": "per visit",
+        "note": "The posted diagnostic fee is credited if you approve the repair.",
+        "sources": [
+          {
+            "name": "Greatful Plumber, Jacksonville, posted service fee, read 2026-08-23",
+            "url": "https://tgplumber.com/jacksonville-plumber-pricing-guide/"
+          },
+          {
+            "name": "Mr. Rooter, Jacksonville, posted drain price, read 2026-08-23",
+            "url": "https://www.mrrooter.com/jacksonville/"
+          },
+          {
+            "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+            "url": "https://emsplumb.com/services/"
+          }
+        ]
+      },
+      {
+        "job": "Toilet or shower line cleared through an accessible cleanout",
+        "low": 99,
+        "high": 500,
+        "basis": "flat",
+        "note": "One fixture and a working cleanout is the floor; scaled cast iron fights back.",
+        "sources": [
+          {
+            "name": "Mr. Rooter, Jacksonville, posted drain price, read 2026-08-23",
+            "url": "https://www.mrrooter.com/jacksonville/"
+          },
+          {
+            "name": "904 Plumbers, Jacksonville, posted drain prices, read 2026-08-23",
+            "url": "https://904plumbers.com/services/"
+          },
+          {
+            "name": "Simply Drains USA, Jacksonville, posted prices, read 2026-08-23",
+            "url": "https://www.simplydrainsusa.com/book-online"
+          },
+          {
+            "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+            "url": "https://emsplumb.com/services/"
+          }
+        ]
+      },
+      {
+        "job": "Camera inspection of a cast iron drain under the slab",
+        "low": 300,
+        "high": 340,
+        "basis": "flat",
+        "note": "Cleanout access and a written report with distances set this.",
+        "sources": [
+          {
+            "name": "Simply Drains USA, Jacksonville, posted prices, read 2026-08-23",
+            "url": "https://www.simplydrainsusa.com/book-online"
+          },
+          {
+            "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+            "url": "https://emsplumb.com/services/"
+          }
+        ]
+      },
+      {
+        "job": "Slab leak located and the supply line repaired or rerouted",
+        "low": 550,
+        "high": 5450,
+        "basis": "flat",
+        "note": "Rerouting overhead beats opening the floor twice; finished flooring drives the top.",
+        "sources": [
+          {
+            "name": "Rolland Reash, Jacksonville, posted slab prices, read 2026-08-23",
+            "url": "https://plumbingjacksonville.com/re-piping-your-home-verses-slab-leak-repairs/"
+          },
+          {
+            "name": "904 Plumbers, Jacksonville, posted slab prices, read 2026-08-23",
+            "url": "https://904plumbers.com/services/slab-leak-repair/"
+          }
+        ]
+      },
+      {
+        "job": "Water heater changed out, 40 or 50 gallon tank",
+        "low": 1100,
+        "high": 2600,
+        "basis": "per unit",
+        "note": "Garage installs are simplest; a pan and new shutoffs add cost.",
+        "sources": [
+          {
+            "name": "904 Plumbers, Jacksonville, posted tank prices, read 2026-08-23",
+            "url": "https://904plumbers.com/services/water-heater-replacement/"
+          },
+          {
+            "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
+            "url": "https://emsplumb.com/services/"
+          }
+        ]
+      },
+      {
+        "job": "Whole-home repipe of failing or polybutylene supply lines",
+        "low": 2700,
+        "high": 15000,
+        "basis": "flat",
+        "note": "House size and pipe material set it; quotes cover permits and patching.",
+        "sources": [
+          {
+            "name": "Rolland Reash Plumbing, Jacksonville, posted repipe prices, read 2026-08-23",
+            "url": "https://plumbingjacksonville.com/re-piping-your-home-verses-slab-leak-repairs/"
+          },
+          {
+            "name": "Repipe Specialists, Jacksonville, posted repipe prices, read 2026-08-23",
+            "url": "https://jacksonville.repipe.com/faq.html"
+          },
+          {
+            "name": "904 Plumbers, Jacksonville, posted repipe prices, read 2026-08-23",
+            "url": "https://904plumbers.com/services/repiping/"
+          }
+        ]
+      },
+      {
+        "job": "Sewer lateral relined or replaced from house to city main",
+        "low": 2999,
+        "high": 12000,
+        "basis": "flat",
+        "note": "Lining avoids the trench; length, depth and a street cut push the top.",
+        "sources": [
+          {
+            "name": "Totally Hooked Plumbing, Jacksonville, posted lining price, read 2026-08-23",
+            "url": "https://www.totallyhookedplumbing.com/repiping/"
+          },
+          {
+            "name": "JAX Hydro-Jetters, Jacksonville, posted trenchless prices, read 2026-08-23",
+            "url": "https://jaxhydrojetters.com/trenchless-sewer-jacksonville-fl"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "Toilet or shower line cleared through an accessible cleanout",
-    "low": 99,
-    "high": 500,
-    "basis": "flat",
-    "note": "One fixture and a working cleanout is the floor; scaled cast iron fights back.",
-    "sources": [
-     {
-      "name": "Mr. Rooter, Jacksonville, posted drain price, read 2026-08-23",
-      "url": "https://www.mrrooter.com/jacksonville/"
-     },
-     {
-      "name": "904 Plumbers, Jacksonville, posted drain prices, read 2026-08-23",
-      "url": "https://904plumbers.com/services/"
-     },
-     {
-      "name": "Simply Drains USA, Jacksonville, posted prices, read 2026-08-23",
-      "url": "https://www.simplydrainsusa.com/book-online"
-     },
-     {
-      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
-      "url": "https://emsplumb.com/services/"
-     }
-    ]
-   },
-   {
-    "job": "Camera inspection of a cast iron drain under the slab",
-    "low": 300,
-    "high": 340,
-    "basis": "flat",
-    "note": "Cleanout access and a written report with distances set this.",
-    "sources": [
-     {
-      "name": "Simply Drains USA, Jacksonville, posted prices, read 2026-08-23",
-      "url": "https://www.simplydrainsusa.com/book-online"
-     },
-     {
-      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
-      "url": "https://emsplumb.com/services/"
-     }
-    ]
-   },
-   {
-    "job": "Slab leak located and the supply line repaired or rerouted",
-    "low": 550,
-    "high": 5450,
-    "basis": "flat",
-    "note": "Rerouting overhead beats opening the floor twice; finished flooring drives the top.",
-    "sources": [
-     {
-      "name": "Rolland Reash, Jacksonville, posted slab prices, read 2026-08-23",
-      "url": "https://plumbingjacksonville.com/re-piping-your-home-verses-slab-leak-repairs/"
-     },
-     {
-      "name": "904 Plumbers, Jacksonville, posted slab prices, read 2026-08-23",
-      "url": "https://904plumbers.com/services/slab-leak-repair/"
-     }
-    ]
-   },
-   {
-    "job": "Water heater changed out, 40 or 50 gallon tank",
-    "low": 1100,
-    "high": 2600,
-    "basis": "per unit",
-    "note": "Garage installs are simplest; a pan and new shutoffs add cost.",
-    "sources": [
-     {
-      "name": "904 Plumbers, Jacksonville, posted tank prices, read 2026-08-23",
-      "url": "https://904plumbers.com/services/water-heater-replacement/"
-     },
-     {
-      "name": "EMS Plumbing, Jacksonville, posted prices, read 2026-08-23",
-      "url": "https://emsplumb.com/services/"
-     }
-    ]
-   },
-   {
-    "job": "Whole-home repipe of failing or polybutylene supply lines",
-    "low": 2700,
-    "high": 15000,
-    "basis": "flat",
-    "note": "House size and pipe material set it; quotes cover permits and patching.",
-    "sources": [
-     {
-      "name": "Rolland Reash Plumbing, Jacksonville, posted repipe prices, read 2026-08-23",
-      "url": "https://plumbingjacksonville.com/re-piping-your-home-verses-slab-leak-repairs/"
-     },
-     {
-      "name": "Repipe Specialists, Jacksonville, posted repipe prices, read 2026-08-23",
-      "url": "https://jacksonville.repipe.com/faq.html"
-     },
-     {
-      "name": "904 Plumbers, Jacksonville, posted repipe prices, read 2026-08-23",
-      "url": "https://904plumbers.com/services/repiping/"
-     }
-    ]
-   },
-   {
-    "job": "Sewer lateral relined or replaced from house to city main",
-    "low": 2999,
-    "high": 12000,
-    "basis": "flat",
-    "note": "Lining avoids the trench; length, depth and a street cut push the top.",
-    "sources": [
-     {
-      "name": "Totally Hooked Plumbing, Jacksonville, posted lining price, read 2026-08-23",
-      "url": "https://www.totallyhookedplumbing.com/repiping/"
-     },
-     {
-      "name": "JAX Hydro-Jetters, Jacksonville, posted trenchless prices, read 2026-08-23",
-      "url": "https://jaxhydrojetters.com/trenchless-sewer-jacksonville-fl"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

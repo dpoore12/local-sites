@@ -1,9 +1,10 @@
 {
   "domain": "danvillegaragedoorrepairpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Danville Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
+  "vertical": "home",
   "city": "Danville",
   "state": "CA",
   "state_full": "California",

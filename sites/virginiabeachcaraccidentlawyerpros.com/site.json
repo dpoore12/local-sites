@@ -1,223 +1,224 @@
 {
- "domain": "virginiabeachcaraccidentlawyerpros.com",
- "phase": 2,
- "brand": "Virginia Beach Car Accident Law Pros",
- "service": "Car Accident Lawyer",
- "service_inline": "car accident lawyer",
- "city": "Virginia Beach",
- "state": "VA",
- "state_full": "Virginia",
- "counties": [
-  "Virginia Beach City"
- ],
- "area_codes": [
-  "757"
- ],
- "phone_display": "(757) 526-8901",
- "phone_tel": "+17575268901",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "contributory_negligence",
-   "claim": "Virginia still applies contributory negligence: Virginia appellate courts state that where a plaintiff fails to exercise reasonable care contemporaneously or concurrently with the defendant's negligent act, that contributory negligence bars the plaintiff's recovery. The General Assembly had to write a statutory exception, Virginia Code 8.01-58, just to keep contributory negligence from barring recovery for injured railroad employees.",
-   "why_it_matters": "In most states a share of the blame reduces a car crash recovery by a percentage. In Virginia it can end the claim outright, which is why an adjuster's questions about a burned-out brake light, a rolling stop or an apology at the roadside are not small talk. A related Virginia rule cuts the other way and is worth knowing: under Virginia Code 46.2-1094, a safety belt violation does not constitute negligence, cannot be considered in mitigation of damages, and is not admissible as evidence in a civil case.",
-   "sources": [
-    "https://www.vacourts.gov/opinions/opncavwp/1521221.pdf",
-    "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-58/",
-    "https://law.lis.virginia.gov/vacode/title46.2/chapter10/section46.2-1094/"
-   ],
-   "verified": "2026-08-21",
-   "title": "Any fault of your own can bar the claim entirely"
-  },
-  {
-   "id": "filing_deadline_and_venue",
-   "claim": "Virginia Code 8.01-243 requires that every action for personal injuries, whatever the theory of recovery, be brought within two years after the cause of action accrues. Virginia's general district courts can hear personal injury claims up to and including $50,000, so larger claims go to circuit court - in this city, the Virginia Beach Circuit Court at 2425 Nimmo Parkway, whose stated goal is to conclude civil cases within 18 months of filing.",
-   "why_it_matters": "The two-year window runs from the crash, not from the day symptoms got serious, and negotiation leverage vanishes the day it closes. The $50,000 dividing line decides which Virginia Beach courthouse a claim would be filed in and how long it is likely to take, which is part of what any early settlement offer is really being measured against.",
-   "sources": [
-    "https://law.lis.virginia.gov/vacode/title8.01/chapter4/section8.01-243/",
-    "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/",
-    "https://courts.virginiabeach.gov/circuit-court-clerks-office/circuit-court-civil"
-   ],
-   "verified": "2026-08-21",
-   "title": "Two years to file, and $50,000 decides the courthouse"
-  },
-  {
-   "id": "virginia_beach_crash_volume",
-   "claim": "The Virginia DMV's 2025 Virginia Traffic Crash Facts records 4,965 traffic crashes in Virginia Beach City, with 28 people killed and 3,102 injured. Within that total, 304 crashes were alcohol-related and caused 10 of the deaths, and 610 crashes were speed-related.",
-   "why_it_matters": "Injuries outnumbered deaths by more than a hundred to one here, so the overwhelming majority of Virginia Beach crash claims are injury claims argued with an insurer rather than headline fatalities. Alcohol and speed appear in enough of them that the police report's narrative and any citation issued at the scene often carry more weight than the vehicle damage does.",
-   "sources": [
-    "https://www.dmv.virginia.gov/sites/default/files/documents/VA-traffic-crash-2025.pdf",
-    "https://www.dmv.virginia.gov/safety/crash-data/traffic-crash-facts"
-   ],
-   "verified": "2026-08-21",
-   "title": "Virginia Beach logged 4,965 crashes and 3,102 injuries"
-  }
- ],
- "neighborhoods": [
-  "Kempsville",
-  "Great Neck",
-  "Hilltop",
-  "Bayside",
-  "Thalia",
-  "Sandbridge"
- ],
- "symptoms": [
-  "rear_end_collision_injury",
-  "hit_and_run_crash",
-  "uninsured_driver",
-  "insurer_low_offer"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What Virginia's rule and the Virginia Beach clerk set in an injury claim",
-  "col_a": "Item",
-  "col_b": "What Virginia sets",
-  "anchors": [
-   {
-    "label": "Circuit court clerk's fee, claim for money damages",
-    "value": "$100 to $300",
-    "detail": "One hundred dollars where the claim seeks up to $49,999, $200 up to $100,000, $250 up to $500,000, and $300 above that. Ten dollars of each goes to the Courts Technology Fund.",
-    "source_name": "Va. Code 17.1-275(A)(13)",
-    "source_url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-275/"
-   },
-   {
-    "label": "Writ tax on commencing a civil action",
-    "value": "$5 / $15 / $25",
-    "detail": "A tax on the suit itself, tiered by the damages demanded: five dollars up to $49,999, fifteen up to $100,000, twenty-five above $100,000.",
-    "source_name": "Va. Code 58.1-1727",
-    "source_url": "https://law.lis.virginia.gov/vacode/title58.1/chapter17/section58.1-1727/"
-   },
-   {
-    "label": "Hospital lien ceiling against an injury claim",
-    "value": "$2,500",
-    "detail": "A hospital or nursing home lien for a just and reasonable charge cannot exceed $2,500, with $750 for each physician, nurse, physical therapist or pharmacy and $200 per emergency medical services provider.",
-    "source_name": "Va. Code 8.01-66.2",
-    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-66.2/"
-   },
-   {
-    "label": "Percentage ceiling on an injury fee in Virginia",
-    "value": "None stated",
-    "detail": "Rule 1.5 of the Virginia Rules of Professional Conduct requires that a fee be reasonable and lists eight factors. It fixes no percentage for injury work.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   }
+  "domain": "virginiabeachcaraccidentlawyerpros.com",
+  "phase": 2,
+  "brand": "Virginia Beach Car Accident Law Pros",
+  "service": "Car Accident Lawyer",
+  "service_inline": "car accident lawyer",
+  "vertical": "legal",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "state_full": "Virginia",
+  "counties": [
+    "Virginia Beach City"
   ],
-  "fee_rows": [
-   {
-    "stage": "The standard a fee must meet",
-    "share": "Reasonable, eight factors",
-    "note": "Time and labor, difficulty, the fee customarily charged locally for similar work, the amount involved and result, time limits, the relationship, experience and ability, fixed or contingent.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   },
-   {
-    "stage": "What a contingent agreement must state in writing",
-    "share": "Four required terms",
-    "note": "The method of computing the fee, the percentages on settlement, trial and appeal, the expenses deducted from the recovery, and whether they come out before or after the fee.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(c)",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   },
-   {
-    "stage": "Nonrefundable advanced legal fees",
-    "share": "Prohibited",
-    "note": "Virginia's rule bars them outright, and at the close of a contingent matter the lawyer owes a written statement of the outcome and how the remittance was figured.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   },
-   {
-    "stage": "Filing the suit in Virginia Beach Circuit Court",
-    "share": "Clerk fee plus writ tax plus local fees",
-    "note": "The clerk's schedule assembles a total from the statutory fee and tax plus a $9 legal aid fee, $5 technology trust fund fee, $4 law library fee and $2 courthouse maintenance charge.",
-    "source_name": "Virginia Beach Circuit Court civil fee schedule",
-    "source_url": "https://www.vacourts.gov/caseinfo/circuit_fees/virginia_beach_circ_civil_fees.pdf"
-   },
-   {
-    "stage": "Getting the medical records",
-    "share": "$0.50 per page, $160 cap",
-    "note": "Paper copies run up to fifty cents a page for the first fifty pages and a quarter after, with search and handling capped at twenty dollars; electronic production is capped at $160.",
-    "source_name": "Va. Code 8.01-413(B2)-(B3)",
-    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter14/section8.01-413/"
-   },
-   {
-    "stage": "Medical malpractice, a cap on recovery not on fees",
-    "share": "$2.75 million",
-    "note": "For acts of malpractice from July 1, 2026 through June 30, 2027 the total recoverable is capped by statute. It limits the verdict, not the lawyer's percentage.",
-    "source_name": "Va. Code 8.01-581.15",
-    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter21.1/section8.01-581.15/"
-   }
-  ]
- },
- "hero_accent": "Deadlines, Evidence, What Comes Next",
- "trust_third": "Filing deadlines and evidence steps, spelled out",
- "services": [
-  {
-   "slug": "rear-end-collision-lawyer",
-   "name": "Rear-End Collision Claims",
-   "nav": "Rear-end collisions",
-   "h1": "Rear-End Collision Lawyer",
-   "accent": "Fault, Evidence and Injury Claims",
-   "keyword": "rear end collision lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "757"
+  ],
+  "phone_display": "(757) 526-8901",
+  "phone_tel": "+17575268901",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "uninsured-driver-claim-lawyer",
-   "name": "Uninsured Driver Claims",
-   "nav": "Uninsured driver claims",
-   "h1": "Uninsured Driver Claim Lawyer",
-   "accent": "Coverage Questions and Claim Options",
-   "keyword": "uninsured driver accident lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "contributory_negligence",
+      "claim": "Virginia still applies contributory negligence: Virginia appellate courts state that where a plaintiff fails to exercise reasonable care contemporaneously or concurrently with the defendant's negligent act, that contributory negligence bars the plaintiff's recovery. The General Assembly had to write a statutory exception, Virginia Code 8.01-58, just to keep contributory negligence from barring recovery for injured railroad employees.",
+      "why_it_matters": "In most states a share of the blame reduces a car crash recovery by a percentage. In Virginia it can end the claim outright, which is why an adjuster's questions about a burned-out brake light, a rolling stop or an apology at the roadside are not small talk. A related Virginia rule cuts the other way and is worth knowing: under Virginia Code 46.2-1094, a safety belt violation does not constitute negligence, cannot be considered in mitigation of damages, and is not admissible as evidence in a civil case.",
+      "sources": [
+        "https://www.vacourts.gov/opinions/opncavwp/1521221.pdf",
+        "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-58/",
+        "https://law.lis.virginia.gov/vacode/title46.2/chapter10/section46.2-1094/"
+      ],
+      "verified": "2026-08-21",
+      "title": "Any fault of your own can bar the claim entirely"
+    },
+    {
+      "id": "filing_deadline_and_venue",
+      "claim": "Virginia Code 8.01-243 requires that every action for personal injuries, whatever the theory of recovery, be brought within two years after the cause of action accrues. Virginia's general district courts can hear personal injury claims up to and including $50,000, so larger claims go to circuit court - in this city, the Virginia Beach Circuit Court at 2425 Nimmo Parkway, whose stated goal is to conclude civil cases within 18 months of filing.",
+      "why_it_matters": "The two-year window runs from the crash, not from the day symptoms got serious, and negotiation leverage vanishes the day it closes. The $50,000 dividing line decides which Virginia Beach courthouse a claim would be filed in and how long it is likely to take, which is part of what any early settlement offer is really being measured against.",
+      "sources": [
+        "https://law.lis.virginia.gov/vacode/title8.01/chapter4/section8.01-243/",
+        "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/",
+        "https://courts.virginiabeach.gov/circuit-court-clerks-office/circuit-court-civil"
+      ],
+      "verified": "2026-08-21",
+      "title": "Two years to file, and $50,000 decides the courthouse"
+    },
+    {
+      "id": "virginia_beach_crash_volume",
+      "claim": "The Virginia DMV's 2025 Virginia Traffic Crash Facts records 4,965 traffic crashes in Virginia Beach City, with 28 people killed and 3,102 injured. Within that total, 304 crashes were alcohol-related and caused 10 of the deaths, and 610 crashes were speed-related.",
+      "why_it_matters": "Injuries outnumbered deaths by more than a hundred to one here, so the overwhelming majority of Virginia Beach crash claims are injury claims argued with an insurer rather than headline fatalities. Alcohol and speed appear in enough of them that the police report's narrative and any citation issued at the scene often carry more weight than the vehicle damage does.",
+      "sources": [
+        "https://www.dmv.virginia.gov/sites/default/files/documents/VA-traffic-crash-2025.pdf",
+        "https://www.dmv.virginia.gov/safety/crash-data/traffic-crash-facts"
+      ],
+      "verified": "2026-08-21",
+      "title": "Virginia Beach logged 4,965 crashes and 3,102 injuries"
+    }
+  ],
+  "neighborhoods": [
+    "Kempsville",
+    "Great Neck",
+    "Hilltop",
+    "Bayside",
+    "Thalia",
+    "Sandbridge"
+  ],
+  "symptoms": [
+    "rear_end_collision_injury",
+    "hit_and_run_crash",
+    "uninsured_driver",
+    "insurer_low_offer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "commercial-truck-collision-lawyer",
-   "name": "Commercial Truck Collisions",
-   "nav": "Truck collisions",
-   "h1": "Commercial Truck Collision Lawyer",
-   "accent": "Records, Liability and Injury Claims",
-   "keyword": "commercial truck collision lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Virginia's rule and the Virginia Beach clerk set in an injury claim",
+    "col_a": "Item",
+    "col_b": "What Virginia sets",
+    "anchors": [
+      {
+        "label": "Circuit court clerk's fee, claim for money damages",
+        "value": "$100 to $300",
+        "detail": "One hundred dollars where the claim seeks up to $49,999, $200 up to $100,000, $250 up to $500,000, and $300 above that. Ten dollars of each goes to the Courts Technology Fund.",
+        "source_name": "Va. Code 17.1-275(A)(13)",
+        "source_url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-275/"
+      },
+      {
+        "label": "Writ tax on commencing a civil action",
+        "value": "$5 / $15 / $25",
+        "detail": "A tax on the suit itself, tiered by the damages demanded: five dollars up to $49,999, fifteen up to $100,000, twenty-five above $100,000.",
+        "source_name": "Va. Code 58.1-1727",
+        "source_url": "https://law.lis.virginia.gov/vacode/title58.1/chapter17/section58.1-1727/"
+      },
+      {
+        "label": "Hospital lien ceiling against an injury claim",
+        "value": "$2,500",
+        "detail": "A hospital or nursing home lien for a just and reasonable charge cannot exceed $2,500, with $750 for each physician, nurse, physical therapist or pharmacy and $200 per emergency medical services provider.",
+        "source_name": "Va. Code 8.01-66.2",
+        "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-66.2/"
+      },
+      {
+        "label": "Percentage ceiling on an injury fee in Virginia",
+        "value": "None stated",
+        "detail": "Rule 1.5 of the Virginia Rules of Professional Conduct requires that a fee be reasonable and lists eight factors. It fixes no percentage for injury work.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "The standard a fee must meet",
+        "share": "Reasonable, eight factors",
+        "note": "Time and labor, difficulty, the fee customarily charged locally for similar work, the amount involved and result, time limits, the relationship, experience and ability, fixed or contingent.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      },
+      {
+        "stage": "What a contingent agreement must state in writing",
+        "share": "Four required terms",
+        "note": "The method of computing the fee, the percentages on settlement, trial and appeal, the expenses deducted from the recovery, and whether they come out before or after the fee.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(c)",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      },
+      {
+        "stage": "Nonrefundable advanced legal fees",
+        "share": "Prohibited",
+        "note": "Virginia's rule bars them outright, and at the close of a contingent matter the lawyer owes a written statement of the outcome and how the remittance was figured.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      },
+      {
+        "stage": "Filing the suit in Virginia Beach Circuit Court",
+        "share": "Clerk fee plus writ tax plus local fees",
+        "note": "The clerk's schedule assembles a total from the statutory fee and tax plus a $9 legal aid fee, $5 technology trust fund fee, $4 law library fee and $2 courthouse maintenance charge.",
+        "source_name": "Virginia Beach Circuit Court civil fee schedule",
+        "source_url": "https://www.vacourts.gov/caseinfo/circuit_fees/virginia_beach_circ_civil_fees.pdf"
+      },
+      {
+        "stage": "Getting the medical records",
+        "share": "$0.50 per page, $160 cap",
+        "note": "Paper copies run up to fifty cents a page for the first fifty pages and a quarter after, with search and handling capped at twenty dollars; electronic production is capped at $160.",
+        "source_name": "Va. Code 8.01-413(B2)-(B3)",
+        "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter14/section8.01-413/"
+      },
+      {
+        "stage": "Medical malpractice, a cap on recovery not on fees",
+        "share": "$2.75 million",
+        "note": "For acts of malpractice from July 1, 2026 through June 30, 2027 the total recoverable is capped by statute. It limits the verdict, not the lawyer's percentage.",
+        "source_name": "Va. Code 8.01-581.15",
+        "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter21.1/section8.01-581.15/"
+      }
+    ]
   },
-  {
-   "slug": "injury-claim-negotiation",
-   "name": "Injury Claim Negotiation",
-   "nav": "Claim negotiation",
-   "h1": "Injury Claim Negotiation",
-   "accent": "Damages, Offers and Claim Terms",
-   "keyword": "car accident injury claim negotiation",
-   "icon": "check"
+  "hero_accent": "Deadlines, Evidence, What Comes Next",
+  "trust_third": "Filing deadlines and evidence steps, spelled out",
+  "services": [
+    {
+      "slug": "rear-end-collision-lawyer",
+      "name": "Rear-End Collision Claims",
+      "nav": "Rear-end collisions",
+      "h1": "Rear-End Collision Lawyer",
+      "accent": "Fault, Evidence and Injury Claims",
+      "keyword": "rear end collision lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "uninsured-driver-claim-lawyer",
+      "name": "Uninsured Driver Claims",
+      "nav": "Uninsured driver claims",
+      "h1": "Uninsured Driver Claim Lawyer",
+      "accent": "Coverage Questions and Claim Options",
+      "keyword": "uninsured driver accident lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "commercial-truck-collision-lawyer",
+      "name": "Commercial Truck Collisions",
+      "nav": "Truck collisions",
+      "h1": "Commercial Truck Collision Lawyer",
+      "accent": "Records, Liability and Injury Claims",
+      "keyword": "commercial truck collision lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "injury-claim-negotiation",
+      "name": "Injury Claim Negotiation",
+      "nav": "Claim negotiation",
+      "h1": "Injury Claim Negotiation",
+      "accent": "Damages, Offers and Claim Terms",
+      "keyword": "car accident injury claim negotiation",
+      "icon": "check"
+    }
+  ],
+  "symptom_service": [
+    "rear-end-collision-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "uninsured-driver-claim-lawyer",
+    "injury-claim-negotiation"
+  ],
+  "_market": {
+    "keyword": "virginia beach car accident lawyer",
+    "monthly_price": 2000,
+    "score": 89,
+    "volume": 450,
+    "cpc_usd": 95.0,
+    "weakest_competitor": "huffmanhuffman.com",
+    "competitor_dr": 24.0
   }
- ],
- "symptom_service": [
-  "rear-end-collision-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "uninsured-driver-claim-lawyer",
-  "injury-claim-negotiation"
- ],
- "_market": {
-  "keyword": "virginia beach car accident lawyer",
-  "monthly_price": 2000,
-  "score": 89,
-  "volume": 450,
-  "cpc_usd": 95.0,
-  "weakest_competitor": "huffmanhuffman.com",
-  "competitor_dr": 24.0
- }
 }

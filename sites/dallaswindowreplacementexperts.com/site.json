@@ -1,292 +1,293 @@
 {
- "domain": "dallaswindowreplacementexperts.com",
- "phase": 1,
- "brand": "Dallas Window Replacement Pros",
- "service": "Window Replacement",
- "service_inline": "window replacement",
- "city": "Dallas",
- "state": "TX",
- "state_full": "Texas",
- "counties": [
-  "Dallas",
-  "Collin"
- ],
- "area_codes": [
-  "214",
-  "469",
-  "972"
- ],
- "phone_display": "(214) 817-0398",
- "phone_tel": "+12148170398",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "energy_code_2023",
-   "claim": "Dallas adopted its 2021 Energy Conservation Code effective May 12, 2023. Its residential fenestration tables set maximum U-factor and solar heat-gain-coefficient (SHGC) requirements, so a replacement-window specification needs to account for more than frame size and appearance.",
-   "why_it_matters": "U-factor and SHGC are practical inputs for choosing replacement glass in sun-exposed Dallas rooms. The technician checks the opening and discusses the glass package along with shade, orientation, and frame condition before the installation is scoped.",
-   "sources": [
-    "https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/DCH%20documents/pdf/code_amendments/2021_codes/23-0472.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Dallas window replacements are subject to current energy-code performance limits"
-  },
-  {
-   "id": "window_permit_rule",
-   "claim": "The City of Dallas says replacing and repairing damaged windows typically does not require a permit. Its permit FAQ also says that work affecting structural elements and exterior work in historic, conservation, or planned-development districts can follow different approval requirements.",
-   "why_it_matters": "A straightforward damaged-window replacement can be planned differently from an opening resize, structural repair, or work in a special district. The project scope should be checked before materials are ordered rather than relying on a generic doors-and-windows rule.",
-   "sources": [
-    "https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/pages/building_inspection_faqs.aspx"
-   ],
-   "verified": "2026-08-22",
-   "title": "Dallas has a window-specific permit distinction"
-  },
-  {
-   "id": "midcentury_window_stock",
-   "claim": "Dallas has extensive mid-century housing, and a Dallas history publication describes aluminum windows as a common feature of 1960s houses. Preservation Dallas has also documented properties built before 1965 across 28 Dallas neighborhoods.",
-   "why_it_matters": "Older aluminum frames, single-pane glass, narrow openings, and layered renovation work call for an on-site inspection of the frame, sill, and exterior detailing before selecting an insert, new sash, or full-window replacement.",
-   "sources": [
-    "https://texashistory.unt.edu/ark:/67531/metapth586973/m2/1/high_res_d/Legacies%20Fall%202014.pdf",
-    "https://preservationdallas.org/wp-content/uploads/2020/11/Discover-Dallas-neighborhood-directory.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Dallas mid-century homes need frame-aware window work"
-  }
- ],
- "neighborhoods": [
-  "Lakewood",
-  "Lochwood",
-  "Casa Linda",
-  "Kessler Park",
-  "Wynnewood North",
-  "Lake Highlands"
- ],
- "symptoms": [
-  "drafty_windows",
-  "foggy_window_glass",
-  "broken_window",
-  "hard_to_open_windows"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "New Windows, Lasting Comfort",
- "trust_third": "Installation price outlined before work starts",
- "services": [
-  {
-   "slug": "window-replacement",
-   "name": "Window Replacement",
-   "nav": "Window replacement",
-   "h1": "Window Replacement",
-   "accent": "Old Windows Replaced for Better Comfort",
-   "keyword": "window replacement",
-   "icon": "house"
-  },
-  {
-   "slug": "window-installation",
-   "name": "Window Installation",
-   "nav": "Window installation",
-   "h1": "Window Installation",
-   "accent": "New Windows Installed Precisely",
-   "keyword": "window installation",
-   "icon": "wrench"
-  },
-  {
-   "slug": "double-pane-window-replacement",
-   "name": "Double-Pane Window Replacement",
-   "nav": "Double-pane windows",
-   "h1": "Double-Pane Window Replacement",
-   "accent": "Fogged Glass Replaced for Clear Views",
-   "keyword": "double pane window replacement",
-   "icon": "eye"
-  },
-  {
-   "slug": "sliding-window-replacement",
-   "name": "Sliding Window Replacement",
-   "nav": "Sliding windows",
-   "h1": "Sliding Window Replacement",
-   "accent": "Sticking Sliders Replaced Smoothly",
-   "keyword": "sliding window replacement",
-   "icon": "gear"
-  }
- ],
- "symptom_service": [
-  "window-replacement",
-  "double-pane-window-replacement",
-  "window-replacement",
-  "sliding-window-replacement"
- ],
- "_market": {
-  "keyword": "dallas window replacement",
-  "monthly_price": 500,
-  "score": 73,
-  "volume": 200,
-  "cpc_usd": 9.0,
-  "weakest_competitor": "windowworlddfw.com",
-  "competitor_dr": 8.0
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "Dallas window and door replacement, by the opening",
-  "anchors": [
-   {
-    "label": "Alteration or repair permit, single-family house",
-    "value": "$181 per dwelling unit",
-    "detail": "The adopted Dallas schedule prices alterations or repairs of single-family and duplex structures at $181 per dwelling unit plus $100 for additional trades, with a minimum inspection fee of $125 for one trade. No line item names windows specifically, so the scope of the job decides which line applies.",
-    "source_name": "City of Dallas development services fee schedule",
-    "source_url": "https://dallascityhall.com/departments/sustainabledevelopment/DCH%20documents/DSD%20Fees.pdf"
-   },
-   {
-    "label": "Federal window tax credit while it existed",
-    "value": "30% up to $600",
-    "detail": "The 25C credit paid 30 percent of product cost with a $600 annual cap for windows and skylights meeting the ENERGY STAR Most Efficient criteria, for products purchased and installed between January 1, 2023 and December 31, 2025.",
-    "source_name": "ENERGY STAR federal tax credits, windows and skylights",
-    "source_url": "https://www.energystar.gov/about/federal-tax-credits/windows-skylights"
-   },
-   {
-    "label": "Status of that credit for work done now",
-    "value": "Not allowed after December 31, 2025",
-    "detail": "The IRS guidance on the 2025 tax law states the credit will not be allowed for any property placed in service after December 31, 2025, so a quote that still prices in a federal rebate is quoting a credit that has closed.",
-    "source_name": "IRS FAQs on sections 25C and others under Public Law 119-21",
-    "source_url": "https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-obbb"
-   }
+  "domain": "dallaswindowreplacementexperts.com",
+  "phase": 2,
+  "brand": "Dallas Window Replacement Pros",
+  "service": "Window Replacement",
+  "service_inline": "window replacement",
+  "vertical": "home",
+  "city": "Dallas",
+  "state": "TX",
+  "state_full": "Texas",
+  "counties": [
+    "Dallas",
+    "Collin"
   ],
-  "rows": [
-   {
-    "job": "One vinyl double-hung swapped into the existing opening",
-    "low": 400,
-    "high": 1350,
-    "basis": "per window installed",
-    "note": "Size, grid pattern, and tempered or obscure glass move a single opening across this whole band.",
-    "sources": [
-     {
-      "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted per-window pricing, read 2026-08-23",
-      "url": "https://www.bradleyjameswindows.com/resources/window-replacement-cost"
-     },
-     {
-      "name": "Roof Raiders, Dallas and Plano, posted window replacement prices, read 2026-08-23",
-      "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
-     },
-     {
-      "name": "The Window Connection, Dallas, posted vinyl tiers, read 2026-08-23",
-      "url": "https://dallaswindows.com/cost-of-windows.html"
-     },
-     {
-      "name": "JBN Windows, Dallas and Fort Worth, posted installed window cost page, read 2026-08-23",
-      "url": "https://jbnwindows.com/replacement-window-cost-texas/"
-     }
+  "area_codes": [
+    "214",
+    "469",
+    "972"
+  ],
+  "phone_display": "(214) 817-0398",
+  "phone_tel": "+12148170398",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "energy_code_2023",
+      "claim": "Dallas adopted its 2021 Energy Conservation Code effective May 12, 2023. Its residential fenestration tables set maximum U-factor and solar heat-gain-coefficient (SHGC) requirements, so a replacement-window specification needs to account for more than frame size and appearance.",
+      "why_it_matters": "U-factor and SHGC are practical inputs for choosing replacement glass in sun-exposed Dallas rooms. The technician checks the opening and discusses the glass package along with shade, orientation, and frame condition before the installation is scoped.",
+      "sources": [
+        "https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/DCH%20documents/pdf/code_amendments/2021_codes/23-0472.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Dallas window replacements are subject to current energy-code performance limits"
+    },
+    {
+      "id": "window_permit_rule",
+      "claim": "The City of Dallas says replacing and repairing damaged windows typically does not require a permit. Its permit FAQ also says that work affecting structural elements and exterior work in historic, conservation, or planned-development districts can follow different approval requirements.",
+      "why_it_matters": "A straightforward damaged-window replacement can be planned differently from an opening resize, structural repair, or work in a special district. The project scope should be checked before materials are ordered rather than relying on a generic doors-and-windows rule.",
+      "sources": [
+        "https://dallascityhall.com/departments/sustainabledevelopment/buildinginspection/pages/building_inspection_faqs.aspx"
+      ],
+      "verified": "2026-08-22",
+      "title": "Dallas has a window-specific permit distinction"
+    },
+    {
+      "id": "midcentury_window_stock",
+      "claim": "Dallas has extensive mid-century housing, and a Dallas history publication describes aluminum windows as a common feature of 1960s houses. Preservation Dallas has also documented properties built before 1965 across 28 Dallas neighborhoods.",
+      "why_it_matters": "Older aluminum frames, single-pane glass, narrow openings, and layered renovation work call for an on-site inspection of the frame, sill, and exterior detailing before selecting an insert, new sash, or full-window replacement.",
+      "sources": [
+        "https://texashistory.unt.edu/ark:/67531/metapth586973/m2/1/high_res_d/Legacies%20Fall%202014.pdf",
+        "https://preservationdallas.org/wp-content/uploads/2020/11/Discover-Dallas-neighborhood-directory.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Dallas mid-century homes need frame-aware window work"
+    }
+  ],
+  "neighborhoods": [
+    "Lakewood",
+    "Lochwood",
+    "Casa Linda",
+    "Kessler Park",
+    "Wynnewood North",
+    "Lake Highlands"
+  ],
+  "symptoms": [
+    "drafty_windows",
+    "foggy_window_glass",
+    "broken_window",
+    "hard_to_open_windows"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "New Windows, Lasting Comfort",
+  "trust_third": "Installation price outlined before work starts",
+  "services": [
+    {
+      "slug": "window-replacement",
+      "name": "Window Replacement",
+      "nav": "Window replacement",
+      "h1": "Window Replacement",
+      "accent": "Old Windows Replaced for Better Comfort",
+      "keyword": "window replacement",
+      "icon": "house"
+    },
+    {
+      "slug": "window-installation",
+      "name": "Window Installation",
+      "nav": "Window installation",
+      "h1": "Window Installation",
+      "accent": "New Windows Installed Precisely",
+      "keyword": "window installation",
+      "icon": "wrench"
+    },
+    {
+      "slug": "double-pane-window-replacement",
+      "name": "Double-Pane Window Replacement",
+      "nav": "Double-pane windows",
+      "h1": "Double-Pane Window Replacement",
+      "accent": "Fogged Glass Replaced for Clear Views",
+      "keyword": "double pane window replacement",
+      "icon": "eye"
+    },
+    {
+      "slug": "sliding-window-replacement",
+      "name": "Sliding Window Replacement",
+      "nav": "Sliding windows",
+      "h1": "Sliding Window Replacement",
+      "accent": "Sticking Sliders Replaced Smoothly",
+      "keyword": "sliding window replacement",
+      "icon": "gear"
+    }
+  ],
+  "symptom_service": [
+    "window-replacement",
+    "double-pane-window-replacement",
+    "window-replacement",
+    "sliding-window-replacement"
+  ],
+  "_market": {
+    "keyword": "dallas window replacement",
+    "monthly_price": 500,
+    "score": 73,
+    "volume": 200,
+    "cpc_usd": 9.0,
+    "weakest_competitor": "windowworlddfw.com",
+    "competitor_dr": 8.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Dallas window and door replacement, by the opening",
+    "anchors": [
+      {
+        "label": "Alteration or repair permit, single-family house",
+        "value": "$181 per dwelling unit",
+        "detail": "The adopted Dallas schedule prices alterations or repairs of single-family and duplex structures at $181 per dwelling unit plus $100 for additional trades, with a minimum inspection fee of $125 for one trade. No line item names windows specifically, so the scope of the job decides which line applies.",
+        "source_name": "City of Dallas development services fee schedule",
+        "source_url": "https://dallascityhall.com/departments/sustainabledevelopment/DCH%20documents/DSD%20Fees.pdf"
+      },
+      {
+        "label": "Federal window tax credit while it existed",
+        "value": "30% up to $600",
+        "detail": "The 25C credit paid 30 percent of product cost with a $600 annual cap for windows and skylights meeting the ENERGY STAR Most Efficient criteria, for products purchased and installed between January 1, 2023 and December 31, 2025.",
+        "source_name": "ENERGY STAR federal tax credits, windows and skylights",
+        "source_url": "https://www.energystar.gov/about/federal-tax-credits/windows-skylights"
+      },
+      {
+        "label": "Status of that credit for work done now",
+        "value": "Not allowed after December 31, 2025",
+        "detail": "The IRS guidance on the 2025 tax law states the credit will not be allowed for any property placed in service after December 31, 2025, so a quote that still prices in a federal rebate is quoting a credit that has closed.",
+        "source_name": "IRS FAQs on sections 25C and others under Public Law 119-21",
+        "source_url": "https://www.irs.gov/newsroom/faqs-for-modification-of-sections-25c-25d-25e-30c-30d-45l-45w-and-179d-under-public-law-119-21-139-stat-72-july-4-2025-commonly-known-as-the-one-big-beautiful-bill-obbb"
+      }
+    ],
+    "rows": [
+      {
+        "job": "One vinyl double-hung swapped into the existing opening",
+        "low": 400,
+        "high": 1350,
+        "basis": "per window installed",
+        "note": "Size, grid pattern, and tempered or obscure glass move a single opening across this whole band.",
+        "sources": [
+          {
+            "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted per-window pricing, read 2026-08-23",
+            "url": "https://www.bradleyjameswindows.com/resources/window-replacement-cost"
+          },
+          {
+            "name": "Roof Raiders, Dallas and Plano, posted window replacement prices, read 2026-08-23",
+            "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
+          },
+          {
+            "name": "The Window Connection, Dallas, posted vinyl tiers, read 2026-08-23",
+            "url": "https://dallaswindows.com/cost-of-windows.html"
+          },
+          {
+            "name": "JBN Windows, Dallas and Fort Worth, posted installed window cost page, read 2026-08-23",
+            "url": "https://jbnwindows.com/replacement-window-cost-texas/"
+          }
+        ]
+      },
+      {
+        "job": "One fiberglass or aluminum-clad wood window installed",
+        "low": 700,
+        "high": 2400,
+        "basis": "per window installed",
+        "note": "Clad wood with a custom exterior color and a factory-finished interior is what reaches the ceiling.",
+        "sources": [
+          {
+            "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted pricing by frame material, read 2026-08-23",
+            "url": "https://www.bradleyjameswindows.com/resources/window-replacement-cost"
+          },
+          {
+            "name": "Roof Raiders, Dallas and Plano, posted material pricing, read 2026-08-23",
+            "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
+          },
+          {
+            "name": "The Window Connection, Dallas, posted cost of windows page, read 2026-08-23",
+            "url": "https://dallaswindows.com/cost-of-windows.html"
+          }
+        ]
+      },
+      {
+        "job": "Whole house in vinyl, 15 to 20 openings",
+        "low": 8000,
+        "high": 25000,
+        "basis": "flat, 15 to 20 openings",
+        "note": "Second-story access, rotted wood trim, and stucco or brick returns decide where a package lands.",
+        "sources": [
+          {
+            "name": "Window Masters of East Texas, Dallas-Fort Worth, posted cost guide, read 2026-08-23",
+            "url": "https://wmetx.com/window-cost-guide-dfw"
+          },
+          {
+            "name": "The Window Connection, Dallas, posted whole-house installed figures, read 2026-08-23",
+            "url": "https://dallaswindows.com/cost-of-windows.html"
+          },
+          {
+            "name": "Roof Raiders, Dallas and Plano, posted 18-window vinyl package, read 2026-08-23",
+            "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
+          }
+        ]
+      },
+      {
+        "job": "Whole house in fiberglass or clad wood, 18 openings",
+        "low": 12600,
+        "high": 34000,
+        "basis": "flat, 18 openings",
+        "note": "Brand tier does most of the work here, and a bay or a picture wall is priced separately again.",
+        "sources": [
+          {
+            "name": "Roof Raiders, Dallas and Plano, posted 18-window fiberglass and clad wood packages, read 2026-08-23",
+            "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
+          },
+          {
+            "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted per-window pricing used at 18 openings, read 2026-08-23",
+            "url": "https://www.bradleyjameswindows.com/resources/window-replacement-cost"
+          }
+        ]
+      },
+      {
+        "job": "Fogged sealed unit swapped, frame kept",
+        "low": 165,
+        "high": 900,
+        "basis": "per window",
+        "note": "Insulated glass units start near the floor; large tempered or low-E argon units in aluminum frames cost real money.",
+        "sources": [
+          {
+            "name": "Artisan Glass, Dallas-Fort Worth, posted glass replacement prices, read 2026-08-23",
+            "url": "https://www.artisanglassdesigns.net/services/window-glass-replacement.html"
+          },
+          {
+            "name": "King's Window Services, North Texas, posted glass replacement guide, read 2026-08-23",
+            "url": "https://www.kingswindowservices.com/how-much-does-window-glass-replacement-cost-in-north-texas-2026-guide/"
+          },
+          {
+            "name": "Roof Raiders, Dallas and Plano, posted insulated glass swap pricing, read 2026-08-23",
+            "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
+          }
+        ]
+      },
+      {
+        "job": "Sliding patio door replaced",
+        "low": 1800,
+        "high": 6000,
+        "basis": "per unit installed",
+        "note": "Panel count drives it. Three and four-panel units, plus header work, sit at the top of this range.",
+        "sources": [
+          {
+            "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted door replacement pricing, read 2026-08-23",
+            "url": "https://www.bradleyjameswindows.com/resources/door-replacement-cost"
+          },
+          {
+            "name": "Brennan Enterprises, Dallas, posted Andersen sliding door unit prices, read 2026-08-23",
+            "url": "https://www.brennancorp.com/blog/how-much-does-an-andersen-sliding-patio-door-cost-in-dallas-tx/"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "One fiberglass or aluminum-clad wood window installed",
-    "low": 700,
-    "high": 2400,
-    "basis": "per window installed",
-    "note": "Clad wood with a custom exterior color and a factory-finished interior is what reaches the ceiling.",
-    "sources": [
-     {
-      "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted pricing by frame material, read 2026-08-23",
-      "url": "https://www.bradleyjameswindows.com/resources/window-replacement-cost"
-     },
-     {
-      "name": "Roof Raiders, Dallas and Plano, posted material pricing, read 2026-08-23",
-      "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
-     },
-     {
-      "name": "The Window Connection, Dallas, posted cost of windows page, read 2026-08-23",
-      "url": "https://dallaswindows.com/cost-of-windows.html"
-     }
-    ]
-   },
-   {
-    "job": "Whole house in vinyl, 15 to 20 openings",
-    "low": 8000,
-    "high": 25000,
-    "basis": "flat, 15 to 20 openings",
-    "note": "Second-story access, rotted wood trim, and stucco or brick returns decide where a package lands.",
-    "sources": [
-     {
-      "name": "Window Masters of East Texas, Dallas-Fort Worth, posted cost guide, read 2026-08-23",
-      "url": "https://wmetx.com/window-cost-guide-dfw"
-     },
-     {
-      "name": "The Window Connection, Dallas, posted whole-house installed figures, read 2026-08-23",
-      "url": "https://dallaswindows.com/cost-of-windows.html"
-     },
-     {
-      "name": "Roof Raiders, Dallas and Plano, posted 18-window vinyl package, read 2026-08-23",
-      "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
-     }
-    ]
-   },
-   {
-    "job": "Whole house in fiberglass or clad wood, 18 openings",
-    "low": 12600,
-    "high": 34000,
-    "basis": "flat, 18 openings",
-    "note": "Brand tier does most of the work here, and a bay or a picture wall is priced separately again.",
-    "sources": [
-     {
-      "name": "Roof Raiders, Dallas and Plano, posted 18-window fiberglass and clad wood packages, read 2026-08-23",
-      "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
-     },
-     {
-      "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted per-window pricing used at 18 openings, read 2026-08-23",
-      "url": "https://www.bradleyjameswindows.com/resources/window-replacement-cost"
-     }
-    ]
-   },
-   {
-    "job": "Fogged sealed unit swapped, frame kept",
-    "low": 165,
-    "high": 900,
-    "basis": "per window",
-    "note": "Insulated glass units start near the floor; large tempered or low-E argon units in aluminum frames cost real money.",
-    "sources": [
-     {
-      "name": "Artisan Glass, Dallas-Fort Worth, posted glass replacement prices, read 2026-08-23",
-      "url": "https://www.artisanglassdesigns.net/services/window-glass-replacement.html"
-     },
-     {
-      "name": "King's Window Services, North Texas, posted glass replacement guide, read 2026-08-23",
-      "url": "https://www.kingswindowservices.com/how-much-does-window-glass-replacement-cost-in-north-texas-2026-guide/"
-     },
-     {
-      "name": "Roof Raiders, Dallas and Plano, posted insulated glass swap pricing, read 2026-08-23",
-      "url": "https://roofraidersandco.com/services/window-replacement-dallas/"
-     }
-    ]
-   },
-   {
-    "job": "Sliding patio door replaced",
-    "low": 1800,
-    "high": 6000,
-    "basis": "per unit installed",
-    "note": "Panel count drives it. Three and four-panel units, plus header work, sit at the top of this range.",
-    "sources": [
-     {
-      "name": "Bradley James Windows and Doors, Dallas-Fort Worth, posted door replacement pricing, read 2026-08-23",
-      "url": "https://www.bradleyjameswindows.com/resources/door-replacement-cost"
-     },
-     {
-      "name": "Brennan Enterprises, Dallas, posted Andersen sliding door unit prices, read 2026-08-23",
-      "url": "https://www.brennancorp.com/blog/how-much-does-an-andersen-sliding-patio-door-cost-in-dallas-tx/"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

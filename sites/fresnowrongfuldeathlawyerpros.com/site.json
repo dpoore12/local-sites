@@ -1,9 +1,10 @@
 {
   "domain": "fresnowrongfuldeathlawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Fresno Wrongful Death Law Pros",
   "service": "Wrongful Death Lawyer",
   "service_inline": "wrongful death lawyer",
+  "vertical": "legal",
   "city": "Fresno",
   "state": "CA",
   "state_full": "California",
@@ -45,7 +46,7 @@
     {
       "id": "fresno_civil_venue",
       "claim": "Fresno County Superior Court states that Unlimited Civil cases are heard at the B. F. Sisk Courthouse, 1130 O Street, Fresno, CA 93721.",
-      "why_it_matters": "A wrongful death case can require an Unlimited Civil filing, but venue depends on the case facts. When Fresno Superior Court is the correct venue, the court's civil division and filing location are concrete local details rather than an abstract reference to 'the courthouse.'",
+      "why_it_matters": "A wrongful death case can require an Unlimited Civil filing, but venue depends on the case facts. When Fresno Superior Court is the correct venue, the filing goes to the civil division at the B. F. Sisk Courthouse on O Street, and the papers have to match that court's own procedures.",
       "sources": [
         "https://www.fresno.courts.ca.gov/divisions/civil/civil-unlimited"
       ],
@@ -139,7 +140,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "What California law settles about fees in a Fresno County death case, and what it leaves to the contract",
+    "table_head": "What California settles about fees, and what the contract sets",
     "col_a": "What it covers",
     "col_b": "What California sets",
     "anchors": [

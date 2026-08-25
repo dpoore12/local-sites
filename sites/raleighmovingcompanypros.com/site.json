@@ -1,9 +1,10 @@
 {
   "domain": "raleighmovingcompanypros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Raleigh Moving Services Pros",
   "service": "Moving Services",
   "service_inline": "moving services",
+  "vertical": "home",
   "city": "Raleigh",
   "state": "NC",
   "state_full": "North Carolina",

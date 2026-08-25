@@ -4,6 +4,7 @@
   "brand": "Cincinnati Personal Injury Law Pros",
   "service": "Personal Injury Lawyer",
   "service_inline": "personal injury lawyer",
+  "vertical": "legal",
   "city": "Cincinnati",
   "state": "OH",
   "state_full": "Ohio",
@@ -141,7 +142,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "What Ohio law settles in a Hamilton County injury claim, and what stays inside the signed agreement",
+    "table_head": "What Ohio settles, and what stays inside the signed agreement",
     "col_a": "The piece being decided",
     "col_b": "What Ohio actually sets",
     "anchors": [

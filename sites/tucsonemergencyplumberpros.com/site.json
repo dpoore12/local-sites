@@ -1,300 +1,301 @@
 {
- "domain": "tucsonemergencyplumberpros.com",
- "phase": 2,
- "brand": "Tucson Emergency Plumbing Pros",
- "service": "Emergency Plumbing",
- "service_inline": "emergency plumbing",
- "city": "Tucson",
- "state": "AZ",
- "state_full": "Arizona",
- "counties": [
-  "Pima"
- ],
- "area_codes": [
-  "520"
- ],
- "phone_display": "(520) 521-1268",
- "phone_tel": "+15205211268",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Phoenix",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "housing_and_caliche",
-   "title": "Older housing and desert ground",
-   "claim": "University of Arizona’s housing analysis says Tucson’s largest share of homes was built in 1970–1979. Its Cooperative Extension guide describes caliche as a desert-soil layer cemented by calcium carbonate that may form at or below the surface.",
-   "why_it_matters": "A water path in an established home can be far from the visible wet area, and below-grade access has to be planned around the actual slab, pipe route and ground rather than assumed from the symptom.",
-   "sources": [
-    "https://mapazdashboard.arizona.edu/housing-age",
-    "https://extension.arizona.edu/publication/managing-caliche-home-yard"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "plumbing_permit_threshold",
-   "title": "Tucson repair permit threshold",
-   "claim": "The City of Tucson says an accessible leak repair or clog clearing can be exempt, while repairs that replace or reroute pipes, valves or fixtures—especially inside walls, under floors or behind access panels—require a permit.",
-   "why_it_matters": "A visit can stop an emergency, but an under-floor or in-wall pipe replacement may need a documented next step instead of being treated as a simple accessible repair.",
-   "sources": [
-    "https://www.tucsonaz.gov/Departments/Planning-Development-Services/Permits/Tucson-Permit-Exemptions"
-   ],
-   "verified": "2026-08-21"
-  },
-  {
-   "id": "flood_disaster_history",
-   "title": "A documented flooding history",
-   "claim": "Pima County records six presidential-declared flood disasters in the Tucson area between July 1977 and July 1993: October 1977, March 1978, December 1978, October 1983, July 1990 and January 1993.",
-   "why_it_matters": "During heavy water events, exterior access and a property’s drainage path can affect safe arrival, assessment and the order in which an emergency plumbing problem is contained.",
-   "sources": [
-    "https://www.pima.gov/1618/Historical-Flood-Events"
-   ],
-   "verified": "2026-08-21"
-  }
- ],
- "neighborhoods": [
-  "Armory Park",
-  "Barrio Viejo",
-  "Sam Hughes",
-  "Menlo Park",
-  "El Presidio",
-  "Rita Ranch"
- ],
- "symptoms": [
-  "burst_pipe",
-  "overflowing_drain",
-  "sewage_backup",
-  "no_running_water"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Water Stopped Today, Price First",
- "trust_third": "Price quoted before emergency work starts",
- "services": [
-  {
-   "slug": "emergency-plumbing-repair",
-   "name": "Emergency Plumbing Repair",
-   "nav": "Emergency repair",
-   "h1": "Emergency Plumbing Repair",
-   "accent": "Fast Help for Active Leaks",
-   "keyword": "emergency plumbing repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "burst-pipe-repair",
-   "name": "Burst Pipe Repair",
-   "nav": "Burst pipes",
-   "h1": "Burst Pipe Repair",
-   "accent": "Pipe Repaired Before More Damage",
-   "keyword": "burst pipe repair",
-   "icon": "drop"
-  },
-  {
-   "slug": "drain-cleaning",
-   "name": "Drain Cleaning",
-   "nav": "Drain cleaning",
-   "h1": "Drain Cleaning",
-   "accent": "Clogs Cleared and Flow Restored",
-   "keyword": "drain cleaning",
-   "icon": "wrench"
-  },
-  {
-   "slug": "sewer-line-repair",
-   "name": "Sewer Line Repair",
-   "nav": "Sewer line repair",
-   "h1": "Sewer Line Repair",
-   "accent": "Backups Stopped at the Source",
-   "keyword": "sewer line repair",
-   "icon": "warn"
-  }
- ],
- "symptom_service": [
-  "burst-pipe-repair",
-  "drain-cleaning",
-  "sewer-line-repair",
-  "emergency-plumbing-repair"
- ],
- "_market": {
-  "keyword": "emergency plumber tucson",
-  "monthly_price": 1250,
-  "score": 85,
-  "volume": 250,
-  "cpc_usd": 55.0,
-  "weakest_competitor": "tucsonplumbing.com",
-  "competitor_dr": 6.0
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "Posted Tucson prices, job by job",
-  "anchors": [
-   {
-    "label": "Residential trade permit, water heater or sewer repair",
-    "value": "$118.51",
-    "detail": "One flat trade permit covers a like-for-like water heater, a sewer or building drain repair, or a water service line, including two inspections.",
-    "source_name": "City of Tucson adopted development services fee schedule",
-    "source_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/fee-schedule/adopted-year-1-fee-schedule.pdf"
-   },
-   {
-    "label": "Each additional permitted item on the same trade permit",
-    "value": "$20.70",
-    "detail": "Two or more items on one plumbing permit cost $118.51 for the first plus $20.70 for each one after it.",
-    "source_name": "City of Tucson adopted development services fee schedule",
-    "source_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/fee-schedule/adopted-year-1-fee-schedule.pdf"
-   },
-   {
-    "label": "New water service line and 5/8 inch meter, Tucson Water",
-    "value": "$2,700",
-    "detail": "Tucson Water charges $2,700 for a new service line and meter where pavement is replaced, $1,740 where it is not, and $450 to $560 to set a meter on an existing service.",
-    "source_name": "Tucson Water meter installation fees",
-    "source_url": "https://www.tucsonaz.gov/Departments/Water/Your-Water-Bill/Misc.-Rates/Water-Meter-Installation-Fees"
-   },
-   {
-    "label": "Median hourly wage, plumbers, pipefitters and steamfitters",
-    "value": "$28.40",
-    "detail": "May 2025 median for the 1,170 people in the trade across the Tucson metro area, a little over half the San Jose figure.",
-    "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
-    "source_url": "https://www.bls.gov/oes/current/oes_46060.htm"
-   }
+  "domain": "tucsonemergencyplumberpros.com",
+  "phase": 2,
+  "brand": "Tucson Emergency Plumbing Pros",
+  "service": "Emergency Plumbing",
+  "service_inline": "emergency plumbing",
+  "vertical": "home",
+  "city": "Tucson",
+  "state": "AZ",
+  "state_full": "Arizona",
+  "counties": [
+    "Pima"
   ],
-  "rows": [
-   {
-    "job": "Getting a plumber to the door and the fault identified",
-    "low": 49,
-    "high": 170,
-    "basis": "per visit",
-    "note": "Some Tucson shops post a flat diagnostic, others a trip fee tied to distance. Ask which one applies and whether it comes off the repair.",
-    "sources": [
-     {
-      "name": "Arico Plumbing, Tucson, posted service pricing, read 2026-08-23",
-      "url": "https://aricoplumbing.com/plumbing-prices/"
-     },
-     {
-      "name": "Sivart AZ Plumbing, Tucson, posted pricing page, read 2026-08-23",
-      "url": "https://sivartazplumbing.com/pricing/"
-     },
-     {
-      "name": "Right Now Plumbing and Heating, Tucson, posted trip fee range, read 2026-08-23",
-      "url": "https://rightnowplumbingtucson.com/how-much-does-a-plumber-in-tucson-cost/"
-     }
+  "area_codes": [
+    "520"
+  ],
+  "phone_display": "(520) 521-1268",
+  "phone_tel": "+15205211268",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Phoenix",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "housing_and_caliche",
+      "title": "Older housing and desert ground",
+      "claim": "University of Arizona’s housing analysis says Tucson’s largest share of homes was built in 1970–1979. Its Cooperative Extension guide describes caliche as a desert-soil layer cemented by calcium carbonate that may form at or below the surface.",
+      "why_it_matters": "A water path in an established home can be far from the visible wet area, and below-grade access has to be planned around the actual slab, pipe route and ground rather than assumed from the symptom.",
+      "sources": [
+        "https://mapazdashboard.arizona.edu/housing-age",
+        "https://extension.arizona.edu/publication/managing-caliche-home-yard"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "plumbing_permit_threshold",
+      "title": "Tucson repair permit threshold",
+      "claim": "The City of Tucson says an accessible leak repair or clog clearing can be exempt, while repairs that replace or reroute pipes, valves or fixtures—especially inside walls, under floors or behind access panels—require a permit.",
+      "why_it_matters": "A visit can stop an emergency, but an under-floor or in-wall pipe replacement may need a documented next step instead of being treated as a simple accessible repair.",
+      "sources": [
+        "https://www.tucsonaz.gov/Departments/Planning-Development-Services/Permits/Tucson-Permit-Exemptions"
+      ],
+      "verified": "2026-08-21"
+    },
+    {
+      "id": "flood_disaster_history",
+      "title": "A documented flooding history",
+      "claim": "Pima County records six presidential-declared flood disasters in the Tucson area between July 1977 and July 1993: October 1977, March 1978, December 1978, October 1983, July 1990 and January 1993.",
+      "why_it_matters": "During heavy water events, exterior access and a property’s drainage path can affect safe arrival, assessment and the order in which an emergency plumbing problem is contained.",
+      "sources": [
+        "https://www.pima.gov/1618/Historical-Flood-Events"
+      ],
+      "verified": "2026-08-21"
+    }
+  ],
+  "neighborhoods": [
+    "Armory Park",
+    "Barrio Viejo",
+    "Sam Hughes",
+    "Menlo Park",
+    "El Presidio",
+    "Rita Ranch"
+  ],
+  "symptoms": [
+    "burst_pipe",
+    "overflowing_drain",
+    "sewage_backup",
+    "no_running_water"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Water Stopped Today, Price First",
+  "trust_third": "Price quoted before emergency work starts",
+  "services": [
+    {
+      "slug": "emergency-plumbing-repair",
+      "name": "Emergency Plumbing Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Plumbing Repair",
+      "accent": "Fast Help for Active Leaks",
+      "keyword": "emergency plumbing repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "burst-pipe-repair",
+      "name": "Burst Pipe Repair",
+      "nav": "Burst pipes",
+      "h1": "Burst Pipe Repair",
+      "accent": "Pipe Repaired Before More Damage",
+      "keyword": "burst pipe repair",
+      "icon": "drop"
+    },
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "nav": "Drain cleaning",
+      "h1": "Drain Cleaning",
+      "accent": "Clogs Cleared and Flow Restored",
+      "keyword": "drain cleaning",
+      "icon": "wrench"
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "nav": "Sewer line repair",
+      "h1": "Sewer Line Repair",
+      "accent": "Backups Stopped at the Source",
+      "keyword": "sewer line repair",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "burst-pipe-repair",
+    "drain-cleaning",
+    "sewer-line-repair",
+    "emergency-plumbing-repair"
+  ],
+  "_market": {
+    "keyword": "emergency plumber tucson",
+    "monthly_price": 1250,
+    "score": 85,
+    "volume": 250,
+    "cpc_usd": 55.0,
+    "weakest_competitor": "tucsonplumbing.com",
+    "competitor_dr": 6.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Posted Tucson prices, job by job",
+    "anchors": [
+      {
+        "label": "Residential trade permit, water heater or sewer repair",
+        "value": "$118.51",
+        "detail": "One flat trade permit covers a like-for-like water heater, a sewer or building drain repair, or a water service line, including two inspections.",
+        "source_name": "City of Tucson adopted development services fee schedule",
+        "source_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/fee-schedule/adopted-year-1-fee-schedule.pdf"
+      },
+      {
+        "label": "Each additional permitted item on the same trade permit",
+        "value": "$20.70",
+        "detail": "Two or more items on one plumbing permit cost $118.51 for the first plus $20.70 for each one after it.",
+        "source_name": "City of Tucson adopted development services fee schedule",
+        "source_url": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/pdsd/documents/fee-schedule/adopted-year-1-fee-schedule.pdf"
+      },
+      {
+        "label": "New water service line and 5/8 inch meter, Tucson Water",
+        "value": "$2,700",
+        "detail": "Tucson Water charges $2,700 for a new service line and meter where pavement is replaced, $1,740 where it is not, and $450 to $560 to set a meter on an existing service.",
+        "source_name": "Tucson Water meter installation fees",
+        "source_url": "https://www.tucsonaz.gov/Departments/Water/Your-Water-Bill/Misc.-Rates/Water-Meter-Installation-Fees"
+      },
+      {
+        "label": "Median hourly wage, plumbers, pipefitters and steamfitters",
+        "value": "$28.40",
+        "detail": "May 2025 median for the 1,170 people in the trade across the Tucson metro area, a little over half the San Jose figure.",
+        "source_name": "BLS Occupational Employment and Wage Statistics, May 2025",
+        "source_url": "https://www.bls.gov/oes/current/oes_46060.htm"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Getting a plumber to the door and the fault identified",
+        "low": 49,
+        "high": 170,
+        "basis": "per visit",
+        "note": "Some Tucson shops post a flat diagnostic, others a trip fee tied to distance. Ask which one applies and whether it comes off the repair.",
+        "sources": [
+          {
+            "name": "Arico Plumbing, Tucson, posted service pricing, read 2026-08-23",
+            "url": "https://aricoplumbing.com/plumbing-prices/"
+          },
+          {
+            "name": "Sivart AZ Plumbing, Tucson, posted pricing page, read 2026-08-23",
+            "url": "https://sivartazplumbing.com/pricing/"
+          },
+          {
+            "name": "Right Now Plumbing and Heating, Tucson, posted trip fee range, read 2026-08-23",
+            "url": "https://rightnowplumbingtucson.com/how-much-does-a-plumber-in-tucson-cost/"
+          }
+        ]
+      },
+      {
+        "job": "Clogged drain cleared, from a lavatory line to the main",
+        "low": 29,
+        "high": 800,
+        "basis": "flat",
+        "note": "A sink or tub clog sits near the bottom. A main line stoppage behind a wall or under the slab sits at the top.",
+        "sources": [
+          {
+            "name": "iDesign Air and Plumbing, Tucson, posted drain clearing price, read 2026-08-23",
+            "url": "https://www.idesignac.com/"
+          },
+          {
+            "name": "Right Now Plumbing and Heating, Tucson, posted drain clearing prices, read 2026-08-23",
+            "url": "https://rightnowplumbingtucson.com/how-much-for-a-plumber-to-unclog-a-drain-in-tucson/"
+          },
+          {
+            "name": "Advantage Air Mechanical, Tucson, posted drain cleaning prices, read 2026-08-23",
+            "url": "https://advantageairmechanical.com/plumbing/drain-cleaning/"
+          }
+        ]
+      },
+      {
+        "job": "Forty gallon water heater replaced, permit and inspection included",
+        "low": 900,
+        "high": 4000,
+        "basis": "flat, unit included",
+        "note": "One Tucson installer posts an all-in figure with the city permit and inspection inside it. Tankless conversions leave that band entirely.",
+        "sources": [
+          {
+            "name": "Just Water Heaters, Tucson, posted installed price with permit, read 2026-08-23",
+            "url": "https://justwaterheaterstucson.com/"
+          },
+          {
+            "name": "Plumber of Tucson, posted water heater pricing, read 2026-08-23",
+            "url": "https://plumberoftucson.com/prices/"
+          },
+          {
+            "name": "Right Now Plumbing and Heating, Tucson, posted water heater replacement pricing, read 2026-08-23",
+            "url": "https://rightnowplumbingtucson.com/how-much-does-a-plumber-in-tucson-cost/"
+          },
+          {
+            "name": "Done Rite Services, Tucson, posted water heater pricing, read 2026-08-23",
+            "url": "https://doneritesvcs.com/plumbing/water-heaters/"
+          }
+        ]
+      },
+      {
+        "job": "Slab leak located and the line rerouted around it",
+        "low": 1075,
+        "high": 3875,
+        "basis": "detection plus reroute",
+        "note": "Totals add the posted detection charge to the posted reroute band, simple through challenging, on the same company's list.",
+        "sources": [
+          {
+            "name": "Plumber of Tucson, posted leak detection and reroute pricing, read 2026-08-23",
+            "url": "https://plumberoftucson.com/prices/"
+          },
+          {
+            "name": "AB Plumbing, Tucson, posted slab leak pricing, read 2026-08-23",
+            "url": "https://abplumbingllc.com/slab-leak-repair-tucson/"
+          },
+          {
+            "name": "Tucson Plumber Services, posted leak detection and repair pricing, read 2026-08-23",
+            "url": "https://tucsonplumberservices.com/"
+          }
+        ]
+      },
+      {
+        "job": "Sewer line replaced, spot repair through full line",
+        "low": 280,
+        "high": 15000,
+        "basis": "varies with length and method",
+        "note": "Caliche and rock make trenching slow here, which is why lining is quoted per foot against a full open cut replacement.",
+        "sources": [
+          {
+            "name": "Advantage Air Mechanical, Tucson, posted sewer replacement pricing, read 2026-08-23",
+            "url": "https://advantageairmechanical.com/plumbing/sewer-line-repair/"
+          },
+          {
+            "name": "Tucson Plumbing and Drain, posted trenchless and replacement pricing, read 2026-08-23",
+            "url": "https://tucsonplumbinganddrain.com/trenchless-sewer-repair-tucson/"
+          },
+          {
+            "name": "Tucson Plumber Services, posted sewer pricing per linear foot, read 2026-08-23",
+            "url": "https://tucsonplumberservices.com/"
+          }
+        ]
+      },
+      {
+        "job": "Whole house repipe, PEX or copper",
+        "low": 4500,
+        "high": 25000,
+        "basis": "flat",
+        "note": "PEX in a three bedroom house sits low with permits and patching included. Copper in a larger house is the top of this range.",
+        "sources": [
+          {
+            "name": "iDesign Air and Plumbing, Tucson, posted repipe pricing, read 2026-08-23",
+            "url": "https://www.idesignac.com/services/repipe-tucson"
+          },
+          {
+            "name": "Repipe Specialists, Tucson, posted repipe range, read 2026-08-23",
+            "url": "https://tucson.repipe.com/"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "Clogged drain cleared, from a lavatory line to the main",
-    "low": 29,
-    "high": 800,
-    "basis": "flat",
-    "note": "A sink or tub clog sits near the bottom. A main line stoppage behind a wall or under the slab sits at the top.",
-    "sources": [
-     {
-      "name": "iDesign Air and Plumbing, Tucson, posted drain clearing price, read 2026-08-23",
-      "url": "https://www.idesignac.com/"
-     },
-     {
-      "name": "Right Now Plumbing and Heating, Tucson, posted drain clearing prices, read 2026-08-23",
-      "url": "https://rightnowplumbingtucson.com/how-much-for-a-plumber-to-unclog-a-drain-in-tucson/"
-     },
-     {
-      "name": "Advantage Air Mechanical, Tucson, posted drain cleaning prices, read 2026-08-23",
-      "url": "https://advantageairmechanical.com/plumbing/drain-cleaning/"
-     }
-    ]
-   },
-   {
-    "job": "Forty gallon water heater replaced, permit and inspection included",
-    "low": 900,
-    "high": 4000,
-    "basis": "flat, unit included",
-    "note": "One Tucson installer posts an all-in figure with the city permit and inspection inside it. Tankless conversions leave that band entirely.",
-    "sources": [
-     {
-      "name": "Just Water Heaters, Tucson, posted installed price with permit, read 2026-08-23",
-      "url": "https://justwaterheaterstucson.com/"
-     },
-     {
-      "name": "Plumber of Tucson, posted water heater pricing, read 2026-08-23",
-      "url": "https://plumberoftucson.com/prices/"
-     },
-     {
-      "name": "Right Now Plumbing and Heating, Tucson, posted water heater replacement pricing, read 2026-08-23",
-      "url": "https://rightnowplumbingtucson.com/how-much-does-a-plumber-in-tucson-cost/"
-     },
-     {
-      "name": "Done Rite Services, Tucson, posted water heater pricing, read 2026-08-23",
-      "url": "https://doneritesvcs.com/plumbing/water-heaters/"
-     }
-    ]
-   },
-   {
-    "job": "Slab leak located and the line rerouted around it",
-    "low": 1075,
-    "high": 3875,
-    "basis": "detection plus reroute",
-    "note": "Totals add the posted detection charge to the posted reroute band, simple through challenging, on the same company's list.",
-    "sources": [
-     {
-      "name": "Plumber of Tucson, posted leak detection and reroute pricing, read 2026-08-23",
-      "url": "https://plumberoftucson.com/prices/"
-     },
-     {
-      "name": "AB Plumbing, Tucson, posted slab leak pricing, read 2026-08-23",
-      "url": "https://abplumbingllc.com/slab-leak-repair-tucson/"
-     },
-     {
-      "name": "Tucson Plumber Services, posted leak detection and repair pricing, read 2026-08-23",
-      "url": "https://tucsonplumberservices.com/"
-     }
-    ]
-   },
-   {
-    "job": "Sewer line replaced, spot repair through full line",
-    "low": 280,
-    "high": 15000,
-    "basis": "varies with length and method",
-    "note": "Caliche and rock make trenching slow here, which is why lining is quoted per foot against a full open cut replacement.",
-    "sources": [
-     {
-      "name": "Advantage Air Mechanical, Tucson, posted sewer replacement pricing, read 2026-08-23",
-      "url": "https://advantageairmechanical.com/plumbing/sewer-line-repair/"
-     },
-     {
-      "name": "Tucson Plumbing and Drain, posted trenchless and replacement pricing, read 2026-08-23",
-      "url": "https://tucsonplumbinganddrain.com/trenchless-sewer-repair-tucson/"
-     },
-     {
-      "name": "Tucson Plumber Services, posted sewer pricing per linear foot, read 2026-08-23",
-      "url": "https://tucsonplumberservices.com/"
-     }
-    ]
-   },
-   {
-    "job": "Whole house repipe, PEX or copper",
-    "low": 4500,
-    "high": 25000,
-    "basis": "flat",
-    "note": "PEX in a three bedroom house sits low with permits and patching included. Copper in a larger house is the top of this range.",
-    "sources": [
-     {
-      "name": "iDesign Air and Plumbing, Tucson, posted repipe pricing, read 2026-08-23",
-      "url": "https://www.idesignac.com/services/repipe-tucson"
-     },
-     {
-      "name": "Repipe Specialists, Tucson, posted repipe range, read 2026-08-23",
-      "url": "https://tucson.repipe.com/"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

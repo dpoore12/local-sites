@@ -1,219 +1,220 @@
 {
- "domain": "fortlauderdaledomesticviolencelawyer.com",
- "phase": 1,
- "brand": "Fort Lauderdale Domestic Violence Law Pros",
- "service": "Domestic Violence Lawyer",
- "service_inline": "domestic violence lawyer",
- "city": "Fort Lauderdale",
- "state": "FL",
- "state_full": "Florida",
- "counties": [
-  "Broward"
- ],
- "area_codes": [
-  "754",
-  "954"
- ],
- "phone_display": "(754) 291-8480",
- "phone_tel": "+17542918480",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "broward_clerk_injunction_path",
-   "claim": "The Broward County Clerk accepts domestic-violence injunction petitions through the ePortal or in person, charges no filing fee, makes the decision on an accepted petition the same day, and says that if an injunction is granted the hearing is within 15 days or fewer.",
-   "why_it_matters": "An injunction petition in Fort Lauderdale is not a generic form that waits in a queue for weeks. The same-day decision and short hearing window make it important to keep the ruling, hearing notice, and supporting records organized from the start.",
-   "sources": [
-    "https://www.browardclerk.org/Divisions/DomesticViolence"
-   ],
-   "verified": "2026-08-22",
-   "title": "Broward’s injunction filing path can move the same day"
-  },
-  {
-   "id": "civil_criminal_separation",
-   "claim": "Florida Courts explains that an injunction is handled in civil court, while a related arrest or criminal charge is handled in criminal court; the injunction hearing is separate from the criminal case and is recorded.",
-   "why_it_matters": "A person in Fort Lauderdale may have an injunction hearing and a criminal case tied to the same events. The documents, court obligations, and risks of speaking can overlap without becoming one case, so both files need to be identified and reviewed.",
-   "sources": [
-    "https://www.flcourts.gov/Resources-Services/Office-of-Family-Courts/Family-Court-in-Florida/Domestic-Violence/Overview-for-Respondents"
-   ],
-   "verified": "2026-08-22",
-   "title": "An injunction and a criminal charge are separate court matters"
-  },
-  {
-   "id": "seventeenth_judicial_circuit",
-   "claim": "The Seventeenth Judicial Circuit is the circuit court for Broward County and is headquartered in Fort Lauderdale.",
-   "why_it_matters": "Broward injunction hearings and related circuit-court matters are administered locally through this circuit. The hearing notice—not a general assumption about court location—controls where and when a person must appear.",
-   "sources": [
-    "https://news.flcourts.gov/All-Court-News/The-17th-Judicial-Circuit-Welcomes-Our-Newest-Judge-Johnathan-D.-Lott"
-   ],
-   "verified": "2026-08-22",
-   "title": "Broward’s circuit court is based in Fort Lauderdale"
-  }
- ],
- "neighborhoods": [
-  "Flagler Village",
-  "Victoria Park",
-  "Las Olas Isles",
-  "Rio Vista",
-  "Sailboat Bend",
-  "Central Beach"
- ],
- "symptoms": [
-  "domestic_violence_charge",
-  "protective_order_served",
-  "restraining_order_hearing",
-  "accused_of_order_violation"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "criminal",
-  "table_head": "What Florida forbids in a defense fee, and the amounts Broward County attaches to each track",
-  "col_a": "The item",
-  "col_b": "What the rule, statute or clerk sets",
-  "anchors": [
-   {
-    "label": "Contingent fee for a criminal defendant",
-    "value": "Prohibited",
-    "detail": "A lawyer must not enter into an arrangement for, charge, or collect a contingent fee for representing a defendant in a criminal case. A battery charge under chapter 741 is a criminal case.",
-    "source_name": "R. Regulating Fla. Bar 4-1.5(f)(3)(B)",
-    "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
-   },
-   {
-    "label": "Filing fee for a petition for protection",
-    "value": "$0",
-    "detail": "Assessment of a filing fee for a petition for protection against domestic violence is prohibited, and no bond is required for entry of an injunction.",
-    "source_name": "Fla. Stat. 741.30(2)(a)",
-    "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.30"
-   },
-   {
-    "label": "Surcharge on a domestic violence offense",
-    "value": "$201",
-    "detail": "The court shall impose it on a conviction, with $85 to the Domestic Violence Trust Fund. Payment is a condition of probation or other court-ordered supervision.",
-    "source_name": "Fla. Stat. 938.08",
-    "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/938.08"
-   },
-   {
-    "label": "Application for court-appointed counsel",
-    "value": "$50",
-    "detail": "Paid to the Broward County Clerk of Courts for each application filed, by cash, money order or online payment.",
-    "source_name": "Broward County Clerk of Courts, felony division",
-    "source_url": "https://www.browardclerk.org/Divisions/Felony"
-   }
+  "domain": "fortlauderdaledomesticviolencelawyer.com",
+  "phase": 2,
+  "brand": "Fort Lauderdale Domestic Violence Law Pros",
+  "service": "Domestic Violence Lawyer",
+  "service_inline": "domestic violence lawyer",
+  "vertical": "legal",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Broward"
   ],
-  "fee_rows": [
-   {
-    "stage": "A defense fee measured by the result",
-    "share": "Prohibited",
-    "note": "Subparagraph (f)(3)(B) bars a contingent fee for a criminal defendant. The neighboring provision, (f)(3)(A), covers domestic relations matters and does not apply to a prosecution.",
-    "source_name": "R. Regulating Fla. Bar 4-1.5(f)(3)(B)",
-    "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
-   },
-   {
-    "stage": "Filing the injunction petition",
-    "share": "No fee, no bond",
-    "note": "The statute prohibits a filing fee and reimburses the clerk $40 per petition, out of which the serving law enforcement agency receives a fee that may not exceed $20.",
-    "source_name": "Fla. Stat. 741.30(2)(a)",
-    "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.30"
-   },
-   {
-    "stage": "Probation and the intervention program",
-    "share": "Minimum one year",
-    "note": "On a finding of guilt, a withheld adjudication or a plea of nolo contendere to a crime of domestic violence, the court shall order at least a year of probation with a batterers' intervention program as a condition.",
-    "source_name": "Fla. Stat. 741.281",
-    "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.281"
-   },
-   {
-    "stage": "Statutory minimum jail on a finding of bodily harm",
-    "share": "10 / 15 / 20 days",
-    "note": "First, second and third or subsequent offense, rising to 15, 20 and 30 days where the offense occurred in the presence of a family or household member under sixteen.",
-    "source_name": "Fla. Stat. 741.283(1)",
-    "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.283"
-   },
-   {
-    "stage": "Maximum sentence on a first-degree misdemeanor",
-    "share": "Up to one year",
-    "note": "Battery is a first-degree misdemeanor unless a prior battery conviction makes it a third-degree felony, and a first-degree misdemeanor carries a definite term not exceeding one year.",
-    "source_name": "Fla. Stat. 775.082(4)(a) and 784.03",
-    "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/775.082"
-   },
-   {
-    "stage": "Sealing or expunging the record afterward",
-    "share": "$75 plus $42",
-    "note": "The Broward clerk lists the initial Florida Department of Law Enforcement charge and a statutory processing fee, with the instruction packet at sixty cents and copy and certification charges on top.",
-    "source_name": "Broward County Clerk of Courts, felony division",
-    "source_url": "https://www.browardclerk.org/Divisions/Felony"
-   }
-  ]
- },
- "hero_accent": "Rights and Next Steps Clearly Explained",
- "trust_third": "Sensitive matters handled with clarity and care",
- "services": [
-  {
-   "slug": "domestic-violence-defense-lawyer",
-   "name": "Domestic Violence Defense",
-   "nav": "Domestic violence defense",
-   "h1": "Domestic Violence Defense Lawyer",
-   "accent": "Charges, Evidence and Case Stages",
-   "keyword": "domestic violence defense lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "754",
+    "954"
+  ],
+  "phone_display": "(754) 291-8480",
+  "phone_tel": "+17542918480",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "protective-order-defense",
-   "name": "Protective Order Defense",
-   "nav": "Protective order defense",
-   "h1": "Protective Order Defense Lawyer",
-   "accent": "Order Terms and Hearing Process",
-   "keyword": "protective order defense lawyer",
-   "icon": "check"
+  "local_facts": [
+    {
+      "id": "broward_clerk_injunction_path",
+      "claim": "The Broward County Clerk accepts domestic-violence injunction petitions through the ePortal or in person, charges no filing fee, makes the decision on an accepted petition the same day, and says that if an injunction is granted the hearing is within 15 days or fewer.",
+      "why_it_matters": "An injunction petition in Fort Lauderdale is not a generic form that waits in a queue for weeks. The same-day decision and short hearing window make it important to keep the ruling, hearing notice, and supporting records organized from the start.",
+      "sources": [
+        "https://www.browardclerk.org/Divisions/DomesticViolence"
+      ],
+      "verified": "2026-08-22",
+      "title": "Broward’s injunction filing path can move the same day"
+    },
+    {
+      "id": "civil_criminal_separation",
+      "claim": "Florida Courts explains that an injunction is handled in civil court, while a related arrest or criminal charge is handled in criminal court; the injunction hearing is separate from the criminal case and is recorded.",
+      "why_it_matters": "A person in Fort Lauderdale may have an injunction hearing and a criminal case tied to the same events. The documents, court obligations, and risks of speaking can overlap without becoming one case, so both files need to be identified and reviewed.",
+      "sources": [
+        "https://www.flcourts.gov/Resources-Services/Office-of-Family-Courts/Family-Court-in-Florida/Domestic-Violence/Overview-for-Respondents"
+      ],
+      "verified": "2026-08-22",
+      "title": "An injunction and a criminal charge are separate court matters"
+    },
+    {
+      "id": "seventeenth_judicial_circuit",
+      "claim": "The Seventeenth Judicial Circuit is the circuit court for Broward County and is headquartered in Fort Lauderdale.",
+      "why_it_matters": "Broward injunction hearings and related circuit-court matters are administered locally through this circuit. The hearing notice—not a general assumption about court location—controls where and when a person must appear.",
+      "sources": [
+        "https://news.flcourts.gov/All-Court-News/The-17th-Judicial-Circuit-Welcomes-Our-Newest-Judge-Johnathan-D.-Lott"
+      ],
+      "verified": "2026-08-22",
+      "title": "Broward’s circuit court is based in Fort Lauderdale"
+    }
+  ],
+  "neighborhoods": [
+    "Flagler Village",
+    "Victoria Park",
+    "Las Olas Isles",
+    "Rio Vista",
+    "Sailboat Bend",
+    "Central Beach"
+  ],
+  "symptoms": [
+    "domestic_violence_charge",
+    "protective_order_served",
+    "restraining_order_hearing",
+    "accused_of_order_violation"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "restraining-order-hearing",
-   "name": "Restraining Order Hearings",
-   "nav": "Restraining order hearing",
-   "h1": "Restraining Order Hearing Lawyer",
-   "accent": "Evidence, Notices and Hearing Dates",
-   "keyword": "restraining order hearing lawyer",
-   "icon": "search"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "criminal",
+    "table_head": "What Florida forbids in a defense fee, and the amounts Broward County attaches to each track",
+    "col_a": "The item",
+    "col_b": "What the rule, statute or clerk sets",
+    "anchors": [
+      {
+        "label": "Contingent fee for a criminal defendant",
+        "value": "Prohibited",
+        "detail": "A lawyer must not enter into an arrangement for, charge, or collect a contingent fee for representing a defendant in a criminal case. A battery charge under chapter 741 is a criminal case.",
+        "source_name": "R. Regulating Fla. Bar 4-1.5(f)(3)(B)",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "label": "Filing fee for a petition for protection",
+        "value": "$0",
+        "detail": "Assessment of a filing fee for a petition for protection against domestic violence is prohibited, and no bond is required for entry of an injunction.",
+        "source_name": "Fla. Stat. 741.30(2)(a)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.30"
+      },
+      {
+        "label": "Surcharge on a domestic violence offense",
+        "value": "$201",
+        "detail": "The court shall impose it on a conviction, with $85 to the Domestic Violence Trust Fund. Payment is a condition of probation or other court-ordered supervision.",
+        "source_name": "Fla. Stat. 938.08",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/938.08"
+      },
+      {
+        "label": "Application for court-appointed counsel",
+        "value": "$50",
+        "detail": "Paid to the Broward County Clerk of Courts for each application filed, by cash, money order or online payment.",
+        "source_name": "Broward County Clerk of Courts, felony division",
+        "source_url": "https://www.browardclerk.org/Divisions/Felony"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "A defense fee measured by the result",
+        "share": "Prohibited",
+        "note": "Subparagraph (f)(3)(B) bars a contingent fee for a criminal defendant. The neighboring provision, (f)(3)(A), covers domestic relations matters and does not apply to a prosecution.",
+        "source_name": "R. Regulating Fla. Bar 4-1.5(f)(3)(B)",
+        "source_url": "https://www-media.floridabar.org/uploads/2026/06/2026_12-JUNE-Chapter-4-RRTFB-1.pdf"
+      },
+      {
+        "stage": "Filing the injunction petition",
+        "share": "No fee, no bond",
+        "note": "The statute prohibits a filing fee and reimburses the clerk $40 per petition, out of which the serving law enforcement agency receives a fee that may not exceed $20.",
+        "source_name": "Fla. Stat. 741.30(2)(a)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.30"
+      },
+      {
+        "stage": "Probation and the intervention program",
+        "share": "Minimum one year",
+        "note": "On a finding of guilt, a withheld adjudication or a plea of nolo contendere to a crime of domestic violence, the court shall order at least a year of probation with a batterers' intervention program as a condition.",
+        "source_name": "Fla. Stat. 741.281",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.281"
+      },
+      {
+        "stage": "Statutory minimum jail on a finding of bodily harm",
+        "share": "10 / 15 / 20 days",
+        "note": "First, second and third or subsequent offense, rising to 15, 20 and 30 days where the offense occurred in the presence of a family or household member under sixteen.",
+        "source_name": "Fla. Stat. 741.283(1)",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/741.283"
+      },
+      {
+        "stage": "Maximum sentence on a first-degree misdemeanor",
+        "share": "Up to one year",
+        "note": "Battery is a first-degree misdemeanor unless a prior battery conviction makes it a third-degree felony, and a first-degree misdemeanor carries a definite term not exceeding one year.",
+        "source_name": "Fla. Stat. 775.082(4)(a) and 784.03",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/775.082"
+      },
+      {
+        "stage": "Sealing or expunging the record afterward",
+        "share": "$75 plus $42",
+        "note": "The Broward clerk lists the initial Florida Department of Law Enforcement charge and a statutory processing fee, with the instruction packet at sixty cents and copy and certification charges on top.",
+        "source_name": "Broward County Clerk of Courts, felony division",
+        "source_url": "https://www.browardclerk.org/Divisions/Felony"
+      }
+    ]
   },
-  {
-   "slug": "order-violation-defense",
-   "name": "Order Violation Defense",
-   "nav": "Order violations",
-   "h1": "Protective Order Violation Lawyer",
-   "accent": "Alleged Violations and Defense Options",
-   "keyword": "protective order violation lawyer",
-   "icon": "bolt"
+  "hero_accent": "Rights and Next Steps Clearly Explained",
+  "trust_third": "Sensitive matters handled with clarity and care",
+  "services": [
+    {
+      "slug": "domestic-violence-defense-lawyer",
+      "name": "Domestic Violence Defense",
+      "nav": "Domestic violence defense",
+      "h1": "Domestic Violence Defense Lawyer",
+      "accent": "Charges, Evidence and Case Stages",
+      "keyword": "domestic violence defense lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "protective-order-defense",
+      "name": "Protective Order Defense",
+      "nav": "Protective order defense",
+      "h1": "Protective Order Defense Lawyer",
+      "accent": "Order Terms and Hearing Process",
+      "keyword": "protective order defense lawyer",
+      "icon": "check"
+    },
+    {
+      "slug": "restraining-order-hearing",
+      "name": "Restraining Order Hearings",
+      "nav": "Restraining order hearing",
+      "h1": "Restraining Order Hearing Lawyer",
+      "accent": "Evidence, Notices and Hearing Dates",
+      "keyword": "restraining order hearing lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "order-violation-defense",
+      "name": "Order Violation Defense",
+      "nav": "Order violations",
+      "h1": "Protective Order Violation Lawyer",
+      "accent": "Alleged Violations and Defense Options",
+      "keyword": "protective order violation lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "domestic-violence-defense-lawyer",
+    "protective-order-defense",
+    "restraining-order-hearing",
+    "order-violation-defense"
+  ],
+  "_market": {
+    "keyword": "fort lauderdale domestic violence lawyer",
+    "monthly_price": 650,
+    "score": 89,
+    "volume": 200,
+    "cpc_usd": 75.0,
+    "weakest_competitor": "browardcriminalteam.com",
+    "competitor_dr": 15.0
   }
- ],
- "symptom_service": [
-  "domestic-violence-defense-lawyer",
-  "protective-order-defense",
-  "restraining-order-hearing",
-  "order-violation-defense"
- ],
- "_market": {
-  "keyword": "fort lauderdale domestic violence lawyer",
-  "monthly_price": 650,
-  "score": 89,
-  "volume": 200,
-  "cpc_usd": 75.0,
-  "weakest_competitor": "browardcriminalteam.com",
-  "competitor_dr": 15.0
- }
 }

@@ -1,312 +1,313 @@
 {
- "domain": "kansascityemergencyplumber.com",
- "phase": 1,
- "brand": "Kansas City Emergency Plumbing Pros",
- "service": "Emergency Plumbing",
- "service_inline": "emergency plumbing",
- "city": "Kansas City",
- "state": "MO",
- "state_full": "Missouri",
- "counties": [
-  "Jackson",
-  "Clay",
-  "Platte"
- ],
- "area_codes": [
-  "816"
- ],
- "phone_display": "(816) 264-1558",
- "phone_tel": "+18162641558",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Chicago",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "freeze_2021",
-   "claim": "National Weather Service records for Kansas City show minimum temperatures of -6°F on February 14, -10°F on February 15, and -13°F on February 16, 2021.",
-   "why_it_matters": "A hard freeze is not only a comfort problem. Pipes in exterior walls, garages, crawlspaces, and unheated areas can freeze; a failure may become visible as the pipe thaws. An active leak needs to be isolated before the repair is priced and made.",
-   "sources": [
-    "https://www.weather.gov/eax/kcrecnorm-feb"
-   ],
-   "verified": "2026-08-21",
-   "title": "Kansas City has documented hard-freeze exposure"
-  },
-  {
-   "id": "cast_iron_housing",
-   "claim": "A Kansas City home-inspection source says cast-iron drain, waste, and vent piping was standard in homes built from the 1950s through the early 1980s, and documents original lead and cast-iron pipe at a 60-year-old Bannister Slopes home.",
-   "why_it_matters": "House age does not diagnose a backup, but it is a useful reason to identify pipe material and inspect a repeat problem rather than assuming every slow drain is a routine fixture clog. Cast iron needs its own condition check after flow is restored.",
-   "sources": [
-    "https://bulldoginspect.com/cast-iron-drain-lines-kansas-city-mo-homes/"
-   ],
-   "verified": "2026-08-21",
-   "title": "Older homes can have cast-iron drain systems"
-  },
-  {
-   "id": "two_states_two_systems",
-   "claim": "Kansas City, Missouri says permits are needed before most plumbing work, while the Board of Public Utilities says it serves water customers in Kansas City, Kansas. The shared metro name does not mean the two sides use the same permitting or water-service authority.",
-   "why_it_matters": "For a visit or a follow-up that becomes replacement work, the full street address and state determine which local utility and permitting information applies. This page is written for Kansas City, Missouri rather than treating the metro as one jurisdiction.",
-   "sources": [
-    "https://www.kcmo.gov/city-hall/departments/city-planning-development/electrical-plumbing-and-mechanical-permits",
-    "https://www.bpu.com/forhome/waterservice.aspx"
-   ],
-   "verified": "2026-08-21",
-   "title": "The State Line changes the local utility and permit path"
-  }
- ],
- "neighborhoods": [
-  "River Market",
-  "Westport",
-  "Hyde Park",
-  "Brookside",
-  "Waldo",
-  "Pendleton Heights"
- ],
- "symptoms": [
-  "burst_pipe",
-  "overflowing_drain",
-  "sewage_backup",
-  "no_running_water"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Water Stopped Today, Price First",
- "trust_third": "Price quoted before emergency work starts",
- "services": [
-  {
-   "slug": "emergency-plumbing-repair",
-   "name": "Emergency Plumbing Repair",
-   "nav": "Emergency repair",
-   "h1": "Emergency Plumbing Repair",
-   "accent": "Fast Help for Active Leaks",
-   "keyword": "emergency plumbing repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "burst-pipe-repair",
-   "name": "Burst Pipe Repair",
-   "nav": "Burst pipes",
-   "h1": "Burst Pipe Repair",
-   "accent": "Pipe Repaired Before More Damage",
-   "keyword": "burst pipe repair",
-   "icon": "drop"
-  },
-  {
-   "slug": "drain-cleaning",
-   "name": "Drain Cleaning",
-   "nav": "Drain cleaning",
-   "h1": "Drain Cleaning",
-   "accent": "Clogs Cleared and Flow Restored",
-   "keyword": "drain cleaning",
-   "icon": "wrench"
-  },
-  {
-   "slug": "sewer-line-repair",
-   "name": "Sewer Line Repair",
-   "nav": "Sewer line repair",
-   "h1": "Sewer Line Repair",
-   "accent": "Backups Stopped at the Source",
-   "keyword": "sewer line repair",
-   "icon": "warn"
-  }
- ],
- "symptom_service": [
-  "burst-pipe-repair",
-  "drain-cleaning",
-  "sewer-line-repair",
-  "emergency-plumbing-repair"
- ],
- "_market": {
-  "keyword": "emergency plumber kansas city",
-  "monthly_price": 800,
-  "score": 67,
-  "volume": 500,
-  "cpc_usd": 50.0,
-  "weakest_competitor": "rotorooter.com",
-  "competitor_dr": 74.0
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "What plumbing emergencies cost on the Missouri side of Kansas City",
-  "anchors": [
-   {
-    "label": "Plumbing permit, one- and two-family dwellings",
-    "value": "$52 minimum",
-    "detail": "The city's valuation table sets $52 for work valued up to $1,000, $58 for the first $2,000, then $4.33 for each additional $1,000 of job value.",
-    "source_name": "Kansas City Code of Ordinances Sec. 18-20",
-    "source_url": "https://kansascity-mo.elaws.us/code/coor_ch18_arti_sec18-20"
-   },
-   {
-    "label": "Water service permit, KC Water",
-    "value": "$100",
-    "detail": "Charged per permit whether a tap is made, a new service installed, or an existing service altered, extended, renewed or repaired from the first valve to the building.",
-    "source_name": "KC Water rate book, schedule of fees and charges",
-    "source_url": "https://www.kcwater.us/wp-content/uploads/2026/03/Rate-Book-FY-2027_031726-1.pdf"
-   },
-   {
-    "label": "Restoring service after a meter or tap is pulled",
-    "value": "$610",
-    "detail": "What the utility charges to restore terminated service once it has removed a meter or a tap at the main, in addition to any permit or tap charges owed.",
-    "source_name": "KC Water rate book, schedule of fees and charges",
-    "source_url": "https://www.kcwater.us/wp-content/uploads/2026/03/Rate-Book-FY-2027_031726-1.pdf"
-   }
+  "domain": "kansascityemergencyplumber.com",
+  "phase": 2,
+  "brand": "Kansas City Emergency Plumbing Pros",
+  "service": "Emergency Plumbing",
+  "service_inline": "emergency plumbing",
+  "vertical": "home",
+  "city": "Kansas City",
+  "state": "MO",
+  "state_full": "Missouri",
+  "counties": [
+    "Jackson",
+    "Clay",
+    "Platte"
   ],
-  "rows": [
-   {
-    "job": "Off-hours call for a burst line or an active leak",
-    "low": 90,
-    "high": 250,
-    "basis": "per visit",
-    "note": "Most Kansas City shops post flat rates and no trip charge.",
-    "sources": [
-     {
-      "name": "John the Plumber, Kansas City, posted rates, read 2026-08-23",
-      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
-     },
-     {
-      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
-     },
-     {
-      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
-     }
+  "area_codes": [
+    "816"
+  ],
+  "phone_display": "(816) 264-1558",
+  "phone_tel": "+18162641558",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "freeze_2021",
+      "claim": "National Weather Service records for Kansas City show minimum temperatures of -6°F on February 14, -10°F on February 15, and -13°F on February 16, 2021.",
+      "why_it_matters": "A hard freeze is not only a comfort problem. Pipes in exterior walls, garages, crawlspaces, and unheated areas can freeze; a failure may become visible as the pipe thaws. An active leak needs to be isolated before the repair is priced and made.",
+      "sources": [
+        "https://www.weather.gov/eax/kcrecnorm-feb"
+      ],
+      "verified": "2026-08-21",
+      "title": "Kansas City has documented hard-freeze exposure"
+    },
+    {
+      "id": "cast_iron_housing",
+      "claim": "A Kansas City home-inspection source says cast-iron drain, waste, and vent piping was standard in homes built from the 1950s through the early 1980s, and documents original lead and cast-iron pipe at a 60-year-old Bannister Slopes home.",
+      "why_it_matters": "House age does not diagnose a backup, but it is a useful reason to identify pipe material and inspect a repeat problem rather than assuming every slow drain is a routine fixture clog. Cast iron needs its own condition check after flow is restored.",
+      "sources": [
+        "https://bulldoginspect.com/cast-iron-drain-lines-kansas-city-mo-homes/"
+      ],
+      "verified": "2026-08-21",
+      "title": "Older homes can have cast-iron drain systems"
+    },
+    {
+      "id": "two_states_two_systems",
+      "claim": "Kansas City, Missouri says permits are needed before most plumbing work, while the Board of Public Utilities says it serves water customers in Kansas City, Kansas. The shared metro name does not mean the two sides use the same permitting or water-service authority.",
+      "why_it_matters": "For a visit or a follow-up that becomes replacement work, the full street address and state determine which local utility and permitting information applies. This page is written for Kansas City, Missouri rather than treating the metro as one jurisdiction.",
+      "sources": [
+        "https://www.kcmo.gov/city-hall/departments/city-planning-development/electrical-plumbing-and-mechanical-permits",
+        "https://www.bpu.com/forhome/waterservice.aspx"
+      ],
+      "verified": "2026-08-21",
+      "title": "The State Line changes the local utility and permit path"
+    }
+  ],
+  "neighborhoods": [
+    "River Market",
+    "Westport",
+    "Hyde Park",
+    "Brookside",
+    "Waldo",
+    "Pendleton Heights"
+  ],
+  "symptoms": [
+    "burst_pipe",
+    "overflowing_drain",
+    "sewage_backup",
+    "no_running_water"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Water Stopped Today, Price First",
+  "trust_third": "Price quoted before emergency work starts",
+  "services": [
+    {
+      "slug": "emergency-plumbing-repair",
+      "name": "Emergency Plumbing Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Plumbing Repair",
+      "accent": "Fast Help for Active Leaks",
+      "keyword": "emergency plumbing repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "burst-pipe-repair",
+      "name": "Burst Pipe Repair",
+      "nav": "Burst pipes",
+      "h1": "Burst Pipe Repair",
+      "accent": "Pipe Repaired Before More Damage",
+      "keyword": "burst pipe repair",
+      "icon": "drop"
+    },
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "nav": "Drain cleaning",
+      "h1": "Drain Cleaning",
+      "accent": "Clogs Cleared and Flow Restored",
+      "keyword": "drain cleaning",
+      "icon": "wrench"
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "nav": "Sewer line repair",
+      "h1": "Sewer Line Repair",
+      "accent": "Backups Stopped at the Source",
+      "keyword": "sewer line repair",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "burst-pipe-repair",
+    "drain-cleaning",
+    "sewer-line-repair",
+    "emergency-plumbing-repair"
+  ],
+  "_market": {
+    "keyword": "emergency plumber kansas city",
+    "monthly_price": 800,
+    "score": 67,
+    "volume": 500,
+    "cpc_usd": 50.0,
+    "weakest_competitor": "rotorooter.com",
+    "competitor_dr": 74.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What plumbing emergencies cost on the Missouri side of Kansas City",
+    "anchors": [
+      {
+        "label": "Plumbing permit, one- and two-family dwellings",
+        "value": "$52 minimum",
+        "detail": "The city's valuation table sets $52 for work valued up to $1,000, $58 for the first $2,000, then $4.33 for each additional $1,000 of job value.",
+        "source_name": "Kansas City Code of Ordinances Sec. 18-20",
+        "source_url": "https://kansascity-mo.elaws.us/code/coor_ch18_arti_sec18-20"
+      },
+      {
+        "label": "Water service permit, KC Water",
+        "value": "$100",
+        "detail": "Charged per permit whether a tap is made, a new service installed, or an existing service altered, extended, renewed or repaired from the first valve to the building.",
+        "source_name": "KC Water rate book, schedule of fees and charges",
+        "source_url": "https://www.kcwater.us/wp-content/uploads/2026/03/Rate-Book-FY-2027_031726-1.pdf"
+      },
+      {
+        "label": "Restoring service after a meter or tap is pulled",
+        "value": "$610",
+        "detail": "What the utility charges to restore terminated service once it has removed a meter or a tap at the main, in addition to any permit or tap charges owed.",
+        "source_name": "KC Water rate book, schedule of fees and charges",
+        "source_url": "https://www.kcwater.us/wp-content/uploads/2026/03/Rate-Book-FY-2027_031726-1.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Off-hours call for a burst line or an active leak",
+        "low": 90,
+        "high": 250,
+        "basis": "per visit",
+        "note": "Most Kansas City shops post flat rates and no trip charge.",
+        "sources": [
+          {
+            "name": "John the Plumber, Kansas City, posted rates, read 2026-08-23",
+            "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+          },
+          {
+            "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+          },
+          {
+            "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+          }
+        ]
+      },
+      {
+        "job": "Toilet pulled and reset, or a running toilet rebuilt",
+        "low": 135,
+        "high": 600,
+        "basis": "flat",
+        "note": "Pulling the toilet to reach a cleanout sits low; a new fixture costs more.",
+        "sources": [
+          {
+            "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+          },
+          {
+            "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+          },
+          {
+            "name": "John the Plumber, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+          }
+        ]
+      },
+      {
+        "job": "Main line rodded open through a basement cleanout",
+        "low": 150,
+        "high": 500,
+        "basis": "flat",
+        "note": "Root-filled clay joints in Brookside and Waldo may need two passes.",
+        "sources": [
+          {
+            "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+          },
+          {
+            "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+          },
+          {
+            "name": "LBA Services, Kansas City, posted drain prices, read 2026-08-23",
+            "url": "https://www.lbaservices.com/drain-cleaning/"
+          },
+          {
+            "name": "John the Plumber, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+          }
+        ]
+      },
+      {
+        "job": "Sewer line inspected on camera with a surface locate",
+        "low": 175,
+        "high": 200,
+        "basis": "flat",
+        "note": "Long runs from older Hyde Park houses add time before the camera fits.",
+        "sources": [
+          {
+            "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
+          },
+          {
+            "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+          }
+        ]
+      },
+      {
+        "job": "Sump pump or ejector pump replaced",
+        "low": 1000,
+        "high": 3000,
+        "basis": "per unit",
+        "note": "Battery backup and new discharge piping raise this.",
+        "sources": [
+          {
+            "name": "John the Plumber, Kansas City, posted pump prices, read 2026-08-23",
+            "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+          },
+          {
+            "name": "Climate Control, Kansas City, posted pump prices, read 2026-08-23",
+            "url": "https://www.climatecontrolkc.com/blog/plumbing/sump-pump-installation-cost-in-kansas-city/"
+          }
+        ]
+      },
+      {
+        "job": "Water heater replaced, 40 or 50 gallon tank",
+        "low": 1500,
+        "high": 3500,
+        "basis": "per unit",
+        "note": "Tight basement stairs, new venting and an expansion tank add hours.",
+        "sources": [
+          {
+            "name": "KC Water Heaters, Kansas City, posted packages, read 2026-08-23",
+            "url": "https://kcwaterheater.com/pricing/"
+          },
+          {
+            "name": "All-n-One Plumbing, Kansas City, posted tank prices, read 2026-08-23",
+            "url": "https://www.allnoneplumbing.com/post/water-heater-installation-replacement-in-kansas-city-mo-ks"
+          },
+          {
+            "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
+            "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
+          },
+          {
+            "name": "John the Plumber, Kansas City, posted tank prices, read 2026-08-23",
+            "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+          }
+        ]
+      },
+      {
+        "job": "Sewer lateral or water service replaced out to the main",
+        "low": 3000,
+        "high": 30000,
+        "basis": "flat",
+        "note": "Frost depth, limestone, steep lots and a street cut set the ceiling.",
+        "sources": [
+          {
+            "name": "John the Plumber, Kansas City, posted line prices, read 2026-08-23",
+            "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
+          },
+          {
+            "name": "Bright Side Plumbing, Kansas City, posted sewer prices, read 2026-08-23",
+            "url": "https://www.callbrightside.com/blog/how-much-does-sewer-line-replacement-cost/"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "Toilet pulled and reset, or a running toilet rebuilt",
-    "low": 135,
-    "high": 600,
-    "basis": "flat",
-    "note": "Pulling the toilet to reach a cleanout sits low; a new fixture costs more.",
-    "sources": [
-     {
-      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
-     },
-     {
-      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
-     },
-     {
-      "name": "John the Plumber, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
-     }
-    ]
-   },
-   {
-    "job": "Main line rodded open through a basement cleanout",
-    "low": 150,
-    "high": 500,
-    "basis": "flat",
-    "note": "Root-filled clay joints in Brookside and Waldo may need two passes.",
-    "sources": [
-     {
-      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
-     },
-     {
-      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
-     },
-     {
-      "name": "LBA Services, Kansas City, posted drain prices, read 2026-08-23",
-      "url": "https://www.lbaservices.com/drain-cleaning/"
-     },
-     {
-      "name": "John the Plumber, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
-     }
-    ]
-   },
-   {
-    "job": "Sewer line inspected on camera with a surface locate",
-    "low": 175,
-    "high": 200,
-    "basis": "flat",
-    "note": "Long runs from older Hyde Park houses add time before the camera fits.",
-    "sources": [
-     {
-      "name": "A-1 Sewer and Septic, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://a-1sewerandsepticservice.com/kansas-city-plumbing-prices/"
-     },
-     {
-      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
-     }
-    ]
-   },
-   {
-    "job": "Sump pump or ejector pump replaced",
-    "low": 1000,
-    "high": 3000,
-    "basis": "per unit",
-    "note": "Battery backup and new discharge piping raise this.",
-    "sources": [
-     {
-      "name": "John the Plumber, Kansas City, posted pump prices, read 2026-08-23",
-      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
-     },
-     {
-      "name": "Climate Control, Kansas City, posted pump prices, read 2026-08-23",
-      "url": "https://www.climatecontrolkc.com/blog/plumbing/sump-pump-installation-cost-in-kansas-city/"
-     }
-    ]
-   },
-   {
-    "job": "Water heater replaced, 40 or 50 gallon tank",
-    "low": 1500,
-    "high": 3500,
-    "basis": "per unit",
-    "note": "Tight basement stairs, new venting and an expansion tank add hours.",
-    "sources": [
-     {
-      "name": "KC Water Heaters, Kansas City, posted packages, read 2026-08-23",
-      "url": "https://kcwaterheater.com/pricing/"
-     },
-     {
-      "name": "All-n-One Plumbing, Kansas City, posted tank prices, read 2026-08-23",
-      "url": "https://www.allnoneplumbing.com/post/water-heater-installation-replacement-in-kansas-city-mo-ks"
-     },
-     {
-      "name": "Poor John's Plumbing, Kansas City, posted prices, read 2026-08-23",
-      "url": "https://poorjohns.com/plumber-in-kansas-city-missouri/"
-     },
-     {
-      "name": "John the Plumber, Kansas City, posted tank prices, read 2026-08-23",
-      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
-     }
-    ]
-   },
-   {
-    "job": "Sewer lateral or water service replaced out to the main",
-    "low": 3000,
-    "high": 30000,
-    "basis": "flat",
-    "note": "Frost depth, limestone, steep lots and a street cut set the ceiling.",
-    "sources": [
-     {
-      "name": "John the Plumber, Kansas City, posted line prices, read 2026-08-23",
-      "url": "https://johntheplumberkansascity.com/how-much-does-a-plumber-cost-the-average-prices-you-should-be-paying/"
-     },
-     {
-      "name": "Bright Side Plumbing, Kansas City, posted sewer prices, read 2026-08-23",
-      "url": "https://www.callbrightside.com/blog/how-much-does-sewer-line-replacement-cost/"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

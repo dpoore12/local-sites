@@ -1,9 +1,10 @@
 {
   "domain": "orlandoduilawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Orlando DUI Law Pros",
   "service": "DUI Lawyer",
   "service_inline": "dui lawyer",
+  "vertical": "legal",
   "city": "Orlando",
   "state": "FL",
   "state_full": "Florida",
@@ -35,7 +36,7 @@
     {
       "id": "ninth_circuit_pti_screen",
       "title": "A local PTI screen, not an automatic result",
-      "claim": "The Ninth Judicial Circuit State Attorney’s Pretrial Intervention program requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a reported alcohol level above .22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license.",
+      "claim": "The Ninth Judicial Circuit State Attorney’s Pretrial Intervention program requires approval from the program administrator, prosecutor, victim, and judge. Its published DUI exclusions include a reported alcohol level above 0.22, a prior alcohol-related criminal traffic arrest or citation, a crash, or a commercial driver license.",
       "why_it_matters": "Diversion is a local, fact-specific possibility rather than a result that follows automatically from a first DUI arrest. The charge, history, and case facts have to be screened early.",
       "sources": [
         "https://sao9th.com/second-chance-program/pretrial-intervention-pti/"

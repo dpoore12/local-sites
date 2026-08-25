@@ -24,7 +24,7 @@ Have the basic timeline ready: the date, exact place, how the incident unfolded,
 
 ## urgency_bullet
 
-Preserve the record before footage, witnesses, and vehicle data disappear.
+Preserve the record before footage, witnesses, and vehicle data disappear
 
 ## values_eyebrow
 
@@ -44,11 +44,7 @@ You were hurt at a store, apartment, or other property
 
 ## symptom_1
 
-An injury on property is not automatically a claim just because someone fell or was hurt there. The central questions are usually about the condition, notice, control, and timing. What was dangerous? Was it a spill, loose handrail, broken pavement, poor lighting, blocked route, or something else? Who owned, managed, maintained, or used that part of the property? How long had the condition been present, and was there a reasonable opportunity to discover and correct it?
-
-Start by preserving the ordinary details people often lose. Photograph the condition, footwear, lighting, nearby signs, and the route used. Ask that video be retained rather than assuming it will still be there later. Keep the names of employees or other people who saw the event, receipts that establish why you were there, incident-report information, and medical records that connect symptoms to the date. Do not fill gaps with guesses in an incident report; say what you saw and what you do not know.
-
-The defense may dispute whether a condition was unsafe, whether it was visible, whether the person injured was watching where they were going, or whether a different cause produced the injury. California comparative-fault rules make those facts important. A lawyer reviewing the matter needs the site-specific record, not just a description that someone was injured at a particular address. Prompt preservation is especially important where camera systems overwrite footage on a routine cycle.
+A fall inside a store, an apartment stairwell, or out on a terminal apron turns on who controlled that surface and what they already knew about it. Photograph the spot, the lighting, and your shoes before anything is mopped, swept, or repaired, and ask in writing that camera footage be held. If a public agency owns the hazard, a much shorter deadline applies.
 
 ## symptom_2_title
 
@@ -56,11 +52,7 @@ You are receiving medical care after a crash or impact
 
 ## symptom_2
 
-Treatment records do more than list appointments. They document symptoms, findings, restrictions, referrals, medication, imaging, and the course of recovery. Get care based on medical need, follow the discharge instructions you are given, and keep copies of every record. Waiting can make both health decisions and later timelines harder to understand. At the same time, do not assume every symptom will be accepted as crash-related merely because it appeared after a collision; the records and medical evidence matter.
-
-For Long Beach crashes, the scene can involve ordinary commuters, delivery vehicles, port-bound trucks, or several vehicles moving through a designated truck corridor. That makes early information unusually important. Preserve photos before vehicles are repaired or sold. Write down company names, vehicle numbers, trailer markings, and the names of responding agencies. A heavy-truck collision may involve records beyond the two drivers’ recollections, such as carrier identification, inspection information, dispatch or route material, and electronic data that must be requested quickly.
-
-Do not decide that partial fault ends the inquiry. California’s comparative-fault instruction directs a factfinder to determine total damages and then reduce them by the injured person’s assigned percentage of responsibility. The evidence needs to address the whole sequence: speed, lane position, visibility, braking, signals, road layout, and whether someone had time to avoid the impact. Exact facts matter more than a label such as “minor collision.”
+Keep every discharge sheet, imaging disc, and itemized bill, and note who authorized each visit. Where the injury happened at work, the rule about who picks the treating doctor differs sharply between the federal harbor statute and the state comp system. Harm produced by the treatment itself is a separate claim on a shorter clock. Do not let recommended care lapse.
 
 ## symptom_3_title
 
@@ -68,11 +60,7 @@ A product failed, and you were injured using it
 
 ## symptom_3
 
-A product injury can begin with a deceptively simple question: what exactly failed? Preserve the item, every loose piece, packaging, instructions, receipt, serial number, and photographs of the condition before anyone repairs, discards, or returns it. If the product is attached to a vehicle, bicycle, appliance, tool, or medical device, photographs should show the larger setup as well as the part that failed. A repair shop can solve a safety problem, but repair may also change the evidence, so document before work starts when it is safe to do so.
-
-The analysis is not limited to whether an item broke. A review may examine design, manufacturing, warnings, assembly, maintenance, modifications, foreseeable use, and the chain of distribution. The identity of every involved business matters. Keep purchase confirmations, manuals, recall notices, communications with sellers or manufacturers, and a record of who handled the product after the event. A label, batch number, and model number can be far more useful than a broad description of “the same kind of product.”
-
-Product cases also raise causation questions. An injured person may have an underlying condition, another event may have contributed, or the product may have been modified after sale. Those issues call for careful records, not assumptions. Avoid posting the product for resale, throwing it away, or letting anyone take it without documenting where it went. The first useful step is often preserving the physical evidence and the paper trail that identifies its origin.
+Set the failed item aside and stop using it. Keep the fragments, the packaging, the data plate, and the purchase record, and photograph every warning label while it is still legible. In a yard or aboard a vessel the gear often belongs to someone other than your employer, so write down whose equipment it was before it disappears.
 
 ## symptom_4_title
 
@@ -80,11 +68,7 @@ The injury may change work, mobility, or daily care
 
 ## symptom_4
 
-When an injury affects work, household tasks, mobility, sleep, or the need for help at home, the claim record has to show more than the first emergency visit. Keep a running calendar of appointments, missed shifts, restrictions, symptoms, travel to care, and tasks that now require assistance. Save pay records, employer communications, disability forms, estimates for necessary changes, and receipts. The point is not to dramatize ordinary difficulty; it is to preserve a reliable account of what changed and when.
-
-Longer recovery also makes fault and coverage questions more consequential. In California, a person’s own share of responsibility can reduce damages rather than automatically ending a claim. But a separate rule can limit an uninsured vehicle owner or operator from recovering non-economic losses in certain motor-vehicle cases. California Civil Code section 3333.4 is commonly called Proposition 213. It is not a reason to discard medical records or ignore other losses, and it has defined exceptions, but it is a rule that should be identified early in a vehicle-related review.
-
-The practical work is to keep medical care, employment information, and incident evidence in one dated file. A lawyer can assess the legal issues, but neither a diagnosis nor a damaged vehicle establishes every element by itself. Avoid signing broad releases or disposing of important records before understanding what they cover. If immediate medical attention is needed, get it first; legal paperwork can wait until safety and care are addressed.
+When an injury changes work, mobility, or who helps at home, weekly benefit ceilings decide less than the record you keep. Start a dated calendar of restrictions, appointments, unpaid hours, and tasks somebody else now performs. Which compensation system covers you also changes what is available, so settle that question early rather than after a first check arrives.
 
 ## qa_1_question
 
@@ -270,6 +254,164 @@ Where court records may be handled
 
 The Los Angeles Superior Court lists civil trial departments at 275 Magnolia Avenue in Long Beach. Filing location and procedure are case-specific, so do not assume every matter follows the same path.
 
+## services_summary
+
+Four different jobs hide behind one heading in this city. A fall on a wharf apron, a leased store floor, or a public sidewalk is a control-and-notice question, and the ground you stood on picks the rulebook. Harm produced by the treatment runs on the shortest clock the state has. Failed cargo gear, a tool, or a chassis is a product case that lives or dies with the object itself. A permanent injury is mostly a benefits and damages problem, and the answer changes depending on whether the federal harbor statute, state comp, or plain negligence law governs. Guessing wrong costs months of benefits.
+
+## services_pick_head
+
+Which of these four situations fits your injury
+
+## crosslink_head
+
+Another injury question entirely?
+
+## svc_slip_and_fall_lawyer_lede
+
+A fall at a Long Beach address can land inside three different legal systems, and the deciding fact is the ground you were standing on. A wharf apron, a leased retail floor, and a public sidewalk each carry their own deadline.
+
+## svc_slip_and_fall_lawyer_body
+
+### The surface under you selects the rulebook
+
+Federal law reaches farther inland here than most people assume. Under 33 U.S.C. 903(a), harbor compensation is payable when the injury occurs upon navigable waters of the United States. The statute expressly adds any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used in loading, unloading, repairing, dismantling, or building a vessel. That is the situs half of the test. The status half sits in 33 U.S.C. 902(3), which covers a person engaged in maritime employment, naming longshore workers, ship repairers, shipbuilders, and ship breakers.
+
+The same definition lists who drops out. People employed exclusively for office clerical, secretarial, security, or data processing work are excluded, as are marina employees not working on construction or expansion, aquaculture workers, and vendors temporarily on the premises doing work the employer's own crews do not perform. Those exclusions apply only if state workers' compensation covers the person instead. A crew member is excluded outright.
+
+### What harbor coverage gives, and what it takes away
+
+If the two tests are met, 33 U.S.C. 905(a) makes the employer's liability exclusive, so a premises suit against that employer is off the table. In exchange the employer owes medical care under 33 U.S.C. 907 and wage benefits at two thirds of average weekly wages under 33 U.S.C. 908(b). Nothing in that bargain touches other defendants. Under 33 U.S.C. 933(a), a covered worker who believes some person other than the employer is liable in damages does not have to elect between the two.
+
+### Suing the party that controlled the walking surface
+
+For a terminal operator, a landlord, or another contractor on the same site, California premises law does the work. CACI No. 1009B is the Judicial Council's instruction for an injured employee of an independent contractor. It requires proof that the defendant owned, leased, occupied, or controlled the property, retained control over safety conditions, and negligently exercised that retained control in a way that was a substantial factor in the harm. The instruction traces to Hooker v. Department of Transportation (2002) 27 Cal.4th 198, which held that retaining control is not enough by itself. The exercise of that control has to have affirmatively contributed to the injury, and an omission can qualify.
+
+### Floors in this city that never touch salt water
+
+Most falls here have nothing to do with cargo. Downtown's older mixed-use blocks put retail thresholds directly against public walkways. The commercial stretch through Bixby Knolls, the bungalow blocks of California Heights, and the small historic core of Carroll Park all mix curb cuts, tree wells, and private steps within a few paces of each other. Paths and stairways drop from Bluff Park toward the shoreline, and Wrigley carries older sidewalk panels alongside a heavy commercial spine. Ownership changes across a single block face, which is why the address alone rarely answers who was responsible.
+
+### When a public entity owns the hazard
+
+A claim against the city runs through the Government Claims Act, Government Code sections 810 to 996.6, before any lawsuit exists. The city's own instructions require a written claim for death or injury to a person no later than six months after the occurrence, under Government Code section 911.2, delivered or mailed to the City Clerk at 411 West Ocean Blvd. Anything else, including real property damage, gets one year. If the claim is denied, the city points to Government Code section 945.6 for the deadline that follows: a court action within six months from the date the denial notice was delivered or mailed.
+
+### What to lock down in the first several days
+
+Photograph wide before close so the approach, the lighting, and the warning devices are visible, then photograph the defect itself. Ask in writing for video and name the exact time window. Keep the footwear unwashed and bagged. Where this happened at work, two clocks start immediately. Cal/OSHA requires an employer to report any accident producing a serious injury, illness, or death immediately, under Labor Code section 6409.1(b). Under 33 U.S.C. 912(a) a harbor injury needs notice within thirty days, given both to the employer and to the deputy commissioner for the compensation district.
+
+### The fault argument, and who approves the fee
+
+California uses pure comparative negligence. Li v. Yellow Cab Co. (1975) 13 Cal.3d 804 superseded the all-or-nothing contributory negligence rule and assigns liability in direct proportion to each party's negligence, so a share of blame reduces a recovery instead of ending it. An ordinary injury suit belongs in Los Angeles Superior Court, which lists Long Beach civil trial departments S10, S28, and S29 at 275 Magnolia Avenue. Fees in that suit follow the state contract statute. A harbor claim does not: 20 C.F.R. 702.132(a) requires an itemized fee application and states that no contract pertaining to the amount of a fee shall be recognized.
+
+## svc_medical_malpractice_lawyer_lede
+
+Two separate things go wrong after a serious injury: the treatment, and the argument over who was allowed to provide it. A claim about the care itself carries the shortest limitation period California applies to injury cases.
+
+## svc_medical_malpractice_lawyer_body
+
+### A bad outcome and a departure from the standard are different things
+
+Medicine carries known risks, and a disappointing result after careful treatment supports no claim. What supports one is care that fell below the accepted standard and caused identifiable harm, or a procedure performed without the consent the situation required. Proof comes from documents rather than impressions. The order set, the timing of imaging, who read it and when, medication administration records, nursing notes, the operative report, the discharge summary, and the itemized bill together show what was actually done and in what sequence.
+
+Keep the two stories separate from the start. A collision on Anaheim Street and the hospital course that followed are distinct claims, with distinct defendants, distinct deadlines, and distinct damages rules, even though the pain felt continuous.
+
+### Who chooses the treating physician depends on who is paying
+
+This is where harbor cases and state comp cases split hardest. Under 33 U.S.C. 907(b), the employee has the right to choose an attending physician authorized by the Secretary of Labor, and the employer selects one only when the injury makes that impossible. Once the employer or carrier learns of the injury, 33 U.S.C. 907(c)(2) requires it to authorize treatment from the physician the employee selected. Changing physicians after that first choice needs prior consent.
+
+California comp starts from the opposite default. Labor Code section 4600(c) lets the employee treat with a physician of their own choice only after thirty days from the date the injury is reported, and only if the employer has not established or contracted with a medical provider network under section 4616. Section 4600(d) preserves treatment with a personal physician from the date of injury when the employee named that physician in writing before getting hurt and holds nonoccupational health coverage.
+
+### The clock that ends most viable claims
+
+For professional negligence the California courts state the rule plainly: one year from the date the plaintiff knew or should have known about the injury, or three years from the date of injury, whichever comes first, under Code of Civil Procedure section 340.5. Section 364 then requires ninety days of notice to the provider before the complaint is filed. Someone who assumes the ordinary two-year injury period applies to a hospital claim can be a full year late before the first phone call.
+
+### What the state caps, and what it leaves open
+
+Civil Code section 3333.2 limits noneconomic loss in professional negligence actions against health care providers and institutions. For cases filed on and after January 1, 2023, the base figures are $350,000 in a non-death case and $500,000 where the injury caused death, applied separately to providers, to institutions, and to unaffiliated defendants whose separate negligence contributed. Subdivision (g) then raises the injury figure by $40,000 and the death figure by $50,000 every January 1 for ten years, toward $750,000 and $1,000,000. The amount in effect at judgment, arbitration award, or settlement is the one that governs. Economic loss is not limited by that section at all.
+
+### If the harbor statute paid for the treatment
+
+Self-arranged care creates a trap. Under 33 U.S.C. 907(d)(1), a worker cannot recover money spent on treatment unless the employer refused or neglected a request to furnish it, or knew of the injury and failed to authorize care. Section 907(d)(2) also requires the treating physician to file a report within ten days of first treatment. On the payment side, 33 U.S.C. 914(b) makes the first installment due on the fourteenth day after the employer has notice, and subsections (e) and (f) add ten percent to a late installment paid without an award and twenty percent to compensation overdue under an award.
+
+### The records to request while accounts are still open
+
+Ask for the complete chart rather than a discharge summary, in writing, so the request date is fixed. Ask for imaging on disc and for an itemized bill rather than a balance. Save portal messages and appointment notices before an account is closed. Write a dated log of symptoms, restrictions, and conversations, keeping observation separate from conclusion. Continue the care that has been recommended, and never annotate an original record.
+
+### What the defense does, and how the fee is set here
+
+Institutional defendants have counsel before the patient has the chart. Expect the argument that the outcome was a recognized complication covered by the consent, and that the patient's own delay contributed. Fees in a claim against a health care provider are the one place California prints percentages: Business and Professions Code section 6146 allows 25 percent of a recovery before a complaint or arbitration demand is filed and 33 percent afterward, with more requiring a motion and good cause. A harbor claim has no percentage. The fee is approved by the district director, the Board, or the reviewing court, and the application must itemize each person's status, billing rate, and hours.
+
+## svc_product_liability_lawyer_lede
+
+Lashing gear, chassis, forklifts, hoists, and hand tools fail in yards and buildings controlled by somebody other than the person holding the tool. A California product case turns on the object, and the object is usually repaired or scrapped within days.
+
+## svc_product_liability_lawyer_body
+
+### What actually has to be proved about the thing that failed
+
+California decided long ago to focus on the product rather than the maker's conduct. For a design claim, Barker v. Lull Engineering Co. (1978) 20 Cal.3d 413 supplies two alternative tests. A product is defective if it failed to perform as safely as an ordinary consumer would expect when used in an intended or reasonably foreseeable manner. It is also defective if the plaintiff shows the design proximately caused the injury and the defendant then fails to prove that the benefits of the design outweigh its inherent risks. That second route shifts the burden of proof to the defendant once causation is shown, weighing the gravity of the danger, the likelihood of harm, the feasibility and cost of a safer design, and the consequences of the alternative.
+
+Manufacturing defects and inadequate warnings are separate theories with their own proof. Shared blame is available to the defense, because Daly v. General Motors Corp. (1978) 20 Cal.3d 725 extended comparative fault to strict products liability actions.
+
+### The deadline, and the limit California never enacted
+
+The ordinary two-year period for injury to a person applies, and the state courts tie it to Code of Civil Procedure section 335.1. Where the harm was not discovered right away, the period generally begins when the problem was discovered or reasonably should have been. Note what is absent. Some states bar a product claim a fixed number of years after the item first reached a buyer regardless of when it broke. California has no such general repose statute for product injuries, so an older forklift or hoist is not automatically outside the system. The date of delivery still matters to proof, just not as an automatic bar.
+
+### When the vessel is the defendant
+
+For a harbor worker whose employer is immune, 33 U.S.C. 905(b) is the opening. It allows a covered person injured by the negligence of a vessel to sue that vessel as a third party under section 933, and it voids any agreement making the employer indemnify the vessel for those damages. The subsection has real edges. Liability cannot rest on the warranty of seaworthiness. A worker employed by the vessel to provide stevedoring services cannot sue when the injury came from the negligence of people providing those same services. Where the employer was also the owner, operator, agent, or charterer and the work was shipbuilding, repair, or breaking, no action against that employer in any capacity is permitted. The remedy is exclusive of all other remedies against the vessel.
+
+### The settlement paper that can end benefits entirely
+
+This is the costliest mistake available in a harbor file. Under 33 U.S.C. 933(g)(1), a worker who settles with a third person for less than the compensation the Act would provide keeps the employer on the hook only if written approval is obtained from the employer and its carrier before the settlement is executed. The approval goes on the form the Secretary provides and is filed with the deputy commissioner within thirty days. Paragraph (2) states the consequence without softening it. Without that approval and filing, or where the employee fails to notify the employer of a settlement or judgment, all rights to compensation and medical benefits terminate, regardless of payments already made or entitlement already acknowledged.
+
+### Who inspects the equipment, and under which agency's rules
+
+Jurisdiction on the waterfront is split, and the split affects what investigative record exists. Cal/OSHA states that federal OSHA holds maritime employment on the navigable waters of the United States. That definition takes in longshore operations on all vessels from the shore side of the means of access to the vessel, plus ship repair, shipbuilding, and shipbreaking afloat or in dry dock. California keeps almost everything else, including marine construction on shore and on bridges. The operational status agreement between the two agencies confirms that federal discretionary enforcement is withheld for the standards in 29 CFR Parts 1910, 1915, 1917, 1926, and 1928 outside those retained areas. Practically, the gangway is close to the line, and the reports on either side of it come from different agencies.
+
+### Holding on to the object and its paper trail
+
+Preserve the failed part and take it out of service. Fragments matter here, including the pieces that look like trash once a yard has been swept. Get tight photographs of the data plate, any serial or lot marking, and every label carrying a caution, because ink on a working tool does not last. Store the manual, the box, and whatever proof of purchase survives. Refunds, warranty exchanges, and trips to a repair depot all finish the same way, with the item in somebody else's custody. Where an employer, terminal, landlord, or insurer already has it, send a written demand that names the item and asks that it stay untouched.
+
+### After you make contact, and how the money is handled
+
+The first pass is an inventory. What broke, who built and sold that thing, who owned and serviced it, where it sits today, and which compensation system covers the person who was hurt. Where the claim is an ordinary civil action, the state's contract statute governs the fee agreement and the court's published schedule governs filing costs. Where the harbor act is in play, a fee has to be approved by the district director, the Board, or the court, and 20 C.F.R. 702.132(a) requires an itemized application describing the work, each person's professional status, the normal billing rate, and the hours.
+
+## svc_catastrophic_injury_lawyer_lede
+
+A permanent injury in this city is valued by whichever system covers the person who was hurt, and the three candidate systems pay on completely different scales. Sorting that question comes before any conversation about numbers.
+
+## svc_catastrophic_injury_lawyer_body
+
+### Three systems, and the tests that sort a worker into one
+
+Someone hurt on or beside the water can fall into federal harbor compensation, California workers' compensation, or ordinary tort law. Harbor coverage needs both status and situs: maritime employment under 33 U.S.C. 902(3), and an injury on navigable waters or an adjoining pier, wharf, terminal, or marine railway under 33 U.S.C. 903(a). A master or member of a crew of any vessel is excluded from that definition, which pushes that worker toward the Jones Act instead.
+
+Seaman status is its own inquiry. In Chandris, Inc. v. Latsis, 515 U.S. 347 (1995), the Supreme Court required duties contributing to the function of a vessel or the accomplishment of its mission, plus a connection to a vessel in navigation that is substantial in both duration and nature. The Court described a rule of thumb that a worker spending less than about thirty percent of working time in the service of a vessel should not qualify, while calling that figure a guideline rather than a rule. Under 46 U.S.C. 30104, a seaman injured in the course of employment may bring a civil action at law against the employer, with the right to a jury.
+
+### What the federal schedule actually pays
+
+Harbor benefits are set nationally and adjusted each October. Compensation runs at two thirds of average weekly wages for total disability under 33 U.S.C. 908, whether permanent or temporary. The Department of Labor set the national average weekly wage at $1,041.35 for the period from October 1, 2025 through September 30, 2026, which fixes the maximum compensation rate at $2,082.70 per week and the minimum at $520.68. Permanent partial losses are paid by a schedule in section 908(c): 312 weeks for an arm, 288 for a leg, 244 for a hand, 205 for a foot, and 160 for an eye. Hearing loss is 52 weeks for one ear and 200 for both. Serious disfigurement of the face, head, neck, or other normally exposed area is capped at $7,500. No compensation is allowed for the first three days of disability, though 33 U.S.C. 906(a) restores those days when the disability lasts more than fourteen.
+
+### How the state system compares on the same injury
+
+California pays two thirds of gross pre-tax wages lost, subject to figures the Division of Workers' Compensation republishes each year. For injuries dated on or after January 1, 2026, the maximum temporary total rate is $1,764.11 per week and the minimum is $264.61, built from earnings thresholds of $2,646.16 and $396.91. Duration is limited in a way the federal statute does not match: 104 weeks of temporary disability within five years of the injury date, extended to 240 weeks for a listed group that includes amputations, severe burns, chemical burns to the eyes, high-velocity eye injuries, and chronic lung disease. Two systems, one injury, and a meaningful gap at the top of the scale.
+
+### The one route from harbor coverage to full damages
+
+Because 33 U.S.C. 905(a) makes employer liability exclusive, the vessel negligence action in section 905(b) is the only path to tort damages for most covered workers. Recovery there is not free of the compensation system. Under 33 U.S.C. 933(f), where the worker brings the suit, the employer owes only the excess of the compensation figure over the net third-party recovery, calculated after reasonable expenses and attorney fees. Section 933(g) then requires written approval from the employer and carrier before executing any settlement worth less than the compensation entitlement, filed within thirty days, and terminates all compensation and medical benefits if that is skipped.
+
+### Vehicle claims carry an extra state rule
+
+Away from the terminals, the ordinary California layer applies, including one rule that surprises people. Civil Code section 3333.4 restricts recovery of noneconomic losses in specified motor vehicle cases involving an uninsured owner, or an operator who cannot establish the required financial responsibility, and it lists pain, suffering, inconvenience, impairment, and disfigurement among the losses affected. Fault itself is divided proportionally rather than used as a bar, following Li v. Yellow Cab Co. (1975) 13 Cal.3d 804. Insurance and registration paperwork therefore belongs in the file on day one.
+
+### What a serious-injury record has to contain
+
+Severity is proved with dull documents. Written work restrictions and every revision to them. Therapy attendance sheets, the equipment in daily use and how often it wears out, written quotes for home modifications, a current medication list, and how the person now travels to appointments. Then the hours a relative spends on care that formerly took nobody any time at all. Payroll records and tax returns carry the wage side. Context matters too. Forty-five people died in traffic collisions on city streets in 2022, and the city's own action plan update reports that 73 percent of high-injury intersections and 83 percent of high-injury corridors sit in disadvantaged communities. The I-710 corridor into the harbor carries close to 40,000 heavy-duty trucks a day. Trauma care is local: the county emergency medical services agency designates a Level II adult trauma center within the city.
+
+### After you make contact, and how a fee gets approved
+
+A first review of a severe injury is deliberately slow. Where the injury happened, what the worker was doing, which system covers it, the medical prognosis, every layer of insurance, and every party claiming repayment. If a civil action follows, Los Angeles Superior Court hears it, with Long Beach civil trial departments listed at 275 Magnolia Avenue in a courthouse that opened for business in September 2013 with 31 courtrooms. Fees split by track. A civil agreement follows the state contract statute, while a harbor fee is approved by the district director, the Board, or the reviewing court, and cannot rest on a percentage written into a contract.
+
 ## pricing_lede
 
 California handles injury fees by regulating the contract rather than the number. One statute dictates what the written agreement has to say, including a sentence telling the client the fee is negotiable. A State Bar rule supplies the test the fee has to survive. And the Los Angeles Superior Court publishes every court amount a Long Beach case will encounter.
@@ -278,36 +420,38 @@ California handles injury fees by regulating the contract rather than the number
 
 ### The statute writes part of the contract for you
 
-Business and Professions Code section 6147 governs any contingency agreement a plaintiff signs in this state. Subsection (a) requires a written contract signed by both attorney and client, with a duplicate copy handed to the plaintiff when it is entered into. Four items must appear: the contingency rate, how disbursements and costs affect both the fee and the recovery, how far the client might owe compensation on related matters lying outside the contract, and, unless section 6146 governs the claim, a statement telling the client that this fee is negotiable between the parties rather than fixed by law.
+Business and Professions Code section 6147 governs any contingency agreement a plaintiff signs in this state. Subsection (a) requires a written contract signed by both attorney and client, with a duplicate copy handed over at signing. Four items must appear: the rate, how disbursements and costs affect the fee and the recovery, any compensation owed on related matters outside the contract, and, unless section 6146 governs, a statement that the fee is negotiable between the parties rather than set by law.
 
-That last requirement is the one worth reading twice. The legislature ordered the disclosure precisely because clients assume a standard rate exists. Where section 6146 does apply, subsection (a)(5) requires a different statement: that those statutory rates are maximum limits and a lower rate may be negotiated.
+Where section 6146 does apply, subsection (a)(5) requires a different statement instead: those statutory rates are maximum limits, and a lower rate may be negotiated.
 
-Subsection (b) provides the enforcement. A contract that fails to comply is voidable at the plaintiff's option, and the attorney is then entitled to a reasonable fee rather than the agreed share. Subsection (c) removes workers' compensation representation from the section entirely.
+Subsection (b) supplies the enforcement. A noncompliant contract is voidable at the plaintiff's option, and the attorney is then entitled to a reasonable fee rather than the agreed share. Subsection (c) removes workers' compensation representation from the section.
 
 ### What stands in for a cap
 
-Under the California Rules of Professional Conduct, rule 1.5(a) forbids a fee that is unconscionable or illegal. Rule 1.5(b) then measures unconscionability against all facts existing when the agreement was entered into, unless later events affecting the fee were contemplated, and supplies thirteen factors. They include overreaching or fraud during the fee negotiation, material facts left undisclosed, proportion between the fee and the value of work performed, how sophisticated each side was, the sum at issue with the result achieved, hours and effort expended, contingency versus a fixed charge, and the client's informed consent.
+Under the California Rules of Professional Conduct, rule 1.5(a) forbids a fee that is unconscionable or illegal. Rule 1.5(b) measures that against the facts existing when the agreement was entered into and lists thirteen factors, among them overreaching during the negotiation, undisclosed material facts, the sum at issue against the result achieved, and informed consent.
 
-Nothing in that list is a percentage, so a rate quoted as California's standard is a market convention that still has to survive the thirteen-factor review.
+No percentage appears anywhere in that list, so a rate quoted as the California standard is a market convention that still has to survive the review.
 
 ### The percentages that do exist belong elsewhere
 
-Section 6146 caps contingency fees in actions against health care providers based on professional negligence, at twenty-five percent of the amount recovered where the matter resolves before a complaint or arbitration demand is filed and thirty-three percent afterward, with anything higher requiring a motion supported by good cause. Those numbers are quoted constantly at people whose claims have nothing to do with them. A rear-end impact on Pacific Coast Highway, a fall inside a Long Beach market, a bicycle struck near the port entrance, a delivery van running a light on Atlantic Avenue: all ordinary negligence, none of it section 6146 territory.
+Section 6146 caps contingency fees in actions against health care providers based on professional negligence, at twenty-five percent of the amount recovered where the matter resolves before a complaint or arbitration demand is filed and thirty-three percent afterward, with anything higher requiring a motion supported by good cause. Those figures get quoted at people whose claims fall nowhere near the section. An impact on Pacific Coast Highway, a fall in a market, a bicycle struck near the harbor entrance: ordinary negligence, and outside section 6146.
 
-Workers' compensation is the other separate track. Labor Code section 4906 makes a comp fee unenforceable above a reasonable amount and bars any attorney from demanding or accepting payment from an injured employee before the appeals board approves or fixes the sum. That agreement reaches the board inside ten days, and the board weighs the responsibility taken on, the care shown, the hours spent and what the worker ultimately obtained. The section names no percentage.
+State workers' compensation is another track. Labor Code section 4906 makes a comp fee unenforceable above a reasonable amount and bars any attorney from demanding or accepting payment from an injured employee before the appeals board approves or fixes the sum. The agreement reaches the board inside ten days, and the board weighs the responsibility assumed, the hours spent, and what the worker obtained.
+
+### The harbor statute prices representation another way
+
+A claim under the Longshore and Harbor Workers' Compensation Act involves no share of a recovery. Under 33 U.S.C. 928(a), a carrier that declines to pay within thirty days of written notice of the claim, and then loses to a represented worker, owes a reasonable attorney fee on top of the compensation. That fee is paid directly to counsel in a lump sum once the order becomes final. Section 928(b) covers the narrower fight where payments were already running and only the amount is disputed. There a fee shifts to the employer only if the worker rejects the district director's written recommendation and then obtains more than was tendered, measured by that difference alone. Otherwise the fee is not assessed against the employer or carrier.
+
+Approval is mandatory on every track, and 20 C.F.R. 702.132(a) requires an itemized application giving each person's professional status, normal billing rate, and hours, judged on the quality of the work, the complexity of the issues, and the benefits awarded. The same regulation adds that no contract pertaining to the amount of a fee shall be recognized.
 
 ### The Los Angeles Superior Court's published amounts
 
-Long Beach civil filings are handled at the Governor George Deukmejian Courthouse, under the fee schedule the Los Angeles Superior Court publishes for the whole county. A first paper in an unlimited civil case, meaning one pleading more than $35,000, is $435, and each other party pays the same amount on its first appearance. Where the claim exceeds $12,500 but not $35,000, the first paper is $370. At or under $12,500 it is $225. That $12,500 dividing line is a Los Angeles particularity worth noting, because schedules in other counties still print $10,000 on the equivalent line.
+Long Beach civil filings are handled at the Governor George Deukmejian Courthouse, under the fee schedule the Los Angeles Superior Court publishes for the whole county. A first paper in an unlimited civil case, meaning one pleading more than $35,000, is $435, and each other party pays the same amount on its first appearance. Where the claim exceeds $12,500 but not $35,000, the first paper is $370. At or under $12,500 it is $225.
 
 From there the schedule prices the litigation. A motion or other paper requiring a hearing is $60, and summary judgment or summary adjudication is $500. An order authorizing service by posting or publication is $20. The advance jury fee, nonrefundable and forfeiting the jury if nobody posts it, is $150, with later daily deposits of $15 per juror plus $0.34 per mile one way. A complex designation adds $1,000 for the plaintiffs collectively and $1,000 per defendant, capped at $18,000. Electronic filing adds $2.25 per transaction, a returned check draws $65, and a partial payment draws $25.
 
 ### Costs and the fee are two different subtractions
 
-Court fees, deposition transcripts, service of process, medical records and expert retainers are third-party expenses, distinct from the percentage. Section 6147(a)(2) exists because the interaction decides what an injured person receives: a fee computed on the gross with costs taken afterward yields a different net than costs taken first. The contract must describe the mechanism, so it can be discussed before signature rather than at disbursement.
+Court fees, transcripts, service of process, records and expert retainers are third-party expenses, separate from the percentage. Section 6147(a)(2) exists because the order of operations decides the net: a fee figured on the gross with costs removed afterward leaves a different number than costs removed first. Ask which order the contract uses.
 
-A related point often surfaces late. If a firm associates in another firm, rule 1.5.1 permits the division only with a written agreement between the lawyers, the client's written consent given after full written disclosure, and no increase in the total charged because of the arrangement.
-
-### Questions to raise at the first Long Beach meeting
-
-Which percentage applies before a complaint is filed, which after, and which on appeal. Are costs deducted before or after the fee is calculated. Who advances the jury fee, a summary judgment fee or an expert retainer, and is any of it owed back if the claim fails. Does the contract contain the negotiability sentence section 6147 requires. Will another firm share the fee, disclosed in writing. The answers belong on the copy handed over at signing.
+Where a firm associates in another firm, rule 1.5.1 permits the division only with a written agreement between the lawyers, the client's written consent after full written disclosure, and no increase in the total.

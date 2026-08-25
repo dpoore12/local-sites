@@ -28,11 +28,7 @@ The AC runs, but it falls behind every afternoon
 
 ## symptom_1
 
-This is the Mesquite call that starts with a house that is acceptable at breakfast and uncomfortable by four o’clock. The thermostat is set where it normally is, the outdoor unit has been running for hours, and the temperature will not come down. It is tempting to call that an undersized system. Often it is not. A cooling system can lose capacity slowly from a dirty condenser coil, a weak refrigerant charge, restricted return airflow, a tired blower motor, or duct leakage. It may still get through a mild morning. The deficit becomes obvious after the attic and roof have absorbed a full day of heat.
-
-That attic matters here. Mesquite grew fast in the middle decades of the twentieth century, and many homes have ducts crossing unconditioned attic space. A loose connection, torn flex duct, crushed branch run, or failed insulation lets cold air escape into air that is far hotter than the rooms below. The far bedroom then gets the least air at the precise part of the day when the house needs it most. Closing registers or lowering the thermostat only increases strain; it does not restore missing airflow.
-
-A proper visit separates equipment capacity from delivery trouble. The technician checks the temperature change across the indoor coil, refrigerant pressures, blower performance, filter and return condition, and static pressure in the duct system. Accessible attic runs are examined for disconnects, damage and insulation gaps. A matted outdoor coil is cleaned when it is the problem; a leak is located rather than merely covered by adding refrigerant. The result should be a specific failed part or a clear airflow finding, not a guess based on the thermostat screen. You receive the repair price after those checks and before work starts.
+This is the call that starts with a house that is fine at breakfast and unbearable by four o'clock. Before the equipment gets called undersized, take a reading: thermometer in the return grille, second reading at a supply register near the indoor unit, subtract. Something in the high teens is ordinary work. Six degrees is not. Put in a clean filter, then open the repair page.
 
 ## symptom_2_title
 
@@ -40,13 +36,7 @@ The vents blow hard, but the air is warm
 
 ## symptom_2
 
-Strong airflow with no cooling points to the refrigeration side or to the outdoor unit, not to a clogged filter alone. Start by looking from a safe distance while the thermostat is asking for cooling. If the big outdoor fan is stopped while the cabinet hums, a run capacitor or contactor is a common cause. Capacitors weaken with heat and age, and a failing one may work early in the day then quit after the condenser has sat in the sun. A contactor with worn contacts can leave the outdoor unit without power even when the indoor blower keeps moving room-temperature air.
-
-Do not keep resetting a breaker that trips. Central systems commonly have separate circuits for the indoor equipment and the condenser. A blower that runs with a dead outdoor unit narrows the fault to the condenser circuit, disconnect, control wiring, capacitor, fan motor, contactor, or compressor. A breaker that immediately opens again may indicate damaged wiring or a component drawing too much current. Leave it off and keep the system from trying repeatedly. If there is a hot electrical smell, smoke, or visible damage, move away from the equipment and treat it as urgent.
-
-Warm air can also follow a frozen indoor coil. Ice blocks the coil and prevents it from absorbing heat, so air travels through the vents but does not cool the rooms. Turn cooling off and leave the fan setting on if it will run, which can help the ice thaw without making the compressor work harder. The underlying cause still needs to be found. Low refrigerant, a dirty filter, restricted return air, a weak blower, or a failing metering component can all freeze a coil. The repair should address that cause, not just produce a temporarily clear coil.
-
-A compressor failure is possible, but it is not the first assumption. Voltage checks, amp readings and pressure measurements distinguish a failed start part from a compressor problem. That evidence is what the technician should use to explain the repair option on site.
+Plenty of air at the registers and none of it cold usually means the sealed circuit is short of charge. Look for frost collaring the tubing at the metering device and an oily smudge on the copper by the outdoor service valves. Nothing in that loop gets consumed, so the defect that let it out is the repair. Shut cooling off and read the leak page.
 
 ## symptom_3_title
 
@@ -54,13 +44,7 @@ Water is appearing under the unit or on the ceiling
 
 ## symptom_3
 
-Air conditioning removes water from indoor air. Under normal conditions, that water leaves through a condensate drain. When the drain is blocked, the trap is dry or clogged, a pump quits, or the pan beneath the coil fails, water goes somewhere else. In a Mesquite home with an attic air handler or coil, that may first appear as a damp ceiling, a brown ring around a light fixture, or a drip above a hallway. Do not assume it is a roof leak simply because it is above the ceiling. Check for water during or shortly after a cooling cycle and tell the technician where it shows up.
-
-The safety issue comes first. Keep clear of wet electrical equipment. If water is nearing a furnace cabinet, air handler controls, or a light fixture, shut off cooling at the thermostat and, if it can be done safely, the system breaker. Do not step through a wet attic or lift a ceiling panel to inspect it. A secondary pan and float switch are intended to stop the system before an overflow damages drywall, but older attic work does not always have both protections working as intended.
-
-The repair starts at the whole drainage path. The technician checks the primary drain, trap, line slope, pan condition, float switch, condensate pump if present, and the coil for ice. A drain that is simply cleared is not enough if the coil froze and overwhelmed it during the thaw. Ice usually means there is also an airflow or refrigerant issue to diagnose. A rusted pan can need replacement; a failed float switch should be restored so the system stops before a repeat leak reaches the ceiling.
-
-Attic access changes the labor but not the standard. The system should be tested after the repair so water is moving through the right drain and the shutoff protection responds. You should know what leaked, what was corrected, and what is being watched before the technician leaves.
+Set the thermostat to off rather than to a lower number, because a loaded coil keeps making condensate for as long as the blower turns. Then work out where the water lands. A damp closet floor is a nuisance. A brown ring spreading on a ceiling below an attic air handler is drywall already being destroyed, and that version should not wait for Monday.
 
 ## symptom_4_title
 
@@ -68,13 +52,7 @@ Nothing starts when the thermostat calls for cooling
 
 ## symptom_4
 
-A system that gives no click, no indoor air and no outdoor activity needs a basic power check before anyone calls it a major failure. If the thermostat uses batteries, replace them. Confirm its mode is set to cool and the target temperature is below the room temperature. Then look for the ordinary service switch near the furnace, air handler, or attic access. It resembles a light switch and can be turned off during storage, a filter change, or attic work. Do not open equipment panels or touch exposed wiring.
-
-After those simple checks, the pattern matters. If the indoor blower comes on but the condenser does not, the indoor half has power and the outdoor circuit or controls need testing. If neither side responds, the technician checks the indoor breaker, cabinet safety switch, low-voltage fuse, transformer, thermostat circuit, and control board. A condensate float switch that senses a full pan can also interrupt cooling to stop a leak from growing. That is a useful shutdown, not a reason to bypass it.
-
-Repeated breaker trips belong in the urgent category. A breaker protects the wire and equipment. Resetting it again and again can turn a failed motor, capacitor, contactor, compressor, or wire fault into more damage. Leave it open and mention the trip when requesting service. The same applies to a smell like overheated plastic or insulation. Do not try to operate the system until it has been tested.
-
-Older Mesquite homes can make tracing power less straightforward. The original electrical layout may have been altered when central cooling was added, and labels in a panel are not always reliable. A technician uses meter readings at the disconnect, controls and equipment rather than guessing by the panel directory. Once the failed component is identified, the repair price is presented before the work proceeds.
+Nothing hums, nothing clicks. Work through the cheap possibilities in order: thermostat batteries, cool mode, a setpoint below what the room reads, the service switch by the indoor equipment, the pull-out beside the condenser. If the breaker snaps back off the instant it is set, leave it alone. A stalled compressor pulls locked-rotor current, and every attempt bakes the windings further.
 
 ## qa_1_question
 
@@ -284,13 +262,13 @@ These figures come from price lists published by air conditioning companies work
 
 ### What an aging east county housing stock costs to cool
 
-Mesquite is not a new suburb. Large parts of it were built out through the 1960s and 1970s, which explains most of the spread in the table above: original duct systems, a furnace and coil crammed into a hall closet or a low attic, undersized returns, and in a shrinking number of cases equipment designed for R-22 refrigerant.
+Mesquite is not a new suburb. Much of it was built out through the 1960s and 1970s. That history explains most of the spread in the table above: original duct systems, a furnace and coil crammed into a hall closet or a low attic, undersized returns, and a shrinking number of systems designed for R-22 refrigerant.
 
 R-22 is the expensive part. It has been phased out of production and the price of what remains reflects that. One east side price list puts R-22 at roughly double the per pound figure it charges for R-410A, so an identical leak repair on a twenty year old system is not comparable to one on a ten year old system.
 
 ### Flat fees, and the after hours line
 
-East Dallas County shops tend to price service calls as a flat diagnostic rather than an open hourly rate, which helps a homeowner compare quotes. Watch two things anyway. First, whether that fee is credited toward the repair. Second, the after hours premium, which several local pages publish as a standalone figure added on top of the repair. That is why the table lists the premium separately: a midnight visit for a failed capacitor is the daytime capacitor price plus the surcharge, and knowing both numbers lets a homeowner decide whether the problem can wait until morning. If the house is holding a survivable temperature and nobody in it is medically vulnerable, waiting until business hours is often the least expensive decision available.
+East Dallas County shops tend to price service calls as a flat diagnostic rather than an open hourly rate, which helps a homeowner compare quotes. Watch two things anyway. First, whether that fee is credited toward the repair. Second, the after hours premium, which several local pages publish as a standalone figure added on top of the repair. That is why the table lists the premium separately: a midnight visit for a failed capacitor is the daytime capacitor price plus the surcharge. If the house is holding a survivable temperature and nobody in it is medically vulnerable, waiting until business hours is usually cheaper.
 
 ### The permit is small, the rebate is not
 
@@ -308,10 +286,166 @@ On a replacement, the estimate names both pieces of equipment by model number, t
 
 ### The trap in this market
 
-The pattern here is the aging system used as leverage on a small repair. A twenty year old unit in Mesquite genuinely is near the end of its service life, and any technician standing in front of one will say so. That does not make a $500 repair the wrong choice, and it does not justify skipping the diagnosis. A homeowner facing this decision has better arithmetic available than a sales pitch: weigh the repair cost against the remaining years the equipment can plausibly run and against the incentive available on a replacement, and ask for the failed part to be shown and the reading that condemned it.
+The pattern here is the aging system used as leverage on a small repair. A twenty year old unit in Mesquite genuinely is near the end of its service life. That does not make a $500 repair the wrong choice, and it does not justify skipping the diagnosis. Weigh the repair cost against the years the equipment can plausibly still run and against the incentive available on a replacement, and ask for the failed part and the reading that condemned it.
 
 The second pattern is a full duct replacement bundled into every changeout by default. Some houses in this city need it. Plenty need two hours of sealing and one new return, and a static pressure reading tells the difference.
 
 ### What a national average leaves out
 
-Cost pages built on national data do not know about a 1970s hall closet that will not take a modern furnace cabinet, a panel with no room for a larger circuit, a lineset run through slab, recovery of phased out refrigerant, the city permit, or the incentive paperwork an enrolled contractor has to file before the credit exists.
+Cost pages built on national data do not know about a 1970s hall closet that will not take a modern furnace cabinet, or a panel with no room for a larger circuit. Left out too: recovery of phased out refrigerant, the city permit, the incentive paperwork an enrolled contractor files.
+
+## services_summary
+
+Four separate visits hide inside the phrase air conditioner repair on this side of Dallas County. General repair covers a house that never reaches the number on the thermostat and an attic unit sending water through a ceiling. Compressor work proves whether the outdoor pump still starts and still builds a pressure difference. Leak work finds where the charge escaped, which now decides whether an older machine is worth keeping at all. A tune-up is measurement and cleaning, booked ahead of the first long hot stretch. Choosing wrong costs a homeowner twice, because refrigerant weighed into a punctured coil leaves the same way it left before.
+
+## services_pick_head
+
+Start with the failure your system is actually showing
+
+## crosslink_head
+
+Looking at a different failure?
+
+## svc_air_conditioner_repair_lede
+
+Two very different complaints land on this page: a house that never reaches the number set on the thermostat, and water appearing under an attic unit. Airflow, drainage and heat transfer get measured before any part is named.
+
+## svc_air_conditioner_repair_body
+
+### The reading that settles the argument
+
+Hold a thermometer in the return grille for two minutes, read a supply register close to the indoor unit, and subtract one from the other. Equipment doing its job takes the air down by something in the high teens on a hot afternoon here. A difference of six or seven degrees means the machine has stopped carrying the load, and no thermostat setting changes that. The opposite result is worth just as much. A wide difference in a house that keeps warming after lunch points at heat getting in faster than the system can remove it, or at cooled air leaking into an attic before it ever reaches the far bedroom.
+
+### Condensate is the other half of this call
+
+A cooling coil pulls moisture out of household air all day, and that water has exactly one intended path out. Plug the primary line, let the trap dry or foul, crack the pan, or stop the pump, and it finds another route. The mechanical code this city adopted in 2026 requires one of four protections anywhere an overflow could damage the building. Choices are an auxiliary pan with its own drain running to a spot you will notice, an overflow line tied in above the primary connection, an auxiliary pan carrying a listed water-level device that shuts the equipment down, or that device on its own. A pan has to be at least an inch and a half deep and three inches larger than the unit it sits under. When a ceiling stains, one of those four was missing, defeated, or already rusted through.
+
+### Attic equipment is the local default, and the code says how it gets reached
+
+Adopting the 2024 mechanical code, effective in July 2026, the city rewrote the attic appliance section outright. A passageway to the equipment must run at least 30 inches high and 22 inches wide, and no more than 20 feet from the opening. It needs continuous solid flooring at least 24 inches wide and a level service space of 30 inches by 30 inches at the service side. Access comes by permanent stair, a pull-down stair rated for at least 300 pounds, or a door from an upper floor. Read that as a description of the working conditions above your ceiling. A coil or blower change up there is slow, careful, two-person work in punishing air.
+
+### Two things to skip while you wait
+
+Leave the breaker alone after the first trip, and stay off the attic ladder if the insulation is wet. Soaked drywall will not hold weight, the platform around an air handler is often minimal, and July attic air in this county is genuinely dangerous. Turning the thermostat to off is the whole of the useful response. It stops the coil producing water and it spares a compressor that may be cycling on its own overload.
+
+### What shortens a part's life on the east side
+
+Housing here came from two building waves. City records count 17,076 units, close to 31 percent of the stock, in the 1980s alone, another 8,158 from the 1970s, and roughly a fifth of the city standing before 1970. Mesquite Park, developed through the 1950s and early 1960s, has a median build year of 1959 and more than half its houses finished before 1960. Casa View Heights and Truman Heights went up in the same era along the Dallas line, and Sherwood Forest holds large lots built one at a time, some from the 1940s. Out at Falcon's Lair, on both sides of Interstate 20, the land was still farmland in 2000, so equipment there is a generation newer. What matters is less the decade than what got added later: a coil squeezed into an old closet, a return nobody enlarged, wiring reworked twice.
+
+### Heat that finds the weak part
+
+The weather office serving this area logged 23 days at or above 100 degrees in 2024 and reached 107 degrees on August 19 that year. In 2011 it recorded 71 such days, and the city's hazard plan notes a local high of 112 degrees back in 1980. First triple-digit readings keep no schedule: July 7 in 2026, June 23 in 2024. A capacitor or blower that coasted through a mild season is exactly the part that quits on the third afternoon of a long one.
+
+### The order a competent visit follows
+
+A useful sequence starts at the thermostat and ends at the gauges, not the other way around. Power gets verified at the disconnect and again on the low-voltage side of the board. The filter comes out for inspection, blower amps go against the nameplate, and static pressure tells whether air can move at all. At the condenser, a start attempt is watched while capacitance is metered and contact faces are examined for pitting. Both coil surfaces get looked at properly. Then the drainage path: pan, trap, line and float switch, tested rather than eyeballed. Refrigerant pressures come last, because a starved coil reads low no matter how much charge is in the circuit.
+
+### What moves the figure
+
+Small electrical parts, a float switch, a cleared trap: one trip, a tight range, nothing filed with the city. Anything above the ceiling costs labor before it costs parts. A leak search is priced on its own, apart from whatever repair follows it. Once equipment is being replaced rather than repaired, the job becomes permitted mechanical work with a duct rough-in and a mechanical final inspection behind it, and that belongs on the written estimate.
+
+## svc_ac_compressor_repair_lede
+
+A compressor is a pump, and it is the costliest thing inside the outdoor cabinet, which is why it takes the blame for failures that belong to a small part bolted a few inches away from it. A meter settles that question.
+
+## svc_ac_compressor_repair_body
+
+### Four descriptions that justify looking hard at the pump
+
+A low hum lasting a second or two, a click, then nothing, repeating every few minutes while an internal overload trips and resets. A breaker nobody can keep on. Morning air that seems fine, an afternoon collapse, then cool air again after dark. An outdoor fan spinning happily above a cabinet rejecting no heat whatsoever. Each of those has a cheap explanation and an expensive one, and the cheap explanation is the more common of the two.
+
+### Measurements taken before anyone says the word
+
+Line voltage gets read at the disconnect and again across the closed contactor while a cooling call is in place. Capacitance is metered and set against the value printed on the case, because a part that has drifted below its tolerance band will turn a motor on a mild morning and refuse at 104 degrees. Contact faces come under a light for pitting or welded spots. The compressor's draw gets compared with its rated load amperage, then winding resistance is measured and each winding checked against the shell for a ground. Suction and liquid pressure are recorded with the outdoor temperature written next to them, since that pair shows whether the pump develops a difference at all. Ask to hear those figures out loud.
+
+### Why it fails in August and not in April
+
+Head pressure climbs with outdoor temperature, and a compressor needs the most help starting exactly when the air around the condenser is hottest. A fading start component behaves for weeks, then strands a household on the day that matters. The station record shows how uneven the load is from year to year: 71 days at or above 100 degrees in 2011, 55 in 2023, 7 in 2025. A mild summer repairs nothing. It postpones the bill.
+
+### Stop resetting it, and refuse the can
+
+A compressor that cannot turn pulls several times its running current until something opens the circuit, and each reset drives that current back through insulation already damaged by heat. If the breaker trips the instant it is set, leave it open and mention it when scheduling. Turn down sealant sold in an aerosol can as well. It travels into the metering device and into the recovery equipment of the next person on the job, turning a repairable circuit into scrap.
+
+### What the unit was dying of before it died
+
+Compressors seldom fail alone. They fail from conditions: fins packed with mower clippings and cottonwood seed, a lazy condenser fan, a cabinet boxed in by a fence, or a charge that leaked out months earlier and left the pump running hot. Fitting a new one into those same conditions buys the same outcome a second time. Anyone proposing that repair should name the surrounding fault and correct it during the same visit.
+
+### The federal rule that decides whether one box or two get replaced
+
+Here is where a condenser failure gets interesting. The technology transitions program, at 40 CFR 84.54(c)(1), bars installing a new residential system that uses a refrigerant of 700 global warming potential or greater, with January 1, 2025 as the date. R-410A sits far above that ceiling. What the agency did not restrict is the market in replacement parts. A condensing unit counts as a specified component, and components produced for service work carry a permanent label reading "For servicing existing equipment only." Putting a new condensing unit onto an existing indoor coil is not treated as installing a new system. Replace that coil afterward and it is, and the refrigerant then has to sit under the limit. A final rule published on May 26, 2026 and effective that July removed the installation deadline for equipment built or imported before 2025, so remaining stock is not stranded. Manufacturing this class of equipment above the limit stayed prohibited.
+
+### The A2L side of the decision, and what the city adopted
+
+Anything installed new now runs a lower-GWP refrigerant that is mildly flammable. The agency lists R-454B at 470 and R-32 at 675 as acceptable subject to use conditions for this equipment class. Appliances holding them are certified to UL 60335-2-40, and many carry an integral refrigerant detection system with sensors mounted low in the cabinet, since the vapor is heavier than air. Minimum room area enters the calculation above roughly two pounds of charge in sealed factory equipment. Council adopted the 2024 mechanical code in May 2026, effective that July, and the amendments define a refrigerant detection system, send A2L high-probability systems to ASHRAE 15, and rework the machinery room and refrigerant shaft language. None of that pushes anyone off working equipment. It does mean a changeout is no longer the job it was three summers ago.
+
+### Texas licensing, and what a changeout turns into here
+
+Offering air conditioning and refrigeration work to the public in this state requires a contractor license from the Texas Department of Licensing and Regulation. A Class A license covers any size unit. Class B stops at 25 tons of cooling and 1.5 million BTU per hour of heating. The environmental air conditioning endorsement is the residential one, and the number reads TACL followed by class, digits and endorsement. Anyone performing non-exempt maintenance has to hold technician registration at minimum and work through that licensed contractor. The Building Inspection Division states that mechanical installations on new or remodel projects are to be installed and permitted by a state-licensed mechanical contractor, with duct rough-in and mechanical final inspections listed. Ask which credential is being used and who pulls the paperwork.
+
+## svc_ac_refrigerant_leak_repair_lede
+
+A cooling circuit is sealed, so refrigerant is not a supply that runs down. Low charge means a defect let it out, and finding that defect is the work. Anything short of that is a recharge with an expiry date on it.
+
+## svc_ac_refrigerant_leak_repair_body
+
+### The pattern that says charge is escaping
+
+Most of these announce themselves before a gauge goes on. Air keeps arriving at the registers with no bite to it while the condenser runs and runs. Frost collars the tubing at the metering device and works outward along the insulated line. There is an oily film on copper, or a dark patch on the pad, because compressor oil rides out with whatever escapes. Strongest signal of all: the house got a little worse across each of the past three summers instead of failing on one particular day.
+
+### Where these systems give up
+
+Begin at the evaporator coil, which in most houses here sits in the attic. Tubing that spends five months a year wet develops pinhole corrosion, and that coil is both the likeliest source and the worst one to reach. Next come the brazed joints at the condenser, worked by thermal cycling through a season that ran 23 triple-digit days in 2024. Then the line set where it passes through brick or hides behind shrubs nobody has moved in a decade. Then the service valve cores beneath the caps, where a genuine leak hides in a part worth pennies. Last, factory fittings on equipment that has already been swapped once, which describes plenty of streets in Casa View Heights and Mesquite Park.
+
+### No federal rule orders this repair, and that is the point
+
+Two rules reach a house system, and neither one requires fixing the hole. Venting refrigerant during service, repair or disposal is prohibited, so what comes out must be recovered. Opening the circuit calls for Section 608 certification, and refrigerant may be sold only to certified technicians or their employers. Attaching gauges to read pressure is itself enough to make someone a technician under that rule. The corrective-action deadlines people quote apply to appliances holding 50 pounds or more, which no split system in a house here does. Repair is therefore not a legal duty. It is arithmetic, and the arithmetic moved.
+
+### Why a leaking R-410A machine is now a money decision
+
+Supply is the reason. The phasedown enacted under the AIM Act cut production and consumption allowances to 60 percent of baseline for 2024 through 2028, steps down to 30 percent for 2029, and heads toward 85 percent below baseline by 2036. Equipment above the 700 ceiling stopped being built for this class at the start of 2025, though components for existing systems are still made and sold, labeled for service work only. Charge for a legacy system remains legal to buy and use. It also gets scarcer and dearer as allowances shrink. That is why a pinholed attic coil beneath a fifteen-year-old condenser deserves both prices side by side, and why an accessible joint on newer equipment is simply worth fixing.
+
+### What a real search looks like
+
+The first number is standing pressure, written down, because a circuit holding nothing and one that is merely low get different treatment. Where no pressure is left, nitrogen goes in dry and the system is split so the losing half can be identified. Where the loss is gradual, the tool is an electronic detector rated for that refrigerant. It gets run slowly across the coil face, every joint and the whole length of the line set with the blower switched off. Anything it flags is confirmed with bubbles before it gets called a leak. After the repair comes evacuation to a micron target that has to hold with the pump valved off, since trapped moisture turns acidic inside the circuit. Charge is weighed in to the data plate figure and a fresh temperature split gets measured at a register.
+
+### Corners that get cut
+
+Dye injected with no return visit ever scheduled to look for it. A detector swept over a coil for twenty seconds. Soap bubbles used alone on a system that only leaks while it runs. A vacuum pulled for ten minutes with nothing but a compound gauge on the manifold. Charge judged by pressure on a fixed-orifice system, which is guesswork with an instrument attached to it.
+
+### What the cost depends on
+
+Where the leak hides sets nearly all of it. A valve core or an exposed joint at the outdoor unit is a short visit and a trivial part. A coil inside an attic air handler, or a line set buried behind masonry, is hours of labor before any refrigerant is weighed in, and refrigerant is billed by the pound with the type named. Should the coil or the outdoor unit end up replaced instead of repaired, the work turns into permitted mechanical work with city inspections attached to it.
+
+## svc_ac_tune_up_lede
+
+Maintenance earns its money only when it leaves behind readings you can compare next spring. A page of check marks says nothing about whether this system survives a Dallas County August with its capacitor and its drain intact.
+
+## svc_ac_tune_up_body
+
+### Numbers that belong on the invoice
+
+A maintenance visit is worth what it measures. Ask for the return and supply air temperatures and the split between them, the static pressure the blower is working against, and the draw of both motors set beside their nameplate ratings. Ask for compressor amps against rated load, the measured capacitance of each run capacitor next to the value printed on its case, and suction and liquid pressure with the outdoor temperature recorded alongside. Superheat or subcooling depends on which metering device the system uses. A figure logged in March is what proves in July that something has drifted.
+
+### Book it against the local calendar, not the thermometer
+
+The window is shorter than most people think. This station recorded 7 triple-digit days in 2025 and 23 in 2024, with the first 100-degree reading landing on July 7 in 2026 and June 23 in 2024. A cool year hides weak parts rather than curing them. March and April are when a truck is available and a capacitor sliding toward failure can still be caught. Once a long hot stretch settles over the county, every shop in the area is already committed.
+
+### Fins have to be able to pass air
+
+Heat collected indoors leaves through the outdoor coil, and only if air can travel through the fins. Clippings thrown by a mower, cottonwood seed and dust pack that surface until head pressure rises, capacity drops and current climbs. Cleaning it properly often restores most of a missing temperature split without a single part. There are limits to what a homeowner should attempt. Cutting power at the disconnect and rinsing gently from inside the coil outward is reasonable. A pressure washer lays the fins over permanently, and a screwdriver does the same damage faster.
+
+### Prove the float switch actually shuts it off
+
+Equipment above a finished ceiling makes condensate directly over the rooms you live in, so drainage deserves more attention here than the coil does. Pan, trap and line get flushed. The float switch gets lifted by hand to show it truly stops the system, since that one inexpensive part stands between a plugged line and destroyed drywall. A rusting secondary pan gets flagged before it fails rather than after. The code adopted this year spells out the alternatives: a pan with its own drain to a visible discharge point, an overflow line above the primary, or a listed water-level device that shuts the equipment off.
+
+### Parts get changed because an instrument said so
+
+Contactors and capacitors work on every start, and both wear in ways a meter can see. Capacitance slides down from its rating. Contact faces pit and eventually weld. Motor bearings tighten and pull more current. That is the correct basis for replacing something. A line item reading preventive replacement with no measurement beside it is a sale. The reverse holds too. A new buzz, a repeated trip, a burnt smell or a stopped fan is a repair to be scoped and quoted, not folded quietly into a maintenance ticket.
+
+### What A2L equipment adds to the visit
+
+Systems going in new today use lower-GWP refrigerants that are mildly flammable, which changes the checklist rather than the calendar. Appliances built for them are certified to UL 60335-2-40, and many include an integral refrigerant detection system whose sensors sit low in the cabinet because the vapor is heavier than air. On those units a visit should confirm the sensor is the specified part number, mounted where the manufacturer requires, wired to the board, and not defeated by anyone. Detection tools and recovery gear have to be rated for the refrigerant present. The 2024 mechanical code in force here carries the definitions and points these systems at ASHRAE 15.
+
+### What maintenance cannot do
+
+It finds conditions. It does not cure a pinholed coil, a failed compressor, scorched wiring, or duct that was never sized for the house, and it cannot promise a season without a breakdown. Maintenance is flat-rate work in this market, priced as a visit rather than by the machine, and the range moves with the season instead of with the equipment. Anything measured by the pound, and any part swap, sits outside that price. Each is a separate scope, quoted on its own, for you to approve or decline.

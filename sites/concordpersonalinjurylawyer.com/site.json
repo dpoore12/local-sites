@@ -1,9 +1,10 @@
 {
   "domain": "concordpersonalinjurylawyer.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Concord Personal Injury Law Pros",
   "service": "Personal Injury Lawyer",
   "service_inline": "personal injury lawyer",
+  "vertical": "legal",
   "city": "Concord",
   "state": "NC",
   "state_full": "North Carolina",
@@ -139,7 +140,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "contingency",
-    "table_head": "The figures North Carolina publishes for a Cabarrus County injury claim, and the one it leaves blank",
+    "table_head": "The figures North Carolina publishes, and the one it leaves blank",
     "col_a": "Item under discussion",
     "col_b": "Where the number comes from",
     "anchors": [

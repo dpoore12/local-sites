@@ -28,11 +28,7 @@ A tractor-trailer hit you on the interstate or a major Birmingham connector
 
 ## symptom_1
 
-A collision with an 18-wheeler is not simply a larger car claim. The force of the impact may produce injuries that worsen after the roadside adrenaline fades, while the evidence sits with several different entities. There may be a driver, the motor carrier shown on the cab, a trailer owner, a freight broker, a shipper, a maintenance vendor, and insurers with separate interests. Start by preserving the basics: photographs of all vehicles and debris, the report number, names of witnesses, treatment records, and any letters or messages from an insurer.
-
-Location matters in Birmingham. The I-20/I-59 corridor and its I-65 interchange carry dense traffic and complex merges; federal highway records for the reconstruction described the affected interchange as handling about 250,000 vehicles daily. That does not prove why one crash occurred. It does explain why lane position, ramp choice, traffic flow, construction conditions, and the sequence of vehicles must be reconstructed carefully rather than assumed from a sketch.
-
-Ask that the truck, electronic data, inspection material, dispatch communications, and driver records be preserved before normal business processes overwrite or discard them. Do not sign a broad medical authorization or accept a fault description you do not understand merely to move a claim along. Alabama’s contributory-negligence rule makes the defense’s version of your driving especially consequential. The goal is a complete, documented account: what each vehicle did, what the carrier knew, and what records support it.
+An 18-wheeler impact spreads its evidence across a driver, a motor carrier, a trailer owner, a broker and a shipper, and each of those keeps a separate file on its own schedule. Photograph every unit number and company name on the cab, the trailer and the shipping papers before the equipment gets towed away. Hold onto the report number. Leave your own speed out of the conversation until the truck's recorded data has been read.
 
 ## symptom_2_title
 
@@ -40,11 +36,7 @@ A delivery truck struck you on a Birmingham street or near a property
 
 ## symptom_2
 
-A crash with a box truck, van, service vehicle, or last-mile delivery truck can look modest at the scene and still become a complicated commercial claim. The driver may work directly for a company, for a contractor, or through a layered delivery arrangement. The vehicle may have cameras, route data, telematics, maintenance records, delivery scans, and policies held by more than one business. Those details are not paperwork afterthoughts. They can establish who controlled the vehicle, who set the route, and whose insurance may apply.
-
-Preserve evidence that disappears fast. Photograph the vehicle’s markings, plates, unit number, cargo, damage, street signs, driveway or loading area, and the view the driver had. Save delivery notices, doorbell footage, messages, and any name shown on a uniform or device. If the crash happened in a parking lot, apartment entrance, alley, or work zone, the geometry matters: backing movement, blind spots, curb lines, lighting, pedestrian path, and whether another vehicle blocked the view.
-
-Birmingham neighborhoods such as Five Points South, Glen Iris, Highland Park, Forest Park/South Avondale, Crestwood South, and Redmont Park have different street layouts and traffic patterns. A local address is not enough; the exact place and direction of travel matter. Do not speculate that you “came out of nowhere,” that you could have avoided the vehicle, or that you were partly responsible. Under Alabama’s pure contributory-negligence rule, the defense may treat even a small admission as an effort to bar the whole negligence claim. A documented scene and a precise timeline are safer than a hurried narrative.
+A box van or a last-mile parcel truck can look like a minor street collision and still be a commercial claim carrying route data, delivery scans, telematics and two or three policies behind it. Photograph the markings, the unit number, the loading spot and the sight line the driver actually had. Keep the delivery notification that landed on a phone. Never agree that you drifted or stepped into the vehicle's path.
 
 ## symptom_3_title
 
@@ -52,11 +44,7 @@ The crash may involve fatigue, logbook gaps, or pressure to keep driving
 
 ## symptom_3
 
-Fatigue is rarely proven by asking a driver whether they were tired. The useful evidence is usually a timeline. It may include electronic logging-device records, fuel and toll entries, dispatch messages, route assignments, inspection reports, phone data, bills of lading, location records, and the driver’s own account of duty status. Federal rules require motor carriers to retain records of duty status and supporting documents for six months, but that is not a reason to wait. A preservation request should identify the records at issue while they are still identifiable and before routine retention practices narrow the file.
-
-Signs of a fatigue issue can be indirect. A tractor-trailer drifting across a line, delayed braking, a late-night or early-morning crash, a driver who cannot give a clear account of the prior shift, or a route that does not fit the logged hours can all warrant closer review. None of those facts proves fatigue on its own. Each is a reason to compare the driver’s account with carrier data rather than accept the first explanation offered at the scene.
-
-This is also where Alabama’s fault rule changes the stakes. A carrier or insurer may argue that your speed, following distance, lane position, distraction, or response to the truck caused some portion of the crash. In a comparative-fault state that argument may reduce damages. Alabama’s contributory-negligence rule can bar a negligence recovery if the claimant’s own negligence proximately contributed. The response is not to argue at random. It is to preserve the objective records, build the timeline, and make sure the crash account does not omit the truck’s movement, hours, loading, or supervision.
+Nobody establishes fatigue by asking a driver whether he felt tired. It gets established with a clock: log entries, fuel stops, dispatch traffic, gate scans, and the shift that ran before the shift. Those records sit under federal retention periods counted in months, not years. Write down the exact date and hour of the collision, then get a written preservation demand moving before ordinary practice thins the file.
 
 ## symptom_4_title
 
@@ -64,11 +52,7 @@ The trucking company or insurer says you were partly at fault
 
 ## symptom_4
 
-Treat an early fault accusation as a signal to protect the record, not as a final answer. Trucking companies and insurers begin their own investigations quickly. They may obtain statements, download vehicle data, inspect equipment, contact witnesses, and frame the collision before you have been discharged from care. You do not need to agree with a broad statement such as “I should have seen the truck” or “I might have been going too fast” to be cooperative. Give accurate facts, but do not estimate, apologize, or adopt someone else’s reconstruction without the report, scene evidence, and vehicle data in front of you.
-
-This point is unusually serious in Alabama. The Alabama Supreme Court has described contributory negligence as a complete defense to a negligence claim; in plain terms, if the fact finder concludes your own negligence proximately contributed, recovery can be barred rather than merely reduced. The familiar “one percent” shorthand is meant to capture that harsh difference. It does not mean a trucking company can simply announce fault and end a case. The defense still has to be evaluated against the evidence and the law.
-
-The work is to identify every theory that matters: driver conduct, carrier hiring and supervision, inspection and maintenance, loading, route instructions, brake or tire condition, and the road sequence. Birmingham’s interstate convergence makes accurate lane and ramp evidence particularly important. A Jefferson County filing also proceeds through a court system with separate civil and criminal circuit divisions, so do not confuse traffic enforcement with the civil claim for injury losses. Preserve messages, keep medical and expense records, and get legal advice before signing a release, recorded statement, or settlement document.
+When a carrier's adjuster hands you a share of the blame during the first week, that is a bargaining position and not a finding. This state treats an injured person's own contributing negligence as a complete bar, so the accusation is aimed at the entire claim rather than a slice of it. File away every letter and recorded-statement request. Hiring, qualification and maintenance decisions upstream of the driver remain open questions.
 
 ## qa_1_question
 
@@ -278,23 +262,23 @@ Alabama does not fix a percentage for a truck injury fee. It bars a clearly exce
 
 ### Alabama's rule uses a different adjective, and it matters
 
-Most states test a fee against the word reasonable. Alabama's Rule of Professional Conduct 1.5(a) forbids agreeing to, billing, or collecting a fee that is clearly excessive, and gives nine factors for deciding whether one is: hours and labor spent, together with how novel and difficult the questions were and the skill they called for; the odds, if the client could see them, that the engagement would foreclose other work; what the locality customarily charges for comparable services; the sum at issue and the outcome reached; time limitations in play; how long and of what character the professional relationship has been; the ability, standing and experience of the lawyers involved; whether the fee is fixed or contingent; and whether a written fee agreement carries the client's signature.
+Most states test a fee against the word reasonable. Alabama's Rule of Professional Conduct 1.5(a) forbids agreeing to, billing, or collecting a fee that is clearly excessive, and gives nine factors for deciding whether one is. They cover the time, labor and skill the matter demanded and the difficulty of its questions; work the engagement would foreclose; the locality's customary charge; and the amount involved and the results obtained. The rest are time limitations; the length and nature of the professional relationship; the lawyers' experience, reputation and ability; whether the fee is fixed or contingent; and whether a written fee agreement carries the client's signature.
 
-That last factor is worth pausing on, because Alabama put the existence of a signed writing into the excessiveness analysis itself. No percentage appears anywhere in the rule. Alabama sets no ceiling on a contingency in a tractor-trailer case, and a figure presented as the state maximum is a practice, not a statute.
+That last factor is worth pausing on, because the existence of a signed writing sits inside the excessiveness analysis itself. No percentage appears anywhere in the rule, so a figure presented as the state maximum is a practice rather than a statute.
 
 Rule 1.5(c) governs the paperwork. A contingent agreement goes in writing and spells out how the fee is computed: the percentages attaching at settlement, at trial and on appeal, which litigation and other expenses are charged against the recovery, and whether the percentage is applied before those expenses are subtracted or afterward. At the conclusion the lawyer owes the client a written statement of the outcome and, where there is a recovery, the remittance and the method of its determination. Rule 1.5(d) is the prohibition list: a fee may not ride on obtaining a divorce, nor on the size of alimony, support, or a property settlement standing in for them, and no contingent fee may be taken for defending a criminal matter.
 
 ### The 15 percent figure, and the case it belongs to
 
-Search Alabama attorney fees and a hard number surfaces: fifteen percent. It is real and it is not an injury cap. Ala. Code 25-5-90(a) provides that no part of workers' compensation payable under the Act goes to the claimant's attorney unless the judge orders or approves the employment, and that the judge fixes the fee and the manner of its payment, which shall not exceed 15 percent of the compensation awarded or paid. That is a workers' compensation provision, applied by a judge in a compensation proceeding.
+Search Alabama attorney fees and a hard number surfaces: fifteen percent. It is real and it is not an injury cap. Ala. Code 25-5-90(a) provides that no part of workers' compensation payable under the Act goes to the claimant's attorney unless the judge orders or approves the employment. The judge fixes the fee and the manner of its payment, which shall not exceed 15 percent of the compensation awarded or paid. That is a workers' compensation provision, applied by a judge in a compensation proceeding.
 
-The distinction is live in a Birmingham truck case, because a driver hurt on the job in a commercial vehicle can have a compensation claim and a claim against the at-fault carrier running at the same time, under two different fee regimes. Anyone quoting the comp percentage as the limit on a third-party liability claim has merged two files.
+The distinction is live here, because a driver hurt on the job can have a compensation claim and a claim against the at-fault carrier running at once, under two different fee regimes. Anyone quoting the comp percentage as the limit on a third-party liability claim has merged two files.
 
 ### What the federal side publishes
 
-Truck claims come with numbers no state prints. Under 49 C.F.R. 387.9, an interstate for-hire carrier operating a vehicle rated above 10,000 pounds must carry at least $750,000 in public liability coverage for nonhazardous property. The floor rises to $1,000,000 for oil and most hazardous materials and waste, and to $5,000,000 for bulk hazardous substances, bulk Division 1.1 through 1.3 explosives, and highway route controlled quantities of Class 7 radioactive material.
+Truck claims carry numbers no state prints. Under 49 C.F.R. 387.9, an interstate for-hire carrier operating a vehicle rated above 10,000 pounds must carry at least $750,000 in public liability coverage for nonhazardous property. The floor rises to $1,000,000 for oil and most hazardous materials and waste, and to $5,000,000 for bulk hazardous substances, bulk Division 1.1 through 1.3 explosives, and highway route controlled quantities of Class 7 radioactive material.
 
-Those are minimums, not the coverage a given carrier actually bought, and they say nothing about what a claim is worth. What they do is set the questions to ask about the rigs moving through the I-20, I-59 and I-65 interchange: what the trailer was carrying, whether the load made the run a hazmat run, and who filed the coverage. That usually decides which insurer is at the table.
+Those are minimums rather than the coverage a carrier actually bought, and they say nothing about what a claim is worth. What they do is set the questions about rigs moving through the I-20, I-59 and I-65 interchange: what the trailer carried, whether the load made the run a hazmat run, and who filed the coverage.
 
 ### Jefferson County's published costs
 
@@ -304,8 +288,158 @@ Those figures are the small end of a truck file. Electronic control module downl
 
 ### One more Alabama provision worth knowing
 
-Ala. Code 34-3-61 gives a lawyer a lien for fees. On papers and money already in hand the lien is possessory. On actions and judgments for money it is superior to every lien except a tax lien, and no one may satisfy the judgment until the fee claim is satisfied. The lien does not attach until the defendant has been served with summons, writ or other process, and a settlement reached before the defendant has actual notice of the filing discharges the claim. In a case where a client changes firms, that section, not the fee agreement, is what governs who gets paid out of the recovery.
+Ala. Code 34-3-61 gives a lawyer a lien for fees. On papers and money already in hand the lien is possessory. On actions and judgments for money it outranks every lien except a tax lien, and the judgment cannot be satisfied until the fee claim is. The lien does not attach until the defendant has been served, and a settlement reached before the defendant has actual notice of the filing discharges the claim. Where a client changes firms, that section rather than the fee agreement governs who gets paid.
 
 ### The short version
 
 No cap on a contingency here, a clearly excessive fee prohibited, and the rate left to a written agreement that spells out the expense order. Fifteen percent is workers' compensation. Jefferson County charges $351 to open a claim over $50,000, $100 for a jury and $10 a document for service.
+
+## services_summary
+
+Four separate files hide inside the phrase truck wreck. A tractor-trailer collision on the interstate loop turns on carrier data and a reconstruction of lane and ramp movement. A parcel-van crash on a residential street turns on who employed the driver and which policy answers for the route. A fatigue claim lives inside duty-status records that expire on a federal calendar. A company-liability claim reaches past the driver into hiring, qualification and maintenance paperwork. Mixing them up is expensive in this state, where any contributing negligence by the injured person bars a negligence recovery, and where a demand sent to the wrong record holder can arrive after retention has already run.
+
+## services_pick_head
+
+Start with the truck problem you actually have
+
+## crosslink_head
+
+Another kind of truck claim?
+
+## svc_tractor_trailer_accident_lawyer_lede
+
+A loaded rig generates a paper trail before it ever leaves the scene: engine data, a dispatch entry, a duty-status record, an inspection sheet. Whether any of it still exists six months from now depends on who demanded it in writing, and how soon.
+
+## svc_tractor_trailer_accident_lawyer_body
+
+### Telling a carrier file apart from an ordinary collision file
+
+Weight alone is not the dividing line, the rating is. The federal financial-responsibility table at 49 CFR 387.9 attaches to a vehicle with a gross vehicle weight rating of 10,001 pounds or more in interstate or foreign commerce, and sets the for-hire floor for nonhazardous property at $750,000. Look for a USDOT number on the door, a carrier name that does not match the trailer, and shipping papers listing a broker or a shipper. Every one of those names is a separate custodian holding a separate set of records, and none of them answers a demand addressed to somebody else.
+
+### Where the weight actually moves through Jefferson County
+
+ALDOT's crash facts for 2024 counted 10,183 trucks involved in reported crashes statewide, with 2,368 injuries and 131 deaths. Interstate mileage produced 3,114 of those crashes, 30.6 percent of the truck total, and 36 of the deaths. Downtown supplies the reason. The Federal Highway Administration's final report on the I-59/20 reconstruction describes the segment from the Arkadelphia Road interchange to east of the I-65 interchange, a distance of 1.682 miles, including modifications where the two routes meet. That work affected roughly 250,000 vehicles a day. Add the I-459 belt, where ALDOT has proposed rebuilding concrete pavement and adding auxiliary lanes between the I-65 interchange at Exit 15 and Acton Road at Exit 17. On that geometry, "near the interchange" identifies nothing. A ramp number, a direction and a lane do.
+
+### Why the fault question here decides everything else
+
+Alabama did not follow the rest of the country into comparative fault. In Golden v. McCurry the state Supreme Court declined to abolish contributory negligence and left any change to the legislature. It went on to affirm summary judgment against a plaintiff who had stipulated that he was one percent negligent and that his negligence proximately contributed to his own injuries. Two doorways remain open. Contributory negligence is not a defense to wantonness, a point the trial court in Bohannon v. Driskell charged and the Supreme Court left standing even while disapproving the phrase "slightest degree" in a contributory-negligence instruction. And under Dees v. Gilley, a victim's initial negligence in getting into a position of peril is no defense to a defendant's subsequent negligence, where there is evidence the defendant gained actual knowledge of the peril in time to avoid the collision.
+
+### The first week, in the order it matters
+
+Follow the medical advice and keep the discharge paperwork. Write your own account of the sequence while it is fresh, and mark clearly which parts you saw and which parts somebody told you. Photograph the vehicles, the debris field, the lane lines and the ramp signs. Identify witnesses by name and vehicle. Then stop describing distances and speeds in numbers, because an estimate offered while medicated becomes an admission quoted back later.
+
+### Records that expire on a federal calendar
+
+Section 395.8(k) requires a motor carrier to retain records of duty status and supporting documents for each driver for not less than six months from receipt. A carrier using electronic logging devices must also keep a back-up copy of the records for six months on a separate device under 395.22. Driver vehicle inspection reports, the certification of repairs and the driver's review are kept three months from the date the written report was prepared under 396.11. Maintenance records under 396.3 are held one year, and six months after the vehicle leaves the carrier's control. Those periods set the deadline on a preservation letter. Smith v. Atkinson is why the letter has to be specific. Constructive notice alone does not create a duty to preserve. That duty arises instead from an agreement, from a voluntary undertaking relied on, or from a specific request accompanied by an offer to bear the cost of preserving.
+
+### What the other side is doing during the same weeks
+
+A carrier's team can be at the scene the same day, photographing marks and downloading modules. Roadside inspection violations feed the agency's Safety Measurement System, and a carrier can challenge them through DataQs. Anyone can pull the free SAFER company snapshot, which holds identification, size, commodity information, safety record, any safety rating, an out-of-service inspection summary and crash information.
+
+### Deadlines, and how a fee gets measured in this state
+
+Section 6-2-38(l) of the Alabama Code gives two years for an injury to the person or rights of another not arising from contract and not otherwise enumerated. Where the collision killed someone, section 6-5-410 puts the action in the personal representative's hands and requires it within two years from the death. On money, Rule 1.5(a) of the Alabama Rules of Professional Conduct bars a clearly excessive fee and lists nine factors, one of which is whether a written fee agreement carries the client's signature. Rule 1.5(c) requires a contingent agreement in writing, stating the percentages accruing at settlement, trial and appeal, the expenses deducted, and whether they come off before or after the fee is figured.
+
+## svc_delivery_truck_accident_lawyer_lede
+
+The van that hit you may belong to the name painted on its side, to a contractor holding a delivery agreement, or to a leasing company. Route data, a scan timestamp and a policy declarations page usually answer that question faster than the driver can.
+
+## svc_delivery_truck_accident_lawyer_body
+
+### The rating on the door decides which rulebook applies
+
+Start with what the vehicle is. Federal motor carrier rules and the insurance minimums in 49 CFR 387.9 reach vehicles rated at 10,001 pounds or more, so a heavy straight truck sits inside that framework while a small cargo van may not. The distinction changes the evidence list. Above the line there can be duty-status records, inspection reports and driver qualification files. Below it, the useful material is more likely telematics, a delivery-scan history, a route assignment and a dashboard camera, none of which carries a federal retention floor.
+
+### Residence districts, curb lines and the city's own parking rule
+
+Section 10-9-16 of the Birmingham city code bars a semitrailer truck from parking on a public way except for expeditious loading, delivery or pickup. Subsection (b) extends that to trailers, truck tractors, road tractors, special mobile equipment and other commercial vehicles with a gross weight over 6,000 pounds when they stand on a public way in a residence district. Under subsection (d), a commercial vehicle stopped in a residence district between 11:00 p.m. and 6:00 a.m. is prima facie evidence of a violation.
+
+That ordinance describes the streets where most of these collisions happen. Five Points South carries a National Register historic district first listed in 1983 and expanded twice, in 1986 and 1991. Glen Iris Park's district was listed in 1984, and the Forest Park district, listed in 1980, runs between the Highland Golf Course and 38th Street on the west and Linwood Road on the east. Highland Avenue-Rhodes Park was listed as early as 1977, and Redmont Park falls inside the Red Mountain Suburbs district listed in 1985. Crestwood South, east of those, is newer housing on a grid of narrower residential streets. Old street layouts mean short sight lines, on-street parking and driveway aprons a delivery driver has to back across.
+
+### Where these crashes land in the state's own count
+
+City streets, not highways, carry the bulk of them. Of the 10,183 truck-involved crashes ALDOT recorded for 2024, 2,236 happened on city roadways, 22.0 percent of the total, though those produced only eight deaths. The listed primary causes fit street work: improper lane change or use at 1,746 crashes, failure to yield right of way at 1,063, an unseen object, person or vehicle at 748, and improper backing at 375. ALDOT cautions that the count carries no inference about which vehicle caused the crash, which is exactly why the geometry at your address has to be documented rather than assumed.
+
+### Finding out who actually employed the driver
+
+Ask three questions and write down the answers. Whose name is on the vehicle, whose name is on the driver's paycheck, and who assigned the stops. Those can be three different companies, and the answer controls which insurer belongs at the table. Save the uniform logo, the handheld device brand, the tracking notification, the driver's own description of his employer and the plate. A leased vehicle and a contracted route both leave documents behind.
+
+### The mistake that quietly ends one of these claims
+
+An early apology is the expensive part. Because a claimant's own contributing negligence bars a negligence recovery outright in this state, a sentence like "I didn't look before I stepped off the curb" does work an adjuster could never do alone. Give the facts you actually know. Decline to guess about distance, timing or whether you could have moved sooner, and read anything before signing it.
+
+### What the company does with its route data
+
+Delivery operations run on scheduling software, and that software keeps stop times, dwell times, geolocation pings and reverse-camera clips under ordinary business settings measured in days or weeks. Nothing obligates a parcel contractor to keep a camera clip for six months. A written request naming the vehicle, the date, the stop and the specific systems is worth more than a general demand. Smith v. Atkinson explains why. A duty to preserve grows out of an agreement, a relied-upon undertaking, or a specific request paired with an offer to bear the cost.
+
+### After you make contact, and what the fee rule requires
+
+Expect the early work to be requests and identification rather than negotiation: the crash report, treatment records, the vehicle's ownership and coverage, and preservation letters to each custodian. Section 6-2-38(l) allows two years for a personal-injury action, and a death claim under section 6-5-410 runs two years from the date of death. Rule 1.5(c) requires a contingent agreement to be written and to state the percentages at settlement, trial and appeal, which expenses are deducted, and whether the deduction happens before or after the percentage is calculated. Rule 1.5(a) forbids a clearly excessive fee and gives nine factors for testing one.
+
+## svc_truck_driver_fatigue_claim_lede
+
+Duty-status records answer a question a deposition cannot: how many of the previous fourteen hours the driver spent behind the wheel, and whether the thirty-minute break ever happened. The federal limits are numbers, and numbers can be checked against fuel stops.
+
+## svc_truck_driver_fatigue_claim_body
+
+### The four numbers that define a legal shift
+
+Section 395.3 sets the frame for a property-carrying driver. He may not drive without first taking 10 consecutive hours off duty. He may not drive after a period of 14 consecutive hours following that time off, and inside that window he may drive a total of 11 hours. Driving is not permitted once more than 8 hours of driving time have passed without at least a consecutive 30-minute interruption in driving status. On top of the daily frame sits a weekly one. A carrier that does not operate every day of the week is held to 60 on-duty hours in any 7 consecutive days, and one that operates daily to 70 hours in any 8 consecutive days. Either period may end when an off-duty stretch of 34 or more consecutive hours begins.
+
+### How the electronic log changed what can be checked
+
+Under 395.8, a carrier operating commercial motor vehicles had to install electronic logging devices and require drivers to use them no later than December 18, 2017. Paper is still allowed in narrow cases, among them a driver who completes a duty-status record on not more than 8 days within any 30-day period, driveaway-towaway operations, and a vehicle manufactured before model year 2000 by its identification number. Section 395.22 requires the device to appear on the agency's registered list, requires each driver to have a unique username, and requires the carrier to keep a back-up copy of the records for six months on a separate device.
+
+### Supporting documents are where a log gets contradicted
+
+The log is one document. Section 395.11 governs the rest, and it is the more useful half. A driver submits supporting documents to the employer within 13 days of the 24-hour period they cover or the day they come into his hands, whichever is later. A carrier need not keep more than eight supporting documents for a driver's 24-hour period, and where more exist, it must retain the ones showing the earliest and latest time indications among the eight. Each supporting document is supposed to carry a driver identifier, a date, a location and a time. Where the driver kept paper logs, toll receipts must be maintained as well. Fuel purchases, gate scans, dispatch messages and bills of lading are how a shift gets rebuilt independently of what the log claims.
+
+### The six-month clock, and the letter that has to beat it
+
+Section 395.8(k) obligates a carrier to keep duty-status records and supporting documents for each driver for not less than six months from receipt. That is the practical deadline in a fatigue file, and it runs from the crash, not from the day someone hires a lawyer. Smith v. Atkinson sets out what a preservation request needs to accomplish. Constructive notice does not impose a duty; the duty comes from an agreement, a voluntary undertaking that is reasonably relied on, or a specific request to preserve a particular item accompanied by an offer to bear the cost. A letter naming the driver, the tractor number, the date range and each system by name is doing real work. A vague demand for "all records" is not.
+
+### What the state's crash data says about tired driving
+
+ALDOT's 2024 figures list fatigued or asleep as the primary cause in 222 of the 10,183 truck-involved crashes, about 2.2 percent, and the booklet warns that the cause table draws no inference about which vehicle was at fault. Two other lines matter more in practice, because they are what a drowsy shift looks like from outside the cab: crossed median or centerline at 299 crashes, and misjudged stopping distance at 452.
+
+### Why a fatigue record can outrun the fault defense
+
+This is the point where the evidence changes the legal shape of the case. A negligence claim in Alabama dies if the injured person's own negligence proximately contributed, however slight the share, as Golden v. McCurry confirmed when the court affirmed judgment against a plaintiff who stipulated to one percent. Wantonness is different. The trial court in Bohannon v. Driskell instructed that contributory negligence is not a defense to wantonness, and the Supreme Court affirmed. A documented pattern of hours violations, a dispatcher pushing a driver past the window, or a carrier ignoring its own log audits is the kind of record that supports arguing conduct beyond ordinary carelessness.
+
+### The public record you can read yourself
+
+Two federal tools are open. The Safety Measurement System uses roadside inspection and crash data from the last two years plus investigation results, updates monthly, and sorts violations into seven Behavior Analysis and Safety Improvement Categories, one of which is Hours-of-Service Compliance. The free SAFER company snapshot returns identification, company size, commodity information, safety record, any safety rating and an out-of-service inspection summary for one carrier at a time. Neither decides a claim. Both tell you what to ask for.
+
+## svc_trucking_company_liability_lede
+
+Sometimes the driver is the smallest part of the problem. A qualification file with a gap in it, a maintenance record that never got made, or a dispatch instruction that could not be followed inside a legal shift moves the question up the chain.
+
+## svc_trucking_company_liability_body
+
+### The theories that reach past the cab
+
+A driver's mistake is one claim. A carrier's own conduct is another, and the paperwork it is required to keep is where that conduct shows up. Driver qualification files are supposed to hold the commercial license, the medical certificate, the state driving record, the annual review of that record and the employment application, which is how the agency's Driver Fitness category is defined. Under 396.3, a carrier must keep records for each vehicle it controls for 30 consecutive days and retain them one year, plus six months after the vehicle leaves its control. Section 396.11 requires a written driver inspection report at the end of each day's work on each vehicle, a repair certification before the vehicle runs again, and three months of retention for both.
+
+### Reading a carrier before you request anything
+
+Federal data is public and free, and it shapes a records demand. The Safety Measurement System pulls roadside inspections and state-reported crashes from the last two years, updates monthly, and ranks carriers by percentile inside seven Behavior Analysis and Safety Improvement Categories. Those categories are Unsafe Driving, Crash Indicator, Hours-of-Service Compliance, Vehicle Maintenance, Controlled Substances and Alcohol, Hazardous Materials Compliance, and Driver Fitness. Two of those, the Crash Indicator and hazardous materials, are visible only to the carrier itself and to enforcement. The SAFER company snapshot is fully public and returns identification, size, commodity information, safety record, any safety rating, an out-of-service summary and crash information for a single carrier.
+
+### How much coverage the law required this company to buy
+
+The floors in 49 CFR 387.9 depend on cargo, not on injury. A for-hire interstate carrier hauling nonhazardous property in a vehicle rated 10,001 pounds or more must carry at least $750,000 in public liability coverage. Oil listed in the hazardous materials tables, hazardous waste and most hazardous substances raise the floor to $1,000,000. Bulk hazardous substances, bulk Division 1.1 through 1.3 material, certain Hazard Zone A materials in bulk and highway route controlled quantities of Class 7 radioactive material carry $5,000,000. What the trailer held that day therefore changes which insurer answers, and a minimum is a floor rather than a description of what a carrier actually bought.
+
+### Where the wantonness question earns its keep
+
+Corporate records are what make the second theory available. A negligence claim in this state fails if the injured person's own negligence proximately contributed, a rule Golden v. McCurry kept in place, leaving any change to the legislature. Contributory negligence is not a defense to wantonness, however, as the charge affirmed in Bohannon v. Driskell states. Dees v. Gilley adds a further route: initial negligence in getting into a position of peril is no defense to a defendant's subsequent negligence, where evidence shows actual knowledge of the peril in time to avoid the collision. A hiring decision made despite a known record, or equipment run after a defect was reported, is the sort of evidence that argument depends on.
+
+### Filing in Jefferson County, with the published costs
+
+The Tenth Judicial Circuit separates civil matters from criminal ones, and the Birmingham Division clerk sits at 716 Richard Arrington Jr. Boulevard North. The clerk's published civil schedule charges $251 for one plaintiff against one defendant up to $50,000 and $351 above that or where the amount is unspecified, with $10 for each additional defendant. A jury demand adds $100. Service by the Jefferson County Sheriff's Department costs $10 per document under Act 2003-289, a subpoena costs $12, and a counterclaim, cross claim or third-party complaint costs $297. A traffic citation against the driver is a different proceeding from the civil claim, and neither controls the other.
+
+### When the collision killed someone, the statute is unusual
+
+Alabama's death statute does not work like its neighbors'. Section 6-5-410 gives the action to the personal representative, requires it within two years from the death, and provides that the damages recovered are not subject to the decedent's debts but must be distributed according to the statute of distributions. In Tatum v. Schering Corp. the Supreme Court stated that the damages recoverable in a wrongful death action are punitive in nature, and that a plaintiff suing joint tortfeasors gets a single recovery that cannot be apportioned among them. The practical consequence is that the jury is asked to punish rather than to add up losses, and that the money passes by intestacy rather than by will.
+
+### What the other side does, and how the fee is measured
+
+Expect a carrier's counsel to work the fault question early, to seek a recorded statement, and to frame the collision before treatment has finished. Keep the correspondence and keep the preservation letters. On fees, Rule 1.5(a) of the Alabama Rules of Professional Conduct prohibits a clearly excessive fee and lists nine factors for testing one. Among them are the amount involved and the results obtained, the fee customarily charged in the locality, and whether a written agreement is signed by the client. Rule 1.5(c) requires the writing itself to state the percentages at settlement, trial and appeal, the expenses deducted from a recovery, and whether they are deducted before or after the calculation.

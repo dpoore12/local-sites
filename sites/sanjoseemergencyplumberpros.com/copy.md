@@ -107,7 +107,7 @@ The same symptom can also cross categories. A water-heater leak may be a failed 
 
 ## about_summary
 
-This page covers San Jose and the Santa Clara County communities around it, and nothing else. It exists for one moment: somebody standing on a wet garage slab at two in the morning trying to work out what to shut off and who to call, who does not want to be routed into a national lead marketplace that sells the same call to four contractors. The troubleshooting here was written around what is actually buried in this city's houses — galvanized supply lines and cast iron drains in the pre-1960 tracts, copper from the 1960s and 70s building boom that took San Jose from roughly 69,000 dwellings to well over 200,000, and hard groundwater that is quietly scaling all of it. It names no company and makes no licensing or pricing claims, because no operator is attached to it yet.
+This page covers San Jose and the Santa Clara County communities around it, and nothing else. It exists for one moment: somebody standing on a wet garage slab at two in the morning, trying to work out what to shut off and who to call. That person does not want to be routed into a national lead marketplace that sells the same call to four contractors. The troubleshooting here was written around what is actually buried in this city's houses — galvanized supply lines and cast iron drains in the pre-1960 tracts, copper from the 1960s and 70s building boom, and hard groundwater that is quietly scaling all of it. That boom took San Jose from roughly 69,000 dwellings to well over 200,000. It names no company and makes no licensing or pricing claims, because no operator is attached to it yet.
 
 ## value_1_title
 

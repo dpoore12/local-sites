@@ -1,9 +1,10 @@
 {
   "domain": "tempeduilawyerpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Tempe DUI Law Pros",
   "service": "DUI Lawyer",
   "service_inline": "dui lawyer",
+  "vertical": "legal",
   "city": "Tempe",
   "state": "AZ",
   "state_full": "Arizona",
@@ -138,7 +139,7 @@
   "pricing": {
     "mode": "fees",
     "fee_kind": "criminal",
-    "table_head": "What Arizona statutes, Tempe Municipal Court and the MVD set on a Tempe DUI, and the fee no lawyer may take",
+    "table_head": "What the statutes, the Tempe court and the MVD each set on a DUI",
     "col_a": "Item",
     "col_b": "Amount the statute or schedule sets",
     "anchors": [
@@ -152,14 +153,14 @@
       {
         "label": "Surcharge levied on the fine itself",
         "value": "68 percent",
-        "detail": "A.R.S. 12-116.01 levies 42 percent, then 7 percent, then 6 percent on every fine collected for a criminal offense, and A.R.S. 12-116.02 adds a further 13 percent. Those four layers total 68 percent on the fine, not on the fixed assessments.",
+        "detail": "Surcharges stack on that fine. A.R.S. 12-116.01 levies 42 percent, then 7 percent, then 6 percent on every fine collected for a criminal offense, and A.R.S. 12-116.02 adds a further 13 percent. Those four layers total 68 percent on the fine, not on the fixed assessments.",
         "source_name": "A.R.S. 12-116.01",
         "source_url": "https://www.azleg.gov/ars/12/00116-01.htm"
       },
       {
         "label": "Extreme DUI at 0.20 or above, first conviction",
         "value": "$500 fine, plus $250, $1,000 and $1,000",
-        "detail": "A.R.S. 28-1382 sets a fine of not less than $500 at that level, a $250 assessment for the driving under the influence abatement fund, and two further assessments of $1,000 each, with 45 consecutive days in jail.",
+        "detail": "Extreme counts carry their own numbers. A.R.S. 28-1382 sets a fine of not less than $500 at that level, a $250 assessment for the driving under the influence abatement fund, and two further assessments of $1,000 each, with 45 consecutive days in jail.",
         "source_name": "A.R.S. 28-1382(D)",
         "source_url": "https://www.azleg.gov/ars/28/01382.htm"
       },

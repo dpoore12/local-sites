@@ -1,9 +1,10 @@
 {
   "domain": "mariettagaragedoorrepairpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Marietta Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
+  "vertical": "home",
   "city": "Marietta",
   "state": "GA",
   "state_full": "Georgia",

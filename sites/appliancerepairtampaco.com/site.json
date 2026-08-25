@@ -1,9 +1,10 @@
 {
   "domain": "appliancerepairtampaco.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "Tampa Appliance Repair Pros",
   "service": "Appliance Repair",
   "service_inline": "appliance repair",
+  "vertical": "home",
   "city": "Tampa",
   "state": "FL",
   "state_full": "Florida",
@@ -43,7 +44,7 @@
     {
       "id": "water_hardness",
       "claim": "The City of Tampa reported average finished-water hardness of 211 mg/L, or 12.3 grains per gallon, in its 2025 water quality report.",
-      "why_it_matters": "Mineral scale can affect dishwasher spray paths, filters, valve screens, and water-heating components, so a technician checks the appliance before blaming the machine alone.",
+      "why_it_matters": "Mineral scale can affect dishwasher spray paths, filters, valve screens, and water-heating components. A technician checks the water side of the appliance before blaming the machine alone.",
       "sources": [
         "https://www.tampa.gov/sites/default/files/document/2026/2025-water-quality-report.pdf"
       ],

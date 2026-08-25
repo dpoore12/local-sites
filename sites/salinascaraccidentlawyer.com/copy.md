@@ -6,7 +6,7 @@
 
 - Write for this city. Every block must be unreusable on another site.
 - Never promise a phone consultation. Sell the evidence, claim, and court work that follows.
-- PHASE 1: this site is home + about + contact only. No service pages.
+- PHASE 2: home + about + contact + pricing + services index + four service pages.
 
 ---
 
@@ -36,11 +36,7 @@ A rear-end hit looked minor, but pain or missed work is growing
 
 ## symptom_1
 
-A rear-end impact can produce a confusing gap between the car and the person inside it. A bumper may show limited damage while neck pain, back stiffness, headaches, tingling, sleep disruption, or trouble lifting and driving develops after the scene has cleared. Seek care appropriate to the symptoms and follow the treatment plan. What matters is not putting a label on the injury at roadside. It is making sure the medical record accurately captures what you felt, when it began, and how it changes ordinary activity.
-
-The crash itself still needs preservation. Keep original photographs before a body shop repairs the vehicle. Save the estimate, tow invoice, rental paperwork, and any images that show the full roadway, the traffic control, vehicle positions, debris, and the condition of both cars. On the agricultural edges of the Salinas Valley, a rear-end event may involve a pickup, box truck, crew vehicle, or farm-related transport rather than two privately owned cars. Vehicle ownership and work use can then matter as much as the driver’s name.
-
-A careful claim file tests the obvious story instead of simply repeating it. It considers whether traffic was stopped, whether there were multiple impacts, what the report says, whether a witness or camera can confirm the sequence, and which policies may be involved. It also documents treatment, bills, missed shifts, and the practical help needed at home. The aim is not to promise fault or a result. It is to make sure an early adjustment call does not become the only account of a crash that keeps affecting your body and work.
+Bumper covers hide a great deal. Before the car leaves on a flatbed, photograph the structure behind that cover, the head restraint height, and whatever had halted or slowed the traffic ahead of you. Then get examined and describe every symptom, including the ones that arrived on day two. Neck and shoulder pain belongs in a chart rather than in an early phone call with an adjuster.
 
 ## symptom_2_title
 
@@ -48,11 +44,7 @@ The other vehicle left, and the useful clues are disappearing
 
 ## symptom_2
 
-After a hit-and-run, begin with safety, medical care, and a report. Then write down every fragment before memory smooths it over: the direction of travel, vehicle color and shape, plate characters even if incomplete, damage, wheel type, ladder rack, cargo, stickers, or a company mark. A few details can distinguish one vehicle from many when officers, witnesses, or cameras are trying to connect the event to a driver.
-
-The location is a source of evidence, not just an address. Save a map pin, time stamp, and photographs that show nearby businesses, homes, agricultural entrances, intersections, and possible camera angles. Video systems often overwrite quickly. A dash-cam file should be copied in its original form before the device records over it; screenshots alone may omit the seconds that explain the movement of each car. Preserve paint transfer, broken parts, and photos of damage before repairs erase the pattern.
-
-The insurance side should be investigated in parallel. A driver who is never found does not automatically mean there is no path under the coverage you already carry, but policy terms and required proof matter. Notify the appropriate insurer in line with the policy and retain every notice, claim number, email, and voicemail. The work is to connect the report, physical evidence, treatment documentation, and coverage questions into one account. No one can recreate a missing plate or guarantee that footage exists. Acting while the trail is fresh can keep a vanished vehicle from taking the rest of the proof with it.
+This city logged 57 hit-and-run collisions involving a death or an injury in 2023. Write down the direction it fled, the body style, the color, any lettering, and whatever plate characters you caught, before the memory smooths over. Report the crash the same day. Coverage for a driver nobody can name depends on a report made inside 24 hours and a sworn statement filed within 30 days.
 
 ## symptom_3_title
 
@@ -60,11 +52,7 @@ An uninsured answer may hide an ownership or work-use question
 
 ## symptom_3
 
-Do not settle the coverage question at the curb. An expired card, a driver saying there is no insurance, or a vehicle registered to someone else is a starting point for records work, not a final answer. The driver, owner, household, employer, contractor, rental company, and your own policy may each require review depending on the facts. That is especially important when the crash involves a passenger van, a vehicle carrying field crews, a delivery route, a freight truck, or a pickup being used for a business purpose.
-
-Preserve the exchange information exactly as received. Photograph plates, the VIN where visible, every insurance card, door lettering, trailer numbers, and the condition of the vehicles. Keep the collision report and ask for a claim number when notifying an insurer. Save letters instead of relying on a summary from a phone conversation. The details that identify a vehicle’s owner or business role may be in the documents, not in what a driver says immediately after a stressful impact.
-
-Care does not need to wait while insurance is sorted out. Keep appointment notes, referrals, prescriptions, invoices, work restrictions, wage records, and a calendar that records days missed or tasks you needed help completing. A claim review can trace ownership and potential policies, seek records related to a work connection, and organize the injury proof for the coverage that exists. It cannot invent a policy or turn a wrong account into a valid claim. Its value is in not letting an uncertain insurance answer stop the investigation before the real vehicle and coverage facts are known.
+A missing card settles nothing at the curb. Registration, the household, an employer, a rental agreement, and your own declarations page each have to be checked on paper. Photograph the plate, the registration tab, any company lettering, and the visible identification number while both vehicles still sit where they stopped. Then read your own uninsured motorist limit before accepting the news that nothing responds.
 
 ## symptom_4_title
 
@@ -72,11 +60,7 @@ The first offer arrives before the injury or work loss is clear
 
 ## symptom_4
 
-An offer can feel urgent when a vehicle is in the shop, bills are coming in, and a household depends on the next paycheck. Before signing a release, read what it closes and compare it with the actual record. The question is not whether every offer is bad. It is whether the amount and terms account for the treatment so far, recommended care, out-of-pocket costs, lost income, vehicle-related expenses, and the everyday limits the crash caused. A release can end the opportunity to seek more for the injury portion of a claim.
-
-Build the comparison from records. Medical notes show the course of care. Billing and pharmacy documents show charges. Payroll, schedules, and employer records may show missed hours or changed duties. The report, photographs, repair materials, witness details, and available video help explain the impact. When fault is disputed, the file should address the dispute directly rather than treating it as a footnote.
-
-The exact route still matters. Caltrans describes the corridor south of Salinas toward Chualar as a daily mix of residents, commuters, farmworkers, and freight traffic, with at-grade intersections and rail crossings. In a collision connected to that area, “near Salinas” is not enough to locate the right evidence. Preserve the travel direction, nearest crossroad, turn movement, weather, and time. A structured demand or negotiation file gives an insurer a complete basis to evaluate the loss. It does not guarantee agreement, but it is safer than treating a fast offer as a substitute for knowing what the crash has cost.
+An early number prices the thin file an adjuster happens to be holding, often one emergency bill and a repair estimate. Write down the care still recommended, the shifts already lost, and every carrier that has written to you. Then ask exactly what the release closes, because a single signature can also end the coverage sitting on your own policy.
 
 ## qa_1_question
 
@@ -284,36 +268,220 @@ California puts no number on what pursuing a crash claim is worth to the lawyer 
 
 ## pricing_body
 
-### The governing rule never names a percentage
+### Section 6147 is the statute that actually governs this
 
-Rule 1.5(a) of the California Rules of Professional Conduct runs one sentence: a lawyer shall not make an agreement for, charge, or collect an unconscionable or illegal fee. Behind it sits no schedule of permitted percentages. Rule 1.5(b) supplies thirteen factors for measuring a fee instead, and they read like an audit rather than a price list: whether there was overreaching in setting the fee, whether material facts were withheld, the amount of the fee in proportion to the value of the services actually performed, the relative sophistication of the two sides, the difficulty of the questions, the amount involved and the result reached, the time and labor spent, whether the fee is fixed or contingent, and whether the client gave informed consent to it.
+For a contingency arrangement in an ordinary collision claim, the controlling text is Business and Professions Code section 6147. It requires a written contract signed by both the attorney and the client, with a duplicate signed copy handed to the plaintiff as the contract is entered into. Five things have to appear in it. First, the rate itself. Second, the way costs and disbursements spent pursuing or resolving the claim cut into the fee and into what the client keeps. Third, any compensation owed on related matters that grow out of the relationship yet fall outside this contract. Fourth, in any case section 6146 leaves alone, a sentence saying the rate is negotiable and not fixed by statute. Fifth, in a case section 6146 does govern, a sentence saying its percentages are ceilings that can be bargained down.
 
-Two things follow. Any percentage stated as "the California rate" is somebody's practice, not law. And the review looks backward, at the facts as they stood when the agreement was signed.
+Subdivision (b) supplies the consequence. Miss any one of those requirements and the plaintiff may treat the agreement as voidable, leaving the lawyer nothing but a reasonable fee. Workers' compensation contracts are carved out separately. It is unusually blunt consumer protection, and it only helps whoever reads the paper.
 
-### The one corner where California does cap a percentage
+### No percentage is printed for a crash claim
 
-Business and Professions Code section 6146 caps a contingency fee in an action against a health care provider for professional negligence: twenty-five percent of the amount recovered where the claim resolves by settlement and release before a civil complaint or an arbitration demand is filed, thirty-three percent where it resolves after that point, and anything higher only if the court or arbitrator grants a motion supported by evidence of good cause. The statute also defines what "recovered" means: the net sum after disbursements and costs, with the injured person's own medical bills and the lawyer's office overhead excluded from that deduction.
+People arrive expecting a legal rate to exist. For negligence work, none does. The professional conduct rule bars an unconscionable or illegal fee, then supplies thirteen factors for judging one after the fact, among them overreaching, proportion between the fee and the work performed, the sophistication of each side, and informed consent. Any figure quoted as "the California rate" is somebody's practice rather than law.
 
-That ceiling belongs to malpractice claims. A rear-end impact at Boronda Road, a left-turn collision off North Main Street, a farm truck that pulls onto Highway 101 without clearance -- all ordinary negligence, none of them governed by section 6146. Anyone reciting the twenty-five and thirty-three percent figures for a car crash has picked up the wrong statute.
+### Where California does cap a share
 
-### Section 6147 decides what has to be on paper
+Business and Professions Code section 6146 caps a contingency fee in an action for professional negligence against a health care provider. The share is 25 percent of the amount recovered where the claim resolves before a civil complaint or an arbitration demand is filed, 33 percent once one has been, and anything above that only on a motion supported by good cause. Recovery there means the net sum after disbursements and costs, leaving out the injured person's own medical expenses and the attorney's office overhead.
 
-For any contingency arrangement, section 6147(a) requires a written contract, signed by both sides, with a duplicate copy handed to the plaintiff at the moment it is entered into. Four things have to appear in it: the rate agreed on, how disbursements and costs will affect both the fee and the client's share, the extent to which the client could owe compensation for related matters outside the contract, and, in every case that section 6146 does not reach, a statement that the fee is not set by law but is negotiable between attorney and client. Section 6147(b) supplies the consequence: a contract missing any of that is voidable at the plaintiff's option, and the lawyer is then left with a reasonable fee rather than the bargain.
+Those two numbers belong to malpractice. A rear-end hit on Boronda Road, a left turn across the median near Chualar, a truck pulling onto Route 183 without clearance: all ordinary negligence. Anyone reciting 25 and 33 for a highway collision has picked up the wrong statute.
 
-### Costs are the other half of the arithmetic
+### The order of subtraction changes the check
 
-Costs are money that leaves the file and goes to third parties. Code of Civil Procedure section 1033.5 sets out which of them a winning party can recover: filing, motion and jury fees, deposition transcripts and video, service of process, court-ordered expert fees, statutory court reporter fees, exhibit enlargements that helped the trier of fact. It also names what a prevailing party cannot recover -- experts the court never ordered, investigation expenses, postage, telephone and photocopying outside exhibits.
+Two contracts carrying the same percentage can pay a client different amounts. Compute the fee on the gross and take costs out afterward, and the fee rests on money nobody was ever going to keep. Take costs out first, and the client keeps a share of that cost total instead. Section 6147 requires the contract to state which way it runs. Ask for the sentence, then ask who advances a $3,000 expert retainer if the file needs one.
 
-The court amounts in Monterey County are public. A complaint pleading more than $35,000 is an unlimited civil case at $435; below that line it is limited civil at $370, or $225 where the claim stays under $10,000. Every paper requiring a hearing costs $60, a summary judgment motion $500, court reporting for a hearing of an hour or less $30, and the advance jury fee $150. A case designated complex adds $1,000 for the plaintiffs and $1,000 for each defendant, capped at $18,000.
+### What the courthouse charges
 
-### The order of subtraction changes the answer
+The Monterey County Superior Court publishes its own figures. A complaint pleading more than $35,000 is an unlimited civil case at $435, and each other party pays $435 on its first paper. Below that line the case is limited civil at $370, or $225 where the claim stays at or under $10,000. Later papers that require a hearing run $60 apiece, except a summary judgment or summary adjudication motion, which is $500. Court reporting for a proceeding lasting an hour or less is $30. The advance jury fee is $150 and nonrefundable, and the right to a jury disappears if nobody posts it. Where a case is designated complex, the plaintiff side pays another $1,000 and every defendant pays $1,000 as well, up to an $18,000 ceiling.
 
-Two agreements with the same percentage can hand a client different amounts. Compute the fee on the gross and then subtract costs, and the fee is calculated on money that was never available to anyone. Subtract costs first and compute the fee on the remainder, and the client keeps the percentage of that cost total. Section 6147 requires the contract to state which way it works, which is the point of the requirement. Ask for the sentence, and ask who advances a $3,000 expert retainer if the file needs one.
+### Costs are the other column
+
+Costs leave the file and go to third parties. Code of Civil Procedure section 1033.5 sets out what a winning party may shift onto the loser: filing, motion and jury fees, deposition transcripts and video, service of process, court-ordered experts, statutory reporter charges, and exhibit enlargements that helped the trier of fact. The same section blocks experts the court never ordered, investigation expenses, postage, telephone and photocopying beyond exhibits.
 
 ### What comes off the top besides the fee
 
-Civil Code section 3040 limits a health plan or medical group reimbursement lien to what the plan actually paid providers, and then, where the injured person engaged a lawyer, to no more than one-third of the money due under the judgment or settlement. It further requires pro rata reduction for the attorney fees and costs that produced the fund, and reduction by the same comparative-fault percentage the recovery was cut by. Hospital liens, Medi-Cal recovery and workers' compensation claims run under separate provisions, so the one-third figure is not universal.
+Civil Code section 3040 holds a health plan or medical group reimbursement lien to the reasonable costs of perfecting it plus what the plan actually paid treating providers. For services delivered on a capitated basis the measure is 80 percent of the usual and customary charge in the region where the care was given. Where the injured person engaged a lawyer, the lien may not exceed one-third of the moneys due under a final judgment, compromise or settlement agreement. Hospital liens, Medi-Cal recovery and compensation reimbursement run under separate provisions, so one-third is not universal.
 
-### Questions worth asking in Monterey County before signing anything
+### Questions worth asking before anyone signs
 
-Is the percentage the same before and after a complaint is filed. Are costs deducted before or after the fee is figured. Who fronts the cost of an out-of-county deposition when a commercial driver lives elsewhere. What happens to the fee if the file is associated out to another firm -- rule 1.5.1 requires a written agreement, written client consent after full disclosure, and no increase in the total fee for the division. If the answers are not in the contract, they are not answers.
+Is the rate identical before and after a complaint is filed. Are costs taken out before or after the fee is figured. Who fronts a deposition when a commercial driver lives out of county. If those answers are not in the document, they are not answers.
+
+---
+
+## services_summary
+
+Four different jobs arrive here under one heading, and they run on separate clocks. A rear-end file turns on what had halted a highway posted for 65 miles per hour, and on damage nobody photographed. A hit-and-run or uninsured file lives inside your own endorsement, where one step closes in 24 hours and a second in 30 days. A heavy-vehicle file is a permit and records job on routes still being converted from at-grade crossings. A negotiation file is about damages, liens and release wording. Send the wrong question down the wrong path, and a corridor camera cycles or a six-month government notice quietly lapses.
+
+---
+
+## services_pick_head
+
+Start with the part of the crash that stalled
+
+---
+
+## crosslink_head
+
+Another piece of the same wreck
+
+---
+
+## svc_rear_end_collision_lawyer_lede
+
+Rear-end impacts in this valley are made by a fast road that stops without warning. A car waits in the median south of town. A queue builds on the Route 68 grade. A loaded truck eases onto the highway at 20 miles per hour.
+
+---
+
+## svc_rear_end_collision_lawyer_body
+
+### What the wreckage says before anyone gives a statement
+
+Photographs taken in the first hour do work no later description can. Open the trunk and shut it, because a latch that no longer lines up means the floor pan moved. Look at the seat belt webbing for a shiny loading mark, and at the seat track bolts. Record the head restraint height before somebody adjusts it. If the front of your car is damaged as well, you were pushed into whatever sat ahead of you, and the order of the two impacts becomes the entire argument. Photograph the odometer and every warning lamp, then keep the tow slip and the storage invoice, since those papers fix dates that memory will not.
+
+### Why a highway posted at 65 keeps coming to a halt here
+
+Caltrans describes roughly eight miles of US 101 between the south edge of the city and Chualar as carrying 11 at-grade intersections, seven of them local roads and four of them driveways, plus seven at-grade rail crossings, four without signals. Until construction closes them, drivers sit in 11 median openings waiting to cross the oncoming lanes. The Transportation Agency for Monterey County measured the gap that maneuver needs during peak hours at about 7.5 seconds, against an actual average gap in northbound traffic of roughly 2.9 seconds. Caltrans District 5 Traffic Safety opened the access management project as a countermeasure to cross-median collisions, and reports that some of those intersections produce collisions at a rate higher than the statewide average.
+
+The agency put numbers on what closing the left turns and U-turns would do: about 75 percent of the serious injury collisions there, an average of 13 injuries each year, and all of the fatal ones, an average of one death a year, with an annual safety benefit approaching $16 million.
+
+### The state route where rear-end is the leading crash type
+
+For the nine-mile stretch of Route 68 between Josselyn Canyon Road and San Benancio Road, post mile 4.8 to 13.7, Caltrans states plainly that rear-end collisions are the most common type occurring in the project area. The same document reports that several segments carry collision rates above the statewide average for similar facilities, and that daily travel delays are predicted to nearly triple by 2045. The preferred design converts nine intersections to roundabouts, five single-lane, three hybrid and one two-lane, at an estimated $189,200,000, with construction planned from March 2028 to November 2030. Anyone struck while stopped on that grade is sitting in a documented queue, which is a very different fact than a driver who braked for no reason.
+
+### The first week, in order
+
+Get treated and describe the day-two symptoms, not only the roadside ones. Natividad Medical Center operates the county's Level II trauma center around the clock with ten intensive care beds, so serious injuries and their records tend to concentrate in one place. Confirm which agency wrote the report, because a collision near Chualar or Spence Road belongs to the California Highway Patrol while one on East Alisal Street does not. Chase video within days, since the cameras along these corridors belong to packing sheds, ranch offices and fuel canopies that overwrite on their own schedule. Vehicle Code section 20008 requires the driver in an injury crash to make a written report within 24 hours to the Highway Patrol, or, for a crash inside a city, to the Patrol or that city's police department.
+
+### The clock nobody expects to be short
+
+Code of Civil Procedure section 335.1 allows two years to bring an action over an injury produced by another party's wrongful act or neglect. That is the number people remember. The one that ends cases is Government Code section 911.2, which requires a claim for death or personal injury against a public entity to be presented not later than six months after the cause of action accrues, with one year for other causes of action. If striping, signal timing, a rail crossing or a county road surface is part of the story, six months is the operative figure and it starts the day of the crash.
+
+### What the other side will argue
+
+Expect following distance and speed first, then the suggestion that you looked away. California allocates damages by percentage rather than shutting a claim down, so the fight is usually over the size of that share. Expect a second argument that the vehicle turning across the median, not the defendant behind you, created the hazard. That is exactly why the median opening count and the measured gap figures are worth putting in writing.
+
+### How a fee has to be documented
+
+Business and Professions Code section 6147 requires a contingency contract in writing, signed by both, with a duplicate signed copy given to the plaintiff when the contract is entered into. It must state the rate, spell out how costs bite into both the fee and the client's share, disclose any charge for related matters the contract does not cover, and say the rate is bargained rather than fixed by statute. Noncompliance lets the client void the agreement, leaving only a reasonable fee. Court charges are separate and set by the county.
+
+---
+
+## svc_uninsured_driver_claim_lawyer_lede
+
+When the driver is gone, uninsured, or carrying the state floor, the claim moves onto your own endorsement. That document sets one deadline in hours, a second in days, and a definition of underinsured that reads like arithmetic rather than English.
+
+---
+
+## svc_uninsured_driver_claim_lawyer_body
+
+### How wide the gap has actually grown
+
+The Insurance Research Council reported that 15.4 percent of drivers nationwide were uninsured in 2023 and 18.0 percent were underinsured, meaning one of every three drivers was one or the other, a combined 33.4 percent that climbed about ten percentage points in six years. Forty-nine states and the District of Columbia require liability coverage, New Hampshire being the lone exception. Locally, the Office of Traffic Safety recorded 57 hit-and-run collisions involving a death or injury in this city in 2023, ranking it twentieth among 62 cities in its population group, against 503 people killed or injured overall. Countywide the same year brought 195 such collisions and 2,315 victims.
+
+### What the endorsement is required to contain
+
+Insurance Code section 11580.2 says a bodily injury liability policy must include uninsured motorist coverage unless the insurer and a named insured agreed in writing to delete it entirely, delete it for named operators, or reduce it, and a reduction may not fall below the financial responsibility floor. Its offering limits sit at $30,000 for one injured person, rising to $60,000 where two or more are hurt. Vehicle Code section 16056 sets that floor at $30,000, $60,000 and $15,000 for property damage on policies issued or renewed on or after January 1, 2025. So the first document to read is your own declarations page, then any deletion or reduction form somebody had you sign years ago.
+
+### The unknown-driver rules, and why the county line matters
+
+For a phantom or fleeing vehicle, the statute demands physical contact with the insured or with the automobile the insured occupies. The insured must also report the accident inside 24 hours, and the correct recipient depends on where the wheels stopped: municipal police at an address inside city limits, otherwise the county sheriff or the nearest Highway Patrol headquarters. Within 30 days the insured must file with the insurer a statement under oath setting out the facts of a cause of action against a driver whose identity cannot be ascertained. Geography decides which agency counts. Chualar, Spreckels, Spence Road and much of US 101 south of the airport lie outside city limits, so a crash ten minutes from downtown may owe its report to the sheriff rather than to city police.
+
+### Underinsured coverage is subtraction
+
+An underinsured motor vehicle, by the statutory definition, is an insured one carrying less coverage than the uninsured motorist limits attached to the injured person's own car. Coverage does not apply until every applicable bodily injury liability limit has been exhausted by payment of judgments or settlements, with proof of that payment submitted. Maximum liability is then the underinsured limits less the amounts paid by or for anyone legally liable. The paying insurer is entitled to reimbursement or credit out of any recovery against the responsible party. If the insured sues the owner or operator of the underinsured vehicle, the statute says the insured shall forthwith give the carrier a copy of the complaint by personal service or certified mail, and shall make pleadings and depositions available.
+
+### The signature that can void the coverage
+
+There is no coverage where the insured, without the insurer's written consent, makes any settlement with or prosecutes to judgment an action against any person who may be legally liable. That clause ends more claims here than any argument about fault. The safe order is fixed: identify every policy, notify your own carrier in writing, request consent in writing, then decide what to do about the third party's check. A release drafted by the liable driver's insurer will not mention your endorsement, and silence is not permission.
+
+### How the dispute gets decided
+
+Disagreement over liability or amount goes to arbitration conducted by a single neutral arbitrator. Where the insured may have workers' compensation rights, arbitration is stayed until the physical condition is stationary and ratable, and any demand or petition must carry a declaration under penalty of perjury addressing that compensation claim. Civil discovery rules apply. No cause of action accrues unless, within two years of the accident date, suit is filed against the uninsured motorist, agreement as to the amount due is concluded, or the insured formally institutes arbitration by notifying the insurer in writing sent by certified mail with return receipt requested. Arbitration must then conclude within five years of institution, or within three years of the conclusion of a compensation claim, whichever is later.
+
+### The provision that can delete half the recovery
+
+Civil Code section 3333.4 bars recovery of noneconomic losses, including pain and suffering, from three categories of injured people: someone convicted of driving under the influence in that crash, the owner of an uninsured vehicle involved in it, and an operator who cannot establish financial responsibility. Insurers are also barred from indemnifying those losses. One exception restores them where an uninsured owner was injured by a driver later convicted of a drunk-driving offense. Economic losses, meaning medical care and lost earnings, remain recoverable in every one of those situations.
+
+### What the early file looks like, and how the fee is documented
+
+Gather the declarations page, the endorsement language, any signed deletion, the report and the agency that took it, and treatment records from wherever care started. Business and Professions Code section 6147 requires the fee contract in writing, signed by both, with a duplicate copy handed over at signing. Arbitration expenses are a separate line from the fee.
+
+---
+
+## svc_commercial_truck_collision_lawyer_lede
+
+Produce trucks, gravel loads and tankers share two-lane state routes here with commuters and farm equipment. The first useful question after one of these crashes is not size. It is which permit the operation ran on, and who hired it.
+
+---
+
+## svc_commercial_truck_collision_lawyer_body
+
+### Photograph the identification, not only the crush
+
+The numbers painted on a tractor are the fastest route to a records request. Capture the carrier identification number, the federal motor carrier number, the name on the tractor and the different name that may appear on the trailer, any lease decal, and the placard if the load was regulated. Get the trailer number even if the tractor drove away, because a dropped trailer still ties back to a yard and a dispatch record.
+
+### The permit layer California adds
+
+Vehicle Code section 34620 says a motor carrier of property shall not operate a commercial motor vehicle on any public highway unless it has complied with section 34507.5, registered its carrier identification number with the department, and holds a valid motor carrier permit. The second subdivision reaches further. A person shall not contract with or engage the services of a motor carrier of property unless that carrier holds a valid permit. The contracted carrier must certify its compliance, attach a copy of the permit to the certificate, and immediately notify the hiring party if the permit is suspended or revoked. Each involved party must keep that certificate for the duration of the contract plus two years, and produce it immediately on request by the Highway Patrol. That paragraph is why the shipper, the broker and the cooler that hired the truck belong in the investigation.
+
+### Why these particular routes produce these crashes
+
+Freight moves through here on roads never built for it. Caltrans proposes to convert the existing two-lane Route 156 west of US 101 into a four-lane freeway, replace the 101 and 156 interchange, and build a new interchange where Castroville Boulevard meets the route, with improved safety and operations stated as a purpose. On Route 183 through Castroville, the Merritt Street project covers mile 8.3 to 9.98 with $38,000,000 in state funding and about $20,600,000 in construction cost, adding widened shoulders, splitter islands, curb tapers, bike lanes, upgraded sensors and a camera at the 183 and 156 interchange, plus traffic calming added after residents raised concerns about speeding. Work began in February 2025 and runs into the winter of 2027 and 2028.
+
+### The treatment Caltrans uses where there is no median barrier
+
+A rural two-lane highway separated by nothing but paint has one cheap countermeasure, and the state has published what it does. Caltrans Traffic Safety Bulletin 20-07, issued January 14, 2021, states that shoulder rumble strips reduce run-off-the-road crashes by 30 to 40 percent while centerline rumble strips reduce cross-over crashes by 40 to 60 percent, with a combination potentially reducing crashes further. The bulletin directs installation on all freeway and expressway shoulders. It extends that to rural facilities where the posted speed exceeds 35 miles per hour and there is at least four feet of clearance from the outside edge of the strip to the outer edge of the paved shoulder. It also covers locations flagged by the annual Cross Over Collision or Run off Road Collision monitoring programs. The strips are milled to standard plans and need pavement in good or new condition. Whether a segment had them, and whether it appeared on that monitoring list, is answerable through public records.
+
+Legal left turns are part of the same picture. Vehicle Code section 21460 forbids driving to the left of double parallel solid yellow lines, then excepts a driver turning at an intersection or into or out of a driveway or private road. On a route lined with ranch entrances that exception is in constant use, which is how a slow turn across a fast lane becomes lawful and dangerous at once.
+
+### The deadlines, including the one meant for carriers
+
+Code of Civil Procedure section 335.1 sets two years for injury and death actions. Vehicle Code section 20008 gives common carrier operations their own schedule: the owner or driver of a common carrier vehicle reports to the Highway Patrol on or before the tenth day of the month following the accident, rather than within 24 hours. If road design, striping or a crossing is part of the claim, Government Code section 911.2 controls, and a claim for injury against a public entity must be presented not later than six months after accrual.
+
+### What to preserve, and what to send before the report arrives
+
+Write to the carrier and to whoever hired it, naming the tractor, the trailer, the date and the driver, and asking that electronic logging records, dispatch communications, maintenance and inspection files, the driver qualification file, onboard camera footage, and any telematics data be held. Add two items the siblings of this claim usually miss: the motor carrier permit itself, and the compliance certificate the hiring party was required to keep for the contract term plus two years. Ask to inspect both vehicles before either is repaired or released for salvage, and photograph the load configuration if the trailer is still standing.
+
+### How the money side is arranged
+
+Freight files carry larger policies, layered coverage, and adjusters who arrive within hours. Expect an argument about your share of fault, because California reduces damages by percentage rather than eliminating them. On fees, the capped rates of 25 and 33 percent belong to claims against health care providers, not to a trucking case. A collision claim runs under Business and Professions Code section 6147, which requires the written duplicate-signed contract, the rate, the treatment of costs, and a statement that the rate is negotiable.
+
+---
+
+## svc_injury_claim_negotiation_lede
+
+An offer is a number a stranger assembled from whatever paper reached the file. Moving it takes documents, and here the first two document questions are which courthouse hears the case and which hospital holds the records.
+
+---
+
+## svc_injury_claim_negotiation_body
+
+### Work out what the adjuster can possibly be holding
+
+An early figure usually reflects a report, a repair estimate, and one emergency bill. It cannot reflect the imaging ordered afterward, the physical therapy authorization still pending, the shifts a supervisor covered, or the help someone gave you at home for three weeks. Before responding, list what the file is missing rather than arguing about the number. A demand that supplies documents the other side has never seen is a different conversation than a demand that repeats a complaint.
+
+### Build the damages list in dated order
+
+Chronology persuades where adjectives do not. Put the ambulance run first, then the emergency record, then every visit, referral, prescription and restriction in the order it happened, each with a date and a source. Attach pay records covering the weeks before and after, so lost earnings are a subtraction rather than an estimate. Note the ordinary tasks that changed, and for how long. Where care is still recommended, get the recommendation in writing from the person who made it, because a future cost with no author is treated as a wish.
+
+### What comes off the top before anyone is paid
+
+Civil Code section 3040 limits a health plan or medical group reimbursement lien to the reasonable costs of perfecting it plus the amount actually paid to treating providers. Where services were delivered on a capitated basis, the measure is 80 percent of the usual and customary charge in the geographic region where the care was given. If the enrollee engaged an attorney, the lien may not exceed one-third of the moneys due under any final judgment, compromise or settlement agreement. Hospital liens, public program recovery and workers' compensation reimbursement each run under different statutes, so one-third is not a general rule. Total the reductions before agreeing to a figure, or the number that sounded acceptable becomes a much smaller check.
+
+### The release, and the policy standing behind it
+
+A release is the only irreversible document in the process. Read who it releases, what claims it closes, and whether it reaches parties nobody has investigated yet, such as a vehicle owner, an employer or a broker. Insurance Code section 11580.2 removes uninsured and underinsured coverage where the insured settles with or prosecutes to judgment an action against a person who may be legally liable without the insurer's written consent. If your own endorsement might still matter, that consent has to be requested and received in writing before the third party's check is endorsed.
+
+### Where a Monterey County case actually goes
+
+Local rules place civil proceedings in the Monterey Division, and the civil division sits at the Monterey Courthouse at 1200 Aguajito Road, with public hours on weekdays from 8:00am to 4:00pm. Documents in non-mandatory electronic filing cases may be delivered at the Salinas, Marina or Monterey locations and are date-stamped when received before being routed. A crash on East Market Street therefore produces a Monterey courtroom and a drive over the hill for every hearing, which is a scheduling fact worth knowing before a case is filed rather than after. Filing costs are published: $435 for the first paper in an unlimited civil case, and a nonrefundable $150 advance jury fee that waives the right to a jury if nobody posts it.
+
+### The clocks that keep running while you negotiate
+
+Code of Civil Procedure section 335.1 allows two years for an action for injury or death caused by the wrongful act or neglect of another. Government Code section 911.2 cuts that to six months for a claim against a public entity involving death, personal injury or personal property, with one year for other causes of action. Uninsured motorist claims carry their own trigger, since no cause of action accrues unless within two years of the accident suit is filed against the uninsured motorist, the amount due is agreed, or arbitration is formally instituted through written notice mailed certified, with a return receipt requested. Negotiation does not pause any of them, and an adjuster is not obliged to remind you.
+
+### How records get scattered, and how to gather them
+
+A serious injury here generates paper in at least four places: a field agency, an ambulance service, the trauma center, and whoever handles follow-up. Natividad Medical Center runs the county's Level II trauma center with ten intensive care beds, staffed all day and every day, and its coordinated care program is described as the only one of its kind in the tri-county area. Request the full record rather than a discharge summary, including imaging reports and the nursing notes, and check that the ambulance record exists separately. Gaps in the chronology are read as gaps in the injury.
+
+### How the fee arrangement is supposed to read
+
+Business and Professions Code section 6147 requires a contingency contract in writing, signed by both attorney and client, with a duplicate signed copy provided at the time it is entered into. It must state the rate, how disbursements and costs will affect both the fee and the client's recovery, and the extent of any compensation owed for related matters outside the contract. Unless the case falls under section 6146, it must also say the fee is open to negotiation rather than fixed by law. Fall short on any of those points and the client may void the agreement, which leaves the lawyer with a reasonable fee and nothing more.

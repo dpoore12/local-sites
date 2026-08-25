@@ -282,7 +282,7 @@ Once the eyes are clean, square and lit, suspicion moves to the close-force sett
 
 ### Texas heat and opener electronics
 
-This is the failure pattern that separates a Fort Worth garage from one up north. A closed, uninsulated garage bakes through a run of hundred-degree afternoons, and the logic board screwed to the ceiling cooks along with it. Electrolytic capacitors dry out faster at sustained high temperature, solder joints cycle and crack, and the symptoms get weird rather than obvious: a door that works at seven in the morning and ignores every button by four in the afternoon, a wall switch that responds while remotes do not, travel limits that forget themselves, a unit that reboots mid-cycle. Boards and capacitors are individually replaceable on most residential heads, and a heat-baked receiver board is a part swap, not grounds for replacing the whole opener. Sensor housings suffer the same way, which is why photo eyes in this climate go out of tolerance sooner than the manual suggests.
+This is the failure pattern that separates a Fort Worth garage from one up north. A closed, uninsulated garage bakes through a run of hundred-degree afternoons, and the logic board screwed to the ceiling cooks along with it. Electrolytic capacitors dry out faster at sustained high temperature, and solder joints cycle and crack. The symptoms get weird rather than obvious: a door that works at seven in the morning and ignores every button by four in the afternoon, or a wall switch that responds while remotes do not. Travel limits forget themselves, and the unit reboots mid-cycle. Boards and capacitors are individually replaceable on most residential heads, and a heat-baked receiver board is a part swap, not grounds for replacing the whole opener. Sensor housings suffer the same way, which is why photo eyes in this climate go out of tolerance sooner than the manual suggests.
 
 ### Motor runs, door stays put
 
@@ -292,7 +292,7 @@ If the motor hums and the chain sits dead still, the trouble is inside the housi
 
 ### When replacing it is genuinely correct
 
-Any opener old enough to lack photo eyes entirely should be replaced, not repaired, and so should a unit with a cracked housing or a discontinued board nobody stocks. Two repairs inside two years is also a fair signal. Otherwise most heads on Fort Worth houses are worth fixing. A belt drive with battery backup is a real improvement over a chain unit hammering away under a bedroom, and backup power matters in a region where storm outages are routine, but that is an upgrade being offered rather than a repair you need, and it should be presented to you in exactly those terms.
+Any opener old enough to lack photo eyes entirely should be replaced, not repaired, and so should a unit with a cracked housing or a discontinued board nobody stocks. Two repairs inside two years is also a fair signal. Otherwise most heads on Fort Worth houses are worth fixing. A belt drive with battery backup is a real improvement over a chain unit hammering away under a bedroom, and backup power matters in a region where storm outages are routine. Still, that is an upgrade being offered rather than a repair you need, and it should be presented to you in exactly those terms.
 
 ### The answer you should get
 
@@ -445,4 +445,4 @@ The move that costs Fort Worth homeowners the most is a spring failure answered 
 
 ### What the online average leaves out
 
-A national cost page quotes the door and basic installation. It does not carry the Fort Worth permit line or a possible reinspection, rebuilt wood jambs on a garage where the framing has been wet since the last hailstorm, a low-clearance kit for an alley garage, a new opener bracket where the old header will not take one, or a jackshaft opener when the ceiling is too shallow for a standard rail. It also leaves out lead time. Insulated doors in a specific color and window pattern are ordered, not stocked, and in the weeks after a metro-wide hail event that queue is long enough to matter more than the price.
+A national cost page quotes the door and basic installation. It does not carry the Fort Worth permit line or a possible reinspection, rebuilt wood jambs on a garage where the framing has been wet since the last hailstorm, or a low-clearance kit for an alley garage. It also omits a new opener bracket where the old header will not take one, or a jackshaft opener when the ceiling is too shallow for a standard rail. Lead time is missing too. Insulated doors in a specific color and window pattern are ordered, not stocked, and in the weeks after a metro-wide hail event that queue is long enough to matter more than the price.

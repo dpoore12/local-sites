@@ -1,303 +1,304 @@
 {
- "domain": "coloradospringsemergencyplumber.com",
- "phase": 1,
- "brand": "Colorado Springs Emergency Plumbing Pros",
- "service": "Emergency Plumbing",
- "service_inline": "emergency plumbing",
- "city": "Colorado Springs",
- "state": "CO",
- "state_full": "Colorado",
- "counties": [
-  "El Paso"
- ],
- "area_codes": [
-  "719"
- ],
- "phone_display": "(719) 850-5028",
- "phone_tel": "+17198505028",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": true,
- "timezone": "America/Denver",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "four_service_utility",
-   "claim": "Colorado Springs Utilities delivers electricity, natural gas, water, and wastewater services to the Pikes Peak region as a community-owned municipal utility.",
-   "why_it_matters": "A no-water or sewer complaint must be separated into a private plumbing failure and a possible utility-side problem. A technician repairs the property-side system; public utility infrastructure needs the utility response.",
-   "sources": [
-    "https://www.csu.org/about/"
-   ],
-   "verified": "2026-08-22",
-   "title": "One municipal utility handles four essential services"
-  },
-  {
-   "id": "altitude_freeze_thaw",
-   "claim": "The FAA lists Colorado Springs Municipal Airport at 6,147 feet above mean sea level. NWS 1991–2020 normals for Colorado Springs show a January high of 45.0°F and low of 18.5°F, putting thawing afternoons and freezing nights in the same ordinary winter day.",
-   "why_it_matters": "A vulnerable pipe can freeze overnight and reveal a split when it thaws. At this elevation, a gas water-heater replacement also needs the model-specific high-altitude instructions checked rather than a casual like-for-like assumption.",
-   "sources": [
-    "https://www.faa.gov/cos",
-    "https://www.weather.gov/pub/climateCosDailyNormalsRecords",
-    "https://assets.hotwater.com/damroot/Original/1000/100282340.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "More than 6,000 feet up, winter plumbing crosses freezing every day"
-  },
-  {
-   "id": "water_heater_permit_rule",
-   "claim": "Pikes Peak Regional Building Department requires permits and inspections for both gas and electric water-heater installations. Its local handout requires, among other checks, an appliance listed for the application, safe venting and combustion air, shutoffs, relief-valve discharge, and expansion control where applicable.",
-   "why_it_matters": "An emergency can require a leaking water heater to be isolated immediately, but replacing it is a permitted installation with specific safety checks. The immediate repair and a full replacement should be explained as distinct work.",
-   "sources": [
-    "https://www.pprbd.org/File/Resources/Downloads/ResidentialHandout/Water%20heater%20installation%20ACCESS.pdf"
-   ],
-   "verified": "2026-08-22",
-   "title": "Water-heater replacement is a permitted, inspected installation"
-  }
- ],
- "neighborhoods": [
-  "Downtown",
-  "Old Colorado City",
-  "Patty Jewett",
-  "Rockrimmon",
-  "Briargate",
-  "Old North End"
- ],
- "symptoms": [
-  "burst_pipe",
-  "overflowing_drain",
-  "sewage_backup",
-  "no_running_water"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "hero_accent": "Water Stopped Today, Price First",
- "trust_third": "Price quoted before emergency work starts",
- "services": [
-  {
-   "slug": "emergency-plumbing-repair",
-   "name": "Emergency Plumbing Repair",
-   "nav": "Emergency repair",
-   "h1": "Emergency Plumbing Repair",
-   "accent": "Fast Help for Active Leaks",
-   "keyword": "emergency plumbing repair",
-   "icon": "bolt"
-  },
-  {
-   "slug": "burst-pipe-repair",
-   "name": "Burst Pipe Repair",
-   "nav": "Burst pipes",
-   "h1": "Burst Pipe Repair",
-   "accent": "Pipe Repaired Before More Damage",
-   "keyword": "burst pipe repair",
-   "icon": "drop"
-  },
-  {
-   "slug": "drain-cleaning",
-   "name": "Drain Cleaning",
-   "nav": "Drain cleaning",
-   "h1": "Drain Cleaning",
-   "accent": "Clogs Cleared and Flow Restored",
-   "keyword": "drain cleaning",
-   "icon": "wrench"
-  },
-  {
-   "slug": "sewer-line-repair",
-   "name": "Sewer Line Repair",
-   "nav": "Sewer line repair",
-   "h1": "Sewer Line Repair",
-   "accent": "Backups Stopped at the Source",
-   "keyword": "sewer line repair",
-   "icon": "warn"
-  }
- ],
- "symptom_service": [
-  "burst-pipe-repair",
-  "drain-cleaning",
-  "sewer-line-repair",
-  "emergency-plumbing-repair"
- ],
- "_market": {
-  "keyword": "emergency plumber colorado springs",
-  "monthly_price": 650,
-  "score": 67,
-  "volume": 150,
-  "cpc_usd": 55.0,
-  "weakest_competitor": "rotorooter.com",
-  "competitor_dr": 74.0
- },
- "pricing": {
-  "mode": "cost",
-  "table_head": "Researched ranges for plumbing emergencies in Colorado Springs",
-  "anchors": [
-   {
-    "label": "Regional building permit, water heater replacement",
-    "value": "$40",
-    "detail": "Pikes Peak Regional Building Department's individual residential permit for a water heater swap. It rises to $75 when the vent is replaced along with the appliance.",
-    "source_name": "Pikes Peak Regional Building Department fee schedule",
-    "source_url": "https://www.pprbd.org/Information/FeeSchedule"
-   },
-   {
-    "label": "Wastewater permit, repair or alteration on a single-family line",
-    "value": "$200",
-    "detail": "What Colorado Springs Utilities charges for a repair, alteration or additional install on a single-family wastewater service, with return inspection trips billed at $100 each.",
-    "source_name": "Colorado Springs Utilities development charges and fees",
-    "source_url": "https://www.csu.org/hubfs/Document-Library/2025DevelopmentCharges.pdf?hsLang=en"
-   },
-   {
-    "label": "Water service line inspection, new install or repair",
-    "value": "$160",
-    "detail": "The utility inspects the water service line itself, separately from the building permit, and charges $100 again for every return trip after the first.",
-    "source_name": "Colorado Springs Utilities development charges and fees",
-    "source_url": "https://www.csu.org/hubfs/Document-Library/2025DevelopmentCharges.pdf?hsLang=en"
-   }
+  "domain": "coloradospringsemergencyplumber.com",
+  "phase": 2,
+  "brand": "Colorado Springs Emergency Plumbing Pros",
+  "service": "Emergency Plumbing",
+  "service_inline": "emergency plumbing",
+  "vertical": "home",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "state_full": "Colorado",
+  "counties": [
+    "El Paso"
   ],
-  "rows": [
-   {
-    "job": "Emergency callout charge before any repair work begins",
-    "low": 49,
-    "high": 349,
-    "basis": "per visit",
-    "note": "A daytime diagnostic visit is the floor; overnight arrival adds the posted premium.",
-    "sources": [
-     {
-      "name": "Clean Water Co, Colorado Springs, posted service fee, read 2026-08-23",
-      "url": "https://cleanwaterco.com/plumbing-services/drain-pipe-repair/"
-     },
-     {
-      "name": "Absolute Excavating, Colorado Springs, posted emergency premium, read 2026-08-23",
-      "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
-     }
+  "area_codes": [
+    "719"
+  ],
+  "phone_display": "(719) 850-5028",
+  "phone_tel": "+17198505028",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": true,
+  "timezone": "America/Denver",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "four_service_utility",
+      "claim": "Colorado Springs Utilities delivers electricity, natural gas, water, and wastewater services to the Pikes Peak region as a community-owned municipal utility.",
+      "why_it_matters": "A no-water or sewer complaint must be separated into a private plumbing failure and a possible utility-side problem. A technician repairs the property-side system; public utility infrastructure needs the utility response.",
+      "sources": [
+        "https://www.csu.org/about/"
+      ],
+      "verified": "2026-08-22",
+      "title": "One municipal utility handles four essential services"
+    },
+    {
+      "id": "altitude_freeze_thaw",
+      "claim": "The FAA lists Colorado Springs Municipal Airport at 6,147 feet above mean sea level. NWS 1991–2020 normals for Colorado Springs show a January high of 45.0°F and low of 18.5°F, putting thawing afternoons and freezing nights in the same ordinary winter day.",
+      "why_it_matters": "A vulnerable pipe can freeze overnight and reveal a split when it thaws. At this elevation, a gas water-heater replacement also needs the model-specific high-altitude instructions checked rather than a casual like-for-like assumption.",
+      "sources": [
+        "https://www.faa.gov/cos",
+        "https://www.weather.gov/pub/climateCosDailyNormalsRecords",
+        "https://assets.hotwater.com/damroot/Original/1000/100282340.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "More than 6,000 feet up, winter plumbing crosses freezing every day"
+    },
+    {
+      "id": "water_heater_permit_rule",
+      "claim": "Pikes Peak Regional Building Department requires permits and inspections for both gas and electric water-heater installations. Its local handout requires, among other checks, an appliance listed for the application, safe venting and combustion air, shutoffs, relief-valve discharge, and expansion control where applicable.",
+      "why_it_matters": "An emergency can require a leaking water heater to be isolated immediately, but replacing it is a permitted installation with specific safety checks. The immediate repair and a full replacement should be explained as distinct work.",
+      "sources": [
+        "https://www.pprbd.org/File/Resources/Downloads/ResidentialHandout/Water%20heater%20installation%20ACCESS.pdf"
+      ],
+      "verified": "2026-08-22",
+      "title": "Water-heater replacement is a permitted, inspected installation"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown",
+    "Old Colorado City",
+    "Patty Jewett",
+    "Rockrimmon",
+    "Briargate",
+    "Old North End"
+  ],
+  "symptoms": [
+    "burst_pipe",
+    "overflowing_drain",
+    "sewage_backup",
+    "no_running_water"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Water Stopped Today, Price First",
+  "trust_third": "Price quoted before emergency work starts",
+  "services": [
+    {
+      "slug": "emergency-plumbing-repair",
+      "name": "Emergency Plumbing Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Plumbing Repair",
+      "accent": "Fast Help for Active Leaks",
+      "keyword": "emergency plumbing repair",
+      "icon": "bolt"
+    },
+    {
+      "slug": "burst-pipe-repair",
+      "name": "Burst Pipe Repair",
+      "nav": "Burst pipes",
+      "h1": "Burst Pipe Repair",
+      "accent": "Pipe Repaired Before More Damage",
+      "keyword": "burst pipe repair",
+      "icon": "drop"
+    },
+    {
+      "slug": "drain-cleaning",
+      "name": "Drain Cleaning",
+      "nav": "Drain cleaning",
+      "h1": "Drain Cleaning",
+      "accent": "Clogs Cleared and Flow Restored",
+      "keyword": "drain cleaning",
+      "icon": "wrench"
+    },
+    {
+      "slug": "sewer-line-repair",
+      "name": "Sewer Line Repair",
+      "nav": "Sewer line repair",
+      "h1": "Sewer Line Repair",
+      "accent": "Backups Stopped at the Source",
+      "keyword": "sewer line repair",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "burst-pipe-repair",
+    "drain-cleaning",
+    "sewer-line-repair",
+    "emergency-plumbing-repair"
+  ],
+  "_market": {
+    "keyword": "emergency plumber colorado springs",
+    "monthly_price": 650,
+    "score": 67,
+    "volume": 150,
+    "cpc_usd": 55.0,
+    "weakest_competitor": "rotorooter.com",
+    "competitor_dr": 74.0
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "Researched ranges for plumbing emergencies in Colorado Springs",
+    "anchors": [
+      {
+        "label": "Regional building permit, water heater replacement",
+        "value": "$40",
+        "detail": "Pikes Peak Regional Building Department's individual residential permit for a water heater swap. It rises to $75 when the vent is replaced along with the appliance.",
+        "source_name": "Pikes Peak Regional Building Department fee schedule",
+        "source_url": "https://www.pprbd.org/Information/FeeSchedule"
+      },
+      {
+        "label": "Wastewater permit, repair or alteration on a single-family line",
+        "value": "$200",
+        "detail": "What Colorado Springs Utilities charges for a repair, alteration or additional install on a single-family wastewater service, with return inspection trips billed at $100 each.",
+        "source_name": "Colorado Springs Utilities development charges and fees",
+        "source_url": "https://www.csu.org/hubfs/Document-Library/2025DevelopmentCharges.pdf?hsLang=en"
+      },
+      {
+        "label": "Water service line inspection, new install or repair",
+        "value": "$160",
+        "detail": "The utility inspects the water service line itself, separately from the building permit, and charges $100 again for every return trip after the first.",
+        "source_name": "Colorado Springs Utilities development charges and fees",
+        "source_url": "https://www.csu.org/hubfs/Document-Library/2025DevelopmentCharges.pdf?hsLang=en"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Emergency callout charge before any repair work begins",
+        "low": 49,
+        "high": 349,
+        "basis": "per visit",
+        "note": "A daytime diagnostic visit is the floor; overnight arrival adds the posted premium.",
+        "sources": [
+          {
+            "name": "Clean Water Co, Colorado Springs, posted service fee, read 2026-08-23",
+            "url": "https://cleanwaterco.com/plumbing-services/drain-pipe-repair/"
+          },
+          {
+            "name": "Absolute Excavating, Colorado Springs, posted emergency premium, read 2026-08-23",
+            "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
+          }
+        ]
+      },
+      {
+        "job": "Burst or frozen pipe cut out and repaired",
+        "low": 314,
+        "high": 1695,
+        "basis": "flat",
+        "note": "Exposed basement pipe is fast; an exterior wall or crawlspace is slow.",
+        "sources": [
+          {
+            "name": "WireNut, Colorado Springs, posted pipe prices, read 2026-08-23",
+            "url": "https://ai.thewirenut.com/services/Plumbing/Pipe-Repair"
+          },
+          {
+            "name": "PlumbSmart, Colorado Springs, posted repair range, read 2026-08-23",
+            "url": "https://www.itsjustplumbsmart.com/colorado-springs-co-plumbing/"
+          }
+        ]
+      },
+      {
+        "job": "Kitchen, laundry or bathroom branch line cleared",
+        "low": 89,
+        "high": 99,
+        "basis": "flat",
+        "note": "These specials need an accessible cleanout; extra cable is quoted onsite.",
+        "sources": [
+          {
+            "name": "PlumbSmart, Colorado Springs, posted drain special, read 2026-08-23",
+            "url": "https://www.itsjustplumbsmart.com/colorado-springs-co-plumbing/"
+          },
+          {
+            "name": "Mr. Rooter, Colorado Springs, posted drain special, read 2026-08-23",
+            "url": "https://www.mrrooter.com/colorado-springs/colorado-springs-sewer-and-drain-special-service/"
+          },
+          {
+            "name": "Rooter Town, Colorado Springs, posted cable price, read 2026-08-23",
+            "url": "https://rootertown.com/colorado-springs/sewer-and-drain-cleaning-special/"
+          },
+          {
+            "name": "WireNut, Colorado Springs, posted drain offer, read 2026-08-23",
+            "url": "https://thewirenut.com/plumbing/drain-cleaning/"
+          }
+        ]
+      },
+      {
+        "job": "Hydro-jetting a root or grease choked sewer line",
+        "low": 300,
+        "high": 900,
+        "basis": "flat",
+        "note": "Standard residential lines sit low; heavy roots or packed grease sit high.",
+        "sources": [
+          {
+            "name": "Alphalete Trenchless, Colorado Springs, posted jetting prices, read 2026-08-23",
+            "url": "https://alphaletetrenchless.com/hydro-jetting-cost-colorado-springs/"
+          },
+          {
+            "name": "Absolute Excavating, Colorado Springs, posted jetting range, read 2026-08-23",
+            "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
+          }
+        ]
+      },
+      {
+        "job": "Water heater replaced with permit and inspection",
+        "low": 800,
+        "high": 7200,
+        "basis": "per unit",
+        "note": "Expansion control, discharge routing, combustion air and new venting lift the price.",
+        "sources": [
+          {
+            "name": "Ellis Wyatt MEP, Colorado Springs, posted heater prices, read 2026-08-23",
+            "url": "https://elliswyattmep.com/blog/water-heater-cost-colorado-springs"
+          },
+          {
+            "name": "Hanson Plumbing, Colorado Springs, posted installed prices, read 2026-08-23",
+            "url": "https://hansonplumbingsolutions.com/water-heaters.html"
+          },
+          {
+            "name": "Awesome Home Services, Colorado Springs, posted heater range, read 2026-08-23",
+            "url": "https://www.awesomeservice.com/pricing-guide/"
+          }
+        ]
+      },
+      {
+        "job": "Main sewer line camera inspection and locate",
+        "low": 100,
+        "high": 400,
+        "basis": "flat",
+        "note": "Older Old North End and Patty Jewett runs are long; locating adds time.",
+        "sources": [
+          {
+            "name": "Affordable Rooter, Colorado Springs, posted camera prices, read 2026-08-23",
+            "url": "https://www.affordablerooter.com/camera-inspection-colorado-springs"
+          },
+          {
+            "name": "Absolute Excavating, Colorado Springs, posted camera prices, read 2026-08-23",
+            "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
+          },
+          {
+            "name": "Papa Pipes, Colorado Springs, posted scope prices, read 2026-08-23",
+            "url": "https://www.papapipesplumbing.com/sewer-scope-colorado-springs"
+          }
+        ]
+      },
+      {
+        "job": "Sewer service line dug up and repaired at one point",
+        "low": 1500,
+        "high": 10000,
+        "basis": "flat",
+        "note": "Decomposed granite and rock slow the digging, and sloped lots need shoring.",
+        "sources": [
+          {
+            "name": "Absolute Excavating, Colorado Springs, posted repair prices, read 2026-08-23",
+            "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
+          },
+          {
+            "name": "Dan's Drains and Digs, Colorado Springs, posted prices, read 2026-08-23",
+            "url": "https://www.dansdrainsanddigs.com/sewer-scope-for-homebuyers-colorado-springs/"
+          }
+        ]
+      }
     ]
-   },
-   {
-    "job": "Burst or frozen pipe cut out and repaired",
-    "low": 314,
-    "high": 1695,
-    "basis": "flat",
-    "note": "Exposed basement pipe is fast; an exterior wall or crawlspace is slow.",
-    "sources": [
-     {
-      "name": "WireNut, Colorado Springs, posted pipe prices, read 2026-08-23",
-      "url": "https://ai.thewirenut.com/services/Plumbing/Pipe-Repair"
-     },
-     {
-      "name": "PlumbSmart, Colorado Springs, posted repair range, read 2026-08-23",
-      "url": "https://www.itsjustplumbsmart.com/colorado-springs-co-plumbing/"
-     }
-    ]
-   },
-   {
-    "job": "Kitchen, laundry or bathroom branch line cleared",
-    "low": 89,
-    "high": 99,
-    "basis": "flat",
-    "note": "These specials need an accessible cleanout; extra cable is quoted onsite.",
-    "sources": [
-     {
-      "name": "PlumbSmart, Colorado Springs, posted drain special, read 2026-08-23",
-      "url": "https://www.itsjustplumbsmart.com/colorado-springs-co-plumbing/"
-     },
-     {
-      "name": "Mr. Rooter, Colorado Springs, posted drain special, read 2026-08-23",
-      "url": "https://www.mrrooter.com/colorado-springs/colorado-springs-sewer-and-drain-special-service/"
-     },
-     {
-      "name": "Rooter Town, Colorado Springs, posted cable price, read 2026-08-23",
-      "url": "https://rootertown.com/colorado-springs/sewer-and-drain-cleaning-special/"
-     },
-     {
-      "name": "WireNut, Colorado Springs, posted drain offer, read 2026-08-23",
-      "url": "https://thewirenut.com/plumbing/drain-cleaning/"
-     }
-    ]
-   },
-   {
-    "job": "Hydro-jetting a root or grease choked sewer line",
-    "low": 300,
-    "high": 900,
-    "basis": "flat",
-    "note": "Standard residential lines sit low; heavy roots or packed grease sit high.",
-    "sources": [
-     {
-      "name": "Alphalete Trenchless, Colorado Springs, posted jetting prices, read 2026-08-23",
-      "url": "https://alphaletetrenchless.com/hydro-jetting-cost-colorado-springs/"
-     },
-     {
-      "name": "Absolute Excavating, Colorado Springs, posted jetting range, read 2026-08-23",
-      "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
-     }
-    ]
-   },
-   {
-    "job": "Water heater replaced with permit and inspection",
-    "low": 800,
-    "high": 7200,
-    "basis": "per unit",
-    "note": "Expansion control, discharge routing, combustion air and new venting lift the price.",
-    "sources": [
-     {
-      "name": "Ellis Wyatt MEP, Colorado Springs, posted heater prices, read 2026-08-23",
-      "url": "https://elliswyattmep.com/blog/water-heater-cost-colorado-springs"
-     },
-     {
-      "name": "Hanson Plumbing, Colorado Springs, posted installed prices, read 2026-08-23",
-      "url": "https://hansonplumbingsolutions.com/water-heaters.html"
-     },
-     {
-      "name": "Awesome Home Services, Colorado Springs, posted heater range, read 2026-08-23",
-      "url": "https://www.awesomeservice.com/pricing-guide/"
-     }
-    ]
-   },
-   {
-    "job": "Main sewer line camera inspection and locate",
-    "low": 100,
-    "high": 400,
-    "basis": "flat",
-    "note": "Older Old North End and Patty Jewett runs are long; locating adds time.",
-    "sources": [
-     {
-      "name": "Affordable Rooter, Colorado Springs, posted camera prices, read 2026-08-23",
-      "url": "https://www.affordablerooter.com/camera-inspection-colorado-springs"
-     },
-     {
-      "name": "Absolute Excavating, Colorado Springs, posted camera prices, read 2026-08-23",
-      "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
-     },
-     {
-      "name": "Papa Pipes, Colorado Springs, posted scope prices, read 2026-08-23",
-      "url": "https://www.papapipesplumbing.com/sewer-scope-colorado-springs"
-     }
-    ]
-   },
-   {
-    "job": "Sewer service line dug up and repaired at one point",
-    "low": 1500,
-    "high": 10000,
-    "basis": "flat",
-    "note": "Decomposed granite and rock slow the digging, and sloped lots need shoring.",
-    "sources": [
-     {
-      "name": "Absolute Excavating, Colorado Springs, posted repair prices, read 2026-08-23",
-      "url": "https://www.absoluteexcavatingllc.com/blog/sewer-line-repair-cost-colorado-springs"
-     },
-     {
-      "name": "Dan's Drains and Digs, Colorado Springs, posted prices, read 2026-08-23",
-      "url": "https://www.dansdrainsanddigs.com/sewer-scope-for-homebuyers-colorado-springs/"
-     }
-    ]
-   }
-  ]
- }
+  }
 }

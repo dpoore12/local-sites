@@ -21,49 +21,25 @@ Have the street address and cross streets, not simply “Las Vegas,” ready. A 
 You were bitten, but the owner says there was never a warning before
 
 ## symptom_1
-Nevada is not a state where a single civil statute automatically answers every dog-bite case. That does not mean an owner gets a free first attack, and it does not mean the fact of a prior bite is the only thing that matters. The civil analysis commonly asks whether a person who owned, kept, or handled the dog used reasonable care in the circumstances. The way the animal was restrained, where it was allowed to go, what the handler knew, and whether a local control rule was broken can all become part of the evidence.
-
-Start with the scene instead of debating the phrase “never happened before.” Save the exact address, the time, photographs of the dog and its restraint if safe, the owner’s details, and names of people who saw the encounter. If someone mentions earlier escapes, growling, lunging, a prior incident, or a warning to stay away, record who said it and preserve the original message or post. Do not convert a neighbor’s account into your own conclusion. A useful file identifies the person who has the information and when it was learned.
-
-The local ordinance can be important too. Within City of Las Vegas limits, the municipal code has its own dangerous- and vicious-animal process. In unincorporated Clark County, county enforcement applies. A report can create a public-safety record and help identify the dog, but it does not by itself decide civil responsibility. Medical records, witnesses, photographs, and evidence of handling or prior behavior should be preserved separately.
-
-Seek appropriate medical care first. Then protect the documents before an apology, a changed story, or an early insurance call becomes the only surviving account of the attack.
+There is no civil bite statute in this state to do the work for you, so the file has to show carelessness, not just teeth marks. Photograph the leash, the gate and the exact address, then write down anyone who mentions earlier lunging or escapes. Treat the wound first. Memories firm up in the owner's favor within a week.
 
 ## symptom_2_title
 A child was bitten at a home, pool, park, or family gathering
 
 ## symptom_2
-A child’s injury needs a careful record even when the first wound appears small. Care decisions belong to the treating professionals. From the evidence side, keep pace with that care: retain discharge papers, provider names, prescriptions, referrals, bills, photographs taken over time when appropriate, and a simple calendar of appointments, missed school, sleep changes, activity limits, or other effects the family observes. Do not pressure a child to repeat the event. Write down an adult witness’s own account of where the dog came from, who was present, what barrier or leash existed, and what was said immediately afterward.
-
-Location matters unusually much in the valley. A bite at a neighborhood pool, apartment courtyard, or private house may carry a Las Vegas mailing address while sitting outside City of Las Vegas limits. Clark County Animal Protection Services says it serves unincorporated Clark County and verifies jurisdiction on calls; the City of Las Vegas has a separate Animal Protection Services operation. The right report route can affect where the public-safety record is created, so retain the address, unit number, gate or park entrance, and the name of any agency contacted.
-
-Do not let a familiar relationship with the dog owner replace documentation. A relative or neighbor may offer to cover a bill before the complete medical picture is known. An insurance representative may request a broad authorization or a recorded statement before records and witness accounts are assembled. Keep every communication and do not sign a release without understanding what it closes.
-
-A legal review can examine the actual facts, including who owned or handled the animal and whether another person had control over the place. It should not assume that a child’s age, a friendly host, or a single report automatically resolves those separate questions.
+Care comes first, and the paperwork that follows the care becomes the record. Keep the provider's description of depth, repair and follow-up, plus dated photographs as swelling drops. A minor's filing clock behaves differently from an adult's under NRS 11.250, but a pediatric wound record cannot be rebuilt later. Note who owned the dog and who invited whom.
 
 ## symptom_3_title
 The dog attack happened at an apartment, rental, or shared property
 
 ## symptom_3
-A rental attack can involve more than one person, but it does not make every person associated with the address responsible. The dog owner, a person keeping or walking the dog, a tenant, a property manager, a landlord, an association, and a security contractor can have very different roles. The meaningful questions are practical: who knew what, who could control the dog or the relevant common area, whether there were earlier complaints, and whether a physical condition such as an open gate, failed latch, or unsecured entry contributed to the encounter.
-
-Photograph the setting before it changes if it can be done safely. Include the unit number, hallway, courtyard, pool gate, fence line, signs, broken latch, dog run, and any camera you can identify. Ask in writing that video be preserved promptly. Many property systems overwrite footage on a routine cycle. Save lease pages, pet addenda, property rules, maintenance requests, messages with management, prior complaint emails, and the names of neighbors who can speak from personal knowledge. The dog’s owner may move, a repair may be made, and a gate may be fixed; a dated original image is more valuable than a later reconstruction.
-
-Nevada’s negligence framework makes control and notice evidence important rather than automatic. A landlord is not responsible merely because a tenant owns a dog. On the other hand, a specific record of prior complaints, a rule the property enforced, or evidence that someone controlled a dangerous condition may warrant examination. These are fact questions, not slogans.
-
-Report the bite to the correct animal-control agency for the address, but keep building the independent file. The agency record may identify a dog or document a response; it may not include every lease, witness, treatment record, or insurance document needed for a civil assessment.
+Owning the building is not enough by itself. What matters is whether the landlord knew about the animal, held control of the fence or gate, and then promised to handle the problem. Save the lease, the pet addendum, maintenance tickets and every complaint email. Ask in writing that courtyard video be held before the recorder cycles past the date.
 
 ## symptom_4_title
 An insurer asked for a statement, denied the claim, or offered money early
 
 ## symptom_4
-An insurance contact is a request for information, not a final legal answer. An adjuster may ask for photographs, a recorded statement, a medical authorization, a claim number, bills, or a signed release. Some requests are routine. The risk is allowing an early conversation to become the complete account before the wound, treatment, evidence about the dog, and local reporting record are understood. Keep communications in writing when possible, note the name and date of every contact, and preserve the original letter or email rather than relying on a summary.
-
-A denial based only on “the dog never bit before” deserves a closer look at the actual record. Nevada does not use a broad, automatic owner-liability dog-bite statute. Negligence evidence can instead include the handler’s conduct, the animal’s prior behavior, a leash or enclosure issue, and the local rule governing the location. The rule that applies at an address inside City of Las Vegas is not necessarily the one involved at an unincorporated Clark County address. Pinning down the site is not an administrative detail; it may identify the correct reporting agency and ordinance evidence.
-
-Create one orderly folder. Put treatment records and bills, photographs, the bite date and location, owner or handler information, witness contacts, animal-control report numbers, property records, lost-income documents if applicable, and insurer correspondence in it. Keep originals and copies. Be cautious about public posts; a factual note can be misunderstood once readers fill in missing detail.
-
-An attorney can compare an insurer’s position with the complete factual record and request documents not already in hand. No page can predict whether coverage exists or what any claim is worth. The practical goal is to avoid closing the file before the evidence and medical course have had a fair chance to develop.
+Adjusters here work two rules: the two-year filing limit and the comparative fault bar in NRS 41.141. A recorded statement taken in week one can supply the fault percentage used against you later. Put requests in writing, keep the letter itself, and hold any release until the treatment course and the ordinance record are both known.
 
 ## qa_1_question
 Why does the address of a Las Vegas dog bite matter so much?
@@ -219,13 +195,13 @@ If the dog is loose or presents an immediate threat, move to a safe location and
 
 ## pricing_lede
 
-Nevada leaves the size of a contingent fee in an animal attack claim to negotiation while regulating the paperwork around it closely, and the sections below walk through Rule 1.5 of the Nevada Rules of Professional Conduct, the single statute that does cap a percentage, and the filing amounts the Eighth Judicial District Court publishes for Clark County.
+Nevada leaves the size of a contingent fee in an animal attack claim to negotiation, while regulating the paperwork around it closely. The sections below walk through Rule 1.5 of the Nevada Rules of Professional Conduct, the single statute that does cap a percentage, and the filing amounts the Eighth Judicial District Court publishes for Clark County.
 
 ## pricing_body
 
 ### The percentage itself is open
 
-There is no Nevada rule that fixes a maximum percentage on a bite or animal attack recovery. Rule 1.5(a) of the Nevada Rules of Professional Conduct says only that a lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. Reasonableness is then judged against eight considerations: time and labor, novelty and difficulty, and the skill needed; whether accepting the matter blocks other employment; what lawyers in the locality customarily charge for similar work; the amount involved and the result obtained; deadlines imposed by the client or the situation; how long and how closely the two have worked together; the standing and ability of counsel; and whether payment is fixed or hangs on the outcome.
+There is no Nevada rule that fixes a maximum percentage on a bite or animal attack recovery. Rule 1.5(a) of the Nevada Rules of Professional Conduct says only that a lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. Reasonableness is then judged against eight considerations. The first four are time and labor, novelty and difficulty, and the skill needed; whether accepting the matter blocks other employment; what lawyers in the locality customarily charge for similar work; and the amount involved and the result obtained. The rest are deadlines imposed by the client or the situation; how long and how closely the two have worked together; the standing and ability of counsel; and whether payment is fixed or hangs on the outcome.
 
 ### The formalities Nevada adds
 
@@ -250,3 +226,151 @@ NRS 18.005 defines what counts as costs a prevailing party can be awarded, and t
 ### Where the county ordinance puts dollar figures
 
 Clark County Code Title 10 attaches money mainly to permits rather than to bites. Section 10.08.135 charges $800 for a breeder or show permit, including the initial site inspection by Animal Protection Services, and $800 again on annual renewal, falling to $400 where each animal has taken part in a show once during the year. A failed inspection or a violation of Chapter 10 adds a $100 reinspection fee. Separately, NRS 202.500 makes it a misdemeanor to keep a dog known to be vicious more than seven days, and a category D felony where such a dog causes substantial bodily harm, while forbidding any local ordinance that turns on breed alone.
+
+## services_summary
+
+One phrase covers four different jobs. An injury claim starts from an empty page in the state code and has to build ordinary negligence out of handling, restraint and notice. A child's claim turns on pediatric wound records and a limitation clock that behaves differently while the injured person is under eighteen. A rental claim asks who held the gate and who knew about the animal. An insurance claim is an argument about fault percentages and calendars, not about whether teeth broke skin. Blur them together and the ten-day quarantine window closes, courtyard video cycles past the date, and a valley address gets reported to the wrong animal control desk.
+
+## services_pick_head
+
+Start with the question your record has to answer
+
+## crosslink_head
+
+Another Clark County bite question?
+
+## svc_dog_bite_injury_claim_lede
+
+Look for a bite statute in the state code and you will not find one. What exists instead is a criminal section about dangerous and vicious dogs, plus the plain duty every person owes to avoid creating unreasonable risk. That absence decides what your file has to prove.
+
+## svc_dog_bite_injury_claim_body
+
+### The statute nobody can hand you
+
+Most states answer a dog attack with a liability statute. This one does not. The single provision written specifically about dogs, [NRS 202.500](https://www.leg.state.nv.us/nrs/nrs-202.html), sits inside the criminal chapter on offenses against public health and safety, and it says nothing about paying for a wound. The money question runs through [NRS 41.130](https://www.leg.state.nv.us/nrs/nrs-041.html), which makes a person who causes personal injury by wrongful act, neglect or default liable to the person injured. Chapter 41 has a section about damages for harming someone's pet. It has none about a dog harming a person.
+
+### What the high court used instead of a statute
+
+In a 1989 appeal over a boy mauled while walking home from swimming, the state's high court measured the defendant against basic tort principles rather than any animal statute. It quoted an earlier decision refusing to except landlords or property owners from the general application of the basic principles of tort law, and said the defendant, like anyone else, had to use reasonable care not to subject others to unreasonable risk. The [full opinion](https://law.justia.com/cases/nevada/supreme-court/1989/18282-1.html) is worth reading because it shows what a court here actually looks at: knowledge, promises, control of a gate, and what a reasonable person would have done with all three.
+
+### Dangerous, vicious, and the count of two
+
+The criminal section is still your best friend, because it defines the vocabulary. A dog is dangerous if, unprovoked and on two separate occasions within eighteen months, it behaved menacingly enough that a reasonable person would defend against substantial bodily harm, while off its owner's premises or not confined in a cage, pen or vehicle. It is vicious if it killed or inflicted substantial bodily harm on a person without provocation, or if it kept behaving that way after law enforcement told the owner it was dangerous. Provoked has a narrow meaning: tormented, or subjected to pain. Breed cannot supply the label, and no local government may write an ordinance that does.
+
+### Why a criminal label matters to a civil file
+
+Knowingly keeping a vicious dog more than seven days after actual notice is a misdemeanor, and so is passing it to someone else. When substantial bodily harm results from an attack by a dog known to be vicious, the keeper faces a category D felony. [NRS 193.130](https://www.leg.state.nv.us/nrs/nrs-193.html) sets that at one to four years in prison plus a fine of up to five thousand dollars, and the judge may order the animal destroyed. For a civil claim the value is documentary. A notice from law enforcement calling a dog dangerous is written proof of exactly the knowledge an owner will later deny having.
+
+### The leash rule that can do a statute's work
+
+Clark County defines an animal at large as one not held by a leash or lead no longer than six feet under adequate control, or not confined inside the owner's property line. The same definition reaches voice-command-only control and unrestrained dogs in the common areas of a common interest community. Inside city limits the parallel rule is Las Vegas Municipal Code 7.36.030. This matters because of a 2001 decision holding that violating a code provision adopted by county ordinance is negligence per se when the injured person is in the class the provision protects and the harm is the type it aimed to prevent. Those two questions belong to the judge; violation and causation go to the jury.
+
+### Deadlines and the fault line
+
+Two years is the period for an injury caused by another's wrongful act or neglect. Comparative fault then sets a hard edge. Recovery survives only where the injured person's share of negligence was not greater than the combined share of those being sued, and the jury is told plainly that a larger share means nothing at all. That is why an early apology, a reached-over fence, or a hand offered to a strange dog gets so much attention from the other side.
+
+### Where the wound and the case both end up
+
+Severe attacks in the valley route to the county's public teaching hospital, which describes itself as the state's first and only nonprofit Level I trauma center and reports a catchment of ten thousand square miles reaching into California, Utah and Arizona. Those records carry weight. On the legal side, justice court can hear a personal injury action only where the damages claimed stay at or below fifteen thousand dollars, so anything with real scarring or surgery belongs in district court at the Regional Justice Center downtown.
+
+## svc_child_dog_bite_claim_lede
+
+A child's bite case has two clocks running at once. One is the ten-day observation period on the animal, which starts immediately and closes fast. The other is a limitation period that may not run at all while the injured person is still a minor.
+
+## svc_child_dog_bite_claim_body
+
+### What the ten-day hold is really for
+
+State health regulation [NAC 441A.425](https://www.law.cornell.edu/regulations/nevada/NAC-441A-425) directs the rabies control authority to quarantine a dog that has bitten a person, regardless of current vaccination, and have it observed for ten days after the bite. Clark County adds the machinery. Home quarantine is available only where the animal has no prior bite history, is not likely to be declared dangerous or vicious, the property is secure, and the owner agrees to comply. Otherwise the animal is confined at the owner's expense at a veterinary premises or the shelter for ten days of observation, with no release until vaccination requirements and fees are satisfied.
+
+### The hidden fact inside a quarantine decision
+
+Read that list again from a parent's point of view. An officer who authorizes home quarantine has effectively recorded a finding that this animal had no prior bite history and was not heading toward a dangerous or vicious declaration. An officer who orders offsite confinement has recorded the opposite. Either determination is a piece of evidence about notice, and it exists only because someone reported the bite promptly. Ask which type of quarantine was ordered, by whom, and on what date the observation period ended. Ask for the incident number in the same call, because it is the thread that later ties a health record to an address and an owner.
+
+### Reporting without delaying treatment
+
+A bite from a rabies-susceptible species is a reportable condition, and the Southern Nevada Health District [asks for it](https://media.southernnevadahealthdistrict.org/download/epi/charts-forms/20250911-reportable-diseases-conditions.pdf) by the next business day. County animal protection takes bite calls at 702-455-7710 and says outright not to delay medical attention in order to report, and to call 911 where there is a life-threatening injury or a public safety concern. Have ready the injured child's name and address, the date and time, what happened, and the owner's contact details if anyone got them. Inside city limits the animal protection dispatch line is a separate number, 702-229-6444.
+
+### A minor's calendar is not a parent's calendar
+
+An injury action generally has to be filed within two years. Separately, [NRS 11.250](https://www.leg.state.nv.us/nrs/nrs-011.html) provides that where the person entitled to sue was under the age of eighteen when the claim accrued, the time of that disability is not counted as part of the limitation period. Treat that as breathing room for the child's own claim, not as permission to wait. Bills paid by a parent, video from an apartment courtyard, and a witness who moves away all have their own much shorter shelf life.
+
+### The record that becomes the damages case
+
+Pediatric wounds change. Keep the provider's own words on location, depth, repair method, infection risk, sensation and follow-up, along with any referral for revision once growth finishes. Photograph in consistent light as swelling falls, following medical guidance rather than replacing it. Keep a plain log of missed school, sleep disruption, activities dropped and behavior around dogs afterward. Two years later, a single phone photo and a parent's recollection are not a record; they are a summary of one.
+
+### Provocation, in the words the state actually uses
+
+Insurers reach for provocation quickly when a child is involved. The state's own definition is narrow, covering an animal that was tormented or subjected to pain, and the statute separately protects a dog only for a defensive act against someone committing a crime or provoking it. Comparative fault still applies, and a child's share of negligence can be argued, but the argument has to survive that definition rather than a general claim that children and dogs do not mix.
+
+### How dogs are kept here, and why it shows up in the file
+
+Valley dogs live behind block walls, in yards, and on tethers. The city makes it unlawful to tether a dog for more than ten hours in a day, or at any time while the National Weather Service has a heat advisory running. Gates warp, latches fail in summer, and a dog left on a chain in a public area without an attending owner is at large under the county definition. Photograph the wall, the latch, the tether and the gap. In neighborhoods built out in phases, such as Centennial Hills or Lone Mountain, two houses on one street can sit under different animal control jurisdictions.
+
+## svc_landlord_dog_bite_liability_lede
+
+A landlord does not become responsible for a tenant's dog by cashing rent checks. What changes the analysis is a landlord who knew about the animal, kept control of the fence or gate, and then took on the job of keeping it contained.
+
+## svc_landlord_dog_bite_liability_body
+
+### Status is the wrong question
+
+The controlling decision here is blunt about it. A landlord cannot be held liable by reason of landlord status, nor for failing to evict a tenant with a dog the landlord knew was dangerous. The court then added the line that kept the case alive: this does not end the matter. The inquiry moved from what the defendant was to what the defendant did, which is where a rental bite claim in this county still lives.
+
+### The promise that created a duty
+
+In that appeal the tenants had not disclosed their pit bull. Neighbors complained after it escaped twice and mauled their dogs, and the owner of the house agreed to make the tenants either get rid of the animal or move out. He instead let them stay on a promise to keep the dog indoors or chained, while a front gate everyone knew about stayed broken and wedged open. The court applied Restatement (Second) of Torts section 324A(b): a person who undertakes to perform a duty owed by someone else to a third party answers for performing it carelessly. Three links had to hold. The tenants owed a duty, the landlord took part of it on, and he was careless in carrying it out.
+
+### Knowledge plus retained control
+
+The same opinion quotes the pair of criteria other courts use when they do impose landlord liability: actual knowledge of the animal's vicious propensities, and retention of substantial control over the premises. Both are evidence problems long before they are legal ones. Written complaints to an on-site manager, an association violation notice, a work order about a latch, a text message about a barking dog behind a broken fence, and a lease clause reserving control of the courtyard all speak to one or both.
+
+### Common areas are already covered
+
+Clark County's at-large definition does something unusual and useful. It treats an unrestrained animal as at large in private areas accessible to the general public or a considerable number of people, regardless of enclosure, and it names the common areas of common interest communities as an example. A loose dog in the pool gate area of a Summerlin North or Centennial Hills association is therefore not merely a nuisance complaint. Restraint means a leash or lead no longer than six feet under adequate control, so a long retractable line in a shared courtyard is its own violation.
+
+### The declaration hearing generates paper
+
+Once an officer declares an animal dangerous or vicious, [Clark County Code](https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:f1f58666-7941-4544-91ea-dd69326071b7/original/as/titles-1-and-10-final-combined-ordinance-jan2025.pdf) puts a short fuse on the response. A vicious animal is impounded immediately where possible and the owner may not keep it during the hearing process. A dangerous one may stay home but cannot leave the property unless muzzled, leashed and under an adult's effective control. The owner has seventy-two hours from service to request a hearing, with three days added for mail, and the county must set it within ten business days. The hearing is recorded, witness names are exchanged in advance, and the owner carries the burden of persuasion. All of that is discoverable proof of what a property owner was told and when.
+
+### Which desk holds the file
+
+County animal protection serves unincorporated territory only and will redirect a caller whose address turns out to be inside a city. Its own guidance warns that zip codes and neighborhoods are split among jurisdictions, and asks for cross streets, building and unit numbers, and gate codes. That is not bureaucratic fussiness. Lone Mountain is an unincorporated town of 19,125 acres administered by the county, and Summerlin South adds 6,129 acres of its own, while Twin Lakes and Downtown addresses answer to the city. A lease that says Las Vegas tells you nothing about which agency wrote a report.
+
+### Rentals are a large share of this housing stock
+
+Census figures put the owner-occupied rate inside the city at 55.7 percent for 2019 through 2023, with median gross rent at $1,456. Well over four in ten occupied homes are therefore rented, and many sit in association-governed communities where a management company, a landlord, an association and a security contractor each control a different piece of the ground. Collect the lease and pet addendum, the association rules, maintenance history for the gate or fence, prior complaints, and the name of whoever answered them. Then ask in writing that camera footage be preserved before the system overwrites the date.
+
+## svc_dog_bite_insurance_claim_lede
+
+An adjuster on a bite file usually has two rules in mind and neither is about the dog. One is the two-year deadline. The other is a comparative fault bar that ends a claim outright once the injured person's share passes the halfway mark.
+
+## svc_dog_bite_insurance_claim_body
+
+### The two rules doing the real work
+
+An injury claim here has to be filed within two years of the attack. Then comes [NRS 41.141](https://www.leg.state.nv.us/nrs/nrs-041.html), which lets an injured person recover only where their own negligence was not greater than the negligence of the parties being sued, combined. A jury is instructed on that in so many words, and told to return both a general verdict for total damages and a special verdict assigning percentages. Every question about whether you reached out your hand, entered a yard, or ignored a sign is aimed at moving a percentage across the halfway line.
+
+### Why the first-bite argument is weaker than it sounds
+
+Adjusters like to write that the animal had never bitten anyone before. Because this state never enacted a bite statute, there is nothing for that sentence to be a defense to. The claim rests on ordinary care, and menacing conduct short of a bite is exactly what the criminal statute counts when it defines a dangerous dog by two unprovoked incidents in eighteen months. Lunging at a mail carrier, escaping twice through the same gap, a neighbor who stopped using her own yard: none of that is a bite, and all of it is notice.
+
+### An ordinance violation changes the frame
+
+The strongest answer to a no-prior-history letter is often a leash rule. County code caps restraint at a six-foot leash or lead under adequate control and treats anything less as at large; the city has its own at-large section. Under a 2001 state supreme court decision, violating a code provision adopted by county ordinance is negligence per se where the injured person falls in the protected class and the injury is the kind the provision meant to prevent. That converts an open argument about reasonableness into a narrower one about whether the leash existed.
+
+### What a recorded statement is for
+
+A statement taken in the first week is not an information-gathering courtesy. It is where a fault percentage gets its raw material, before treatment is complete and before anyone has pulled the animal control file. Requests for a broad medical authorization work the same way, reaching records that predate the attack. Keep the original letters and emails rather than a summary, log who called and when, and be careful with public posts that a reader can misread once details are missing.
+
+### Papers that close doors
+
+A release ends the claim, including the parts nobody has priced yet: a revision procedure, a nerve deficit that has not resolved, or a scar that a treating provider wants to reassess after months. Property claims and medical payments coverage can be handled separately from liability, and a small early payment sometimes arrives with language that settles far more than it covers. Read what is being closed before signing, and note that a minor's claim carries its own approval questions.
+
+### Where the file would go if it litigated
+
+Justice court hears personal injury actions only up to fifteen thousand dollars in claimed damages under [NRS 4.370](https://www.leg.state.nv.us/nrs/nrs-004.html), which puts most surgical or scarring cases in district court downtown instead. Small claims is not an alternative for serious wounds either. Las Vegas Justice Court rules bar claims needing evidentiary support from an expert witness or expert report, and a plastic surgery or infectious disease opinion is exactly that. Knowing the venue matters because it tells you what the insurer is weighing when it decides whether an offer is worth making.
+
+### How the fee side works under the state's own rule
+
+Rule 1.5 of the [Nevada Rules of Professional Conduct](https://www.leg.state.nv.us/courtrules/rpc.html) governs this, and it is stricter on paperwork than most states. A fee may not be unreasonable, judged against eight listed factors including what the locality customarily charges and whether payment is fixed or depends on the result. A contingent agreement has to be written and signed by the client, with its key terms in boldface type at least as large as the largest type anywhere in the document. Those terms include the calculation method, whether expenses come out before or after the fee is figured, who owes expenses if the case is lost, and the warning that losing can mean paying the other side's costs. The only percentage ceiling written into statute here reaches professional negligence claims against health care providers, not animal attack claims.

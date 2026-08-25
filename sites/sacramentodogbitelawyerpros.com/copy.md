@@ -87,7 +87,7 @@ Sacramento Dog Bite Law Pros is an informational local site about dog-bite claim
 
 ## urgency_bullet
 
-Keep the medical and property evidence from the first day.
+Keep the medical and property evidence from the first day
 
 ## values_eyebrow
 
@@ -95,7 +95,7 @@ Rental-property bite questions
 
 ## values_head
 
-The dog owner and the building owner are not automatically the same claim.
+The dog owner and the building owner are not automatically the same claim
 
 ## values_lede
 
@@ -203,7 +203,7 @@ The dog owner, tenant, manager, and landlord may involve different legal questio
 
 ## expect_intro_1
 
-After a dog bite, a useful case file is chronological.
+After a dog bite, a useful case file is chronological. Four groups of paper carry it: the medical record, the incident record, the property relationship, and the correspondence with an insurer.
 
 ## expect_intro_2
 
@@ -215,7 +215,7 @@ What to preserve
 
 ## expect_head
 
-Build the record before it becomes harder to retrieve.
+Build the record before it becomes harder to retrieve
 
 ## expect_1_label
 
@@ -251,11 +251,11 @@ Keep every letter and email with its date, claim number, and attachments. Before
 
 ## emergency_note
 
-If a bite needs urgent medical attention, call 911 or seek emergency care. For a dog-bite report in Sacramento County, use the appropriate local animal-control channel and keep the report number.
+If a bite needs urgent medical attention, call 911 or seek emergency care. To report the bite, use the local animal-control channel that covers the address where it happened, and keep the report number that office gives you.
 
 ## pricing_lede
 
-Fee arrangements in a Sacramento animal attack case answer to the State Bar rule on unconscionable fees, to two sections of the Business and Professions Code that dictate what the paperwork must say, and, where the injured person is a child, to a Rule of Court that hands the decision to a judge, with the county's own filing tiers layered on top.
+Fee arrangements in a Sacramento animal attack case answer to the State Bar rule on unconscionable fees and to two sections of the Business and Professions Code that dictate what the paperwork must say. Where the injured person is a child, a Rule of Court hands the decision to a judge, and the county's own filing tiers sit on top of all of it.
 
 ## pricing_body
 
@@ -269,7 +269,7 @@ Business and Professions Code section 6147 requires a contingency agreement to b
 
 ### A child's recovery is decided by the judge
 
-Most people bitten badly enough to bring a claim in this county are children, and that changes the fee analysis entirely. California Rule of Court 7.955(a)(1) provides that in matters under Code of Civil Procedure section 372 or Probate Code sections 3600 to 3601, unless the court approved the fee agreement in advance, the court must use a reasonable fee standard when approving fees payable from money paid for the benefit of a minor or a person with a disability. Subdivision (b) supplies fourteen factors, including the fact that a minor is involved, the fee against the value of the services, the amount involved and the result obtained, informed consent, and, where the fee is contingent, the risk of loss the attorney bore, the costs advanced, and the delay before payment. A declaration from counsel accompanies the petition.
+Most people bitten badly enough to bring a claim in this county are children, and that changes the fee analysis entirely. California Rule of Court 7.955(a)(1) covers matters under Code of Civil Procedure section 372 or Probate Code sections 3600 to 3601. Unless the court approved the fee agreement in advance, it must use a reasonable fee standard when approving fees payable from money paid for the benefit of a minor or a person with a disability. Subdivision (b) supplies fourteen factors. They include the fact that a minor is involved, the fee against the value of the services, the amount involved and the result obtained, informed consent, and, where the fee is contingent, the risk of loss the attorney bore, the costs advanced, and the delay before payment. A declaration from counsel accompanies the petition.
 
 ### The thousand dollar writing threshold
 
@@ -285,10 +285,10 @@ The same schedule prices what happens after filing. A motion or other paper requ
 
 ### County license amounts and what they prove
 
-Sacramento County Code chapter 8.24 requires every dog four months or older to be licensed and currently vaccinated against rabies. Animal Care charges $50 a year for an intact animal, $100 for two years and $150 for three, against $15, $30 and $40 for an altered animal, with a reduced $10 annual rate for an owner sixty-two or older keeping an altered pet. A late payment adds $25.00, a duplicate tag costs $5, and a qualifying competition animal or working ranch dog can be licensed unaltered for $45 a year. Galt and Isleton run their own lower amounts. Licensing and vaccination records are pulled routinely after an attack because they show what the owner had done, and had not done, before it happened.
+Sacramento County Code chapter 8.24 requires every dog four months or older to be licensed and currently vaccinated against rabies. Animal Care charges $50 a year for an intact animal, $100 for two years and $150 for three, against $15, $30 and $40 for an altered animal, with a reduced $10 annual rate for an owner sixty-two or older keeping an altered pet. A late payment adds $25, a duplicate tag costs $5, and a qualifying competition animal or working ranch dog can be licensed unaltered for $45 a year. Galt and Isleton run their own lower amounts. Licensing and vaccination records are pulled routinely after an attack because they show what the owner had done, and had not done, before it happened.
 ## services_summary
 
-Four different jobs hide behind the words dog bite lawyer in Sacramento, and running them together is how a claim loses value. An adult bite claim turns on the owner rule and the animal control file. A child's claim adds a longer clock, unfinished treatment, and a judge who signs off on the money. A rental case is a harder second inquiry into what a manager knew and could actually do. An insurance claim is a paperwork contest over policy wording and claim-handling deadlines. Nearly half the occupied homes in this city are rented, so a Sacramento bite usually raises two of the four at once.
+Four different jobs hide behind the words dog bite lawyer here, and running them together is how a claim loses value. An adult bite claim turns on the owner rule and the animal control file. A child's claim adds a longer clock, unfinished treatment, and a judge who signs off on the money. A rental case is a harder second inquiry into what a manager knew and could actually do. An insurance claim is a paperwork contest over policy wording and claim-handling deadlines. Nearly half the occupied homes in this city are rented, so a Sacramento bite usually raises two of the four at once.
 
 ## services_pick_head
 
@@ -310,7 +310,7 @@ California Civil Code section 3342 makes the owner of a dog answerable for damag
 
 ### Who the section quietly leaves out
 
-Lawful presence is a defined term, not a general sense of being allowed to be somewhere. The section counts a person who was there on the owner's express or implied invitation, or who was performing a duty imposed by state law or by federal postal regulation, which is why a letter carrier bitten on a Land Park porch sits inside the rule and someone who stepped over a fence sits outside it. California courts have also held that veterinary staff and commercial kennel workers assume the risk of being bitten as part of the job, so the strict liability route is closed to them. Subdivisions (b) through (d) carve out a public agency using a dog in police or military work in listed situations, but only where the agency adopted a written policy on that use, and the carve-out is switched off for a bystander who had no part in whatever prompted the dog.
+Lawful presence is a defined term, not a general sense of being allowed to be somewhere. The section counts a person who was there on the owner's express or implied invitation, or who was performing a duty imposed by state law or by federal postal regulation. That is why a letter carrier bitten on a Land Park porch sits inside the rule and someone who stepped over a fence sits outside it. California courts have also held that veterinary staff and commercial kennel workers assume the risk of being bitten as part of the job, so the strict liability route is closed to them. Subdivisions (b) through (d) carve out a public agency using a dog in police or military work in listed situations, but only where the agency adopted a written policy on that use. The carve-out is switched off for a bystander who had no part in whatever prompted the dog.
 
 ### The deadline, and the shorter one nobody expects
 
@@ -318,7 +318,7 @@ An ordinary claim against a private dog owner runs on Code of Civil Procedure se
 
 ### The first week, and which agency has your file
 
-Title 17 of the California Code of Regulations, section 2606, requires bites from rabies-susceptible mammals to be reported to the local health officer whether or not rabies is suspected, and state public health has declared every one of California's 58 counties a rabies area every year for decades. Which office ends up holding the file depends on the address rather than the postmark: the city shelter on Front Street covers addresses inside Sacramento, the county department on Bradshaw Road covers the unincorporated county, and Citrus Heights, Elk Grove, Folsom, and Rancho Cordova each run their own animal control. Both the county and the city hold a biting dog for ten days from the date of the bite, and the county bills the owner for each day of that confinement. Ask for the case number, the officer's name, and copies of anything served on the owner.
+Title 17 of the California Code of Regulations, section 2606, requires bites from rabies-susceptible mammals to be reported to the local health officer whether or not rabies is suspected, and state public health has declared every one of California's 58 counties a rabies area every year for decades. Which office ends up holding the file depends on the address rather than the postmark. The city shelter on Front Street covers addresses inside Sacramento, the county department on Bradshaw Road covers the unincorporated county, and Citrus Heights, Elk Grove, Folsom, and Rancho Cordova each run their own animal control. Both the county and the city hold a biting dog for ten days from the date of the bite, and the county bills the owner for each day of that confinement. Ask for the case number, the officer's name, and copies of anything served on the owner.
 
 ### The mistake that costs the case
 
@@ -330,7 +330,7 @@ California is a pure comparative fault state, and contributory negligence and as
 
 ### After you make contact, and how the fee rule works
 
-The useful first exchange is documentary: date, address, case number, treatment so far, dog ownership, and any public entity in the facts. California regulates the fee arrangement instead of capping it. Rule of Professional Conduct 1.5(a) prohibits an unconscionable or illegal fee and 1.5(b) lists thirteen factors for measuring one, including the fee against the value of the work actually performed. Business and Professions Code section 6147 requires a percentage-of-recovery agreement to be in writing with a signed duplicate handed to the client, to state the rate, to explain how costs hit both the fee and the client's share, and to say in plain terms that the rate is not set by law and is negotiable. Rule 1.5(c)(2) bars percentage arrangements in criminal defense entirely, which is one reason they are standard on the injury side and nowhere else.
+The useful first exchange is documentary: date, address, case number, treatment so far, dog ownership, and any public entity in the facts. California regulates the fee arrangement instead of capping it. Rule of Professional Conduct 1.5(a) prohibits an unconscionable or illegal fee and 1.5(b) lists thirteen factors for measuring one, including the fee against the value of the work actually performed. Business and Professions Code section 6147 requires a percentage-of-recovery agreement to be in writing, with a signed duplicate handed to the client. It must state the rate, explain how costs hit both the fee and the client's share, and say in plain terms that the rate is not set by law and is negotiable. Rule 1.5(c)(2) bars percentage arrangements in criminal defense entirely, which is one reason they are standard on the injury side and nowhere else.
 
 ## svc_child_dog_bite_claim_lede
 
@@ -344,11 +344,11 @@ Two claims come out of one bite, and they are owned by different people. The chi
 
 ### The clock a child gets, and the one nobody gets
 
-Code of Civil Procedure section 335.1 sets two years for an injury action, and Code of Civil Procedure section 352 tolls that period while the injured person is a minor, so a child's own claim generally has time to run past the eighteenth birthday. That is not permission to wait. A parent's own out-of-pocket claim is not tolled by the child's minority, evidence disappears on the ordinary schedule, and if a public entity is involved the Government Code claim regime with its six-month presentation deadline is a separate track that should never be assumed to sit still while a child grows up. Treat the tolling rule as a safety net for the child, not a calendar for the family.
+Code of Civil Procedure section 335.1 sets two years for an injury action, and Code of Civil Procedure section 352 tolls that period while the injured person is a minor, so a child's own claim generally has time to run past the eighteenth birthday. That is not permission to wait. A parent's own out-of-pocket claim is not tolled by the child's minority, and evidence disappears on the ordinary schedule. If a public entity is involved, the Government Code claim regime with its six-month presentation deadline is a separate track that should never be assumed to sit still while a child grows up. Treat the tolling rule as a safety net for the child, not a calendar for the family.
 
 ### Where Sacramento children actually get bitten
 
-Most child bites here come from a dog the child already knew, at an address the family visits, and the setting shapes the record. The city's median housing unit dates to 1975 and roughly 55 percent of the stock predates 1980, which in practice means older fenced yards, side gates, and shared driveways in East Sacramento and Curtis Park, alley-facing lots and duplex conversions in Midtown, and single-story tract homes in Pocket-Greenhaven, where most construction dates to the 1970s and 1980s. Oak Park, subdivided in 1887 as the city's first streetcar suburb, mixes small older lots with newer infill and rentals on the same block. In summer, gates get propped open and dogs live outdoors, so photograph the latch, the fence line, the sight lines from where the adults were standing, and the route the dog took.
+Most child bites here come from a dog the child already knew, at an address the family visits, and the setting shapes the record. The city's median housing unit dates to 1975 and roughly 55 percent of the stock predates 1980. In practice that means older fenced yards, side gates, and shared driveways in East Sacramento and Curtis Park, alley-facing lots and duplex conversions in Midtown, and single-story tract homes in Pocket-Greenhaven, where most construction dates to the 1970s and 1980s. Oak Park, subdivided in 1887 as the city's first streetcar suburb, mixes small older lots with newer infill and rentals on the same block. In summer, gates get propped open and dogs live outdoors, so photograph the latch, the fence line, the sight lines from where the adults were standing, and the route the dog took.
 
 ### What to preserve in the first week
 
@@ -360,11 +360,11 @@ Resolving it early. A facial or hand wound on a growing child is not medically f
 
 ### What the other side does
 
-Expect the argument that the child provoked the dog. California measures a child's conduct against what is reasonable for a child of that age, maturity, and experience rather than against an adult standard, and very young children are treated as incapable of negligence, but the defense will still be raised and it will be aimed at whichever adult was supervising. Expect an early offer built on emergency room bills alone, before any specialist opinion on scarring exists. Expect a request for a recorded statement from a parent, and read what an authorization actually opens before signing it.
+Expect the argument that the child provoked the dog. California measures a child's conduct against what is reasonable for a child of that age, maturity, and experience rather than against an adult standard, and very young children are treated as incapable of negligence. The defense will still be raised, and it will be aimed at whichever adult was supervising. Expect an early offer built on emergency room bills alone, before any specialist opinion on scarring exists. Expect a request for a recorded statement from a parent, and read what an authorization actually opens before signing it.
 
 ### The money is reviewed before anyone spends it
 
-A minor's recovery is not handed to a parent to manage informally. California Rule of Court 7.955 requires a court to apply a reasonable fee standard when approving attorney fees payable from money paid for a minor's benefit, unless the fee agreement was approved in advance, and it lists fourteen factors including the fact that a minor is involved, the result obtained, and, where the fee depends on outcome, the risk carried, the costs advanced, and the delay in payment. Compromise of a minor's claim goes through a court petition, and the funds are commonly directed into a blocked account or annuity until majority. The related fee statute, Business and Professions Code section 6147, still requires the written agreement, the stated rate, and the plain statement that the rate is negotiable rather than fixed by law.
+A minor's recovery is not handed to a parent to manage informally. California Rule of Court 7.955 requires a court to apply a reasonable fee standard when approving attorney fees payable from money paid for a minor's benefit, unless the fee agreement was approved in advance. The rule lists fourteen factors, including the fact that a minor is involved, the result obtained, and, where the fee depends on outcome, the risk carried, the costs advanced, and the delay in payment. Compromise of a minor's claim goes through a court petition, and the funds are commonly directed into a blocked account or annuity until majority. The related fee statute, Business and Professions Code section 6147, still requires the written agreement, the stated rate, and the plain statement that the rate is negotiable rather than fixed by law.
 
 ## svc_landlord_dog_bite_liability_lede
 
@@ -378,11 +378,11 @@ Building ownership is not dog ownership, and Civil Code section 3342 names the d
 
 ### Why this comes up constantly in this city
 
-Nearly half of Sacramento's occupied homes are rentals, and the rental stock is not mostly big managed complexes. About a third of the city's single-unit homes are renter occupied, a higher share than the county or the state, so the landlord on the other side is frequently an individual owner with one house, a duplex, or a converted flat rather than a management company with a complaint log. Central City blocks hold the most multifamily housing in the city, along with historic single-unit homes, duplexes, and triplexes sharing yards and alleys. Greater Land Park is roughly 83 percent single-unit, East Sacramento about 75 percent, and Pocket-Greenhaven is mostly 1970s and 1980s tract housing with fenced back yards and side gates. The physical form of the property decides where the notice evidence lives: a portal ticket in a complex, a text thread with an owner in a duplex.
+Nearly half of Sacramento's occupied homes are rentals, and the rental stock is not mostly big managed complexes. About a third of the city's single-unit homes are renter occupied, a higher share than the county or the state. The landlord on the other side is frequently an individual owner with one house, a duplex, or a converted flat rather than a management company with a complaint log. Central City blocks hold the most multifamily housing in the city, along with historic single-unit homes, duplexes, and triplexes sharing yards and alleys. Greater Land Park is roughly 83 percent single-unit, East Sacramento about 75 percent, and Pocket-Greenhaven is mostly 1970s and 1980s tract housing with fenced back yards and side gates. The physical form of the property decides where the notice evidence lives: a portal ticket in a complex, a text thread with an owner in a duplex.
 
 ### The first week, before the records disappear
 
-Get the lease and any pet addendum, the pet rules or community policy, every message to the manager or owner in its original form with dates and recipients visible, resident-portal entries, maintenance and repair requests about the fence or gate, and any notice served on the tenant. Photograph the enclosure, the latch, the gap the dog used, posted signs, and the common area from several distances. Then get the animal control file: the county's process invites a person to file a vicious animal affidavit within thirty days of the incident, and the city can declare an animal potentially dangerous or dangerous under its own code, with the owner having five calendar days to appeal a declaration. Those records are dated and independent of anyone's memory.
+Get the lease and any pet addendum, the pet rules or community policy, every message to the manager or owner in its original form with dates and recipients visible, resident-portal entries, maintenance and repair requests about the fence or gate, and any notice served on the tenant. Photograph the enclosure, the latch, the gap the dog used, posted signs, and the common area from several distances. Then get the animal control file. The county's process invites a person to file a vicious animal affidavit within thirty days of the incident, and the city can declare an animal potentially dangerous or dangerous under its own code, with the owner having five calendar days to appeal a declaration. Those records are dated and independent of anyone's memory.
 
 ### The mistake that costs the case
 
@@ -398,7 +398,7 @@ Sacramento's city code treats an animal as potentially dangerous after two displ
 
 ### After you make contact, and how fees are set
 
-The first pass is a document inventory: who owned the dog, who owned and managed the property, what was reported and when, and what the lease actually allowed. On fees, California sets no percentage. Under Rule of Professional Conduct 1.5(a) a fee may be neither unconscionable nor illegal, and section 6147 of the Business and Professions Code demands a written agreement carrying the rate, an explanation of how costs affect both the fee and the client's share, and an express statement that the rate is negotiable rather than fixed by law. Section 6148 separately requires a written agreement for hourly or flat-rate work reasonably expected to exceed one thousand dollars.
+The first pass is a document inventory: who owned the dog, who owned and managed the property, what was reported and when, and what the lease actually allowed. On fees, California sets no percentage. Under Rule of Professional Conduct 1.5(a) a fee may be neither unconscionable nor illegal. Section 6147 of the Business and Professions Code demands a written agreement carrying the rate, an explanation of how costs affect both the fee and the client's share, and an express statement that the rate is negotiable rather than fixed by law. Section 6148 separately requires a written agreement for hourly or flat-rate work reasonably expected to exceed one thousand dollars.
 
 ## svc_dog_bite_insurance_claim_lede
 
@@ -416,11 +416,11 @@ Identify the named insured, the policy period, the covered address, the liabilit
 
 ### The deadlines the regulations put on the insurer
 
-California's fair claims settlement practices regulations are specific. Under title 10 of the California Code of Regulations, an insurer must acknowledge a claim notice within fifteen calendar days, must accept or deny the claim in whole or in part within forty calendar days of receiving proof of claim, and must pay amounts it has accepted within thirty calendar days, with written extensions limited and explained. Knowing those intervals changes how a delay reads. What the regulations do not do is create a private lawsuit for a bite victim against the other side's insurer: the California Supreme Court held that the statutory unfair practices provision gives no private right of action to a third-party claimant, so the pressure point is the underlying claim, the documented record, and the regulator, not a bad faith theory belonging to a stranger to the policy.
+California's fair claims settlement practices regulations are specific. Under title 10 of the California Code of Regulations, an insurer must acknowledge a claim notice within fifteen calendar days and must accept or deny the claim in whole or in part within forty calendar days of receiving proof of claim. Amounts it has accepted must be paid within thirty calendar days, with written extensions limited and explained. Knowing those intervals changes how a delay reads. What the regulations do not do is create a private lawsuit for a bite victim against the other side's insurer. The California Supreme Court held that the statutory unfair practices provision gives no private right of action to a third-party claimant. The pressure point is therefore the underlying claim, the documented record, and the regulator, not a bad faith theory belonging to a stranger to the policy.
 
 ### The first week with a claim file
 
-Open four folders and keep them separate: medical, incident, property, and correspondence. The correspondence folder is the one that decides arguments later, so keep each letter with its date, claim number, adjuster name, and every enclosure, and note the date each item arrived. Send treatment records when they are complete rather than in pieces. Photograph the wound on a schedule. Ask the animal control agency holding the file for its report number, remembering that in this county the agency depends on the address, splitting between the city shelter on Front Street, the county department on Bradshaw Road, and the separate departments in Citrus Heights, Elk Grove, Folsom, and Rancho Cordova.
+Open four folders and keep them separate: medical, incident, property, and correspondence. The correspondence folder is the one that decides arguments later, so keep each letter with its date, claim number, adjuster name, and every enclosure, and note the date each item arrived. Send treatment records when they are complete rather than in pieces. Photograph the wound on a schedule. Ask the animal control agency holding the file for its report number. In this county the agency depends on the address, splitting between the city shelter on Front Street, the county department on Bradshaw Road, and the separate departments in Citrus Heights, Elk Grove, Folsom, and Rancho Cordova.
 
 ### The mistake that costs the case
 
@@ -428,8 +428,8 @@ Signing before reading. A medical authorization can be written broadly enough to
 
 ### What the other side does
 
-Expect a reservation of rights letter that reserves coverage questions while the investigation proceeds, and read it as a coverage document rather than a denial. Expect the file to be worked on comparative fault, because pure comparative fault in California reduces damages by the injured person's own share rather than barring the claim, so provocation, an unleashed dog on the other side, a posted warning, or an uninvited entry are all worth money to the insurer. Expect questions about whether the person bitten was lawfully present and whether the dog's owner is even the policyholder. Where several parties are named, Civil Code section 1431.2 assigns noneconomic damages severally by share of fault, which encourages each carrier to point at the others.
+Expect a reservation of rights letter that reserves coverage questions while the investigation proceeds, and read it as a coverage document rather than a denial. Expect the file to be worked on comparative fault. Pure comparative fault in California reduces damages by the injured person's own share rather than barring the claim, so provocation, an unleashed dog on the other side, a posted warning, or an uninvited entry are all worth money to the insurer. Expect questions about whether the person bitten was lawfully present and whether the dog's owner is even the policyholder. Where several parties are named, Civil Code section 1431.2 assigns noneconomic damages severally by share of fault, which encourages each carrier to point at the others.
 
 ### After you make contact, and what California requires in the fee agreement
 
-The productive first conversation is about documents: the declarations page, the letters, the report number, the medical file, and the calendar. Two calendars matter, the two-year period under Code of Civil Procedure section 335.1 and, if any public agency touches the facts, the six-month government claim deadline under Government Code section 911.2. Negotiation does not pause either one. On fees, Rule of Professional Conduct 1.5(a) prohibits an unconscionable or illegal fee, 1.5(b) supplies thirteen factors for judging one, and Business and Professions Code section 6147 requires the written agreement, the stated rate, the treatment of costs, and the plain statement that the rate is negotiable and not fixed by law.
+The productive first conversation is about documents: the declarations page, the letters, the report number, the medical file, and the calendar. Two calendars matter, the two-year period under Code of Civil Procedure section 335.1 and, if any public agency touches the facts, the six-month government claim deadline under Government Code section 911.2. Negotiation does not pause either one. On fees, Rule of Professional Conduct 1.5(a) prohibits an unconscionable or illegal fee, and 1.5(b) supplies thirteen factors for judging one. Business and Professions Code section 6147 requires the written agreement, the stated rate, the treatment of costs, and the plain statement that the rate is negotiable and not fixed by law.

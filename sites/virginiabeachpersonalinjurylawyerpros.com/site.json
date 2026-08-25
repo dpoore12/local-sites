@@ -1,214 +1,215 @@
 {
- "domain": "virginiabeachpersonalinjurylawyerpros.com",
- "phase": 1,
- "brand": "Virginia Beach Personal Injury Law Pros",
- "service": "Personal Injury Lawyer",
- "service_inline": "personal injury lawyer",
- "city": "Virginia Beach",
- "state": "VA",
- "state_full": "Virginia",
- "counties": [
-  "Virginia Beach City"
- ],
- "area_codes": [
-  "757"
- ],
- "phone_display": "(757) 684-8383",
- "phone_tel": "+17576848383",
- "phone_status": "LIVE",
- "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
- "emergency": false,
- "timezone": "America/New_York",
- "tenant": {
-  "status": "none",
-  "business_name": null,
-  "license_number": null,
-  "years_in_business": null,
-  "reviews": null,
-  "service_hours": null,
-  "family_owned": null,
-  "veteran_owned": null
- },
- "local_facts": [
-  {
-   "id": "court_jurisdiction",
-   "claim": "Virginia Beach General District Court has a $50,000 jurisdictional limit for personal-injury and wrongful-death claims. Virginia Beach is an independent city with its own local court system.",
-   "why_it_matters": "The amount sought can affect whether the case may be heard in General District Court or requires a Circuit Court analysis. The city is not sitting in a county court system, so the court and filing path need to be matched to the specific matter.",
-   "sources": [
-    "https://courts.virginiabeach.gov/general-district-court/civil-division",
-    "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/"
-   ],
-   "verified": "2026-08-22",
-   "title": "Virginia Beach has its own court path and a $50,000 injury-claim limit"
-  },
-  {
-   "id": "nas_oceana_federal_connection",
-   "claim": "NAS Oceana, in Virginia Beach, is the Navy's East Coast Master Jet Base and includes Dam Neck Annex and Naval Auxiliary Landing Field Fentress. The installation reports about 10,500 active Navy personnel, 10,000 family members and 4,500 civilian personnel.",
-   "why_it_matters": "An injury involving a service member, federal employee, contractor, government equipment or military property may need a different first review from an ordinary Virginia private-party claim. Precise details about the person, place and activity can determine whether a federal administrative process is relevant.",
-   "sources": [
-    "https://cnrma.cnic.navy.mil/installations/NAS-Oceana/",
-    "https://www.congress.gov/crs-product/R45732"
-   ],
-   "verified": "2026-08-22",
-   "title": "A military or federal connection can change the first question"
-  },
-  {
-   "id": "oceanfront_resort_district",
-   "claim": "Virginia Beach's Oceanfront District includes a three-mile boardwalk, the Atlantic and Pacific Avenue beach-related corridors, and more than 40 beachfront hotels and resorts.",
-   "why_it_matters": "A fall or other injury near the Oceanfront can involve a hotel, restaurant, parking area, beach access, public walkway or another adjoining area. A precise location is essential for identifying who controlled the condition and what records or video may exist.",
-   "sources": [
-    "https://s3.us-east-1.amazonaws.com/virginia-beach-departments-docs/communications/Hot-Topics/Atlantic-Park/SiteWorks-VB-The-Wave-Final-Report.pdf",
-    "https://planning.virginiabeach.gov/zoning/form-based-code/oceanfront-resort-district"
-   ],
-   "verified": "2026-08-22",
-   "title": "The Oceanfront is a dense resort setting, not one property"
-  }
- ],
- "neighborhoods": [
-  "Kempsville",
-  "Great Neck",
-  "Hilltop",
-  "Bayside",
-  "Oceanfront",
-  "Sandbridge"
- ],
- "symptoms": [
-  "injured_on_property",
-  "medical_care_after_accident",
-  "defective_product_injury",
-  "life_changing_injury"
- ],
- "schema": {
-  "local_business": false,
-  "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
- },
- "pricing": {
-  "mode": "fees",
-  "fee_kind": "contingency",
-  "table_head": "What Virginia publishes for an injury claim brought in Virginia Beach",
-  "col_a": "Item",
-  "col_b": "The published amount or requirement",
-  "anchors": [
-   {
-    "label": "Filing civil papers, Virginia Beach General District Court",
-    "value": "$52",
-    "detail": "The clerk's published cost to file civil papers, including a warrant in debt. The total varies with the amount in controversy.",
-    "source_name": "Virginia Beach General District Court, Civil Division fees",
-    "source_url": "https://courts.virginiabeach.gov/general-district-court/civil-division"
-   },
-   {
-    "label": "Injury or wrongful death claim a district court may hear",
-    "value": "Up to $50,000",
-    "detail": "Below $4,500 the district court has exclusive original jurisdiction; between that and fifty thousand dollars it shares jurisdiction with the circuit court.",
-    "source_name": "Va. Code 16.1-77(1)",
-    "source_url": "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/"
-   },
-   {
-    "label": "Maximum percentage the Commonwealth sets for injury work",
-    "value": "Nothing",
-    "detail": "Virginia opens its fee rule with the requirement that a fee be reasonable and then lists eight factors. No percentage appears in the rule.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   },
-   {
-    "label": "Window for written notice of an attorney's lien",
-    "value": "45 days",
-    "detail": "A lien attaches to a tort cause of action on contracting, but written notice must reach the client, the other side and the clerk within that window or before settlement.",
-    "source_name": "Va. Code 54.1-3932(A)",
-    "source_url": "https://law.lis.virginia.gov/vacode/title54.1/chapter39/section54.1-3932/"
-   }
+  "domain": "virginiabeachpersonalinjurylawyerpros.com",
+  "phase": 2,
+  "brand": "Virginia Beach Personal Injury Law Pros",
+  "service": "Personal Injury Lawyer",
+  "service_inline": "personal injury lawyer",
+  "vertical": "legal",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "state_full": "Virginia",
+  "counties": [
+    "Virginia Beach City"
   ],
-  "fee_rows": [
-   {
-    "stage": "Statutory share of a district court civil filing",
-    "share": "$36",
-    "note": "The fee set by statute for court and magistrate services on a civil warrant or garnishment, of which ten dollars funds court technology.",
-    "source_name": "Va. Code 16.1-69.48:2",
-    "source_url": "https://law.lis.virginia.gov/vacode/title16.1/chapter4.1/section16.1-69.48:2/"
-   },
-   {
-    "stage": "Getting the papers served",
-    "share": "$12, or $75 out of state",
-    "note": "Twelve dollars to serve civil process on one person, firm or corporation. Papers returnable outside Virginia cost seventy-five.",
-    "source_name": "Va. Code 17.1-272(A)(1) and (C)",
-    "source_url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-272/"
-   },
-   {
-    "stage": "What a contingent agreement must state in writing",
-    "share": "Method, percentages, expenses",
-    "note": "How the fee is computed, the percentages on settlement, trial and appeal, the expenses deducted, and whether they come out before or after the fee.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(c)",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   },
-   {
-    "stage": "Matters where a contingent fee is off limits",
-    "share": "Two categories",
-    "note": "Domestic relations work, except in rare instances, and the defense of a criminal case. An injury claim sits outside both.",
-    "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(d)",
-    "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
-   },
-   {
-    "stage": "Medical malpractice, a limit on the verdict",
-    "share": "Caps recovery, not the fee",
-    "note": "Virginia's sliding statutory ceiling on the total recoverable from a health care provider climbs to three million dollars for acts after June 2031.",
-    "source_name": "Va. Code 8.01-581.15",
-    "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter21.1/section8.01-581.15/"
-   }
-  ]
- },
- "hero_accent": "What An Injury Claim Actually Involves",
- "trust_third": "Deadlines and liability rules, spelled out",
- "services": [
-  {
-   "slug": "slip-and-fall-lawyer",
-   "name": "Slip and Fall Claims",
-   "nav": "Slip and fall",
-   "h1": "Slip and Fall Lawyer",
-   "accent": "Hazards, Evidence and Injury Claims",
-   "keyword": "slip and fall lawyer",
-   "icon": "warn"
+  "area_codes": [
+    "757"
+  ],
+  "phone_display": "(757) 684-8383",
+  "phone_tel": "+17576848383",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-08-22. Ordered in the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
   },
-  {
-   "slug": "medical-malpractice-lawyer",
-   "name": "Medical Malpractice Claims",
-   "nav": "Medical malpractice",
-   "h1": "Medical Malpractice Lawyer",
-   "accent": "Records, Harm and Claim Review",
-   "keyword": "medical malpractice lawyer",
-   "icon": "search"
+  "local_facts": [
+    {
+      "id": "court_jurisdiction",
+      "claim": "Virginia Beach General District Court has a $50,000 jurisdictional limit for personal-injury and wrongful-death claims. Virginia Beach is an independent city with its own local court system.",
+      "why_it_matters": "The amount sought can affect whether the case may be heard in General District Court or requires a Circuit Court analysis. The city is not sitting in a county court system, so the court and filing path need to be matched to the specific matter.",
+      "sources": [
+        "https://courts.virginiabeach.gov/general-district-court/civil-division",
+        "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/"
+      ],
+      "verified": "2026-08-22",
+      "title": "Virginia Beach has its own court path and a $50,000 injury-claim limit"
+    },
+    {
+      "id": "nas_oceana_federal_connection",
+      "claim": "NAS Oceana, in Virginia Beach, is the Navy's East Coast Master Jet Base and includes Dam Neck Annex and Naval Auxiliary Landing Field Fentress. The installation reports about 10,500 active Navy personnel, 10,000 family members and 4,500 civilian personnel.",
+      "why_it_matters": "An injury involving a service member, federal employee, contractor, government equipment or military property may need a different first review from an ordinary Virginia private-party claim. Precise details about the person, place and activity can determine whether a federal administrative process is relevant.",
+      "sources": [
+        "https://cnrma.cnic.navy.mil/installations/NAS-Oceana/",
+        "https://www.congress.gov/crs-product/R45732"
+      ],
+      "verified": "2026-08-22",
+      "title": "A military or federal connection can change the first question"
+    },
+    {
+      "id": "oceanfront_resort_district",
+      "claim": "Virginia Beach's Oceanfront District includes a three-mile boardwalk, the Atlantic and Pacific Avenue beach-related corridors, and more than 40 beachfront hotels and resorts.",
+      "why_it_matters": "A fall or other injury near the Oceanfront can involve a hotel, restaurant, parking area, beach access, public walkway or another adjoining area. A precise location is essential for identifying who controlled the condition and what records or video may exist.",
+      "sources": [
+        "https://s3.us-east-1.amazonaws.com/virginia-beach-departments-docs/communications/Hot-Topics/Atlantic-Park/SiteWorks-VB-The-Wave-Final-Report.pdf",
+        "https://planning.virginiabeach.gov/zoning/form-based-code/oceanfront-resort-district"
+      ],
+      "verified": "2026-08-22",
+      "title": "The Oceanfront is a dense resort setting, not one property"
+    }
+  ],
+  "neighborhoods": [
+    "Kempsville",
+    "Great Neck",
+    "Hilltop",
+    "Bayside",
+    "Oceanfront",
+    "Sandbridge"
+  ],
+  "symptoms": [
+    "injured_on_property",
+    "medical_care_after_accident",
+    "defective_product_injury",
+    "life_changing_injury"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
   },
-  {
-   "slug": "product-liability-lawyer",
-   "name": "Product Liability Claims",
-   "nav": "Product liability",
-   "h1": "Product Liability Lawyer",
-   "accent": "Defects, Warnings and Liability",
-   "keyword": "product liability lawyer",
-   "icon": "gear"
+  "pricing": {
+    "mode": "fees",
+    "fee_kind": "contingency",
+    "table_head": "What Virginia publishes for an injury claim brought in Virginia Beach",
+    "col_a": "Item",
+    "col_b": "The published amount or requirement",
+    "anchors": [
+      {
+        "label": "Filing civil papers, Virginia Beach General District Court",
+        "value": "$52",
+        "detail": "The clerk's published cost to file civil papers, including a warrant in debt. The total varies with the amount in controversy.",
+        "source_name": "Virginia Beach General District Court, Civil Division fees",
+        "source_url": "https://courts.virginiabeach.gov/general-district-court/civil-division"
+      },
+      {
+        "label": "Injury or wrongful death claim a district court may hear",
+        "value": "Up to $50,000",
+        "detail": "Below $4,500 the district court has exclusive original jurisdiction; between that and fifty thousand dollars it shares jurisdiction with the circuit court.",
+        "source_name": "Va. Code 16.1-77(1)",
+        "source_url": "https://law.lis.virginia.gov/vacode/title16.1/chapter6/section16.1-77/"
+      },
+      {
+        "label": "Maximum percentage the Commonwealth sets for injury work",
+        "value": "Nothing",
+        "detail": "Virginia opens its fee rule with the requirement that a fee be reasonable and then lists eight factors. No percentage appears in the rule.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(a)",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      },
+      {
+        "label": "Window for written notice of an attorney's lien",
+        "value": "45 days",
+        "detail": "A lien attaches to a tort cause of action on contracting, but written notice must reach the client, the other side and the clerk within that window or before settlement.",
+        "source_name": "Va. Code 54.1-3932(A)",
+        "source_url": "https://law.lis.virginia.gov/vacode/title54.1/chapter39/section54.1-3932/"
+      }
+    ],
+    "fee_rows": [
+      {
+        "stage": "Statutory share of a district court civil filing",
+        "share": "$36",
+        "note": "The fee set by statute for court and magistrate services on a civil warrant or garnishment, of which ten dollars funds court technology.",
+        "source_name": "Va. Code 16.1-69.48:2",
+        "source_url": "https://law.lis.virginia.gov/vacode/title16.1/chapter4.1/section16.1-69.48:2/"
+      },
+      {
+        "stage": "Getting the papers served",
+        "share": "$12, or $75 out of state",
+        "note": "Twelve dollars to serve civil process on one person, firm or corporation. Papers returnable outside Virginia cost seventy-five.",
+        "source_name": "Va. Code 17.1-272(A)(1) and (C)",
+        "source_url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-272/"
+      },
+      {
+        "stage": "What a contingent agreement must state in writing",
+        "share": "Method, percentages, expenses",
+        "note": "How the fee is computed, the percentages on settlement, trial and appeal, the expenses deducted, and whether they come out before or after the fee.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(c)",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      },
+      {
+        "stage": "Matters where a contingent fee is off limits",
+        "share": "Two categories",
+        "note": "Domestic relations work, except in rare instances, and the defense of a criminal case. An injury claim sits outside both.",
+        "source_name": "Va. Rules of Prof. Conduct, Rule 1.5(d)",
+        "source_url": "https://vsb.org/Site/Site/about/rules-regulations/rpc-part6-sec2.aspx"
+      },
+      {
+        "stage": "Medical malpractice, a limit on the verdict",
+        "share": "Caps recovery, not the fee",
+        "note": "Virginia's sliding statutory ceiling on the total recoverable from a health care provider climbs to three million dollars for acts after June 2031.",
+        "source_name": "Va. Code 8.01-581.15",
+        "source_url": "https://law.lis.virginia.gov/vacode/title8.01/chapter21.1/section8.01-581.15/"
+      }
+    ]
   },
-  {
-   "slug": "catastrophic-injury-lawyer",
-   "name": "Catastrophic Injury Claims",
-   "nav": "Catastrophic injuries",
-   "h1": "Catastrophic Injury Lawyer",
-   "accent": "Long-Term Needs and Damages",
-   "keyword": "catastrophic injury lawyer",
-   "icon": "bolt"
+  "hero_accent": "What An Injury Claim Actually Involves",
+  "trust_third": "Deadlines and liability rules, spelled out",
+  "services": [
+    {
+      "slug": "slip-and-fall-lawyer",
+      "name": "Slip and Fall Claims",
+      "nav": "Slip and fall",
+      "h1": "Slip and Fall Lawyer",
+      "accent": "Hazards, Evidence and Injury Claims",
+      "keyword": "slip and fall lawyer",
+      "icon": "warn"
+    },
+    {
+      "slug": "medical-malpractice-lawyer",
+      "name": "Medical Malpractice Claims",
+      "nav": "Medical malpractice",
+      "h1": "Medical Malpractice Lawyer",
+      "accent": "Records, Harm and Claim Review",
+      "keyword": "medical malpractice lawyer",
+      "icon": "search"
+    },
+    {
+      "slug": "product-liability-lawyer",
+      "name": "Product Liability Claims",
+      "nav": "Product liability",
+      "h1": "Product Liability Lawyer",
+      "accent": "Defects, Warnings and Liability",
+      "keyword": "product liability lawyer",
+      "icon": "gear"
+    },
+    {
+      "slug": "catastrophic-injury-lawyer",
+      "name": "Catastrophic Injury Claims",
+      "nav": "Catastrophic injuries",
+      "h1": "Catastrophic Injury Lawyer",
+      "accent": "Long-Term Needs and Damages",
+      "keyword": "catastrophic injury lawyer",
+      "icon": "bolt"
+    }
+  ],
+  "symptom_service": [
+    "slip-and-fall-lawyer",
+    "medical-malpractice-lawyer",
+    "product-liability-lawyer",
+    "catastrophic-injury-lawyer"
+  ],
+  "_market": {
+    "keyword": "virginia beach personal injury lawyer",
+    "monthly_price": 650,
+    "score": 79,
+    "volume": 250,
+    "cpc_usd": 30.0,
+    "weakest_competitor": "petedecker.com",
+    "competitor_dr": 26.0
   }
- ],
- "symptom_service": [
-  "slip-and-fall-lawyer",
-  "medical-malpractice-lawyer",
-  "product-liability-lawyer",
-  "catastrophic-injury-lawyer"
- ],
- "_market": {
-  "keyword": "virginia beach personal injury lawyer",
-  "monthly_price": 650,
-  "score": 79,
-  "volume": 250,
-  "cpc_usd": 30.0,
-  "weakest_competitor": "petedecker.com",
-  "competitor_dr": 26.0
- }
 }

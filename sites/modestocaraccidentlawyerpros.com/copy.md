@@ -73,7 +73,7 @@ This site is limited to Modesto-area traffic crashes and the records that shape 
 The record comes before the story
 
 ## value_1
-Crash reports, photographs, witness details, and policy documents are collected before anyone treats a quick insurance offer as an answer.
+Crash reports, photographs, witness details, and policy documents get collected early. A quick insurance offer is not treated as an answer until they are in hand.
 
 ## value_2_title
 The 10-day DMV report is not overlooked
@@ -197,7 +197,7 @@ If anyone may be injured, seek medical care or call 911. Do not delay immediate 
 
 ## pricing_lede
 
-California wrote percentage ceilings into its fee law once, for claims against health care providers, and never extended them to traffic collisions, so a Modesto injury fee is bounded by an unconscionability standard, a contract statute with teeth, and a Stanislaus County filing bill that is fixed to the dollar.
+California wrote percentage ceilings into its fee law once, for claims against health care providers, and never extended them to traffic collisions. So a Modesto injury fee is bounded by an unconscionability standard, a contract statute with teeth, and a Stanislaus County filing bill that is fixed to the dollar.
 
 ## pricing_body
 
@@ -319,11 +319,11 @@ Two of them, and both happen in week one. The first is filling gaps out loud. A 
 
 ### What the other side does
 
-They argue the percentage. California applies pure comparative fault, and the jury instruction puts the burden on the defense to prove the plaintiff was negligent and that the negligence was a substantial factor, after which "damages are reduced by your determination of the percentage" of the plaintiff's responsibility. The instruction rests on Li v. Yellow Cab Co., which called comparative negligence preferable to the all-or-nothing rule "from the point of view of logic, practical experience, and fundamental justice." So expect a theory about your brake lamps, your stop, or your following distance in the chain, and expect low visible damage to be offered as proof that nobody was hurt.
+They argue the percentage. California applies pure comparative fault, and the jury instruction puts the burden on the defense to prove the plaintiff was negligent and that the negligence was a substantial factor, after which "damages are reduced by your determination of the percentage" of the plaintiff's responsibility. In Li v. Yellow Cab Co., the court called comparative negligence preferable to the all-or-nothing rule "from the point of view of logic, practical experience, and fundamental justice," and that decision is where the instruction comes from. So expect a theory about your brake lamps, your stop, or your following distance in the chain, and expect low visible damage to be offered as proof that nobody was hurt.
 
 ### What happens next, and how a fee is set
 
-The first pass is a document list, not a narrative: crash date and location, report number and agency, photographs, witness contacts, declarations pages from both sides, and a treatment timeline. Requests then go out in parallel for the report, for camera footage before it cycles, and to each carrier. On fees, California does not fix a percentage for a driving case. Rule of Professional Conduct 1.5(a) bars a fee that is unconscionable or illegal, and Business and Professions Code 6147 requires the injury retainer to be written, signed by both, handed over as a duplicate signed copy, and to state plainly that the rate is not set by law and is negotiable. Court costs sit outside all of that: $435 for the first paper in an unlimited civil case and a $150 nonrefundable advance jury deposit.
+The first pass is a document list, not a narrative: crash date and location, report number and agency, photographs, witness contacts, declarations pages from both sides, and a treatment timeline. Requests then go out in parallel for the report, for camera footage before it cycles, and to each carrier. On fees, California does not fix a percentage for a driving case. Rule of Professional Conduct 1.5(a) bars a fee that is unconscionable or illegal. Business and Professions Code 6147 requires the injury retainer to be written, signed by both, and handed over as a duplicate signed copy, and it must state plainly that the rate is not set by law and is negotiable. Court costs sit outside all of that: $435 for the first paper in an unlimited civil case and a $150 nonrefundable advance jury deposit.
 
 ## svc_uninsured_driver_claim_lawyer_lede
 
@@ -379,7 +379,7 @@ Federal rules set the shelf life. A motor carrier must keep records of duty stat
 
 ### The deadlines running alongside
 
-Code of Civil Procedure 335.1 sets two years for an injury action, which feels generous next to a six-month document retention window. If the crash involved a road defect or a public agency's vehicle, Government Code 911.2 cuts the presentation deadline to six months after accrual. A dangerous-condition claim also has elements to prove under Government Code 835: that the property was in a dangerous condition at the time of injury, that the condition proximately caused the injury, that it created a reasonably foreseeable risk of that kind of injury, and either that an employee's act created it or that the entity had notice long enough beforehand to do something.
+Code of Civil Procedure 335.1 sets two years for an injury action, which feels generous next to a six-month document retention window. If the crash involved a road defect or a public agency's vehicle, Government Code 911.2 cuts the presentation deadline to six months after accrual. A dangerous-condition claim also has elements to prove under Government Code 835. The property must have been in a dangerous condition at the time of injury, the condition must have proximately caused the injury, and it must have created a reasonably foreseeable risk of that kind of injury. Beyond that, either an employee's act created the condition or the entity had notice long enough beforehand to do something.
 
 ### The mistake that costs the case
 
@@ -387,7 +387,7 @@ Waiting for the collision report before writing to the carrier. Reports take wee
 
 ### What the other side does
 
-It moves quickly, because it is staffed to. Investigators and adjusters can be at a Highway 99 or Highway 132 scene the same day, measuring and taking statements while the injured person is still in an emergency department. Insurance behind the truck is usually deeper than a car policy: federal minimums run to $750,000 for for-hire interstate carriage of ordinary property in vehicles rated over 10,001 pounds, $1,000,000 for oil and many hazardous materials, and $5,000,000 for bulk hazardous substances. Depth cuts both ways, since the defense will spend on reconstruction and on a comparative fault theory placing part of the percentage on you.
+It moves quickly, because it is staffed to. Investigators and adjusters can be at a Highway 99 or Highway 132 scene the same day, measuring and taking statements while the injured person is still in an emergency department. Insurance behind the truck is usually deeper than a car policy: federal minimums run to $750,000 covering for-hire interstate carriage of ordinary property in vehicles rated over 10,001 pounds, $1,000,000 for oil and many hazardous materials, and $5,000,000 for bulk hazardous substances. Depth cuts both ways, since the defense will spend on reconstruction and on a comparative fault theory placing part of the percentage on you.
 
 ### What happens next, and how the money works
 
@@ -417,7 +417,7 @@ The signature is where good claims are lost. Insurance Code 11580.2 excludes uni
 
 ### Two clocks, sometimes three
 
-Injury has two years under Code of Civil Procedure 335.1. The court's own guidance puts damage to property at three. A claim under your own uninsured motorist coverage has its own trigger, since no cause of action accrues unless within two years of the crash a suit is filed against the uninsured motorist, an agreement on the amount is concluded, or arbitration is formally instituted by written notice sent certified mail with return receipt requested. Insurers owe an unrepresented claimant written notice of the applicable limitation at least thirty days before it runs, and that duty ends once counsel appears. Negotiation does not pause any of it, which is why an adjuster is comfortable being slow.
+Injury has two years under Code of Civil Procedure 335.1. The court's own guidance puts damage to property at three. A claim under your own uninsured motorist coverage has its own trigger. No cause of action accrues unless, within two years of the crash, a suit is filed against the uninsured motorist or an agreement on the amount is concluded. Arbitration counts as well, but only if it is formally instituted by written notice sent certified mail with return receipt requested. Insurers owe an unrepresented claimant written notice of the applicable limitation at least thirty days before it runs, and that duty ends once counsel appears. Negotiation does not pause any of it, which is why an adjuster is comfortable being slow.
 
 ### If a public entity is in the file
 
@@ -425,4 +425,4 @@ A Stanislaus County crash can easily involve a public defendant: a road defect, 
 
 ### What happens after contact, and how a fee is set
 
-Negotiation follows assembly, not the reverse: records requested and read, limits confirmed from declarations pages, liens and reimbursement claims identified, then a demand built on documents. On fees, California fixed a percentage for one category only. Business and Professions Code 6146 sets 25 percent of the amount recovered where a release is signed before a complaint or arbitration demand is filed and 33 percent afterward, and it applies to claims against health care providers. A vehicle claim is governed instead by Rule of Professional Conduct 1.5(a), which prohibits an unconscionable or illegal fee, and by Business and Professions Code 6147, which requires a written signed agreement, a duplicate copy in the client's hand, an explanation of how costs bear on the recovery, and a statement that the rate is negotiable. Court charges are public and separate: $435 for a first paper in an unlimited civil case, a $150 nonrefundable jury deposit, and $1,000 per side if a case is designated complex.
+Negotiation follows assembly, not the reverse: records requested and read, limits confirmed from declarations pages, liens and reimbursement claims identified, then a demand built on documents. On fees, California fixed a percentage for one category only. Business and Professions Code 6146 sets 25 percent of the amount recovered where a release is signed before a complaint or arbitration demand is filed and 33 percent afterward, and it applies to claims against health care providers. A vehicle claim is governed instead by Rule of Professional Conduct 1.5(a), which prohibits an unconscionable or illegal fee. Business and Professions Code 6147 adds the paperwork: a written signed agreement, a duplicate copy in the client's hand, an explanation of how costs bear on the recovery, and a statement that the rate is negotiable. Court charges are public and separate: $435 for a first paper in an unlimited civil case, a $150 nonrefundable jury deposit, and $1,000 per side if a case is designated complex.

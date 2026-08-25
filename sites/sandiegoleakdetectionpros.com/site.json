@@ -1,9 +1,10 @@
 {
   "domain": "sandiegoleakdetectionpros.com",
-  "phase": 1,
+  "phase": 2,
   "brand": "San Diego Leak Detection Pros",
   "service": "Leak Detection",
   "service_inline": "leak detection",
+  "vertical": "home",
   "city": "San Diego",
   "state": "CA",
   "state_full": "California",
