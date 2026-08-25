@@ -1,16 +1,14 @@
-dist/
-__pycache__/
-*.pyc
-.DS_Store
-dist/
-
-# Per-site research scratch pulled during writing passes
-*-research*.json
-research_*.json
-*-secondary-search.json
 
 # One-off writer helper scripts, kept out of the root
-tools/
-
+# Per-site research scratch pulled during writing passes
+*-research*.json
+*-secondary-search.json
+*.pyc
+.DS_Store
 .stage/
+__pycache__/
+alert_cell.txt
 data/_worker.bundle
+dist/
+research_*.json
+tools/
