@@ -53,12 +53,23 @@ ICO = {
     "shield": _svg('<path d="M12 3l7 3v5c0 4.4-2.9 8.4-7 9.6C7.9 19.4 5 15.4 5 11V6l7-3z"/><path d="M9.2 11.8l2 2 3.6-3.8"/>'),
 }
 
-LOGO_MARK = _svg('<path d="M3.4 10.7L12 4.2l8.6 6.5"/><path d="M5.7 12.3V20h12.6v-7.7"/><path d="M8.2 15h7.6M8.2 17.6h7.6"/>', 2.2)
+# A house glyph is right for a trade site and wrong for a law firm, so the mark
+# and the favicon both switch on the site's vertical. Same geometry language,
+# same navy-and-gold system either way.
+LOGO_MARK_HOME = _svg('<path d="M3.4 10.7L12 4.2l8.6 6.5"/><path d="M5.7 12.3V20h12.6v-7.7"/>'
+                      '<path d="M8.2 15h7.6M8.2 17.6h7.6"/>', 2.2)
+LOGO_MARK_LEGAL = _svg('<path d="M6.2 3.4h7L18.4 8.6V20.6H6.2z"/><path d="M13.2 3.4v5.2h5.2"/>'
+                       '<path d="M9 13.2h6.6M9 16.4h6.6"/>', 2.2)
+LOGO_MARKS = {"home": LOGO_MARK_HOME, "legal": LOGO_MARK_LEGAL}
 
-FAVICON = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
-           '<rect width="32" height="32" rx="6" fill="#143d59"/>'
-           '<g fill="none" stroke="#f5a524" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">'
-           '<path d="M5 14L16 6l11 8"/><path d="M8 16v10h16V16"/><path d="M11 19h10M11 22.5h10"/></g></svg>')
+_FAV = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">'
+        '<rect width="32" height="32" rx="6" fill="#143d59"/>'
+        '<g fill="none" stroke="#f5a524" stroke-width="2.4" stroke-linecap="round" '
+        'stroke-linejoin="round">%s</g></svg>')
+FAVICONS = {
+    "home": _FAV % '<path d="M5 14L16 6l11 8"/><path d="M8 16v10h16V16"/><path d="M11 19h10M11 22.5h10"/>',
+    "legal": _FAV % '<path d="M8 4.5h9l7 7V27H8z"/><path d="M17 4.5v7h7"/><path d="M12 17h8M12 21h8"/>',
+}
 
 # --- guard config ------------------------------------------------------------
 # A site is built in two phases. Phase 1 is home + about + contact and is what
@@ -554,7 +565,8 @@ def build(domain, live=False, check_only=False, corpus=None):
     ctx = dict(
         s=s, c=c, year=YEAR, legal=legal, **lf,
         robots="index, follow" if live else "noindex, nofollow",
-        logo_mark=LOGO_MARK, hero_note=hero_note, disclosure=disclosure,
+        logo_mark=LOGO_MARKS[s.get("vertical", "home")],
+        hero_note=hero_note, disclosure=disclosure,
         values=values, steps=steps, factors=factors, expects=expects,
         symptoms=symptoms, faqs=faqs, work=work, fact_titles=fact_titles,
         facts_verified=max((f.get("verified", "") for f in facts), default=""),
@@ -920,7 +932,7 @@ def build(domain, live=False, check_only=False, corpus=None):
             p.write_text(html)
         write_sitemap(out, domain, pages, live=live)
         shutil.copy(TPL / "assets" / "theme.css", out / "assets" / "theme.css")
-        (out / "assets" / "favicon.svg").write_text(FAVICON)
+        (out / "assets" / "favicon.svg").write_text(FAVICONS[s.get("vertical", "home")])
         for img in (sdir / "assets").glob("*"):
             shutil.copy(img, out / "assets" / img.name)
     return True
