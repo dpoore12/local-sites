@@ -55,6 +55,63 @@ function validate(f) {
   return { lead: out };
 }
 
+// --------------------------------------------------------------- pitch filter
+// Agency bots fill the form to pitch web work. They pass the honeypot, the
+// timer and the address limit because they drive a real browser from a fresh
+// address every time. The only reliable tell is what they type: they talk
+// about the site owner's own website. A customer talks about their problem.
+const PITCH_PHRASES = [
+  "seo", "backlink", "rank higher", "ranking on google", "search rankings",
+  "online presence", "online visibility", "digital marketing", "web design",
+  "website design", "web development", "booking page", "book online",
+  "online booking", "appointment form", "booking form", "intake form",
+  "social media", "social profiles", "linkedin page", "facebook page",
+  "add testimonials", "google business profile", "lead generation service",
+  "i can help add", "i can help you", "i can draft", "i can add", "i can write",
+  "i would like to discuss", "i'd love to discuss", "love to discuss",
+  "happy to write it up", "send it across", "reply if you would like",
+  "reply and i will", "want the details", "no charge", "costs you nothing",
+  "free audit", "backend analysis", "i visited your", "i came across your",
+  "i was going through your", "went through your", "grow your online",
+  "we help business", "our team would be happy", "quick phone call",
+  "preferred time availability", "hey team", "dear owner", "dear team",
+  "not appearing on google", "several important", "potential clients may",
+  "potential clients might", "customers may leave", "visitors may leave",
+];
+const OWNER_TALK = [
+  "your website", "your site", "your page", "your web page", "your homepage",
+  "your business online", "your online",
+];
+
+function pitchScore(lead) {
+  const t = (lead.problem || "").toLowerCase();
+  const hits = [];
+
+  for (const p of PITCH_PHRASES) if (t.includes(p)) { hits.push(p); if (hits.length > 3) break; }
+  let score = hits.length;
+
+  for (const p of OWNER_TALK) if (t.includes(p)) { hits.push(p); score += 1; break; }
+
+  // The bot greets the domain it is pitching. No customer types that.
+  const host = (lead.site || "").toLowerCase().replace(/^www\./, "");
+  if (host && t.includes(host)) { score += 2; hits.push("names the domain"); }
+
+  if (/https?:\/\/|www\.|\.com\b/.test(t) && t.length > 150) { score += 1; hits.push("link in a long message"); }
+
+  // A person with a burst pipe writes a line, not four paragraphs.
+  if (t.length > 320) { score += 1; hits.push("very long"); }
+
+
+  // "Hello Sacramento AC Repair," -- greeting the business by its own brand
+  // name. A customer says "hi" or nothing at all, never the company name.
+  const greet = (lead.problem || "").match(/^\s*(?:hello|hi|hey|dear|greetings)\s+([^,.!?\n]{3,60}),/i);
+  if (greet && /^(?:[A-Z][\w&.'-]*\s+){1,}[A-Z][\w&.'-]*$/.test(greet[1].trim())) {
+    score += 2; hits.push("greets the business by name");
+  }
+
+  return { score, why: hits.slice(0, 5).join(", ") };
+}
+
 // ------------------------------------------------------------------ handlers
 async function postLead(request, env) {
   const wantsJson = (request.headers.get("Accept") || "").includes("application/json");
@@ -86,6 +143,12 @@ async function postLead(request, env) {
   const ip = request.headers.get("CF-Connecting-IP") || "";
   const now = new Date().toISOString();
 
+  // Agency pitches are filed, not dropped, so the call can be audited and a
+  // wrong call can be reversed. The sender is told the same thing a customer
+  // is told, which keeps it from retrying with softer wording.
+  const p = pitchScore(lead);
+  const isPitch = p.score >= 2 ? 1 : 0;
+
   if (!env.LEADS) return reply(500, { ok: false, error: "Lead store not configured." });
 
   // Rate limit by address: six in ten minutes is far more than any real
@@ -101,13 +164,14 @@ async function postLead(request, env) {
   try {
     await env.LEADS.prepare(
       `INSERT INTO leads
-         (created_at, site, page, name, phone, problem, zip, email, best_time, ip, ua, country)
-       VALUES (?,?,?,?,?,?,?,?,?,?,?,?)`
+         (created_at, site, page, name, phone, problem, zip, email, best_time, ip, ua, country, spam, spam_reason)
+       VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)`
     ).bind(
       now, lead.site, lead.page, lead.name, lead.phone, lead.problem,
       lead.zip, lead.email, lead.best_time, ip,
       clean(request.headers.get("User-Agent"), 300),
-      (request.cf && request.cf.country) || ""
+      (request.cf && request.cf.country) || "",
+      isPitch, isPitch ? clean(p.why, 200) : ""
     ).run();
   } catch (e) {
     return reply(500, { ok: false, error: "Could not save that." });
@@ -142,18 +206,25 @@ async function leadDesk(request, env) {
   const url = new URL(request.url);
   const site = (url.searchParams.get("site") || "").toLowerCase();
   const limit = Math.min(parseInt(url.searchParams.get("limit") || "300", 10) || 300, 1000);
+  // The desk shows real people. Agency pitches are kept but parked behind
+  // ?pitches=1 so the filter's calls can be checked and reversed.
+  const showPitches = url.searchParams.get("pitches") === "1";
+  const flag = showPitches ? 1 : 0;
 
-  let rows = [], counts = [];
+  let rows = [], counts = [], pitchTotal = 0;
   try {
     const q = site
       ? env.LEADS.prepare(
-          "SELECT * FROM leads WHERE site = ? ORDER BY id DESC LIMIT ?").bind(site, limit)
+          "SELECT * FROM leads WHERE site = ? AND COALESCE(spam,0) = ? ORDER BY id DESC LIMIT ?").bind(site, flag, limit)
       : env.LEADS.prepare(
-          "SELECT * FROM leads ORDER BY id DESC LIMIT ?").bind(limit);
+          "SELECT * FROM leads WHERE COALESCE(spam,0) = ? ORDER BY id DESC LIMIT ?").bind(flag, limit);
     rows = (await q.all()).results || [];
     counts = (await env.LEADS.prepare(
-      "SELECT site, COUNT(*) AS n, MAX(created_at) AS last FROM leads GROUP BY site ORDER BY n DESC"
-    ).all()).results || [];
+      "SELECT site, COUNT(*) AS n, MAX(created_at) AS last FROM leads WHERE COALESCE(spam,0) = ? GROUP BY site ORDER BY n DESC"
+    ).bind(flag).all()).results || [];
+    const pt = await env.LEADS.prepare(
+      "SELECT COUNT(*) AS n FROM leads WHERE COALESCE(spam,0) = 1").first();
+    pitchTotal = (pt && pt.n) || 0;
   } catch (e) {
     return new Response("Query failed: " + e.message, { status: 500 });
   }
@@ -201,15 +272,19 @@ font-weight:700;font-size:.78rem;padding:.15rem .5rem;border-radius:99px;white-s
 font-size:.82rem;text-decoration:none;font-weight:600}
 .empty{background:#fff;border:1px solid var(--line);border-radius:10px;padding:2.4rem;text-align:center;color:var(--muted)}
 </style></head><body>
-<header><h1>Lead desk &mdash; <span class="n">${rows.length}</span> ${site ? esc(site) : "across all sites"}</h1>
-<div>${site ? `<a href="?">All sites</a> &nbsp; ` : ""}<a href="?${site ? "site=" + encodeURIComponent(site) + "&" : ""}format=csv">Download CSV</a></div></header>
+<header><h1>${showPitches ? "Filtered as sales pitches" : "Lead desk"} &mdash; <span class="n">${rows.length}</span> ${site ? esc(site) : "across all sites"}</h1>
+<div>${site ? `<a href="?${showPitches ? "pitches=1" : ""}">All sites</a> &nbsp; ` : ""}${
+  showPitches
+    ? `<a href="?${site ? "site=" + encodeURIComponent(site) : ""}">Back to real leads</a>`
+    : `<a href="?${site ? "site=" + encodeURIComponent(site) + "&" : ""}pitches=1">Sales pitches (${pitchTotal})</a>`
+} &nbsp; <a href="?${site ? "site=" + encodeURIComponent(site) + "&" : ""}${showPitches ? "pitches=1&" : ""}format=csv">Download CSV</a></div></header>
 <main>
 ${counts.length ? `<div class="tally">${counts.map((c) =>
   `<a href="?site=${encodeURIComponent(c.site)}">${esc(c.site)} <strong>${c.n}</strong></a>`).join("")}</div>` : ""}
 ${rows.length === 0
-  ? `<div class="empty">No form leads yet.</div>`
+  ? `<div class="empty">${showPitches ? "Nothing filtered." : "No form leads yet."}</div>`
   : `<table><thead><tr><th>When</th><th>Site</th><th>Name</th><th>Phone</th>
-<th>Call at</th><th>ZIP</th><th>What they said</th><th>Email</th></tr></thead><tbody>
+<th>Call at</th><th>ZIP</th><th>What they said</th><th>Email</th>${showPitches ? "<th>Why filtered</th>" : ""}</tr></thead><tbody>
 ${rows.map((r) => `<tr>
 <td class="ts">${esc((r.created_at || "").replace("T", " ").slice(0, 16))}</td>
 <td class="site">${esc(r.site)}</td>
@@ -219,6 +294,7 @@ ${rows.map((r) => `<tr>
 <td>${esc(r.zip)}</td>
 <td class="p">${esc(r.problem)}</td>
 <td>${r.email ? `<a href="mailto:${esc(r.email)}">${esc(r.email)}</a>` : ""}</td>
+${showPitches ? `<td class="site">${esc(r.spam_reason)}</td>` : ""}
 </tr>`).join("")}
 </tbody></table>`}
 </main></body></html>`;
