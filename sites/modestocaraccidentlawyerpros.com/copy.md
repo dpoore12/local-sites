@@ -21,43 +21,29 @@ Bring four categories of information together. First, the exact crash site and d
 You were hit from behind, but the report does not settle every question
 
 ## symptom_1
-A rear-end impact may look obvious from the vehicles, yet a collision claim still turns on evidence. The report can identify the drivers, vehicles, location, witness information, officer observations, and any citations. It is important, but it is not a substitute for the photographs taken before a bumper is repaired or for the witnesses who saw traffic slow. A rear-end collision can involve a stopped vehicle, a chain reaction, a sudden lane change, disputed brake lights, or a driver pushed forward by another impact. Those details affect how an insurer treats fault and coverage.
 
-In Modesto and the rest of Stanislaus County, the responding agency matters. CHP’s Modesto Area states that it patrols the county’s freeways, state routes, roadways, and unincorporated areas; it specifically identifies Highway 99 and Interstate 5 as heavily traveled routes. If CHP investigated, a proper party of interest can use the Crash Portal or submit CHP 190 to seek the report. Do not assume a police exchange sheet is the complete record, and do not wait to preserve your own material while a report is pending.
-
-The practical first pass is simple: save unedited photos, write down every witness before numbers go missing, preserve the vehicle until it has been documented, and keep records of each symptom, appointment, and work restriction. Then compare the report against what can actually be proven. A report may support the sequence; it does not tell anyone what a future condition will require or which policy will pay. That is why a quick settlement based only on visible damage can be a poor measure of the full file.
+A rear-end hit looks self-explaining until the sequence matters: who stopped first, who was pushed into whom, whether a brake lamp worked. Photograph both bumpers and the roadway before anything is towed, then write down the responding agency and the report number. Whether the CHP or the city force wrote it changes how the report is requested.
 
 ## symptom_2_title
 The driver left, or the collision report does not identify usable coverage
 
 ## symptom_2
-A hit-and-run or an insurer’s coverage denial changes the task from proving a normal liability claim to identifying what coverage is actually available. Save the police or CHP report number immediately. Record the other vehicle’s direction of travel, color, damage, plate fragments, company markings, and anything a passenger or witness remembers. Nearby home, business, and traffic cameras can overwrite their footage quickly, so the request to preserve video belongs near the top of the list.
 
-California’s own policy may matter here. Auto bodily-injury coverage issued or delivered in the state generally includes uninsured-motorist protection unless the named insured has made a written election permitted by law. That does not mean every crash has the same coverage outcome. The declarations page, endorsements, exclusions, household vehicles, and the policy’s reporting and arbitration terms all need to be read. Do not treat a verbal answer from an adjuster as the policy itself.
-
-There is a specific Central Valley reason not to skip that check. A California DMV study published in 1991, based on 1988–1990 estimates, reported that uninsured motorists were most prevalent in the Los Angeles metropolitan area and the Central Valley. It is historical research, not a current Stanislaus County rate, so it cannot tell anyone how many present-day Modesto drivers are uninsured. It does show why the uninsured-motorist part of your own policy should not be left unread after a crash here.
-
-This type of file needs a clean sequence: identify the report, preserve evidence of contact and vehicle identity, notify the relevant insurer as required, and avoid signing a release before the policy language and all sources of coverage have been reviewed. The same caution applies if the other driver is found but their carrier disputes that the policy applies.
+A driver who leaves turns this into a coverage hunt with a same-day step. California's uninsured motorist rule expects physical contact plus a report inside twenty-four hours, to city police, or to the sheriff or local CHP headquarters if the crash happened outside city limits. Write down plate fragments, lettering, and direction of travel now.
 
 ## symptom_3_title
 The other driver’s limits are low, or the policy changed during the claim
 
 ## symptom_3
-California’s familiar 15/30/5 shorthand is not the current minimum for standard policies renewing after the 2025 law change. Before that change, the minimum commonly meant $15,000 for one person’s bodily injury or death, $30,000 total bodily injury or death in one accident, and $5,000 for property damage. Beginning January 1, 2025, as standard policies came up for renewal, the required floor increased to $30,000 per injured person, $60,000 per accident, and $15,000 for property damage. The date of the crash, policy issuance, and renewal can therefore matter when someone repeats an old minimum from memory.
 
-A minimum is a ceiling on what that liability coverage pays, not a statement of how much a crash costs. It does not make an ambulance bill, imaging, therapy, lost income, vehicle replacement, or multiple injured occupants fit within the available number. If several people were hurt, the per-accident limit is shared. A property-damage limit can also be consumed quickly when more than one vehicle or other property was damaged.
-
-That is the point to collect declarations pages rather than relying only on an insurance card. Check the bodily-injury and property-damage limits, then check your own uninsured/underinsured motorist terms. Underinsured coverage is not simply extra money on demand: its availability depends on the relationship between the at-fault limits and the coverage on your policy, as well as notice, consent, and other policy conditions. A release signed with one insurer can create problems for another coverage path. The sensible sequence is to identify each policy, read the limits and endorsements, and understand what would be released before accepting any payment described as final.
+Standard California liability minimums rose to $30,000 per injured person and $60,000 per crash as policies renewed through 2025, with $15,000 for property damage. Those are ceilings on one policy, not a measure of a loss. Ask for both declarations pages instead of an insurance card, and read your own underinsured limits before anyone discusses settlement.
 
 ## symptom_4_title
 An insurer has offered a fast payment or requested a recorded statement
 
 ## symptom_4
-An early offer may cover a visible repair or a first batch of bills, but it is also usually paired with paperwork that matters. A release can settle more than the immediate invoice. Before deciding whether a number is fair, the file needs basic comparisons: what treatment has occurred, what care is still being recommended, what work time has been missed, what the collision report and photographs show, and what limits and policies exist. It is not responsible to put a value on a crash from a phone description alone.
 
-A recorded statement is also a record. The insurer may ask about speed, traffic movement, prior symptoms, medications, cell-phone use, passengers, or a phrase you said at the scene. It is reasonable to know which insurer is asking, which claim it concerns, and what documents they already have. Preserve your own timeline while events are fresh. Do not fill gaps in memory by guessing. “I do not know” is more accurate than trying to reconstruct a speed or distance you did not see.
-
-California’s general court guidance lists two years from injury for a personal-injury action and three years from property damage, but it also stresses that deadlines can be fact-specific. The calendar should be started from the crash date, not from the day an adjuster makes an offer. In Stanislaus County’s 2023 Office of Traffic Safety data, 4,679 people were killed or injured in traffic collisions, and 389 fatal-and-injury collisions were categorized as hit and run. Those figures do not decide an individual claim. They do explain why reports, witnesses, medical records, and policy documents need to be organized before the evidence trail becomes thinner.
+An early check arrives attached to a release, and a release closes more than the invoice in front of you. Before answering, write down what care is still recommended, what work has been missed, and which carrier is asking. Do not settle with a liability insurer without first checking whether your own coverage requires written consent.
 
 ## qa_1_question
 Do I have to submit an SR-1 if police or CHP already made a report?
@@ -292,3 +278,151 @@ The trap in California is not an inflated percentage. It is a fee computed on th
 while costs are also charged to the client, with no line explaining the sequence. Section
 6147 requires that explanation. Ask for the arithmetic on a hypothetical number before
 signing, and get it in writing.
+
+## services_summary
+
+Four different problems arrive in Modesto wearing the same label. A rear-end file turns on the sequence of impacts and the report that recorded it. An uninsured or hit-and-run file runs on your own policy language, where one step is measured in hours. A commercial truck file reaches federal records a carrier may lawfully discard after six months. A negotiation file is about damages, releases, and written consent. Sorting the file into the wrong category is how the short clock expires while somebody answers the long question, and how a signature on one carrier's release quietly closes a second coverage path.
+
+## services_pick_head
+
+Start with the crash problem you actually have
+
+## crosslink_head
+
+A different crash problem?
+
+## svc_rear_end_collision_lawyer_lede
+
+Most rear-end files in Modesto turn on sequence rather than blame: which car stopped, which car was shoved into the next one, whether a brake lamp was working. The report captures a piece of that. Photographs and preserved video carry the rest.
+
+## svc_rear_end_collision_lawyer_body
+
+### How you know this is a sequence case
+
+Walk around your own car before it leaves on a flatbed. Crush at the rear and crush at the front means you were the middle link in a chain, and the middle link is the vehicle both other drivers will describe least accurately. Three details decide the file: where traffic had come to a stop, how much distance you had already closed when the second impact landed, and whether the steel reinforcement behind the plastic bumper cover is bent. A shallow scuff on a cover can sit in front of a deformed absorber, and a seat back that moved on impact is evidence nobody photographs once a salvage yard has the car.
+
+### Where these queues form here
+
+A rear-end impact needs a fast road that suddenly holds still, and Stanislaus County builds those two ways. On State Route 99 the stopping points are the ramps: the Measure L program is installing ramp metering and intelligent transportation systems from the San Joaquin County line to the Merced County line, with auxiliary lanes going in between Keyes Road and Taylor Road. The interchanges at Briggsmore Avenue and Carpenter Road, and at Beckwith Road and Standiford Avenue, are queued for reconstruction. On city arterials the stopping points are signal heads, and Caltrans safety funding covered new retroreflective back-plates and advance limit lines at 37 signalized intersections inside Downtown Modesto plus 33 outside it. Coffee Road, Briggsmore Avenue, Oakdale Road and McHenry Avenue keep reappearing on those lists.
+
+### Which clock is shortest
+
+Code of Civil Procedure 335.1 gives two years from the injury for an action for injury caused by another's wrongful act or neglect. The court's own deadline guidance puts property damage at three years, so a bent car and an untreated neck are running on separate calendars. The DMV adds a separate task: an SR-1 within ten days when anyone is injured or killed or property damage passes $1,000, which the DMV says applies in addition to a report made to police, the CHP, or an insurer. And if a public agency is anywhere in the picture, a signal, striping, a road defect, a transit or city vehicle, Government Code 911.2 requires the claim be presented not later than six months after the cause of action accrues. Six months is the number that actually ends these cases.
+
+### The first week, in order
+
+Photograph both vehicles and the roadway before repairs. Identify the responding agency, because the CHP Modesto Area office patrols all the freeways, state routes, roadways and unincorporated areas within the county's 1,521 square miles, while a collision inside city limits usually belongs to the city force. A CHP report goes to a proper party of interest through the Crash Portal or on a completed CHP 190; drivers, passengers, pedestrians, parents of minors, vehicle owners and legal representatives are all on the CHP's own list. Then chase video. Modesto approved a five-year automated red light enforcement agreement covering ten intersections with the city's highest crash rates, among them Briggsmore at Coffee, Oakdale at Briggsmore, McHenry at Standiford, and Carpenter at Kansas. Business and doorbell cameras near those corners overwrite themselves in days.
+
+### The mistake that costs the case
+
+Two of them, and both happen in week one. The first is filling gaps out loud. A recorded statement invites estimates of speed, following distance and how many seconds the car ahead had been stopped, and a guess written down becomes a fact the defense reads back later. "I did not measure that" is an accurate answer. The second is releasing the vehicle for salvage before the bumper structure, seat backs and head restraints have been photographed and the event data has been considered, because that car is the only physical record of how hard the impact actually was.
+
+### What the other side does
+
+They argue the percentage. California applies pure comparative fault, and the jury instruction puts the burden on the defense to prove the plaintiff was negligent and that the negligence was a substantial factor, after which "damages are reduced by your determination of the percentage" of the plaintiff's responsibility. The instruction rests on Li v. Yellow Cab Co., which called comparative negligence preferable to the all-or-nothing rule "from the point of view of logic, practical experience, and fundamental justice." So expect a theory about your brake lamps, your stop, or your following distance in the chain, and expect low visible damage to be offered as proof that nobody was hurt.
+
+### What happens next, and how a fee is set
+
+The first pass is a document list, not a narrative: crash date and location, report number and agency, photographs, witness contacts, declarations pages from both sides, and a treatment timeline. Requests then go out in parallel for the report, for camera footage before it cycles, and to each carrier. On fees, California does not fix a percentage for a driving case. Rule of Professional Conduct 1.5(a) bars a fee that is unconscionable or illegal, and Business and Professions Code 6147 requires the injury retainer to be written, signed by both, handed over as a duplicate signed copy, and to state plainly that the rate is not set by law and is negotiable. Court costs sit outside all of that: $435 for the first paper in an unlimited civil case and a $150 nonrefundable advance jury deposit.
+
+## svc_uninsured_driver_claim_lawyer_lede
+
+When the other driver has no coverage, no identity, or a limit that stops well short of the hospital bill, the claim moves onto your own policy. That policy has rules measured in hours and a definition of underinsured that surprises most drivers.
+
+## svc_uninsured_driver_claim_lawyer_body
+
+### How you know this is a coverage case
+
+The tell is that nobody is arguing about fault. The other driver admits it, or left, or was never identified, and the conversation is instead about what policy exists and whether it responds. Three versions show up in Stanislaus County: the driver who produces nothing, the driver whose carrier denies that the policy was in force, and the driver whose limit is real but small. All three point at the same document, your own declarations page, and at the endorsement most people have never opened.
+
+### What the statute puts in your policy
+
+Insurance Code 11580.2 requires uninsured motorist coverage in a bodily injury liability policy unless the insurer and a named insured agreed in writing to delete it, delete it for a named operator, or reduce it, and even a reduction cannot drop below the state's financial responsibility floor. The offering limits in the statute are $30,000 for one person and $60,000 for two or more. Those track the liability minimums that rose as standard policies renewed through 2025, moving from $15,000 and $30,000 to $30,000 and $60,000, with property damage going from $5,000 to $15,000. The statute also blocks stacking: limits on two or more vehicles or policies cannot be added together to build a bigger pot.
+
+### The phantom-vehicle rules that expire in hours
+
+If the driver is unknown, the statute is unforgiving. There must have been physical contact with you or with the vehicle you occupied. The crash must be reported within twenty-four hours to the police department of the city where it happened, or, if it happened in unincorporated territory, to the county sheriff or the local CHP headquarters. Then a statement under oath goes to the insurer within thirty days. Geography matters for that middle step, because Highway 99 runs through Bystrom and Highway 132 through Empire, both unincorporated communities in the county, so a South Modesto crash on a state route may never touch a city agency at all. Hit-and-run is not rare here either: the Office of Traffic Safety counted 389 fatal-and-injury hit-and-run collisions in the county in 2023, ranking it second among 58 counties.
+
+### Underinsured is a subtraction, not a bonus
+
+The statute defines an underinsured motor vehicle as one insured for less than the uninsured motorist limits carried on the injured person's own vehicle. So if the at-fault policy carries the same limit you do, there is nothing above it to reach, no matter how large the loss. Coverage also does not apply until the liability limits on every vehicle that caused the injury have been exhausted by payment of judgments or settlements and proof of that payment has been submitted to your carrier. What arrives is the difference between the two numbers, reduced further by what has already been paid.
+
+### The mistake that costs the case
+
+Signing first. The same statute excludes coverage where the insured, without the insurer's written consent, settles with a person who may be legally liable or takes that person to judgment. A quick check from the other driver's carrier, endorsed and deposited, can therefore erase the coverage on your own policy that was going to carry the rest of the claim. The order is fixed: identify every policy, read the endorsement, ask for consent in writing, then decide about the liability payment.
+
+### What your own insurer does next
+
+It behaves like an opposing party, because on this claim it is one. Expect requests for wage-loss information and medical record releases, due within ten days of the request, and a medical examination arranged no sooner than ten and no later than twenty days out. Disputes go to a single neutral arbitrator rather than a jury. And no cause of action accrues under the coverage unless, within two years of the crash, suit is filed against the uninsured motorist, an agreement on the amount is concluded, or arbitration is formally instituted by written notice sent certified mail with return receipt requested. A carrier must warn an unrepresented claimant of the applicable limitation at least thirty days out, but that notice duty falls away once it knows an attorney is involved.
+
+### What happens after contact, and how fees work
+
+The file opens with the policy rather than the story: declarations page, uninsured and underinsured limits, any signed deletion or reduction agreement, the endorsement's notice and consent terms, and the crash report showing which agency took the twenty-four-hour report. Fees on this kind of claim are governed by California's own rules, not a fixed number. Rule of Professional Conduct 1.5(a) prohibits an unconscionable or illegal fee, and Business and Professions Code 6147 requires the written agreement to state the rate, explain how costs affect both the fee and what the client keeps, and say in plain terms that the rate is negotiable. Arbitration under the policy also has costs of its own, which belong on a separate line from any percentage.
+
+## svc_commercial_truck_collision_lawyer_lede
+
+A truck collision is a records case with a timer attached. The federal logs describing the driver's day can lawfully be discarded after six months, which puts the letter that freezes them ahead of almost everything else on the list.
+
+## svc_commercial_truck_collision_lawyer_body
+
+### How you know you are in a commercial file
+
+Photograph the doors and the trailer, not just the damage. A USDOT number, a motor carrier name, a lease decal, a different name on the tractor than on the box, a tank placard, a bin trailer full of tomatoes: each of those changes who is answerable and which rulebook applies. Stanislaus County adds its own variants, because farm equipment, bin haulers and processing-plant traffic share two-lane county roads with commuters. Note the number of axles, whether the load looked shifted, and whether a second company's name appeared anywhere on the equipment.
+
+### Why this county produces these crashes
+
+State Route 132 is the region's main east-west thoroughfare and freight corridor, linking Interstate 5 near Tracy to State Route 99 in Modesto, and it is the only east-west highway crossing the Tuolumne, San Joaquin and Stanislaus rivers. StanCOG's Policy Board named it the region's highest priority corridor, and much of it remains a two-lane conventional highway. The first rebuilt segment, three miles from Dakota Avenue to the Needham Street overpass just west of Highway 99, pulled the route off Maze Boulevard onto a corridor south of Kansas Avenue under a $92 million construction contract, opening with two lanes and a median. The phase now underway builds direct connector ramps between the two highways, replaces the Kansas Avenue bridge over Highway 99, and adds a southbound auxiliary lane, with one stated goal being to move truck and commuter traffic away from the neighborhoods and schools along Maze Boulevard. Until that is finished, heavy vehicles keep mixing with local traffic on a road built for less.
+
+### The records, and how long they survive
+
+Federal rules set the shelf life. A motor carrier must keep records of duty status and their supporting documents for each driver for not less than six months from receipt, while the driver carries only the previous seven days. Supporting documents are a defined list: bills of lading and itineraries showing origin and destination, dispatch and trip records, expense receipts tied to on-duty not-driving time, fleet management system messages, and payroll or settlement sheets. Drivers submit them within thirteen days, and a carrier need not keep more than eight per driver per day. Nobody may obscure, deface, destroy, mutilate or alter them. The driver qualification file lasts longer, held for as long as the driver is employed plus three years, and contains the employment application, the motor vehicle record from each licensing authority, the road test certificate or its equivalent, the annual review note, and the medical examiner's certificate.
+
+### The deadlines running alongside
+
+Code of Civil Procedure 335.1 sets two years for an injury action, which feels generous next to a six-month document retention window. If the crash involved a road defect or a public agency's vehicle, Government Code 911.2 cuts the presentation deadline to six months after accrual. A dangerous-condition claim also has elements to prove under Government Code 835: that the property was in a dangerous condition at the time of injury, that the condition proximately caused the injury, that it created a reasonably foreseeable risk of that kind of injury, and either that an employee's act created it or that the entity had notice long enough beforehand to do something.
+
+### The mistake that costs the case
+
+Waiting for the collision report before writing to the carrier. Reports take weeks; the six-month retention floor does not pause while one is typed. The preservation demand should identify the tractor, the trailer, the date and the driver, and ask for the electronic logging data, the supporting documents, the qualification file, maintenance and inspection records, dispatch messages and any onboard video. The second mistake is assuming one company owns the whole rig. Tractor, trailer, load and driver can each attach to a different entity, and only paperwork sorts that out.
+
+### What the other side does
+
+It moves quickly, because it is staffed to. Investigators and adjusters can be at a Highway 99 or Highway 132 scene the same day, measuring and taking statements while the injured person is still in an emergency department. Insurance behind the truck is usually deeper than a car policy: federal minimums run to $750,000 for for-hire interstate carriage of ordinary property in vehicles rated over 10,001 pounds, $1,000,000 for oil and many hazardous materials, and $5,000,000 for bulk hazardous substances. Depth cuts both ways, since the defense will spend on reconstruction and on a comparative fault theory placing part of the percentage on you.
+
+### What happens next, and how the money works
+
+Expect the early work to be documentary and mechanical: preservation letters, a request for the CHP report, an inspection of the vehicles before repair or release, and a look at whether an electronic control module still holds usable data. Those steps are costs rather than fees, and the difference matters. California sets no statutory percentage for a traffic claim; Rule of Professional Conduct 1.5(a) forbids an unconscionable or illegal fee, and Business and Professions Code 6147 requires the agreement to be written, signed by both, duplicated to the client, and to state that the rate is negotiable. The numeric ceilings people remember, 25 percent before a filing and 33 percent after, come from Business and Professions Code 6146 and reach claims against health care providers, not a truck case.
+
+## svc_injury_claim_negotiation_lede
+
+An offer is a number attached to a document. The number reflects only what the adjuster has in the file, and the document usually closes every claim arising from that crash, including the coverage on your own policy.
+
+## svc_injury_claim_negotiation_body
+
+### How you know the offer is early rather than fair
+
+Check what the adjuster could possibly have. If the file holds a repair estimate, an emergency department bill and nothing else, the number is priced on paperwork that exists rather than on the injury that does. The questions that reveal it are simple: has imaging happened, is anything still being recommended, has anyone written down the work restrictions, and does the carrier have the collision report yet. An offer that arrives before the treating notes do is a bet on your impatience.
+
+### What the damages actually consist of
+
+Medical charges already billed are the easiest line and the least complete one. Care still recommended, mileage to appointments, prescriptions, out-of-pocket devices, wages lost in whole and partial days, shifts covered by other people, and the specific tasks now done differently all belong on the list. Assemble those in dated order rather than as a total. A timeline can be checked against records; a round number cannot, and an adjuster gives no weight to anything that cannot be checked.
+
+### The lever the other side pulls
+
+Percentage, not liability. California uses pure comparative fault, so the defense does not need to win, only to move the fraction. The jury instruction makes them prove the plaintiff was negligent and that the negligence was a substantial factor, and then "damages are reduced by your determination of the percentage" of the plaintiff's responsibility. That rule comes from Li v. Yellow Cab Co., which preferred comparative negligence to the all-or-nothing approach on grounds of "logic, practical experience, and fundamental justice." In practice it looks like questions about your speed, your phone, an unsecured child seat, or a lane change nobody witnessed.
+
+### The release trap written into your own policy
+
+The signature is where good claims are lost. Insurance Code 11580.2 excludes uninsured motorist coverage for bodily injury where the insured, without the insurer's written consent, settles with a person who may be legally liable or prosecutes that person to judgment. So accepting a modest liability payment can close the very coverage that was going to carry the remainder. Written consent, asked for and received before anything is endorsed, keeps both paths open. Read what the release covers too: property damage, injury, loss of use, future care, and other insureds on the same policy are separate items and do not have to travel together.
+
+### Two clocks, sometimes three
+
+Injury has two years under Code of Civil Procedure 335.1. The court's own guidance puts damage to property at three. A claim under your own uninsured motorist coverage has its own trigger, since no cause of action accrues unless within two years of the crash a suit is filed against the uninsured motorist, an agreement on the amount is concluded, or arbitration is formally instituted by written notice sent certified mail with return receipt requested. Insurers owe an unrepresented claimant written notice of the applicable limitation at least thirty days before it runs, and that duty ends once counsel appears. Negotiation does not pause any of it, which is why an adjuster is comfortable being slow.
+
+### If a public entity is in the file
+
+A Stanislaus County crash can easily involve a public defendant: a road defect, a signal, a county or district vehicle, a transit bus. Government Code 911.2 then requires presentation of the claim not later than six months after accrual, and Government Code 910 controls the contents, including a rule people trip over. If the amount claimed is under $10,000 it goes in the claim with the basis for computing it; if it exceeds $10,000 no dollar figure may be stated at all, and the claim must instead indicate whether it would be a limited civil case. Miss the six months and the only route left is a written application under Government Code 911.4, filed within a reasonable time not exceeding one year after accrual, stating the reason for the delay with the proposed claim attached.
+
+### What happens after contact, and how a fee is set
+
+Negotiation follows assembly, not the reverse: records requested and read, limits confirmed from declarations pages, liens and reimbursement claims identified, then a demand built on documents. On fees, California fixed a percentage for one category only. Business and Professions Code 6146 sets 25 percent of the amount recovered where a release is signed before a complaint or arbitration demand is filed and 33 percent afterward, and it applies to claims against health care providers. A vehicle claim is governed instead by Rule of Professional Conduct 1.5(a), which prohibits an unconscionable or illegal fee, and by Business and Professions Code 6147, which requires a written signed agreement, a duplicate copy in the client's hand, an explanation of how costs bear on the recovery, and a statement that the rate is negotiable. Court charges are public and separate: $435 for a first paper in an unlimited civil case, a $150 nonrefundable jury deposit, and $1,000 per side if a case is designated complex.

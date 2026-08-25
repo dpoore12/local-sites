@@ -20,45 +20,29 @@ The useful details are simple. Say whether you see water spilling over the front
 Water pours over the gutter during a Charlotte downpour
 
 ## symptom_1
-Overflow at the gutter lip is usually a capacity problem created by debris, not proof that the whole system has failed. Pine straw can weave itself into a mat at the outlet, while oak leaves, small twigs and roof grit pack behind it. Rain then reaches the trough faster than the outlet can pass it to the downspout, so water takes the shorter route over the outside edge. On a brick house it may leave a dirty ribbon down the wall. On a planted bed it can dig a trench through mulch. The expensive part is where it lands: a repeated sheet of water along one side of a crawlspace home is not harmless just because it lasts ten minutes.
 
-Charlotte’s canopy is not a decorative detail here. The City’s published assessment puts canopy cover at 47 percent, and the city has an estimated 200,000 street trees, with willow oaks a significant share. That is why a one-time autumn cleanout is often not enough for a roof under trees. A sensible starting rhythm is one visit after spring pollen, seed pods and early growth have collected, then another after the heavier fall needle and leaf drop. A roof directly below mature trees may need an extra check after windstorms. A house with no nearby canopy may need less.
-
-The job is not merely scooping the visible top layer. The crew works the full trough to the outlet, clears the elbow and lower end of the downspout, then checks the discharge point. Water should exit away from the foundation rather than collecting behind a splash block or vanishing into a crushed extension. If the gutter is clean but still spills at one location, the answer may be a low spot, loose hanger, undersized outlet, or a buried drain that has filled with sediment. Cleaning reveals that distinction; guessing from the driveway does not.
+A Charlotte thunderstorm can put rain on a roof at better than five inches an hour for its opening minutes, which is the two-year design intensity local engineers size pipe against. A trough packed with leaf mat cannot pass that, so the surplus leaves over the front lip in one concentrated ribbon and lands in the same strip of clay every storm. Clear it before the fascia starts staining.
 
 ## symptom_2_title
 The downspout backs up or water stands in the gutter after rain
 
 ## symptom_2
-A downspout can be blocked even when the open gutter looks reasonably clear. The obstruction often sits at the first elbow, at the outlet where pine straw has formed a plug, or in the underground pipe after the downspout disappears at grade. The signs are water sitting in the trough long after the storm, a small fountain at the top of the downspout, or a gutter that fills from one end while the rest appears empty. Do not attack it with a metal rod from a ladder. That can puncture thin aluminum, pull apart an elbow, and leave the clog farther down where you cannot see it.
 
-Clearing begins with access from both ends. Loose material is removed from the outlet. The lower elbow or extension is checked for a wad of wet leaves and roof grit. If water can be run through safely, the crew verifies a continuous path rather than stopping once a little debris falls out. Downspouts that feed a buried drain need an honest separation between two jobs: cleaning the exposed downspout and finding a blockage in the underground line. The latter can be caused by silt, roots, a collapsed pipe, or a disconnected fitting, and it may require drainage repair rather than another gutter cleaning.
-
-This matters on Charlotte’s older crawlspace houses as much as on newer slab construction. A downspout that releases at the foundation corner sends a concentrated roof load into the same strip of soil every storm. It can keep the crawlspace perimeter wet, wash mulch away from the wall, and add moisture where you do not want it. The City’s stormwater program exists because moving rainwater safely through the community is a real infrastructure issue; the private roof edge is the first short stretch of that path. The practical goal is plain: water enters the gutter, exits the downspout, and reaches a stable discharge point away from the house.
+Water still sitting in a trough that looks clean, or a small geyser at the top of the pipe, means the plug is below the opening: the first elbow, an offset behind a shutter, or the buried line at grade. Do not drive a metal rod down from a ladder, since it splits thin aluminum and pushes the wad deeper. Note where the pipe ends and have the whole run flushed.
 
 ## symptom_3_title
 A joint drips, a gutter sags, or the fascia looks stained
 
 ## symptom_3
-A drip at one seam is different from a gutter that overflows everywhere. Seams, end caps, corners and outlet openings are the places most likely to leak. Water may escape only during a heavy storm, which is why homeowners often notice a line of mildew, a stained fascia board, soft soil beneath a single corner, or paint peeling before they ever see the actual drip. A sagging run can create the same symptom: the gutter holds a shallow pond instead of carrying water to the downspout, and that standing water finds a joint that was never meant to hold it all afternoon.
 
-Cleaning is the first useful step because it takes weight and wet debris out of the equation. Leaves and pine straw hold water. A packed trough gets heavier, slows drainage, and gives water more time to work through a tired seal or over a low front edge. Once the trough is clear, a water test shows whether the run still sits wrong, whether a hanger has pulled loose, or whether the outlet is too high for the gutter’s fall. Those are repair observations, not reasons to sell a replacement gutter on the spot.
-
-Pay attention to the fascia behind the gutter, especially on older homes in Myers Park, Dilworth and Elizabeth where mature trees put more material on the roof and older trim may have seen decades of wet seasons. Cleaning cannot reverse rotten wood, but it can stop debris from keeping that edge wet and reveal where repair belongs. If water is slipping behind the gutter, the crew should explain whether the issue is the apron flashing, a loose section, a missing fastener, or a roof-edge detail. A correct fix moves water into the trough; a cosmetic bead of sealant over a dirty, wet seam does not.
-
-The point of a scheduled cleaning is therefore not a perfectly photogenic gutter. It is drainage you can observe. After debris is removed, water should travel toward the outlet without standing in the middle, stay inside the gutter instead of behind it, and drain away from the foundation.
+One dripping miter, a puddle still standing an hour after the sky clears, or a dark streak down the trim behind the trough is a repair rather than a cleanout. Every gallon held up there is 8.34 pounds working on a seam that was never designed to hold water all afternoon. Photograph the stained board from the ground and say which corner it is.
 
 ## symptom_4_title
 Pine straw and oak leaves keep returning to the roofline
 
 ## symptom_4
-If the same gutter fills again soon after cleaning, the answer is usually above the roofline. Pine straw is light, long, and quick to bridge across an outlet. Oak leaves break down into a dark, wet layer that traps grit. Seed pods and small branches create a dam, then the next rain compacts the whole mix. Charlotte’s tree canopy is a real benefit to neighborhoods and stormwater, but the roof under it receives the maintenance side of that benefit. The City’s tree program recognizes canopy as part of stormwater mitigation, and its 2022 assessment describes 47 percent canopy cover within the city. On a house under mature trees, the gutter is where that material concentrates.
 
-The useful question is not whether a guard has a good marketing name. It is what material is landing on this roof. Fine mesh can keep larger leaves out while still collecting pollen, grit and short pine fragments on top. A reverse-curve cover can send water past itself if debris blankets the opening. Guards can reduce the amount of material inside a gutter; they do not eliminate inspection or cleaning. Before deciding on them, clean the system first and see whether the actual trouble is the roof valley, an outlet bottleneck, or a downspout that is too small for the collected roof area.
-
-For many Charlotte homes, recurring cleaning is the more straightforward answer. Schedule one visit after the spring buildup and another after the main fall drop, then adjust based on the trees on your lot. The crew can remove roofline debris where it can be reached safely, clear the troughs and downspouts, and leave a note about one trouble spot rather than selling a whole-house product because one corner collected needles.
-
-Do not solve a gutter problem by aggressively cutting back protected trees. Charlotte’s tree rules protect certain trees, including heritage trees, and qualifying removals require city approval. Pruning belongs to a qualified tree professional when branches genuinely interfere with the roof. Gutter maintenance belongs at the gutter: regular removal, clear outlets, and a discharge path that keeps the water moving away from the structure.
+When a trough refills weeks after it was emptied, the answer is overhead. Willow oak leaves are three to six inches long and under an inch wide, and loblolly needles are shed in their third year rather than in one tidy autumn. A roof under that canopy runs on a debris interval, not an annual reminder. Say what species stand over the house.
 
 ## qa_1_question
 How often should gutters be cleaned in Charlotte?
@@ -218,21 +202,21 @@ Published figures from Charlotte gutter companies, laid out job by job, next to 
 
 ### Why one house is $149 and the next is $499
 
-Gutter cleaning is priced on three things, and none of them is how dirty the gutters look from the driveway. The first is linear feet of trough. A compact ranch carries perhaps 150 feet; a rambling multi-wing house in Myers Park can carry 280 or more, and every foot has to be reached, cleared, and flushed. The second is height and footing. A single-story elevation is ladder work from level ground. A rear elevation two stories up over a sloped yard or a deck means standoffs, roof anchors, or a lift, and the labor time doubles before a single handful of debris moves. The third is what came out of the trough. Loose hardwood leaf litter rakes out. Pine needle mat that has been sitting through two seasons has effectively composted into the gutter and comes out in wet slabs, which is why several local companies post a surcharge for gutters left packed solid.
+Gutter cleaning is priced on three things, and none of them is how dirty the gutters look from the driveway. The first is linear feet of trough. A compact ranch carries perhaps 150 feet; a rambling multi-wing house in Myers Park can carry 280 or more, and every foot has to be reached, cleared, and flushed. The second is height and footing. A rear elevation two stories up over a sloped yard or a deck means standoffs, roof anchors, or a lift, and the labor time doubles before a single handful of debris moves. The third is what came out of the trough. Pine needle mat left through two seasons has effectively composted into the gutter and comes out in wet slabs, which is why several local companies post a surcharge for gutters left packed solid.
 
-Downspouts are the hidden variable. A crew can clear every trough and leave the system no more functional than before, because the blockage sits in an elbow behind a shutter or in the drain line at grade. Any figure worth comparing includes flushing every downspout.
+Downspouts are the hidden variable. A crew can clear every trough and leave the system no more functional than before, because the blockage sits in an elbow or in the drain line at grade. Any figure worth comparing includes flushing every downspout.
 
 ### The Charlotte canopy is the whole story
 
-This city is roughly half covered by tree canopy, and it is a mixed canopy: willow oak and water oak dropping leaves and tassels in spring and fall, loblolly pine dropping needles nearly year-round. That is why local pricing quietly assumes more visits per year than the standard advice of twice annually. A house under mature pines cleaned in November is often blocked again by February, so three or four visits is normal on a wooded lot in Elizabeth or Plaza Midwood.
+This city is roughly half covered by tree canopy, and it is a mixed canopy: willow oak and water oak dropping leaves and tassels in spring and fall, loblolly pine dropping needles nearly year-round. That is why local pricing quietly assumes more visits per year than the standard twice-annual advice. A house under mature pines cleaned in November is often blocked again by February.
 
 Clay soil closes the loop. Piedmont red clay drains slowly, so water that overshoots a blocked gutter sits against the foundation instead of moving away. The City of Charlotte storm water fees schedule prices this problem at the household level, billing monthly by impervious area: $10.32 for a house under 2,000 square feet of hard surface, rising through $14.78 and $21.43 to $35.48 for the largest. That fee is not something a cleaning changes, but it is the city stating in dollars that where roof water goes is a public matter, not a cosmetic one.
 
 ### Cleaning, repair, and replacement are three different budgets
 
-The table separates them deliberately, because the most common billing surprise in this trade is a cleaning visit that turns into a repair conversation on the ladder. Sagging runs, pulled hangers, failed end caps, and separated miters are all real and all cheap relative to replacement, and posted repair prices in this market start under $100 for a reseal. Replacement is a different order of magnitude: local per-foot pricing for seamless aluminum runs from about $4 to $13 depending on profile and height, which is why a 150-foot house lands anywhere between roughly $1,000 and $4,000 with downspouts. Note that one company in this market posts a mobilization minimum for bringing the gutter machine out at all, so a small partial run is not priced proportionally.
+The table separates them deliberately, because the most common billing surprise in this trade is a cleaning visit that turns into a repair conversation on the ladder. Sagging runs, pulled hangers, failed end caps, and separated miters are all cheap relative to replacement, and posted repair prices in this market start under $100 for a reseal. Replacement is a different order of magnitude: local per-foot pricing for seamless aluminum runs from about $4 to $13 depending on profile and height, which is why a 150-foot house lands between roughly $1,000 and $4,000 with downspouts. One company here posts a mobilization minimum for bringing the gutter machine out at all, so a small partial run is not priced proportionally.
 
-Guards deserve their own line because they are the biggest ticket most homeowners are shown. Local guard pricing is posted per linear foot, from a few dollars for basic screen to the high teens for stainless micro-mesh, which on 150 feet is the difference between a few hundred dollars and well over three thousand. Multiply the per-foot figure by measured footage first, and know that no guard ends maintenance under pine.
+Guards deserve their own line because they are the biggest ticket most homeowners are shown. Local guard pricing is posted per linear foot, from a few dollars for basic screen to the high teens for stainless micro-mesh, which on 150 feet separates a few hundred dollars from well over three thousand. Multiply per-foot by measured footage first, and know that no guard ends maintenance under pine.
 
 ### What state law does and does not require
 
@@ -240,8 +224,165 @@ North Carolina requires a general contractor license where the cost of the under
 
 ### Reading a fair estimate
 
-It states the measured footage or story count assumed, confirms downspout flushing, says whether debris leaves in bags, and states whether guard removal and reinstallation is included. Any packed-debris surcharge appears in writing before the visit, and a repair found on the roof becomes its own authorized line.
+It states the measured footage or story count assumed, confirms downspout flushing, says whether debris leaves in bags, and states whether guard removal and reinstallation is included. Any packed-debris surcharge appears in writing beforehand, and a repair found on the roof becomes its own authorized line.
 
 ### What the posted price leaves out
 
-It does not cover the underground drain line that has silted shut, fascia already rotted where water sat, a return trip when the rear elevation proves unreachable, or grading work on a chronically wet clay corner. Those are separate scopes with separate numbers.
+It does not cover the underground drain line that has silted shut, fascia already rotted where water sat, or grading work on a chronically wet clay corner. Those are separate scopes with separate numbers.
+
+
+## services_summary
+
+Four separate jobs get filed under gutter cleaning in Charlotte and they fail in different places. Clearing troughs is housekeeping for whatever canopy stands over the roof. Downspout clearing deals with the elbow and the buried line at grade, which is where the water usually stops. Repair covers pitch, hangers, end caps and the miters that leak while everything looks tidy from the driveway. Guards change what lands in the trough and nothing else. Book a cleaning when the real fault is a silted drain line under the front walk and you buy an empty gutter, the same puddle at the crawl space vent, and a second appointment.
+
+## services_pick_head
+
+Start where the water is actually stopping
+
+## crosslink_head
+
+Water stopping somewhere else?
+
+## svc_gutter_cleaning_lede
+
+Nobody thinks about a trough until the water has already gone somewhere costly: a stained fascia board, a trench cut through the pine straw bed, a crawl space that smells like a pond in June. Clearing it is the cheap end of that sequence.
+
+## svc_gutter_cleaning_body
+
+### The volume a Charlotte roof moves in five minutes
+
+A square foot of roof yields about 0.623 gallons per inch of rain, so an inch across 1,000 square feet is roughly 623 gallons. Charlotte averages 43.60 inches a year, arriving fairly evenly across the calendar rather than in one wet season, and the annual figure is not what breaks things. The Charlotte-Mecklenburg Storm Water Design Manual puts the two-year, five-minute design intensity at 5.03 inches per hour and the ten-year figure at 7.03. At 5.03, a modest 1,600 square foot roof footprint hands the gutter line something near 83 gallons a minute. No trough with a wet mat at the outlet moves that. It passes what it can and the balance goes over the lip.
+
+### What the overflow does to Piedmont clay
+
+The soil series named for this county explains the rest. NRCS describes Mecklenburg soils with a clay horizon 8 to 25 inches deep passing water at 0.06 to 0.2 inches per hour. Iredell soils, mapped through the same uplands, move water through their 7 to 24 inch layer at 0.0015 to 0.06 inches per hour. So the ground beside a Charlotte foundation takes water in hundredths of an inch per hour while the roof edge delivers inches per hour, in one place. It ponds, then travels the backfill trench beside the footing, the loosest soil on the lot.
+
+### Why the crawl space is where the money goes
+
+North Carolina's residential code sizes wall vents in a crawl space at one square foot per 150 square feet of ground area, dropping to one per 1,500 where an approved ground vapor retarder covers the earth, with a vent within three feet of each corner. Those openings sit low in the wall, exactly where an overflowing trough lands. The same code contemplates puncturing a 6-mil retarder at low spots so puddles do not stand on it, which tells you how the drafters regard water down there. New building here has largely left the crawl space behind, with 85.7 percent of new South Atlantic single-family homes started on slab, so Charlotte's crawl space stock is the older stock, which carries the biggest trees.
+
+### The board directly above the trough
+
+Forest Products Laboratory work puts the practical line at 20 percent moisture content, below which decay does not proceed, with fiber saturation near 28 to 30 percent and brown rot moving quickly at 32. A trough carrying compacted wet litter holds a damp mass against the fascia for weeks, and rain spread through the year rarely gives that board a long dry spell. The sequence follows itself: debris holds water, the wood stays wet, the hanger loses what it was fastened to, the run sags.
+
+### The canopy sets the interval, not the calendar
+
+Charlotte's 2022 assessment measured 47 percent canopy cover, City Council has adopted a goal of 50 percent by 2050, and the city counts roughly 200,000 street trees. One species dominates the debris. A municipal street tree inventory recorded 14,249 willow oaks, 16.7 percent of the trees counted, producing 58.4 percent of the total street tree leaf area, most of them planted between 1895 and 1923. Willow oak leaves are lance shaped, three to six inches long and less than an inch wide, its male catkins hang in March and April, and its acorns come down from September through November. Loblolly pine carries needles six to ten inches long that shed in their third year rather than all at once. So a wooded lot wants a visit after the spring catkin and pollen load, another once the autumn drop finishes, and an outlet check after a storm strips a tree.
+
+### Which Charlotte streets this hits hardest
+
+Dilworth was laid out in the 1890s as the city's first streetcar suburb and Elizabeth opened in 1891 as the second. Myers Park was laid out in 1911 to a John Nolen plan, and its willow oaks are the reason those blocks look the way they do. Plaza Midwood was platted from 1903, with The Plaza laid out in 1912, and NoDa grew as North Charlotte around Highland Park Mill No. 3 beginning in 1903, on small lots with mature trees at the line. Ballantyne, begun in 1992, is a different case: slab foundations, but three decades of planted oak now over the roofline.
+
+### Stay off the ladder, and what a careless crew skips
+
+Wet Piedmont clay is poor ladder footing and an aluminum trough is not a handhold. Two-story rear elevations over a deck are where people get hurt. The quieter failure: a crew scoops the top layer, leaves the packed material at the outlet, never flushes a pipe, and the next storm puts you back where you started.
+
+### What the visit looks like and what moves the price
+
+Debris comes out by hand, roof valleys and the shingle edge get cleared, each outlet and elbow is opened, then water is run to confirm a path to the discharge. Anything found up there, a pulled hanger, a separated miter, a crushed extension, gets described before it becomes work. Market pricing turns on measured linear feet, story count and access, and on what is in the trough, since composted needle mat comes out in wet slabs and takes far longer than loose oak litter.
+
+## svc_gutter_repair_lede
+
+A leak and a clog produce different evidence. One shows at a single seam in a hard rain; the other spills along a whole run after the leaves come down. Repairs on Charlotte houses usually start with a fascia board wet too long.
+
+## svc_gutter_repair_body
+
+### The three symptoms that mean repair
+
+First, a drip that appears only in heavy rain and always in the same place, which is almost always a corner miter, an end cap, or an outlet collar. Second, a trough still holding a puddle an hour after the sky clears, which is pitch or a bowed run rather than a seal. Third, a dark vertical streak on the trim behind the gutter, which means water is getting behind the trough instead of into it, and that points at the roof edge detail. Clearing debris fixes none of the three, but it makes all of them legible, and a hose run down the trough after a cleanout separates them in about two minutes.
+
+### Water sitting in the trough is a structural load
+
+A gallon of water weighs 8.34 pounds. A trough dammed at the outlet holds many gallons at once, hanging on fasteners set every two or three feet, and it does that dozens of times a year on a Charlotte roof under trees. That load is what pulls a spike out, opens a sealed miter, and bows the front lip so the run no longer drains toward its outlet. Once the shape of the trough is wrong, the standing water becomes permanent between storms, which is precisely the condition that rots the board behind it.
+
+### Two eras of hanger, two different failures
+
+Roughly 27.9 percent of Charlotte homes were built before 1980, and the streetcar-era stock is where the old hanger systems live. Houses in Dilworth from the 1890s, Elizabeth from 1891, and Myers Park from 1911 often carry spike-and-ferrule gutters, nailed through the front lip and into fascia that has expanded and contracted for a very long time. Those spikes back out a fraction at a time until the run tips forward and pours over its own edge. The correction is a hidden hanger screwed into sound framing, not a longer spike driven into the same tired hole. Houses on the Ballantyne side, built from 1992 onward, usually have K-style profiles on hidden hangers already, and their trouble is different: sealed miters that have given up, or one downspout draining more roof area than it was ever sized for.
+
+### Rot is usually why the gutter moved
+
+Decay does not begin until the wood stays above roughly 20 percent moisture content, and it accelerates past fiber saturation near 28 to 30 percent. A fascia board under a chronically full trough spends the wet half of the year in that range, and Charlotte's 43.60 inches of annual precipitation is spread through the calendar rather than concentrated, so the board rarely dries out for long. By the time a homeowner notices a sagging section, the fastener is frequently in wood that no longer holds a thread. Screwing a new hanger into it buys one season. Sound repair means finding solid framing or replacing the board, which is a roofing-edge scope with its own number.
+
+### The Piedmont version of ice damage
+
+This is not a Minnesota problem and it should not be sold as one. Charlotte averages about 59 nights at or below freezing but only around a day and a half a year that fails to rise above freezing, with a typical freezing window from early November to the end of March and roughly 3.5 inches of snow. That combination is a freeze-thaw machine rather than a deep freeze. Water held behind a dam of willow oak leaf mat freezes overnight, expands in a miter joint, and thaws by afternoon, over and over through a cold snap. The damage shows up as opened seams and a deformed front lip in March, and the cause was the blockage, not the winter.
+
+### What a careless repair looks like
+
+A bead of sealant run over a dirty, damp seam without cleaning or drying the metal, which peels within a season. Resetting a pulled section into its original fastener holes. Adding more sealant to a low spot instead of re-establishing fall to the outlet. Replacing a section while ignoring the apron flashing that was letting water slip behind the trough in the first place. And quoting a full replacement from the driveway, when the actual fault is one 12-foot section and a miter.
+
+### What a correct repair involves
+
+Clear the run, water test it, then set the work in order: re-establish a consistent fall toward the outlet, replace failed hangers into sound wood at a tighter spacing than the original, cut out and reseal miters with the surfaces dry, and add an outlet or a second downspout where the collected roof area justifies it. North Carolina requires a general contractor license once the cost of an undertaking reaches 40,000 dollars, which no ordinary gutter repair approaches, so the useful question is not a license class but proof of general liability and workers compensation for people working off a ladder on your property.
+
+### The shape of the range
+
+Repair prices in this market span a wide band because the phrase covers two sizes of job. Resealing an end cap or re-anchoring a few feet sits at the bottom. Rehanging a long run, cutting new miters, or replacing a storm-pulled section sits at the top, and fascia repair found underneath is separate again. Have the sections named in writing first.
+
+## svc_gutter_guard_installation_lede
+
+Guards get sold as the end of gutter maintenance. What they actually do is change the size and type of debris that reaches the trough, which on a Charlotte lot depends entirely on which species stand over the roof.
+
+## svc_gutter_guard_installation_body
+
+### What a guard changes and what it cannot
+
+A guard keeps bulk material out of the trough so the channel stays open through a heavy autumn. That is worth real money on a two-story rear elevation nobody wants to ladder twice a year. It does not clear a downspout, correct pitch, fix a pulled hanger, or stop the fine grit and broken-down organic matter that works through any opening water can pass. Debris also collects on top of a guard, especially in a valley where the roof concentrates flow, and that surface still needs attention. Anyone describing a product as maintenance-free is describing marketing, not this city's trees.
+
+### The debris a Charlotte guard has to reject
+
+Geometry decides which guard survives here. Willow oak, at 16.7 percent of the street trees counted in a municipal inventory but 58.4 percent of the leaf area, drops a narrow lance-shaped leaf three to six inches long and under an inch wide. That shape slides through a coarse screen edge-on and lies flat across a wider slot. In March and April the same trees hang pendulous male catkins, which arrive as a stringy mass that mats down and holds pollen and roof grit, and from September into November they add small acorns that roll and wedge at outlets. Loblolly pine adds needles six to ten inches long in bundles of three, shed in their third year, so pine straw is a year-round input rather than a season. Needles are the classic mesh problem: they weave into an opening and stitch a felt layer on top of it.
+
+### How each style fails on this canopy
+
+Coarse screen is cheap and stops twigs and acorns, but willow oak leaves and needle fragments pass or bed down on it. Reverse-curve covers rely on water clinging around a nose into a slot, and they work until the nose is coated, at which point a hard Piedmont downpour overshoots the whole assembly and lands on the bed below. Foam inserts fill the trough with a sponge that pine debris and seed material colonize, and they trap moisture against the metal. Fine stainless micro-mesh keeps the most out and is the most expensive, and it is the one that most needs its top surface cleared where pollen, catkin residue and needle fragments accumulate.
+
+### Repair the run first, then cover it
+
+Installing a guard over a sagging trough locks in the sag and hides it. Before anything gets screwed down, the run should drain to the outlet with no standing water, the hangers should be in wood that still holds a screw, the miters should be sound, and the downspouts should have been flushed and confirmed. Otherwise you have paid a large number to make a maintenance problem harder to see and more expensive to reach. If the fascia behind the trough is already soft, guards are the wrong purchase order.
+
+### How it attaches, which is where the risk sits
+
+Some systems screw to the front lip and rest on the back of the trough. Others slide their rear flange under the first course of shingles. That second method is the one to ask about, because lifting shingles at the eave on an older Charlotte roof can disturb the drip edge and the underlayment at exactly the point where wind-driven rain gets tested. Ask how the rear edge is supported, whether anything goes under the shingles, and whether the installation affects an existing roof warranty. Get the answer before the crew is on the ladder.
+
+### Cutting the tree is not the alternative
+
+Charlotte's ordinance defines a heritage tree as a native species measuring 30 inches or more in diameter at breast height and protects it inside city limits, with qualifying removal requiring a permit and City approval. In Myers Park and Dilworth, where the willow oaks were planted between 1895 and 1923, that describes a large share of what stands over the roof. With a Council goal of 50 percent canopy by 2050, the trees are not the variable you get to adjust. The trough is.
+
+### Maintenance afterward and how it is priced
+
+Plan on the top surface being cleared, valleys checked and outlets confirmed on a schedule, just a lighter one. Ask whether future cleanings carry a charge for removing and reinstalling the guard, because on some systems that labor is real. Guards in this market are quoted per linear foot, and the spread between basic screen and stainless micro-mesh is several multiples, so the only comparison worth making is measured footage times the per-foot figure for the same style, with any second-story surcharge stated separately.
+
+## svc_downspout_cleaning_lede
+
+The trough is the part you can see from the yard, which is why the blockage is so often somewhere else. A downspout stops at an elbow, an offset, or the buried line at grade, and the trough above it simply fills up and waits.
+
+## svc_downspout_cleaning_body
+
+### How you know the plug is below the trough
+
+Water standing in a channel that looks clean is the clearest sign. So is a small fountain at the top of the pipe during rain, a trough that fills from one end while the rest sits dry, and a hollow sound when you tap the pipe low and a dull thud higher up. Outside, look at the discharge: if a pipe that used to run hard now trickles while everything above it is spilling, the restriction is inside. A gutter can be spotless and still deliver nothing, which is why a cleanout that does not include flushing every pipe has not really been done.
+
+### The three places these plug in Charlotte
+
+The outlet and first elbow catch the most, because that is where a wad of willow oak leaves and needle fragments arrives edge-on and turns sideways. The second spot is an offset, the short jog that carries a second-story pipe back to the wall or around a bay window, where debris tumbles out of vertical fall and stops. The third is the buried line, and it is the one people misdiagnose. Corrugated pipe laid shallow through Piedmont clay silts up with fine soil washed in at the joints, and once a leaf mat catches on that silt the line holds water instead of moving it. Roots find the same joints. That is drainage work, not gutter cleaning, and it should be named as a separate scope with its own price.
+
+### Where the water is supposed to end up
+
+At a five-minute intensity of 5.03 inches per hour, the two-year design figure in the Charlotte-Mecklenburg Storm Water Design Manual, a 1,600 square foot roof is producing on the order of 83 gallons a minute, and one blocked pipe hands its whole share to the ground at a single corner. Local soils cannot take it. The Mecklenburg series clay horizon passes 0.06 to 0.2 inches per hour and Iredell subsoils as little as 0.0015. The City bills every household monthly by impervious area, from 10.32 dollars for the smallest to 35.48 for the largest, which is the plainest available statement that where roof water goes is treated here as a public matter and not a cosmetic one.
+
+### The crawl space vent nobody looks at
+
+North Carolina's code requires wall vents in a vented crawl space at one square foot per 150 square feet of ground area, reduced to one per 1,500 where an approved ground vapor retarder covers the earth, with a vent within three feet of each corner. Those corner vents are the low point of the wall, and a downspout discharging at the same corner sends concentrated runoff straight at them. The result is a crawl space with wet soil, framing held above the moisture content where decay proceeds, and duct and insulation damage that costs many multiples of a downspout cleaning. On a slab house the same water goes into the backfill trench beside the footing instead.
+
+### What not to try from the ladder
+
+Do not force a plumbing snake or a length of rebar down an aluminum pipe. Seams split, elbows pull apart, and the wad ends up further down where nobody can see it. Do not push a pressure washer wand into a buried corrugated line, because the water finds the silted joints and the loose spoil moves under your walk rather than out the end. And do not disconnect an elbow to clear it and leave it off, which turns a slow blockage into water dumped directly at the foundation. Ground-level work is fine: pull the extension, check the splash block, and see whether the discharge is even pointed away from the house.
+
+### The second-visit trap
+
+The most common shortcut in this trade is declaring a pipe clear the moment a handful of debris falls out of the bottom. Clear means water goes in the top and comes out the discharge at volume, and the person who did the work watched that happen. The second shortcut is treating a buried line failure as a cleaning that can be repeated. If a pipe has silted shut, another cleanout in four months is the same money for the same result, and the honest answer is a camera or a rod on the line, or daylighting the outlet, priced on its own.
+
+### What the visit looks like and what moves the number
+
+Access is taken from both ends. The outlet is opened from the trough, the elbow and lower section are cleared from below, and water is run to confirm a path all the way to the discharge point. Extensions get reseated, splash blocks get set so water leaves rather than pools, and a pipe that disappears into soil is tested to whatever point it can be reached and then described accurately. Pricing follows the count of downspouts, the story height they come from, and whether any of them feed underground pipe, which is where a straightforward job turns into a drainage decision.

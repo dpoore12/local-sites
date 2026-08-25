@@ -1,7 +1,7 @@
 # modestoacrepairpros.com — hand-written copy
 # Written for Modesto and Stanislaus County only. Central Valley agricultural city,
 # Building Climate Zone 12, 1970s-heavy housing stock, almond-harvest dust load.
-# Author: writer-modesto  |  Written: 2026-08-21  |  Status: pre-tenant  |  Phase 1
+# Author: writer-modesto  |  Written: 2026-08-21  |  Status: pre-tenant  |  Phase 2
 
 ## meta_title
 
@@ -29,11 +29,8 @@ The unit runs all day and the house still will not cool down
 
 ## symptom_1
 
-Start with what a working system can actually do. On a 104-degree Modesto afternoon a healthy split system pulls the air leaving your supply registers roughly 18 to 22 degrees below the air entering the return grille. It cannot hold the house at 72 when the yard is at 104, because no residential unit is sized for that. So the first thing a technician settles is whether the equipment is broken or simply beaten by the load. A thermometer at the return and a second one at a register near the air handler answers it in five minutes.
+Put a thermometer in the return grille and another at a register near the air handler. A healthy split system pulls the supply air roughly 18 to 22 degrees below the return on a 104-degree afternoon. Eight or ten degrees means the machine is at fault, not the load. Change the filter, then read the repair page.
 
-A healthy temperature split with a house that keeps climbing points at load and duct losses. A split of eight or ten degrees points at the machine. In this city the most common cause of a collapsed split is an outdoor condenser coil choked with valley grit. The fins are a filter nobody cleans, and Modesto hands them cottonwood fluff in spring, road dust off the county roads all summer, and orchard floor dust from August into fall. Heat has to leave that coil into the outside air. When the fins are packed, it cannot, head pressure climbs, and capacity falls off while the compressor works harder and draws more amps.
-
-The other frequent finding is airflow. A one-inch filter left in through a Modesto July loads up fast, and a starved evaporator coil ices over, which reads to a homeowner as weak cooling rather than a blockage. Undersized returns and leaky attic ducts in older tracts do the same thing quietly. The technician measures static pressure, checks the coil, reads suction and liquid pressures, and tells you which of the three it is.
 
 ## symptom_2_title
 
@@ -41,13 +38,8 @@ Plenty of air comes out of the vents, but it is warm
 
 ## symptom_2
 
-Good airflow and no cooling means the refrigeration side has stopped doing work. Walk to the outdoor cabinet. If the fan on top is spinning but the compressor is silent, that is one family of faults. If the whole cabinet is dead while the indoor blower keeps running, that is another. Either way the indoor fan carries on pushing air, which is why the vents feel busy and the house keeps getting warmer.
+Strong airflow with no cooling means the sealed side quit. Look at the outdoor cabinet: fan spinning, compressor silent, or an oily film on the copper near the service valves. Nothing in the circuit is consumed, so a low charge is a leak, and the leak is the repair. Switch the thermostat off and leave the breaker alone.
 
-The cheap end of this list is electrical. A run capacitor that has lost capacitance will not get the compressor started, and you often hear a hum and a click every few minutes as the internal overload trips and resets. Contactors pit and weld themselves after years of cycling on and off through Stanislaus County summers that run cooling demand from May into October. Both are same-visit parts and both are on the truck.
-
-The expensive end is refrigerant. Systems do not consume refrigerant, so a low charge means a leak, and the leak is the actual repair. Common leak points are the evaporator coil, the copper line set where it passes through the wall or runs along the side yard, brazed joints, and the service valve cores. A technician looks for oil residue, uses an electronic detector or nitrogen pressure, finds the point, repairs it, evacuates the system and weighs in a measured charge. Topping off a leaking system without finding the leak is money spent twice.
-
-Worst case is the compressor itself. That gets confirmed with electrical readings and a pressure test, not guessed at, and you get the repair-versus-replace numbers side by side. On a system already carrying an obsolete refrigerant, the arithmetic often favors replacement, and you should see both figures before choosing.
 
 ## symptom_3_title
 
@@ -55,13 +47,8 @@ Water on the floor by the closet, or a stain spreading on the ceiling
 
 ## symptom_3
 
-Your air conditioner is also a dehumidifier. The evaporator coil condenses moisture out of the indoor air, that water collects in a drain pan, and it leaves through a drain line to the outside. When water shows up somewhere else, the drain path has failed. Shut the system off at the thermostat before you go looking, because a running system keeps making more water.
+Shut the system off at the thermostat first, because a running coil keeps making water. Then find where it lands. A hallway closet unit in a seventies tract wets carpet and baseboard. An attic unit in Village One shows up as a brown ring over a bedroom, and that version cannot wait for Monday.
 
-Where the water appears tells you a lot about the house. In Modesto tracts from the seventies and eighties the air handler often sits in a hallway closet or a garage alcove, so a plugged drain puts water across the hall carpet or under the water heater. In newer construction on the north and east sides, the air handler is up in the attic, and the first sign is a brown ring on a bedroom ceiling or water dripping from a ceiling register. Attic installations are the ones worth treating urgently, because the drywall damage costs more than the repair.
-
-The cause is usually sludge. Dust that gets past the filter lands on a wet coil and turns into a paste that washes into the pan and sets up in the drain line. That is a bigger deal here than in a coastal city, because there is simply more airborne material to catch. A frozen coil does the same thing by a different route: ice thaws faster than a pan can drain, and it overflows.
-
-The repair is clearing the line, flushing the trap, checking the pan for rust or cracks, verifying the float switch actually shuts the system down, and cleaning the coil face so the problem does not return by August. If the secondary pan is rusted through, it gets replaced rather than patched.
 
 ## symptom_4_title
 
@@ -69,13 +56,8 @@ Nothing happens at all when the thermostat calls for cooling
 
 ## symptom_4
 
-Total silence is different from poor cooling, and a few checks are worth making before a technician is dispatched. Confirm the thermostat is set to cool with the setpoint below room temperature, and if it is a battery unit, put fresh batteries in. Look at the electrical panel for a tripped breaker, and at the disconnect box on the wall beside the outdoor unit. Check the switch near the indoor air handler, which looks like a light switch and gets flipped off by mistake more often than anyone expects. If a float switch under the air handler has tripped on a full drain pan, the system will refuse to start until the water is gone, and that is a safety feature doing its job.
+Check cooling mode and a setpoint below room temperature, fresh thermostat batteries, the breaker, the pull-out disconnect beside the condenser, and the switch at the air handler. If the breaker trips again the second you set it, stop. A compressor drawing locked-rotor current will keep tripping it, and every reset cooks the windings further.
 
-If a breaker trips again immediately, stop resetting it. Repeated trips mean a short, a seized compressor drawing locked-rotor current, or a failing fan motor, and cycling the breaker on a hard-locked compressor damages the winding further.
-
-Beyond those, the usual findings are the low-voltage side. Transformers fail. Thermostat wire that runs through an attic gets chewed by rodents or cooked where it crosses a hot roof deck, and attic temperatures in a Modesto summer are brutal on insulation. Control boards fail. Blown low-voltage fuses on the board almost always mean a shorted wire somewhere, not just a bad fuse.
-
-The technician arrives with a meter and works from line voltage inward: power at the disconnect, voltage at the contactor, twenty-four volts at the board, then the call from the thermostat. That sequence finds the break quickly, and it is why the fix is often a small part rather than the disaster people brace for.
 
 ## qa_1_question
 
@@ -284,7 +266,7 @@ What follows is drawn from prices Modesto and Stanislaus County heating and air 
 
 ### A valley summer sets the price of everything
 
-Modesto's cooling season is long, dry and punishing, with stretches of triple digit afternoons that leave a system running most of the day. Equipment here does not fail gently in the shoulder season; it fails in July, under full load, at the same hour as everyone else's. And the trade pool is small: the May 2025 median wage for heating and air conditioning mechanics and installers in the Modesto metro was $31.13 an hour, across roughly 470 people in the entire metro area.
+Modesto's cooling season is long and dry, and equipment here does not fail gently in the shoulder season; it fails in July, under full load, at the same hour as everyone else's. The trade pool is small: the May 2025 median wage for heating and air conditioning mechanics and installers in the Modesto metro was $31.13 an hour, across roughly 470 people.
 
 That scarcity, not greed, is why priority scheduling in a valley heat wave is worth something and why several local shops publish a diagnostic fee at all: it is the mechanism that keeps a truck available. Whether the fee is credited varies. One Modesto company states it is waived when a paid repair is authorized, another states plainly that the diagnostic does not apply toward repairs, refrigerant or labor charges. Same visit, different math, and worth one question before booking.
 
@@ -292,7 +274,7 @@ That scarcity, not greed, is why priority scheduling in a valley heat wave is wo
 
 The most common valley failures are electrical rather than mechanical: a run capacitor cooked by weeks of high ambient temperature, a contactor with pitted points, a thermostat that quit. Those are parts measured in tens of dollars and visits measured in an hour, which is why local shops cluster their published repair range in the low hundreds and one Modesto company puts the average local repair a little over three hundred dollars.
 
-What pushes a job past that is anything sealed or anything in the airflow path. Finding a refrigerant leak is a search priced separately from the repair, quick at a service valve and slow inside a coil. Orchard dust and valley agricultural debris load up condenser coils here in a way coastal markets do not see, and a clogged coil raises head pressure and eventually cooks a compressor, so coil cleaning is maintenance rather than an upsell.
+What pushes a job past that is anything sealed or anything in the airflow path. Finding a refrigerant leak is a search priced separately from the repair, quick at a service valve and slow inside a coil.
 
 ### What Modesto charges, and what MID pays back
 
@@ -315,3 +297,155 @@ The second pattern is oversizing. A house that never cooled well is easily sold 
 ### What the national number leaves out
 
 A number found online covers equipment and labor in a generic market. It does not carry the Modesto permit, the duct leakage testing state code requires, an electrical service that cannot take a larger circuit, disposal and refrigerant recovery on the old unit, or the rebate paperwork that turns a posted incentive into money. It also assumes a technician is available this week.
+
+## services_summary
+
+Four jobs, four different visits. General repair covers a system missing the thermostat setting, icing up, or dumping water in a hallway. Compressor work is the electrical and mechanical proof of whether the outdoor pump still starts and still builds a pressure difference. Leak repair finds why a sealed circuit went low instead of selling refrigerant by the pound every August. A tune-up is measurement and coil cleaning before harvest dust arrives. Confusing them costs Modesto homeowners twice: refrigerant added to a leaking coil in June is gone by Labor Day, and a condenser condemned over a coil packed with orchard dust is a replacement bill nobody needed.
+
+## services_pick_head
+
+Start with the failure your own house is showing
+
+## crosslink_head
+
+Not the failure you have?
+
+## svc_air_conditioner_repair_lede
+
+The thermostat says 88 and the system has been running since ten in the morning. Before any part is named, three things get measured in order: airflow through the coil, heat leaving the outdoor unit, and pressures in the sealed circuit.
+
+## svc_air_conditioner_repair_body
+
+### Measure the split before naming a part
+
+On a 104-degree afternoon the number that settles the argument is the temperature drop across the indoor coil. A thermometer in the return grille and a second one at the nearest supply register is the whole test. A system in decent order takes roughly 18 to 22 degrees out of the air moving through it. A healthy drop in a house that keeps climbing means the equipment is losing a race against the load and the attic duct. A drop of eight or ten degrees means something has stopped carrying its share.
+
+### Which Modesto house the technician is walking into
+
+About half the housing here predates 1980 and the median unit dates to 1979, with the 1970s alone accounting for 18,432 of roughly 75,882 units. Vintage predicts the install. In the College Area, where streets were laid out in the 1920s and 1930s around a junior college established in 1921, cooling arrived decades after the framing, usually through one undersized return. Bret Harte went up in the 1940s and 1950s on unincorporated ground where builders were not obliged to put in curbs, gutters or sewers, and the duct improvisation tends to match. Village One, the area the city numbered as its 1996-1 district, hangs the air handler in the attic instead.
+
+### The coil this valley goes after
+
+Heat has to leave the outdoor coil into the air, and in Stanislaus County those fins spend the season collecting whatever the valley carries. The air basin sits in nonattainment for fine particulate both federally and under the state standard, and the county harvested 217,352 acres of almonds in 2024, which puts shakers and sweepers on dry orchard floors from August into October. Packed fins raise head pressure, capacity drops, and current draw climbs in the weeks the equipment can least afford it. A washed coil frequently recovers most of a missing split with no parts at all.
+
+### Do not chase a frozen coil with a screwdriver
+
+A block of ice on the evaporator is almost always a starved coil, and the two usual causes are a one-inch filter that has been in place since May and a charge that has leaked away. Switch the thermostat off, leave the blower on fan only, and let it thaw. Chipping at ice on aluminum fins punctures tubing and converts a filter problem into a sealed-system repair. Liquid refrigerant coming back down the suction line is how a cheap week turns expensive.
+
+### The second-visit trap
+
+The recurring error in this market is refrigerant added to a system whose real problem was air. Low suction pressure looks like a low charge on a gauge set, so a technician in a hurry adds a pound, the split improves for a day, and the coil ices again by the weekend. Static pressure, filter condition and blower amps have to be established before the gauges mean anything. Airflow first, heat rejection second, refrigerant last.
+
+### What the visit looks like
+
+Thermostat call confirmed, then line voltage at the disconnect and 24 volts at the board. Filter out and looked at, static pressure read, blower and condenser fan amps taken against the nameplate. Capacitor microfarads measured rather than eyeballed, contactor points inspected. Coil faces checked front and back, the condensate pan and float switch checked, the drain trap flushed. Only then do gauges go on, with pressures interpreted against the outdoor temperature. Ask for the readings out loud, because a number you can see is the difference between a diagnosis and an opinion.
+
+### What it costs and where the paperwork starts
+
+Capacitors, contactors, thermostats and drain work sit at the tight end of the range: small parts, one visit, nothing to file. A coil, a condenser or a changeout is permitted work. Inside city limits the Building Safety Division on Tenth Street issues the mechanical permit, and the city's expedited program lets a contractor pull an HVAC permit online. At an unincorporated address such as Bret Harte it comes from the county's Building Permits Division instead, whose schedule prices mechanical work as a field inspection minimum plus a charge for each piece of equipment inspected. Modesto also sits in California Building Climate Zone 12, so a compliant alteration adds independent charge verification.
+
+
+## svc_ac_compressor_repair_lede
+
+A compressor is a pump, not a verdict. Most Modesto calls that arrive as compressor failure turn out to be a capacitor, a contactor, a condenser fan, or a coil so packed with orchard dust that the pump was protecting itself.
+
+## svc_ac_compressor_repair_body
+
+### The patterns that genuinely point at the pump
+
+Four descriptions earn a compressor investigation. A low hum followed by a click every few minutes, which is the internal overload opening and resetting. A breaker that will not stay set. Cooling that works at eight in the morning, quits by four and returns overnight. And a condenser fan spinning happily above a cabinet moving no heat at all. None of the four is a diagnosis. Each has a cheap cause and an expensive one, and the difference is measured rather than argued about in a driveway.
+
+### Why a Modesto afternoon exposes a marginal compressor
+
+The weather service summary for Modesto in July 2026 recorded 26 days at or above 90 degrees, a monthly high of 104 on the 14th and 15th, no measurable rain, and cooling degree days running 135 above the 1991 to 2020 normal for the year to date. Normal daily maximums in early August sit at 95. A compressor sized for design conditions has no margin in that, so anything restricting heat rejection, a fouled coil, a lazy fan motor, a cabinet crowded against a fence, pushes discharge temperature and current past what the internal protector tolerates. That is why this failure behaves like a clock.
+
+### Stop resetting the breaker
+
+A seized compressor draws locked-rotor current, several times its running amperage, until something opens. Every reset feeds that current through the windings again. If the breaker trips the instant it is set, leave it off. Decline anything sold from a can as a fix, too: sealants travel through the metering device and into the recovery equipment of whoever works on the system next, and they turn a repairable circuit into a replacement.
+
+### What actually gets measured
+
+Voltage at the disconnect and across the contactor with the system calling. Run capacitor microfarads against the rating stamped on the can, because a capacitor at seventy percent will start a motor on a mild morning and not at 104. Contactor points inspected for pitting. Compressor amps read against rated load amperage, then winding resistance and a check for a winding shorted to ground. Pressures with the outdoor temperature written beside them, which is what shows whether the pump builds a pressure difference at all.
+
+### What a failing system costs to run while you decide
+
+Some arithmetic is worth doing first. A three-ton condenser pulling around 15 amps at 240 volts is roughly 3.6 kilowatts, and ten hours of that is 36 kilowatt hours in a day. Against the 33.25 cents per kilowatt hour the federal energy statistics agency reported as California's average residential price in May 2026, that is real money every afternoon. Most Modesto addresses are not billed at the statewide average, since MID supplies more than 120,000 customers here and its own adjustments add 0.28 and 0.86 of a cent to every kilowatt hour on every schedule. Even so, a compressor fighting a fouled coil draws above its rating for months.
+
+### Repair, replace, and the refrigerant your system was built for
+
+The age of the equipment decides this. R-22 has not been produced or imported in the United States since January 1, 2020, reclaimed supply is still legal to use, and no federal rule orders a working R-22 system replaced. On the newer side the phasedown put a 700 global warming potential ceiling on new residential equipment, which moved manufacturing off R-410A at 2088 toward R-454B at 467. R-454B is an A2L, mildly flammable, with a burning velocity of 2.0 inches per second and roughly 82 percent of R-410A's mass flow, so it is no retrofit for anything: different tooling, and detection equipment labeled for A2L service. A rule finalized in May 2026 removed the installation cutoff for equipment built before January 1, 2025, so R-410A systems still go in from existing stock.
+
+### If it turns into a changeout
+
+A component repair files nothing. Replacing the condenser is an alteration, and California's 2025 energy code has governed permits applied for since January 1, 2026. Modesto is Building Climate Zone 12, inside the 2 and 8 through 15 band where an air conditioner alteration calls for charge verification by an independent rater. City addresses go through the Building Safety Division, unincorporated pockets through the county.
+
+
+## svc_ac_refrigerant_leak_repair_lede
+
+Nothing in a sealed circuit is consumed. If the charge is low, refrigerant left through a hole, and the hole is the repair. Everything else is a recharge with an expiry date attached to it.
+
+## svc_ac_refrigerant_leak_repair_body
+
+### How a low charge announces itself
+
+Vents that move air but not cold air while the outdoor unit runs. Frost or a clear collar of ice starting at the metering device and creeping along the suction line. An oily smudge on copper or on the pad beneath the service valves, because refrigerant carries compressor oil out with it. Cooling that got slightly worse every summer instead of failing on one afternoon. A gauge set confirms it, but the pattern is usually recognizable from the hallway.
+
+### Where these systems leak in Modesto
+
+Four places account for most of it. The evaporator coil, where copper sitting in condensate develops pinhole corrosion, and older coils are the common casualty. The line set, especially where it passes through a wall or runs along a side yard, and in seventies tracts where it went under a slab or behind a hedge nobody has looked at since. Brazed joints at the condenser, worked loose by thermal cycling through valley summers. And the Schrader cores under the service caps, a trivial part and a genuine leak. Dry Modesto heat is not neutral: a system running most of the day for five months puts far more pressure cycles through those joints than a coastal install sees.
+
+### Topping it off is the mistake, and not only a money one
+
+A pound added in June to a leaking coil is gone by Labor Day, and the second visit costs what the first one did. Refrigerant is also regulated. Federal certification under section 608 is required to service equipment containing R-22, and knowingly venting refrigerant during service, maintenance or disposal is illegal. When somebody offers to add gas without a leak search, what is being sold is a subscription. Ask for the leak search as its own line on the estimate.
+
+### The careless version of this job
+
+Dye injected with no return visit booked to look for it. A detector waved over a coil for thirty seconds in a breeze. Soap bubbles as the only method on a system that leaks at operating pressure and not at rest. A vacuum pulled for ten minutes with no micron gauge on the manifold, leaving moisture in a circuit that then forms acid and eats the compressor from inside. And charge added by pressure alone rather than weighed to the nameplate, which on a fixed metering device is guesswork wearing a gauge.
+
+### What a proper leak search looks like
+
+Standing pressure read and recorded. Where a system holds no pressure at all, dry nitrogen goes in and the circuit gets isolated section by section to find which half lost it. Where the loss is slow, an electronic detector rated for the refrigerant in the system, and labeled for A2L service on newer equipment, works the coil, the joints and the line set with the fan off. Suspect spots get confirmed with bubbles. Then the repair: braze the joint, replace the cores, or replace the coil. Then evacuation to a micron target that holds with the pump valved off, a weighed charge to the plate, and a fresh split measured at a register.
+
+### When a leak turns into a replacement conversation
+
+The arithmetic changes with the refrigerant. An R-22 condenser can be repaired and recharged from reclaimed supply, the only legal source since new production and import ended on January 1, 2020, but the money goes into a system whose parts get scarcer every season. An R-410A system is straightforward to repair today, and the May 2026 federal rule kept legacy equipment installable rather than stranding it. A leaking evaporator coil under an aging outdoor unit is the classic case for pricing both paths.
+
+### What it costs, in shape
+
+A leak search is priced separately from the repair, and where the leak hides decides the rest. A valve core or an accessible joint is a short visit and a small part. A coil buried in an attic air handler out in Village One, or a line set under a walkway in an older tract, is labor before any refrigerant is weighed in. If a coil or condenser ends up replaced, Modesto's Climate Zone 12 position brings independent charge verification into the job, and that belongs on the estimate as its own line.
+
+
+## svc_ac_tune_up_lede
+
+A tune-up is worth something only if it produces numbers. Measured split, static pressure, capacitor microfarads, amps against nameplate, and a coil that is genuinely clean before the first triple-digit week arrives.
+
+## svc_ac_tune_up_body
+
+### What a real tune-up measures
+
+Ten numbers, written down where you can read them. Return and supply temperatures and the split between them. Static pressure across the air handler. Blower and condenser fan amps against the nameplate. Compressor amps against rated load. Run capacitor microfarads against the stamped rating. Suction and liquid pressures with the outdoor temperature noted beside them. Superheat or subcooling, depending on the metering device. If the invoice comes back as a page of check marks with no readings on it, nothing was measured and nothing can be compared next spring.
+
+### Timing it to a Modesto calendar, not a national one
+
+Two deadlines matter here. The first is the opening triple-digit run, which arrives before most people have thought about the air conditioner at all; July 2026 in Modesto delivered 26 days at or above 90 with a peak of 104. The second is harvest. Stanislaus County harvested 217,352 acres of almonds in 2024, and shakers and sweepers work dry orchard floors from August into October. A visit in March catches the electrical parts before load exposes them. A coil cleaning in late fall gets the harvest load off the fins before it sets hard over winter.
+
+### Coil cleaning is the main event in this valley
+
+Elsewhere coil cleaning is the throwaway line on a maintenance checklist. In the San Joaquin Valley, where the air basin is designated nonattainment for fine particulate federally and under the state standard as well, the outdoor fins are effectively a filter nobody maintains. Fins loaded with dust and orchard fiber cannot reject heat, so head pressure rises, capacity falls and the compressor pulls more current through the hottest weeks of the year. A washed coil often restores most of a missing temperature split without a single part being replaced.
+
+### What not to do with the outdoor unit
+
+Cutting power at the disconnect and rinsing the fins gently from the inside outward with a garden hose is reasonable homeowner work. A pressure washer is not, because it lays the fins over and permanently reduces the coil's ability to pass air. Neither is prying at fins with a screwdriver or flooding water down through the top of the cabinet onto the fan motor. Clear a couple of feet around the cabinet, keep bark and shrubs off the intake, and leave the wiring compartment shut. Anything needing gauges or a chemical coil cleaner needs federal refrigerant certification, because opening that circuit is regulated work.
+
+### The corner that gets cut
+
+The tune-up sold as a loss leader and delivered in twenty minutes: filter swapped, a glance at the outdoor unit, refrigerant added because it seemed low, invoice printed. Two problems with that. Refrigerant is not a consumable, so anything added is masking a leak that should have been searched for. And charge cannot be judged before airflow is measured, because a starved coil produces the same low suction pressure as an undercharged one.
+
+### Drainage, controls and the parts that fail quietly
+
+Condensate is half of what maintenance protects. The pan, trap and drain line get flushed, and the float switch gets tested by lifting it to confirm it really does shut the system down, because that switch is all that stands between a plugged drain and a ceiling stain under an attic install. Thermostat calibration and staging get checked. Contactor points, wire nuts and low-voltage connections get looked over, since attic and side-yard wiring here bakes for five months a year and rodents find it in the older streets of La Loma and the College Area.
+
+### What it costs, and what a tune-up is not
+
+Maintenance is flat-rate work, and the range moves with the season rather than with the machine: promotional pricing in spring, regular pricing in the middle of a heat wave, same list of tasks. What it never includes is refrigerant by the pound or a part replacement, both of which should be quoted separately and approved on their own. If replacement comes up during a maintenance visit, remember that MID pays a rebate on qualifying central equipment and that a permitted changeout in Climate Zone 12 brings charge verification with it.
+

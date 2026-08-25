@@ -18,44 +18,32 @@ A dispatch is set for a roof inspection, with the roof condition and access cons
 Have the address, the roof age if known, and the place where water first appeared indoors. Note whether the leak follows wind-driven rain, a normal shower, or only a hard downpour. Mention recent tile work, skylights, chimneys, plumbing vents, solar equipment, and any branch strike. A clear ground-level photo of the roof plane and a photo of the ceiling stain help identify where to begin, but nobody should climb onto wet tile to get one. It also helps to know whether the property is inside Tampa city limits, because the City distinguishes smaller roof-covering work from work over 500 square feet and tile work includes a dry-in inspection.
 
 ## symptom_1_title
-The ceiling stain is below intact-looking tile
+A tile is cracked but the room below is dry
 
 ## symptom_1
-Tile can look orderly from the driveway while the water-control layer underneath has aged, split, or opened at a lap. That is the central trap with a tile roof: the visible pieces shed sun and much of the rain, but they are not the only thing keeping the deck dry. A stain below an apparently normal roof plane is reason to inspect below the tile rather than assume there is no roof problem.
+A split concrete tile can sit in place for months looking orderly from the driveway while rain runs through it onto the felt underneath. Photograph the slope from the yard, look for shards in the gutter or the flower bed, and count what looks broken. Keep everyone off the tile: a walk-around to investigate usually breaks more pieces than the branch did.
 
-The first task is to locate the entry point, not simply the spot where water finally dripped through drywall. Water can run along underlayment, a batten, a deck seam, or framing before it shows itself inside. A proper repair check follows the roof slope upward from the interior symptom and looks hard at valleys, headwalls, sidewalls, pipe flashings, ridge transitions, and the lower edge of the tile field. Lifted tile has to be handled carefully; forcing or walking carelessly on it can create the very breakage the visit is meant to solve.
-
-Sometimes the answer is a focused flashing or tile repair. Sometimes exposed underlayment is brittle, or the water path extends past the tile that first drew attention. Those are different scopes, and they should not be priced as the same job. The inspection should identify which material has failed, whether the deck is dry and sound, and how much tile must be removed and reset for a weather-tight tie-in. A patch that hides the stain but leaves the failed layer in place is not a useful repair.
 
 ## symptom_2_title
-A tile is cracked, slipped, or missing after wind
+A ceiling stain sits under tile that looks fine
 
 ## symptom_2
-One broken, displaced, or missing tile deserves attention even when the room below is still dry. An opening can expose the layer below to sun and driven rain, and the pieces immediately around it may have cracked at fasteners or loosened without falling. After a storm, the temptation is to replace the most visible tile and move on. The better approach is to check the field around it, the attachment method, the exposed underlayment, and the route water will take around the repair.
+Water shows up indoors well downhill from where it entered the roof, so the stain is a starting line and not the hole. Note the room, the wall the stain runs toward, and whether the rain was blowing sideways or falling straight. Move what is underneath, catch the drip, and leave the roof alone until someone can trace it.
 
-Start from safe ground. Note the roof slope or area where the problem appears, keep people away from falling tile, and avoid setting a ladder against fragile edges or gutters. A roof worker can remove and reset the affected field pieces, inspect what is below them, and determine whether the tile itself broke from impact, wind movement, aging, or prior handling. Matching profile, size, color, and attachment matters; a replacement that sits proud or has the wrong exposure can channel water or catch wind differently from the surrounding courses.
-
-Tampa’s recent storm history is a practical reason not to wait for a stain. Hurricane Milton made landfall as a Category 3 storm in October 2024 and produced hurricane conditions in the Tampa Bay area. That does not mean every cracked tile is a major roof failure. It does mean a post-storm repair should include more than a glance at one surface piece. The work can be narrow when damage is narrow, but the exposed layer, adjacent tile, metal flashing, and roof edge need to be checked before the final tile is set.
 
 ## symptom_3_title
-The leak appears around a vent, wall, chimney, or valley
+Tiles are gone after a windy afternoon
 
 ## symptom_3
-Water that appears near a pipe vent, skylight, sidewall, chimney, or valley often points to a transition rather than a failed field tile. These locations bring tile, underlayment, metal, sealant, and sometimes wall cladding together. Each material has to overlap in the right direction so water continues downhill. When one piece is loose, corroded, cracked, or tucked behind the wrong layer, the roof may leak only when rain comes from a particular direction.
+Gaps along a rake, a hip, or the ridge leave bare underlayment facing full sun, and Tampa collects most of its rain between June and September. Pick the fallen pieces out of the yard and keep them, even the broken ones. A matching profile from the original run is worth far more to the repair than a new tile that is merely close.
 
-A repair inspection should expose enough of the assembly to see the flashing relationship, not just add sealant where water is visible. At a penetration, the condition of the collar, the underlayment connection, the tile cuts, and the fasteners all matter. Valleys need clear flow and intact metal; debris, shifted tile, or a worn edge can direct water under the tile field. At a wall, attention turns to the vertical turn-up and counterflashing. A surface smear may slow a drip for a while but does not correct an open lap or a metal detail that is no longer shedding water.
-
-The right scope depends on what is actually open. That may be a flashing reset, a localized underlayment tie-in, a repaired valley section, or replacement tile cut and secured around the detail. The homeowner should receive the distinction in writing before work begins. Tampa’s permit guidance also matters when the affected roof-covering area grows: the City says roof covering repairs over 500 square feet require a permit, and tile roofs require dry-in inspection before tile installation. A repair can be urgent without being careless about the assembly or the paperwork.
 
 ## symptom_4_title
-Several repairs are spreading across the same roof section
+Patches keep spreading across one slope
 
 ## symptom_4
-Repeated small leaks, clusters of cracked tile, or several repair areas on one roof section change the question from “Which tile do we replace?” to “What is still working underneath?” Tile can be removed and reset, but if the underlayment is failing across a larger area, the repair needs a clear boundary and a plan for tying new work into sound work. The goal is neither to sell a full replacement automatically nor to keep applying isolated patches after the roof has moved beyond them.
+Three repairs on one slope in two years is a different problem from one broken tile. Florida measures repair area against the roof section, and insurers date a roof from its oldest remaining part. Before another spot fix, ask to have the affected square footage measured and the underlayment condition written down, because both numbers follow the roof for years.
 
-Florida’s existing-building roofing rule is important to that planning. The cited state interpretation explains a 25 percent threshold: when more than 25 percent of a total roof area or roof section is repaired, replaced, or recovered within 12 months, the entire roofing system or section must conform to code. The calculation concerns damaged components; necessary removal and reinstallation of sound components for a proper tie-off is treated differently. That is not a reason to guess at percentages from the street. It is a reason to document the roof section, the damaged area, and prior work before setting scope.
-
-The inspection should separate tile that can be reused from material that cannot, inspect deck condition where tile is lifted, and identify whether the water-control layer has enough remaining life to justify a local repair. It should also account for access, tile availability, roof height, valleys and penetrations, and whether a City permit or inspection applies. A direct written scope gives the homeowner something concrete: what will be removed, what layer will be repaired, what will be reset, and what condition would require a broader recommendation before work proceeds.
 
 ## qa_1_question
 Why would a tile roof leak when most of the tiles look fine?
@@ -215,22 +203,174 @@ Tile roof pricing in Tampa follows one question more than any other: does the wa
 
 ### The tile is not the roof
 
-Tile sheds most of the water, but the layer keeping a Tampa house dry is the underlayment on the deck beneath it. Tile lasts decades; underlayment does not, and Gulf coast heat and ultraviolet exposure age it long before the tile above shows anything. That explains the shape of the table. Replacing a few cracked pieces is some tile and an hour of careful walking. Replacing the membrane under them means inventorying, lifting and stacking every tile in the work area, dry-in, then setting it all back, and the number moves by a factor of ten. The diagnosis drives the price and it is not visible from the driveway: a ceiling stain can come from a broken tile, an open head lap, rusted valley metal, a failed pipe boot, cracked mortar ridge, or underlayment that has run out of service life across a slope.
+Tile sheds most of the water, but the layer keeping a Tampa house dry is the underlayment on the deck beneath it. Tile lasts decades; underlayment does not, and Gulf coast heat and ultraviolet exposure age it long before the tile above shows anything. That explains the shape of the table. Replacing a few cracked pieces is some tile and an hour of careful walking. Replacing the membrane under them means inventorying, lifting and stacking every tile in the work area, dry-in, then setting it all back, and the number moves by a factor of ten. The diagnosis drives the price and it is not visible from the driveway.
 
 ### What the 25 percent rule says now
 
 Florida Building Code Existing Building section 706.1.1 holds that not more than 25 percent of a total roof area or roof section may be repaired, replaced or recovered in any 12-month period unless the covering on the entire existing roofing system or section is brought to current code.
 
-The carve-out sits in statute rather than local ordinance. Florida Statutes section 553.844 provides that if the existing system or section was built, repaired or replaced in compliance with the 2007 Florida Building Code or any later edition, then when 25 percent or more is repaired, replaced or recovered, only that portion must meet current code, and a local government may not amend the exception. So the age of the last permitted roof work becomes a pricing input. A roof permitted under the 2007 code or later can absorb a large repair without a whole-system upgrade; an older roof crossing the line inside twelve months can turn a repair conversation into a replacement conversation. Repairs should be measured and documented as they happen, because two visits to one section within a year still add up.
+The carve-out sits in statute rather than local ordinance. Florida Statutes section 553.844 provides that if the existing system or section was built, repaired or replaced in compliance with the 2007 Florida Building Code or any later edition, then when 25 percent or more is repaired, replaced or recovered, only that portion must meet current code, and a local government may not amend the exception. So the age of the last permitted roof work becomes a pricing input. A roof permitted under the 2007 code or later can absorb a large repair without a whole-system upgrade. Repairs should be measured as they happen, because two visits to one section within a year still add up.
 
 ### City fees and the 500 square foot line
 
-Tampa exempts roof covering work of 500 square feet or less from a building permit and requires one above that area. Once a permit is in play, the City of Tampa trade permit fee schedule lists residential roofing at $177.00 and commercial roofing at $220.00. Small against a five-figure project, noticeable on a small repair, which is why measured area matters. Tile also carries its own sequence: a dry-in inspection before tile is set, then a final. That hold is a scheduling reality, since tile cannot go back down until the new underlayment has been looked at. City guidance further directs homes permitted before March 1, 2002 to hurricane mitigation retrofit requirements, adding secondary water barrier and fastening work no national estimate carries.
+Tampa exempts roof covering work of 500 square feet or less from a building permit and requires one above that area. Once a permit is in play, the City of Tampa trade permit fee schedule lists residential roofing at $177.00 and commercial roofing at $220.00. Small against a five-figure project, noticeable on a small repair, which is why measured area matters. Tile also carries its own sequence: a dry-in inspection before tile is set, then a final, and tile cannot go back down until the new underlayment has been looked at. City guidance further directs homes permitted before March 1, 2002 to hurricane mitigation retrofit requirements, adding secondary water barrier and fastening work no national estimate carries.
 
 ### Wind, rain, and the storm scope
 
-Bay area roofs live under uplift and windborne debris requirements for a reason. When a named storm passes, tile rarely fails in one spot; it lets go along the rake, hip and ridge where uplift concentrates, and displaced tile leaves underlayment exposed to weeks of ordinary afternoon rain. Posted storm ranges run wider than single-tile ranges, and a sound scope covers the surrounding field, the flashings and the roof edge rather than the piece spotted from the yard. It should separate the tarp from the permanent repair, say whether an emergency dry-in is credited against the finished work, and measure the area against the 25 percent threshold.
+Bay area roofs live under uplift and windborne debris requirements for a reason. When a named storm passes, tile rarely fails in one spot; it lets go along the rake, hip and ridge where uplift concentrates, and displaced tile leaves underlayment exposed to weeks of ordinary afternoon rain. A sound scope covers the surrounding field, the flashings and the roof edge rather than the piece spotted from the yard. It should separate the tarp from the permanent repair, say whether an emergency dry-in is credited against the finished work, and measure the area against the 25 percent threshold.
 
 ### Reading a tile estimate
 
 A trustworthy estimate states tile type, profile and color, and whether replacement pieces are new, salvaged or reclaimed from elsewhere on the roof. It names the attachment method, mortar set, foam adhesive or mechanical fastening. It names the underlayment product and the number of layers, and gives the measured repair area in square feet, since that decides permitting and the 25 percent question. It lists flashing, valley metal, pipe boots and ridge treatment as included or excluded, and prices a breakage allowance instead of pretending nothing snaps when tile is lifted. National cost pages average shingle work into tile work: they omit the permit, the dry-in hold, retrofit requirements on older homes, and mortar-set ridge that must be rebuilt.
+
+## services_summary
+
+Four separate jobs get filed under tile roof repair in Tampa, and mixing them up is how a homeowner pays twice. Broken tile work swaps split field pieces and resecures the courses that had to be lifted. Leak work traces water to the layer that actually failed, which on a tile roof is usually the felt rather than the tile. Tile replacement sources and sets pieces that are gone, which means chasing a profile that may have left production. Whole-roof tile repair is the measuring job: square footage against the roof section, the date of the last permitted roof work, and whether patching is still honest.
+
+## services_pick_head
+
+Start with the failure your roof is actually showing
+
+## crosslink_head
+
+Seeing something else up there?
+
+## svc_tile_roof_repair_lede
+
+Tile roof repair on a Tampa house turns into a measuring and paperwork problem faster than people expect. The size of the affected area, the date of the last permitted roof job, and what an inspector already wrote about the roof all change what can be done.
+
+## svc_tile_roof_repair_body
+
+### When patching stops being the honest answer
+
+Two very different situations arrive under the same words. One is a single split piece over a dry deck, which is an afternoon of careful work. The other is a slope that has taken three or four visits since the last storm season, where every visit found the same brittle felt under a different set of tiles. The second is not a larger version of the first. It is a decision about whether the water-control layer still has service life left, and in this state that decision drags code and insurance consequences along with it.
+
+### The 25 percent line, and what actually changed in 2022
+
+Florida Building Code Existing Building section 706.1.1 still reads that not more than 25 percent of the total roof area or roof section may be repaired, replaced or recovered in any 12-month period unless the covering on the entire roof system or section is brought up to current code. What changed is the exception printed underneath it. Senate Bill 4-D, effective when it became law in May 2022, wrote into section 553.844 that where the existing roofing system or roof section was built, repaired or replaced in compliance with the 2007 Florida Building Code or any later edition, crossing 25 percent obliges only the repaired portion to meet current code, and a local government may not amend that exception by ordinance. So the date on the last permitted roof job is a genuine fork in the road. A concrete S-tile slope on a subdivision house permitted after 2007 can absorb a large section repair. A clay barrel roof whose last permit is far older cannot, and once a year's repairs cross the line, the conversation changes shape.
+
+### Tampa's own line sits at 500 square feet
+
+City roofing guidance exempts roof covering installation, recovering, reroofing or repair of 500 square feet or less from a building permit and requires one above that area. On tile the City also requires a dry-in inspection before tile is installed, then a final. That inspection is a scheduling fact rather than paperwork: once old felt is off, the deck stays open until an inspector has looked at the new dry-in, so any repair reaching the underlayment needs a dry weather window and not merely an available crew. Guidance also directs single-family homes permitted before March 1, 2002 to the hurricane mitigation retrofit requirements, which is where secondary water barrier and deck fastening enter a job that started as a leak.
+
+### Which Tampa tile roof you have
+
+Tile arrived here in two eras and they fail differently. Clay barrel and Mediterranean Revival work belongs to the 1920s: the Hyde Park historic district carries a period of significance of 1886 to 1933, West Tampa's runs 1893 to 1933, and D. P. Davis began assembling his dredge-and-fill islands in 1924. Those roofs have mortar-set hip and ridge, layers of old repairs, and profiles nobody presses anymore. Concrete tile belongs to the stucco subdivisions; the City's housing assessment counts 48,131 structures built in 2000 or later against 23,236 from before 1950. On those newer roofs the original felt tends to run out across a whole slope at once, which is why the third leak in a year is rarely a coincidence.
+
+### What your insurance file already says about the roof
+
+Florida statute 627.7011 says an insurer may not refuse to issue or renew a policy on a home with a roof less than 15 years old solely because of roof age. At 15 years or more, the homeowner may have an authorized inspector look at it, and if the inspection shows five or more years of useful life remaining, roof age alone is not grounds for refusal. The same subsection calculates roof age from the last date 100 percent of the surface area was built or replaced, so a run of partial repairs does not restart the clock. Citizens requires documentation of full replacement for tile, clay, concrete, slate or metal roofs more than 50 years old, with remaining-useful-life documentation from a roof inspection form or the four-point inspection form as the alternative, capped at five years. Whatever gets written on that form outlasts the repair.
+
+### What the visit looks like
+
+Measurement comes first: where the roof section boundaries fall, the square footage of the damaged area, and where earlier patches sit. Then tile is lifted in a few chosen spots rather than everywhere, at the leak, at the highest suspect course, and at a sound control spot, so the felt can be compared against itself. Fasteners, battens and deck get read while the tile is up. The scope that comes back should name the failed layer, the measured area, whether it stays under the permit threshold, where the section stands against the 25 percent window, and what happens to tile that snaps on the way off.
+
+### How the cost is shaped
+
+Two variables do most of the work. The first is how much tile has to come off to reach the failure, which is why a valley or a wall transition runs above an open field of the same size. The second is whether the answer is tile work or felt work, because relaying a section over fresh dry-in sits an order of magnitude away from swapping pieces. A breakage allowance belongs in the scope. Ask for the measured area in writing, and ask what the estimate assumes about the last permitted roof date, since that assumption is quietly setting the price.
+
+## svc_broken_roof_tile_repair_lede
+
+Broken tile is the repair people postpone, because the ceiling stays clean and the roof still reads as orderly from the street. What sits under the split is asphalt felt, and in this climate that felt is already working harder than the tile above it.
+
+## svc_broken_roof_tile_repair_body
+
+### How you know that is what happened
+
+From the ground, look for a shadow line running across the pan of a tile, a missing corner at the head lap, a piece sitting lower than its neighbors, and shards in the gutter or the shrub bed below the eave. Cracks in Tampa arrive three ways. Impact breaks are clean and often obvious: a limb down, a dropped tool, an anchor set through a tile during a solar or satellite install. Fatigue breaks start at the nail hole and travel, because a tile fastened tight to a warped deck flexes every time the sun swings across it. Slip breaks happen when a piece lets go, slides, and shatters its nose against the course below, which leaves two damaged tiles instead of one.
+
+### Foot traffic is the usual culprit here
+
+Most broken tile in this city was broken by a person, not by weather. Every roof-mounted install, gutter cleaning, pressure wash, satellite alignment and holiday light run puts weight on a surface that only takes weight in specific places, near the head lap where the tile is supported, never mid-pan. Concrete tile bears less than people assume and clay barrel from the 1920s bears far less than that. Notice that broken tile clusters along the paths people walk: from the ladder point to the chimney, from the roof hatch to the air handler stand.
+
+### What is under the split
+
+Tile is the sunshade and the first defense; the felt beneath it is the actual roof. Concrete tile is built to last the life of a house, and the manufacturer side of the trade cites a National Association of Home Builders study putting tile among the few roofing materials that last a lifetime. Underlayment does not come close. Florida roofing guidance commonly puts it at 20 to 25 years here, which is why most tile roofs in this state come off because of the layer nobody sees. A break lets ultraviolet light and driven rain onto that layer directly, and Tampa takes most of its rain between June and September, so an August split gets tested weekly.
+
+### Fasteners and the bay
+
+The code specification is narrow. Florida Building Code section 1507.3.6 requires tile fasteners to be corrosion resistant, not less than 11-gage with a 5/16-inch head, and long enough to penetrate the deck at least three quarters of an inch or all the way through it. It also defines the perimeter fastening areas as three tile courses, and not less than 36 inches from either side of hips or ridges and from the edges of eaves and gable rakes, which is precisely where wind pulls hardest. Salt air complicates all of it. A Florida Building Commission survey of roofing professionals found 79.5 percent had seen corrosion on the exposed portion of metal fasteners, and within roughly ten miles of a coast about 58 percent said corrosion was usually or always present against 17 percent inland. On Davis Islands and along the bayfront streets, a fastener that would age slowly twenty miles inland does not.
+
+### What not to do from the ladder
+
+Do not walk out on the field to reach a broken tile, do not slide a replacement under the course above without lifting that course, and do not solve the crack with a trowel of roof cement. Sealant on a cracked pan traps water on the felt and hides the break from the next person who inspects the roof. Foam and mortar are attachment systems with their own approvals, not gap filler. Wet tile after an afternoon storm is genuinely slick, and the fall hazard on a 1920s clay roof begins before anyone reaches the damage.
+
+### The second-visit trap
+
+Careless operators break this job two ways. The first is the match: profile, exposure and color have to agree with the surrounding courses, and a piece that sits proud channels water sideways into the head lap instead of down the pan. Discontinued profiles are common on anything built before the mid-1990s, and salvage stock is often the only correct answer. The second is skipping the layer underneath. If the felt under the break has been rained on for a season, setting a fresh tile over it produces a roof that looks repaired and leaks in the same spot in October. The courses lifted to reach the damage also need to be refastened rather than laid back loose.
+
+### What the visit looks like
+
+The count comes first, since one visible break usually means several. Fragments come out of the pan so water can run again. The course above is lifted, the broken piece is removed whole, the felt below it is examined and patched with a compatible self-adhering membrane if it has been exposed, and the replacement is set and fastened to specification rather than propped. Hip and ridge mortar gets checked at the same time, because a piece that slipped often started with a failed bed. Work of this size normally stays well under the City's 500 square foot permit threshold, which is worth confirming rather than assuming.
+
+### What it costs
+
+This is a small flat-rate visit at the low end and the range is fairly tight. What moves it is the number of tiles, roof height and access, whether the profile is still in production, and whether the felt underneath needs patching. Matching a discontinued color is the single biggest variable. Ask for the felt condition in writing even when the answer is good news, because that note is what tells you whether next year's leak was predictable.
+
+## svc_roof_leak_repair_lede
+
+A tile roof leak is a tracing job before it is a repair job. Water enters at one place, runs along felt, a batten or a deck seam, and appears indoors somewhere else entirely, often several feet downhill and a room over.
+
+## svc_roof_leak_repair_body
+
+### The stain is not the hole
+
+Start indoors, because the indoor evidence narrows the roof. A stain that grows only in blowing rain points at a wall transition or a head lap. One that appears in any steady rain points at an open path straight down. A ring around a ceiling fixture near a bathroom is as likely to be a plumbing vent boot as anything in the tile field. Note the room, the direction the water travels, and whether the drip stops within an hour of the rain or keeps going, since a slow finish means water is sitting somewhere in the assembly.
+
+### Where Tampa tile roofs actually leak
+
+Rarely through unbroken tile. The recurring entry points are head laps where felt has shrunk back, valley metal that has rusted through beneath the tile ends, pipe boots whose collars have split, mortar-set hip and ridge that has cracked and let water past the bedding, and wall or chimney transitions where the vertical turn-up was tucked behind the wrong layer. Slope matters too: the code allows tile from two and a half units in twelve, and between that and four in twelve it requires double underlayment, so shallow slopes on 1990s and 2000s Tampa houses depend on a doubled layer that is now the same age as everything else.
+
+### Wind-driven rain is a different failure
+
+Hurricane Milton came ashore at Siesta Key as a Category 3 on October 10, 2024, and the National Hurricane Center's report puts hurricane conditions from Clearwater Beach and Tampa southward with an 83-knot gust reported at Tampa International Airport. Rain in that state does not fall on a roof, it is pushed across and up it. That is exactly what the secondary water barrier requirement exists for: the Florida Building Commission describes it as a water-resistant underlayment layer that resists intrusion when the primary covering is damaged, removed or penetrated by wind-driven rain in hurricane-force winds. Practically, a roof can pass a garden-hose test and still leak in a squall, which is why a repair scope written after a storm needs to cover the whole run of the affected slope rather than one tile.
+
+### The mistake that costs the second visit
+
+Sealing where the water shows. A bead of mastic at the drip point, a smear across the crack in a mortar ridge, a tarp thrown over tile and weighted with the tiles it is meant to protect. All three move the symptom rather than the water. The related error is stopping at the first thing found. If the pipe boot is split and the felt around it has been wet for two rainy seasons, replacing the boot buys one dry month. A repair scope should say what was found, what was ruled out, and how far the wet area extends past the visible damage.
+
+### What the visit looks like
+
+Interior first, then the attic where one exists, reading stains and framing for the direction of travel. On the roof, tile comes up above the suspected entry and works upslope in a widening pattern until dry felt is found, because the opening is always uphill of the stain. Fasteners, valley metal, boots and the mortar at hips get inspected while the field is open. Repair means patching or replacing the felt over the affected area, tying new membrane into sound material with the laps running the correct direction, replacing failed metal, then relaying tile with breakage accounted for. Where the exposed area grows past 500 square feet the City's permit and its dry-in inspection before tile goes back down enter the schedule.
+
+### The insurance detail worth knowing before you call anyone
+
+Two 2022 changes shape what a leak costs a Tampa homeowner. Senate Bill 2-D created the separate roof deductible now at section 627.701(10): it may not exceed the lesser of 2 percent of the Coverage A limit or 50 percent of the cost to replace the roof, and it does not apply to a roof loss from a hurricane, to a tree fall or similar hazard that punctures the deck, to a total loss, or to a roof loss requiring repair of less than 50 percent of the roof. That last exclusion is why a documented, measured repair area matters on paper. Separately, section 627.7011 requires an insurer to pay at least actual cash value up front and the remainder as work is performed. A leak repair invoice that describes the failed layer and the measured area is a far more useful document than one that says roof repair.
+
+### What it costs
+
+Leak repairs price by how much tile must come off and what is under it, not by the size of the stain. A boot, a short valley run or a single open lap sits low. A slope where the felt has failed across a wide area moves into section work, where every tile in the area is inventoried, stacked and reset. Ask what the estimate assumes about the felt beyond the opened area, and ask what happens to the price if the crew finds wet decking, because that is the branch point on nearly every Tampa tile leak.
+
+## svc_roof_tile_replacement_lede
+
+Missing tile is an exposure problem before it is an appearance problem. Every gap is a patch of felt taking direct sun and rain, and on a Tampa roof the pieces almost never leave from the middle of a slope.
+
+## svc_roof_tile_replacement_body
+
+### What the gaps tell you
+
+Tile leaves from the edges. Look at the rake, the hip, the first courses above the eave, and the ridge, because that is where uplift concentrates and where the code concentrates fastening in response. Section 1507.3.6 defines those perimeter fastening areas as three tile courses and not less than 36 inches from either side of hips or ridges and from the edges of eaves and gable rakes. If pieces are gone from those bands and the field is intact, the roof behaved normally under wind. If pieces are missing mid-slope, suspect prior work, foot traffic, or attachment that was never right.
+
+### The wind zone Tampa is actually in
+
+The strictest chapters of the Florida Building Code, the High Velocity Hurricane Zone provisions, apply only in Miami-Dade and Broward counties. Tampa is not in that zone, which sometimes surprises people who have read Miami roofing advice. The city sets its own line instead: the Tampa code of ordinances defines a basic wind speed line by contour map and allows a non-site-specific design at 120 miles per hour for areas landward of the 120 mile per hour line. Hillsborough County publishes windborne debris maps at 130, 140 and 150 miles per hour, which is how an address gets sorted. The practical consequence is that a replacement tile here has to be attached according to a statewide product approval and the wind speed applicable to your address, not according to whichever detail a crew learned on the other coast.
+
+### Matching what is gone
+
+This is where a replacement job succeeds or looks like a repair forever. Profile, exposure, thickness and color all have to agree with the surrounding courses. Tampa's older tile is a real sourcing problem: the Ybor City historic district covers 1886 to 1940, Tampa Heights 1890 to 1945, Seminole Heights 1912 to 1939, and clay profiles from those decades are long out of production, so salvage stock or reclaiming tile from a less visible slope is often the honest answer. Concrete tile from the subdivision era is easier, though colors fade under Gulf sun and a factory-fresh piece can read as a patch on a twenty-year-old roof. Ridge and hip pieces on the 1920s houses are commonly mortar-set, which means the bed gets rebuilt, not just the tile replaced.
+
+### The trap where replacement turns into retrofit
+
+There is a threshold worth knowing before a crew starts pulling tile. Existing Building code section 706.7 provides that when a roof covering on an existing structure with a sawn lumber, wood plank or wood structural panel deck is removed and replaced, roof-decking attachment and a secondary water barrier requirements come with it, with an exception for structures already permitted subject to the Florida Building Code. That is the same distinction Tampa's roofing guidance draws when it points homes permitted before March 1, 2002 to the hurricane mitigation retrofit requirements. The state ties roof-to-wall work to the same moment: section 553.844 requires those connections in the windborne debris region on buildings with an insured or just value of $300,000 or more, and caps the obligation so that evaluation and installation stay within roughly 15 percent of the cost of reroofing. Replacing scattered pieces does not trigger any of this. Removing and replacing the covering over an area does, and the difference should be stated in the scope before anyone quotes it.
+
+### What not to do while you wait
+
+Do not leave bare felt uncovered through a rainy week, and do not climb up to cover it. Exposed underlayment fails from the top down, the tiles bordering a gap are the loosest ones on the roof, and a foot on the course beside a gap usually adds to the count. Do not glue a salvaged tile down with construction adhesive or bed it in mortar simply because that is what is in the garage. Do keep the fallen pieces, including broken ones, since a fragment identifies a profile faster than a photograph and can supply a color reference.
+
+### What the visit looks like
+
+Count and location first, then attachment method, since the roof will already tell you whether the tile was nailed, foam-adhered or mortar-set, and the replacement has to match the system. Bordering courses get lifted and inspected, felt under the gaps gets read and patched where sun has reached it, sourcing gets settled before the crew books a day, and the new pieces get fastened to specification with the perimeter bands treated as perimeter. Where the exposed and relaid area is large enough to require a permit, the dry-in inspection before tile goes back down sets the calendar. Expect a note about tile that breaks during handling, because pieces lifted after twenty years of sun are brittle.
+
+### What it costs
+
+Pieces and labor at the low end, with the range widening for height, slope, mortar rebuild and sourcing difficulty. Availability drives it more than quantity: fifty in-production concrete tiles can cost less to set than a dozen matched clay barrels chased through salvage. Ask whether the price includes felt patching under the gaps, whether ridge or hip mortar is being rebuilt or just repointed, and how many spare tiles will be left on site, because the next windy afternoon is easier when the matching pieces are already in the garage.

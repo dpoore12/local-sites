@@ -21,41 +21,25 @@ The useful details are physical, not complicated. Say whether the door is one pi
 A hard snap, then the door feels far too heavy
 
 ## symptom_1
-A sharp report from the garage followed by a door that barely starts upward is usually a failed torsion spring. The opener is designed to guide a balanced door, not lift the full mass of a steel door alone. On a torsion system, look from a safe distance at the shaft above the header. A broken coil often has a clear gap where the spring separated. With an extension-spring system, one spring may be loose along a horizontal track instead.
-
-The timing matters in Overland Park, but the cold is not the whole explanation. A spring normally reaches its end through many wind-and-unwind cycles. Cold air contracts steel slightly, stiffens old lubricant at the bearings and drums, and leaves less margin at an already fatigued point in the wire. The first lift after a hard overnight drop is where those stresses combine. That is why a spring that was merely noisy in mild weather can finally fracture on a cold morning. The January 2026 cold-weather advisory for Johnson County is a good reminder that a real cold snap is a mechanical load on an aging setup, not just an inconvenience outside.
-
-Do not use the wall button repeatedly to see if it will overcome the door. Doing so can strip an opener gear or bend the top section. Do not put a screwdriver into a winding cone. The remaining spring and cables can still be loaded. Keep the door where it is if it is down, disconnect power to the opener, and keep cars and people out from beneath an open or crooked door. The repair is measuring the existing wire size, inside diameter and length; fitting the correct matched spring or pair; resetting the cable drums; and hand-balancing the door before the opener is put back into service.
+A crack like a rifle shot in an attached garage, then a door that will not clear the slab, means the counterbalance spring over the header has parted. That opener was sized to guide balanced weight, not hoist it. Leave the door down, pull the plug at the ceiling outlet, and take the other car out instead.
 
 ## symptom_2_title
 It reaches the floor, then reverses by itself
 
 ## symptom_2
-When a closing door returns straight to open, its safety circuit is responding to an obstacle signal or mechanical drag, not automatically calling for an opener replacement. Photo eyes sit near the floor on both sides of the opening. Their beam must be clear and aligned before the opener will close the door. A bin, bicycle wheel, leaf pile, cobweb, or a bracket knocked slightly askew can interrupt that beam. Check for obstruction first, wipe each lens with a clean dry cloth, and look for a loose bracket. If an indicator light is out or flickering, do not bypass the sensor to force the door down.
-
-The second possibility is resistance in the door itself. A roller that no longer turns, a hinge binding between sections, a swollen weather seal frozen to the slab, or a track that has moved out of alignment makes the closing cycle harder. The opener reads that resistance like an object in its path and reverses to protect it. Turning up the close-force setting may make the symptom disappear for a day, but it also removes the warning that a mechanical part is dragging.
-
-Overland Park's frequent temperature swings make the distinction useful. After a thaw and a refreeze, moisture at the bottom seal can grab the concrete and cold-thickened lubricant can make rollers sluggish. The right response is not force. A technician checks the eyes, the travel limits and the actual hand movement of the disengaged door. If the door moves freely and the sensors are sound, the problem may be in the opener controls. If it binds by hand, the repair belongs at the rollers, hinges, track or spring balance first. The door should be corrected before the opener is asked to compensate for it.
+The bottom seal touches concrete and the door rolls straight back up. That is the entrapment circuit every opener head has carried for decades, not a dead motor. Check the beam between the two eyes near the floor for a recycling bin, a bike tire or a snow shovel, then dry both lenses with a rag.
 
 ## symptom_3_title
 One side is low, a roller escaped, or a panel took a hit
 
 ## symptom_3
-A garage door that sits lower on one side, leans in the opening, or has a roller outside the track is not a door to test one more time. The cables, rollers and track share the job of keeping a heavy moving assembly square. Once one side loses that geometry, operating the opener can pull the other cable loose, crease a section, or drop the door farther than it already has. Stop the opener at the outlet and keep the opening clear.
-
-A cable commonly comes off its drum after the door is pulled against an obstruction or after a spring failure lets the door settle unevenly. A cracked roller can climb out at the curve between the vertical and horizontal track. A bumper strike at the jamb can bend the track just enough to make the problem repeat. Panel damage can also be a clue rather than the main concern: a dented skin may be cosmetic, while a bowed reinforcement strut or shifted track behind it makes the door bind every cycle.
-
-For an Overland Park service visit, say what happened immediately before the door became crooked. Was the door closing onto a tool, did a vehicle brush a track, did the spring make a loud noise, or did the door stop after an icy morning? That tells the technician whether to bring track sections, cables, rollers, hinges, or all of them. The work starts by securing the door so it cannot move. The damaged roller or cable is addressed, the track is checked for plumb and spacing, and the lift cables are reset with matched tension. Then the door is moved manually and balanced before it is reconnected to the opener. A panel is considered only after the running gear is safe again.
+One side hangs low, a roller has jumped the curve where vertical track turns horizontal, or a section is creased where a bumper found the jamb. Cables, rollers and track keep several hundred pounds square, and one more test cycle can unwrap the second drum. Kill power at the outlet and keep the bay clear.
 
 ## symptom_4_title
 The opener makes noise but the door does not travel
 
 ## symptom_4
-When the motor can be heard but the door remains still, look at the relationship between the opener rail and the door rather than assuming the whole unit is finished. The trolley may have been separated from the carriage by the emergency release cord. This can happen after a power outage, after somebody uses the release, or when a stored item catches the cord. If the rail moves but the arm attached to the door does not, a technician can inspect the engagement and reconnect it only after confirming the door is balanced and safe to move.
-
-Grinding, clicking, or a motor that runs briefly and stops points somewhere else. On many chain-drive units, a worn internal drive gear can let the motor turn without moving the chain. A belt or chain that does not move may indicate a failed gear, sprocket, capacitor or control component. None of those conclusions should be drawn just from the noise. A spring failure can make an otherwise healthy opener appear weak because it is facing a door it was never meant to lift by itself.
-
-Start with the simple safe checks. Verify that the opener has power, that the lock on the wall control is not active, and that no object is blocking the safety eyes. Do not pull the emergency release when the door is open or suspended; without a balanced spring, the door may come down fast. If the door is closed and the spring appears intact, leave the diagnostic to the technician rather than repeatedly cycling the motor. The on-site check separates a disconnected trolley from an internal opener part, then includes a balance test of the door. That order prevents an unnecessary opener replacement when the real fault is a counterbalance or track problem.
+Motor noise, no travel. Often the trolley is parked off the carriage because somebody pulled the red cord during a Johnson County outage. Sometimes a chain-drive gear has shredded and the sprocket turns alone. Never pull that release with the door raised, because nothing under it is holding the weight.
 
 ## qa_1_question
 Do Overland Park garage door projects need a permit?
@@ -236,3 +220,140 @@ Ask for the spring specification in writing: wire diameter, inside diameter, len
 ### What the national average does not carry
 
 Published averages assume one door type, one climate and a technician five minutes away. They leave out the containment cables an older single door needs, the reduced-radius rail a low-headroom garage takes, the reinforcement strut an opener requires before it starts pulling on a thin section, and the second visit when a discontinued panel color has to be ordered. They also leave out labor economics: federal wage data puts the median metro carpenter at $29.72 an hour, and a stocked service truck with insurance and parts inventory bills a multiple of that hourly figure. None of the ranges above is a quote. They are what this market has been paying, and the actual number comes from whoever measures the door.
+
+## services_summary
+Four different jobs hide behind one stuck door in Overland Park. Spring repair renews the counterbalance over the header. Opener repair covers photo eyes, gears, logic boards and the trolley. Off-track work resets cables, rollers and bent track. Replacement handles a creased section or a whole insulated door. Confusing them is expensive here: buy an opener because the motor strained and you own a new head still facing an unbalanced door, and send torsion hardware to a 1950s Nall Hills garage running extension springs and the correct parts arrive on a second day. Naming the failure first avoids both bills.
+
+## services_pick_head
+Start with the failure your garage is actually showing
+
+## crosslink_head
+A different failure than this?
+
+## svc_garage_door_spring_repair_lede
+Overland Park went from 28,085 residents in 1960 to 77,934 in 1970, and the garages arrived with them. Spring failure here is a cycle count running out, usually on a January morning, and the fix is measured hardware rather than a stronger opener.
+
+## svc_garage_door_spring_repair_body
+### The sound, and what to look at from ten feet back
+
+A parting torsion spring is loud enough to wake the whole house, and the door that follows will lift a few inches and quit. Stand well back from the opening and look at the shaft above the header. A failed wound spring shows a clean gap between coils, often an inch or two wide, and the broken end sits cocked on the shaft. On an older single door you may instead see long coils running beside the horizontal tracks; there, one spring hangs slack while its partner stays stretched. Either way the door now hangs on lift cables that were never meant to carry it by themselves.
+
+### Torsion or extension depends on when your street went in
+
+The hardware follows the building boom. Overland Park held 28,085 people in 1960 and 77,934 by 1970, and garages from that stretch sit lower and tighter: Nall Hills organized around 64 houses in 1956 and now covers 1,271 of them between 95th Street and Indian Creek, and the Oak Park association counts 2,342 homes across nine subdivisions straddling the Lenexa line, with Perry Lane houses dating to 1970. The city passed 111,790 residents in 1990 and 197,381 in 2020. That later wave produced Deer Creek around a golf course opened in 1989, LionsGate through the 1990s and early 2000s, and Mills Farm in 66221 after that, mostly wide sectional doors carried on a torsion shaft. Median build year across the city is 1989, which is a midpoint and not a description of any one driveway.
+
+### Cycle life is the clock that actually runs out
+
+ANSI/DASMA 102 sets the floor: a residential door system is designed to operate a minimum of 10,000 cycles when properly selected, installed and maintained. A household that raises the door four times a day spends about 1,460 cycles a year, so builder-grade hardware at that rating is used up in roughly seven years. Add a second driver, a trash cart trip and a dog walk and the clock speeds up. DASMA's guidance on cycle life points at two variables a homeowner controls, lubrication on the manufacturer's schedule and keeping the door closed in a climate of extreme heat or cold, and Kansas supplies both extremes.
+
+### Why a January morning is when it lets go
+
+Cold does not break sound steel. It removes the margin around wire that has already cracked. The 1991 to 2020 normals for the Kansas City station count 93.3 nights a year at or below 32 degrees, 26.4 of them in January alone, and Overland Park's own adopted code table works from a 6 degree winter design temperature. On January 24, 2026 the weather service had Johnson County under a winter storm warning with wind chills near 17 below and four to six more inches of snow coming. On that kind of morning the bottom seal is frozen to the slab, the drum bearings are stiff with chilled grease, and the first lift of the day asks the spring for more torque than it has left to give.
+
+### The winding cone is where people get hurt
+
+A residential torsion spring holds hundreds of inch-pounds of stored torque and releases it through whatever is sitting in the cone. Bars cut for that cone, worked two at a time, are the only correct tool. A screwdriver shank, a bolt or a length of rebar will kick out. Nothing on a two-spring shaft should be treated as discharged just because one side broke, and the cables stay loaded even then. Keep the door on the floor, unplug the head so nobody presses the wall button out of habit, and resist the urge to lift by hand to judge how bad it is.
+
+### What a rushed swap leaves behind
+
+Fitting one spring to a two-spring shaft is the usual shortcut. New wire and tired wire no longer match in torque, the door climbs with one shoulder high, and the survivor is dragged to its own failure within a season. The second shortcut is reusing cables that already show broken strands where they wrap the drum. The third is bolting the opener back up without balancing anything: a door that will not hold near waist height with the carriage disconnected is not balanced, and turning the force up simply hides that from you until the gear or the top section pays for it.
+
+### What the work involves, and what shapes the cost
+
+Measurements come first, wire diameter, inside diameter, overall length and wind direction, along with the weight the door actually carries now including any insulation, struts or replacement sections added over the years. Matched springs go on as a pair, drums are reseated and both cables tensioned alike, the door is balanced by hand, then travel and force are reset last. In this market a spring job is a parts-and-labor repair with a reasonably tight range, and what moves it is wire size, door width, whether cables and end bearings go at the same time, and whether the visit is a scheduled weekday or a subzero Sunday. A higher cycle rating is the one upgrade that pays for itself; the pricing page carries the ranges being charged around the metro.
+
+## svc_garage_door_opener_repair_lede
+An opener is three systems in one housing: a motor and gear train, a safety circuit written into federal rules, and a logic board that sits in an unheated garage through 93 freezing nights a year. Each fails differently.
+
+## svc_garage_door_opener_repair_body
+### Three noises, three separate faults
+
+The sound narrows it down faster than any guess about the brand. A motor that hums for a second and stops usually has a starting or control component, or a door too heavy to move. Grinding while the chain sits still points at a stripped drive gear inside the head. A rattling travel with the door creeping and stalling is friction somewhere in the track, not weak electronics. And a motor running its full travel while the door never leaves the floor almost always means the trolley is no longer engaged with the carriage. None of those four conclusions can be drawn from the driveway, but describing which one you hear decides what parts ride out to the appointment.
+
+### The safety circuit is federal, and older than plenty of these garages
+
+Openers manufactured on or after January 1, 1993 have to carry an external entrapment protection device, meaning photo eyes or a door-edge sensor, or else a constant-contact wall button that cannot be closed from a remote at all. The requirement traces back to the 1990 consumer product safety law that pulled UL 325 conformance in for openers built on or after January 1, 1991, plus a warning label at the wall control. That matters in a city where the 2000 census already counted 12,306 housing units built in the 1960s and 9,640 more in the 1970s. Plenty of those garages have had two or three heads bolted to the same ceiling joists, and a reversal problem on a mid-1990s unit is a different repair from one on a head installed last spring.
+
+### Cold weather goes after the electronics and the grease
+
+An attached Overland Park garage is not heated, and the 1991 to 2020 normals put 93.3 nights a year at or below 32 degrees with 26.4 in January and 22.3 in December. Chilled grease in the gear case and on the rail raises the effort the motor has to overcome, which is why low-temperature calcium greases are sold specifically for opener chains, bearings and gears. Battery backup packs lose capacity in the same conditions. Boards that get repeatedly cold and then warmed by a car's engine heat sit through condensation cycles, and a board that misreads its own sensor inputs after a night at 6 degrees is not a board that a force adjustment will fix.
+
+### Turning the force up is not a repair
+
+A close-force dial exists so an installer can match the opener to the door. It is not a way to overrule a door that is dragging. Raise it and the safety reversal that was telling you a roller has seized, a hinge is binding or the seal is frozen down goes quiet, while the same load keeps working on the drive gear and the top section. The correct order is the opposite: disconnect the carriage, move the door by hand through its whole travel, and see whether the resistance is mechanical. If it moves freely by hand and the eyes are clean and aligned, the fault is in the head. If it fights you, the head was never the problem.
+
+### The red cord, and why you do not pull it with the door up
+
+The emergency release drops the door off the opener, and with a healthy spring behind it that is a safe thing to do at the floor. With the door raised, or with a spring already broken, releasing the carriage hands the whole weight to gravity. Outages are the common trigger here: somebody pulls the cord to get a car out, then the trolley never re-engages and the motor runs a full cycle in an empty rail. Reconnecting it takes ten seconds, but the balance check comes first, because coupling an opener to an unbalanced door is how a good head becomes scrap.
+
+### What the visit looks like
+
+The technician starts at the door rather than the ceiling: hand travel, spring balance, roller and hinge condition, track alignment. Then the eyes get checked for alignment, lens film and a pinched wire staple, and the travel limits get read rather than assumed. Only then does the head come apart. A gear and sprocket kit, a capacitor, a logic board or a full replacement are all real outcomes, and so is the finding that the opener is fine and a spring or roller was making it look tired. Rail length, headroom and ceiling obstructions get measured before anything is ordered.
+
+### What it costs, and when replacement is genuinely right
+
+A gear kit or a sensor pair is a modest parts-and-labor repair. A full unit swap is a bigger number, and the range widens with drive type: chain, belt, and wall-mount jackshaft heads all price differently, with the wall-mount option earning its premium in a low-headroom 1960s garage where nothing wants to hang from the ceiling. Replacement makes sense when the head predates external entrapment protection, when parts are no longer made for it, or when a second failure would cost more than the difference. Replacement does not make sense as a way to avoid balancing a door. The pricing page lists what the metro is charging for each of those paths.
+
+## svc_off_track_garage_door_repair_lede
+A door hanging crooked in an Overland Park driveway is a geometry problem. Cable, roller and track failures show up after a spring break, after a bumper strike at the jamb, or after a straight-line wind loads 112 square feet of steel.
+
+## svc_off_track_garage_door_repair_body
+### Reading a crooked door before you touch it
+
+Look at the gap along the top edge and along the floor. A door that is level at the header but sitting proud on one side at the slab has lost cable tension on that side. A door with one roller standing outside the track, usually at the radius where vertical track curves into horizontal, has a cracked roller or a spread track. A door with a visible crease across a section has been driven into or has been pulled against something solid. In all three cases the assembly is out of square, the remaining hardware is carrying more than its share, and nothing about the situation improves by pressing the button again.
+
+### The three ways a door leaves its rail
+
+Most off-track calls in Johnson County start one of three ways. A spring breaks, the door drops unevenly, and one cable unwraps its drum and takes up slack in a loose loop. Second, a roller stem wears or a nylon wheel cracks, the wheel stops turning, and it climbs out at the curve where the load changes direction. Third, a vehicle nudges the vertical track at the jamb, moving it a quarter inch, which is enough for a roller to pop out at the same point on every cycle until somebody finds the bend. Reversed order matters too: a bent track can break a cable, and a broken cable can bend a track.
+
+### Wind is a real load here, and the code puts a number on it
+
+Overland Park's adopted design table lists a 115 mph wind speed with no special wind region and no windborne debris zone, so nothing here triggers the impact-rated glazing rules coastal towns live under. That does not mean the door is unloaded. DASMA treats a garage door as cladding in the high-pressure edge and corner zones, and at 115 mph with a 15 foot mean roof height its guide puts a 16 by 7 foot door at about 10 psf positive and 11 psf negative pressure, rising by roughly half again in open exposure. Spread that across a 112 square foot door and it is a real push and pull on rollers, hinges and track brackets. Severe weather here is not theoretical either: the F3 tornado of April 19, 1966 tore through the Woodstock subdivision near 96th and Knox, a neighborhood platted just two years earlier, with about 50 homes in its path, roofs moved and windows blown out, and sirens sounding only minutes ahead.
+
+### Ice, grit and the bottom seal
+
+The Kansas City normals count 93.3 nights a year at or below 32 degrees, and December and January contribute nearly 50 of them. Meltwater runs under the door, refreezes at the slab, and grabs the seal. An opener that then pulls against a frozen seal can shear a roller or drag a cable off its drum in one cycle, which is why a door that will not break loose should be left alone rather than helped with the wall button. Driveway grit and ice melt tracked into the track channel does the slower version of the same damage, packing the rail and pitting the rollers until they stop rolling and start sliding.
+
+### What not to attempt in the meantime
+
+Do not lift or lever a door that has a slack cable or a roller out of the track. The counterbalance is no longer acting evenly and the door can come around on you. Do not park a car under a door hanging out of square. Do not clamp vise grips on the track and call it secured. Cut power at the outlet, keep the opening clear, and if the door is stuck partly open, keep the bay empty until it is properly supported. Photographs of the loose cable, the popped roller and the track bracket from a safe distance are far more useful than a hand on the door.
+
+### The repair sequence
+
+The door gets locked in place with clamps and blocking before anything is loosened, so it cannot travel while the cable is off. The failed roller, hinge or cable comes out, the vertical and horizontal track are checked for plumb, spacing and flare, and bent sections are straightened or replaced rather than persuaded. Cables are reset in the drums with matched tension so both sides lift together, and the counterbalance is checked because a broken spring is often the cause rather than a coincidence. Then the door is cycled by hand, the opener is reconnected, and travel and force are reset. A dented skin gets evaluated last, because a cosmetic dent matters far less than a bowed strut behind it.
+
+### What shapes the cost
+
+A single cable and roller set is a small parts-and-labor job. A door that has come fully off, folded a section and bent both vertical tracks is a much larger one, and the difference between those outcomes is usually how many times the button got pressed after the first sign. Track sections, hinge and bracket replacement, and a spring that failed first all add scope. Doors wider than about 112 square feet carry heavier hardware and more of it. The pricing page shows the ranges being quoted across the metro for each of those pieces.
+
+## svc_garage_door_replacement_lede
+Replacing one section, replacing the whole door, and changing the opening are three different projects. Overland Park's permit exemption list, the 2018 code package it enforces, and its own 115 mph design wind speed decide which one you actually have.
+
+## svc_garage_door_replacement_body
+### One section, or the whole door
+
+A single creased or rusted section is replaceable when the rest of the door is straight, the model is still made, and the color has not drifted with fifteen summers of sun. A 1970s door in an Oak Park subdivision is unlikely to have a matching section available at all, while a door on a Mills Farm house built in 2009 probably does. Where the panel matches, section replacement is the cheaper path by a wide margin. Where it does not, a partial repair buys a mismatched door and a second decision later, and the honest answer is to price the full replacement next to it.
+
+### What the city's permit list actually says
+
+Overland Park enforces the 2018 International Codes package, including the residential code for one- and two-family dwellings, with the 2017 electrical code alongside it. Its municipal code lists the work exempt from a building permit, and that list is specific: detached sheds under 200 square feet, re-siding with anything other than stucco or synthetic stucco, re-roofing, unattached decks under 200 square feet, driveways not more than 30 inches above grade, and finish work like paint, tile and cabinets. A garage door is not on that list. What the code does say is that ordinary repairs need no application, and that ordinary repairs expressly stop short of cutting away any wall or partition or removing any structural beam or load-bearing support. So swapping a door into the existing rough opening is service work, and widening the opening or touching the header is a permit project with plan review attached. One further condition catches contractors rather than owners: an active Johnson County contractor license is required before the city will issue that permit. Call the plans examiner of the day and settle the scope before a door is ordered, not on install morning.
+
+### Insulation against a 6 degree design temperature
+
+The city's own adopted design table assumes a 6 degree winter design temperature, severe weathering, and a required ice barrier underlayment. Against that, a single-skin steel door on an attached garage is a hole in the thermal envelope of the room above it. Insulated sandwich sections cost more, weigh more and need springs sized for the extra weight, and they change how the garage behaves: warmer air at the slab means less ice at the bottom seal, and less ice at the seal means fewer of the drag failures that put rollers and cables on the repair list. Ask for the stated R-value and the section thickness in writing, and ask what spring specification the new weight requires, because the old springs will not carry it.
+
+### Wind, snow and the numbers to make the quote state
+
+Overland Park's table lists a 115 mph wind speed with no special wind region and no windborne debris zone, so no impact-rated assembly is being forced on a residential garage here. Design pressure still applies. DASMA counts a garage door as cladding in the edge and corner zones, and at 115 mph with a 15 foot mean roof height its published guide puts a 16 by 7 foot door near 10 psf inward and 11 psf outward, with an open-exposure lot multiplying that by roughly 1.48. Ground snow load in the same table is 20 psf, which matters for the framing over the opening rather than the door leaf. A quote worth reading names the door's rated design pressure, the track gauge and radius, the strut count, and the reinforcement bracket for the opener arm.
+
+### Measuring an older garage against a newer one
+
+The opening width and height, the headroom above the header, the backroom depth, the sideroom at each jamb, and the ceiling framing all get measured. A late-1950s Nall Hills garage often has minimum headroom, which pushes a low-clearance track and sometimes a wall-mounted opener. A 1990s Deer Creek or LionsGate garage generally has room for standard radius track and a conventional head. Doors in the 66221 subdivisions built after 2000 tend to be the widest and heaviest of the group. The measurement also tells you whether the floor is level, because a slab that has settled at one end leaves a wedge of daylight no door will close out.
+
+### What installation day looks like
+
+The old door comes down section by section after the springs are unwound and the cables released, and the old track and hardware leave with it. The opening gets checked for square and for rot at the jamb, new track is set plumb, sections go up with hinges and rollers as they stack, the counterbalance is wound to the new door's weight, and the opener arm gets its reinforcement bracket. Then the door is balanced by hand, the opener travel and force are set, the reversal is tested against an object on the floor, and the old door is hauled away. A single-section swap is a shorter version of the same sequence with the same balance check at the end.
+
+### What moves the cost
+
+Insulation level, section style, window inserts, hardware grade and door width move the number most, and haul-away and disposal belong on the estimate as their own line. Spring cycle rating is a line worth paying up on, since a heavier insulated door works its counterbalance harder. Custom colors and discontinued sizes add lead time rather than only money. Where framing changes, the city's published permit and plan review fees go on top. The pricing page shows what full doors and single sections are running across this market, with those city fees named.

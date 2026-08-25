@@ -20,41 +20,25 @@ Expect practical project questions. Is this a full tear-out or a focused shower,
 The bathroom looks dated, but the layout is still doing the job
 
 ## symptom_1
-A dated bathroom does not automatically need a total gut. The useful first decision is whether the room’s bones still suit the household. A vanity that blocks a door swing, a narrow tub deck that collects water, a single overhead light, worn flooring, and a shallow storage plan may each point toward a broader update. But if the fixture locations, floor structure, and shower footprint work, a focused remodel can put the budget into the surfaces and daily-use details people notice most.
-
-The site visit separates visible choices from work that affects the schedule. That means measuring the vanity run, checking clearances around the toilet, identifying where a new mirror or light needs power, confirming the condition of the fan duct path, and noting what has to come off before tile or flooring starts. In Arlington, the City lists bath remodels among common home changes that require a permit. That makes a complete scope valuable even for a room that seems cosmetic: it identifies whether fixture, plumbing, electrical, wall, or layout work changes the permit and inspection sequence.
-
-Choose finishes after the room plan is settled. Tile size, grout, trim, a recessed niche, a solid-surface top, and a new fixture set should fit the actual opening rather than a showroom display. The finished price should distinguish included demolition, protection, preparation, installation, and cleanup from selections or conditions that cannot be confirmed until access is opened. A calm remodel starts with those boundaries in writing, then follows them.
+A dated hall bath is not automatically a gut job. Walk it with a tape measure once: does the vanity door clear the entry door, is there elbow room beside the toilet, does anything sit where a second person needs to stand? Write down what annoys the household every morning. That list, not a showroom display, decides whether the room needs new surfaces or new bones.
 
 ## symptom_2_title
 The shower is stained, leaking, or impossible to keep clean
 
 ## symptom_2
-A shower can look worn for ordinary reasons: discolored grout, failed caulk at a corner, scratched acrylic, loose trim, or a door that no longer closes squarely. It can also be showing a water-management problem behind the finish. Persistent soft drywall outside the enclosure, a musty smell, loose tile, swelling at a curb, staining below the bathroom, or a floor that feels spongy deserves closer attention before a surface refresh is selected. Regrouting a shower whose backing or waterproofing has failed only hides the bigger job for a while.
-
-A proper shower-remodel scope starts at the enclosure boundaries. The existing pan or tub, drain position, wall construction, valve, niche location, fan performance, glass opening, and access from the room all affect the plan. Once demolition reveals the structure, the crew can assess the substrate and any prior repairs before building the new waterproof layer and finish. In older Arlington homes, that early access matters because the visible tile may be covering more than one era of plumbing or wall work. The plan should explain what is included for discovery and how a verified concealed condition would be handled before extra work proceeds.
-
-For day-to-day use, make choices that reduce maintenance instead of merely changing color. A shower can be planned with a practical entry, enough shelf space, a valve location that does not require standing under cold water, and materials that suit the cleaning routine. The written scope should name the enclosure, waterproofing approach, fixtures, tile area, glass or curtain arrangement, and final sealing or trim. That level of detail makes the schedule and finished room easier to judge.
+Discolored grout is cosmetic. Grout that keeps letting go in the same corner is not. Press the tile beside the valve and along the base with your thumb, listen for a hollow drum note, then check the wall on the other side for soft baseboard. Any of those and the waterproofing behind the finish has already quit. Stop resealing it.
 
 ## symptom_3_title
 The bathtub is cracked, worn through, or no longer fits the household
 
 ## symptom_3
-A cracked tub is not just an appearance issue. A crack, flexing bottom, persistent drain leak, damaged surround, or failing overflow connection can let water reach areas that were never meant to stay wet. Some tubs can be repaired or refinished when the damage is limited. A replacement becomes the more sensible route when the tub is moving underfoot, the surrounding walls need removal, the drain connection is suspect, or the household needs a different bathing setup altogether.
-
-Before choosing a replacement, the room needs a few real measurements. The team should confirm the alcove width, door and hall path, tub type, drain side, valve condition, surround height, floor condition, and whether the new unit is heavier or changes the finished floor height. The removal route is part of the work, too. A tub that reaches the bathroom only after a tight turn or requires careful protection through finished rooms should be planned that way from the start, not improvised on delivery day.
-
-A tub replacement often touches more than the tub. Removing the surround can expose supply lines, the drain and overflow, backing, insulation, or earlier repairs. Arlington’s housing profile reports that a large share of the city’s housing was built before 1990, so the scope should leave room to inspect what appears when the opening is made. That does not mean assuming trouble; it means setting a procedure for documenting a hidden condition, pricing the correction, and getting approval before the plan changes. With that handled, the new tub, wall finish, trim, and cleanup can be scheduled as a complete room project rather than a series of disconnected fixes.
+A hairline crack in a thin tub floor opens a little wider every time somebody stands on it, and the water goes underneath where nobody looks. Run two inches of water, mark the level, wait an hour. If the line drops or a stain shows on the ceiling below, the tub or its drain shoe is losing water and a refinish will not hold it.
 
 ## symptom_4_title
 Getting in and out of the tub has become harder than it should be
 
 ## symptom_4
-An accessible shower should be planned around the person using it, not sold as a one-size-fits-all conversion. A low-threshold or curbless entry, a wider opening, a built-in or fold-down seat, properly placed grab bars, a handheld shower, and controls that can be reached from the entry are all different decisions. The right combination depends on mobility, balance, caregiver access, room size, and whether the goal is easier daily use now or a longer-term change to the home.
-
-The existing bathroom decides what is realistic. Floor height, drain location and slope, joist direction, wall backing, door swing, clearances, toilet location, and ventilation can all affect the design. A true level-entry shower may require work below the finished floor; a low-threshold shower may be the better fit where the structure or budget does not support that change. The plan should explain the recommended approach in plain terms, show where the shower opening and controls land, and identify any plumbing, electrical, or framing work involved before materials are ordered.
-
-Safety details should be built into the room rather than added as an afterthought. Grab bars need solid backing, not a guess based on a tile layout. A seat needs sensible placement relative to the controls and spray. The shower floor needs a finish selected for wet, bare feet, while still being cleanable. Arlington’s permit guidance treats bath remodels as permit work, so a more involved access change should be sequenced around the required review and inspections. The result should be a bathroom that feels intentional and comfortable, with a written scope that says what will be installed and a finish date tied to the actual work.
+If you are steadying yourself on a towel bar to swing a leg over a tub wall more than a foot tall, the bar is the next problem: it is anchored in drywall. Note where you actually reach for support, and measure the door opening. Those two things decide whether a low threshold or a genuinely level entry is buildable in this room.
 
 ## qa_1_question
 Do Arlington bathroom remodels need a permit?
@@ -232,10 +216,6 @@ On a residential project that one permit fee includes the building, electrical, 
 
 Plumbers across the Dallas-Fort Worth-Arlington metro had a median wage of $29.45 an hour in May 2025, and tile and stone setters $23.04, per the BLS Occupational Employment and Wage Statistics, May 2025 release. A gut bathroom needs several days of each, plus a carpenter, an electrician, a drywall finisher and a painter, all sequenced around inspections. Texas also requires a Responsible Master Plumber carrying at least $300,000 of commercial general liability coverage behind the plumbing. Trade labor is roughly half of a Tarrant County bathroom budget, which is why two bids with identical material lists differ by ten thousand dollars.
 
-### Reading a bid like somebody who has done the work
-
-A real Arlington bid names demolition and disposal, the exact rough plumbing changes, the waterproofing system by manufacturer, the tile setting method, the square footage and allowance per square foot for each tile, the vanity and top, every fixture by model, the glass by thickness, the exhaust fan by cubic feet per minute, the permit line, and payments tied to milestones rather than dates. It says who buys materials, because an allowance bid and a fixed-price bid with named products are not comparable documents.
-
 ### The trap in this market
 
 Two of them. The first is the flat package figure that reads all-in but excludes fixtures, tile or the vanity, leaving a five to eight thousand dollar selections bill after signing. Ask which of fixtures, tile, vanity, glass and lighting are included, at what allowance. The second is the tub-to-shower conversion sold as a one-day job. A same-day acrylic wall system is a legitimate product at the bottom of that row, but it is not a tiled shower.
@@ -243,3 +223,151 @@ Two of them. The first is the flat package figure that reads all-in but excludes
 ### What the online number leaves out
 
 Published bands assume a bathroom that stays where it is, sized as it is, with sound subfloor and framing. They exclude permit and plan review, structural repair found at demolition, replacing galvanized pipe back to the main, a circuit for a heated floor, asbestos or lead work in an older house, somewhere to shower while the only bathroom is out, and the lead time on a stone slab that keeps a finished room unusable.
+
+## services_summary
+
+Four different jobs get filed under bathroom remodeling in Arlington, and the distance between them is measured in weeks and in concrete. A full remodel is a scope decision about how far past the finish you go. A shower remodel is a waterproofing rebuild whether or not the tile still looks alright. A tub replacement is an alcove, an access path and a drain connection. A walk-in shower is a floor level problem. Confusing them costs real money here, because a plan written as a surface refresh carries no line for the cast iron drain or the spent shower pan that demolition finds in a house built before 1990.
+
+## services_pick_head
+
+Start with the room you are actually rebuilding
+
+## crosslink_head
+
+Planning a different Arlington bathroom job?
+
+## svc_bathroom_remodel_lede
+
+Most Arlington bathrooms coming apart this year were framed when the room only had to hold one tub, one toilet and a narrow vanity. The decisions that move the budget are under the slab, not on the mood board.
+
+## svc_bathroom_remodel_body
+
+### Three tiers hide behind the word remodel
+
+Sort any proposal into one of three tiers before you compare it with another. The first leaves every drain, vent and supply line exactly where it sits and replaces only what you can see. The second strips the room to bare studs and bare slab, replaces substrate and waterproofing, and corrects what a previous owner buried. The third relocates fixtures, which in a slab house means cutting and repouring concrete. Finishes barely explain the gap between the first tier and the third; scope explains all of it. Two documents that both say full bathroom remodel can sit two tiers apart, and the cheaper-looking one is often the one planning to tile straight over whatever demolition uncovers.
+
+### The Arlington houses this actually happens in
+
+Arlington Economic Development Corporation's single-family housing profile puts the median year built at 1984 and reports that more than 65 percent of the city's stock went up before 1990, using Tarrant Appraisal District records. Nearer the center the numbers run older. The city's Heart of Arlington neighborhood plan describes a typical house built in 1959 at roughly 1,530 square feet, with more than 80 percent of residences there raised between 1950 and 1969 and almost 40 percent holding exactly one bathroom. College Oaks, Elm Shadows, Glynn Oaks and Mill Creek Estates all came out of the 1945 to 1960 building wave, and all four earned a high rating in the city's historic resources survey.
+
+### Cast iron under the slab is the discovery that moves the number
+
+In a house from that postwar wave, the waste line leaving the toilet flange is very likely hubbed cast iron rather than white plastic. Builders moved to plastic drain pipe through the 1970s, so the early 1980s is the practical dividing line. InterNACHI's life expectancy chart puts cast iron waste pipe at about sixty years above ground and fifty to sixty below ground, against fifty to eighty for ABS and PVC. A line laid in 1959 is at or past that window. Cast iron rarely bursts. It scales inward and rusts along the bottom of the pipe until a camera run shows a worn channel down the invert. Finding that after the new floor is set is the expensive version of finding it.
+
+### Blackland clay does not hold still
+
+The slab is not a fixed reference here. Arlington sits on Blackland and Grand Prairie clay, and the USDA description of Houston Black, the Texas state soil, records cracks a half inch to four inches wide at a twelve inch depth during dry spells, staying open ninety to a hundred and fifty cumulative days in a normal year. Slab foundations are the regional default: NAHB's reading of the Census Survey of Construction found 97.9 percent of new single-family starts in the West South Central states on slab in 2024. Ground that moves that much works on a rigid drain line, which is why old cast iron here develops sagging bellies and cracked hubs rather than even wear.
+
+### Who is allowed to move a drain in Texas
+
+State law is specific. The Occupations Code defines plumbing to include a drain or waste pipe carrying wastewater from or within a building to the sewer lateral, and section 1301.351 says nobody may engage in plumbing without the proper license or registration and supervision by a license holder. Section 1301.051 carves out one exception: an owner is not required to be licensed to perform plumbing in the owner's own homestead. So a homeowner may legally open the slab in their own house, and it remains a poor trade, because the permit and the inspection do not disappear along with the license requirement. The city's own permit guide recommends a professional for plumbing and electrical work for safety reasons.
+
+### The permit sequence and the seven o'clock clock
+
+Arlington's permit guide names kitchen and bath remodels among the changes that require a permit, and the city's permit sheet lists plumbing, electrical, residential building and concrete work as separate categories. Timing is where crews lose days. Inspections have to be requested before 7 a.m., and a request made after that gets scheduled for the following business day. Applications, payments and inspection scheduling run through arlingtonpermits.com, with a 24-hour inspection line and a counter at the One-Start Center on the second floor of City Hall. The order that respects all of it is demolition, rough plumbing and electrical, inspection, then waterproofing, tile and fixtures. A room tiled over uninspected rough-in gets opened again.
+
+### What a bid has to say before you can compare it
+
+Cost shape follows the tier, not the tile. A surface refresh sits in a fairly tight band because nothing behind the wall changes. A full strip-out widens it, because until the substrate is exposed nobody knows whether the subfloor, the vent and the drain are sound. Relocating fixtures is the widest band of all. A bid you can actually compare names the demolition and disposal, the exact plumbing changes, the waterproofing system by manufacturer, the tile setting method with an allowance per square foot, every fixture by model, the exhaust fan rating, the permit line, and what happens if demolition finds cast iron. On a multi-week job, payments tied to milestones beat payments tied to dates.
+
+## svc_shower_remodel_lede
+
+A shower that stains, smells, or sheds grout in the same spot is not asking for a color change. It is telling you the waterproof layer under the tile stopped working, probably a while ago.
+
+## svc_shower_remodel_body
+
+### Reading the failure before anyone quotes it
+
+Sort the symptoms into two piles. Cosmetic: dull grout, scratched acrylic, hard water film, a door binding on its track. Structural: grout that keeps opening at the same inside corner, tile that sounds hollow under a knuckle, a curb that has swollen, soft drywall on the far side of the wet wall, a musty smell that returns a day after cleaning, a stain on the ceiling below. The second pile means water is getting past the finish and living inside the assembly. Photographs help, but pressing the tile field with a flat hand and tapping across it tells you more, because backing that has lost its bond flexes and sounds different from backing that has not.
+
+### What is behind the tile in a postwar Arlington bath
+
+In the 1950 to 1969 stock that dominates the Central and East sectors, the original shower was usually a mortar bed over a sheet pan, with tile set into that mud. Those beds work for decades and then stop, because the pan corners are the weak point and the mortar holds water once the pan gives up. Later remodels layered on their own eras: paper-faced board with no waterproof coating, a fiberglass insert dropped onto the old bed, or mastic-set tile in a wet area where mastic never belonged. Two or three of those layers stacked in one wall is common, and each one changes how far demolition has to go before there is something to build on.
+
+### Why regrouting is the wrong answer here
+
+Grout is not a waterproof layer and was never meant to be one. Sealing a shower whose pan or backing has failed hides the evidence for a season while the framing keeps taking on water. The same goes for a new liner laid over a spent mortar bed. The tell that somebody is planning this is a scope that names caulk, grout and glass and never names the waterproofing membrane by product. Under the 2021 codes Arlington adopted in November 2022, the shower is an assembly rather than a surface. Ask which membrane, ask whether it is sheet or liquid applied, and ask to see the flood test before any tile reaches the wall.
+
+### Movement joints, and the reason that floor cracked in a line
+
+A straight crack running across a tile floor, or a line of loose grout parallel to a wall, is usually the slab telling on itself. Clay under the house swells with spring rain and shrinks through a summer that averages 20.2 days at or above one hundred degrees at the DFW airport, and rigid tile bonded to a moving slab has to be given somewhere to go. The TCNA Handbook's EJ171 detail sets interior movement joints no more than twenty-five feet apart in each direction, tightens that to eight to twelve feet where the installation sees moisture or direct sun, and calls for a soft joint at the room perimeter that base or shoe molding normally hides. A shower floor is a wet interior.
+
+### Slope, drains, and the thing under the pan
+
+A shower floor has to fall a quarter inch per foot toward the drain, and that pitch belongs in the substrate rather than faked with extra mortar under the tile. In an older bath the drain itself is often the interesting part: a cast iron shower drain with a lead bend, corroded at the connection, sitting in concrete. Replacing that assembly means opening the slab, which pulls the job into permitted plumbing work and onto the inspection calendar. It is a real cost, and it is also the one moment when the component most likely to leak for the next thirty years can be swapped for plastic while the floor is already open.
+
+### Humidity, fifty cubic feet a minute, and a fan aimed at the attic
+
+North Texas is not dry at the hours a shower runs. National Weather Service normals for the DFW airport put average relative humidity at 82 percent at 6 a.m. across the year, and 87 percent at 6 a.m. in May. That is the outside air a fan draws in while it pushes wet air out, which is why an undersized fan never clears a mirror. The residential code sets bathroom local exhaust at 50 cubic feet per minute intermittent or 20 continuous, and requires it to discharge outdoors rather than into an attic or a soffit. A duct that simply ends above the insulation is a common finding in this housing stock, and it is why a rebuilt shower grows a stained ceiling in year two. Fans themselves run about ten years.
+
+### What the work weeks look like, and what widens the range
+
+A shower rebuild is a staged week or two rather than a day. Protection and demolition, an honest look at framing and the drain, any approved corrective work, rough plumbing, inspection, backing and membrane, flood test, sloped bed and tile, grout, glass measured after the tile is set, then fixtures and final sealing. Glass is a lead time rather than a task, because it is templated on finished walls. The range on this work is driven by whether the pan is rebuilt or replaced, whether the drain moves, tile size and pattern, and whether the glass is framed or frameless. A scope that cannot say which pan it is building has not looked yet.
+
+## svc_bathtub_replacement_lede
+
+Pulling a tub looks like a one-day swap until the surround comes off. In an Arlington house of a certain age, what sits behind that surround decides whether this is a three-day job or a three-week one.
+
+## svc_bathtub_replacement_body
+
+### When a tub is genuinely finished
+
+Not every tired tub needs replacing. Surface damage on a cast iron or steel tub with a sound enamel bed can be refinished, and a chip at the rim is a repair. Replacement is the honest answer when the floor of the tub flexes underfoot, when a crack passes through the shell rather than across the glaze, when the drain shoe or overflow gasket is weeping into the framing, when the surround has to come off anyway for another reason, or when the household needs a different fixture altogether. The test is where the water goes. A tub losing water into the structure is a framing and subfloor problem wearing a plumbing costume.
+
+### Cast iron, weight, and the route out of the house
+
+An old enameled cast iron tub in a 1950s bath can weigh several hundred pounds empty, and InterNACHI's life expectancy chart gives that material a hundred years, which is why so many are still in service. Getting one out is a demolition and logistics question. Either it comes apart in the room, which means controlled breaking with the enamel covered and everyone in eye protection, or it leaves whole, which means the hall turn, the door casing and the finished floor between the bathroom and the driveway all get measured and protected first. Houses in this stock often run one narrow hall to every bedroom. That path is part of the scope, and a crew that has not walked it has not planned the day.
+
+### The measurements that have to happen before anything is ordered
+
+Alcove length wall to wall at the floor and again at the rim, because plaster and tile walls are rarely parallel. Alcove depth. Rough-in from the finished wall to the center of the drain. Which end the drain is on, since a left-hand tub in a right-hand alcove is a return rather than an adjustment. Existing tub height against the new unit, because a shallower apron changes the tile course above it. Valve type, and whether the new spout height matches. Subfloor and slab condition at the drain. Finished floor height on both sides of the threshold. Most second visits on tub work trace back to one of those numbers being taken from a listing instead of the wall.
+
+### Paint in a house built before 1978
+
+A surround coming off is demolition of painted surfaces, and in a house built before 1978 that puts the job under a federal rule. EPA's Renovation, Repair and Painting rule requires firms paid to disturb paint in pre-1978 housing to hold EPA certification, covers interior work disturbing more than six square feet of painted surface in a room, and covers demolition of painted surfaces and window replacement regardless of area. It names plumbers, carpenters and general contractors among the covered trades, not only painters. Given how much of this city was framed in the 1950s and 1960s, the question belongs in the first conversation, and the answer is a certification rather than a shrug.
+
+### Asbestos in a single-family bath, and what Texas actually says
+
+The other older-material question is asbestos, and Texas handles it differently than people expect. The Texas Asbestos Health Protection Rules state that the chapter does not apply to a single private residence, or to an apartment building of no more than four dwelling units, outside the federal situations the rule lists. That is an exclusion from the licensing scheme, not a statement about what is in the floor. Vinyl asbestos floor tile, the black mastic under it, and old joint compound all turn up in bathrooms of this era. Because no state notification is triggered, the choice to test before grinding or dry-scraping is left to the homeowner and the contractor. Wet methods and containment cost very little by comparison.
+
+### The one-bathroom problem
+
+The Heart of Arlington plan reports that almost 40 percent of houses in that area have exactly one bathroom, and those same neighborhoods hold the oldest tubs. If the tub being replaced is the only bathing fixture in the house, sequence matters more than the finish schedule. A swap in a stable alcove can be a two or three day interruption. If the surround comes off and the framing behind it is wet, or the drain under the slab turns out to be cast iron on borrowed time, that window opens up. A plan worth signing says out loud how many nights the shower is unavailable and what the fallback is.
+
+### What the visit looks like, and what widens the band
+
+The visit runs in order: measure the alcove and the removal path, check the valve and the drain, feel for movement in the tub floor, read the walls for staining above and beside the unit, and look at the ceiling in the room below. Then the surround comes off in a controlled way so the framing, supply lines, drain and overflow, and subfloor can be seen before anything is ordered. The band on this work stays narrow when the alcove is sound and the tub is a standard size. It widens with a cast iron removal, wall repair, a drain that has to be reworked, a nonstandard opening, or a tiled surround replacing a three-piece unit.
+
+## svc_walk_in_shower_installation_lede
+
+A curbless shower is a floor level problem before it is a fixture choice. On an Arlington slab, the real question is where the quarter inch per foot of fall toward the drain is going to come from.
+
+## svc_walk_in_shower_installation_body
+
+### Low threshold and level entry are two different builds
+
+These get sold as the same product and they are not. A low threshold shower keeps a small dam, often a half inch to a couple of inches, and can usually be built on the existing floor plane with a manufactured pan. A level entry has no dam at all, which means the shower floor has to begin below the surrounding finished floor so the required fall does not send water into the room. On a wood floor you recess between joists. On a slab you either cut and lower the concrete inside the shower footprint or raise the whole bathroom floor to meet it. Those are very different projects, and only one of them is a pan swap.
+
+### The slab is why this is harder here
+
+Almost everything residential in this market sits directly on the ground. NAHB's analysis of the Census Survey of Construction put 97.9 percent of new single-family starts in the West South Central states on slab foundations in 2024, and the postwar Arlington neighborhoods follow the same pattern. The plumbing code requires a shower floor to fall a quarter inch per foot to the drain, and that fall has to be in the substrate rather than conjured with extra mortar under the tile. On a slab, a genuinely level entry means saw-cutting concrete, forming the recess, and usually lowering or relocating the drain. It is achievable, and it is the single most expensive decision in a bathroom of this kind.
+
+### A grab bar carries 250 pounds or it is decoration
+
+A grab bar is a structural component. The load standard behind the accessibility codes requires grab bars, shower seats and bench seats to resist a single concentrated load of 250 pounds applied in any direction at any point. Drywall anchors do not do that, and neither does a bar screwed through tile into whichever stud happened to be nearby. Blocking goes in while the wall is open, and bar locations get settled before the tile layout rather than after. That is the whole argument for planning bars during a remodel instead of adding them later: once tile is set, every anchor point becomes a compromise with wherever the framing already is.
+
+### The reach test that belongs before the drawing
+
+Before anything gets drawn, watch how the person actually uses the room. Which hand goes out first, and to what. Whether they sit to wash or stand. Whether balance fails on the turn or on the step. Whether a caregiver needs to be inside the wet area or reaching in from outside it. Whether a walker or a wheelchair has to turn in the doorway. Those observations decide entry width, which side the bench lands on, where the fixed head and the handheld go, and whether the controls belong near the entry so the water can be started from outside the spray. A layout that skips this produces a technically accessible shower nobody enjoys using.
+
+### Older Arlington bathrooms are narrow, and that sets the plan
+
+The city's Heart of Arlington plan describes a typical house there at roughly 1,530 square feet built in 1959, and bathrooms in that stock are usually a five foot tub alcove in a room barely wider. College Oaks, Elm Shadows, Glynn Oaks and Mill Creek Estates came out of the 1945 to 1960 wave; Brasher-Keith Addition sits on Park Row Drive between South Center Street and Johnson Creek; and the Craftsman bungalows in the 500 and 600 blocks of South Center Street are older again. In a five foot footprint a bench and a level entry compete for the same inches, and borrowing depth from a closet or a hall behind the wet wall is often the honest way to get a shower somebody can turn around in.
+
+### Drain relocation, the license question, and the permit
+
+Moving the drain is where this becomes regulated work. Texas defines plumbing to include the drain and waste piping that carries wastewater from or within a building, and state law says a person may not engage in plumbing without the proper license or registration and supervision by a license holder, with a narrow exception for an owner working on their own homestead. Behind any licensed plumbing outfit stands a responsible master plumber carrying at least three hundred thousand dollars of general liability coverage. On the city side, Arlington treats bath remodels as permit work, runs applications and inspection scheduling through its permit portal, and pushes any inspection requested after 7 a.m. to the next business day.
+
+### What the build looks like, and what moves the range
+
+Expect a sequence: layout and reach decisions, permit, demolition, saw-cutting and drain work if the entry is level, framing and blocking for bars and bench, rough plumbing, inspection, waterproofing membrane and flood test, sloped bed, tile, glass templated on the finished walls, then fixtures and bars. Four things set the range: threshold or level entry, whether the drain moves, whether the footprint borrows space from an adjacent room, and glass. A curbless pan cut into a slab with a linear drain and frameless glass sits at the top of the market band. A low threshold pan in the old tub alcove sits near the bottom, and for plenty of households it is the better answer.
