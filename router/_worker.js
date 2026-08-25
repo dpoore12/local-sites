@@ -262,10 +262,11 @@ table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(-
 th{background:#eaf0f5;color:var(--brand);text-align:left;font-size:.7rem;letter-spacing:.08em;
 text-transform:uppercase;padding:.6rem .7rem;white-space:nowrap}
 td{padding:.7rem;border-top:1px solid #edeae2;vertical-align:top;font-size:.92rem}
-td.p{min-width:20rem}tr:hover td{background:#fcfcfa}
+td.p{min-width:17rem}tr:hover td{background:#fcfcfa}
 a{color:var(--brand)}.when{display:inline-block;background:#eaf0f5;color:var(--brand);
 font-weight:700;font-size:.78rem;padding:.15rem .5rem;border-radius:99px;white-space:nowrap}
-.site{font-size:.82rem;color:var(--muted);word-break:break-all;max-width:14rem}
+.site{font-size:.82rem;color:var(--muted);overflow-wrap:anywhere;min-width:10rem;max-width:14rem}
+.why{font-size:.78rem;color:var(--muted);overflow-wrap:anywhere;min-width:9rem;max-width:12rem}
 .ts{color:var(--muted);font-size:.8rem;white-space:nowrap}
 .tally{display:flex;flex-wrap:wrap;gap:.4rem;margin:0 0 1.2rem}
 .tally a{background:#fff;border:1px solid var(--line);border-radius:99px;padding:.28rem .7rem;
@@ -294,7 +295,7 @@ ${rows.map((r) => `<tr>
 <td>${esc(r.zip)}</td>
 <td class="p">${esc(r.problem)}</td>
 <td>${r.email ? `<a href="mailto:${esc(r.email)}">${esc(r.email)}</a>` : ""}</td>
-${showPitches ? `<td class="site">${esc(r.spam_reason)}</td>` : ""}
+${showPitches ? `<td class="why">${esc(r.spam_reason)}</td>` : ""}
 </tr>`).join("")}
 </tbody></table>`}
 </main></body></html>`;
