@@ -1,0 +1,413 @@
+## Ryan Doser
+##### Jun 16, 2026 (0:35:53)
+In this video I interview Kyle the "Website Landlord," who runs a rank and rent local SEO business making around $100K/month renting lead flow to local service businesses. Kyle breaks down exactly how the model works, the SEO strategies behind it, and why he believes AI search is making his business stronger, not killing it.
+
+🎁 Get my Free AI Marketing Guide - https://ai-insider-tips.ck.page/79fe0f3bb2
+🚀 Join my AI Marketing Community - https://www.skool.com/ai-marketing-insiders
+
+🔗 Video References:
+
+- Kyle's Episode on The Koerner Office: https://youtu.be/xUZYy3hCRUM?si=w-eIxgwhkFMVRkSH
+- Kyle on TikTok: https://www.tiktok.com/@websitelandlord
+- Rent Local Sites Website: https://rentlocalsites.com/
+- Other AI Rabbit Holes Videos - https://youtube.com/playlist?list=PLzJwubkSKclOQ2_v7NBRSXCx1lOUHFxxa&si=0lFUcocNoN7QOZ_A
+
+🤝 Let's Connect:
+- LinkedIn: https://www.linkedin.com/in/ryan-doser-ai-marketing/
+- X (Twitter): https://x.com/ryan_doser13
+- Instagram: https://www.instagram.com/ryandoserai/
+
+#localseo #rankandrent #aiseo #aisearch #passiveincome #seo2026 
+
+⏰ Time Stamps:
+00:00 Introduction to Kyle
+01:11 What Is Rank and Rent?
+03:17 How to Pick a Winning Niche and City
+06:44 The 80/20 of SEO - Content and Backlinks
+09:23 The Copycat Backlink Method
+10:29 Low Competition vs National SEO
+12:08 Does AI Search Kill Rank and Rent?
+15:58 The Truth About GEO, AEO, and AI Overviews
+18:40 How Passive Is It Really?
+19:46 Live Site Breakdown: New Orleans Auto Glass
+24:47 Ryan's Claude Code Local SEO Experiment
+29:06 Rapid Fire Questions
+35:11 Final Thoughts
+
+Affiliate Disclosure: Some links in the description/pinned comments are sponsored links. If you decide to purchase a paid plan with an AI tool, we may receive a commission at no extra cost to you. This helps support my channel. Thank you!
+### Transcript
+{ts:0} Welcome back to another edition of AI rabbit holes. This is a video series
+{ts:4} where we go down the endless amount of rabbit holes in artificial intelligence. And today I'm happy to have on Kyle the
+{ts:10} website landlord who runs a lot of rank and rent local SEO businesses doing I believe around $100,000 a month renting
+{ts:19} lead flow to local service businesses. So Kyle, I heard your episode on the Chris Corner podcast. I was on there
+{ts:25} myself. I wanted to get you on this podcast. Appreciate your time here. Of course, man. Happy to be here. I was
+{ts:31} glad you reached out. I can't believe the the reaction Corner's podcast had. I
+{ts:36} didn't even know how big he was until he invited me on and I'm just like, "Holy moly."
+{ts:40} I felt that same reaction. I don't know, you know, you probably got a bigger one than I did, but I was blown away by the
+{ts:44} response to my episode there. I literally went to go drop my dog off at um my dog watcher cuz we went on a
+{ts:51} cruise. We had to have my my dog watching my dog watcher, he was like, "Kyle,
+{ts:57} I literally saw you on the Corner Office. We have to talk about this." And I was like, it's crazy.
+{ts:62} It was crazy, dude. I had random family friends reaching out to me saying they saw me on this. I was like, I couldn't
+{ts:66} believe his distribution, but it was unbelievable. But anyways, the topic today we're going to be covering is kind
+{ts:71} of this rank and rent local SEO business model, right? And I could talk about local SEO and SEO in general forever
+{ts:79} here. But let's just get right into it. Like what exactly is a website landlord or rank and rent, I guess you could call
+{ts:85} it, and how is this different from just your typical marketing or SEO agency? Okay, so rank and rent, I do encourage
+{ts:92} everybody to check out the Corner Office podcast as well for a double-down response, but I'm going to try and
+{ts:96} recite it just as well as I did there. So basically uh website landlord is somebody who, let's say you're just
+{ts:104} bored one day and you're a computer science student and you're going to build out your first website ever, but
+{ts:108} you need something to build a site about. All right? So you're going to build a site for tree services in
+{ts:113} Savannah, Georgia. And you build this site and you get it ranked on the page one of Google, and you start seeing it
+{ts:119} gets a lot of traffic, and you put a phone number on that website and starts getting a lot of phone calls, but you're
+{ts:124} not a tree service guy. You just built a website, put it out there, and Google has for some reason
+{ts:128} developed an affinity for your site and put it on the top of page one, right? And that's not random, either. There's a
+{ts:134} science behind that. Exactly. There's I'm I'm giving a basic example so people could visualize the
+{ts:139} model. Well, now you have this website that's on page one of Google for tree services Savannah, and it's getting a
+{ts:144} bunch of calls, but you're not a tree service guy. What do you do? Well, I would recommend you call up a tree
+{ts:150} service company in Savannah Savannah, Georgia, and say, "Hey, I got this website. It's getting a ton of phone
+{ts:155} calls for tree services in Savannah. Maybe you could take a free trial of it and try out for 7 days and see what it's
+{ts:162} like." And so, you hook them up to the calls for 7 days. They get a bunch of leads. At the end of 7 days, you call
+{ts:166} them up, and you're like, "Hey, how did that trial go? Did you get a bunch of jobs?" And he's like, "Yeah, I closed
+{ts:171} like three different jobs. What what do we have to do to keep this going?" And I pitch them a $1,000 a month or something
+{ts:176} along along those lines. If they agree, I take their credit card information, and that's when this becomes completely
+{ts:182} passive because the website just sits there because you're in a low-competition city and niche, and the
+{ts:188} website stays there at the top, and the calls are automatically flowing to your client, and they're just paying you
+{ts:194} every month to take all that call flow your website generates. Yeah, and obviously you need to put in
+{ts:198} the work up front. There's a lot that goes into this with content and citations and other forms of backlinks,
+{ts:204} but like when it comes to picking a city and a niche to go after, that'd be the first question here. How are you doing
+{ts:210} this? Are you looking at search volume? Are you using AI to help you? Like how are you finding these demand gaps?
+{ts:215} So, there's like a whole sheet you kind of fill out that has all these different criteria. You're looking at domain
+{ts:221} authority. You're looking at trust flow, but the Okay, let me just reverse there. This is where how you dig into it. So,
+{ts:228} you'll have a whole sheet where you pick a bunch of different niches and cities that pique your interest, right? And
+{ts:233} then you start going to some of these searches like tree service in Savannah, right?
+{ts:241} So, you'll you'll once you get that search result live,
+{ts:246} you'll look at the top three results. And you'll look at spot number one and be like,
+{ts:252} "Okay, let's You're basically sizing up the competition. You're looking at site number one. You're like, okay, what are
+{ts:257} their scores like, their backlinks, their trust flow, their domain authority, their how much content do
+{ts:261} they have? Does their Does their website look like it has a good amount of pictures? Are their headings properly
+{ts:266} structured?" Just basically sizing up uh how like sizing up how strong the
+{ts:273} competition is, right? You do that for the top three sites in each market that you peruse, and then you narrow it down
+{ts:278} to the easiest targets because you're going to find so many niches and cities where the competing sites
+{ts:285} like they they seem like they were built back in 2005 and they haven't been touched since, and you could go in
+{ts:289} there, do 10% better than them, and you're knocking them out of the park forever. Because most of these small
+{ts:295} businesses in a lot of these smaller cities with like 100,000 population or less or something,
+{ts:300} you know, a lot of them are are people with a pickup truck and a tool belt, and they
+{ts:305} don't know how to do SEO themselves, and they don't have the money to gamble on some marketing company for 1,500 bucks a
+{ts:310} month who can't promise any results. And 1,500 bucks a month is on the lower end, right? I mean, you're talking 3, 5,
+{ts:316} 10 grand a month for a lot of these agencies. You know, and I look at niches like tree removal or septic is one that
+{ts:323} I've had a little success with here as I've spun this up. Um but we're not going after like plumbing and HVAC and
+{ts:330} roofing, right? Because those are eaten away by private equity with millions of dollars invested in marketing. And so, I
+{ts:336} think there's a there's a good science behind what exact niches we're going after here.
+{ts:341} Well, I want to say first of all, roofing and those those niches, those obvious niches, they're not like
+{ts:346} off-limits. They're just a little bit more difficult, right? And some cities they're not much more difficult cuz
+{ts:352} there's so many cities across the US that you could do this in and you know, it's just about the competition level,
+{ts:356} right? But typically, if you're trying to get into personal injury lawyer in Los Angeles,
+{ts:361} good luck, you know, cuz the personal injury lawyers are spending like $50,000 a month on their marketing team and
+{ts:367} you're competing against that. So, we're going after gutter installation,
+{ts:372} um epoxy floors, popcorn ceiling removal, junk removal, stuff like that, you know,
+{ts:378} where you know, you're not competing against major corporations, right? And a lot of
+{ts:383} these businesses are still, you know, a couple million, five, 10 million dollars in million dollars in revenue every
+{ts:388} year. A lot of people don't realize that. Some of them just get comfortable cuz they built their business off
+{ts:393} referrals and they never really invested into their online presence. But if I show up knocking at the door saying,
+{ts:398} "Hey, I could send you an extra 20 calls a week," they're not going to necessarily turn that down.
+{ts:403} Yeah. You know? Let's talk about the actual SEO strategy
+{ts:406} behind this, right? Like what's the 80/20 of content and backlinks and what actually moves the needle here just on a
+{ts:413} high level? So, it all starts with doing that competition research, right? Because
+{ts:419} it's really going to be determined by how easy the competition is, right? If the competition's pretty weak and you're
+{ts:425} doing junk removal in like Orem, Utah like I used on the other podcast, I mean, I didn't do my research on that.
+{ts:432} Let's just assume it's really weak competition. The majority the 80% is really going to
+{ts:437} be content and backlinks. And to elaborate on that, content is just about the words on your website are not for
+{ts:445} your customer or they shouldn't be at least. So many business owners go and write up the content on their website
+{ts:450} thinking, "Oh, what am I going to say here so my customer will purchase from me, right?" Well, that's the wrong way
+{ts:456} to go about it cuz no one's reading your content. If you have a tree service company, no one's reading the words on
+{ts:462} your website, right? They might read one sentence and find the phone number and call.
+{ts:466} You're trying to capture search intent. That's the end of the day. Exactly. What you are designing the
+{ts:471} words on your website for are is to convince Google or clearly explain to
+{ts:479} Google's algorithm, its little robot that's crawling the internet at lightning speed,
+{ts:483} it's your job with those words to clearly show Google what it is you do and where it is you do it. All right?
+{ts:491} And you'll see on my all my sites it's very blunt and clear. It's New Orleans auto glass repair, New Orleans
+{ts:498} windshield replacement in New Orleans. I'm just so abundantly clear so Google has no issue figuring out where to sort
+{ts:504} me. But then Google has to determine whether they could trust my information or not.
+{ts:508} And the way they determine that is with something called backlinks. Backlinks are links on other websites
+{ts:515} that link back to mine. And there's many different ways you can go about it. Most people when they first hear that they
+{ts:520} think, "Oh wait, so I have to go call up a bunch of website owners and ask them to put a link on their site or
+{ts:527} something? No." And there's also higher-level strategies where people shoot out emails in in mass to other
+{ts:534} websites to get like a guest post on their website so you can get a link on it. We don't do any of that, all right?
+{ts:539} Because we're doing low competition SEO. There are two main two main strategies that we do. First of all,
+{ts:545} I think a lot of people here are aware that I have a private community of students that I teach this to
+{ts:551} You don't have to give all the secrets here, you know, Kyle. We're going to talk just what local citation links and
+{ts:555} and just stuff like that. Kind of Yes, that that's part of it, but to be honest I think it's maybe 5 to 10%. I'll
+{ts:561} I'll touch on that, but I want to talk about the backlinks real quick. The thing is, um,
+{ts:565} there are two main ways to go about back linking. It's number one is you can get links from within the private private
+{ts:571} community that you join and any one you choose. And students share links with each other on their site, right? That's
+{ts:576} an easy low-hanging fruit way to go. But, the method I've used primarily
+{ts:581} throughout my time doing this is the copycat method where, basically, I could use a tool like Ahrefs or Mangools, and
+{ts:587} I could look up the backlinks of any competing site in any city across America. So, if I'm doing tree service,
+{ts:593} I can go look up a tree service company in Houston, Texas, look at the backlinks they have on their website, scan through
+{ts:600} them, and find ones that can be free and easy to get myself. It could be a blog comment. It could be a directory site.
+{ts:607} It could be, you know, there's a variety of different ways to get to get a link on another site. And the thing is, lots
+{ts:613} of people will say, "Oh, those don't work." They do work in low-competition SEO. In low-competition SEO, you don't
+{ts:620} need prime primo CNN and Forbes backlinks. You just need some activity. Google just wants to see that someone
+{ts:627} knows who you are. And you brought up a really good point there, low-competition SEO, right? Most
+{ts:633} SEO advice we hear are from people trying to compete nationally for top-of-funnel keywords. That is a
+{ts:639} completely different ballgame when you're trying to outrank Joe Bob and Steve, I think was the analogy that you
+{ts:644} used on the other podcast. Completely different. I can't stand that when people try to act like SEO is just this
+{ts:650} one thing. Local low-competition SEO is such a different game than highly competition national SEO in any niche.
+{ts:660} I saw so many comments on on those posts saying, "Oh, well, Google does updates. This doesn't work anymore." I don't even
+{ts:666} look at Google's updates. I don't care. Google's updates primarily affect massive affiliate sites or massive
+{ts:677} um massive blog sites. You know, they're they're they're focusing on these giant mega sites that are spamming the
+{ts:683} internet, right? These these big updates, Google doesn't care about rolling out an update that affects junk
+{ts:690} removal guy in Savannah, Georgia, because they're not making any money there.
+{ts:695} You know where they're making money? On personal injury lawyer ads. They're making money on, you know, their
+{ts:701} carousels where they show sell products and, you know, kitchen appliances and all that type of
+{ts:707} stuff, right? So, they don't want anything interfering that. When when you have a site that's ranking for auto
+{ts:712} glass repair in New Orleans, they're making barely any money off ad space there. So, they're not sitting there
+{ts:717} trying to shake things up like crazy. That's their focus. And that's one of the big takeaways I
+{ts:721} hope people watching or listening to this takeaway is just that big competition gap in local service SEO
+{ts:728} versus national SEO. But one thing that we talked about before the podcast recorded here, Kyle, is as AI continues
+{ts:735} to infiltrate the SERPs, right? We have Google AI overview. We have AI mode, which in my opinion, they're going to
+{ts:741} try to default a lot of queries to AI mode. But how is this going to work with what you're doing on a rank and rent
+{ts:747} level? I know local SEO is different with map packs and local search intent and competition. But in my mind, I feel
+{ts:754} like Google is going to slowly but surely kill the blue links, not all the blue links cuz they need money from ad
+{ts:760} revenue, but slowly but surely kill those blue links and have, I guess, more greater AI SERP real estate. It's kind
+{ts:767} of what I'm thinking here. But what is your response to all this? So far,
+{ts:772} AI has only helped us. And because all of our sites, people who've been doing this for a while, there's your sites are
+{ts:778} already ranking and Google's just pulling the information from the standard SERPs and moving them into
+{ts:783} Google AI. I haven't changed my strategy to adapt to AI cuz it hasn't been necessary, right? Everything we've been
+{ts:790} doing is working just as well because Google's been working for the past 30 years at developing a criteria for how
+{ts:797} to select a business to be at the top of page one. And their AI, Gemini, is going to defer
+{ts:804} to all that 30 years of hard work. It's not like the AI all of a sudden is getting to like go out into the real
+{ts:808} world and use the businesses and make better calculations. All they know is what's on your website.
+{ts:814} So, we're going to continue giving Google what it wants to see to show up in the AIs. All right? And Google wants
+{ts:821} to see what their algorithm interprets as quality content and trusted content at the end of the day. All right?
+{ts:828} Length and content. What it always comes down to. So, If you have a big mistake that people
+{ts:834} make is is thinking that oh, well, I have to make my site the expert at auto glass repair. No.
+{ts:841} You want your site to be the expert at auto glass repair in New Orleans. You're the specialist of the
+{ts:848} nuances about auto glass repair in New Orleans. So, our sites will have content about
+{ts:854} New Orleans. You'll have content about certain streets and certain crimes or something that happened that
+{ts:860} is just becoming a very local, niche, and city relevant site that Google's algorithm seems to like.
+{ts:866} And AI is making that process so much easier as it can scrape literally any directory, any site, anything available
+{ts:873} online, and you can respin that with some context and skill markdown files and create hyper-focused pages that then
+{ts:880} Google thinks that you're a local expert in this city in this particular niche. It's pretty cool what you can do with AI
+{ts:885} now. Yeah, exactly. We we spin up content on AI with very
+{ts:889} specific instructions. Back when I first started doing this business model, I used to have to pay um a content writer
+{ts:896} $25 per 500 words and it would take him 10 days to deliver it, right? Now, if I give
+{ts:903} AI ChatGPT very specific instructions, uh I could have content in seconds, as we all know, right? And it also helps
+{ts:910} with your market research, you know, how to price things. It's all around super helpful tool. There's lots of people who
+{ts:916} are afraid of like, oh, AI is going to ruin this business model or something like that.
+{ts:920} Just follow the money, all right? Google's 50% of Google's total company revenue is local service ads.
+{ts:929} We are providing the television shows for those commercials. So, when you look at the search results of Google,
+{ts:938} the top section with the ads, those are the commercials. But, what people are coming to Google
+{ts:944} for are what we're showing right below the ads. We're the television show, those are the commercials. And if with
+{ts:951} Google doesn't have us, they don't have any platform to sell on. You see what I mean?
+{ts:956} Yeah. No, I completely agree with you. And I think one thing that is, I guess, misspoken about GEO, AEO, LLMO, you
+{ts:964} know, whatever it's called now, insert new acronym of the week it seems these days. One thing that's really
+{ts:968} misinterpreted here is that Google or when ChatGPT, Claude, Gemini, and all these LLMs, when they're retrieving
+{ts:975} their answer for a particular query, one of the top things they do is actually retrieval of real-time Google search
+{ts:981} results and real-time Bing search results. So, if you're not already mastering the traditional SEO
+{ts:987} fundamentals of trying to show up on Google or Bing, you're already shooting yourself in the foot if you're trying to
+{ts:992} do like these black hat secret AEO GEO tactics that you saw on a social media post somewhere. It just doesn't work
+{ts:999} like that. And a lot of people just don't get that. I will say the one way I see AI
+{ts:1004} affecting um SEO in general, it opens you up it it opens up more long tail searches. Cuz now all of a sudden people
+{ts:1012} feel emboldened to be like, okay, well, I don't want to just type in roofers Houston right now.
+{ts:1018} I want to search I'm looking for a roofer who specializes in uh Spanish tile roofs, and is
+{ts:1025} affordable, Right. and they're you know, um
+{ts:1028} you know, they're they're licensed and insured and all this, right? You can put in all this criteria, and the AI will
+{ts:1034} maybe deliver you an accurate result. But, the reason that's great is because we
+{ts:1041} could just go to our websites and just start making them a bit more fleshed out. And it's not that hard to make
+{ts:1045} sites fleshed out anymore, especially since we have AI to whip up content for us. So, I'm going to make sure my site
+{ts:1050} has content about red tile roofs, shingle roofs. Um it's going to use the word affordable
+{ts:1055} a lot in the content. It's going to use the word licensed and insured a lot on the on in the content. I'm just going to
+{ts:1061} put as much content on the site to cover all my bases. And at the end of the day, there's no way you can cover every
+{ts:1068} single search long-tail search that people are going to do. And I want to re-emphasize this. I don't know if I
+{ts:1074} said this already. People are worried like, "Well, how are you supposed to rank for all those
+{ts:1078} different variations?" I don't care to. I don't want to. I'm not My goal isn't to get all the leads
+{ts:1086} in the market. My goal is to capture 1 to 5% of the daily demand for that service so that I could forward it to my
+{ts:1094} business owner who pays me a flat fee a month. My business owner isn't expecting 100 calls a day for his
+{ts:1100} $1,000 a month fee. If I send him one to three calls a day, he's overjoyed to pay me that $1,000 a month. So, don't stress
+{ts:1110} out. You don't have to be the best. You don't have to worry about optimizing to the fullest. This is a business model
+{ts:1114} where it's like we're just taking a scrap of the pie, and that's enough. You know.
+{ts:1118} mentioned this as passive now as time goes on. I guess how often are you coming in here and updating these sites
+{ts:1124} if the updates are warranted? So, when I was first starting out, I would go back and look at my rankings
+{ts:1129} every single day, right? I was like, "Oh my god, I moved from spot one to spot two. What am I going to do?"
+{ts:1134} I don't look at my rankings at all anymore. I I I look at my call volume. That's all that matters.
+{ts:1139} You're using CallRail, right? Yes, CallRail. So, I have plenty of sites that are ranking
+{ts:1145} in spot four or five, and they're still getting 50 to 80 calls a month, right? And
+{ts:1152} and it's it's So, it's like I don't care if I'm not number one. All I care about is if the calls are flowing. If I see
+{ts:1157} the calls massively dropped off, which is a very rare occurrence, um then I'll go back and look at what's
+{ts:1164} going on, right? And I'll do something to correct it. But 98% of the time, never going back to any of the sites
+{ts:1171} I've ever built. Um my auto glass site that I showed in the other podcast, and I'll I'll show here as well if you want.
+{ts:1177} Um that site, I built it 5 years ago. I haven't touched it. I haven't gone into the platform since I got it ranked.
+{ts:1185} So, why don't we do that? Why don't we transition into New Orleans auto glass repair, I think is what the
+{ts:1191} the rank and rent site was. All right. I'm going to type in, you know, is it fair to say that if
+{ts:1196} somebody's looking for auto glass repair in New Orleans, they type in auto glass repair New Orleans? Is that fair a
+{ts:1203} search? Yeah. Type that
+{ts:1206} And we talked about this earlier, too. I'm surprised Safelite, right, isn't in the mix here because when I think of
+{ts:1211} auto glass repair, like Safelite has the monopoly in this space. Let's see if they're Yeah, they're down
+{ts:1216} here, number four, right? So, about that, when you see something like Yelp or Safelite in the top spots of the
+{ts:1226} search result, that's usually your first indicator that this is going to be low-hanging fruit,
+{ts:1231} right? It's just one clue of many, right? The reason that is is because Google wants to show a local specialist.
+{ts:1239} Google does not want to show Safelite or Yelp. Technically, they're competitors because they're generating leads for the
+{ts:1245} same service Google's trying to generate leads for, right? But the reason they're showing them in
+{ts:1250} the top spots is because they have nothing better to show. In comes us, who gives Google what it wants, and then
+{ts:1257} we're outranking Safelite and Yelp very quickly. Because Google sees Yelp and Safelite as like spam sites. They're one
+{ts:1265} site with a million pages just targeting every single city across America. Google would prefer to show a local business's
+{ts:1272} site that gives the searcher the information he's looking for, the business he's looking for. I think I
+{ts:1277} hammered that in clearly, right? So, what you'll see here is my site. It's ranking so well that it's pinned even
+{ts:1284} above the map section over here, right? You Most people would think, "Wait, that's an ad." No, if it was an ad, it
+{ts:1291} would say sponsored, right? No, I'm just ranking so well that I'm where Google would like to normally put the ad. So,
+{ts:1296} you click here. Here's my site. All right? Nothing crazy.
+{ts:1301} Nothing crazy. But, if you're looking for an auto glass shop, do you care? No.
+{ts:1306} No, you want your auto glass guy's website to look like this, you know? And I always tell people that, you know,
+{ts:1311} sometimes, you know, I do a lot of AI website landing page stuff, and some comment I'll get back sometimes for
+{ts:1316} people is they'll say, "Well, this looks like it's AI." Or this and that, and it's like, here's the deal, guys. If I
+{ts:1322} need to get my auto glass, you know, repaired, I don't care. I'm picking up the phone, I'm entering a contact form,
+{ts:1328} and I'm getting a solution to the problem. I'm not sitting here analyzing, "Is this AI?" Or look at this website.
+{ts:1333} No one cares about that. No one cares for these small local services. And And then here's the thing,
+{ts:1339} maybe there are five people a month who do care, right? Who cares? Let them go off and call someone else. I'm still
+{ts:1346} getting plenty of people to justify my client paying me. If you called up your personal buddy who's a contractor, and
+{ts:1354} you call them and say, "Hey, I got five guys who want to do work with you." You're telling me that he's not going to
+{ts:1359} want that? Yeah. No.
+{ts:1361} So, how big are these sites? You know, are these, you know, five, 10, 20 pages? Like, talk about the architecture here a
+{ts:1366} little bit. So, every site's going to be different. I mean, I I have sites that are one page
+{ts:1371} and ranking number one, right? Cuz it's all about the competition level, like I talked about. So, this site I built out
+{ts:1377} and fleshed out maybe like 10 pages total. I have location pages here, I have service pages, right? Very basic
+{ts:1383} stuff, like windshield replacement, right? Mobile windshield replacement services in the New Orleans area. How
+{ts:1389} could Google screw that up? They're going to know exactly what it is and where I do it.
+{ts:1393} We are windshield repair and replacement We are a windshield repair and replacement service in New Orleans,
+{ts:1399} Louisiana. You know, very clear, very uh to the point. But like let's look at
+{ts:1404} some of these location pages cuz Metairie, if you're not familiar with New Orleans,
+{ts:1408} Metairie is like the adjacent city to New Orleans. So my client services all these areas, right? Metairie and Kenner.
+{ts:1416} So I click here, I have a whole page about windshield replacement in Metairie,
+{ts:1420} right? Windshield cracks in Metairie, right? And look, look at this last paragraph. Metairie, Louisiana auto
+{ts:1427} glass repair. And this This paragraph is just literally just adding more to the local relevance of my site. Says
+{ts:1433} Metairie is known as the first suburb of New Orleans, Louisiana. It's located in the south shore of Lake Pontchartrain
+{ts:1438} between the great city of New Orleans and Kenner. Metairie and Metairie is geographically separate from New Orleans
+{ts:1443} by the 17th Street, blah blah blah. It's just like some in-depth info about New Orleans. So it adds to my local
+{ts:1450} relevancy on top of my auto glass expertise. You see what I mean? And this is a proven formula, right?
+{ts:1456} Obviously now you know what works. You can apply insert niche, insert city, and then just rinse and repeat same formula
+{ts:1464} across the board. The most successful people I know in this space are people who know how to
+{ts:1469} tap into that robotic mentality where it's like, "Okay, this worked. I made a thousand dollars off this.
+{ts:1477} Don't reinvent the wheel. Just rinse and repeat whatever you just did over and over and over until you can't take it
+{ts:1483} anymore and all of a sudden you're at $20,000 a month passive income." Yeah. And I want to go back If you can
+{ts:1488} go back to Google search here, I want to do a live SERP check because I didn't tell you this part, but when I listened
+{ts:1493} to your episode with Chris Connor, got a little inspired and wanted to try to build my own rank and rent website with
+{ts:1498} some Claude code systems I have going on here. And so, one example that I did was a fake septic tank business in Des
+{ts:1505} Moines, Iowa. So, septic tank pumping Des Moines, Iowa, you know, some related query to that. It's going to look a
+{ts:1511} little different nationally probably than me actually living in Des Moines searching locally. Um but it's just
+{ts:1516} desmoinesseptic.com. I think that's it right there in the middle of page one, yeah. I'm ranking for legitimate septic
+{ts:1522} businesses and this was built with Claude code Cloudflare using the Astro web framework and GitHub.
+{ts:1528} Beautiful. And the best part is I spent a couple hours building this. So, I saved all
+{ts:1533} that context, saved it as a skill markdown file, and I can pump these sites out in literal minutes now with
+{ts:1539} Claude Fable. That's amazing. Yeah, and and you know, the only reason we don't typically
+{ts:1544} encourage like the students I I mentor, the reason I don't usually encourage AI, even though it's working here, is just
+{ts:1551} because it's good to learn how to put together a site um in the specific criteria it takes to
+{ts:1558} rank. Cuz sometimes when people use AI, it could just go off on its own and, you know, use strategies that don't
+{ts:1564} necessarily work and you could spend the next three ones months not knowing why you're not ranking and you have to
+{ts:1570} deconstruct it. But you also have an SEO background or marketing background Let's go to the blog section. I want to
+{ts:1576} show you something pretty crazy about this that blew me away. If you click on the blog and if you click on the five
+{ts:1580} best listicle, five best septic tank company. So, this is actually starting to show up in some AI search results. If
+{ts:1586} you click on that, this is a 100% AI generated image. It took the logo that was AI generated, created a localized
+{ts:1593} septic guy pumping that looks like Des Moines, Iowa, put that logo on the truck, and it's like this across the
+{ts:1599} board for all images. So, tell me, I'm curious, how long has this been on page one?
+{ts:1605} Uh I mean, I built it maybe a month ago and it took maybe a week, if that, probably to go to page one.
+{ts:1611} probably See, this is the thing. Most people would go, "Oh, I'm going to build a site all about plumbing." But, you're
+{ts:1616} doing septic, which is leads you could sell to a plumber, a specific a little over five leads so far. So, I'm
+{ts:1622} just in the beginning stages of this. And think about it. Like, the reason this is working is because you niche
+{ts:1627} down even further to reduce the competition to such a level to where you're going to
+{ts:1632} be ranked quickly. It's all about the competition level. Normally, when people are joining our program, I tell them
+{ts:1637} it's going to be like 3 to 6 months to land your first client, right? I don't want to over-promise and under-deliver,
+{ts:1643} but opportunities like this happen all the time if you're willing to niche down to specific services. I'm curious,
+{ts:1648} though, you have a phone number on here. It's a CallRail number, I presume, right?
+{ts:1652} Have you gotten any calls yet? I have. I've gotten about five calls, a couple form submissions. [laughter]
+{ts:1658} That is awesome, man. I am so stoked about that. And it's only going to get better. So, legit calls, you listen to
+{ts:1663} them? Legit calls. A couple Angie's List and stuff like that, right? You know, you
+{ts:1667} know the typical local calls like that, but Tell me, like, even right now, let's say
+{ts:1671} you're getting five calls a week. Is that a fair estimate? Yes, I would say one or two a week just
+{ts:1677} based on past results, but we'll keep this pumping. So, this is not really enough calls for
+{ts:1682} a flat fee deal where this would be completely passive, but 100% you could call up a plumbing company and offer
+{ts:1689} them a 10% commission deal or a per lead deal, and you're making money. I mean, maybe not as much as you would if you
+{ts:1695} were pumping out the leads and you're number one and everything, but you have money right here, man.
+{ts:1700} And I guess the takeaway is maybe I go into a more, I would say a bigger market than Des Moines, Iowa, and just rinse
+{ts:1706} and repeat this template. That way there's more search volume, there's more demand, there's more intent, and then
+{ts:1711} try to go too. That, too, yeah, of course.
+{ts:1714} So, it might take a little longer, but the thing is, people get stressed out about these things maybe taking 3
+{ts:1719} months, but you're not building a business here, you're building an asset. Yeah.
+{ts:1723} All right? So, would you you if it took a year to build out a house that you were going to own forever and
+{ts:1728} get like equity in have equity in for the rest of your life? No. Think of this the same way. You're going to spend two,
+{ts:1735} three, max at most six months getting a site built and ranked and getting the most calls and then all of a sudden you
+{ts:1740} have an asset for the rest of your life that could pay you 1,500 to 2,000 dollars a month passively.
+{ts:1746} All right, Kyle. So, now let's go just through some rapid-fire questions here to conclude this segment. First one I
+{ts:1752} have for you, anyone who's watching or listening to this and they might think that this rank and rent model is
+{ts:1756} oversaturated, right? Is that a good or a bad take? It it's it's an understandable take, but
+{ts:1762} it's completely wrong. All right? I was worried about saturation back in 2019 when I first started this and it
+{ts:1768} hasn't affected me once. There's some simple math you could do to make it clearer for you. So, there are thousands
+{ts:1776} of niches, right? Can we agree on that? If I If I said there was like a thousand niches, would that be conservative?
+{ts:1782} Right? Considering you have septic and think about all these other industries that have subcategories, right?
+{ts:1786} There are Let's say there's a thousand niches, right? And then I want you to take into consideration that there are
+{ts:1794} 800 There are over 800 cities in the US alone that have over a 50K population size, right? If you go even smaller
+{ts:1801} population size, there's even more, but there's over 800 cities that you could do this in.
+{ts:1808} Then, take into consideration that you don't have to be the number one spot to be getting calls. You could be in the
+{ts:1815} top one, two, three, four, five even and still be getting enough calls to sell to a business owner, right? So, let's
+{ts:1823} multiply that uh 800,000 pop 800 Sorry, 1,000 different niches and then the 800
+{ts:1833} different cities, that's 800,000. Now, take the 800,000 and multiply that by three, three different spots that you
+{ts:1840} could be in on the front page to get calls. That's 2.5 million different opportunities to go after. And this
+{ts:1846} business model that most of your viewers haven't heard of since until like a week ago to assume that it's saturated
+{ts:1853} is kind of crazy. I don't think it'll ever be saturated because there's room for multiple people in every market. And
+{ts:1859} not everybody is willing to put in the upfront work to get to this result. Completely agree. And I want to hear
+{ts:1865} this response from you here. If you had to pick one niche, right? What is the most underrated home service niche that
+{ts:1871} you think is still an opportunity right now? Um but it's not like it's completely off
+{ts:1875} the radar. Some people know about it, but I've never seen anybody really attack it.
+{ts:1879} This is a real thing. I have a friend who has a popcorn ceiling removal website. All right? You know popcorn
+{ts:1885} ceilings are a little I think so. Yeah. The ceilings are like really
+{ts:1889} drippy looking. It's like the paint never like fully dried and start gravity pulled it down.
+{ts:1893} That's a niche of a niche. Yeah, it's a niche of a niche. It's a real thing. I have a friend who who has
+{ts:1898} um a site for popcorn ceiling removal somewhere in Southern California. He gets a ton of calls, but there was
+{ts:1904} literally a quote for $20,000 that came through it for a commercial building that wanted all the popcorn ceiling
+{ts:1910} removed. All right? So there are niches like that that exist. I'm not saying it's the most underrated, but it's just
+{ts:1915} one that I could think of right now. But there are these off-the-grid niches that most people don't think of. And and
+{ts:1920} you'll probably learn of a lot of niches just listening to your podcast and Corner Office Podcast.
+{ts:1925} Yeah, one thing that I've actually thought about lately. Hopefully no one steals this including yourself, but in
+{ts:1930} Des Moines, Iowa, we've had a lot of issues with water. There's a lot of nitrates in the water and people are
+{ts:1935} more concerned about water safety. So in my head I'm thinking maybe there's an opportunity for, you know, a local
+{ts:1941} service business of clear clean water home installations of, you know, reverse osmosis systems and all these other
+{ts:1948} stuff. So that's kind of the next idea that I've been thinking 100%
+{ts:1951} that is a great idea. And don't worry about other people stealing it. I I there's so many opportunities across the
+{ts:1957} to do that same thing. It's like why it's it's not even a concern. No no what Somebody else being in that same niche
+{ts:1965} or city has never affected me whatsoever. Because they don't understand the the
+{ts:1969} nuances and all the backgrounds and the experience that you have. Sure, but also
+{ts:1975} you have to realize the search results change with every way you type in the search. Not everybody's typing in um
+{ts:1984} and not everybody's typing in you know, towing uh
+{ts:1988} towing Asheville. Some people are typing in best towing Asheville, affordable towing Asheville, to
+{ts:1994} towing near me. And all those different variations produce different results. So just because
+{ts:2000} you know, you're number one for towing Asheville doesn't mean that somebody else is number one for best towing
+{ts:2006} Asheville or affordable towing Asheville. So there's space for all these different variations. It's it's in
+{ts:2011} saturation level, whatever that word is. [laughter] Last question I have for you here, Kyle.
+{ts:2017} Let's get your crystal ball out. You like let's say 5 to 10 years from now. Do you think this rank and rent model is
+{ts:2023} still viable? 100%. I have new students freaking landing clients every single day. People
+{ts:2030} who started 3 months ago. Without a doubt. I mean
+{ts:2033} people are still using Google, you know, and yeah, some people are still are using Gemini, but as of right now all of
+{ts:2038} our results are showing up in Gemini, right? My call volume, my total company overall call volume has not changed, all
+{ts:2045} right? 100% this is viable for anybody wants to get started today. And you know what's funny about that? At
+{ts:2051} Google I/O, I know this is biased, but they they had a study that said Google search volume actually increased over
+{ts:2058} the past whatever, you know, 6 to 12 months. So all this narrative about people are moving to chat GPT, they're
+{ts:2064} moving to Claude, Perplexity, Grok for web searches. Like that's just not happening. Like I even see it in myself.
+{ts:2070} I don't go to those platforms to do web searches. So, here's the thing. My theory, the
+{ts:2075} reason they're seeing more activity is because they have those little AI snippets, right? Because now people know
+{ts:2080} that if they search for something like best restaurants in Rome, Italy or something like that, or best best sites
+{ts:2087} to see in Rome, Italy, they know they're going to get a little AI snippet that'll give them a quick answer. This So, that
+{ts:2091} gets them in the habit of using Google. They're using Google for everything cuz they're constantly going there more
+{ts:2096} often, they're more comfortable with it. Which in turn, as soon as somebody thinks they want a roofer, they're going
+{ts:2101} to go to Google, too, where you're not really seeing those AI snippets for the local service stuff.
+{ts:2105} Yeah. Right? Not to mention it's the default search
+{ts:2107} engine on Siri, right? That's how they get a lot of their search traffic, too. [laughter]
+{ts:2111} Um but anyways, Kyle, this is a fun conversation. I could talk about this forever, but appreciate you being here
+{ts:2116} and where can people follow you online to learn more about what you're doing? Uh you can find me on TikTok at
+{ts:2121} websitelandlord, and you can find some more information about my business model at rentlocalsites.com.
+{ts:2127} Again, that's rentlocalsites.com. We have a whole page with some more information about how this model works,
+{ts:2133} and we also have a bunch of videos with interviews of other people who are doing this model. All right?
+{ts:2137} Yep, and I'll leave all those links in the description below, and I'll also repurpose this on ryandozer.com, so
+{ts:2142} you'll get the backlink juice that comes from there, as well. So, Kyle, thanks again for your time, and thank you again
+{ts:2147} to everyone for watching or listening to this edition of AI Rabbit Holes. Be sure to tune in again next time.
+
+
+ERR:None

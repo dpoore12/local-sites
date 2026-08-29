@@ -1,0 +1,898 @@
+## Edward Sturm
+##### Jul 26, 2026 (1:30:24)
+E1117: Breaking down Rank-and-Rent, one of the most profitable local SEO business models.
+
+We are joined by a pro in the subject: Ippei Kanehara
+
+Ippei has been building Rank-and-Rent websites for more than 11 years. During that time he's built hundreds of local lead generation sites, generated recurring income from websites that are over a decade old, and recently built 130 new sites to test what's working in SEO today.
+
+One of his earliest websites took around 15 hours to build and has generated more than $240,000 over its lifetime while continuing to produce recurring monthly revenue.
+
+We cover the complete strategy behind modern Rank-and-Rent SEO, including niche selection, keyword research, website architecture, topical authority, Google Business Profiles, AI content workflows, and why bottom-of-the-funnel SEO continues to outperform many traditional content strategies.
+
+Whether you're an SEO professional, agency owner, affiliate marketer, local business owner, or someone looking to build recurring income online, this episode is packed with practical insights and real-world examples.
+
+Topics covered include:
+- What Rank-and-Rent SEO is
+- Whether Google Business Profiles are still required
+- How the business model differs from running an SEO agency
+- How to generate leads before signing clients
+- Using free leads to acquire long-term customers
+- Commission deals vs. flat monthly rental agreements
+- Why recurring rental income often produces lower client churn
+- The biggest misconceptions about rank and rent
+- How successful operators continue building without relying entirely on GBP
+- Choosing profitable local niches
+- Why home service businesses continue to offer strong opportunities
+- High-ticket vs. low-ticket service industries
+- Avoiding overly competitive local markets
+- What to look for when analyzing competing websites
+- Why many local businesses still have weak SEO
+- Exact match domains and partial match domains
+- Building brands around local search intent
+- Website structures that consistently rank
+- Homepage optimization
+- Heading hierarchy
+- Service page strategy
+- Sub-city landing pages
+- Internal linking strategy
+- Using the homepage as the authority hub
+- Building topical authority across an entire site
+- How many pages to launch with
+- Creating dozens of bottom-of-the-funnel pages
+- Expanding into neighboring cities
+- Finding overlooked service keywords
+- Using Google's autocomplete for keyword research
+- Google Search Console to discover new opportunities
+- When to create new pages versus expanding existing content
+- Information architecture for local SEO
+- AI-assisted content creation
+- Entity optimization
+- Editing AI content for higher quality
+- Making local landing pages more unique
+- Case studies and location-specific content
+- Image strategies for local websites
+- Link building vs. topical authority
+- Why Ippei has largely stopped relying on guest posts
+- Using internal authority across owned websites
+- Building multiple websites for the same client
+- Scaling local SEO without unnecessary complexity
+- The first 30 days of launching a new Rank-and-Rent website
+- Why beginners should build multiple sites
+- Common mistakes new local SEO operators make
+
+We also discuss how Google's algorithm updates have affected different business models. Ippei shares how content websites can be heavily impacted by updates while local lead generation sites continue producing consistent results by focusing on commercial search intent and bottom-of--funnel keywords.
+
+⭐️ Ippei's Blog - https://ippei.com/
+⭐️ Ippei's Web Builder & Call Tracking - https://ippei.com/dashboard/
+⭐️ Ippei Kanehara on YouTube - https://www.youtube.com/@IppeiSEO
+
+💎 Compact Keywords - My SEO Course - Get paying customers through SEO - Clear step-by-step video breakdowns - SEO templates to be copied and adapted for your products and services: https://compactkeywords.com/
+
+00:00 Rank and Rent Intro
+00:27 Model Breakdown
+03:31 Monetization and Billing
+05:03 Why It Beats Agencies
+08:48 Ippei Origin Story
+14:24 Best Site Example
+14:58 Misconceptions and GBP
+17:17 Picking Profitable Niches
+18:46 Reading Competition Right
+23:07 Site Structure Basics
+25:44 Branding and Scaling Cities
+28:22 EMDs and Must Have Pages
+31:36 Internal Linking Strategy
+36:31 Avoiding Doorway Pages
+39:44 AI Content Workflow
+43:34 Keyword Research Methods
+46:22 GSC Insights and New Pages
+47:27 Keyword Page Splits
+48:31 Backlinks Versus Authority
+51:09 First 30 Days Blueprint
+54:38 Site Structure Strategy
+56:35 Image Sourcing Tactics
+57:59 GBP Lead Boost
+01:00:45 Video Verification Hacks
+01:05:52 Reviews And Conversions
+01:08:23 Monetization Models
+01:10:08 Lead Handoff Scripts
+01:16:16 Contracts And Leverage
+01:18:14 Scaling And Mistakes
+01:21:51 Mega Brand Rollup
+01:27:18 Why Projects Fail
+01:29:30 Final Wrap Up
+
+The Edward Show. Your daily search engine optimization podcast: https://edwardsturm.com/the-edward-show/
+
+#rankandrent #seo #searchengineoptimization
+### Transcript
+{ts:0} We are talking about rank and rent on the podcast with EP. EP, you've been
+{ts:4} requested a bunch of times to come on this show and this is going to be a great great episode. I'm so hyped. Thank
+{ts:11} you for coming on the pod. Well, I appreciate you having me on and it's a great honor. I've been watching
+{ts:17} your channel for quite a long time, so it feels like I'm talking to a celebrity here. So, yeah, it's great to be here.
+{ts:24} Let's go. Let's go. Thank you. Um so all right just uh opening question for somebody new to the concept what is rank
+{ts:32} and rent? So rank and rank is um unlike an SEO agency where you're ranking other
+{ts:40} business owners websites. We're going to rank our own websites to the top of Google for local services.
+{ts:48} Uh we really love working with home construction type of industries, general contractors. Um, you know, especially in
+{ts:54} the US there, people are homeowners here. I don't I think people underestimate how much money is
+{ts:59} exchanging hands just in your neighborhood and your community each and every day. People need drywall done,
+{ts:64} wood flooring, concrete. You know, these things sound so mundane, but when you get into it, you realize how much money
+{ts:71} is exchanging hands. You know, each one of these like concrete jobs might go 5 $10,000. Uh, these websites can also
+{ts:79} rank for commercial jobs. You know, I just recently had a roofing client close a $200,000 commercial roofing job. And
+{ts:86} then with Rank and R, we rank our own websites. We add our tracking phone number on these websites. And the
+{ts:93} tracking phone number is a really important key piece to this because every time I one of my rank and rent
+{ts:98} sites generates a phone call for a local business owner, every time they pick up the phone, it the software attaches a
+{ts:104} whisper message at the beginning of the call. So for me, it'll say this lead was sent to you by eBay at the beginning of
+{ts:109} the call, right before the customer begins speaking. Uh so now you own this website, you own this phone line. Once
+{ts:116} they start getting these uh leads from you, another important piece is that you know when you're first trying to get
+{ts:122} into SEO or business for that matter, like you have to sell something to somebody, right? And that selling part
+{ts:128} of it is can be kind of challenging, especially like I started this business over 11 years ago. I didn't have any
+{ts:133} sales experience. But with these websites, once they rank and generating leads, we can start throw throwing free
+{ts:140} leads to these business owners using the whisper message, they're hearing your name, then we reach out to the business
+{ts:146} owner and say, "Hey, I'm eay. I'm the guy that's been sending you those leads the last couple days. Would you like to
+{ts:153} work? Would you want more of those customers or do you have the capacity to handle more of these customers?" If so,
+{ts:159} then I like to create a long-term win-win relationship. And then at that point, we're kind of be able to lead
+{ts:166} with results in advance and be able to get our foot in the door with these business owners. And once these business
+{ts:171} owners, you know, they're already intrigued. They want to know like how did you even generate those customers,
+{ts:177} you start the relation, I like starting the relationship on a commission deal. So, you're pretty much risking all the
+{ts:183} you're removing all the risks from the business owner. Hey, you know, like I like I know you just met me from the
+{ts:188} internet. Um, in order to prove myself, I like to just start the relationship on a commission deal. And if everything
+{ts:195} goes well, then eventually I like to do a a flat fee rental where it makes sense for both parties. And then after a month
+{ts:202} or two, the business owner is confident in you. There's trust built. Then you can rent these websites out for $1,000 a
+{ts:209} month, $2,000 a month. There's a few other ways to monetize it. Right now, I'm working with a huge uh construction
+{ts:215} company in Los Angeles, which is where I'm located right now. and with them like they do like seven different
+{ts:221} services. I have dozens and dozens of these rank and rent sites all across LA um and in seven different niches and I'm
+{ts:228} API I have my call tracking software is API connected to their CRM. So I'm just getting paid straight commissions on
+{ts:235} every job that they close. So that can be quite lucrative with the right business owner where that trust and
+{ts:243} trust is built. But for most rank and rent people, I think closing it on a flat fee provides a very um predictable
+{ts:251} uh residual income stream essentially. You mean, you know, I've been doing this for 11 years. I'm still a big I still
+{ts:257} love the rank and rent model. I mean, I have sites that I built over 11 years ago still paying me residual income to
+{ts:262} this day. I have the business owners credit card on file on Stripe and um uh yeah, we build it on a weekly basis.
+{ts:270} That's another like a hack is like it's better to bill business owners weekly as opposed to monthly so that they're not
+{ts:277} seeing this big fat bill at the end of the month where it's if it's weekly 250 a week, they don't see it as much in
+{ts:283} their statements. Um, anyways, yeah, I mean, some of these clients I haven't talked to in a couple years and the
+{ts:290} credit card's on file and the money's coming in and they don't really I don't really need to talk to unlike an SEO
+{ts:295} client where I have to provide reports or I have to make sure that they're satisfied with my service or whatnot.
+{ts:303} Like with ranking, it's like I'm getting you the leads, you're paying me for the leads, and that's it. you're hearing my
+{ts:308} name every time you pick up the phone. And uh I don't have to do that much uh handholding or I feel like yeah with SEO
+{ts:316} I mean there's a lot of money to be made as a SEO agency. Um however you know in my experience some of the SEO clients
+{ts:323} like no matter how good of a job you do some clients just they when they decide to cancel on you there's nothing you can
+{ts:330} do. So uh with rank and rent I feel that there's way less churn and burn. Um, and also I think one good thing to or one um
+{ts:342} interesting thing to note here is that a lot of these general contractors like you know they're maybe a one-man show or
+{ts:350} they're just not their revenue is not quite there. They're the concrete guy or they're the tree care guy. Like these
+{ts:356} type of business owners, they don't have the budget for an elite SEO agency. you know, they don't have the budget to
+{ts:362} spend 1,500 a month or $2,000 a month from SEO agency that might you might have to wait four or five, six months.
+{ts:371} So, a lot of these business owners will try an SEO agency, but they'll try like a cheaper one. You know, there's a lot
+{ts:377} of like crappy agencies that are just selling like like $500 a month programs. They'll sign up for that and
+{ts:384} then they don't get any results after four or five months and then they cancel and they still didn't get the results.
+{ts:389} and this agency just built like maybe bad back links or whatever. And so a lot of these business owners have a bad
+{ts:394} taste in their mouth when it comes to SEO. So with rank and rent, we kind of like overstep in that entire um
+{ts:401} objection that they have about SEO because we're putting in the work. We're building and ranking the sites ourselves
+{ts:407} and then generating the results what they ultimately want, which are leads, which are customers to increase their
+{ts:413} bottom line. So you you know it you know it's going to be an amazing episode when just an
+{ts:421} absurd amount of value is delivered within the first like seven minutes. You you know it's going to be a good episode
+{ts:428} when you get so much good stuff right there in the first seven minutes. Um, all right. Just going going back to the
+{ts:436} beginning and we're going to get into everything like choosing the a niche and location, building links, building the
+{ts:441} site structure for the site, the Google business profile. We're going to get into everything in this. But this method
+{ts:448} of marketing is so effective, I had to make sure it wasn't against Google's rules before I kept using it. It's a
+{ts:453} form of SEO I call compact keywords. Whereas most SEO focuses on putting up articles to answer questions, how, what,
+{ts:460} when, compact keywords focuses on putting up dozens of pages that sell to searchers who are actually looking to
+{ts:466} buy. These pages rank on Google and convert so much better than normal that when I discovered this years ago, I
+{ts:472} couldn't believe this was allowed. It's less work, too. The average compact keywords landing page is only 415 words.
+{ts:479} Compact Keywords is a 13-hour deep course on getting sales with SEO. A customer said, "We spent nearly 18,000
+{ts:486} in the last year and a half on marketing and SEO through different agencies locally, and that did nothing. We
+{ts:492} decided to take the leap on the compact keywords course. We're now getting about 6 to eight calls per day on a good day,
+{ts:498} which is just unheard of." Another customer said, "Give it to a junior employee. Have them follow it exactly as
+{ts:504} Edwards laid out. You don't have to do anything, and you're going to gain a six-figure SEO level employee just by
+{ts:511} having them go through this course." Compact Keywords is about setting up an SEO funnel that brings you sales for
+{ts:517} years and years and years. It works with AI. It's less work than traditional SEO and it makes way more money. You can get
+{ts:524} it now at compactkeywords.com. Back to the podcast. Just going back to the beginning. Um, how did you get
+{ts:531} started, man? Like how did you get started? And also, what was you've done so many sites, what was your most
+{ts:537} successful website? Yeah. So, you know, I'm 37 right now. I got started with Rank and Rent uh when I
+{ts:546} was 24. So, rough roughly over uh 11 years ago. Um at the time I was 24. So, you know, I went to Michigan State
+{ts:554} University. I graduated with some BS degree, but at least I got the degree. I started working for an automotive
+{ts:561} company in Michigan. Um it was a Japanese company. I'm bilingual, so I can speak Japanese. I was born in Japan.
+{ts:568} uh and then moved to the US when I was nine. So I was working for this company that I I I didn't I hated the 9 to5. So
+{ts:575} you know after 3 years of working there, they gave me a standard 5% raise and my monthly paycheck went up by $60. Um cuz
+{ts:583} my starting salary was low. It was 35k a year. So after taxes, I was only making $2,200 a month. So you know that got I
+{ts:591} got really desperate about like figuring out some other way. Um I always dreamed of having a laptop lifestyle. started
+{ts:597} doing a bunch of research online and came across this program at the time was called jobkilling ran by this guy named
+{ts:603} Dan Klein. He was teaching rank and rent. I mean this was in 2014. So this was before there was like so many online
+{ts:611} coaching programs out there. Um and I joined uh started the whole business model made
+{ts:617} sense to me at the time. We were building like pretty like basic quite ugly sites on on Weebi. I started
+{ts:624} building like limousine sites. um in in Michigan and some tree care sites and towing sites. 7 months later, I had like
+{ts:633} four or five clients. I was making 3 4K a month. I uh put in my two weeks notice at the job and I quit and I haven't
+{ts:640} looked back since. I've been self-employed uh ever with Rank and Rent ever since. And uh two three years uh
+{ts:646} goes by and I'm at like 25K a month. 25 to 30K. I'm like one of the top students in the community. He was doing like we
+{ts:654} were doing Vegas events every year and uh yeah and I started talking to Dan and and me and him like cho um uh me and him
+{ts:662} started talking about business and we started we ended up becoming partners and I so I ended up becoming uh partners
+{ts:669} with Dan uh and we started we worked closely together for the last like seven eight years.
+{ts:676} This is kind of a long story. I've tried to kind of speed it up here, but um so I got into some So then my focus started
+{ts:683} to shift towards the coaching program, right? So I I built a blog, eay.com, which I still have to this day. At one
+{ts:689} point I was spending like 50k a month on that site and content. Um I was doing like top of the funnel, bottom of the
+{ts:696} funnel, course reviews, uh keywords about like business models like Amazon FBA, drop shipping. and I was generating
+{ts:703} a bunch of these leads for the coaching program. Um, during the pandemic, like Dan made a bunch of money with online
+{ts:709} and with offline like really say he's a great entrepreneur and uh I think Dan was a great coach to get started with
+{ts:716} because he's not a SEO guy even though his model was teaching SEO. He's like he comes from a car sales background and so
+{ts:726} and I think he's a he's a naturalb born entrepreneur like he built like bunch of different businesses. So he taught me
+{ts:731} the value of not just like getting good at SEO but like how to build a business, how to build a scalable business, how to
+{ts:737} be good at sales, how to position yourself with these business owners so you can make lucrative deals. So he
+{ts:743} taught me a lot about business, right? Not just SEO. And um to make a long story short, um he kind of retired uh 5
+{ts:753} years ago and you know the training videos are kind of older in that group. So uh I launched my own uh rank and rank
+{ts:761} community like this past year and uh in the last year also this blog you know as you know like HelloFresh and all these
+{ts:768} different blogs I mean I got hit with those algorithmic updates as well. I mean at one point I was generating like
+{ts:773} 3,500 clicks on eay.com but these days I like it went down to like two 300 clicks two 300 per day clicks and I had to do a
+{ts:781} bunch of different things to try to recover. But uh you know and meanwhile I'm like there's a few different um
+{ts:788} algorithmic updates in the last seven years. I like where the site tanked and I had to bring it back up.
+{ts:793} But then I see these rank and rent sites that I built over 11 years ago and how steady the rankings have been.
+{ts:798} Dude, it's the bottom of the funnel. It's the bottom of the funnel, man. Bottom of the funnel doesn't die.
+{ts:803} Exactly. Yeah. And I'm I'm I took your compact keyword course as well. Great program, especially for the price.
+{ts:810} Amazing stuff. Yeah. I'm a big believer in bottom the funnel keywords as well. Um it has it's
+{ts:816} the sole reason I've survived with SEO with all these different sites and yeah I mean rank and rent we are targeting
+{ts:823} bottom the follow and it's like that's where the money is made anyway you know so yeah uh so like the last year um I
+{ts:832} went fully back into rank and rent and I built like 130 sites in the last year alone with rank and rent brand new
+{ts:839} sites. Oh my gosh. So, I'm I'm implementing more newer advanced SEO tactics as you
+{ts:846} can save that I've learned and implemented on ebay.com and I started applying on my rank and rent sites. So,
+{ts:853} uh yeah, obviously with those 130 sites, I'm kind of able to see what's working right now as opposed to like using
+{ts:861} tactics that I learned initially 11 years ago. What's been your best site?
+{ts:867} I mean, I have b I have bunch of like sites that are now ranking Los Angeles and all around in Los Angeles. But I
+{ts:874} mean, the example that I like to always bring up is a tree care site in Grand Rapids, Michigan that I've owned for 11
+{ts:880} years, and it's been making me two grand a month for like 11 years, which is like that one site that I spent like
+{ts:887} 15 hours on has made me over like $240,000, which is insane when you're talking about these simple websites and
+{ts:895} what they can produce long term. Yeah, dude. That's that's amazing. Um what's what are the biggest
+{ts:900} misconceptions about the rank and rent business model? There's so many misconception. I mean like um I made a
+{ts:906} video a few weeks ago about how like people are on Reddit they're going rank and rent is dead. Like so yeah so many
+{ts:913} misconceptions about this. Yeah. So I think the biggest uh um biggest hurdle or biggest complaint
+{ts:921} that people might have is that um GBP has gotten the methods of getting GBP has shifted
+{ts:929} over the years, right? Like ranking a website has always been a thing that's important with rank and rent. Uh the
+{ts:935} thing I want to mention about GBP is that we're still getting them. We're doing these video verifications. It
+{ts:942} might be a little bit more gray hat, but we can still get GBPs. Um, and some niches are more GBP dependent than
+{ts:951} other niches. So, for example, uh, if you go into towing, like I don't need to visit a towing website. Like, I'm I'm in
+{ts:960} a hurry, right? Like, I'm just going to call the top GBP company that pops up and probably call. If I'm looking for
+{ts:966} custom cabinets, I want to probably look at the website, look at what kind of custom cabinets they have. And a lot of
+{ts:972} local websites are ugly, right? They they they look like sites that were built in like like 10 15 years ago. So
+{ts:979} you you can get advantage there from a design standpoint if you do a really good job in design. But you know,
+{ts:984} customers are going to call multiple companies. So they might call the GBP, but they might go down below the GBP and
+{ts:990} call the website as well. So, you know, I have a student that's making 15 20k a month with rank and rank and he doesn't
+{ts:996} even bother with GBPs, right? So, uh in the past when GBPs were easier to get, a lot of people got into rank and rent and
+{ts:1005} only did GBPs. So, they were solely dependent on GBPs for rank and rent. And when it got a little bit more difficult,
+{ts:1012} those people would now claim rank and rent is dead. But uh I assure you I have a lot of sites. Maybe the 130 sites that
+{ts:1020} I have right now maybe I have GBPs for like 30 40% of them and we're still working on maybe getting a few more. But
+{ts:1026} I teach that like ranking the website is more important than the GBP especially when you know the right types of niches.
+{ts:1034} We'll get into uh Google business profile in in a a little bit. I want to start with um just choosing choosing a
+{ts:1040} niche like so how do you even decide what niches are worth targeting? There's so many different niches that you can go
+{ts:1047} into. Yeah, absolutely. And uh you know I'm finding about new niches all the time.
+{ts:1055} So let me give you an example. So like one of the students like they started working with epoxy flooring company and
+{ts:1060} that company also does custom storage units for garages. And sure enough, we started doing research and that's
+{ts:1067} getting search volume. So that's a whole another niche. And especially when you can hyperarget what I like to call
+{ts:1072} subniches or more obscure niches, these these niches become very very easy to rank as well. And when you already have
+{ts:1079} a business owner that's want these jobs and you can rank easily, it can become quite lucrative. But to go back to your
+{ts:1086} question, I think anything to do anything that's phone driven, anything that that has to do with home
+{ts:1092} construction niches, I like targeting niches where the average value of a customer is like $2 to $3,000
+{ts:1099} at least. Um, I stay away from the the lower ticket stuff personally like and the really common ones like uh plumbing
+{ts:1109} or uh plumbing or HVAC or maybe even carpet cleaning. You know, there's place
+{ts:1116} there's things like like Task Rabbit now where you can hire carpet cleaners. Um, I think plumbing is like that industry
+{ts:1123} in of itself is saturated because there's just so many plumbing companies. What signals tell you that a local
+{ts:1129} market is too competitive? So I you know I think you got to look at the competition on a more holistic
+{ts:1137} level. You know I know some people just look at DR and uh keyword difficulty from various SEO tools but it's not
+{ts:1145} quite that simple uh to look at competition. You actually want to do the local searches. You want to analyze the
+{ts:1151} the top three, four, five websites. Um, you know, 100% 100% on this. I'm so with you.
+{ts:1158} Yeah. Yeah. Like you got to take a look at the site. Obviously, you know, if you go into personal injury attorney law,
+{ts:1167} all the top three, four sites have like a DR of like 30 plus. So, we avoid, that's another beautiful thing about
+{ts:1172} rank and rent is like we can pick and choose our battles, right? Uh, so we'll avoid like very competitive niches like
+{ts:1179} personal injury law. But in most home construction the DR you're dealing with like sites that are not that high in DR
+{ts:1184} maybe five or less oftent times like DR zeros then it's about okay analyzing the website how quality it is right and most
+{ts:1192} times you visit the website um what are the keyword structure the H1 H2 H3s like just like like you know
+{ts:1200} analyzing as an SEO agency would like what are the all the SEO mistakes that this site has made and there's plenty of
+{ts:1206} mistakes that they have made because most contractors and general contract fact that they maybe hired a web
+{ts:1211} developer for like $500 to build them a website, but it has no SEO optimization behind it. Uh, how many pages does this
+{ts:1218} site have index? And many cases, they only have like 10 pages index. Well, then and I'm now I'm extremely confident
+{ts:1224} that I can outrank this guy even without backlinks by building topical authority of indexing or ranking 30 40 pages,
+{ts:1231} right? Um, are they using exact match domain or like what kind of keywords are part of their brand name? So I like to
+{ts:1239} use exact match domains or um partial match domains so I have I get confidence there. Um and so yeah just looking at
+{ts:1247} you know DR is one metric but it's only part of the picture just looking at the whole site as uh everything that I
+{ts:1254} mentioned and if I see a bunch of weaknesses then I feel confident that that's a niche that's not saturated that
+{ts:1260} you can compete and and rank in. Yeah, dude. That's why I love SEO because that's the case in like most niches is
+{ts:1268} that is that a lot of the top sites that are ranking for for lucrative bottom offunnel keywords, they're doing it
+{ts:1275} accidentally like they don't know what they're doing. They are they are not targeting these keywords and just by
+{ts:1281} just by actually targeting the keyword, you can outrank them. Especially if you're an existing business for you,
+{ts:1286} you're talking about building businesses from the ground up. Building sorry, websites from the ground up. So, so
+{ts:1292} looking at authority is quite important because you're like, "Okay, we're actually going to have to like
+{ts:1296} create authority here." Uh, that makes Yeah, that makes a lot of sense. And you said that you prefer you prefer high
+{ts:1302} ticket, low volume versus lower ticket, high volume. Obviously, you want high ticket, high volume, but
+{ts:1310} Yeah. You said you're staying out of out of low ticket. Yeah. Like high high ticket like average
+{ts:1316} volume. Okay. you know, um there are high ticket, super low volume ones that I think as a beginner in rank and that I
+{ts:1324} probably would avoid such as let's just say maybe kitchen and bathroom remodeling. Okay, it's like that's going
+{ts:1330} to be very like high ticket, but oftent times these jobs kind of take a while to close. People are real price shoppers.
+{ts:1337} Uh these jobs might take a few months to to get done. Um and like you know I have some sites in like ADU construction. ADU
+{ts:1345} stands for additional dwelling unit. These are only some states, California included, like people build like like
+{ts:1350} houses like a secondary like uh small houses in their backyard and whatnot. Um those like it we're getting leads but
+{ts:1360} it's difficult to close. So there there's some caveat depending on the industry, but you know, like anything to
+{ts:1365} do with homes, right? Like drywall, just look around a home and all the different services that a home needs. You know,
+{ts:1371} drywall, you got, you know, painting, you got custom cabinets, you got countertops,
+{ts:1377} um, you got concrete driveways, metal gates, metal fences, um, foundation repair. Yeah, there's a
+{ts:1386} bunch. Want to get into actually building the sites now and ranking the sites. So,
+{ts:1391} what does your ideal rank and rent website structure look like? Well, we start off with like a a a brand
+{ts:1401} that's good. Targeting I like targeting a city that's at least 80,000 population. I think the sweet spot for
+{ts:1408} most people is going to be 100 to like 300,000 population cities. um you do some searches for that keyword and again
+{ts:1417} I like again the keyword tools are not even that great for this either because I I for example drywall Glendale
+{ts:1424} California if you were to put that on a keyword tool it shows zero monthly search volume but I get plenty of leads
+{ts:1430} with that site as well um because you know as long as you do a search and you see uh businesses in the Google maps at
+{ts:1438} least like 10 15 businesses the demand is going to be there once you rank right. So, first I pick in the right
+{ts:1445} picking the right brand. Um, in terms of the right structure, I mean, you know, you want I I want the H1 to have the
+{ts:1453} brand name first, the first words and the H1 and the brand name, the page title, the brand name as well. Um, and
+{ts:1460} the main key words after the title, after the H1, uh, the first one to two paragraphs in my opinion is very
+{ts:1468} important. It want to be very very clear and identify what that entity does. So if it's like Glendale qual quality
+{ts:1475} drywall uh the first sentence I like to repeat the the brand Glendale quality windows has 20 years experience doing XY
+{ts:1483} Z which XY Z is going to be the main various keywords of services that the company does. You also want to sort of
+{ts:1492} increase the quality score in the eyes of Google. I like to like load different entities. When I say entities, different
+{ts:1499} like maybe engineering terms, different things that are certain special keywords or not even search keywords, but certain
+{ts:1506} words that are tied to that industry. Um, you know, such as maybe types of materials for that drywall or different
+{ts:1516} um engineering terms, different uh different things that display expertise.
+{ts:1525} Does that make sense? It makes sense. And you said you're you're actually mentioning the company
+{ts:1530} that you're renting the site out to in the copy. So So no, not the company. We don't even
+{ts:1538} know what company we're going to rent out the site to. We're creating our own brand with Rank
+{ts:1543} and Rent. So Glendale Quality Drywall is like a brand that I created
+{ts:1548} and I'm writing as if I am the brand. So with rank and rent, the mentality that we have is the clients that begin
+{ts:1555} renting our sites is essentially they're going to now own two different brands. So they already have their own brand,
+{ts:1562} right? They might be Joe's Drywall, but now they're getting leads from Glendale Quality Drywall, which is my brand. So
+{ts:1568} now they're essentially operating two different brands and getting leads from both. And uh we kind of treat it as if
+{ts:1576} every lead that we generate with rank and rent are our customers. No different than in a lot of general contractor
+{ts:1582} industry like you'll subcontract out the work to other GCs. We're kind of essentially taking that that kind of
+{ts:1589} model where we're just renting out our customers essentially right going back to the structure. Does that make sense?
+{ts:1597} Yeah, it does make sense. It does make sense. Yeah. Yeah. How is it is that difficult
+{ts:1602} to to to explain to the um to the companies that you're sending the leads to or it's just like hey if you want
+{ts:1609} these leads like that's how you got to do it. You got to act like this is your brand.
+{ts:1615} Yeah. No, exactly. Um they get it. They go, you know, at the end of they want the money. They want the
+{ts:1621} money. They want the money. Exactly. I mean I go like at the end of the day having two
+{ts:1625} brands is more powerful than having one brand. Yeah.
+{ts:1628} It's like a franchise but better. like you own two different brands, you know, and my brands are going to be my brand
+{ts:1633} is like cuz I've been doing SEO for a while, it's going to be more powerful um in the SERs because I have keywords in
+{ts:1640} the name and and all that stuff. So they they once they understand it, they like they love the idea because with alo also
+{ts:1648} with rank and rent, I can begin building that client different rank and rent sites targeting different cities
+{ts:1654} surrounding them. you know, like they most of these service-based businesses, they can travel 20, 30 mile radius. So,
+{ts:1660} again, this is where Rank and Rent truly shines as well, is that you can start off with a client paying you $500 a
+{ts:1665} month because your site's generating like maybe 10 leads a month. But then, if it's a good client, they want to
+{ts:1671} scale, you can start building multiple different ranking other type other rank and rent sites targeting other cities
+{ts:1677} and get that client from like paying you $500 a month to like two to $3,000 a month. and then they really understand
+{ts:1683} that the power and the leverage of uh owning multiple brands. So, okay, you're starting you're
+{ts:1689} starting with a city. You're not building out you you start with a city and then maybe you'll build out a larger
+{ts:1695} regional site. Yeah. Regional site or just targeting just other websites that target other
+{ts:1700} types of cities nearby. And how important are exact match domains to your strategy?
+{ts:1710} [clears throat] is it's important. I think it gives you an edge. Um,
+{ts:1714} so can you give me can you give me yeah some examples of what what type of EMD you might use?
+{ts:1721} So a lot of true EMDs are a lot of it's taken right like Glendale drywall.com that's probably taken right so I I I add
+{ts:1732} word in there um as well as you know GlendalequalityDrywall.com. So I guess you I guess that's
+{ts:1738} technically partial exact match, but in my opinion um just having the city and the keyword there already kind of gives
+{ts:1746} you like an advantage from SEO standpoint cuz most brands do not have that. Um so yeah.
+{ts:1755} And what pages should every local lead genen site have? Are there any like pages that that every one of your sites
+{ts:1762} has to have? Yeah, for sure. like [clears throat] you know most local companies they'll build
+{ts:1769} like five service pages you know um and I get it that's like the main services that they want right
+{ts:1776} that's the main money maker so they just build five service pages they probably don't even keyword
+{ts:1781} research no exactly yeah yeah it's they you know a lot of these sites are built for
+{ts:1786} utility they're not built with SEO understanding well yeah they're bu they're built for
+{ts:1791} people going directly to the site yeah Yeah. Yeah. Like a site you put on a business card and these are the five
+{ts:1798} services we do and that's like as far out as they thought through, right? But yeah, there's like
+{ts:1805} but the reality is people search for those services in many different ways too.
+{ts:1809} Yeah. Exactly. So there's like 15 20 service pages that you could create that will is eventually generate impressions
+{ts:1817} and clicks and those pages build authority to the site over time. Right? So, for example, like in custom
+{ts:1824} cabinets, I have pages like custom cabinets for dental office, custom cabinets for um studio, and these sound
+{ts:1831} like pretty insane type of words, but I under my Google search console like custom counters for like art studio was
+{ts:1842} getting clicks the other day that I saw. Doesn't sound insane at all. Doesn't sound It sounds perfect. Sounds perfect.
+{ts:1848} Yeah. Yeah. So, I mean, maybe you won't show all these service pages in the navigational menu, but it's important to
+{ts:1856} do the keyword research to to target all these different um pages and and you know, maybe I'll start with like 20 20
+{ts:1864} 25 services and you're already doing a lot more than your competition, right? So, that and then I also build sub city
+{ts:1872} pages as well, like the main keyword plus targeting a city nearby. A city might be 2,000 population city, but no
+{ts:1881} one's really targeting it. I'll still rank and I'll that page will still generate me clicks. Again, this will
+{ts:1887} create that topical authority, allow me to rank the homepage for the main keyword oftent times in many cases even
+{ts:1894} without bu building external backlinks. So yeah, I want to ask about information architecture and internal linking. Um
+{ts:1902} yeah, I I want to ask about that. Uh I What was it? Man, I had this I had this
+{ts:1909} other question basically. Okay, so you're saying you had um Yeah. So you have like all these all these service
+{ts:1915} pages and you know I'll remember the question when I asked this. So yeah, what what does your information
+{ts:1920} architecture look like and what does your internal links look like? So could you give like an example of of what um
+{ts:1928} yeah like what the different subfolders look like and how you're linking to different pages?
+{ts:1934} Yeah, with you know with with a blog with 2,000 articles like you think a little bit more about uhformational
+{ts:1942} architecture but in my opinion with like these rank and rent sites I like to keep it pretty simple. I don't create too
+{ts:1947} much subdirectory folders and whatnot. It's just pure pages that's all coming like homepage.
+{ts:1955} They're all off the root domain is what you're saying. Yeah, from the root domain. Um,
+{ts:1961} and just building, you know, these service pages and subsidy pages all from the root domain. So, it'll be like
+{ts:1967} glendalequalitydrywall.com/ popcorn ceiling removal. And those are all different service pages that all
+{ts:1976} target Glendale, California, because this is a site that I'm trying to really trying to rank in Glendale, California.
+{ts:1981} But then I also have sub city pages where glenderquality drywall.com pasadena-cal
+{ts:1990} and this will be targeting these surrounding cities. Um in terms of internal link structure um
+{ts:1998} yeah because you said you said you're funneling page rank so you're funneling authority to to more correct you're
+{ts:2003} going up the chain. Correct. Correct. Correct. So yeah, that's that's essentially what I'm
+{ts:2008} trying to do with the internal linkage structure. All those um external pages are linking a link backlink back to the
+{ts:2014} homepage, not the other way around. Wow. I don't like I don't like So your homepage is targeting the most
+{ts:2021} lucrative keyword. Yeah. Yeah. Okay. Yeah.
+{ts:2025} Uh-huh. Um and then and basically like all these subpages will link back to the the homepage and and and
+{ts:2033} so so yeah, what will be the call to action then? the call to action button. So these subpages are these bottom of
+{ts:2038} funnel pages or are these like informational pages. These are all bottom bottom of the funnel. In fact,
+{ts:2045} with rank and rent, like pretty much all the pages are bottom the funnel, including the homepage, you know, that's
+{ts:2052} kind of how I look at it. It's like literally like bottom the funnel, then it's like a rank and rent site. It's
+{ts:2057} just like going wide on all bottom of the funnel keywords. Now, there are times where I've built
+{ts:2063} like more medium or top of the funnel informational type of blogs on a site, and I think if you're in a super more
+{ts:2070} competitive uh city niche, I think you might want to create some of those sites to get some clicks as well. Um, but in
+{ts:2078} most instances with rank and rank, like we want to do the least to get the maximum output or the result or money,
+{ts:2085} right? So, I'm always big on doing enough doing just enough to get the result as opposed to trying to do
+{ts:2092} everything for each of these sites because the power with rank and rent really comes when you can actually
+{ts:2097} scale. And so, you want to you want to be as efficient as possible when you're scaling these these websites.
+{ts:2104} And what is what is one of these bottom what does one of your bottomunnel SEO pages
+{ts:2111} look like? Do you have like the same structure that you use across pages? So, you know, for example, I mean, it's
+{ts:2119} very very like repetitive after a while, right? So, it's like drywall in Pasadena,
+{ts:2127} California, drywall in Alhamra, California, and it like almost kind of looks like the homepage, but a lot less
+{ts:2133} effort. Basically, just the top, maybe a quote form, phone number. Really, call to
+{ts:2138} action is we really want just is the phone number. and I have a menu that's like sticky so the phone number is
+{ts:2144} always at the top and we just want that person to call right ultimately um in terms of the content I mean it it's
+{ts:2151} pretty basic um AI mostly AI generated content on the and how do you and how do you um like
+{ts:2160} yeah how do you what's the context for linking back to the homepage is just when you say like we've been doing this
+{ts:2166} for for this long and when the brand name just always links to the homepage is that what it is or something Yeah.
+{ts:2171} Yeah. The brand name quality drywall has been doing XY Z. Yeah. And then that that
+{ts:2178} So you'll actually have basically an internal link to the homepage right there in the first sentence.
+{ts:2183} Yeah. Yeah. Exactly. Uhhuh. And and um and so yeah, this is the
+{ts:2189} question that I wanted to ask that I had forgotten. How do you how do you think about doorway pages and avoiding things
+{ts:2195} like that? Um well doorway pages essentially what you
+{ts:2202} mean by that are pages that just go to another site right pages like you're you're describing so
+{ts:2207} when you were describing uh um X for cabinets X for what what was the example that you were giving
+{ts:2214} cabinets for like dental office yeah cabinets for dental offices cabinets for kitchens cabinets cabinets
+{ts:2221} for for uh I other offices and So basically like what people will do is they'll have these pages be identical
+{ts:2231} and and so are you when you're targeting very similar keywords are you making the pages the copy really unique?
+{ts:2240} Yeah. So you know custom cabinets for dental office right all the H1 H2 H3s should begin to shift. So H you know I
+{ts:2252} I'm you know H2 H3 big believer that that it's important. This is why Google efficiently scan the headings to
+{ts:2260} understand what's on the page as opposed to um scanning the whole page is going to be more costly for Google. So we want
+{ts:2266} to make it easy to Google to so like it'll be like um different type of cabinets used for a
+{ts:2273} dental office. So the H3s are going to completely shift from a cabinet office or custom cabinets for a garage. The H3s
+{ts:2281} are going to be different types of cabinets for a garage. So that's going to change quite a bit and obviously the
+{ts:2286} content underneath it is going to change. So uh the context uh is going to change depending on the topic. Now with
+{ts:2294} a subity page that is a little bit more challenged to make it unique, right? Because if I have drywall page about
+{ts:2301} Pasadena or drywall page about um Glendale, like it's going to be very quite similar. Uh but I'm still able to
+{ts:2311} see that my pages are are ranking uh getting clicks. Um I have a AI content writer where like I can feed the link of
+{ts:2320} the Wikipedia page of the city into it and it'll extract different unique entities, landmarks, different weather
+{ts:2326} patterns of that city into the content. So, we're doing things like that, trying our best to make each of the content
+{ts:2333} more unique, uh, unique to the location and unique to to the actual local service or unique to
+{ts:2340} the service that's being done. Yeah. And I think another good strategy that we will we're implementing as well.
+{ts:2346} Um, again, for more competitive city, I mean, uh, places, we want to do the least amount to get the rankings and
+{ts:2355} that's it. We don't want to overdo it. But for each of these different location pages, you could essentially create like
+{ts:2362} a case study of customers uh by grabbing maybe different landmarks like a school. We did drywall for XYZ
+{ts:2370} school. We did this for like another establishment for that city and create sort of like a case study or like a
+{ts:2379} custom or project detail things like that on these some city. If you can explain like just in
+{ts:2386} short what does your like AI content workflow look like? AI content work workflow
+{ts:2393} because yeah you said you're you're writing a lot of content with AI. Yeah. So I have a AI content writer
+{ts:2399} where it's using like few different agents to do keyword research and entity extraction on the top
+{ts:2408} 100 ranking top like 30 ranking articles and then it's um using um claude to get the final output. But by doing the by
+{ts:2420} stringing together agents before the output, it's able to produce like far better output than just using cloud in
+{ts:2427} of itself. And then just um and that to me is enough to rank all the maybe the sub city pages for the homepage. We like
+{ts:2436} to maybe proofread it a little bit, edit it. Um especially the first intro paragraphs and also with the output,
+{ts:2444} some of it can be fluff. So you got to be careful there. got to remove fluff or redundant sections, repetitive sections,
+{ts:2453} cuz sometimes the AI will talk about one thing and talk about something very very similar down below. So, you want to
+{ts:2459} remove anything that's redundant out of the article. Um, yeah, you want to make the article all talk be talking about
+{ts:2467} different things and you also have to kind of maybe sometimes reorder the the content at times. the top of the page,
+{ts:2475} you want things that are most important for that topic. So with rank and rent, it's going to be the main services are
+{ts:2481} going to be the most important to talk about near the top of that page. And then down below on the lower third of
+{ts:2489} the of the article, you can talk about a little bit more outside of the main topic to bring in more unique content
+{ts:2495} signals such as maybe you talk about more uh your process of doing drywall or custom cabinets. you have a unique
+{ts:2501} process or unique engineering terms that you can unique type of entities that you can bring in towards the bottom. Maybe
+{ts:2508} statistics. Maybe you talk about the material resist durability or things of that nature that you can bring in unique
+{ts:2515} statistics at the bottom of the page. You can bring in more of these unique kind of signals um in
+{ts:2521} and you'll write you'll write like this is how we do it. Even though it like you'll just write it even before you
+{ts:2527} have like a company that you're working with, you'll say this is how Glenn Wall drywall has been doing this.
+{ts:2533} Correct. Correct. And you say we've been in business for x many years.
+{ts:2537} Yeah. Yeah. And with that, like once you do find a client, then you can ask these questions and get more unique
+{ts:2544} information from them and put it on the site. So maybe they you know, maybe they have 15 years experience. Okay. Well,
+{ts:2551} you could go update that, right? Do you have a way of um do you have a way of like uh updating things really quickly
+{ts:2557} on sites? Yeah, I just use I have use a click and drag web builder that I have. I just
+{ts:2564} update it. Okay. What what are you using? Uh I have my own like rank and rent like
+{ts:2571} platform dashboard. So it's Yeah. dashboard. But I I it's all integrated with the call tracking and the web
+{ts:2579} builder. What's your What's your CMS? Uh, it's just a click and it's like very
+{ts:2585} similar to Weebi or Wix. Uhhuh. Okay, that's cool. Yeah. Yeah. I was like I was thinking I
+{ts:2590} was thinking how I would do this with WordPress. I'd probably like have a um a short code for the amount of time the
+{ts:2597} business has the the company has been in business and then you could change that on the back end and it changes across
+{ts:2602} the site. I do that with a a phone number on edward.com. So like if I ever had like a phone number that gets
+{ts:2608} spammed, then I can just change it on the back end in one place. Um yeah, things. Yeah. Uh
+{ts:2615} what is your keyword research look like? How are how are you doing keyword research e pay?
+{ts:2620} Yeah, this is a great question. And I think I think you know with uh with my blog epay.com like different strategies
+{ts:2629} with rank and rent maybe other types of strategies but I like I like the tool keywords everywhere. It just very basic.
+{ts:2638} It's like seven bucks a month. Puts the keyword search volume right in the search of Google. And I I like kind of
+{ts:2646} going off of what Google tells me as opposed to using keyword research tools. So for example, if um like for example,
+{ts:2655} tree service is notorious for uh being difficult to find various different keywords because there's only so many
+{ts:2661} services in tree service, right? We're talking tree removal, tree trimming, tree pruning, tree cutting, stump
+{ts:2667} removal. That's it, right? But so how do you how do we find other types of keywords that people are actually
+{ts:2672} searching for that can get you more clicks than the competition? So yeah, you basically just go tree trimming
+{ts:2679} space and start putting different keys of the alphabet and look at what Google suggests. So one is like could be um
+{ts:2691} tree trimming over power lines and that I would have never known about that keyword unless I was just in the
+{ts:2698} Google search bar looking for different things, right? Um obviously you can use tools like ah refs
+{ts:2705} but when you do use that like you just get bunch of like main keywords anyways with like different cities. So I I find
+{ts:2712} that like just using the Google search bar is more useful. And I also you can use chat GPT as well or AI list me 100
+{ts:2721} different keywords for custom cabinets um or drywall, right? And it'll give you a 100 different lists and one one is
+{ts:2729} like home edition drywall. Then you take home edition drywall and put it in Google search. But Google search doesn't
+{ts:2736} have give a suggestion for home edition drywall. It actually says home renovation drywall. So boom, right
+{ts:2742} there. That that's the more better word to use as a on a page. When you say gives a suggestion, what do
+{ts:2748} you mean? Start typing it in and then you see what Google is recommending.
+{ts:2753} What Google is what Google is autocompleting. Autocomp completing.
+{ts:2756} Yeah. But but sometimes it'll try to fix what you're typing. So, right. So, if you put
+{ts:2761} home edition drywall, like it'll pop up underneath home renovation drywall.
+{ts:2768} Yeah, that's cool. or when you type in home, it'll type in home renovation as opposed to home edition drywall. So,
+{ts:2777} yeah, we'll just kind of check it with Google. Yeah, that's that's that's cool. How
+{ts:2783} often are you looking um as well at Google Search Console to see keywords that the site is ranking for and then
+{ts:2790} being like, "Wow, I had no idea this was a keyword." And then when when that happens also, how do you decide when to
+{ts:2796} create a new page for a keyword versus actually just adding it to the existing page that that it's ranking for?
+{ts:2804} Yeah. So yeah, Google search console is key. Um gives you a lot of intel. The other day I was looking at one of my
+{ts:2812} concrete sites and it was ranking. This page was ranking get generating clicks. It was like concrete steps
+{ts:2819} leveling or I don't know some another word after concrete steps that made it very unique and I would have never even
+{ts:2826} known to write that page or have it even be worth it to write that page. But I think my team just found that keyword by
+{ts:2835} because a chat GPT recommended it and they just built it and sure enough it's generating clicks, right? Um,
+{ts:2843} so I guess sometimes it's like a gunshot approach. We just build these pages and as long as
+{ts:2850} each of these topics are contextually different enough, we'll write it. But if the two different
+{ts:2858} keywords are too contextually similar, we'll try to combine it. So for example, it might be cabinet painting and cabinet
+{ts:2865} refinishing. Those are very contextually very similar types of topics. So it's, you know, it's better to probably
+{ts:2872} combine like cabinet refinishing and painting and city. Yeah. The way Yeah. I like to think
+{ts:2879} about it if especially like if the searcher doesn't know that these are the same things, you actually could create
+{ts:2886} two pages for it because you could imagine like one searcher getting to a page for this thing and it's the same
+{ts:2892} thing that they searched, but it's phrased in a different way and they're not an expert in the subject matter to
+{ts:2898} to know that this is the same thing as what they just searched. And so they actually might leave the page to look
+{ts:2904} for something that has their exact language because they're not experts in the subject matter.
+{ts:2909} Um that's Yeah. Uh okay. So you you were saying that you're not do you build links at all? Is
+{ts:2916} there any link building that you're really doing or you're just you're just going up with topical authority going up
+{ts:2922} the chain with uh right now starting pages and yeah you know like I used to like build
+{ts:2928} some PBNs and 11 years ago I was doing like PBNs and stuff like that and uh screw PBNs like it's too much effort to
+{ts:2938} manage. Um, so then I started doing some guest posts and it's like became really difficult to tell if the these links
+{ts:2946} were actually moving the needle or not. So this this past year this time around I'm it's like all about bottom of funnel
+{ts:2952} keywords and like building topical authority and I'm getting rankings, right?
+{ts:2957} It's amazing man. It's amazing. I know. Yeah. And I'm not saying backlinks don't work. there it's clearly you know
+{ts:2966} ranking factor but it's like then you look at a lot of like places where you you're getting or places where people
+{ts:2972} are getting guest post links and then you know in the last two years you know with Google algorithm updates a lot of
+{ts:2978} the sites have crashed in the traffic right so it's like then it's like well will this link even provide juice when
+{ts:2986} the site itself also tanked in traffic and it probably does right like it's not like the algorithm can't be that strict
+{ts:2993} with it. But uh yeah, right now I'm like kind of choosing to focus more on topical authority as opposed to getting
+{ts:3000} external backlinks. Now the sites that a lot of sites will rank without external backlinks. So the sites that are ranking
+{ts:3006} already generating clicks, generating traffic, it's on page one of Google, then I can even build back links from my
+{ts:3013} sites that I own homepage from those sites to other sites that might be in a little bit more tougher or big much
+{ts:3019} bigger market. And it makes sense too because if you're in multiple niches, you can say that these sites are
+{ts:3026} partners to each other. These companies are partners to each other. Yeah. Exactly.
+{ts:3030} That's not even black hat. That's like you just own a bunch of different like services businesses.
+{ts:3036} Yeah. Exactly. So, you know, I have what what did the link that I made a connection? Um, I think it was like a
+{ts:3045} window site and oh, it's like Windows and I created a section on the homepage about soundproof windows and then I said
+{ts:3055} we also own a drywall company that can provide soundproof drywall as well and then now I provided that context and I
+{ts:3063} created a backlink from that homepage of that Windows site to my one of my drywall sites.
+{ts:3070} So, okay, walk me walk me through what like the first 30 days of of making a site.
+{ts:3077} Yeah, you you have the niche cho chosen like I I want to actually know what pages
+{ts:3083} I mean, you were talking about that. So, you you're putting up just these like hyper bottom of funnel pages. You're not
+{ts:3088} really building any links. Maybe you're linking to the site from I'm I'm trying to talk this out for somebody who's
+{ts:3095} listening and wants a step-by-step process of what to do with the new site. Um, so yeah.
+{ts:3100} Yeah. And uh, yeah. I think Edward that this why your shows are great because you ask like you ask the best best
+{ts:3107} questions, you know, and you've been building SEO businesses a long time, so you know what questions to ask. So yeah,
+{ts:3114} exactly. So first 30 days, well the most important first step is like how to find the right types of city and the niches
+{ts:3121} to go into. um we which we talked about earlier which is you know um doing the analysis finding city and niche that
+{ts:3130} have at least 100,000 population is like a safe bet um and like kind of weaker sites target that. Um another thing I
+{ts:3139} always harp on is don't just start with one rank and rent site build 10. I've never seen anybody not start making
+{ts:3145} money when they build 10 sites, you know, and these sites take about three, four months to start generating leads.
+{ts:3152} So, you won't you don't want to just sit on one. You want to get 10 out as soon as possible. Um, and with the 10, the
+{ts:3158} first steps are, you know, getting the domain, partial match domain, city and main keyword in the domain. Um, build
+{ts:3166} out the homepage. Um, make sure the hierarchy of H1, H2, H3 is correct. Uh H1 at the top is going to have the brand
+{ts:3176} name and the main keywords. H2 is going to be like maybe the main residential services for example. And
+{ts:3184} then all the different residential services you'll list with a picture um with the keyword of those services in
+{ts:3193} H3. And then just the same with commercial and then just build out the rest of the
+{ts:3199} homepage. Um, I like to also add like a FAQ section at the bottom of the homepage.
+{ts:3204} Um, and then you just start building, you know, 10, I would start with like 15 service pages because most your
+{ts:3211} competition only has like five. Um, and then maybe 10, 15, 20 subity pages. That's about 30 pages.
+{ts:3220} And then you move on. What is a sub city page? Uh, just the main keyword plus a
+{ts:3226} neighboring city. Wow. And you and how many of those are you making?
+{ts:3231} So like drywall Downey California, drywall um Alejandra California and maybe 20 of those subity pages.
+{ts:3240} And so yeah, so then you'd actually have like you'd be really heavily talking about the location and how drywall is
+{ts:3247} different, doing drywall is different in each location and as best you can um as best you can. But
+{ts:3255} most of these pages realistically they end up looking pretty much the same. Well, looking the same and sounding the
+{ts:3261} same is different because like I use I use the same lots of websites, including a lot of my sites use the same page
+{ts:3267} templates. And I mean, think about a blog. A blog is literally just the same page template over and over and over
+{ts:3273} again. It's the content on the page. It's the images on the page that that make it different. Um, and and so then
+{ts:3281} you so you have all these pages and are they are do you have a hub page for them or are they all literally just in your
+{ts:3286} footer and and and in your you have like a drop- down navigation with different categories or like how top navigation?
+{ts:3293} How are you doing that? I look at the homepage as a hub page. That makes sense,
+{ts:3299} you know, and rank like Yeah, it's like because we're not A blog is going to talk about different topics like you
+{ts:3305} might talk about small business loans and uh short-term lease rentals or whatever like right. But with with a
+{ts:3313} rank and rent, the main topic we're talking about and only want to talk about is keyword city drywall Glendel.
+{ts:3320} That's it. So that's the main hub and then all these sub all these other pages are just linking back to the homepage.
+{ts:3327} That's it. I don't create internal links from the footer or anything. Um because I'm the believer I don't want
+{ts:3334} the link juices from the homepage going to other pages. I want the link juices from the other pages going to the
+{ts:3340} homepage. And but but you are linking these aren't
+{ts:3345} orphan pages. You're linking to the subpages from your homepage. Well, I have I have it from the
+{ts:3354} navigation. There's links to the sub city pages. Okay. So, they're not they're not orphan
+{ts:3359} pages is what was what I'm trying to get. Yeah. Yeah. There's a connection there
+{ts:3363} in the they're being linked to from they're they're being internally linked to from
+{ts:3366} somewhere. Yeah. Uh-huh.
+{ts:3369} Well, from the navigation. Yeah. In the menu.
+{ts:3372} Yeah. Yeah. Yeah. Yeah. That makes sense. Like if you were to take your if you were to
+{ts:3376} take your homepage and put it in Screaming Frog, Screaming Frog would be able to get to all these subpages
+{ts:3380} because they would be linked to Yeah. Um so
+{ts:3386} uh what I was going to ask you one more question, but I can't remember it. I
+{ts:3393} won't ask you. I'll remember it in a second. Um what about images? Are you just doing AI generated images, stock
+{ts:3399} photos? How are you how are you handling images? Yeah, a few different strategies. I
+{ts:3405} mean, AI generated images is one. Um, there's places where you can get like more stock free uh copyright free
+{ts:3415} images. What do you use? Huh? What do you use?
+{ts:3419} Um, Pixels, Unsplash, Exob Bay is one. Um, you can go to I think Bing or whatever and search for
+{ts:3429} like non-copyright images. Um, you can do a little bit more gray hat and just grab images that
+{ts:3437} you'll never get caught. Uh, but how do you tell? Because um, you know, sometimes these images
+{ts:3445} belonging to like big uh or like companies that I like to go on Bing as opposed to
+{ts:3455} Google. Um, sometimes it might just be a display of a custom countertop from like a a supplier or some of these kind of
+{ts:3464} different kind of companies that you know like they would not really care, you know, like there's like pamphlets or
+{ts:3471} uh even like almost like websites that catalog all these like different products,
+{ts:3478} right? So, yeah, talk about Google business profile. This is Yeah, the lots of people have questions about it. So
+{ts:3485} yeah, you were talking about this before, but just how important is GBP to the rank and rent model?
+{ts:3493} Yeah, I mean GBP definitely can increase the amount of leads by 50%, sometimes even more. Uh GBPs definitely help you
+{ts:3504} get more leads. But again, even without GBPs in rank and rent, when especially when you go into a little bit higher
+{ts:3510} ticket industries, people got to understand like if you just generate
+{ts:3517} 10 15 leads for a company in a month and they close at 30%. And each job is worth like $5,000.
+{ts:3527} If they close three jobs, that's $15,000 of revenue. And if they can just pay you, most companies are cool pay paying
+{ts:3534} you 7% commission. So 7 7% of 15 grand is already $1,000 a month. That company would be gladly paying you. So let's say
+{ts:3544} you decide GBP is kind of pain or you I don't want to do GBPs. Well, you're going to have to now compensate for that
+{ts:3551} by just building more websites for that singular client that targets different cities. perhaps maybe that targets more
+{ts:3558} specific keywords for that client. Um, for example, like I have a painting guy that does like a very special type of
+{ts:3567} painting called lime wash painting. is a very high-end type of painting service and I have a whole, you know, if you
+{ts:3573} target a whole site about linewash painting, you could rank a site in a big city like Los Angeles and because it's
+{ts:3580} so so hyperargeted, such a unique service, even without the GBP, you're definitely going to get a bunch of
+{ts:3586} quality leads for that. Right now, with that being said, GBPs, we still try to get them uh if we can. And again
+{ts:3598} um we have different strategies of getting them as well.
+{ts:3603} What are the strategies? Can you share? Well um these are what other people have done
+{ts:3610} and say that dude dude dude I do that all the time on this show when I'm sharing a black hat
+{ts:3616} like I like that I do this. Here's what this is. This is crazy. Other people are doing this in SEO. This is a disclaimer
+{ts:3623} by the way. I do not advise you to do this. You should not do this. Caution will appear on the screen. Caution comes
+{ts:3629} up. Don't do this. Disclaimer. Do not do this. This is what other people are doing.
+{ts:3635} Other people have done. Yeah. So, so this is so that your disclaimer is you're saying don't do
+{ts:3639} this. This is what other people have done. Yeah. This is what other people have
+{ts:3644} done. So, with the video verification is kind of how GBPs are verified today. It used to be postcard. postcard meant like
+{ts:3652} you needed to uh pick an address and they will send you a fivedigit or a postcard with like a five-digit code,
+{ts:3657} enter the code, boom, it's verified. Um that that could get at scale unknowing too because you actually need a location
+{ts:3663} where somebody can receive that code code for you. Anyways, today's video verification though. So when you try to
+{ts:3669} verify a service based business, they make you shoot a video from your mobile phone and to show legitimacy of the
+{ts:3677} business that you own the business, right? Uh so you just show different things in the video to verify. So what
+{ts:3686} what they're looking for are uh get a vehic a vehicle. You can buy like a car magnet for like $20. Print out the logo
+{ts:3695} of the business and the phone number of the business. Place it on the vehicle. Have tools. One thing to keep in mind is
+{ts:3702} it's an AI reviewing these videos, not a human. There's no way they could staff it with human. there's there just be too
+{ts:3710} many like this is GBPs across the world right there's 200 million businesses on GB Google map so it's AI so we have to
+{ts:3719} just pass the AI test essentially so it's look so you want to get some tools in the vehicle again it's been tested
+{ts:3727} with trucks or just like a regular vehicle it can also work fine and when I say tools you can get tool toolbox for
+{ts:3736} like $60 from like Home Depot and then In the vehicle, you want to show yourself opening the vehicle, entering
+{ts:3741} the vehicle, turning the vehicle on. Show some business cards, 10, 20 bucks of the logo, business name, NAP
+{ts:3750} essentially, right? Address of the business, phone number of the business, clearly show it in the with your phone
+{ts:3757} so the AI can detect it. Um, that's essentially it. I mean, it's better to just do it with a vehicle as opposed to
+{ts:3766} like some people are going into the vehicle then trying to go into a home and trying to show a home office. You
+{ts:3772} don't We're finding out that you don't want to do all that because it kind of confuses the AI. Um because now if
+{ts:3779} you're walking into a building now, it's going to think that you're a location based business which we're not. We're
+{ts:3784} service based. We don't have a physical [clears throat] location, right? So, you want to just do it with a vehicle. Um,
+{ts:3791} there's a few other things like you want to turn on precise location on your phone. Uh, because there is an IP
+{ts:3797} tracking thing that that's happening there. So, you want to turn that off and and shoot these videos. And yeah, you
+{ts:3803} said turn it off. Turn it off. Mhm.
+{ts:3806} Turn it off. Um, and it's been working. Yeah, we've been verifying. And then sometimes it doesn't work.
+{ts:3813} You just delete it. Delete that listing and start start over. and then then it'll go through. So it's again it's not
+{ts:3821} a Google is not a perfect system. Um and you just restart it and then boom it goes through the next time
+{ts:3830} and so then retry it you'll you'll retry it with the same address or a different address.
+{ts:3836} It's a great question. Um same address and a diff the same name. Is everything the same? You just delete it and try it
+{ts:3843} and try it again with the same everything. Yeah, we've done Yes, done that. Um,
+{ts:3849} couple things you want. We're using G Suite. I believe it increases trust. G Suite email. Uh,
+{ts:3856} I think so too. Yeah. And And you want to connect This is like very Yeah. You want to connect
+{ts:3862} your Google Search Console with the G Suite, Google Analytics with the website as well. We want to create that proof
+{ts:3869} that we actually own the website. Um, and yeah, I think Are you using you're using Google
+{ts:3875} Workspace for emails or if I want to get the Google Map listing? Yeah.
+{ts:3881} $8 a month. Yeah. Um, I think also obviously if you search
+{ts:3889} for the brand, your brand, like you should have some social media pages up and some citations. I don't even do like
+{ts:3896} a lot of citations anymore. Um just like some main ones. But you So yeah, you said you're you're
+{ts:3902} setting up socials for all of the websites. Yeah, we try
+{ts:3906} and putting up a few posts. Yeah. Uhhuh. And uh how And yeah, so by the
+{ts:3912} way, yeah, disclaimer, we don't recommend doing any of the stuff that we just said.
+{ts:3917} Um not recommended it. And also I'll say I will say some of the times I do I I am sharing very black hat things that other
+{ts:3925} people are doing and I'm seeing other people are doing them and I'm really not I'm not doing those things. Like for
+{ts:3930} example I talk about I' I've done a bunch of episodes on how people are doing DMCA takedowns. I have no interest
+{ts:3936} in doing fake DMCA takedowns. I have zero interest in doing that. That's I'm not into all of that.
+{ts:3942} Yeah. Um but but it is important it is important to know like what's going on in the SEO
+{ts:3948} landscape like because it just get it makes you a better SEO. How important um or how do re how do
+{ts:3955} reviews affect lead quality and conversion rates and what do you do for reviews when you're when you've just
+{ts:3961} started the website? So reviews are only become an actual thing if you get the GBP,
+{ts:3969} right? Um, so again, I have plenty of sites with no
+{ts:3975} reviews with the website. Like I think people under people overestimate how customers behave online.
+{ts:3985} What I'm trying to say is there's sometimes like customers that are calling and like I have no reviews. Like
+{ts:3992} how could they even call my site, right? No, dude. But dude, it's true. I mean, you know what? I'll tell you exactly
+{ts:3998} what it is. It's you actually took the time to create a page for exactly what this
+{ts:4005} searcher put into Google or put into chachi pt whatever you actually have the you are speaking their
+{ts:4014} exact language and it and it's and it really feels as a searcher oh my god this business
+{ts:4020} understands me. Yeah. And that's the power of the bottom of the funnel keywords
+{ts:4025} and and with actually targeting keywords because when you because like like you said when you use the keyword in the
+{ts:4032} first sentence it it really is like it's really big.
+{ts:4037} Yeah. Yeah. Which is why I I like the course that you have because I from my experience and making money with SEO
+{ts:4045} over the last 11 years like bottom of the funnel keywords they are the most important. they are the biggest needle
+{ts:4051} movers and I like how you made a whole thing about focusing on that because it is the most important and uh uh you
+{ts:4059} should we should never lose sight of it. I mean I can't tell you the amount of money and time I wasted trying to target
+{ts:4064} like top of the funnel keywords and just AI overview came in and just wrecked all that traffic anyways wasted countless
+{ts:4072} thousands of dollars creating these huge articles and it all got wiped out. the skyscraper technique is done. Don't like
+{ts:4080} don't get me wrong, I used to be I used to try the skyscraper technique too. I used to mess around with it.
+{ts:4086} Like uh yeah. Um and and actually a misconception I think that a lot of people have about bottom offunnel
+{ts:4092} keywords is that they're all longtail keywords and that's not the case at all. Like a lot of people don't understand
+{ts:4098} that. Yeah. Exactly. Yeah. Yeah. Um all right, let's talk about
+{ts:4103} monetization and selling leads. Super important topic. This is really like I'm trying to make this episode just the
+{ts:4109} full like like master rank and rent plan, masterclass rank and rent. Like that's what I want this this episode to
+{ts:4117} be. I'm trying to make make this that. Um, so do you prefer prefer uh renting the website, charging per lead, or
+{ts:4126} taking a revenue share? You talked about this a bit at the beginning. Yeah. So there's Yeah, there there's
+{ts:4133} three uh monetization models. Um, I think I think for most people getting to 10K per month or 15K per month with rank
+{ts:4144} and rent is the most important thing to do first. That's going to be life-changing thing for you. Uh, cuz you
+{ts:4150} can walk away from your 9 to5, right? So, in order to get to 10 15k per month, you know, like you want to do flat fee
+{ts:4158} in my opinion. It's the most predictable. It's the most uh Yeah, it's the most predictable and stable. Um,
+{ts:4167} so how do we get to flat fee? Well, I I'm I'm the uh mindset that I don't deserve to get paid by a business owner
+{ts:4175} if I'm not delivering results. And by results, I mean real leads that it's converting, that they're closing, that
+{ts:4180} they're making money with, right? So, we just have to prove and show that we're we can do that for a business. So,
+{ts:4187} initially, you know, it's a relationship building phase. You know, the analogy I like to use is that you're not going to
+{ts:4194} go on a first date with a girl and ask to for her to marry you on the first date, right? There's like a little bit
+{ts:4199} of cording that goes on. And the same thing here with rank and rent. We're going to build the value first. So,
+{ts:4205} we'll take the time to build and rank these sites. Might take us three months, but once the site is ranked, we'll see
+{ts:4212} the leads starting to come in. And you can either forward those leads, forward those phone calls unannounced to a
+{ts:4219} business owner with the whispered message, which I've pretty much done, or also I also teach uh where you can warm
+{ts:4226} hand off the lead as well. So you take the lead yourself and not everybody can do this because a lot of people are like
+{ts:4232} working a 9 to5 um and they can't take calls during the day and stuff like that. Then you're just going to forward
+{ts:4237} the leads unannounced to a business owner with a whisper message. But if you can take the calls, it can be quite
+{ts:4243} powerful. You take the calls as a re almost acting as like a receptionist. Hey, what are you looking to get done?
+{ts:4248} Oh, I need a concrete driveway. When do you need it done by? Where are you located? Oh, cool. My team will reach
+{ts:4254} back out to you. You take the customer information. You now look up various uh concrete companies in that area and call
+{ts:4260} them up. And here is like a key to this. Like you want to sound like a customer as long as possible. You don't want to
+{ts:4270} call them cold and say, "Hey, I'm a digital marketer. I'm a SEO lead genen. I have these leads for you." That's the
+{ts:4277} last thing you want to say, right? So, you go, "Hey, Mr. Business owner, like, do you guys do concrete driveways?" "Oh,
+{ts:4283} cool. You do? What's your guys's availability?" "Oh, we're we we're available like, you know, like we're
+{ts:4290} available right now." Awesome. So, I have uh I have this guy that needs a concrete driveway. I'm going to give you
+{ts:4297} their information. this is their name, phone number, uh this is what they want to get done. This is where they're
+{ts:4302} located. If you can reach back out to them, I' I'd highly appreciate it. Yeah, we we'll do that. Absolutely. Okay. But
+{ts:4310} also, by the way, I can also get get a few other customers for concrete driveways. Do you guys have availability
+{ts:4318} to handle more customers? Yes, we do. Okay, cool. I like to just kind of keep sending some customers your
+{ts:4325} way. What I am looking for is somebody, a concrete driveway company that I can work with long term where I can keep
+{ts:4333} sending you these customers and if these leads work out uh and you guys were to close some of these jobs, I like to get
+{ts:4339} paid some commissions. Is that something that you'd be interested in? So, yeah, like if you get us these customers and
+{ts:4346} if we close them, yeah, like we'll we'll give you some commission. So, that's kind of how you can start that
+{ts:4351} relationship. Same with like sending leads with a whisper message. talk about how you set up the whisper messages and
+{ts:4358} and yeah like uh just give people just a step by step for that. Yeah. So
+{ts:4365} uh under my like dashboard you can just buy any phone number with any area code in the US or you can buy numbers in uh
+{ts:4376} um it's at dashboard.ay.com eay.com. Um, and once you buy the number, each phone number is like $10 a month. Um, it
+{ts:4388} records every call, so you can hear the recording of every call that comes through.
+{ts:4393} You can attach a whisper message. So, a whisper message, you can just type in in in the settings, this lead was sent to
+{ts:4400} you by eBay, or this lead was sent to you by Edward. And that thing is going to play every time they pick up the
+{ts:4406} phone. Um, there's a few other features. It's like an AI voice that just says it
+{ts:4411} right there. Uhhuh. And then and then so it's like, yeah, this lead was sent to you by eBay and and then the lead comes
+{ts:4417} on and says, "Hey, like I need drywalling." Yeah. Yeah. Exactly. Yeah.
+{ts:4425} Yeah. um you start the relationship on a commission like cuz I mean you're removing all the risks for the business
+{ts:4433} owner and in the first month or two you there's a little bit of follow-up happening. I also ask if they're
+{ts:4439} interested, hey, if I sent you 10 leads, how many of these do you think you can close? Now they're kind of interested
+{ts:4446} because like they don't want to tell you a goofy goofy number, right? So they'll say like 30%. In most industry, these
+{ts:4452} businesses should be able to close like 30%. Right? If they tell you 10%, okay, well, like maybe we we're not going to
+{ts:4458} be a good fit, right? Um, you you you what I like about Rank and R is like you start to get more and more leverage in
+{ts:4465} the conversation the more the longer you start sending these leads cuz now they start to feel like they don't want to
+{ts:4471} lose you to their competitor. So then after a month or two of sending them like real leads, maybe they pay you some
+{ts:4479} commission on some of the jobs they close, but then it's much easier to then transition that conversation to, hey,
+{ts:4484} Mr. Business, I've been generating you 10 15 leads per month. Like each lead is, by the way, I al I also have a lead
+{ts:4491} value calculator. So, if you get the average value of a customer and their close rate and and they're willing to
+{ts:4498} pay you like 7% commission, you can then calculate the value of every lead, whether that's $40 or $60 per lead. So,
+{ts:4505} if you're generating 10 leads on average per month, then that site's easily worth $600 a month to that business owner. And
+{ts:4514} uh and the math just breaks it down right there. So, that closing that business owner after a month or two to a
+{ts:4519} flat fee, it becomes really simple. How often do you just sell the the websites that you make?
+{ts:4527} Um, not not I have not done that. Not really. Cuz like how do you even value the website? Most business owners don't
+{ts:4536} have like cash laying around like that. Um, I'd rather just make money on a monthly basis.
+{ts:4542} Yeah. What are you supposed to do not go into that market again? Yeah. Yeah. Exactly. And like how what
+{ts:4549} am I supposed to charge? Should I charge like, you know, $1,000 a month, which is what that site would have made over a
+{ts:4555} year? Even that's 12 grand. A lot of business owners don't have like that kind of
+{ts:4561} money laying around. And uh even if it's 12 grand, if I would have kept it, I would have made um money on that $1,000
+{ts:4568} a month in year two, year three. So, it's it's kind of hard to value these sites once you especially once you got a
+{ts:4574} good client on hand. Um, and what what contract terms uh like protect protect you? What stops what's especially for
+{ts:4584} businesses where it's like just things that happen regularly? Um, how do you stop the clients from taking or sorry,
+{ts:4593} not the clients. How do you stop the the companies from taking your your clients and taking your leads?
+{ts:4601} Not leads, but the clients. Yeah. So here here's what's kind of interesting about this rank and rent
+{ts:4607} model is that it's like most deals I don't need a contract. Um it's like on a handshake basis because ultimately I own
+{ts:4616} the website. I own the phone lines. I control where the these phone calls and these leads go to it. It's been a case
+{ts:4623} where the company that I'm working with, they're the ones that want to make a contract with me to make sure that I
+{ts:4628} don't start working with their competitor and I they won't exp then then yeah, you're going to go
+{ts:4635} somewhere else. Yeah, exactly. Um, so that's essentially it. And maybe if you do a flat feed,
+{ts:4642} maybe they want a contract, but again, it's not really necessary. Again, you can if you want, but I find that in this
+{ts:4650} business it's not most of the time it hasn't even been needed cuz I can I Yeah, if they don't pay me, right,
+{ts:4658} ultimately it's about getting paid, right? So, if they don't pay me, I can go find somebody else and start sending
+{ts:4663} the leads um to their competitors. So, um [clears throat] yeah, I think that's that's the ultimate
+{ts:4671} leverage anyway. um a co a contractor is not going to change that. If they if they're broke that month or something
+{ts:4678} happened, they can't pay me, a contractor is not going to force them to to pay me, right? If if I stop the leads
+{ts:4685} and start sending it to another company, then that might force their hand to okay, we got to pay pay ASAP, right? So,
+{ts:4692} um that's the checks and balance there. And how are you how are you scaling these? And then when do you like is
+{ts:4699} there a point where you're just like, "Yeah, I've kind of put everything into this site and I've scaled it as much as
+{ts:4704} it can go and then you're just like, yeah, I got to focus on something else." Yeah. So, I mean, once the site ranks
+{ts:4710} for like the main keyword um with the homepage on page one near the top of page one, I mean, I pretty much leave
+{ts:4717} that site alone and move on to the next site cuz you cuz you're just targeting a spec a very specific location with a
+{ts:4725} domain. So, it's like what are you going to do? Like how are you going to get into another location?
+{ts:4729} Exactly. Exactly. Yeah, that makes sense. Um all right, I have two questions left. You you are
+{ts:4735} awesome. This this is such a good episode. Like uh yeah, I'm I'm so hyped about this. Uh all right, two questions
+{ts:4742} and and these ones are about mistakes. Um so first is is for you. What what was your most expensive rank and rent
+{ts:4751} mistake? Um great question. most expensive rank and rent mistake.
+{ts:4763} It's uh when I didn't have the right team and the right process dialed like just
+{ts:4770} starting to get more and more lazy over time building sites that let's see what I can get away with like building just
+{ts:4778} throwing sites out there like the shotgun approach and like not getting detailed on the content and just
+{ts:4784} slacking off. uh I would say was costly because these those sites tended to not rank that well
+{ts:4792} and not produce results like long-term. I've also done experimental type of things of like getting bunch of
+{ts:4800} backlinks from like link generation kind of services uh where seemingly you were getting like
+{ts:4808} real links from other real sites but it would shoot up the rankings for some of the rank and rent but then the rankings
+{ts:4814} would come crashing down. So uh so anything that's kind of automated I have to be careful.
+{ts:4823} um nothing beats just putting in the quality pages up and also like I'm back links is more or less if you're not
+{ts:4831} careful with backlinks they've kind of hurt the performance of the site so I much rather just kind of focus on on
+{ts:4838} page topical authority targeting bottom ofunnel keywords and doing a really good job of writing really good content on it
+{ts:4845} with content not just wall of text but content that where H2s and H3s make sense and we're going a little bit more
+{ts:4853} in depth on that topic. And it's really it's really cool too cuz you said like you're not building links
+{ts:4859} to these sites and even if you're not I think you said you're not even sometimes you're not even linking to them from any
+{ts:4865} domains but you just by targeting the right bottom ofunnel keywords within 3 to four months you're ranking and
+{ts:4872} generating leads. Yeah. Yeah. Exactly. Um, one thing I want to test too is like what would
+{ts:4881} happen if I created like 10 YouTube video because some of these sites I created like one YouTube video targeting
+{ts:4887} that keyword, city keyword and uh linking to my site. So what happens if you create 10, 15, 20 YouTube videos
+{ts:4896} targeting all these different keywords on YouTube and linking back to your rank and run site. Let's say you get even
+{ts:4902} some bots going to your site from YouTube or even some clicks even. I can see potential potential in that kind of
+{ts:4909} strategy as well. Dude, I'm thinking about I'm thinking about ways that you could really scale
+{ts:4914} these into like some billion dollar company. like I like talking to you, it gets it makes me really excited about
+{ts:4921} SEO because I like I I I'm hearing this and I'm hearing that like everyone is making so much money and and I'm just
+{ts:4928} like let's take it another level like and so like something that I could imagine is you have these sites that are
+{ts:4933} ranking and then and then you this is this is what this is what I would probably do. I
+{ts:4938} would probably create a real brand and then take and then create um basically create pages for all the keywords. So
+{ts:4947} like you have some you have a rank and rent site. It's ranking for all these high intent keywords. I'm going to
+{ts:4954} create a a real brand that sounds like a real brand. Something like Joe's Plumbing or something like that actually
+{ts:4959} sounds like a real brand that can actually uh be national or like that can that can really be huge, right? Um, and
+{ts:4967} then I'm going to put out a I'm going to I'm going to basically 301 redirect every page from the rank and rent site
+{ts:4974} that is ranking to this like real brand which has like the exact same um pages on it except it's, you know, a different
+{ts:4982} company name. You've just changed out basically like the company name and the contact information. And then I'm going
+{ts:4987} to put out a bunch of press releases saying that this real brand acquired this site which you just 301 redirected
+{ts:4994} to this new brand. And then I'm going to start investing in I'm going to start um uh diversifying and so I'm going to have
+{ts:5004} like social accounts that are active. I'm going to hire people who are posting on on social. I'm going to I'm going to
+{ts:5008} have a YouTube and have an Instagram. I'm going to have a Tik Tok. I'm going to be be using my social media strategy
+{ts:5013} that's allowed me to grow to hundreds of thousands of people on Tik Tok and Instagram and uh and all these other
+{ts:5020} platforms. And and but then you said you have other cities. So, you're doing this for other cities now. And this is where
+{ts:5026} it can get really crazy because now you can start going after. So if you especially if you're staying in a niche
+{ts:5031} like plumbing or whatever the niche is cuz now you can you can get into you can get into so many
+{ts:5040} there's I think there's a lot more you you know what it is you can start actually
+{ts:5045} you will target a lot of a lot of top offunnel stuff just by accident but but you will basically it and when you have
+{ts:5055} a real brand you can rank a lot faster and a lot easier for high intent terms and for high volume terms you can go
+{ts:5061} into new cities easier. You can do there's just so much that you can do easier and and you can create this is
+{ts:5068} another huge thing. you can create top of- mind awareness as well because there are a lot of people who don't even go to
+{ts:5075} Google to search something and they just have a they they just like there's some there's a company on the top of their
+{ts:5080} mind because they're always seeing the these red trucks out there and and then you can and and you can
+{ts:5085} start getting into adjacent niches as well that it might not even be local like it like there's there's a lot of
+{ts:5094} different products that you can create and you can like it might not just services. I'm just thinking out loud
+{ts:5100} here and because you have assets that are that are ranking and bringing in money and you
+{ts:5106} can basically roll these up into one mega brand. That's kind of that's kind of what I'm thinking about. I don't have
+{ts:5112} the idea fully fleshed out, but it's something that's getting me excited. No, for sure. And uh um when it comes to
+{ts:5120} a brand or like a national brand, I'm the believer that like branded search signals is one of the most powerful
+{ts:5129} signals to have. For example, Rotorooer, everybody knows Rotorooer as a plumbing national brand. They get branded
+{ts:5138} searches. People actually going to that site because they search the brand. So I think when you want to compete on a
+{ts:5144} national level um you want to create that. Now how do we create that if it's like a brand new site without having
+{ts:5151} millions of dollars to spend on TV ads and billboard ads? I think if you can I think the big play here is if you can
+{ts:5157} create some sort of a utility on that kind of a site where people actually find it useful. People repeat traffic
+{ts:5164} people go going back to the site to use it for XYZ reason. Maybe it's an ability to get a quotation or using digital
+{ts:5174} means. For example, instead of the estimator coming to your house, maybe you can take a picture of your cabinets
+{ts:5180} or your kitchen, send it to this company and they can give you a quote digitally. That's a good example of a utility on on
+{ts:5187} a national branded site. Now you're now pe different people have a reason to come to that site rather than just
+{ts:5195} almost just landing on a site and just calling it, right? So that that can separate yourself and differentiate
+{ts:5200} yourself and like potentially be able to create a huge national brand like that. One of the things that yeah I think
+{ts:5207} about too but there you can see that in like a lot of directory sites too like the directory sites that are doing well
+{ts:5214} like longterm there's like a utility to it. I think the one I saw was a um I I think it was like for directory for
+{ts:5222} funeral funeral services. Um and it had like unique information on there that actually made it useful
+{ts:5231} actually made it where people wanted to come back to it or use it um for a specific purpose.
+{ts:5237} Yeah. Last question is what are the biggest reasons that rank and rent projects fail? Somebody someone listens
+{ts:5244} to this episode, they're like, "I'm so hyped. Let's do it. I'm make I'm going to There someone's listening. I'm going
+{ts:5250} to make a few grand a month and then I'm going to quit and then I'm going to put up a bunch of these more." And so like
+{ts:5257} Yeah. What I think it's important what are the biggest reasons that these fail so that listeners can avoid these
+{ts:5262} reasons. Yeah. The biggest reason by far is not building enough sites.
+{ts:5269} So this is the biggest like mental shift for people is like most people are 9 to5 uh which gives you absolute certainty
+{ts:5276} that you're going to make money if you spend if you invest hours into this particular job right but
+{ts:5282} entrepreneurship it's not like that there's a lot of uncertainty you have to invest some time into a project that
+{ts:5288} might not pan out so let's say you go into rank and rank you pick a vast city or niche you just build one website and
+{ts:5296} it didn't quite work out now you get discouraged about the model itself and you quit. I mean the only way to really
+{ts:5302} fail is if you quit, right? But if you build 10 rank and rent sites, you should not fail all 10. And let's say it takes
+{ts:5309} about 10 hours to build these sites like from start to finish. That's 10 times 10 hours times 10 websites, that's 100
+{ts:5316} hours. Um each site, but every mistake you is not a fail. You just you actually is a learning experience. You learn from
+{ts:5325} that. Um, and over the years that I've been part of like previous communities and whatnot, I've never seen anybody
+{ts:5331} build 10 rank and rent sites and not not be making money, not be talking to business owners with leads being
+{ts:5337} generated. And um, yeah, I mean, repetition, persistence, that's that's the number one skill, consistency. Um,
+{ts:5347} you know, like Edward, like you've been creating these YouTube videos every day for the last three, four years, which is
+{ts:5353} insane. Yeah. And uh that's the mother of all skill is consistency um and persistence. So and in rank and we're
+{ts:5362} not talking about you have to build 50 or 100 websites. I mean just get focus on getting 10 out there and I promise
+{ts:5367} you you will start seeing results. Rank and rent masterclass. Eay, thank you so much. Where should
+{ts:5375} everybody go and find you and find everything that you do and your awesome stuff?
+{ts:5380} Yeah, so you can visit my site eay.com. It's just my name, ipi.com, or you can find me on on YouTube, eBay. Just type
+{ts:5388} in eBay rank and rent or eay SEO. Thank you again. Thank you, Edward, for having me on,
+{ts:5395} dude. My pleasure. This has been this has been so good. Um, all right. This episode 1,117
+{ts:5401} of the podcast. 1,117 days in a row doing this show. Wow.
+{ts:5407} Yeah. Amazing. Yeah.
+{ts:5409} Oh, yeah. [laughter] If if you watch this on YouTube, thank you so much for watching. If you listened on Spotify or
+{ts:5415} Apple Podcasts, thank you so much for listening and I will talk to you again tomorrow. Bye now.

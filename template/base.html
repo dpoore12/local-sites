@@ -29,9 +29,13 @@
 
 {% block hero %}{% endblock %}
 
-{% block main %}{% endblock %}
-
+{# The form sits directly under the hero, immediately below the phone number,
+   because a visitor who is ready to act is ready in the first screen. It used to
+   sit at the foot of the page, roughly twenty-six thousand characters below the
+   hero number, which meant nobody scrolling for a phone number ever met it. #}
 {% include "leadform.html" %}
+
+{% block main %}{% endblock %}
 
 <footer>
   <div class="wrapper">
