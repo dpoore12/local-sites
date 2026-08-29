@@ -1,0 +1,365 @@
+niche,city,state,pop,vol,cpc,lead_value,query,name_conflict,local_in_top10,directories_in_top10,top5_pages_med,top5_pages_min,top10_pages_med,top10_pages_min,winner_words_med,winners_measured,score
+dumpster rental,Pensacola,FL,52703,880,9.27,8158,dumpster rental pensacola,clean,4,6,9,2,17,2,443,4,100
+dumpster rental,Hagerstown,MD,40612,480,8.87,4258,dumpster rental hagerstown,clean,5,5,23,2,27,2,777,5,100
+dryer vent cleaning,Sarasota,FL,53326,210,21.36,4486,dryer vent cleaning sarasota,clean,5,5,20.5,6,10,6,579,5,100
+dryer vent cleaning,Ocala,FL,57468,140,37.8,5292,dryer vent cleaning ocala,clean,5,5,10.0,8,12,8,810,3,100
+dumpster rental,Asheville,NC,87236,720,9.69,6977,dumpster rental asheville,clean,5,5,18,7,98,7,326,4,95
+dumpster rental,Georgetown,TX,54898,260,16.39,4261,dumpster rental georgetown,clean,4,6,17,17,132,17,734,3,95
+roof cleaning,Homestead,FL,64079,90,49.44,4450,roof cleaning homestead,clean,5,5,18,6,39,6,1741,4,95
+window tinting,Grand Junction,CO,59778,480,7.99,3835,window tinting grand junction,clean,8,2,14.5,2,27,2,506,3,94
+land clearing,Spartanburg,SC,37647,210,39.25,8242,land clearing spartanburg,clean,8,2,22,10,22,10,1326,3,94
+dumpster rental,Gulfport,MS,71012,480,11.12,5338,dumpster rental gulfport,clean,6,4,12.0,1,23,1,777,3,93
+dryer vent cleaning,Winter Garden,FL,37711,170,39.4,6698,dryer vent cleaning winter garden,clean,6,4,18,17,18,17,1205,3,93
+dryer vent cleaning,Bradenton,FL,51763,110,19.4,2134,dryer vent cleaning bradenton,clean,6,4,10,6,8,6,420,4,92.2
+air duct cleaning,Bradenton,FL,51763,110,38.61,4247,air duct cleaning bradenton,clean,6,4,27.0,8,46,8,642,3,91
+air duct cleaning,Appleton,WI,73596,170,22.57,3837,air duct cleaning appleton,clean,7,3,24.5,6,36,6,850,6,91
+chimney sweep,Santa Barbara,CA,90412,140,29.52,4133,chimney sweep santa barbara,clean,7,3,22.5,3,26,3,656,4,91
+dumpster rental,Wellington,FL,60202,170,28.41,4830,dumpster rental wellington,clean,7,3,9,6,9,6,1046,3,91
+window tinting,Bradenton,FL,51763,480,11.75,5640,window tinting bradenton,clean,7,3,14.5,11,14,7,936,4,91
+window tinting,Longview,TX,81443,390,7.97,3108,window tinting longview,clean,7,3,10,1,10,1,290,4,91
+air duct cleaning,Asheville,NC,87236,140,26.36,3690,air duct cleaning asheville,clean,7,3,24,9,50,9,814,6,91
+towing service,Bradenton,FL,51763,170,11.29,1919,towing service bradenton,clean,6,4,9.0,5,8,5,760,3,90.8
+roof cleaning,Fort Myers,FL,68190,170,21.43,3643,roof cleaning fort myers,clean,5,5,25,25,29,25,661,3,90
+window tinting,Panama City,FL,36877,390,5.07,1977,window tinting panama city,clean,7,3,10,5,10,5,483,4,89.2
+window tinting,Pensacola,FL,52703,880,6.97,6134,window tinting pensacola,clean,7,3,43,7,52,7,952,4,89
+junk removal,Littleton,CO,44275,260,33.79,8785,junk removal littleton,clean,5,5,29,25,789,25,1121,5,88
+roof cleaning,Beaverton,OR,93542,90,49.28,4435,roof cleaning beaverton,clean,6,4,25,14,25,14,630,3,88
+junk removal,Bradenton,FL,51763,480,15.84,7603,junk removal bradenton,clean,4,6,26,21,26,21,819,3,88
+dumpster rental,Biloxi,MS,44820,390,11.67,4551,dumpster rental biloxi,clean,5,5,27.0,23,30,23,952,3,88
+roof cleaning,Olympia,WA,48338,140,15.71,2199,roof cleaning olympia,clean,6,4,23.5,23,24,23,768,3,87.7
+window tinting,Greenville,NC,89130,590,5.96,3516,window tinting greenville,same name elsewhere,5,5,18,10,14,10,766,4,87
+window tinting,Daytona Beach,FL,62316,320,6.54,2093,window tinting daytona beach,clean,6,4,15.5,6,25,6,486,3,87.0
+window tinting,Manteca,CA,71948,320,6.25,2000,window tinting manteca,clean,6,4,17,7,17,7,348,3,86.3
+towing service,Pensacola,FL,52703,320,12.29,3933,towing service pensacola,clean,7,3,10.0,7,10,7,819,2,86
+dumpster rental,Spartanburg,SC,37647,480,12.5,6000,dumpster rental spartanburg,clean,6,4,46,24,89,24,1246,4,86
+pressure washing,Greenville,NC,89130,880,12.11,10657,pressure washing greenville,same name elsewhere,6,4,22.0,8,14,6,841,5,85
+dumpster rental,Bradenton,FL,51763,480,15.01,7205,dumpster rental bradenton,clean,7,3,39,21,30,7,1021,4,84
+pressure washing,Fort Myers,FL,68190,590,9.04,5334,pressure washing fort myers,clean,7,3,39,5,60,5,1193,5,84
+pressure washing,Mount Pleasant,SC,74885,210,27.69,5815,pressure washing mount pleasant,clean,7,3,44,2,36,2,914,4,84
+junk removal,Marietta,GA,59089,720,18.47,13298,junk removal marietta,clean,4,6,49,49,49,7,606,3,83
+window tinting,Rapid City,SD,70812,480,5.56,2669,window tinting rapid city,clean,5,5,6.5,4,6,4,692,2,82.8
+septic tank pumping,Asheville,NC,87236,70,30.08,2106,septic tank pumping asheville,clean,6,4,21,12,16,8,522,4,82.0
+septic tank pumping,Greenville,NC,89130,90,80.45,7240,septic tank pumping greenville,same name elsewhere,5,5,23,15,19,9,400,4,82
+pressure washing,Daytona Beach,FL,62316,210,11.32,2377,pressure washing daytona beach,clean,6,4,40,2,40,2,626,3,81.8
+window tinting,Greeley,CO,96539,320,8.04,2573,window tinting greeley,clean,7,3,31.5,3,56,3,733,5,81.2
+pressure washing,Marietta,GA,59089,170,15.11,2569,pressure washing marietta,clean,7,3,48,12,57,12,509,6,81.1
+dryer vent cleaning,Marietta,GA,59089,170,20.56,3495,dryer vent cleaning marietta,clean,6,4,34,28,287,28,873,4,81
+pressure washing,Apopka,FL,45587,170,20.91,3555,pressure washing apopka,clean,6,4,32,32,188,29,1052,4,81
+paintless dent repair,Marietta,GA,59089,390,9.36,3650,paintless dent repair marietta,clean,6,4,77,8,52,8,757,4,81
+pressure washing,Hilton Head Island,SC,39412,90,27.36,2462,pressure washing hilton head island,clean,7,3,43,23,33,7,606,4,80.4
+paintless dent repair,Rockwall,TX,40922,140,15.48,2167,paintless dent repair rockwall,clean,6,4,32,12,57,12,1199,4,80.4
+crawl space encapsulation,Greenville,NC,89130,90,39.5,3555,crawl space encapsulation greenville,same name elsewhere,6,4,13,13,13,11,1127,3,80
+pressure washing,Ocala,FL,57468,320,6.44,2061,pressure washing ocala,clean,7,3,16.0,9,16,9,824,2,79.7
+pressure washing,Bradenton,FL,51763,320,6.17,1974,pressure washing bradenton,clean,7,3,1,1,1,1,,1,79.2
+window tinting,Summerville,SC,46074,880,5.98,5262,window tinting summerville,clean,7,3,62,2,1183,2,829,4,79
+septic tank pumping,Hesperia,CA,92147,110,101.86,11205,septic tank pumping hesperia,clean,7,3,29,16,44,16,1710,4,79
+pressure washing,Pensacola,FL,52703,590,7.44,4390,pressure washing pensacola,clean,7,3,39.5,33,42,33,992,5,79
+dryer vent cleaning,Littleton,CO,44275,70,41.54,2908,dryer vent cleaning littleton,clean,7,3,99,1,137,1,989,4,78.4
+chimney sweep,Manassas,VA,41705,90,20.45,1840,chimney sweep manassas,clean,7,3,3.0,1,3,1,815,2,78.3
+junk removal,Kissimmee,FL,65173,260,26.67,6934,junk removal kissimmee,clean,5,5,28,28,28,2,891,3,78
+junk removal,Kirkland,WA,84430,480,22.93,11006,junk removal kirkland,clean,5,5,91.0,8,102,8,1555,4,78
+junk removal,Castle Rock,CO,53063,210,30.29,6361,junk removal castle rock,clean,5,5,62,25,62,25,708,3,78
+land clearing,Conroe,TX,63032,140,18.12,2537,land clearing conroe,clean,6,4,47.0,12,47,12,1690,4,77.9
+dryer vent cleaning,Greenville,NC,89130,110,16.7,1837,dryer vent cleaning greenville,same name elsewhere,6,4,12,10,33,10,644,5,77.2
+roof cleaning,Bellingham,WA,82631,170,24.01,4082,roof cleaning bellingham,clean,6,4,49,40,49,12,1220,5,76
+air duct cleaning,Kissimmee,FL,65173,260,39.82,10353,air duct cleaning kissimmee,clean,6,4,56,5,36,5,836,4,76
+septic tank pumping,Hendersonville,TN,54068,90,24.47,2202,septic tank pumping hendersonville,clean,6,4,29.0,26,32,26,638,3,75.7
+dumpster rental,Conroe,TX,63032,480,12.77,6130,dumpster rental conroe,clean,7,3,63,4,167,4,816,4,74
+dumpster rental,Macon,GA,89981,590,8.61,5080,dumpster rental macon,clean,7,3,66,7,66,7,616,4,74
+air duct cleaning,Apex,NC,42214,720,15.39,11081,air duct cleaning apex,clean,7,3,83.0,11,148,11,725,6,74
+window tinting,Fort Smith,AR,87650,320,5.12,1638,window tinting fort smith,clean,4,6,31.0,21,41,21,790,3,73.9
+window tinting,Tracy,CA,84691,320,6.41,2051,window tinting tracy,clean,5,5,25,25,22,19,180,2,73.7
+septic tank pumping,Warner Robins,GA,72531,140,42.74,5984,septic tank pumping warner robins,clean,5,5,96,13,96,13,1050,3,73
+window tinting,Yuba City,CA,65416,320,5.42,1734,window tinting yuba city,clean,6,4,30,15,23,15,632,4,72.6
+window tinting,Conway,AR,63816,320,5.79,1853,window tinting conway,clean,4,6,13.0,11,13,11,801,2,72.4
+towing service,Fort Myers,FL,68190,210,8.97,1884,towing service fort myers,clean,8,2,7.5,7,7,7,583,2,71.6
+chimney sweep,Lynchburg,VA,78014,140,12.26,1716,chimney sweep lynchburg,clean,4,6,13,13,38,13,529,2,71.4
+air duct cleaning,Puyallup,WA,38609,90,52.65,4738,air duct cleaning puyallup,clean,6,4,104.0,6,104,6,736,6,71
+air duct cleaning,Greenville,NC,89130,260,21.61,5619,air duct cleaning greenville,same name elsewhere,7,3,33,12,95,12,734,5,71
+window tinting,Fort Myers,FL,68190,590,7.45,4396,window tinting fort myers,clean,6,4,94.0,12,66,12,1308,6,71
+dumpster rental,Bentonville,AR,40167,480,11.81,5669,dumpster rental bentonville,clean,6,4,75,39,67,39,1829,4,71
+window tinting,St. George,UT,76817,320,5.16,1651,window tinting st. george,clean,7,3,41,16,159,16,777,4,70.0
+pressure washing,Alpharetta,GA,62298,480,12.73,6110,pressure washing alpharetta,clean,7,3,57.5,16,67,16,675,5,69
+air duct cleaning,Sarasota,FL,53326,320,28,8960,air duct cleaning sarasota,clean,7,3,161,2,96,2,873,6,69
+junk removal,Fort Myers,FL,68190,480,15.43,7406,junk removal fort myers,clean,4,6,33,33,33,33,1925,1,68
+dumpster rental,Frederick,MD,66893,390,10.93,4263,dumpster rental frederick,clean,5,5,27,27,23,20,1521,2,68
+auto glass repair,Petaluma,CA,59440,110,22.58,2484,auto glass repair petaluma,clean,6,4,104,6,493,6,371,5,67.6
+dumpster rental,Canton,OH,72535,590,7.81,4608,dumpster rental canton,clean,8,2,53.5,11,84,11,1011,5,67
+pressure washing,Sugar Land,TX,83860,260,6.27,1630,pressure washing sugar land,clean,6,4,37,26,50,26,1668,4,66.9
+air duct cleaning,Wheaton,IL,53648,70,71.93,5035,air duct cleaning wheaton,clean,6,4,97,72,97,72,461,3,66
+air duct cleaning,Pflugerville,TX,53752,90,50.22,4520,air duct cleaning pflugerville,clean,6,4,122.5,21,122,21,1130,4,66
+pressure washing,Asheville,NC,87236,320,10.38,3322,pressure washing asheville,clean,6,4,194,5,127,5,319,4,66
+dumpster rental,Bonita Springs,FL,47547,210,22.6,4746,dumpster rental bonita springs,clean,6,4,95,63,95,63,891,5,66
+dryer vent cleaning,Jupiter,FL,58298,110,15.79,1737,dryer vent cleaning jupiter,clean,7,3,58.0,14,84,14,425,5,65.6
+dumpster rental,Cleveland,TN,42774,1900,7.58,14402,dumpster rental cleveland,BIGGER same name,4,6,10.5,6,15,6,936,3,65
+dumpster rental,Lancaster,OH,39325,590,7.21,4254,dumpster rental lancaster,BIGGER same name,5,5,22.0,3,40,3,1270,4,65
+pressure washing,Charleston,WV,50821,1900,9.03,17157,pressure washing charleston,BIGGER same name,5,5,11.5,7,16,7,1903,3,65
+pressure washing,Leesburg,VA,47673,70,25.56,1789,pressure washing leesburg,clean,5,5,93.5,32,34,32,659,3,64.9
+pressure washing,Boca Raton,FL,89407,320,9.52,3046,pressure washing boca raton,clean,7,3,56,37,200,37,583,4,64
+air duct cleaning,Ogden,UT,84249,110,38.64,4250,air duct cleaning ogden,clean,7,3,70,38,65,38,1722,4,64
+dryer vent cleaning,Alpharetta,GA,62298,110,16.24,1786,dryer vent cleaning alpharetta,clean,8,2,34,28,815,28,985,5,63.9
+auto glass repair,Columbus,IN,45775,720,7.85,5652,auto glass repair columbus,BIGGER same name,6,4,13,9,31,9,645,4,63
+towing service,Auburn,AL,58582,480,7,3360,towing service auburn,BIGGER same name,6,4,3,2,3,2,699,3,63
+paintless dent repair,Madison,AL,45799,720,15.07,10850,paintless dent repair madison,BIGGER same name,6,4,7,4,12,4,718,4,63
+dryer vent cleaning,Charleston,WV,50821,140,20.74,2904,dryer vent cleaning charleston,BIGGER same name,6,4,2,2,78,2,2019,4,62.4
+window tinting,Littleton,CO,44275,1000,6.48,6480,window tinting littleton,clean,8,2,140,16,140,16,1275,3,62
+air duct cleaning,Loveland,CO,71334,170,29.2,4964,air duct cleaning loveland,clean,6,4,175,21,153,21,1245,5,61
+dryer vent cleaning,Schaumburg,IL,74907,320,38.15,12208,dryer vent cleaning schaumburg,clean,6,4,95,62,210,62,411,6,61
+radon mitigation,Columbus,IN,45775,320,20.29,6493,radon mitigation columbus,BIGGER same name,7,3,10,6,66,6,724,4,61
+pressure washing,Columbus,IN,45775,390,28.83,11244,pressure washing columbus,BIGGER same name,7,3,14,4,14,4,926,5,61
+window tinting,Charleston,WV,50821,590,5.63,3322,window tinting charleston,BIGGER same name,7,3,16.0,2,26,2,1010,6,61
+roof cleaning,Salem,MA,42544,170,17.85,3035,roof cleaning salem,BIGGER same name,7,3,19.0,8,30,8,456,3,61
+asbestos removal,Cleveland,TN,42774,110,29.48,3243,asbestos removal cleveland,BIGGER same name,7,3,11.5,8,15,8,403,3,61
+air duct cleaning,Fort Myers,FL,68190,260,33.71,8765,air duct cleaning fort myers,clean,6,4,155,11,155,11,644,3,61
+gutter installation,Asheville,NC,87236,90,46.76,4208,gutter installation asheville,clean,6,4,170.0,18,322,18,1032,3,61
+basement waterproofing,Columbus,IN,45775,260,56.18,14607,basement waterproofing columbus,BIGGER same name,7,3,18,10,41,10,737,4,61
+air duct cleaning,Schaumburg,IL,74907,260,32.1,8346,air duct cleaning schaumburg,clean,6,4,95,59,169,59,667,4,61
+chimney sweep,Lawrence,KS,90811,70,33.46,2342,chimney sweep lawrence,same name elsewhere,5,5,46.5,24,46,24,369,2,60.6
+window tinting,San Marcos,CA,89387,260,7.12,1851,window tinting san marcos,same name elsewhere,6,4,62.0,7,106,7,1188,5,60.3
+septic tank pumping,Ocala,FL,57468,170,16.31,2773,septic tank pumping ocala,clean,6,4,235.0,5,235,5,661,5,59.5
+window tinting,Lancaster,OH,39325,390,5.51,2149,window tinting lancaster,BIGGER same name,5,5,5.5,5,49,5,856,4,59.3
+dryer vent cleaning,Flower Mound,TX,68609,70,32.36,2265,dryer vent cleaning flower mound,clean,7,3,177,1,337,1,842,4,59.1
+chimney sweep,Annapolis,MD,38722,720,19.57,14090,chimney sweep annapolis,clean,7,3,263.5,9,60,9,521,3,59
+dumpster rental,Sarasota,FL,53326,480,13.73,6590,dumpster rental sarasota,clean,7,3,136.0,26,136,26,1001,4,59
+air duct cleaning,Cypress,CA,49087,140,31.79,4451,air duct cleaning cypress,clean,7,3,101.5,34,154,34,1062,6,59
+air duct cleaning,Rockwall,TX,40922,140,83.78,11729,air duct cleaning rockwall,clean,7,3,140,36,100,36,842,4,59
+dumpster rental,Ocala,FL,57468,1000,8.61,8610,dumpster rental ocala,clean,7,3,183,50,183,50,884,3,59
+hardwood floor refinishing,Portland,ME,66318,210,31.54,6623,hardwood floor refinishing portland,BIGGER same name,6,4,4.5,4,4,3,242,3,58
+junk removal,Bremerton,WA,39056,320,23.42,7494,junk removal bremerton,clean,5,5,97,97,443,97,2347,2,58
+pressure washing,Fayetteville,AR,78960,260,13.92,3619,pressure washing fayetteville,BIGGER same name,6,4,7,4,10,4,1656,4,58
+junk removal,Palm Coast,FL,78740,590,13.1,7729,junk removal palm coast,clean,5,5,398.0,7,7,6,464,3,58
+popcorn ceiling removal,Jacksonville,NC,69079,90,32.88,2959,popcorn ceiling removal jacksonville,BIGGER same name,6,4,10,4,53,4,811,4,57.7
+auto glass repair,Beaverton,OR,93542,70,24.21,1695,auto glass repair beaverton,clean,6,4,149,6,153,6,845,4,57.3
+pressure washing,Boynton Beach,FL,71097,170,9.57,1627,pressure washing boynton beach,clean,6,4,37,37,29,21,515,2,56.8
+chimney sweep,Lancaster,PA,59325,260,6.65,1729,chimney sweep lancaster,BIGGER same name,5,5,20,5,20,5,642,5,56.5
+hardwood floor refinishing,Cleveland,TN,42774,110,15.71,1728,hardwood floor refinishing cleveland,BIGGER same name,5,5,6.5,1,12,1,734,3,56.5
+towing service,Auburn,WA,74860,480,7,3360,towing service auburn,same name elsewhere,7,3,175,8,672,8,571,4,56
+air duct cleaning,Castle Rock,CO,53063,210,23.22,4876,air duct cleaning castle rock,clean,6,4,175,90,175,90,989,3,56
+stucco repair,Santa Fe,NM,69976,260,13.18,3427,stucco repair santa fe,clean,6,4,149.5,48,48,16,694,3,56
+dumpster rental,Warner Robins,GA,72531,480,8.95,4296,dumpster rental warner robins,clean,6,4,216.5,7,67,7,899,3,56
+pressure washing,Summerville,SC,46074,390,9.94,3877,pressure washing summerville,clean,6,4,139.5,78,78,14,497,3,56
+window tinting,Greenville,SC,61397,590,5.96,3516,window tinting greenville,BIGGER same name,7,3,12.0,5,18,5,716,3,56
+air duct cleaning,Downers Grove,IL,49670,170,50.53,8590,air duct cleaning downers grove,clean,6,4,102,97,172,97,461,4,56
+dryer vent cleaning,Conroe,TX,63032,70,25.28,1770,dryer vent cleaning conroe,clean,7,3,138,10,391,10,739,4,55.8
+hardwood floor refinishing,Columbus,IN,45775,170,13.02,2213,hardwood floor refinishing columbus,BIGGER same name,7,3,6,3,210,3,642,6,55.8
+chimney sweep,New Braunfels,TX,63279,70,27.15,1900,chimney sweep new braunfels,clean,5,5,198,13,198,13,601,3,55.7
+septic tank pumping,Fort Myers,FL,68190,140,12.41,1737,septic tank pumping fort myers,clean,7,3,53.0,45,55,45,862,5,55.6
+dryer vent cleaning,Fort Myers,FL,68190,140,15.43,2160,dryer vent cleaning fort myers,clean,6,4,155,11,155,5,644,5,55.4
+chimney sweep,Lancaster,OH,39325,260,6.65,1729,chimney sweep lancaster,BIGGER same name,6,4,23,5,23,1,1138,5,54.5
+auto glass repair,Springfield,OR,60177,480,5.66,2717,auto glass repair springfield,BIGGER same name,7,3,15,6,254,6,331,4,54.1
+air duct cleaning,Lakewood,CA,81121,170,50.7,8619,air duct cleaning lakewood,BIGGER same name,8,2,2,1,111,1,1671,6,54
+pressure washing,Lancaster,TX,38071,90,22.65,2038,pressure washing lancaster,BIGGER same name,5,5,18,11,18,11,1240,4,53.6
+pressure washing,Portland,ME,66318,320,6.18,1978,pressure washing portland,BIGGER same name,5,5,18,8,295,8,1079,4,53.2
+pressure washing,Conroe,TX,63032,260,15.51,4033,pressure washing conroe,clean,5,5,341.5,12,154,12,655,3,53
+dumpster rental,Plymouth,MN,73987,590,8.79,5186,dumpster rental plymouth,clean,5,5,77,77,39012,77,514,2,53
+dumpster rental,Marietta,GA,59089,480,10.17,4882,dumpster rental marietta,clean,5,5,227.5,29,29,7,899,3,53
+roof cleaning,Portland,ME,66318,390,33.98,13252,roof cleaning portland,BIGGER same name,6,4,20,18,20,18,630,3,53
+junk removal,Georgetown,TX,54898,320,23.31,7459,junk removal georgetown,clean,5,5,216,36,451,36,890,4,53
+chimney sweep,Salem,MA,42544,170,20.5,3485,chimney sweep salem,BIGGER same name,6,4,21.0,8,21,8,494,2,53
+fence installation,Lancaster,OH,39325,210,14.25,2992,fence installation lancaster,BIGGER same name,6,4,1,1,19,1,721,2,52.9
+chimney sweep,Franklin,TN,68886,90,36.69,3302,chimney sweep franklin,clean,8,2,135,31,302,1,865,6,52
+dryer vent cleaning,Downers Grove,IL,49670,90,26.19,2357,dryer vent cleaning downers grove,clean,6,4,178,97,140,97,665,4,51.7
+roof cleaning,Puyallup,WA,38609,170,16.36,2781,roof cleaning puyallup,clean,6,4,504,5,504,5,1553,5,51.5
+air duct cleaning,Littleton,CO,44275,210,32.45,6815,air duct cleaning littleton,clean,6,4,175,175,90,1,1689,3,51
+dumpster rental,New Braunfels,TX,63279,390,11.3,4407,dumpster rental new braunfels,clean,6,4,202.0,13,65,13,623,5,51
+basement waterproofing,Lancaster,PA,59325,70,60.92,4264,basement waterproofing lancaster,BIGGER same name,7,3,7,7,7,7,778,1,51
+dumpster rental,Albany,GA,76185,590,8.51,5021,dumpster rental albany,BIGGER same name,7,3,13,13,315,13,793,5,51
+septic tank pumping,North Miami,FL,61007,260,215.13,55934,septic tank pumping north miami,clean,6,4,77.0,66,77,66,1647,2,51
+roof cleaning,Boca Raton,FL,89407,140,37.69,5277,roof cleaning boca raton,clean,6,4,127,56,56,13,748,5,51
+basement waterproofing,Lancaster,TX,38071,70,60.92,4264,basement waterproofing lancaster,BIGGER same name,7,3,8.5,7,8,7,1127,2,51
+air duct cleaning,Marietta,GA,59089,210,29.69,6235,air duct cleaning marietta,clean,6,4,287.5,34,61,34,1462,4,51
+dryer vent cleaning,Pensacola,FL,52703,110,20.37,2241,dryer vent cleaning pensacola,clean,6,4,219.5,24,371,24,892,5,50.9
+pressure washing,Sanford,FL,56002,110,15.92,1751,pressure washing sanford,clean,7,3,183,44,183,44,1146,3,50.7
+auto glass repair,Fort Myers,FL,68190,170,11.93,2028,auto glass repair fort myers,clean,8,2,69,55,1662,55,1489,4,50.5
+junk removal,Upland,CA,75413,320,21.33,6826,junk removal upland,clean,5,5,789,5,449,5,730,4,50
+chimney sweep,Hagerstown,MD,40612,90,26.69,2402,chimney sweep hagerstown,clean,7,3,135,79,135,12,714,5,50.0
+stump grinding,Jacksonville,NC,69079,110,15.81,1739,stump grinding jacksonville,BIGGER same name,6,4,9.5,9,10,9,358,3,49.6
+pressure washing,Lancaster,PA,59325,90,22.65,2038,pressure washing lancaster,BIGGER same name,7,3,18,11,18,11,926,4,49.6
+stump grinding,Portland,ME,66318,140,11.79,1651,stump grinding portland,BIGGER same name,6,4,5,4,5,4,986,3,49.0
+basement waterproofing,Cleveland,TN,42774,210,48.01,10082,basement waterproofing cleveland,BIGGER same name,6,4,18,18,18,18,1127,1,48
+dumpster rental,Kissimmee,FL,65173,480,12.3,5904,dumpster rental kissimmee,clean,5,5,313.5,7,313,7,1197,2,48
+air duct cleaning,Pensacola,FL,52703,260,21.14,5496,air duct cleaning pensacola,clean,5,5,341.5,68,68,45,1051,3,48
+pressure washing,Huntsville,TX,39795,320,13.12,4198,pressure washing huntsville,BIGGER same name,5,5,35.5,26,45,26,1009,3,48
+fence installation,Portland,ME,66318,70,25.45,1782,fence installation portland,BIGGER same name,7,3,25,10,99,10,906,5,47.9
+pressure washing,Lancaster,OH,39325,90,22.65,2038,pressure washing lancaster,BIGGER same name,7,3,46,8,18,8,931,6,47.6
+siding repair,Marietta,GA,59089,70,51.72,3620,siding repair marietta,clean,8,2,141,110,153,110,1212,4,47
+dryer vent cleaning,Melbourne,FL,77508,70,33.02,2311,dryer vent cleaning melbourne,clean,6,4,52,52,52,52,734,1,46.4
+gutter installation,Wilmington,DE,71525,70,61.18,4283,gutter installation wilmington,BIGGER same name,6,4,30,16,23,11,683,4,46
+window tinting,Sarasota,FL,53326,880,11.54,10155,window tinting sarasota,clean,7,3,31086.0,12,22,12,1108,3,46
+air duct cleaning,Lakewood,OH,51143,170,50.7,8619,air duct cleaning lakewood,BIGGER same name,6,4,68,1,154,1,1499,6,46
+window tinting,Lake Charles,LA,74024,390,6.67,2601,window tinting lake charles,clean,5,5,305.0,28,28,6,556,3,45.3
+concrete leveling,Cleveland,TN,42774,70,27.87,1951,concrete leveling cleveland,BIGGER same name,9,1,18,16,75,16,863,5,45.0
+window tinting,Roseville,MI,47555,390,6.35,2476,window tinting roseville,BIGGER same name,4,6,37.5,2,37,2,421,2,44.5
+stucco repair,Jacksonville,NC,69079,260,7.69,1999,stucco repair jacksonville,BIGGER same name,6,4,30.0,9,30,9,870,4,44.3
+dryer vent cleaning,Jacksonville,NC,69079,390,25.36,9890,dryer vent cleaning jacksonville,BIGGER same name,7,3,33,24,28,10,745,4,44
+air duct cleaning,Jacksonville,NC,69079,590,29.51,17411,air duct cleaning jacksonville,BIGGER same name,7,3,28.5,23,28,10,799,6,44
+air duct cleaning,Greeley,CO,96539,390,28.56,11138,air duct cleaning greeley,clean,7,3,229,46,175,40,1751,7,44
+air duct cleaning,Manassas,VA,41705,140,29.03,4064,air duct cleaning manassas,clean,7,3,335,89,155,60,1278,5,44
+air duct cleaning,Cedar Park,TX,61238,70,75.31,5272,air duct cleaning cedar park,clean,6,4,444.0,21,444,21,1644,4,43
+chimney sweep,Westminster,CA,91739,170,22.97,3905,chimney sweep westminster,BIGGER same name,8,2,46.0,15,46,15,934,6,42
+air duct cleaning,Alexandria,LA,48426,720,16.45,11844,air duct cleaning alexandria,BIGGER same name,8,2,82.0,10,131,10,1885,6,42
+chimney sweep,Lawrence,MA,77657,70,33.46,2342,chimney sweep lawrence,BIGGER same name,6,4,32,25,32,25,632,4,41.6
+window tinting,San Marcos,TX,54076,260,7.12,1851,window tinting san marcos,BIGGER same name,7,3,28,22,67,22,959,4,41.3
+junk removal,Concord,NH,42419,170,44.05,7488,junk removal concord,BIGGER same name,6,4,79.5,15,56,15,1121,5,41
+pressure washing,Springfield,OR,60177,590,20.38,12024,pressure washing springfield,BIGGER same name,6,4,34.0,8,34,8,932,2,41
+dumpster rental,Miami Beach,FL,91026,140,89.18,12485,dumpster rental miami beach,clean,6,4,233,80,233,80,803,5,41
+air duct cleaning,Huntsville,TX,39795,260,38.73,10070,air duct cleaning huntsville,BIGGER same name,6,4,84,19,124,19,1787,5,41
+junk removal,Bellingham,WA,82631,480,16.38,7862,junk removal bellingham,clean,7,3,405.0,21,74,21,828,3,41
+gutter installation,Fort Myers,FL,68190,110,37.11,4082,gutter installation fort myers,clean,7,3,489.0,21,240,21,1514,5,41
+chimney sweep,Chapel Hill,NC,59635,70,38.25,2678,chimney sweep chapel hill,clean,5,5,324,256,324,256,452,3,40.9
+pool resurfacing,Sarasota,FL,53326,140,12.64,1770,pool resurfacing sarasota,clean,7,3,136,136,121,60,1553,3,40.8
+chimney sweep,Spartanburg,SC,37647,90,28.92,2603,chimney sweep spartanburg,clean,4,6,308.0,217,217,185,748,3,40.4
+window tinting,Lancaster,PA,59325,390,5.51,2149,window tinting lancaster,BIGGER same name,6,4,51.5,10,10,6,196,3,40.3
+window tinting,Loveland,CO,71334,210,8.73,1833,window tinting loveland,clean,6,4,698.5,1,703,1,1188,4,40.2
+window tinting,Bowling Green,KY,61488,210,8.42,1768,window tinting bowling green,clean,6,4,31080.5,1,32,1,1188,3,39.8
+window tinting,Cedar Park,TX,61238,170,11.84,2013,window tinting cedar park,clean,7,3,2224.5,2,2225,2,1058,4,39.4
+piano moving,Columbus,IN,45775,170,9.97,1695,piano movers columbus,BIGGER same name,6,4,22.5,18,22,18,365,2,39.3
+gutter installation,Portland,ME,66318,140,27.79,3891,gutter installation portland,BIGGER same name,7,3,52,6,52,6,974,5,39
+dumpster rental,Ormond Beach,FL,38661,210,27.46,5767,dumpster rental ormond beach,clean,7,3,,,113,113,335,1,39
+air duct cleaning,Salem,MA,42544,170,40.78,6933,air duct cleaning salem,BIGGER same name,7,3,80.5,20,60,20,1553,3,39
+fence installation,Lancaster,TX,38071,210,14.25,2992,fence installation lancaster,BIGGER same name,7,3,59,13,55,13,1810,5,38.9
+epoxy garage floor,Sarasota,FL,53326,140,12.2,1708,epoxy garage floor sarasota,clean,8,2,201.0,31,766,31,3053,6,38.4
+roof cleaning,Everett,MA,42935,70,26.07,1825,roof cleaning everett,BIGGER same name,6,4,30.0,29,29,28,1351,3,38.2
+air duct cleaning,Longmont,CO,89919,320,26.93,8618,air duct cleaning longmont,clean,5,5,342.0,153,164,90,1245,4,38
+junk removal,Frederick,MD,66893,390,27.1,10569,junk removal frederick,clean,6,4,422.0,46,202,46,580,3,38
+dumpster rental,Edmond,OK,87004,590,10.19,6012,dumpster rental edmond,clean,5,5,287.0,148,412,148,899,3,38
+pressure washing,Macon,GA,89981,140,12.13,1698,pressure washing macon,clean,6,4,110,102,106,45,716,4,37.3
+auto glass repair,Yakima,WA,93257,320,6.5,2080,auto glass repair yakima,clean,6,4,493,12,493,12,317,3,36.9
+window tinting,Warner Robins,GA,72531,320,5.44,1741,window tinting warner robins,clean,3,7,31086.0,12,924,12,583,3,36.6
+pressure washing,Palm Beach Gardens,FL,50699,90,25.81,2323,pressure washing palm beach gardens,clean,6,4,118.0,104,118,104,434,2,36.5
+chimney sweep,Roanoke,VA,98465,170,13.47,2290,chimney sweep roanoke,clean,6,4,252.0,64,64,60,869,3,36.3
+pressure washing,Wilmington,DE,71525,720,9.33,6718,pressure washing wilmington,BIGGER same name,6,4,52.5,15,90,15,801,3,36
+gutter installation,Marietta,GA,59089,90,50.51,4546,gutter installation marietta,clean,7,3,666,62,402,62,1212,4,36
+dumpster rental,Boca Raton,FL,89407,260,22.07,5738,dumpster rental boca raton,clean,6,4,329.5,233,280,132,1046,4,36
+dumpster rental,Portland,ME,66318,880,6.96,6125,dumpster rental portland,BIGGER same name,6,4,79,23,426,23,802,5,36
+piano moving,Portland,ME,66318,320,13.92,4454,piano movers portland,BIGGER same name,6,4,64.5,14,115,14,864,3,36
+junk removal,Salem,MA,42544,1000,10.04,10040,junk removal salem,BIGGER same name,6,4,61,33,83,33,1166,4,36
+junk removal,Petaluma,CA,59440,880,12.17,10710,junk removal petaluma,clean,4,6,1389.0,37,1389,37,429,2,35
+junk removal,Beaverton,OR,93542,480,15.9,7632,junk removal beaverton,clean,4,6,1262.5,52,2473,52,1734,3,35
+basement waterproofing,Rockville,MD,64072,70,60.93,4265,basement waterproofing rockville,clean,7,3,158,158,158,158,1604,1,34
+junk removal,Portland,ME,66318,2400,15.08,36192,junk removal portland,BIGGER same name,5,5,81,37,59,28,996,4,33
+fence installation,Boca Raton,FL,89407,210,17.41,3656,fence installation boca raton,clean,6,4,610,100,355,23,2595,4,33
+air duct cleaning,Ocala,FL,57468,170,38.26,6504,air duct cleaning ocala,clean,6,4,615,147,269,12,810,5,33
+dumpster rental,Meridian,MS,40921,390,11.84,4618,dumpster rental meridian,BIGGER same name,8,2,200,1,3743,1,350,4,32
+dumpster rental,Fort Myers,FL,68190,880,15.79,13895,dumpster rental fort myers,clean,8,2,329.5,132,329,63,895,6,32
+fence installation,Lancaster,PA,59325,210,14.25,2992,fence installation lancaster,BIGGER same name,8,2,70,38,70,38,1047,5,31.9
+gutter installation,Madison,AL,45799,170,48.49,8243,gutter installation madison,BIGGER same name,6,4,115,25,70,6,824,4,31
+dumpster rental,Panama City,FL,36877,480,16.63,7982,dumpster rental panama city,clean,6,4,233,233,329,233,660,2,31
+basement waterproofing,Lancaster,OH,39325,70,60.92,4264,basement waterproofing lancaster,BIGGER same name,6,4,65,52,58,7,1127,4,31
+air duct cleaning,Columbus,IN,45775,590,19.58,11552,air duct cleaning columbus,BIGGER same name,6,4,133.5,24,133,24,1495,4,31
+dumpster rental,Albany,NY,98424,590,8.51,5021,dumpster rental albany,same name elsewhere,7,3,315,87,201,39,731,4,31
+junk removal,Alpharetta,GA,62298,390,24.19,9434,junk removal alpharetta,clean,4,6,1631.0,789,789,182,1121,3,30
+siding repair,Jacksonville,NC,69079,70,36.14,2530,siding repair jacksonville,BIGGER same name,5,5,153,7,153,7,1889,3,29.9
+dryer vent cleaning,Columbus,IN,45775,390,17.59,6860,dryer vent cleaning columbus,BIGGER same name,7,3,129,24,138,24,989,5,29
+gutter installation,Jacksonville,NC,69079,140,39.51,5531,gutter installation jacksonville,BIGGER same name,7,3,60,26,60,26,1834,5,29
+chimney sweep,Bristol,CT,60568,70,27.78,1945,chimney sweep bristol,clean,6,4,313.0,34,313,34,881,2,29.0
+chimney sweep,Marietta,GA,59089,260,8.87,2306,chimney sweep marietta,clean,6,4,693,209,693,209,1053,3,28.4
+chimney sweep,Roseville,MI,47555,110,16.51,1816,chimney sweep roseville,BIGGER same name,6,4,154,1,77,1,1467,4,28.1
+junk removal,Newton,MA,87971,260,25.16,6542,junk removal newton,clean,6,4,2473,145,1408,145,659,4,28
+dumpster rental,Meridian,ID,83596,390,11.84,4618,dumpster rental meridian,same name elsewhere,7,3,7287,39,7287,39,350,3,28
+chimney sweep,Albany,NY,98424,140,23.48,3287,chimney sweep albany,same name elsewhere,6,4,257.0,157,357,157,590,3,28
+dryer vent cleaning,Walnut Creek,CA,66900,90,37.63,3387,dryer vent cleaning walnut creek,clean,6,4,6321.5,1767,3024,222,985,5,28
+dryer vent cleaning,Frederick,MD,66893,110,27.03,2973,dryer vent cleaning frederick,clean,6,4,4869.0,119,335,119,869,3,27.8
+mobile mechanic,Palm Coast,FL,78740,210,9.41,1976,mobile mechanic palm coast,clean,6,4,43553.0,68,191,68,1008,3,26.2
+dumpster rental,Homestead,FL,64079,170,31.03,5275,dumpster rental homestead,clean,6,4,233,233,511,233,1046,2,26
+septic tank pumping,Cleveland,TN,42774,140,43.27,6058,septic tank pumping cleveland,BIGGER same name,6,4,207,3,207,3,370,3,26
+air duct cleaning,Flower Mound,TX,68609,140,35.84,5018,air duct cleaning flower mound,clean,7,3,497,177,497,177,965,3,26
+window tinting,Camarillo,CA,66086,140,11.51,1611,window tinting camarillo,clean,5,5,31087.0,14,31087,14,1188,2,25.7
+gutter installation,Salem,MA,42544,70,41.84,2929,gutter installation salem,BIGGER same name,6,4,102,37,229,37,217,4,25.5
+junk removal,Sarasota,FL,53326,590,18.57,10956,junk removal sarasota,clean,5,5,789,789,398,8,1102,2,25
+window tinting,Boca Raton,FL,89407,210,9.68,2033,window tinting boca raton,clean,7,3,1398.5,94,1398,94,1271,4,24.6
+air duct cleaning,Greenville,SC,61397,260,21.61,5619,air duct cleaning greenville,BIGGER same name,7,3,125.0,24,125,24,689,6,24
+junk removal,Bellevue,NE,53663,390,19.45,7586,junk removal bellevue,BIGGER same name,7,3,395.5,2,789,2,1041,3,24
+pressure washing,Jacksonville,NC,69079,1600,8.82,14112,pressure washing jacksonville,BIGGER same name,7,3,62.0,60,64,60,1145,3,24
+chimney sweep,Columbus,IN,45775,590,5.24,3092,chimney sweep columbus,BIGGER same name,7,3,194,32,244,32,655,4,24
+chimney sweep,Springfield,OR,60177,210,7.69,1615,chimney sweep springfield,BIGGER same name,5,5,77.5,1,77,1,1340,2,23.8
+dryer vent cleaning,Boca Raton,FL,89407,110,21.04,2314,dryer vent cleaning boca raton,clean,6,4,615,155,385,36,1045,4,23.4
+air duct cleaning,Franklin,TN,68886,110,37.64,4140,air duct cleaning franklin,clean,6,4,452.0,89,452,89,1236,2,23
+radon mitigation,Madison,AL,45799,110,19.1,2101,radon mitigation madison,BIGGER same name,7,3,157.5,11,280,11,1060,5,23.0
+hardwood floor refinishing,Madison,AL,45799,110,22.2,2442,hardwood floor refinishing madison,BIGGER same name,6,4,55.5,32,55,32,345,2,22.3
+dryer vent cleaning,Bellevue,NE,53663,90,28.97,2607,dryer vent cleaning bellevue,BIGGER same name,7,3,154,29,93,29,1184,4,21.4
+air duct cleaning,Beaverton,OR,93542,170,26.72,4542,air duct cleaning beaverton,clean,5,5,,,4970,321,1388,2,20
+junk removal,Boca Raton,FL,89407,320,29.92,9574,junk removal boca raton,clean,4,6,2473,2473,1631,789,1427,2,20
+junk removal,Roswell,GA,94034,320,21.22,6790,junk removal roswell,same name elsewhere,6,4,789,789,789,164,1076,3,20
+junk removal,Decatur,IL,74710,1600,12.22,19552,junk removal decatur,same name elsewhere,6,4,569.0,349,349,164,950,3,20
+pressure washing,Greenville,SC,61397,880,12.11,10657,pressure washing greenville,BIGGER same name,7,3,136,29,159,29,1033,4,19
+concrete leveling,Columbus,IN,45775,110,30.84,3392,concrete leveling columbus,BIGGER same name,7,3,158.0,85,158,85,1275,4,19
+asbestos removal,Portland,ME,66318,140,27.87,3902,asbestos removal portland,BIGGER same name,7,3,150.5,6,150,6,742,2,19
+dryer vent cleaning,Alexandria,LA,48426,210,17.96,3772,dryer vent cleaning alexandria,BIGGER same name,7,3,109,60,109,10,1719,5,19
+septic tank pumping,Greenville,SC,61397,90,80.45,7240,septic tank pumping greenville,BIGGER same name,7,3,267.0,9,267,9,1220,4,19
+chimney sweep,Albany,GA,76185,140,23.48,3287,chimney sweep albany,BIGGER same name,4,6,154,60,154,60,1235,3,18
+septic tank pumping,Gastonia,NC,73209,110,28.86,3175,septic tank pumping gastonia,clean,6,4,2006,2006,2006,2006,1033,1,18
+junk removal,Huntsville,TX,39795,390,16.56,6458,junk removal huntsville,BIGGER same name,6,4,789,2,789,2,1187,3,18
+junk removal,Franklin,TN,68886,260,31.48,8185,junk removal franklin,clean,6,4,,,1631,789,1427,2,18
+cabinet refinishing,Columbus,IN,45775,320,19.29,6173,cabinet refinishing columbus,BIGGER same name,6,4,491,6,491,6,853,3,18
+auto glass repair,Cleveland,TN,42774,390,7.44,2902,auto glass repair cleveland,BIGGER same name,5,5,262.0,31,491,31,1008,4,17.3
+chimney sweep,Madison,AL,45799,140,17.36,2430,chimney sweep madison,BIGGER same name,6,4,222.0,23,222,23,785,4,17.2
+dryer vent cleaning,Greenville,SC,61397,110,16.7,1837,dryer vent cleaning greenville,BIGGER same name,7,3,114.0,24,95,24,644,5,16.2
+crawl space encapsulation,Greenville,SC,61397,90,39.5,3555,crawl space encapsulation greenville,BIGGER same name,6,4,315.5,11,24,11,1342,3,16
+air duct cleaning,North Richland Hills,TX,67317,70,61.86,4330,air duct cleaning north richland hills,clean,7,3,28770.5,177,28770,177,842,2,16
+chimney sweep,Lawrence,IN,47135,70,33.46,2342,chimney sweep lawrence,BIGGER same name,9,1,153.0,38,153,38,1553,4,15.6
+chimney sweep,Lancaster,TX,38071,260,6.65,1729,chimney sweep lancaster,BIGGER same name,7,3,311.0,5,188,5,1122,6,15.5
+septic tank pumping,Jacksonville,NC,69079,320,30.16,9651,septic tank pumping jacksonville,BIGGER same name,5,5,5546.5,7,7,7,549,3,15
+air duct cleaning,Springfield,OR,60177,210,17.76,3730,air duct cleaning springfield,BIGGER same name,7,3,154,61,154,10,989,5,14
+paintless dent repair,Springfield,OR,60177,210,17.01,3572,paintless dent repair springfield,BIGGER same name,7,3,145,82,233,6,639,6,14
+basement waterproofing,Canton,OH,72535,70,30.1,2107,basement waterproofing canton,clean,5,5,819.5,800,819,800,1127,2,14.0
+chimney sweep,Alexandria,LA,48426,480,25.72,12346,chimney sweep alexandria,BIGGER same name,4,6,119.5,85,119,85,1855,2,13
+window tinting,Wilmington,DE,71525,720,5.68,4090,window tinting wilmington,BIGGER same name,6,4,503,2,31331,2,1188,4,13
+junk removal,Springfield,OR,60177,1000,6.78,6780,junk removal springfield,BIGGER same name,6,4,789,9,789,9,1121,3,13
+pressure washing,Cleveland,TN,42774,210,34.73,7293,pressure washing cleveland,BIGGER same name,5,5,234,56,234,56,2068,3,13
+siding repair,Cleveland,TN,42774,140,48.38,6773,siding repair cleveland,BIGGER same name,6,4,404,13,404,13,857,3,13
+chimney sweep,Asheville,NC,87236,210,10.62,2230,chimney sweep asheville,clean,6,4,591.0,153,591,153,540,2,12.9
+junk removal,Greenville,NC,89130,720,9.27,6674,junk removal greenville,same name elsewhere,5,5,789,789,403,17,722,2,12
+towing service,Portland,ME,66318,590,10.42,6148,towing service portland,BIGGER same name,8,2,150.0,64,236,64,1023,3,12
+chimney sweep,Portland,ME,66318,720,29.48,21226,chimney sweep portland,BIGGER same name,6,4,153,104,128,60,1860,4,11
+junk removal,Roseville,MI,47555,590,21.48,12673,junk removal roseville,BIGGER same name,5,5,720,32,720,32,963,3,10
+radon mitigation,Portland,ME,66318,110,35.63,3919,radon mitigation portland,BIGGER same name,8,2,1744.0,1,119,1,1366,3,9
+dryer vent cleaning,Roseville,MI,47555,110,16.45,1810,dryer vent cleaning roseville,BIGGER same name,6,4,154,107,130,1,1108,4,8.1
+air duct cleaning,Cleveland,TN,42774,390,15.84,6178,air duct cleaning cleveland,BIGGER same name,5,5,268,138,203,68,1599,4,8
+junk removal,Lancaster,PA,59325,720,11.38,8194,junk removal lancaster,BIGGER same name,6,4,1253.0,33,789,33,1209,3,8
+siding repair,Columbus,IN,45775,260,40.62,10561,siding repair columbus,BIGGER same name,5,5,311.0,284,309,29,1043,4,8
+dumpster rental,Lafayette,IN,70373,590,15.73,9281,dumpster rental lafayette,BIGGER same name,5,5,399.5,79,132,79,934,3,8
+chimney sweep,Albany,OR,51583,140,23.48,3287,chimney sweep albany,BIGGER same name,4,6,131,131,131,131,264,1,8
+mobile mechanic,Portland,ME,66318,320,5.22,1670,mobile mechanic portland,BIGGER same name,4,6,2321,3,2321,3,997,3,6.1
+junk removal,Concord,NC,83506,170,44.05,7488,junk removal concord,BIGGER same name,7,3,402.0,15,492,15,1069,4,6
+gutter installation,Fayetteville,AR,78960,90,30.07,2706,gutter installation fayetteville,BIGGER same name,6,4,643,15,376,15,792,4,6.0
+wildlife removal,Greenville,NC,89130,70,24.76,1733,wildlife removal greenville,same name elsewhere,9,1,605,351,605,351,917,3,5.6
+dumpster rental,Springfield,OR,60177,880,5.02,4418,dumpster rental springfield,BIGGER same name,5,5,1456.5,38,749,38,738,3,5
+mobile mechanic,Columbus,IN,45775,1000,5.16,5160,mobile mechanic columbus,BIGGER same name,3,7,43525.5,13,43525,13,1877,2,5
+junk removal,Roswell,NM,48611,320,21.22,6790,junk removal roswell,BIGGER same name,5,5,406.5,24,406,24,1439,2,5
+gutter installation,Columbus,IN,45775,110,49.89,5488,gutter installation columbus,BIGGER same name,7,3,350,335,342,169,1429,4,4
+air duct cleaning,Charleston,WV,50821,260,33.81,8791,air duct cleaning charleston,BIGGER same name,7,3,359,155,359,117,1066,5,4
+chimney sweep,Jacksonville,NC,69079,480,7.06,3389,chimney sweep jacksonville,BIGGER same name,4,6,260.5,246,246,79,639,3,3
+dumpster rental,Fayetteville,AR,78960,1300,10.09,13117,dumpster rental fayetteville,BIGGER same name,6,4,796.5,39,75,39,1606,3,3
+auto glass repair,Portland,ME,66318,480,14.06,6749,auto glass repair portland,BIGGER same name,6,4,210.5,161,260,161,1068,4,1
+junk removal,Lancaster,OH,39325,720,11.38,8194,junk removal lancaster,BIGGER same name,7,3,789,57,1315,57,1121,4,1
+window tinting,Huntsville,TX,39795,390,6.6,2574,window tinting huntsville,BIGGER same name,6,4,31089.0,18,31089,18,839,2,0.2
+chimney sweep,Cleveland,TN,42774,480,10.71,5141,chimney sweep cleveland,BIGGER same name,5,5,406.5,120,598,120,744,3,0
+junk removal,Lancaster,TX,38071,720,11.38,8194,junk removal lancaster,BIGGER same name,5,5,650.0,511,650,511,1121,2,0
+junk removal,Alexandria,LA,48426,480,27.58,13238,junk removal alexandria,BIGGER same name,6,4,1360.5,789,1260,789,1121,5,0
+junk removal,Cleveland,TN,42774,720,15.23,10966,junk removal cleveland,BIGGER same name,4,6,467.5,146,467,146,2116,2,0
+junk removal,Charleston,WV,50821,590,23.04,13594,junk removal charleston,BIGGER same name,4,6,789,789,403,17,836,2,0
+junk removal,Greenville,SC,61397,720,9.27,6674,junk removal greenville,BIGGER same name,4,6,,,1314,789,1013,2,0
+dumpster rental,Albany,OR,51583,590,8.51,5021,dumpster rental albany,BIGGER same name,5,5,2875,2875,1595,87,793,4,0
+window tinting,Lancaster,TX,38071,390,5.51,2149,window tinting lancaster,BIGGER same name,5,5,453.5,404,248,6,775,4,0
+wildlife removal,Jacksonville,NC,69079,170,20.26,3444,wildlife removal jacksonville,BIGGER same name,8,2,998.0,285,499,164,2058,4,0
+junk removal,Columbus,IN,45775,880,15.88,13974,junk removal columbus,BIGGER same name,4,6,995.0,148,789,148,1121,3,0
+dumpster rental,Wilmington,DE,71525,880,6.08,5350,dumpster rental wilmington,BIGGER same name,6,4,77948,77948,77948,77948,913,1,0
+dryer vent cleaning,Portland,ME,66318,260,9.58,2491,dryer vent cleaning portland,BIGGER same name,5,5,5036.5,454,5036,454,2002,2,0
+auto glass repair,Jacksonville,NC,69079,390,20.48,7987,auto glass repair jacksonville,BIGGER same name,5,5,1874.5,493,491,84,646,4,0
+junk removal,Jacksonville,NC,69079,1000,17.9,17900,junk removal jacksonville,BIGGER same name,6,4,645.0,501,645,501,956,2,0
+chimney sweep,Charleston,WV,50821,170,12.04,2047,chimney sweep charleston,BIGGER same name,6,4,434.5,283,434,283,859,2,0
+dumpster rental,Huntsville,TX,39795,590,10.1,5959,dumpster rental huntsville,BIGGER same name,6,4,2588,2588,789,426,1010,3,0
+junk removal,Madison,AL,45799,390,16.3,6357,junk removal madison,BIGGER same name,6,4,789,789,789,789,1121,1,0
+wildlife removal,Columbus,IN,45775,90,19.72,1775,wildlife removal columbus,BIGGER same name,8,2,592.0,208,592,208,1398,2,0
+dumpster rental,Columbus,IN,45775,2400,7.82,18768,dumpster rental columbus,BIGGER same name,6,4,720,250,426,39,963,5,0
+dumpster rental,Charleston,WV,50821,880,7.54,6635,dumpster rental charleston,BIGGER same name,5,5,439.0,129,749,129,936,3,0
+spray foam insulation,Huntsville,TX,39795,70,39.49,2764,spray foam insulation huntsville,BIGGER same name,7,3,651,651,651,651,2062,1,0
+air duct cleaning,Portland,ME,66318,480,16.08,7718,air duct cleaning portland,BIGGER same name,6,4,4080.0,454,7706,454,1894,3,0
+wildlife removal,Greenville,SC,61397,70,24.76,1733,wildlife removal greenville,BIGGER same name,8,2,1212.5,714,714,203,1102,3,0
+auto glass repair,Salem,MA,42544,110,14.76,1624,auto glass repair salem,BIGGER same name,5,5,493,260,376,260,1024,4,0
+dryer vent cleaning,Wilmington,DE,71525,170,21.41,3640,dryer vent cleaning wilmington,BIGGER same name,6,4,3999.0,292,4160,292,1388,4,0
+junk removal,Decatur,AL,55816,1600,12.22,19552,junk removal decatur,BIGGER same name,5,5,476.5,164,476,164,1121,2,0
+siding repair,Portland,ME,66318,170,33.5,5695,siding repair portland,BIGGER same name,6,4,794,794,5974,794,1179,2,0
+air duct cleaning,Wilmington,DE,71525,260,18.18,4727,air duct cleaning wilmington,BIGGER same name,6,4,4160.5,615,1767,615,1787,3,0
+basement waterproofing,Portland,ME,66318,90,37.8,3402,basement waterproofing portland,BIGGER same name,6,4,265,265,265,265,907,1,0
