@@ -1,0 +1,173 @@
+# Audit — 30 August 2026
+
+Independent re-verification of `SEO Landlord — The Complete Bible` against the
+repository. Method: every number below was recomputed from a named file in this
+repo, or produced by running the build. Nothing is quoted from the Bible without
+being re-derived. Where I could not verify a claim, I say so rather than
+resolving it.
+
+Four findings. The first one changes strategy.
+
+---
+
+## 1. The "40 soft markets" finding does not survive. There is no soft bucket.
+
+**Bible, Section 9:** *"40 of our 83 markets have page-one operators with 0–2
+referring domains on the ranking page, while 12 markets have operators with
+151–582."* It concludes *"roughly half our markets have genuinely soft page-one
+incumbents."* That conclusion is load-bearing — it is the basis for triaging the
+portfolio and for the belief that links are optional in half of it.
+
+**What the data actually holds** (`data/competitor-links.json`, 282 rows):
+
+| | |
+|---|---|
+| Rows carrying a `refdomains` value | **111** |
+| Rows where the key is absent entirely | **171** |
+| Competitors with `refdomains` ≤ 2 | **0** |
+| Competitors with `refdomains` = 0 | **0** |
+| Median `refdomains` among the 111 measured | **488** |
+
+**Not one competitor in the entire measured set has 2 or fewer referring
+domains.** The minimum is well above it. A market cannot have a page-one
+operator at 0–2 refdomains, because no such operator exists in the data.
+
+Joining page-one local competitors per market (`data/serp-aug29.json`, top 10,
+directories and aggregators excluded):
+
+- 40 of 83 markets have link data on at least one page-one local competitor.
+- Of those 40, **all 40** have a median page-one competitor at ≥ 150 refdomains.
+  Median across markets: **630**.
+- The remaining **43 markets have no link measurement at all** on any page-one
+  local.
+
+The reproduction: if the 171 absent values are read as `0`, **78 of 83 markets**
+score "≤ 2 median." That is the failure mode. The published 40/12 split is a
+missing-data artifact of the same family as correction 12.3, which the Bible
+already caught once in `competitor-depth.json`. It was not caught here.
+
+**Is missing data evidence of a weak site?** No — and this is the part that
+matters, because "Ahrefs has no data on them so they must be tiny" is the
+tempting reading. Comparing the 111 measured against the 171 unmeasured, from
+`data/competitor-depth.json`:
+
+| | measured (111) | unmeasured (171) |
+|---|---|---|
+| Median sitemap pages | 157 | **260** |
+| Median ranking-page words | 1,434 | 1,372 |
+| Median organic position | 3 | 3 |
+| Median domain rating (where known) | 13.0 | **21.5** (n=14) |
+
+The unmeasured competitors have **larger** sites, the same ranking positions,
+and where a rating exists at all it is **higher**. They are not the weak ones.
+
+**There is also no page-level link data anywhere in this repository.** The Bible
+describes "referring domains pointing at the specific pages currently ranking."
+`competitor-links.json` and `competitor-full.json` are both keyed on
+`comp_domain` and carry only domain-level `dr` / `refdomains` / `backlinks`. The
+per-page measurement the claim rests on has no source file, and the strings
+"0–2" and "151–582" appear in no markdown in this repo — that analysis was done
+in-session and never written down, which is how it went unchecked.
+
+### What this changes
+
+- **Do not triage into soft and hard markets.** On the evidence there is no soft
+  bucket. Every market where we can see anything is defended by an operator with
+  hundreds of referring domains.
+- **Links are not optional in any market.** The Bible treats buying links as one
+  option among several. It is the gap, everywhere.
+- **The small-market pivot gets stronger, not weaker.** Market selection used
+  keyword difficulty (portfolio median 1). Difficulty of 1 alongside a page-one
+  incumbent at 630 referring domains means the difficulty score is not measuring
+  what defends page one. The week-one Search Console signal — small markets
+  outranking big ones — is now the only market-selection evidence that has
+  survived checking.
+- **The honest headline is worse than the Bible's and better than despair:** we
+  do not know that any market is soft, and we do know the ones we can see are
+  hard. That is a reason to concentrate spend on a few sites and measure, not to
+  spread it across 83.
+
+---
+
+## 2. The pre-tenant gate ran on 2 page types out of 9. Now it runs on all of them.
+
+`BANNED_PRE_TENANT` was checked against the home page and the pricing page only.
+Every site renders 9 pages. Service, services-hub, about and contact pages —
+**six of the nine** — were never scanned. Any banned claim on a service page
+passed the build.
+
+Fixed in `template/build.py`: the claim gate now runs on every rendered page,
+with the pricing page keeping its own `PRICING_EXEMPT` handling.
+
+## 3. The matcher was substring-based and produced false positives on real copy.
+
+`if phrase in low` with no word boundaries. Live examples from current copy:
+
+| Copy | Fired on | Actually |
+|---|---|---|
+| "a tub reacting to **toilet use**" | `let us` | plumbing content |
+| "in the National Register **since 19**72" | `since 19` | a historic district |
+| "hundreds of **thousands of** dollars" | `thousands of` | marital property value |
+| "§6146 caps a **contingency fee**" | `contingency fee` | explaining the statute |
+
+Raw scan of the 83 `copy.md` files produced **18 hits, zero of them real**. Left
+as-is, extending coverage to all pages would have failed the build on 17 sites
+for statute explanations that are the best content we have.
+
+Fixed three ways: phrases now match on word boundaries; `since 19` / `since 20`
+and `thousands of` moved to `BANNED_CONTEXTUAL`, which only fires when the
+sentence is actually claiming (a first-person or establishment marker beside a
+date, a people-noun after a volume); `contingency fee` behaviour unchanged on the
+pricing page.
+
+## 4. The first-person voice rule is now gated (12.13), and the violation it names does not exist.
+
+Added `BANNED_VOICE` — the law-firm voice (`we defend`, `our attorneys`,
+`we represent`, …) and the trade voice (`we fix`, `we repair`, `our technicians`,
+…). Correction 12.13 flagged this as writer convention only, so a new writer
+could violate it and the build would pass. It is now a gate.
+
+The Bible names one live violation: *"list of repairs we handle"* on
+`overlandparkgaragedoorrepairpros.com`. **It is not there.** `grep` across that
+site's source returns nothing for `we handle`, `we fix`, or `repairs we`.
+
+**The build passes 83 of 83 with all of the above active.** Zero pre-tenant
+claims, zero voice violations, portfolio-wide, on every page. Writer discipline
+held completely — the gap was that nothing was checking it.
+
+---
+
+## Open — could not verify from here
+
+**The repository builds 747 pages, not 1,291.** All 83 `site.json` files carry
+`phase: 2` with exactly 4 services, which renders 9 pages each: 83 × 9 = **747**.
+The Bible reports *"1,291 total pages live. 49 sites at 9 pages, 34 sites
+expanded to 25 pages."* Nothing in this repo produces a 25-page site.
+`expansion-queue.json` and the `EXPANSION-SPEC-*.md` files that the Bible lists
+as key files are **not committed** — consistent with its own note that several
+working files live at the sandbox workspace root rather than under `local-sites/`.
+
+I could not reach the live sites to settle it; they are outside this
+environment's network allowlist.
+
+**This needs checking before the next deploy, by someone who can load a live
+sitemap.** If the deployed network really carries 1,291 pages, then running the
+documented pipeline (`build.py --live` → `host_all.py` → `redeploy.sh`) from this
+repository would republish 747 and silently remove 544 pages. If the live sites
+carry 9 pages each, the Bible's page count is wrong and the expansion never
+shipped. Either answer matters; the dangerous case is assuming the first is
+false.
+
+Related: `template/LOCKED.md` still says *"Only Naperville and Fort Worth are
+phase 2 today."* All 83 are phase 2. That file is stale.
+
+---
+
+## Changed in this branch
+
+- `template/build.py` — `phrase_hits()` word-boundary matcher; `BANNED_CONTEXTUAL`;
+  `BANNED_VOICE`; claim gate extended to all rendered pages.
+- `AUDIT-AUG30-CLAUDE.md` — this file.
+
+No copy, no `site.json`, no template file, no deployed site was touched.
+`python3 template/build.py --check-only` → 83 PASS, 0 FAIL.
