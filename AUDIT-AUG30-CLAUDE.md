@@ -171,3 +171,43 @@ phase 2 today."* All 83 are phase 2. That file is stale.
 
 No copy, no `site.json`, no template file, no deployed site was touched.
 `python3 template/build.py --check-only` → 83 PASS, 0 FAIL.
+
+---
+
+## Addendum — the Atlanta call signal does not hold up (30 Aug, later)
+
+A Telnyx pull found 23 connected calls since launch, five of which survived a
+junk filter, and read three of them — all local Georgia numbers into
+`atlantaemergencyplumberpros.com` — as the first market reaching page one.
+
+**It is not.** Checked against Ahrefs live SERP data for `emergency plumbing
+atlanta`, positions 1 through 11: Reliable Air, All Good, Yelp, Mr Plumber,
+Emergency Plumbers LLC, Roto-Rooter, High Priority Plumbing, Thumbtack.
+`atlantaemergencyplumberpros.com` does not appear. That is consistent with
+Search Console reporting zero clicks across all 83 properties. Organic search
+cannot be the source of those calls.
+
+The likelier source is in the same report: **that number is recycled and took 79
+calls before launch**, including 30-attempt auto-dialer bursts on 14, 20 and 21
+August. Local Georgia numbers dialling a recycled Atlanta line is that pattern
+continuing, not a new one.
+
+The duration is the tell. All three calls ran 16–17 seconds against a greeting
+that consumes 8–10 of them. Each caller heard the greeting and rang off without
+leaving a message. A burst pipe leaves a message; a wrong number hangs up.
+
+The other two "possible" calls are not local either — 332 is Manhattan calling
+Ann Arbor, 818 is the San Fernando Valley calling Danville, a 925 town.
+
+**Read: zero confirmed leads, which is the correct result for day nine of a site
+with no links and no rankings.** Absence of signal is not a negative signal.
+
+Two actions follow:
+
+1. `call-desk/check_atlanta.py` settles it definitively — if any of those three
+   calls left a voicemail there is a recording, and this finding is wrong.
+   Needs `TELNYX_API_KEY` and network, so it runs on a real machine, not in the
+   sandbox.
+2. **Swap the Atlanta tracking number.** While that line carries a previous
+   owner's traffic, no call on that market is attributable, and a call log shown
+   to a prospective tenant will contain other people's wrong numbers.
