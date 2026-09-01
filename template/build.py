@@ -95,13 +95,62 @@ BANNED_PRE_TENANT = [
     "veteran owned", "veteran-owned", "licensed and insured", "licensed & insured",
     "fully licensed", "5-star", "five star", "five-star", "voted best",
     "a+ rating", "bbb accredited", "award winning", "award-winning",
-    "trusted by", "thousands of", "satisfaction guaranteed", "our customers say",
+    "trusted by", "satisfaction guaranteed", "our customers say",
     # fee and outcome promises: there is no signed firm to make them
     "no fee unless", "no win no fee", "no win, no fee", "free consultation",
     "free case review", "contingency fee", "we recover", "we have recovered",
     "millions recovered", "no upfront cost", "you pay nothing",
-    "read our reviews", "since 19", "since 20",
+    "read our reviews",
 ]
+
+# Claims whose plain form is unsafe as a substring. "since 19" fires on "in the
+# National Register since 1972"; "thousands of" fires on "hundreds of thousands
+# of dollars"; "let us" fires inside "toilet use". These are the same claims,
+# expressed so they only match the claim and not the history lesson.
+BANNED_CONTEXTUAL = [
+    # an establishment date is only a trust claim when the site is claiming it
+    (re.compile(r"\bsince\s+(?:19|20)\d{2}\b"),
+     re.compile(r"\b(?:we|our|us|serving|served|established|founded|family)\b"),
+     "establishment-date claim ('since <year>' in a first-person sentence)"),
+    # volume is only a trust claim when it is counting people
+    (re.compile(r"\bthousands\s+of\s+(?:customers|clients|homeowners|families|"
+                r"residents|satisfied|happy|local)\b"), None,
+     "volume claim ('thousands of <people>')"),
+]
+
+# The first-person performing-the-work voice. Pre-tenant there is no operator to
+# be "we", and on the 40 legal sites this voice is what DISCLAIMERS.md warns
+# creates licensing and bar-advertising exposure. Held by writer discipline until
+# 2026-08-30; now gated, because discipline does not survive a new writer.
+BANNED_VOICE = [
+    "we defend", "we will fight", "we fight", "we represent", "we win",
+    "our attorneys", "our lawyers", "our firm", "our clients", "our team",
+    "we handle", "we fix", "we repair", "we install", "we replace",
+    "we service", "our technicians", "our crew", "we come out", "let us",
+    "call us today", "we can help you", "our office",
+]
+
+
+def phrase_hits(text, phrases):
+    """Whole-word phrase match. Substring matching produced false positives on
+    real editorial copy, so every phrase is anchored at word boundaries."""
+    low = text.lower()
+    out = []
+    for ph in phrases:
+        if re.search(r"\b" + re.escape(ph) + r"\b", low):
+            out.append(ph)
+    return out
+
+
+def contextual_hits(text):
+    """Patterns that are only violations in a claiming sentence."""
+    out = []
+    for sent in re.split(r"(?<=[.!?])\s+", text.lower()):
+        for pat, ctx, label in BANNED_CONTEXTUAL:
+            if pat.search(sent) and (ctx is None or ctx.search(sent)):
+                out.append(label)
+    return sorted(set(out))
+
 
 # The pricing page is the one place numbers are allowed, so it gets its own
 # guard. The rule that makes it safe: the page may describe what a job COSTS IN
@@ -548,8 +597,8 @@ def build(domain, live=False, check_only=False, corpus=None):
                 "back, and that is when the phone rings."),
         lf_problem_label=("What happened?" if legal
                           else "What do you need help with?"),
-        lf_problem_ph=("In a few words \u2014 what happened?" if legal
-                       else "In a few words \u2014 what is wrong?"),
+        lf_problem_ph=("In a few words — what happened?" if legal
+                       else "In a few words — what is wrong?"),
         lf_button="Request a callback",
         lf_fine=(
             ("Sending this form does not create an attorney-client relationship, "
@@ -861,11 +910,21 @@ def build(domain, live=False, check_only=False, corpus=None):
     if not (hw_lo <= n <= hw_hi):
         errs.append(f"home page {n} visible words, must be {hw_lo}-{hw_hi} (phase {phase})")
 
+    # Pre-tenant claim and voice gate. Runs on EVERY rendered page, not just the
+    # home page: before 2026-08-30 a service, about or contact page could carry
+    # any claim in these lists and the build passed.
     if pre:
-        low = " ".join(home_words).lower()
-        for phrase in BANNED_PRE_TENANT:
-            if phrase in low:
-                errs.append(f"unverifiable pre-tenant claim on page: '{phrase}'")
+        for page_name, page_html in pages.items():
+            if page_name == "pricing/index.html":
+                continue          # has its own guard below, with PRICING_EXEMPT
+            text = " ".join(visible_words(page_html))
+            for phrase in phrase_hits(text, BANNED_PRE_TENANT):
+                errs.append(f"{page_name}: unverifiable pre-tenant claim: '{phrase}'")
+            for label in contextual_hits(text):
+                errs.append(f"{page_name}: unverifiable pre-tenant claim: {label}")
+            for phrase in phrase_hits(text, BANNED_VOICE):
+                errs.append(f"{page_name}: first-person operator voice with no "
+                            f"signed operator: '{phrase}'")
 
     for page_name, page_html in pages.items():
         hit = BRITISH_SPELLINGS.search(" ".join(visible_words(page_html)))
@@ -879,16 +938,18 @@ def build(domain, live=False, check_only=False, corpus=None):
         if not (PRICING_WORDS[0] <= n <= PRICING_WORDS[1]):
             errs.append(f"pricing page {n} visible words, must be "
                         f"{PRICING_WORDS[0]}-{PRICING_WORDS[1]}")
-        low = " ".join(pw).lower()
-        for phrase in BANNED_PRICING:
-            if phrase in low:
-                errs.append(f"pricing page states the advertiser's own price: '{phrase}'")
+        ptext = " ".join(pw)
+        for phrase in phrase_hits(ptext, BANNED_PRICING):
+            errs.append(f"pricing page states the advertiser's own price: '{phrase}'")
         if pre:
-            for phrase in BANNED_PRE_TENANT:
-                if phrase in PRICING_EXEMPT:
-                    continue
-                if phrase in low:
-                    errs.append(f"unverifiable pre-tenant claim on pricing page: '{phrase}'")
+            allowed = set(PRICING_EXEMPT)
+            for phrase in phrase_hits(ptext, [b for b in BANNED_PRE_TENANT
+                                              if b not in allowed]):
+                errs.append(f"unverifiable pre-tenant claim on pricing page: '{phrase}'")
+            for label in contextual_hits(ptext):
+                errs.append(f"unverifiable pre-tenant claim on pricing page: {label}")
+            for phrase in phrase_hits(ptext, BANNED_VOICE):
+                errs.append(f"pricing page: first-person operator voice: '{phrase}'")
         # A range with no sourced local anchor is just a guess with a table
         # around it. Every pricing page must name where its local numbers came
         # from, on the page, in visible text.
