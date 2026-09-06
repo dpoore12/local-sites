@@ -276,39 +276,23 @@ A rear impact is common on a signalized corridor, but it is not automatically re
 
 ## svc_rear_end_collision_lawyer_body
 
-### A rear impact answers one question, not all of them
-
-The vehicle behind is often the obvious focus after a collision at a light or in a queue. That observation is a starting point, not the full legal analysis. Traffic can stop in a single lane while an adjacent lane still moves; a vehicle can be turning, merging, backing, braking, or pulled partly into the roadway. The police narrative, signal phase, distance between vehicles, vehicle damage, and witness accounts can each describe a different part of the sequence.
-
-Virginia’s contributory-negligence doctrine is why a rear-end label should not become a shortcut. A person seeking damages must still be prepared for questions about speed, lighting, lane position, turn signals, stopping distance, and the moments before impact. A ticket or a roadside statement may be relevant, but neither replaces the full record. General information cannot decide fault in an individual collision.
-
-### Start with the location, not a conclusion
-
-Write down the precise place while it is fresh: the direction of travel, nearest cross street, travel lane, traffic control, weather, and whether the road was congested. “Virginia Beach Boulevard” is a long corridor; “westbound approaching Independence Boulevard, in the left through lane” is more useful. The same is true of Shore Drive, Laskin Road, and Lynnhaven Parkway, where lighting, access points, and the number of lanes vary from block to block.
-
-Photographs should show the wide scene before close-ups: lane markings, signs, signal heads, debris, vehicle positions when safe, and sight lines. Preserve close photos of bumper height, paint transfer, head restraints, deployed airbags, and the interior. If a business, apartment entrance, or public-facing camera may have captured the approach, record its name and location promptly. The inquiry is not a request to reconstruct the collision alone; it is a way to arrange a consultation about what documents exist.
-
-### The Virginia Beach traffic setting
-
-City/VDOT work places the Newtown Road-to-Constitution Drive Virginia Beach Boulevard segment in the top one percent of statewide pedestrian-crash corridors. Oceanfront events can draw more than 10,000 people a day, and the City advises of heavy traffic, parking pressure, and crowds during the event season. During hurricane season, which runs June 1 through November 30, weather and evacuations can alter the normal road picture. A collision near the resort area or on the I-264 approach should be described with the event, weather, and road conditions rather than by a generic street name.
-
-### Symptoms and treatment records
-
-The scene record and the health record are separate. The report may note that someone declined transport, while later records may document symptoms that persisted or developed. Keep each provider’s name, date, discharge instructions, imaging, prescriptions, work restrictions, and bills. Avoid filling gaps by memory months later when a contemporaneous calendar, portal message, or receipt can establish the date.
-
-Virginia’s safety-belt statute contains an important limitation in a civil action: a violation does not constitute negligence, cannot be used to mitigate damages, and is not admissible for that purpose. That statutory point does not settle other fault questions or replace medical evidence, but it prevents a seat-belt citation from being treated as a complete answer.
-
-### Insurance comes after the basic record
-
-A rear-impact collision can involve the other driver’s liability insurer, the injured person’s own medical-payments coverage if purchased, and uninsured or underinsured motorist provisions. The policy date matters in Virginia because minimum liability limits changed for policies effective on or after January 1, 2025. Keep the declarations page and every letter or email from an insurer.
-
-Recorded statements and authorizations deserve attention. A broad authorization can seek records unrelated to the collision, and a release can resolve rights more broadly than the check amount suggests. The page on injury-claim negotiation discusses those documents in more depth. Nothing here says whether a proposed release should be signed in any particular matter.
-
-### Time and an inquiry
-
-Virginia Code § 8.01-243 generally provides two years after accrual for a personal-injury action. The date should be recorded early, along with any dates of death, treatment, notice, or correspondence. Legal timing can have exceptions, so the statutory text and individualized advice both matter.
-
-For a consultation, the person calling can have the report number, photographs, medical timeline, declarations pages, and insurer communications ready. The inquiry can schedule a time; it is not a screening process and does not predict responsibility, coverage, or result.
+<h2>A rear impact answers one question, not all of them</h2>
+<p>The vehicle behind is often the obvious focus after a collision at a light or in a queue. That observation is a starting point, not the full legal analysis. Traffic can stop in a single lane while an adjacent lane still moves; a vehicle can be turning, merging, backing, braking, or pulled partly into the roadway. The police narrative, signal phase, distance between vehicles, vehicle damage, and witness accounts can each describe a different part of the sequence.</p>
+<p>Virginia’s contributory-negligence doctrine is why a rear-end label should not become a shortcut. A person seeking damages must still be prepared for questions about speed, lighting, lane position, turn signals, stopping distance, and the moments before impact. A ticket or a roadside statement may be relevant, but neither replaces the full record. General information cannot decide fault in an individual collision.</p>
+<h2>Start with the location, not a conclusion</h2>
+<p>Write down the precise place while it is fresh: the direction of travel, nearest cross street, travel lane, traffic control, weather, and whether the road was congested. “Virginia Beach Boulevard” is a long corridor; “westbound approaching Independence Boulevard, in the left through lane” is more useful. The same is true of Shore Drive, Laskin Road, and Lynnhaven Parkway, where lighting, access points, and the number of lanes vary from block to block.</p>
+<p>Photographs should show the wide scene before close-ups: lane markings, signs, signal heads, debris, vehicle positions when safe, and sight lines. Preserve close photos of bumper height, paint transfer, head restraints, deployed airbags, and the interior. If a business, apartment entrance, or public-facing camera may have captured the approach, record its name and location promptly. The inquiry is not a request to reconstruct the collision alone; it is a way to arrange a consultation about what documents exist.</p>
+<h2>The Virginia Beach traffic setting</h2>
+<p>City/VDOT work places the Newtown Road-to-Constitution Drive Virginia Beach Boulevard segment in the top one percent of statewide pedestrian-crash corridors. Oceanfront events can draw more than 10,000 people a day, and the City advises of heavy traffic, parking pressure, and crowds during the event season. During hurricane season, which runs June 1 through November 30, weather and evacuations can alter the normal road picture. A collision near the resort area or on the I-264 approach should be described with the event, weather, and road conditions rather than by a generic street name.</p>
+<h2>Symptoms and treatment records</h2>
+<p>The scene record and the health record are separate. The report may note that someone declined transport, while later records may document symptoms that persisted or developed. Keep each provider’s name, date, discharge instructions, imaging, prescriptions, work restrictions, and bills. Avoid filling gaps by memory months later when a contemporaneous calendar, portal message, or receipt can establish the date.</p>
+<p>Virginia’s safety-belt statute contains an important limitation in a civil action: a violation does not constitute negligence, cannot be used to mitigate damages, and is not admissible for that purpose. That statutory point does not settle other fault questions or replace medical evidence, but it prevents a seat-belt citation from being treated as a complete answer.</p>
+<h2>Insurance comes after the basic record</h2>
+<p>A rear-impact collision can involve the other driver’s liability insurer, the injured person’s own medical-payments coverage if purchased, and uninsured or underinsured motorist provisions. The policy date matters in Virginia because minimum liability limits changed for policies effective on or after January 1, 2025. Keep the declarations page and every letter or email from an insurer.</p>
+<p>Recorded statements and authorizations deserve attention. A broad authorization can seek records unrelated to the collision, and a release can resolve rights more broadly than the check amount suggests. The page on injury-claim negotiation discusses those documents in more depth. Nothing here says whether a proposed release should be signed in any particular matter.</p>
+<h2>Time and an inquiry</h2>
+<p>Virginia Code § 8.01-243 generally provides two years after accrual for a personal-injury action. The date should be recorded early, along with any dates of death, treatment, notice, or correspondence. Legal timing can have exceptions, so the statutory text and individualized advice both matter.</p>
+<p>For a consultation, the person calling can have the report number, photographs, medical timeline, declarations pages, and insurer communications ready. The inquiry can schedule a time; it is not a screening process and does not predict responsibility, coverage, or result.</p>
 
 ## svc_uninsured_driver_claim_lawyer_lede
 
@@ -316,39 +300,23 @@ An uninsured-driver question is usually a policy-language question before it bec
 
 ## svc_uninsured_driver_claim_lawyer_body
 
-### Do not assume an insurance card answers the problem
-
-Virginia now requires registered vehicles to be insured, but a collision can still involve an uninsured motor vehicle as the insurance statute defines that term. Coverage may be absent, denied, exhausted by other demands, or tied to an unknown driver. A driver can have an insurance card at the scene and still leave questions about the actual policy, permissions, exclusions, available limits, or other insurance.
-
-The first practical step is modest: preserve the other driver’s name, registration, insurer, policy number if shown, vehicle photographs, and the police-report number. The person calling should also find their own declarations page. It is common to focus only on the other vehicle, yet Virginia’s uninsured and underinsured motorist provisions are written into the injured person’s own policy.
-
-### Virginia’s current minimum limits
-
-Virginia Code § 46.2-472 sets different floors by policy effective date. For policies effective from January 1, 2022 through December 31, 2024, the statutory limits were $30,000 for bodily injury to one person, $60,000 for two or more people, and $20,000 for property damage. For policies effective on or after January 1, 2025, the limits are $50,000, $100,000, and $25,000.
-
-Those figures are statutory minimums, not a measurement of anyone’s injuries or a guarantee that a particular policy applies. A declarations page, endorsements, accident date, and effective dates are needed before anyone tries to map the available coverage. No amount should be inferred from a web page or an insurance adjuster’s first phone call.
-
-### What the UM/UIM statute requires
-
-Virginia Code § 38.2-2206 generally requires a bodily-injury or property-damage liability policy issued or delivered in Virginia to include uninsured motorist protection. The UM limits must be at least the statutory requirements and ordinarily equal the liability limits, although a named insured can reject additional UM coverage in the form the statute permits. The same endorsement must provide underinsured motorist coverage equal to the UM limits.
-
-The statute defines an uninsured vehicle broadly enough to include one with no qualifying liability coverage, one whose insurer denies coverage, certain vehicles backed by no bond or self-insurance, and an unknown owner or operator. It defines an underinsured vehicle by comparing applicable, available liability coverage with total damages, up to the UIM coverage afforded. Those definitions are technical. They explain why the policy and statutory language should be read rather than reduced to “the other driver had insurance” or “the other driver did not.”
-
-### An election can change the UIM calculation
-
-The statute also addresses whether underinsured coverage is paid with or without credit for liability coverage available for payment. By default, the statute requires payment without that credit; a named insured may make a written election that reduces UIM payment by the available liability coverage. That means the declarations page alone may not show every relevant term. Endorsements and signed election materials can matter.
-
-### Unknown-driver collisions need fast documentation
-
-A driver who leaves a collision changes the evidence problem. Call law enforcement, preserve the location and time, retain photographs, and record descriptions of the vehicle, direction of travel, and every witness. Nearby cameras can be overwritten. Virginia law allows an action against an unknown operator using a John Doe designation in the circumstances described by § 38.2-2206, and the statute includes tolling language tied to that procedure. The timing and notice details are too consequential to guess about from a webpage.
-
-The Oceanfront, Sandbridge, and commercial corridors can all have seasonal visitors and changing traffic. The City restricts certain construction-related lane and sidewalk closures in the Oceanfront and Sandbridge from May through September to help move vehicles and pedestrians during summer. That local traffic setting is one reason an exact location and travel direction matter.
-
-### Notice, settlement, and release language
-
-Before accepting money or signing a release, locate the policy notices and underinsured-motorist provisions. A release can affect rights that are not apparent from the offer letter. Keep every version of any release, all communications about limits, and proof of delivery of notices. General information should not tell an individual what to sign, decline, or settle.
-
-For a consultation request, the useful materials are the report number, both declarations pages, insurer letters, photographs, and any proposed release. The person calling can make an inquiry for scheduling without implying any decision on the inquiry.
+<h2>Do not assume an insurance card answers the problem</h2>
+<p>Virginia now requires registered vehicles to be insured, but a collision can still involve an uninsured motor vehicle as the insurance statute defines that term. Coverage may be absent, denied, exhausted by other demands, or tied to an unknown driver. A driver can have an insurance card at the scene and still leave questions about the actual policy, permissions, exclusions, available limits, or other insurance.</p>
+<p>The first practical step is modest: preserve the other driver’s name, registration, insurer, policy number if shown, vehicle photographs, and the police-report number. The person calling should also find their own declarations page. It is common to focus only on the other vehicle, yet Virginia’s uninsured and underinsured motorist provisions are written into the injured person’s own policy.</p>
+<h2>Virginia’s current minimum limits</h2>
+<p>Virginia Code § 46.2-472 sets different floors by policy effective date. For policies effective from January 1, 2022 through December 31, 2024, the statutory limits were $30,000 for bodily injury to one person, $60,000 for two or more people, and $20,000 for property damage. For policies effective on or after January 1, 2025, the limits are $50,000, $100,000, and $25,000.</p>
+<p>Those figures are statutory minimums, not a measurement of anyone’s injuries or a guarantee that a particular policy applies. A declarations page, endorsements, accident date, and effective dates are needed before anyone tries to map the available coverage. No amount should be inferred from a web page or an insurance adjuster’s first phone call.</p>
+<h2>What the UM/UIM statute requires</h2>
+<p>Virginia Code § 38.2-2206 generally requires a bodily-injury or property-damage liability policy issued or delivered in Virginia to include uninsured motorist protection. The UM limits must be at least the statutory requirements and ordinarily equal the liability limits, although a named insured can reject additional UM coverage in the form the statute permits. The same endorsement must provide underinsured motorist coverage equal to the UM limits.</p>
+<p>The statute defines an uninsured vehicle broadly enough to include one with no qualifying liability coverage, one whose insurer denies coverage, certain vehicles backed by no bond or self-insurance, and an unknown owner or operator. It defines an underinsured vehicle by comparing applicable, available liability coverage with total damages, up to the UIM coverage afforded. Those definitions are technical. They explain why the policy and statutory language should be read rather than reduced to “the other driver had insurance” or “the other driver did not.”</p>
+<h2>An election can change the UIM calculation</h2>
+<p>The statute also addresses whether underinsured coverage is paid with or without credit for liability coverage available for payment. By default, the statute requires payment without that credit; a named insured may make a written election that reduces UIM payment by the available liability coverage. That means the declarations page alone may not show every relevant term. Endorsements and signed election materials can matter.</p>
+<h2>Unknown-driver collisions need fast documentation</h2>
+<p>A driver who leaves a collision changes the evidence problem. Call law enforcement, preserve the location and time, retain photographs, and record descriptions of the vehicle, direction of travel, and every witness. Nearby cameras can be overwritten. Virginia law allows an action against an unknown operator using a John Doe designation in the circumstances described by § 38.2-2206, and the statute includes tolling language tied to that procedure. The timing and notice details are too consequential to guess about from a webpage.</p>
+<p>The Oceanfront, Sandbridge, and commercial corridors can all have seasonal visitors and changing traffic. The City restricts certain construction-related lane and sidewalk closures in the Oceanfront and Sandbridge from May through September to help move vehicles and pedestrians during summer. That local traffic setting is one reason an exact location and travel direction matter.</p>
+<h2>Notice, settlement, and release language</h2>
+<p>Before accepting money or signing a release, locate the policy notices and underinsured-motorist provisions. A release can affect rights that are not apparent from the offer letter. Keep every version of any release, all communications about limits, and proof of delivery of notices. General information should not tell an individual what to sign, decline, or settle.</p>
+<p>For a consultation request, the useful materials are the report number, both declarations pages, insurer letters, photographs, and any proposed release. The person calling can make an inquiry for scheduling without implying any decision on the inquiry.</p>
 
 ## svc_commercial_truck_collision_lawyer_lede
 
@@ -356,39 +324,23 @@ A collision involving a delivery truck, tractor-trailer, utility vehicle, or oth
 
 ## svc_commercial_truck_collision_lawyer_body
 
-### Identify the vehicle and every name on it
-
-At the scene, a commercial vehicle can display a carrier name, U.S. DOT number, unit number, trailer number, or leasing company. Photograph those markings along with the license plate, cab, trailer, load, and any visible damage when it is safe to do so. The police report may use one company name while a registration or insurance document shows another. Do not assume the name painted on the door identifies every legally relevant party.
-
-A delivery van on Virginia Beach Boulevard, a dump truck near a construction zone, and a tractor-trailer moving toward the I-264 Oceanfront approach may all be called “trucks,” but their ownership and operating arrangements can differ. The basic road record remains important: direction, lane, intersection, weather, traffic control, witnesses, and the positions of the vehicles.
-
-### Why commercial records matter
-
-A carrier may hold dispatch information, driver qualification materials, maintenance documents, electronic logging data, route records, internal communications, and telematics. Federal Motor Carrier Safety Administration materials state that motor carriers must retain driver records of duty status and supporting documents for six months, and that vehicle inspection and maintenance records have separate retention requirements. The existence of a category of record does not prove what happened, but it can make early preservation important.
-
-### The Virginia fault rule still applies
-
-Commercial status does not remove Virginia’s contributory-negligence doctrine. A larger vehicle, a company logo, or severe damage does not itself decide fault. The conduct of every driver can be examined, including following distance, lane position, signal use, speed, visibility, braking, and roadway conditions. The rule is a sharp departure from the percentage-reduction approach used in many states.
-
-That is why descriptions should be factual rather than speculative. “The truck moved from the right lane into the center lane near the exit” is more useful than a conclusion about why it happened. If the person calling made a statement at the scene, keep a copy or note the exact wording and recipients. Do not attempt to recreate a collision on an active roadway simply to obtain a photo.
-
-### Virginia Beach’s local traffic picture
-
-Virginia DMV data records 4,965 crashes in Virginia Beach City during 2025, including 610 speed-related crashes and 304 alcohol-related crashes. City traffic-safety planning uses historical crash data to target systemic improvements. Those citywide figures do not say a truck driver or another road user caused any particular collision. They do underscore the value of accurate road, time, and condition information.
-
-The military presence is another local feature. NAS Oceana reports approximately 10,500 active Navy personnel, about 10,000 family members, and 4,500 civilian personnel. Routine commuting, base-related activity, and commercial deliveries all coexist with visitor traffic and neighborhood routes from Kempsville to Great Neck. A military connection may raise separate factual questions about employer, location, and vehicle ownership; it should be identified precisely rather than assumed from a uniform or route.
-
-### Injuries, vehicle condition, and property evidence
-
-Get medical care as needed and keep the record of each provider and date. A treatment timeline is different from a vehicle-damage file; both can matter. For the vehicle, preserve repair estimates, total-loss valuation materials, photographs before repair, towing invoices, and any parts removed during repair if their condition may matter. A heavily damaged passenger vehicle should not be sold, repaired, or destroyed based on a webpage’s suggestion. Preservation decisions call for individualized guidance.
-
-For a commercial vehicle, identifying the exact unit matters. A fleet may have similar vehicles, and a trailer can be separated from the tractor. Note unit numbers, carrier identifiers, and the location of any dash camera if it is visible. Ask police how to obtain the completed report; do not rely on a preliminary recollection of the scene.
-
-### Insurance and timing questions
-
-Commercial collisions can involve more than one insurance policy, but the number of potential policies says nothing about available coverage in an individual matter. The same calendar issue applies: Virginia’s general personal-injury statute provides two years after accrual, subject to legal rules and exceptions. A death caused by a collision falls under the separate wrongful-death statute, which generally measures two years from death.
-
-An inquiry can be used to arrange a consultation about records, timing, and questions for the actual policy documents. It does not identify responsible parties or promise a legal result.
+<h2>Identify the vehicle and every name on it</h2>
+<p>At the scene, a commercial vehicle can display a carrier name, U.S. DOT number, unit number, trailer number, or leasing company. Photograph those markings along with the license plate, cab, trailer, load, and any visible damage when it is safe to do so. The police report may use one company name while a registration or insurance document shows another. Do not assume the name painted on the door identifies every legally relevant party.</p>
+<p>A delivery van on Virginia Beach Boulevard, a dump truck near a construction zone, and a tractor-trailer moving toward the I-264 Oceanfront approach may all be called “trucks,” but their ownership and operating arrangements can differ. The basic road record remains important: direction, lane, intersection, weather, traffic control, witnesses, and the positions of the vehicles.</p>
+<h2>Why commercial records matter</h2>
+<p>A carrier may hold dispatch information, driver qualification materials, maintenance documents, electronic logging data, route records, internal communications, and telematics. Federal Motor Carrier Safety Administration materials state that motor carriers must retain driver records of duty status and supporting documents for six months, and that vehicle inspection and maintenance records have separate retention requirements. The existence of a category of record does not prove what happened, but it can make early preservation important.</p>
+<h2>The Virginia fault rule still applies</h2>
+<p>Commercial status does not remove Virginia’s contributory-negligence doctrine. A larger vehicle, a company logo, or severe damage does not itself decide fault. The conduct of every driver can be examined, including following distance, lane position, signal use, speed, visibility, braking, and roadway conditions. The rule is a sharp departure from the percentage-reduction approach used in many states.</p>
+<p>That is why descriptions should be factual rather than speculative. “The truck moved from the right lane into the center lane near the exit” is more useful than a conclusion about why it happened. If the person calling made a statement at the scene, keep a copy or note the exact wording and recipients. Do not attempt to recreate a collision on an active roadway simply to obtain a photo.</p>
+<h2>Virginia Beach’s local traffic picture</h2>
+<p>Virginia DMV data records 4,965 crashes in Virginia Beach City during 2025, including 610 speed-related crashes and 304 alcohol-related crashes. City traffic-safety planning uses historical crash data to target systemic improvements. Those citywide figures do not say a truck driver or another road user caused any particular collision. They do underscore the value of accurate road, time, and condition information.</p>
+<p>The military presence is another local feature. NAS Oceana reports approximately 10,500 active Navy personnel, about 10,000 family members, and 4,500 civilian personnel. Routine commuting, base-related activity, and commercial deliveries all coexist with visitor traffic and neighborhood routes from Kempsville to Great Neck. A military connection may raise separate factual questions about employer, location, and vehicle ownership; it should be identified precisely rather than assumed from a uniform or route.</p>
+<h2>Injuries, vehicle condition, and property evidence</h2>
+<p>Get medical care as needed and keep the record of each provider and date. A treatment timeline is different from a vehicle-damage file; both can matter. For the vehicle, preserve repair estimates, total-loss valuation materials, photographs before repair, towing invoices, and any parts removed during repair if their condition may matter. A heavily damaged passenger vehicle should not be sold, repaired, or destroyed based on a webpage’s suggestion. Preservation decisions call for individualized guidance.</p>
+<p>For a commercial vehicle, identifying the exact unit matters. A fleet may have similar vehicles, and a trailer can be separated from the tractor. Note unit numbers, carrier identifiers, and the location of any dash camera if it is visible. Ask police how to obtain the completed report; do not rely on a preliminary recollection of the scene.</p>
+<h2>Insurance and timing questions</h2>
+<p>Commercial collisions can involve more than one insurance policy, but the number of potential policies says nothing about available coverage in an individual matter. The same calendar issue applies: Virginia’s general personal-injury statute provides two years after accrual, subject to legal rules and exceptions. A death caused by a collision falls under the separate wrongful-death statute, which generally measures two years from death.</p>
+<p>An inquiry can be used to arrange a consultation about records, timing, and questions for the actual policy documents. It does not identify responsible parties or promise a legal result.</p>
 
 ## svc_injury_claim_negotiation_lede
 
@@ -396,43 +348,25 @@ Negotiation after a Virginia Beach collision is not only a discussion of bills. 
 
 ## svc_injury_claim_negotiation_body
 
-### An offer is a document, not a deadline by itself
-
-An adjuster’s offer may arrive while treatment is continuing, before bills are final, or before every policy has been identified. It should be saved with the envelope, email header, date, sender, claim number, and every attachment. The number in the letter is only one part of the document. The language around a release, confidentiality, liens, future treatment, property damage, and payment timing can matter too.
-
-No web page can say whether an individual should accept or reject an offer. What it can do is explain why a complete file is more useful than a hurried phone conversation. Maintain a dated folder for correspondence, police materials, photographs, medical records, receipts, missed-work documentation, insurance pages, and any prior statements.
-
-### The fault record comes first in Virginia
-
-Virginia’s contributory-negligence rule makes the factual account unusually consequential. If an injured person’s failure to exercise reasonable care operated with another driver’s negligence to cause the harm, recovery can be barred. That does not mean an insurer’s assertion of fault is automatically right; it means the assertion should be understood in light of the available evidence and the governing law.
-
-Statements about an apology, a rolling stop, distraction, speed, a lane change, headlights, or a turn signal should be preserved in their original context. So should roadway photographs and witness contact details. A recorded statement should not be treated as a routine formality when the wording can later be compared with other evidence. General educational material cannot determine how a rule applies to any person’s facts.
-
-### Build a treatment and expense timeline
-
-Start with the collision date, then list emergency care, urgent care, primary-care visits, specialists, therapy, imaging, prescriptions, and work restrictions. Put bills and explanation-of-benefits documents next to the related visit. Include transportation or household expenses only when there is a record that supports them. The point is accuracy, not a dramatic story.
-
-The timing can be particularly important where symptoms change after the scene. A report may record no ambulance transport; a later provider may record pain or limitations. Neither entry should be altered or explained away casually. Keep the original documents and note the dates. If care was interrupted, retain the reason and any appointment records rather than relying on a later estimate.
-
-### Coverage questions are separate from fault questions
-
-A clear treatment record does not identify the available insurance, and a policy limit does not establish fault. Virginia’s minimum liability limits increased to $50,000/$100,000/$25,000 for policies effective on or after January 1, 2025, while older qualifying policies may have the lower statutory minimums. The injured person’s own uninsured and underinsured motorist endorsement may also be relevant.
-
-Virginia Code § 38.2-2206 has specific rules on UM/UIM limits, elections, available liability coverage, and unknown drivers. Obtain declarations pages, endorsements, and notices. Do not assume that “underinsured” means the same thing in every policy or that a payment from one insurer ends every other coverage question.
-
-### Releases, authorizations, and recorded statements
-
-A release is often broader than the immediate repair bill or medical invoice. It may describe bodily injury, property damage, unknown future effects, multiple parties, or other rights. A medical authorization can be broad as well. Read the full document, retain a copy before signing, and compare the named parties, dates, and description with the actual collision record.
-
-There is also a timing component. Virginia’s general personal-injury limitations statute is two years after accrual, and wrongful-death actions generally have their own two-year period after death. Negotiating does not automatically extend a statutory deadline. A calendar should show the collision date, relevant statutory dates, and every offer or correspondence deadline separately.
-
-### Local context changes the evidence, not the legal standard
-
-The City’s 2025 crash figures—4,965 crashes and 3,102 injuries—are a reminder that a collision record should be kept specific to the actual time and place. “Near the beach” or “on the boulevard” is not precise enough when a record needs a block, direction, lane, intersection, or entrance.
-
-### Use an inquiry for scheduling, not a prediction
-
-For a consultation request, the person calling can have the offer letter, any proposed release, the report number, treatment timeline, photographs, wage records, and both declarations pages ready. The inquiry can arrange a time to discuss general next steps. It does not promise representation or forecast settlement, fault, damages, or recovery.
+<h2>An offer is a document, not a deadline by itself</h2>
+<p>An adjuster’s offer may arrive while treatment is continuing, before bills are final, or before every policy has been identified. It should be saved with the envelope, email header, date, sender, claim number, and every attachment. The number in the letter is only one part of the document. The language around a release, confidentiality, liens, future treatment, property damage, and payment timing can matter too.</p>
+<p>No web page can say whether an individual should accept or reject an offer. What it can do is explain why a complete file is more useful than a hurried phone conversation. Maintain a dated folder for correspondence, police materials, photographs, medical records, receipts, missed-work documentation, insurance pages, and any prior statements.</p>
+<h2>The fault record comes first in Virginia</h2>
+<p>Virginia’s contributory-negligence rule makes the factual account unusually consequential. If an injured person’s failure to exercise reasonable care operated with another driver’s negligence to cause the harm, recovery can be barred. That does not mean an insurer’s assertion of fault is automatically right; it means the assertion should be understood in light of the available evidence and the governing law.</p>
+<p>Statements about an apology, a rolling stop, distraction, speed, a lane change, headlights, or a turn signal should be preserved in their original context. So should roadway photographs and witness contact details. A recorded statement should not be treated as a routine formality when the wording can later be compared with other evidence. General educational material cannot determine how a rule applies to any person’s facts.</p>
+<h2>Build a treatment and expense timeline</h2>
+<p>Start with the collision date, then list emergency care, urgent care, primary-care visits, specialists, therapy, imaging, prescriptions, and work restrictions. Put bills and explanation-of-benefits documents next to the related visit. Include transportation or household expenses only when there is a record that supports them. The point is accuracy, not a dramatic story.</p>
+<p>The timing can be particularly important where symptoms change after the scene. A report may record no ambulance transport; a later provider may record pain or limitations. Neither entry should be altered or explained away casually. Keep the original documents and note the dates. If care was interrupted, retain the reason and any appointment records rather than relying on a later estimate.</p>
+<h2>Coverage questions are separate from fault questions</h2>
+<p>A clear treatment record does not identify the available insurance, and a policy limit does not establish fault. Virginia’s minimum liability limits increased to $50,000/$100,000/$25,000 for policies effective on or after January 1, 2025, while older qualifying policies may have the lower statutory minimums. The injured person’s own uninsured and underinsured motorist endorsement may also be relevant.</p>
+<p>Virginia Code § 38.2-2206 has specific rules on UM/UIM limits, elections, available liability coverage, and unknown drivers. Obtain declarations pages, endorsements, and notices. Do not assume that “underinsured” means the same thing in every policy or that a payment from one insurer ends every other coverage question.</p>
+<h2>Releases, authorizations, and recorded statements</h2>
+<p>A release is often broader than the immediate repair bill or medical invoice. It may describe bodily injury, property damage, unknown future effects, multiple parties, or other rights. A medical authorization can be broad as well. Read the full document, retain a copy before signing, and compare the named parties, dates, and description with the actual collision record.</p>
+<p>There is also a timing component. Virginia’s general personal-injury limitations statute is two years after accrual, and wrongful-death actions generally have their own two-year period after death. Negotiating does not automatically extend a statutory deadline. A calendar should show the collision date, relevant statutory dates, and every offer or correspondence deadline separately.</p>
+<h2>Local context changes the evidence, not the legal standard</h2>
+<p>The City’s 2025 crash figures—4,965 crashes and 3,102 injuries—are a reminder that a collision record should be kept specific to the actual time and place. “Near the beach” or “on the boulevard” is not precise enough when a record needs a block, direction, lane, intersection, or entrance.</p>
+<h2>Use an inquiry for scheduling, not a prediction</h2>
+<p>For a consultation request, the person calling can have the offer letter, any proposed release, the report number, treatment timeline, photographs, wage records, and both declarations pages ready. The inquiry can arrange a time to discuss general next steps. It does not promise representation or forecast settlement, fault, damages, or recovery.</p>
 
 ## services_pick_head
 

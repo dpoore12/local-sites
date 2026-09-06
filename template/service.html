@@ -40,7 +40,7 @@
       <h2>{{ c.crosslink_head }}</h2>
     </div>
     <div class="service-cards">
-      {% for o in s.services if o.slug != svc.slug %}
+      {% for o in (s.services | rejectattr('slug', 'equalto', svc.slug) | list)[:3] %}
       <a class="service-card" href="{{ base }}{{ o.slug }}/">
         <span class="card-icon">{{ ico[o.icon] | safe }}</span>
         <h3 class="service-card-title">{{ o.h1 }}</h3>

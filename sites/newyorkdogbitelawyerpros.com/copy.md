@@ -209,33 +209,20 @@ The bite happened on a sidewalk, in a freight elevator, or inside somebody's apa
 
 ## svc_dog_bite_injury_claim_body
 
-### Two ways to reach a dog owner, and one of them is new
-
-For nineteen years the only route ran through strict liability. The injured person had to show the owner knew or should have known the animal had vicious propensities, the rule restated in Collier v Zambito. Bard v Jahnke then shut off ordinary negligence for harm caused by a domestic animal. On April 17, 2025 the Court of Appeals decided Flanders v Goodfellow and overruled Bard to the extent it barred negligence liability. Someone bitten in Manhattan can now plead both: knowledge of the animal's propensity, and a failure to use due care in the way it was handled. Older summaries of the law still say otherwise.
-
-### What a vicious propensity looks like in the record
-
-Flanders is useful for the evidence the court accepted. Postal carriers swore in affidavits that the dog growled, snarled, bared its teeth, slammed into windows and tried to bite them through the glass. None of that is a bite, and the court still found a triable question about constructive knowledge. Collier describes the propensity as a tendency to do any act that might endanger others. So the file wants the small facts: the neighbor who started crossing the street, the muzzle that appeared, the note taped by the mailboxes, the porter who stopped sharing the service elevator.
-
-### Section 123 pays the hospital and stops there
-
-Agriculture and Markets Law 123(10) makes the owner or lawful custodian of a dangerous dog strictly liable for medical costs resulting from injury that dog caused. That is the entire reach of the provision. Section 123(2) is a menu of what a judge may order once a dog has been adjudicated dangerous. The list includes spaying or neutering, microchipping, muzzling on public premises, and secure confinement. It also covers restraint on a leash by an adult of at least twenty-one, and a liability policy the statute caps at one hundred thousand dollars for injury or death. Lost pay, scarring and pain live outside 123(10) entirely.
-
-### The city call, and the ten days that follow it
-
-Health Code 11.27(b) requires immediate telephone notice to the Department when a person is bitten by an animal capable of transmitting rabies. The duty falls on the person bitten, a parent or guardian of a minor, whoever owns or controls the biting animal, and anyone else who knows about it. City guidance puts that report inside 24 hours. Section 11.27(e) then requires the owner to observe the animal closely for ten days, which can happen at home, and to report its condition. A healthy dog at day ten is why most bitten people never need the immune globulin and four-dose vaccine series.
-
-### Leash rules, park hours, and why the exact spot matters
-
-Health Code 161.05(a) allows no restraint longer than six feet in any public place, or in an open or unfenced area abutting one. The Health Code penalty schedule sets $200 for permitting a dog in public unrestrained, and $400 on default. Off-leash time is narrow: 161.05(b)(1) forbids Parks from opening any window that starts before 9:00 p.m. or runs past 9:00 a.m., and off-leash handlers must produce license and rabies proof on demand. In Riverside Park the courtesy hours exclude Sakura Park, the Forever Wild Bird Sanctuary from 116th to 129th, the blocks between 83rd and 91st, and everything below 79th.
-
-### The clocks, including the short one nobody expects
-
-CPLR 214(5) gives three years from the bite for a personal injury action. That is the ordinary calendar against a private owner or a private building. If a city agency is in the picture, General Municipal Law 50-e(1)(a) requires a notice of claim served within ninety days after the claim arises, and 50-i(1) requires the action itself within one year and ninety days. Those two rules are unforgiving, and nothing about a pending insurance discussion suspends them. Comparative fault under CPLR 1411 reduces a recovery in proportion to the claimant's own conduct rather than wiping it out.
-
-### The habit that quietly thins a strong claim
-
-The common loss is not a legal argument. It is a name. Health Department data for 2024 shows 39 percent of reported bites came in without a complete owner address or contact phone, which strands the animal's history and the policy behind it. Get the handler's name, apartment and number at the scene if it is safe, photograph the dog, and ask a witness for a way to reach them. Then stop narrating the injury on social feeds, because an adjuster reads that account next to the emergency-room note and works the gaps.
+<h2>Two ways to reach a dog owner, and one of them is new</h2>
+<p>For nineteen years the only route ran through strict liability. The injured person had to show the owner knew or should have known the animal had vicious propensities, the rule restated in Collier v Zambito. Bard v Jahnke then shut off ordinary negligence for harm caused by a domestic animal. On April 17, 2025 the Court of Appeals decided Flanders v Goodfellow and overruled Bard to the extent it barred negligence liability. Someone bitten in Manhattan can now plead both: knowledge of the animal's propensity, and a failure to use due care in the way it was handled. Older summaries of the law still say otherwise.</p>
+<h2>What a vicious propensity looks like in the record</h2>
+<p>Flanders is useful for the evidence the court accepted. Postal carriers swore in affidavits that the dog growled, snarled, bared its teeth, slammed into windows and tried to bite them through the glass. None of that is a bite, and the court still found a triable question about constructive knowledge. Collier describes the propensity as a tendency to do any act that might endanger others. So the file wants the small facts: the neighbor who started crossing the street, the muzzle that appeared, the note taped by the mailboxes, the porter who stopped sharing the service elevator.</p>
+<h2>Section 123 pays the hospital and stops there</h2>
+<p>Agriculture and Markets Law 123(10) makes the owner or lawful custodian of a dangerous dog strictly liable for medical costs resulting from injury that dog caused. That is the entire reach of the provision. Section 123(2) is a menu of what a judge may order once a dog has been adjudicated dangerous. The list includes spaying or neutering, microchipping, muzzling on public premises, and secure confinement. It also covers restraint on a leash by an adult of at least twenty-one, and a liability policy the statute caps at one hundred thousand dollars for injury or death. Lost pay, scarring and pain live outside 123(10) entirely.</p>
+<h2>The city call, and the ten days that follow it</h2>
+<p>Health Code 11.27(b) requires immediate telephone notice to the Department when a person is bitten by an animal capable of transmitting rabies. The duty falls on the person bitten, a parent or guardian of a minor, whoever owns or controls the biting animal, and anyone else who knows about it. City guidance puts that report inside 24 hours. Section 11.27(e) then requires the owner to observe the animal closely for ten days, which can happen at home, and to report its condition. A healthy dog at day ten is why most bitten people never need the immune globulin and four-dose vaccine series.</p>
+<h2>Leash rules, park hours, and why the exact spot matters</h2>
+<p>Health Code 161.05(a) allows no restraint longer than six feet in any public place, or in an open or unfenced area abutting one. The Health Code penalty schedule sets $200 for permitting a dog in public unrestrained, and $400 on default. Off-leash time is narrow: 161.05(b)(1) forbids Parks from opening any window that starts before 9:00 p.m. or runs past 9:00 a.m., and off-leash handlers must produce license and rabies proof on demand. In Riverside Park the courtesy hours exclude Sakura Park, the Forever Wild Bird Sanctuary from 116th to 129th, the blocks between 83rd and 91st, and everything below 79th.</p>
+<h2>The clocks, including the short one nobody expects</h2>
+<p>CPLR 214(5) gives three years from the bite for a personal injury action. That is the ordinary calendar against a private owner or a private building. If a city agency is in the picture, General Municipal Law 50-e(1)(a) requires a notice of claim served within ninety days after the claim arises, and 50-i(1) requires the action itself within one year and ninety days. Those two rules are unforgiving, and nothing about a pending insurance discussion suspends them. Comparative fault under CPLR 1411 reduces a recovery in proportion to the claimant's own conduct rather than wiping it out.</p>
+<h2>The habit that quietly thins a strong claim</h2>
+<p>The common loss is not a legal argument. It is a name. Health Department data for 2024 shows 39 percent of reported bites came in without a complete owner address or contact phone, which strands the animal's history and the policy behind it. Get the handler's name, apartment and number at the scene if it is safe, photograph the dog, and ask a witness for a way to reach them. Then stop narrating the injury on social feeds, because an adjuster reads that account next to the emergency-room note and works the gaps.</p>
 
 ## svc_child_dog_bite_claim_lede
 
@@ -243,33 +230,20 @@ Children get bitten by dogs they already know, in kitchens and hallways, by anim
 
 ## svc_child_dog_bite_claim_body
 
-### The ten-day watch is worth a phone call to a stranger
-
-Health Code 11.27(e) puts a healthy biting dog under ten days of close observation, usually in its own home, with the owner reporting its condition. If the animal is normal at the end, the child does not need rabies prophylaxis. That treatment is human rabies immune globulin plus a four-dose vaccine series, and 433 bitten residents received it in 2024, 11 percent of reported cases. City data also notes no rabid dog has turned up here in more than sixty years. Getting the owner's name and phone number is therefore a medical act, not only a legal one.
-
-### Familiar dogs, familiar rooms
-
-The 2024 figures make the point plainly. Of 3,814 reported bites to residents, 1,176 involved a dog owned in the same building or household as the victim's home, and 783 of those were dogs in the same household. Handling the animal preceded 141 reported bites, and 99 followed food or the taking of a toy or other object. East Harlem sat among the neighborhoods with the highest reported bite rates. A relationship with the owner does not change what the record needs; it usually just makes people slower to write anything down.
-
-### Photographs the surgeon will want later
-
-Take pictures before cleaning and again after, in ordinary light, and keep the original files rather than edited copies. Save the discharge sheet, prescriptions, referral slips, and any instruction about wound care or infection signs. Ask the treating provider to describe location, depth and repair in the chart. A hand injury can turn into a movement question, a facial wound into revision surgery years out, and a scar on a growing child changes shape. None of that can be reconstructed later from memory and one blurry phone photo.
-
-### A minor's deadline is not the adult deadline
-
-CPLR 214(5) sets three years for a personal injury action. CPLR 208(a) then extends the period for a person under a disability from infancy: the time is extended to three years after the disability ends, and the section's usual ten-year outer limit does not apply to infancy outside malpractice. That is generous compared with the pressure elsewhere in the file. It also should not be leaned on, because propensity evidence about a dog decays on its own schedule. If a city agency is involved, the ninety-day notice under General Municipal Law 50-e still applies.
-
-### The settlement needs a judge, and so does the fee
-
-Under CPLR 1207 a guardian, or a parent with legal custody, moves for court approval of any settlement of a minor's claim, and where no suit is pending the request comes as a special proceeding. The rule says the order carries the effect of a judgment and approves the fee for the child's attorney. Judiciary Law 474 backs that up: a percentage agreement made with an infant's guardian is unenforceable unless it was subject to the court's power to fix the amount. Parents should expect a hearing rather than a signed release at the kitchen table.
-
-### Where dogs are simply not allowed to be
-
-Parks rules keep dogs out of playgrounds, zoos, fountains, ball fields, swimming and bathing facilities, and off basketball, handball and tennis courts. Dogs are also barred from city beaches, with sand access allowed as a courtesy from October 2 until the Friday before Memorial Day. Health Code 161.05 caps the leash at six feet everywhere else in public. When a child is hurt in one of those posted areas, photograph the sign, the gate and the sight lines the same day, because temporary signage disappears.
-
-### What not to do in the first week
-
-Do not rehearse the account with the child or record repeated retellings; a coached narrative is worth less than an unpolished one. Do not accept a verbal promise from the owner to pay a bill. Do not let a school absence, a missed shift for the parent, or a canceled follow-up go unrecorded. And do not assume the household insurer's early number reflects a wound that has not finished healing. Write dates down as they happen, keep every envelope, and treat the medical chart as the spine of the file.
+<h2>The ten-day watch is worth a phone call to a stranger</h2>
+<p>Health Code 11.27(e) puts a healthy biting dog under ten days of close observation, usually in its own home, with the owner reporting its condition. If the animal is normal at the end, the child does not need rabies prophylaxis. That treatment is human rabies immune globulin plus a four-dose vaccine series, and 433 bitten residents received it in 2024, 11 percent of reported cases. City data also notes no rabid dog has turned up here in more than sixty years. Getting the owner's name and phone number is therefore a medical act, not only a legal one.</p>
+<h2>Familiar dogs, familiar rooms</h2>
+<p>The 2024 figures make the point plainly. Of 3,814 reported bites to residents, 1,176 involved a dog owned in the same building or household as the victim's home, and 783 of those were dogs in the same household. Handling the animal preceded 141 reported bites, and 99 followed food or the taking of a toy or other object. East Harlem sat among the neighborhoods with the highest reported bite rates. A relationship with the owner does not change what the record needs; it usually just makes people slower to write anything down.</p>
+<h2>Photographs the surgeon will want later</h2>
+<p>Take pictures before cleaning and again after, in ordinary light, and keep the original files rather than edited copies. Save the discharge sheet, prescriptions, referral slips, and any instruction about wound care or infection signs. Ask the treating provider to describe location, depth and repair in the chart. A hand injury can turn into a movement question, a facial wound into revision surgery years out, and a scar on a growing child changes shape. None of that can be reconstructed later from memory and one blurry phone photo.</p>
+<h2>A minor's deadline is not the adult deadline</h2>
+<p>CPLR 214(5) sets three years for a personal injury action. CPLR 208(a) then extends the period for a person under a disability from infancy: the time is extended to three years after the disability ends, and the section's usual ten-year outer limit does not apply to infancy outside malpractice. That is generous compared with the pressure elsewhere in the file. It also should not be leaned on, because propensity evidence about a dog decays on its own schedule. If a city agency is involved, the ninety-day notice under General Municipal Law 50-e still applies.</p>
+<h2>The settlement needs a judge, and so does the fee</h2>
+<p>Under CPLR 1207 a guardian, or a parent with legal custody, moves for court approval of any settlement of a minor's claim, and where no suit is pending the request comes as a special proceeding. The rule says the order carries the effect of a judgment and approves the fee for the child's attorney. Judiciary Law 474 backs that up: a percentage agreement made with an infant's guardian is unenforceable unless it was subject to the court's power to fix the amount. Parents should expect a hearing rather than a signed release at the kitchen table.</p>
+<h2>Where dogs are simply not allowed to be</h2>
+<p>Parks rules keep dogs out of playgrounds, zoos, fountains, ball fields, swimming and bathing facilities, and off basketball, handball and tennis courts. Dogs are also barred from city beaches, with sand access allowed as a courtesy from October 2 until the Friday before Memorial Day. Health Code 161.05 caps the leash at six feet everywhere else in public. When a child is hurt in one of those posted areas, photograph the sign, the gate and the sight lines the same day, because temporary signage disappears.</p>
+<h2>What not to do in the first week</h2>
+<p>Do not rehearse the account with the child or record repeated retellings; a coached narrative is worth less than an unpolished one. Do not accept a verbal promise from the owner to pay a bill. Do not let a school absence, a missed shift for the parent, or a canceled follow-up go unrecorded. And do not assume the household insurer's early number reflects a wound that has not finished healing. Write dates down as they happen, keep every envelope, and treat the medical chart as the spine of the file.</p>
 
 ## svc_landlord_dog_bite_liability_lede
 
@@ -277,33 +251,20 @@ In a city of walk-ups, towers and shared hallways, the animal's owner and the pa
 
 ## svc_landlord_dog_bite_liability_body
 
-### Two defendants, two different tests
-
-The tenant who keeps the dog answers on propensity knowledge, and now, after the 2025 Flanders decision, potentially on negligence in handling as well. A building owner is a separate inquiry. In Agro v Olivieri, decided April 10, 2024, the Second Department restated the standard for a property owner. Three things must be shown: notice that a dog was being harbored on the premises, actual or constructive knowledge that it had vicious propensities, and sufficient control of the premises to remove or confine the animal. All three, or the claim against the owner fails no matter where the attack happened.
-
-### The lease signed with the dog already known
-
-Strunk v Zoltanski, decided by the Court of Appeals in 1984, is the case behind the control element. A landlord who knows before leasing that the tenant will keep a vicious dog, and rents anyway without taking precautions available through the lease or otherwise, may answer in negligence to a person later bitten on the premises. The duty described there is the ordinary one: avoid exposing third parties to foreseeable, unreasonable harm. Later decisions extend it to a landlord who learns during the term and keeps the power to require removal or confinement.
-
-### Knowledge is still the hinge in a negligence theory
-
-Some readers assume the veterinary-clinic decision in Hewitt erased the notice requirement for premises defendants. The Second Department rejected that reading in Cantore v Costantine on November 15, 2023, holding the propensity notice requirement was not eliminated for pet-friendly establishments. Summary judgment went to a restaurant that had posted a sign and shown it knew nothing about the dog. The practical lesson for a building case is documentary. What management was told, by whom, in what channel, and on what date is the case.
-
-### Public housing runs on its own rulebook
-
-Public housing authority rules allow one dog or one cat per household, with registration filed at the management office within 30 days of acquiring the animal. A registered dog's adult weight may not exceed 25 pounds, and Doberman Pinschers, Pit Bulls and Rottweilers are prohibited by breed, with assistance animals exempt from weight and breed limits. Dogs must wear the authority-issued pet tag and stay on a leash of six feet or less in public areas inside and outside the buildings. Pets are barred from laundry rooms, basements, roofs, roof landings, playgrounds and management offices.
-
-### Where these bites actually occur
-
-Health Department figures for 2024 put 1,176 reported bites, 31 percent of the citywide total, on dogs owned in the same building or household as the person bitten. Another 1,858 reported bites happened outside the victim's own building, and 1,107 involved someone passing by or entering the dog's space. That last category describes hallway and vestibule geometry more than it describes temperament. A narrow entry, a blind turn at a stair landing, and a service corridor shared by a dog walker are physical facts worth photographing.
-
-### The evidence that erases itself
-
-Send a written preservation request the same week, naming the camera positions, the date and a time window. Ask for the incident report, the porter's log, elevator service records, and any complaint file about that apartment. Pull your own 311 history and any building message thread about barking or lunging. Meanwhile the city's own dangerous-dog track under Health Code 161.07 moves fast: a petition and notice of hearing go out no later than fifteen days after a dog enters a shelter, with the hearing at the administrative trials office within twenty days of mailing.
-
-### Which clock applies to which landlord
-
-Against a private owner or managing agent, CPLR 214(5) gives three years from the bite. Against a public landlord or another city agency, everything compresses. General Municipal Law 50-e(1)(a) requires a notice of claim within ninety days after the claim arises, and 50-i(1) requires the suit within one year and ninety days of the event. Identify the ownership early, because a deed search takes an afternoon and a missed municipal notice ends the claim. Comparative fault under CPLR 1411 reduces damages proportionally rather than barring them.
+<h2>Two defendants, two different tests</h2>
+<p>The tenant who keeps the dog answers on propensity knowledge, and now, after the 2025 Flanders decision, potentially on negligence in handling as well. A building owner is a separate inquiry. In Agro v Olivieri, decided April 10, 2024, the Second Department restated the standard for a property owner. Three things must be shown: notice that a dog was being harbored on the premises, actual or constructive knowledge that it had vicious propensities, and sufficient control of the premises to remove or confine the animal. All three, or the claim against the owner fails no matter where the attack happened.</p>
+<h2>The lease signed with the dog already known</h2>
+<p>Strunk v Zoltanski, decided by the Court of Appeals in 1984, is the case behind the control element. A landlord who knows before leasing that the tenant will keep a vicious dog, and rents anyway without taking precautions available through the lease or otherwise, may answer in negligence to a person later bitten on the premises. The duty described there is the ordinary one: avoid exposing third parties to foreseeable, unreasonable harm. Later decisions extend it to a landlord who learns during the term and keeps the power to require removal or confinement.</p>
+<h2>Knowledge is still the hinge in a negligence theory</h2>
+<p>Some readers assume the veterinary-clinic decision in Hewitt erased the notice requirement for premises defendants. The Second Department rejected that reading in Cantore v Costantine on November 15, 2023, holding the propensity notice requirement was not eliminated for pet-friendly establishments. Summary judgment went to a restaurant that had posted a sign and shown it knew nothing about the dog. The practical lesson for a building case is documentary. What management was told, by whom, in what channel, and on what date is the case.</p>
+<h2>Public housing runs on its own rulebook</h2>
+<p>Public housing authority rules allow one dog or one cat per household, with registration filed at the management office within 30 days of acquiring the animal. A registered dog's adult weight may not exceed 25 pounds, and Doberman Pinschers, Pit Bulls and Rottweilers are prohibited by breed, with assistance animals exempt from weight and breed limits. Dogs must wear the authority-issued pet tag and stay on a leash of six feet or less in public areas inside and outside the buildings. Pets are barred from laundry rooms, basements, roofs, roof landings, playgrounds and management offices.</p>
+<h2>Where these bites actually occur</h2>
+<p>Health Department figures for 2024 put 1,176 reported bites, 31 percent of the citywide total, on dogs owned in the same building or household as the person bitten. Another 1,858 reported bites happened outside the victim's own building, and 1,107 involved someone passing by or entering the dog's space. That last category describes hallway and vestibule geometry more than it describes temperament. A narrow entry, a blind turn at a stair landing, and a service corridor shared by a dog walker are physical facts worth photographing.</p>
+<h2>The evidence that erases itself</h2>
+<p>Send a written preservation request the same week, naming the camera positions, the date and a time window. Ask for the incident report, the porter's log, elevator service records, and any complaint file about that apartment. Pull your own 311 history and any building message thread about barking or lunging. Meanwhile the city's own dangerous-dog track under Health Code 161.07 moves fast: a petition and notice of hearing go out no later than fifteen days after a dog enters a shelter, with the hearing at the administrative trials office within twenty days of mailing.</p>
+<h2>Which clock applies to which landlord</h2>
+<p>Against a private owner or managing agent, CPLR 214(5) gives three years from the bite. Against a public landlord or another city agency, everything compresses. General Municipal Law 50-e(1)(a) requires a notice of claim within ninety days after the claim arises, and 50-i(1) requires the suit within one year and ninety days of the event. Identify the ownership early, because a deed search takes an afternoon and a missed municipal notice ends the claim. Comparative fault under CPLR 1411 reduces damages proportionally rather than barring them.</p>
 
 ## svc_dog_bite_insurance_claim_lede
 
@@ -311,33 +272,20 @@ Coverage and fault are different arguments, and the adjuster usually opens the s
 
 ## svc_dog_bite_insurance_claim_body
 
-### What a household policy typically carries
-
-The Department of Financial Services describes typical homeowners coverage as personal liability of $25,000 per occurrence, including medical payments of $1,000 per person, and explains that liability coverage responds to bodily injury caused by the negligence of an insured. Those are illustrative figures rather than a floor, and renters policies carry their own limits. Read the declarations page for the named insured, the term, the covered address and the limits, then ask for the complete form and every endorsement. A quoted fragment in a letter is not the policy.
-
-### Regulation 64 puts clocks on the adjuster
-
-Under 11 NYCRR 216.4 an insurer must acknowledge notice of a claim within 15 business days and answer pertinent communications on the same schedule. Section 216.5 requires it to begin investigating within 15 business days and to tell the claimant what items and forms it expects. Under 216.6(c), after a properly executed proof of loss and the requested material, acceptance or rejection must be given in writing within 15 business days, or the insurer must explain in writing why it needs longer, with a status letter every 90 days. An agreed settlement is payable within five business days under 216.6(f).
-
-### The recorded statement that arrives too early
-
-An adjuster's first call often lands before the treating provider has described the repair, before the animal's history is known, and before anyone has checked who owns the building. Nothing requires guessing on tape. Give the date, the address and the treatment already received, and say plainly that details you do not know yet are unknown. Keep the claim number, the adjuster's name, every letter, and the envelopes. A reservation of rights, a request for information, an acceptance and a denial are four different documents with four different meanings.
-
-### Why the first offer often looks like a bill total
-
-State law splits the damages picture in a way that shapes early offers. Agriculture and Markets Law 123(10) attaches strict liability for medical costs to the owner of an adjudicated dangerous dog, while pain, scarring and lost income turn on propensity knowledge or, since the 2025 Flanders decision, negligent handling. An early number that tracks the emergency-room charges is pricing the easy part of the claim. Wage loss, revision surgery, therapy and a scar that has not matured are the parts still missing from the file when that offer arrives.
-
-### When nobody can find the dog's owner
-
-City figures for 2024 show 39 percent of reported bites arrived without a complete owner address or contact phone, and among the 2,314 cases where the Health Department did have a way to reach an owner, only about half responded about the animal's health. Response rates were roughly 2.8 times higher in low-poverty neighborhoods than in very-high-poverty ones. No policy is identifiable without a named insured, so the name captured at the scene, or from a doorman, a dog walker or the license tag, often decides whether there is coverage to discuss at all.
-
-### The questions behind the questions
-
-Expect to be asked whether you reached toward the animal, fed it, tried to separate it from another dog, or entered a space it treated as its own. Those questions are aimed at CPLR 1411, which does not bar recovery for a claimant's own culpable conduct but reduces damages in proportion to it. Answer accurately and briefly. City data for 2024 shows the largest reported category was someone simply passing by or entering the dog's area, so the assumption that the person bitten did something to invite it is often just an assumption.
-
-### The clock the adjuster's calendar ignores
-
-CPLR 214(5) allows three years from the bite for a personal injury action, and a coverage discussion does not extend it. If a public agency owned the property or handled the animal, General Municipal Law 50-e imposes a ninety-day notice of claim and 50-i(1) a one-year-and-ninety-day deadline for suit. Where a carrier stalls past the Regulation 64 windows, the Department of Financial Services takes consumer complaints about claim handling under the unfair settlement practices standards in Insurance Law 2601. That is a separate track from the injury case itself.
+<h2>What a household policy typically carries</h2>
+<p>The Department of Financial Services describes typical homeowners coverage as personal liability of $25,000 per occurrence, including medical payments of $1,000 per person, and explains that liability coverage responds to bodily injury caused by the negligence of an insured. Those are illustrative figures rather than a floor, and renters policies carry their own limits. Read the declarations page for the named insured, the term, the covered address and the limits, then ask for the complete form and every endorsement. A quoted fragment in a letter is not the policy.</p>
+<h2>Regulation 64 puts clocks on the adjuster</h2>
+<p>Under 11 NYCRR 216.4 an insurer must acknowledge notice of a claim within 15 business days and answer pertinent communications on the same schedule. Section 216.5 requires it to begin investigating within 15 business days and to tell the claimant what items and forms it expects. Under 216.6(c), after a properly executed proof of loss and the requested material, acceptance or rejection must be given in writing within 15 business days, or the insurer must explain in writing why it needs longer, with a status letter every 90 days. An agreed settlement is payable within five business days under 216.6(f).</p>
+<h2>The recorded statement that arrives too early</h2>
+<p>An adjuster's first call often lands before the treating provider has described the repair, before the animal's history is known, and before anyone has checked who owns the building. Nothing requires guessing on tape. Give the date, the address and the treatment already received, and say plainly that details you do not know yet are unknown. Keep the claim number, the adjuster's name, every letter, and the envelopes. A reservation of rights, a request for information, an acceptance and a denial are four different documents with four different meanings.</p>
+<h2>Why the first offer often looks like a bill total</h2>
+<p>State law splits the damages picture in a way that shapes early offers. Agriculture and Markets Law 123(10) attaches strict liability for medical costs to the owner of an adjudicated dangerous dog, while pain, scarring and lost income turn on propensity knowledge or, since the 2025 Flanders decision, negligent handling. An early number that tracks the emergency-room charges is pricing the easy part of the claim. Wage loss, revision surgery, therapy and a scar that has not matured are the parts still missing from the file when that offer arrives.</p>
+<h2>When nobody can find the dog's owner</h2>
+<p>City figures for 2024 show 39 percent of reported bites arrived without a complete owner address or contact phone, and among the 2,314 cases where the Health Department did have a way to reach an owner, only about half responded about the animal's health. Response rates were roughly 2.8 times higher in low-poverty neighborhoods than in very-high-poverty ones. No policy is identifiable without a named insured, so the name captured at the scene, or from a doorman, a dog walker or the license tag, often decides whether there is coverage to discuss at all.</p>
+<h2>The questions behind the questions</h2>
+<p>Expect to be asked whether you reached toward the animal, fed it, tried to separate it from another dog, or entered a space it treated as its own. Those questions are aimed at CPLR 1411, which does not bar recovery for a claimant's own culpable conduct but reduces damages in proportion to it. Answer accurately and briefly. City data for 2024 shows the largest reported category was someone simply passing by or entering the dog's area, so the assumption that the person bitten did something to invite it is often just an assumption.</p>
+<h2>The clock the adjuster's calendar ignores</h2>
+<p>CPLR 214(5) allows three years from the bite for a personal injury action, and a coverage discussion does not extend it. If a public agency owned the property or handled the animal, General Municipal Law 50-e imposes a ninety-day notice of claim and 50-i(1) a one-year-and-ninety-day deadline for suit. Where a carrier stalls past the Regulation 64 windows, the Department of Financial Services takes consumer complaints about claim handling under the unfair settlement practices standards in Insurance Law 2601. That is a separate track from the injury case itself.</p>
 
 ## pricing_lede
 

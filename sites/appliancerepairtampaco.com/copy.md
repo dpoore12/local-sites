@@ -280,45 +280,26 @@ A warm refrigerator is really two repairs wearing one symptom. Either a control,
 
 ## svc_refrigerator_repair_body
 
-### Read both compartments before anyone pulls a panel
-
-A freezer that is still hard-frozen while the fresh food section climbs points at air movement rather than at refrigeration. On most current designs the evaporator sits behind the freezer's rear wall, and a fan, a damper, a thermistor or a stalled defrost cycle can leave that coil making cold that never reaches the upper cabinet. When both sections drift up together the list changes: condenser fan, start relay or inverter, main control board, or the sealed system.
-
-A slab of frost across the back freezer panel is evidence about the defrost circuit, and it should be photographed rather than chipped. An ice pick through an aluminum evaporator turns a heater-and-thermostat job into a scrap decision, because the coil is not a repairable part in a household box.
-
-### Sealed system failures behave differently from control failures
-
-The sealed system means the compressor, the condenser, the evaporator, the metering device and the refrigerant charge inside them. When that is the fault, the machine usually runs without stopping and cools weakly, or frost forms on only the first few inches of the evaporator inlet, or nothing gets cold while the compressor stays warm to the hand. Control problems tend to be intermittent instead: they follow a defrost interval, they clear after a power cycle, they leave a stored fault code.
-
-That distinction also decides who is allowed to touch the machine. Under EPA rules for Clean Air Act Section 608, a technician is anyone attaching or detaching hoses and gauges to measure pressure, adding or removing refrigerant, or otherwise violating the integrity of a small appliance, and that person must hold a certification. Type I is the small appliance credential. It does not expire, and apprentices are exempt only while closely and continually supervised.
-
-### Three documents decide who owes the repair
-
-Start with the manufacturer's written warranty that came in the box. Federal law shapes what it must say, because the FTC's disclosure and pre-sale availability rules reach every written warranty on a consumer product costing more than fifteen dollars. Under the pre-sale rule a retailer has to let you read the terms before you buy, not after the box is open.
-
-Next comes the extended service warranty, and in this state that is not a handshake. Section 634.401(13) defines a service warranty as a written promise of at least a year to repair, replace or maintain a consumer product, or to indemnify you for that work, including failure from normal wear and tear or a power surge. Section 634.403 then says nobody may provide or offer to provide service warranties to residents here without a subsisting license from the Office of Insurance Regulation. The license fee is $200 for each license year, and selling without one is a first-degree misdemeanor.
-
-Third comes the home warranty, a separate animal under part II of the same chapter. Section 634.301 defines it as covering a structural component or appliance of a home, and it lists the roof, plumbing, electrical, foundation, basement, walls, ceilings and floors as the structural side.
-
-### A warranty cannot force you to use one repair company
-
-This is the rule almost nobody knows. The FTC's guidance to warrantors is blunt: tie-in sales provisions generally are not allowed, meaning a warranty may not state or imply that you must buy or use an item or service from a particular company to keep coverage alive. The narrow exceptions are items or services the warrantor supplies at no charge under the warranty, or a waiver granted by the Commission.
-
-What a warrantor may still do is refuse to pay for damage that somebody else's parts or work caused. So an independent repair does not void the coverage by itself, but a bad independent repair can carve a hole in it. Keep the invoice and the part number.
-
-### Garage and bayfront placement shortens condenser life
-
-Second refrigerators here live in garages, utility rooms and covered lanais, and that is the worst duty cycle in the house. NOAA engineering weather data for Tampa record 5,093 hours a year at a wet-bulb temperature above 67 degrees, the threshold that marks a humid design climate. A condenser rejecting heat into that air runs longer, and a door gasket that is marginal shows condensation and frost within a season.
-
-Near the water, in Davis Islands or Ballast Point, salt-laden air adds corrosion at exposed terminals, fan motor housings and the condenser fins themselves. Check the manufacturer's ambient rating before assuming a garage installation was ever within specification.
-
-### The second-visit trap
-
-The expensive mistake is a control board sold on a symptom rather than on a measurement. Frost that returns three weeks later usually means the defrost heater, the defrost thermostat or a thermistor was the real fault and the board simply carried the blame. Ask for the measured compartment temperatures, the frost pattern and the resistance readings that pointed at the part.
-
-### What the visit looks like, and when repair stops making sense
-
-Expect a temperature check in both compartments, a look at the evaporator and its frost pattern, condenser and fan condition, a check of the door seals and the defrost circuit, then electrical testing of the start components before the sealed system is ever suspected. The price shape follows that order, because parts-and-labor repairs on fans, heaters, thermistors and boards sit well below sealed system work, which roughly doubles the figure once recovery and recharge are involved. DOE's rulemaking analysis puts the mean lifetime of a standard-size refrigerator or refrigerator-freezer at 14.3 years, so a sealed system quote on a machine near that age deserves a replacement comparison rather than an automatic yes.
+<h2>Read both compartments before anyone pulls a panel</h2>
+<p>A freezer that is still hard-frozen while the fresh food section climbs points at air movement rather than at refrigeration. On most current designs the evaporator sits behind the freezer's rear wall, and a fan, a damper, a thermistor or a stalled defrost cycle can leave that coil making cold that never reaches the upper cabinet. When both sections drift up together the list changes: condenser fan, start relay or inverter, main control board, or the sealed system.</p>
+<p>A slab of frost across the back freezer panel is evidence about the defrost circuit, and it should be photographed rather than chipped. An ice pick through an aluminum evaporator turns a heater-and-thermostat job into a scrap decision, because the coil is not a repairable part in a household box.</p>
+<h2>Sealed system failures behave differently from control failures</h2>
+<p>The sealed system means the compressor, the condenser, the evaporator, the metering device and the refrigerant charge inside them. When that is the fault, the machine usually runs without stopping and cools weakly, or frost forms on only the first few inches of the evaporator inlet, or nothing gets cold while the compressor stays warm to the hand. Control problems tend to be intermittent instead: they follow a defrost interval, they clear after a power cycle, they leave a stored fault code.</p>
+<p>That distinction also decides who is allowed to touch the machine. Under EPA rules for Clean Air Act Section 608, a technician is anyone attaching or detaching hoses and gauges to measure pressure, adding or removing refrigerant, or otherwise violating the integrity of a small appliance, and that person must hold a certification. Type I is the small appliance credential. It does not expire, and apprentices are exempt only while closely and continually supervised.</p>
+<h2>Three documents decide who owes the repair</h2>
+<p>Start with the manufacturer's written warranty that came in the box. Federal law shapes what it must say, because the FTC's disclosure and pre-sale availability rules reach every written warranty on a consumer product costing more than fifteen dollars. Under the pre-sale rule a retailer has to let you read the terms before you buy, not after the box is open.</p>
+<p>Next comes the extended service warranty, and in this state that is not a handshake. Section 634.401(13) defines a service warranty as a written promise of at least a year to repair, replace or maintain a consumer product, or to indemnify you for that work, including failure from normal wear and tear or a power surge. Section 634.403 then says nobody may provide or offer to provide service warranties to residents here without a subsisting license from the Office of Insurance Regulation. The license fee is $200 for each license year, and selling without one is a first-degree misdemeanor.</p>
+<p>Third comes the home warranty, a separate animal under part II of the same chapter. Section 634.301 defines it as covering a structural component or appliance of a home, and it lists the roof, plumbing, electrical, foundation, basement, walls, ceilings and floors as the structural side.</p>
+<h2>A warranty cannot force you to use one repair company</h2>
+<p>This is the rule almost nobody knows. The FTC's guidance to warrantors is blunt: tie-in sales provisions generally are not allowed, meaning a warranty may not state or imply that you must buy or use an item or service from a particular company to keep coverage alive. The narrow exceptions are items or services the warrantor supplies at no charge under the warranty, or a waiver granted by the Commission.</p>
+<p>What a warrantor may still do is refuse to pay for damage that somebody else's parts or work caused. So an independent repair does not void the coverage by itself, but a bad independent repair can carve a hole in it. Keep the invoice and the part number.</p>
+<h2>Garage and bayfront placement shortens condenser life</h2>
+<p>Second refrigerators here live in garages, utility rooms and covered lanais, and that is the worst duty cycle in the house. NOAA engineering weather data for Tampa record 5,093 hours a year at a wet-bulb temperature above 67 degrees, the threshold that marks a humid design climate. A condenser rejecting heat into that air runs longer, and a door gasket that is marginal shows condensation and frost within a season.</p>
+<p>Near the water, in Davis Islands or Ballast Point, salt-laden air adds corrosion at exposed terminals, fan motor housings and the condenser fins themselves. Check the manufacturer's ambient rating before assuming a garage installation was ever within specification.</p>
+<h2>The second-visit trap</h2>
+<p>The expensive mistake is a control board sold on a symptom rather than on a measurement. Frost that returns three weeks later usually means the defrost heater, the defrost thermostat or a thermistor was the real fault and the board simply carried the blame. Ask for the measured compartment temperatures, the frost pattern and the resistance readings that pointed at the part.</p>
+<h2>What the visit looks like, and when repair stops making sense</h2>
+<p>Expect a temperature check in both compartments, a look at the evaporator and its frost pattern, condenser and fan condition, a check of the door seals and the defrost circuit, then electrical testing of the start components before the sealed system is ever suspected. The price shape follows that order, because parts-and-labor repairs on fans, heaters, thermistors and boards sit well below sealed system work, which roughly doubles the figure once recovery and recharge are involved. DOE's rulemaking analysis puts the mean lifetime of a standard-size refrigerator or refrigerator-freezer at 14.3 years, so a sealed system quote on a machine near that age deserves a replacement comparison rather than an automatic yes.</p>
 
 ## svc_washer_repair_lede
 
@@ -326,41 +307,24 @@ A washer stops for two very different reasons. Either the water cannot leave, wh
 
 ## svc_washer_repair_body
 
-### Water sitting in the drum is a drain question first
-
-Before a pump is condemned, the path the water takes has to be checked end to end. A coin, a hairpin or a sock in the pump filter, a kinked or crushed drain hose, a standpipe pushed too far down the hose, a clogged air gap, or a drain line shared with a kitchen disposer will all leave a full tub. A pump that hums without moving water is a different finding from a pump that never energizes at all.
-
-Suds are their own trap. Overdosing detergent in mineral-heavy water produces a foam column that the pressure sensor reads as water, so the control keeps rinsing and never spins. That reads on the front panel as a drain failure and is not one.
-
-### The lock and the balance system stop the cycle too
-
-Front-loaders will not drain and spin until the door lock reports closed and latched, and a failed lock switch or a broken handle assembly ends the cycle in a tub full of water. Top-loaders have the reverse problem: worn suspension rods or a failed balance sensor let the basket knock the cabinet, and the control abandons the spin on purpose to protect the machine. Neither is a pump.
-
-### Bearing failure announces itself, if you listen at the right moment
-
-Ignore the wash portion and listen to the spin ramp. A rear tub bearing that has lost its grease and its seal produces a rising metallic roar that tracks the drum speed and disappears the moment the drum coasts. Two other signs confirm it: a rust-colored streak weeping below the outer tub seal, and a drum that can be rocked by hand at the front of the opening with the machine unplugged.
-
-This matters more than any other washer finding because the labor is a full disassembly, and on many sealed outer tubs the bearing is not sold separately at all. That is the point where the repair-versus-replace arithmetic actually bites. DOE's analysis of residential clothes washers uses an average product lifetime of 13.7 years, which is a useful yardstick for a bearing quote on an older pair.
-
-### Hard water reaches parts nobody thinks about
-
-The City of Tampa's 2025 water quality report gives finished-water hardness of 211 milligrams per liter, or 12.3 grains per gallon, drawn primarily from the Hillsborough River. That mineral load builds on inlet valve screens, on the heating element in a heated front-loader, and inside the small rubber bellows folds where it holds moisture and grit against the seal.
-
-Two practical consequences follow. Scale on a valve screen produces slow fill, which some controls report as a fill timeout rather than a water problem. And a valve seat held open by grit keeps trickling after the cycle ends, which is how a washer floods a closet floor while nobody is home.
-
-### Who authorizes the work is a separate question from what failed
-
-Half of this market rents. Tampa's 2022 housing data counted 77,745 renter-occupied homes, 49.5 percent of occupied units, along with 70,201 apartment units, or 40.58 percent of all units. In a stacked laundry closet inside a mid-rise, the person watching the puddle frequently cannot approve the repair, and the building may control the water shutoff, the elevator and the parking.
-
-If a service contract is in play, read it before the visit. Section 634.414 requires that a service warranty contract be delivered, mailed or transmitted electronically to the holder within 45 days of purchase, and that every contract carry a written disclosure that its rate is not regulated by the Office of Insurance Regulation. If nothing was ever sent to you, ask for the document itself before anyone relies on its terms.
-
-### What not to do while it is full
-
-Do not tip a loaded washer to empty it, because water surges over the cabinet lip and into the control area. Skip the drain chemicals as well: caustic liquid sits in the tub, attacks the bellows and the seals, and does nothing to a jammed impeller or an open lock switch. Bail the tub down with a container if you must move it, and leave the door lock alone rather than forcing it.
-
-### What the visit looks like
-
-The technician drains the machine down, opens the filter or coin trap where the design has one, and traces the hose and standpipe. Then the pump is tested electrically and mechanically, the lock circuit and lid switch are checked, and the drum is spun by hand and under power while the bearing and suspension are assessed. Common failures land in a fairly tight parts-and-labor band. Bearing and outer tub work sits far above it, and that quote should always arrive next to the cost of a comparable new machine.
+<h2>Water sitting in the drum is a drain question first</h2>
+<p>Before a pump is condemned, the path the water takes has to be checked end to end. A coin, a hairpin or a sock in the pump filter, a kinked or crushed drain hose, a standpipe pushed too far down the hose, a clogged air gap, or a drain line shared with a kitchen disposer will all leave a full tub. A pump that hums without moving water is a different finding from a pump that never energizes at all.</p>
+<p>Suds are their own trap. Overdosing detergent in mineral-heavy water produces a foam column that the pressure sensor reads as water, so the control keeps rinsing and never spins. That reads on the front panel as a drain failure and is not one.</p>
+<h2>The lock and the balance system stop the cycle too</h2>
+<p>Front-loaders will not drain and spin until the door lock reports closed and latched, and a failed lock switch or a broken handle assembly ends the cycle in a tub full of water. Top-loaders have the reverse problem: worn suspension rods or a failed balance sensor let the basket knock the cabinet, and the control abandons the spin on purpose to protect the machine. Neither is a pump.</p>
+<h2>Bearing failure announces itself, if you listen at the right moment</h2>
+<p>Ignore the wash portion and listen to the spin ramp. A rear tub bearing that has lost its grease and its seal produces a rising metallic roar that tracks the drum speed and disappears the moment the drum coasts. Two other signs confirm it: a rust-colored streak weeping below the outer tub seal, and a drum that can be rocked by hand at the front of the opening with the machine unplugged.</p>
+<p>This matters more than any other washer finding because the labor is a full disassembly, and on many sealed outer tubs the bearing is not sold separately at all. That is the point where the repair-versus-replace arithmetic actually bites. DOE's analysis of residential clothes washers uses an average product lifetime of 13.7 years, which is a useful yardstick for a bearing quote on an older pair.</p>
+<h2>Hard water reaches parts nobody thinks about</h2>
+<p>The City of Tampa's 2025 water quality report gives finished-water hardness of 211 milligrams per liter, or 12.3 grains per gallon, drawn primarily from the Hillsborough River. That mineral load builds on inlet valve screens, on the heating element in a heated front-loader, and inside the small rubber bellows folds where it holds moisture and grit against the seal.</p>
+<p>Two practical consequences follow. Scale on a valve screen produces slow fill, which some controls report as a fill timeout rather than a water problem. And a valve seat held open by grit keeps trickling after the cycle ends, which is how a washer floods a closet floor while nobody is home.</p>
+<h2>Who authorizes the work is a separate question from what failed</h2>
+<p>Half of this market rents. Tampa's 2022 housing data counted 77,745 renter-occupied homes, 49.5 percent of occupied units, along with 70,201 apartment units, or 40.58 percent of all units. In a stacked laundry closet inside a mid-rise, the person watching the puddle frequently cannot approve the repair, and the building may control the water shutoff, the elevator and the parking.</p>
+<p>If a service contract is in play, read it before the visit. Section 634.414 requires that a service warranty contract be delivered, mailed or transmitted electronically to the holder within 45 days of purchase, and that every contract carry a written disclosure that its rate is not regulated by the Office of Insurance Regulation. If nothing was ever sent to you, ask for the document itself before anyone relies on its terms.</p>
+<h2>What not to do while it is full</h2>
+<p>Do not tip a loaded washer to empty it, because water surges over the cabinet lip and into the control area. Skip the drain chemicals as well: caustic liquid sits in the tub, attacks the bellows and the seals, and does nothing to a jammed impeller or an open lock switch. Bail the tub down with a container if you must move it, and leave the door lock alone rather than forcing it.</p>
+<h2>What the visit looks like</h2>
+<p>The technician drains the machine down, opens the filter or coin trap where the design has one, and traces the hose and standpipe. Then the pump is tested electrically and mechanically, the lock circuit and lid switch are checked, and the drum is spun by hand and under power while the bearing and suspension are assessed. Common failures land in a fairly tight parts-and-labor band. Bearing and outer tub work sits far above it, and that quote should always arrive next to the cost of a comparable new machine.</p>
 
 ## svc_dryer_repair_lede
 
@@ -368,41 +332,24 @@ A dryer that tumbles but leaves the load damp has either lost heat or lost airfl
 
 ## svc_dryer_repair_body
 
-### One test separates the heater from the vent
-
-Start the machine empty on a heated cycle and go outside to the exterior hood. Strong warm airflow there means heat is being produced and moved, so the fault is more likely a control, a moisture sensor or the load itself. Weak or cool airflow at the hood, with a hot cabinet and a hot laundry room, points at restriction rather than at the heating circuit.
-
-The wall behind the machine is worth a look at the same time. Lint packed at the transition, a hood flap that no longer opens, or moisture staining the drywall around the duct collar all say the same thing.
-
-### The heat circuit differs by fuel, and both are protected
-
-An electric dryer that tumbles without heat can have an open heating element, an open high-limit thermostat, a blown thermal fuse, a failed cycling thermostat, or a burned relay on the control board. It can also be running on a single leg of its 240-volt supply, which lets the drum turn while the element stays cold. A gas dryer without heat can have a failed igniter, a flame sensor out of range, worn gas valve coils, or a tripped thermal cutoff.
-
-Both types cut heat deliberately when airflow drops and the cabinet overheats. That is why a thermal fuse or cutoff must never be bypassed. Replacing one without clearing the restriction that opened it simply arms the same fault again, and it removes the device that was doing the protecting.
-
-### The code caps the vent run at 35 feet, minus the elbows
-
-Florida's mechanical code is specific here. Section 504.9.4.1 sets the maximum exhaust duct length at 35 feet measured from the connection to the transition duct at the dryer to the outlet terminal, and Table 504.9.4.1 charges each fitting an equivalent length against that budget. A four-inch radius mitered 90-degree elbow counts as 5 feet and a mitered 45 counts as 2 feet 6 inches, while a smooth eight-inch radius 90-degree elbow costs only 1 foot 7 inches. Four sharp mitered elbows therefore spend 20 of the 35 feet before the duct has traveled anywhere.
-
-The rest of the section is equally concrete. Ducts must be smooth inside, metal at least 0.016 inch thick and four inches nominal in diameter under 504.9.1. The flexible transition piece must be a single length listed to UL 2158A, no longer than 8 feet, and never concealed in construction under 504.9.3. Terminations need a backdraft damper and no screen at all, and fasteners must not obstruct the flow under 504.4. Where the manufacturer gives no location, 504.4.1 keeps the outlet at least 3 feet from any opening into the building, including a ventilated soffit.
-
-### Why a long run is a fire question and not only a slow-drying one
-
-NFPA research on home fires involving clothes dryers and washing machines found an estimated average of 15,970 such home structure fires a year across 2010 through 2014, with 92 percent of them involving the dryer. In those dryer fires, dust, fiber or lint was the item first ignited in 26 percent of cases, tied with clothing. A duct over its equivalent length runs slower, drops more lint along the way, and holds that lint against a heat source for longer cycles.
-
-Restriction and heat loss travel together, which is why an honest dryer diagnosis measures airflow before it sells a heating part.
-
-### Local conditions that make it worse
-
-Warm, wet intake air carries away less moisture, and there is a great deal of it here. NOAA engineering weather data for Tampa record 5,093 hours a year with a wet-bulb temperature above 67 degrees. A dryer drawing that air, sitting in an unconditioned garage or a closet off a carport, needs a clean and correctly sized duct simply to hit its rated cycle time.
-
-Multifamily layouts push the run longer still. In a mid-rise or a townhome the duct may climb through a chase to a roof or a soffit outlet, and section 504.9.5 requires a permanent label giving the equivalent length within 6 feet of the duct connection whenever it exceeds 35 feet. If that label exists, read it before anyone quotes a heating element.
-
-### What not to attempt, and what the visit covers
-
-Do not run a dryer with a crushed transition, a disconnected duct or a scorched lint smell, and do not vent one into a garage, an attic or a crawlspace. Leave gas connections alone. Once a repair moves the gas line rather than the machine, it becomes permitted work with a City of Tampa trade permit behind it, and that belongs on the estimate in writing.
-
-A full visit reads the heat circuit and its safety devices, measures airflow, inspects the transition and the accessible duct, checks the blower wheel and housing for lint packing, and verifies the moisture sensor and thermostat response through a real cycle. Costs sit in a modest parts-and-labor band for fuses, thermostats, elements and igniters, and rise when the blower housing has to come apart or the duct itself needs replacing. DOE's analysis puts the average consumer clothes dryer lifetime near 14 years, with the distribution stretching to about 30, so age alone rarely settles the repair decision on this machine.
+<h2>One test separates the heater from the vent</h2>
+<p>Start the machine empty on a heated cycle and go outside to the exterior hood. Strong warm airflow there means heat is being produced and moved, so the fault is more likely a control, a moisture sensor or the load itself. Weak or cool airflow at the hood, with a hot cabinet and a hot laundry room, points at restriction rather than at the heating circuit.</p>
+<p>The wall behind the machine is worth a look at the same time. Lint packed at the transition, a hood flap that no longer opens, or moisture staining the drywall around the duct collar all say the same thing.</p>
+<h2>The heat circuit differs by fuel, and both are protected</h2>
+<p>An electric dryer that tumbles without heat can have an open heating element, an open high-limit thermostat, a blown thermal fuse, a failed cycling thermostat, or a burned relay on the control board. It can also be running on a single leg of its 240-volt supply, which lets the drum turn while the element stays cold. A gas dryer without heat can have a failed igniter, a flame sensor out of range, worn gas valve coils, or a tripped thermal cutoff.</p>
+<p>Both types cut heat deliberately when airflow drops and the cabinet overheats. That is why a thermal fuse or cutoff must never be bypassed. Replacing one without clearing the restriction that opened it simply arms the same fault again, and it removes the device that was doing the protecting.</p>
+<h2>The code caps the vent run at 35 feet, minus the elbows</h2>
+<p>Florida's mechanical code is specific here. Section 504.9.4.1 sets the maximum exhaust duct length at 35 feet measured from the connection to the transition duct at the dryer to the outlet terminal, and Table 504.9.4.1 charges each fitting an equivalent length against that budget. A four-inch radius mitered 90-degree elbow counts as 5 feet and a mitered 45 counts as 2 feet 6 inches, while a smooth eight-inch radius 90-degree elbow costs only 1 foot 7 inches. Four sharp mitered elbows therefore spend 20 of the 35 feet before the duct has traveled anywhere.</p>
+<p>The rest of the section is equally concrete. Ducts must be smooth inside, metal at least 0.016 inch thick and four inches nominal in diameter under 504.9.1. The flexible transition piece must be a single length listed to UL 2158A, no longer than 8 feet, and never concealed in construction under 504.9.3. Terminations need a backdraft damper and no screen at all, and fasteners must not obstruct the flow under 504.4. Where the manufacturer gives no location, 504.4.1 keeps the outlet at least 3 feet from any opening into the building, including a ventilated soffit.</p>
+<h2>Why a long run is a fire question and not only a slow-drying one</h2>
+<p>NFPA research on home fires involving clothes dryers and washing machines found an estimated average of 15,970 such home structure fires a year across 2010 through 2014, with 92 percent of them involving the dryer. In those dryer fires, dust, fiber or lint was the item first ignited in 26 percent of cases, tied with clothing. A duct over its equivalent length runs slower, drops more lint along the way, and holds that lint against a heat source for longer cycles.</p>
+<p>Restriction and heat loss travel together, which is why an honest dryer diagnosis measures airflow before it sells a heating part.</p>
+<h2>Local conditions that make it worse</h2>
+<p>Warm, wet intake air carries away less moisture, and there is a great deal of it here. NOAA engineering weather data for Tampa record 5,093 hours a year with a wet-bulb temperature above 67 degrees. A dryer drawing that air, sitting in an unconditioned garage or a closet off a carport, needs a clean and correctly sized duct simply to hit its rated cycle time.</p>
+<p>Multifamily layouts push the run longer still. In a mid-rise or a townhome the duct may climb through a chase to a roof or a soffit outlet, and section 504.9.5 requires a permanent label giving the equivalent length within 6 feet of the duct connection whenever it exceeds 35 feet. If that label exists, read it before anyone quotes a heating element.</p>
+<h2>What not to attempt, and what the visit covers</h2>
+<p>Do not run a dryer with a crushed transition, a disconnected duct or a scorched lint smell, and do not vent one into a garage, an attic or a crawlspace. Leave gas connections alone. Once a repair moves the gas line rather than the machine, it becomes permitted work with a City of Tampa trade permit behind it, and that belongs on the estimate in writing.</p>
+<p>A full visit reads the heat circuit and its safety devices, measures airflow, inspects the transition and the accessible duct, checks the blower wheel and housing for lint packing, and verifies the moisture sensor and thermostat response through a real cycle. Costs sit in a modest parts-and-labor band for fuses, thermostats, elements and igniters, and rise when the blower housing has to come apart or the duct itself needs replacing. DOE's analysis puts the average consumer clothes dryer lifetime near 14 years, with the distribution stretching to about 30, so age alone rarely settles the repair decision on this machine.</p>
 
 ## svc_dishwasher_repair_lede
 
@@ -410,45 +357,26 @@ Where the water shows up is the whole diagnosis. Front corners, the center of th
 
 ## svc_dishwasher_repair_body
 
-### Map the water before anything comes out from under the counter
-
-Water at the front corners usually traces to a hardened or fouled door gasket, a warped door, a loose latch, or foam from the wrong detergent riding over the lip. Water under the center or the rear of the machine points instead at the circulation pump seal, the sump gasket, a split hose or the inlet valve fitting. Water that only appears after the cycle ends, sitting in the tub, is a drainage story: filter, drain hose, drain pump, air gap or the disposer connection.
-
-Cabinet damage is what makes the distinction urgent. A slow leak at a rear hose clamp wicks under the toe kick and into the base of the cabinets long before anything shows on the kitchen floor.
-
-### The inlet valve and the pumps fail in different directions
-
-An inlet valve fails three ways, and each one looks like a different appliance problem. It can fail closed, giving no fill at all. It can fail partly open, giving a slow fill that some controls report as a timeout rather than a water fault. Or it can be held open by grit on its seat, which keeps water trickling in after the cycle ends and eventually overflows the tub.
-
-There are usually two pumps to keep straight. The circulation pump drives the spray arms, so its failure shows as dishes coming out dirty with water still moving in and out normally. The drain pump empties the sump, so its failure leaves standing water and often a hum with no flow. A chopper or impeller jammed by a shard of glass or a fruit label sits between the two and mimics both.
-
-### Hard water is a finding, not an excuse
-
-The City of Tampa's 2025 water quality report gives an average finished-water hardness of 211 milligrams per liter, which is 12.3 grains per gallon, drawn mainly from the Hillsborough River. That is enough mineral content to close down spray arm ports, coat the filter screen, crust the heating element and lodge on the inlet valve seat.
-
-The useful test is to separate film from etching. Mineral film wipes off glass with a mild acid and returns; etching is permanent and comes from a detergent and water combination that is too aggressive. Neither one means the machine has failed, and neither one justifies replacing a pump. Scale is also why a small, inexpensive part on this appliance can be back on the invoice within a year.
-
-### Storm season and the control board
-
-Summer here brings a great deal of lightning, and the National Weather Service casualty tabulation by state lists 1,523 for Florida. Surge damage rarely arrives as a dramatic failure. It shows up as a control that no longer drives one output, a touch panel that lights but will not accept a cycle, or a machine that resets partway through.
-
-The statute writers noticed. Section 634.401(13) lists power surge among the causes named in the statutory definition of a service warranty, alongside defects in materials or workmanship and normal wear and tear. If the machine carries such a contract, a surge-damaged board is the kind of claim it was drafted around, so read the coverage before paying for a board yourself.
-
-### Verify the company that says it owes the repair
-
-Anyone offering a service warranty here must be authorized. The Office of Insurance Regulation runs a company search that returns full names, business addresses and identifying information for entities doing business in the state. It is searchable by name, company type and authorized lines of business, and the office also publishes a list of companies in receivership. The same office defines an unlicensed entity as any person or business transacting insurance without the required authorization, and it names service warranty associations and home warranty association products specifically.
-
-Complaints belong with the Department of Financial Services, Division of Consumer Services, which takes concerns about insurance products including warranties through its consumer assistance portal and assigns them to a specialist. Gather four things first: the state you lived in when you bought the plan, the application, the plan documents, and proof of the initial payment. Behind all of it sits section 501.204(1), which declares unfair or deceptive acts in any trade or commerce unlawful, and that reaches the repair company as readily as the warranty seller.
-
-### Nobody in this state licenses appliance repair
-
-It is worth being plain about the gap. Part IX of chapter 559 is titled Repair of Motor Vehicles, and section 559.903 defines a motor vehicle as an automobile, truck, bus, recreational vehicle, motorcycle, motor scooter or other motor powered vehicle. The much-quoted right to a written estimate above $150, in section 559.905, belongs to that act and to shops that repair those vehicles. No equivalent statute governs the person under your sink.
-
-Local rules do not fill it either. The Hillsborough County Tax Collector lists small appliance repair among the tasks that do not require a contractor license. So insist in writing on what the law does not hand you: the diagnosis, the part number, labor separate from parts, and the warranty term on each.
-
-### What the visit looks like
-
-Expect the machine to be leveled and checked at the door seal and latch, then the filter, sump, spray arms and drain path examined, then fill and drain observed under power with the panel off if needed. DOE's dishwasher analysis uses an average product lifetime of 15.2 years, which frames the decision when a pump and a control board are both suspect on the same older machine. Repairs cluster in a moderate parts-and-labor band and climb when the machine has to come out from under a stone countertop.
+<h2>Map the water before anything comes out from under the counter</h2>
+<p>Water at the front corners usually traces to a hardened or fouled door gasket, a warped door, a loose latch, or foam from the wrong detergent riding over the lip. Water under the center or the rear of the machine points instead at the circulation pump seal, the sump gasket, a split hose or the inlet valve fitting. Water that only appears after the cycle ends, sitting in the tub, is a drainage story: filter, drain hose, drain pump, air gap or the disposer connection.</p>
+<p>Cabinet damage is what makes the distinction urgent. A slow leak at a rear hose clamp wicks under the toe kick and into the base of the cabinets long before anything shows on the kitchen floor.</p>
+<h2>The inlet valve and the pumps fail in different directions</h2>
+<p>An inlet valve fails three ways, and each one looks like a different appliance problem. It can fail closed, giving no fill at all. It can fail partly open, giving a slow fill that some controls report as a timeout rather than a water fault. Or it can be held open by grit on its seat, which keeps water trickling in after the cycle ends and eventually overflows the tub.</p>
+<p>There are usually two pumps to keep straight. The circulation pump drives the spray arms, so its failure shows as dishes coming out dirty with water still moving in and out normally. The drain pump empties the sump, so its failure leaves standing water and often a hum with no flow. A chopper or impeller jammed by a shard of glass or a fruit label sits between the two and mimics both.</p>
+<h2>Hard water is a finding, not an excuse</h2>
+<p>The City of Tampa's 2025 water quality report gives an average finished-water hardness of 211 milligrams per liter, which is 12.3 grains per gallon, drawn mainly from the Hillsborough River. That is enough mineral content to close down spray arm ports, coat the filter screen, crust the heating element and lodge on the inlet valve seat.</p>
+<p>The useful test is to separate film from etching. Mineral film wipes off glass with a mild acid and returns; etching is permanent and comes from a detergent and water combination that is too aggressive. Neither one means the machine has failed, and neither one justifies replacing a pump. Scale is also why a small, inexpensive part on this appliance can be back on the invoice within a year.</p>
+<h2>Storm season and the control board</h2>
+<p>Summer here brings a great deal of lightning, and the National Weather Service casualty tabulation by state lists 1,523 for Florida. Surge damage rarely arrives as a dramatic failure. It shows up as a control that no longer drives one output, a touch panel that lights but will not accept a cycle, or a machine that resets partway through.</p>
+<p>The statute writers noticed. Section 634.401(13) lists power surge among the causes named in the statutory definition of a service warranty, alongside defects in materials or workmanship and normal wear and tear. If the machine carries such a contract, a surge-damaged board is the kind of claim it was drafted around, so read the coverage before paying for a board yourself.</p>
+<h2>Verify the company that says it owes the repair</h2>
+<p>Anyone offering a service warranty here must be authorized. The Office of Insurance Regulation runs a company search that returns full names, business addresses and identifying information for entities doing business in the state. It is searchable by name, company type and authorized lines of business, and the office also publishes a list of companies in receivership. The same office defines an unlicensed entity as any person or business transacting insurance without the required authorization, and it names service warranty associations and home warranty association products specifically.</p>
+<p>Complaints belong with the Department of Financial Services, Division of Consumer Services, which takes concerns about insurance products including warranties through its consumer assistance portal and assigns them to a specialist. Gather four things first: the state you lived in when you bought the plan, the application, the plan documents, and proof of the initial payment. Behind all of it sits section 501.204(1), which declares unfair or deceptive acts in any trade or commerce unlawful, and that reaches the repair company as readily as the warranty seller.</p>
+<h2>Nobody in this state licenses appliance repair</h2>
+<p>It is worth being plain about the gap. Part IX of chapter 559 is titled Repair of Motor Vehicles, and section 559.903 defines a motor vehicle as an automobile, truck, bus, recreational vehicle, motorcycle, motor scooter or other motor powered vehicle. The much-quoted right to a written estimate above $150, in section 559.905, belongs to that act and to shops that repair those vehicles. No equivalent statute governs the person under your sink.</p>
+<p>Local rules do not fill it either. The Hillsborough County Tax Collector lists small appliance repair among the tasks that do not require a contractor license. So insist in writing on what the law does not hand you: the diagnosis, the part number, labor separate from parts, and the warranty term on each.</p>
+<h2>What the visit looks like</h2>
+<p>Expect the machine to be leveled and checked at the door seal and latch, then the filter, sump, spray arms and drain path examined, then fill and drain observed under power with the panel off if needed. DOE's dishwasher analysis uses an average product lifetime of 15.2 years, which frames the decision when a pump and a control board are both suspect on the same older machine. Repairs cluster in a moderate parts-and-labor band and climb when the machine has to come out from under a stone countertop.</p>
 
 ## pricing_lede
 

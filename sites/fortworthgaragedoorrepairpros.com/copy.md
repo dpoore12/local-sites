@@ -240,33 +240,20 @@ A failed counterbalance spring is the repair Fort Worth garages need most often,
 
 ## svc_garage_door_spring_repair_body
 
-### How you know that is what happened
-
-The description barely varies. A crack loud enough to bring somebody out of bed, then a door that will not lift. Push the wall button and the motor groans against a slab of steel that suddenly weighs its true one hundred and forty to two hundred and fifty pounds instead of the almost nothing it normally feels like. Walk over and look at the shaft above the opening. On a torsion setup you will find a coil interrupted by a clean gap roughly two inches wide, the two halves relaxed and slightly unwound. On an older extension setup you will find a slack spring drooping alongside the horizontal rail, sometimes with its safety cable the only thing keeping it from whipping loose.
-
-### Which system your garage has, and why it varies here
-
-Census estimates put the median Fort Worth housing unit at 1998, so torsion is the default assumption on most streets. About a third of the city was built before 1980 though, and that changes everything. Wedgwood, developed from the 1950s through the 1970s, and the 1920s bungalow blocks around Arlington Heights frequently have extension springs and shallow headroom above the header, occasionally on original one-piece doors. Newer areas out west, Walsh among them, are all sectional-and-torsion. A technician who assumes torsion and arrives without extension hardware and low-clearance tooling burns a second appointment, which is why the question gets asked before dispatch rather than in your driveway.
-
-### Do not put a screwdriver in the winding cone
-
-Even snapped, a torsion spring holds serious stored energy, because the surviving half is still partially loaded. Winding bars are the only correct tool for this and no household object substitutes for them. Screwdrivers and rebar slip out of the cone under load and become projectiles. If a spring has gone: unplug the opener so nobody presses the button out of habit, leave the door flat on the slab, and keep vehicles and people out from under it.
-
-### Two springs means two springs get replaced
-
-When a double-spring door loses one, the survivor has logged identical cycles under identical Texas conditions and is months from going the same way. Fitting the pair at once costs a little more in steel and saves an entire second service call. Anyone quoting a single spring on a two-spring door is either not looking or is banking on the return trip. Standard residential springs are rated near ten thousand cycles, roughly seven years at four openings a day, and high-cycle springs about double that for a modest premium on the door your family uses as its front entrance.
-
-### Heat, dust and lubricant
-
-North Texas is hard on everything surrounding a spring. Summer heat in an unconditioned garage thins the lubricant on the shaft and bearings until it runs off or bakes into varnish, and dust blowing under the door sticks to whatever remains. Dry bearing plates and gummed drums force the spring to work harder than it was sized for, quietly eating its cycle life. Lithium or silicone garage door lubricant on bearings, hinges and the spring twice a year is the cheapest maintenance on the property.
-
-### What the visit looks like
-
-The technician reads wire gauge, inside diameter and length off the failed spring, or the stamped numbers on the cone if they are still legible, and matches replacements to the door's actual weight. Both springs come off, drums get reset, new springs go on and are wound to the exact turn count for your door height. Cables get inspected while the tension is off, because a spring letting go often frays a cable on the way down. Then the door is balanced by hand: released from the opener, it should sit still at waist height instead of sinking or springing upward. Ask to watch that test. It is the proof the job was done properly.
-
-### What it costs
-
-You get a firm figure before any tool comes out. This is a parts-and-labor repair with a fairly tight range, and the variables are spring count, wire gauge, and whether cables, bearings or drums also need replacing. Nobody can responsibly quote it without knowing door height and spring configuration, but you should absolutely have the total in hand before work starts.
+<h2>How you know that is what happened</h2>
+<p>The description barely varies. A crack loud enough to bring somebody out of bed, then a door that will not lift. Push the wall button and the motor groans against a slab of steel that suddenly weighs its true one hundred and forty to two hundred and fifty pounds instead of the almost nothing it normally feels like. Walk over and look at the shaft above the opening. On a torsion setup you will find a coil interrupted by a clean gap roughly two inches wide, the two halves relaxed and slightly unwound. On an older extension setup you will find a slack spring drooping alongside the horizontal rail, sometimes with its safety cable the only thing keeping it from whipping loose.</p>
+<h2>Which system your garage has, and why it varies here</h2>
+<p>Census estimates put the median Fort Worth housing unit at 1998, so torsion is the default assumption on most streets. About a third of the city was built before 1980 though, and that changes everything. Wedgwood, developed from the 1950s through the 1970s, and the 1920s bungalow blocks around Arlington Heights frequently have extension springs and shallow headroom above the header, occasionally on original one-piece doors. Newer areas out west, Walsh among them, are all sectional-and-torsion. A technician who assumes torsion and arrives without extension hardware and low-clearance tooling burns a second appointment, which is why the question gets asked before dispatch rather than in your driveway.</p>
+<h2>Do not put a screwdriver in the winding cone</h2>
+<p>Even snapped, a torsion spring holds serious stored energy, because the surviving half is still partially loaded. Winding bars are the only correct tool for this and no household object substitutes for them. Screwdrivers and rebar slip out of the cone under load and become projectiles. If a spring has gone: unplug the opener so nobody presses the button out of habit, leave the door flat on the slab, and keep vehicles and people out from under it.</p>
+<h2>Two springs means two springs get replaced</h2>
+<p>When a double-spring door loses one, the survivor has logged identical cycles under identical Texas conditions and is months from going the same way. Fitting the pair at once costs a little more in steel and saves an entire second service call. Anyone quoting a single spring on a two-spring door is either not looking or is banking on the return trip. Standard residential springs are rated near ten thousand cycles, roughly seven years at four openings a day, and high-cycle springs about double that for a modest premium on the door your family uses as its front entrance.</p>
+<h2>Heat, dust and lubricant</h2>
+<p>North Texas is hard on everything surrounding a spring. Summer heat in an unconditioned garage thins the lubricant on the shaft and bearings until it runs off or bakes into varnish, and dust blowing under the door sticks to whatever remains. Dry bearing plates and gummed drums force the spring to work harder than it was sized for, quietly eating its cycle life. Lithium or silicone garage door lubricant on bearings, hinges and the spring twice a year is the cheapest maintenance on the property.</p>
+<h2>What the visit looks like</h2>
+<p>The technician reads wire gauge, inside diameter and length off the failed spring, or the stamped numbers on the cone if they are still legible, and matches replacements to the door's actual weight. Both springs come off, drums get reset, new springs go on and are wound to the exact turn count for your door height. Cables get inspected while the tension is off, because a spring letting go often frays a cable on the way down. Then the door is balanced by hand: released from the opener, it should sit still at waist height instead of sinking or springing upward. Ask to watch that test. It is the proof the job was done properly.</p>
+<h2>What it costs</h2>
+<p>You get a firm figure before any tool comes out. This is a parts-and-labor repair with a fairly tight range, and the variables are spring count, wire gauge, and whether cables, bearings or drums also need replacing. Nobody can responsibly quote it without knowing door height and spring configuration, but you should absolutely have the total in hand before work starts.</p>
 
 ## svc_garage_door_opener_repair_lede
 
@@ -274,29 +261,18 @@ Two unrelated complaints both arrive labeled as opener trouble: the door that re
 
 ## svc_garage_door_opener_repair_body
 
-### Down a foot, then back up
-
-That is the safety circuit doing exactly what federal rules require of it, correctly or otherwise. Two photo eyes sit within about six inches of the slab on either side of the opening and must see each other for the door to travel down. Late-day sun coming straight into a west-facing Fort Worth garage can blind one of them. So can a bike tire, a trash bin, a bag of mulch leaned against the bracket, or the fine grit that coats everything here by August. Brackets also drift over years of the door shaking the jamb. Check the indicator LED on each eye: on most brands both should burn steady, and a dark or flickering light means that eye has lost its partner.
-
-Once the eyes are clean, square and lit, suspicion moves to the close-force setting in the motor head. As a door stiffens with age the opener needs more push, and when it hits its programmed ceiling it interprets the resistance as an obstruction and retreats. Cranking the force up is the wrong answer. It papers over a mechanical problem in the door and disables the protection that caused the reversal in the first place.
-
-### Texas heat and opener electronics
-
-This is the failure pattern that separates a Fort Worth garage from one up north. A closed, uninsulated garage bakes through a run of hundred-degree afternoons, and the logic board screwed to the ceiling cooks along with it. Electrolytic capacitors dry out faster at sustained high temperature, and solder joints cycle and crack. The symptoms get weird rather than obvious: a door that works at seven in the morning and ignores every button by four in the afternoon, or a wall switch that responds while remotes do not. Travel limits forget themselves, and the unit reboots mid-cycle. Boards and capacitors are individually replaceable on most residential heads, and a heat-baked receiver board is a part swap, not grounds for replacing the whole opener. Sensor housings suffer the same way, which is why photo eyes in this climate go out of tolerance sooner than the manual suggests.
-
-### Motor runs, door stays put
-
-Watch the rail while somebody presses the button. If chain or belt is traveling and the door is not, the trolley has parted from the carriage. Usually the emergency release cord was pulled, or snagged by a roof rack, and never re-engaged. Tug the cord toward the door and run the opener until it clicks back in. Two minutes, no tools, no charge.
-
-If the motor hums and the chain sits dead still, the trouble is inside the housing. Chain-drive heads around fifteen years old typically give up their nylon drive gear, the teeth rounding off until they stop catching the worm shaft. Grinding with no travel is the signature. That is a repair, and worth insisting on before anyone quotes a replacement unit. A motor that buzzes briefly then quits without grinding points instead at the starting capacitor.
-
-### When replacing it is genuinely correct
-
-Any opener old enough to lack photo eyes entirely should be replaced, not repaired, and so should a unit with a cracked housing or a discontinued board nobody stocks. Two repairs inside two years is also a fair signal. Otherwise most heads on Fort Worth houses are worth fixing. A belt drive with battery backup is a real improvement over a chain unit hammering away under a bedroom, and backup power matters in a region where storm outages are routine. Still, that is an upgrade being offered rather than a repair you need, and it should be presented to you in exactly those terms.
-
-### The answer you should get
-
-A named fault, a part price, and a candid read on whether spending it makes sense given how old the head is. Should a fifteen-year-old unit realistically be back in the queue before next summer, say that out loud, then still offer the repair, because plenty of people would rather pay for one more good year than buy a new opener in August.
+<h2>Down a foot, then back up</h2>
+<p>That is the safety circuit doing exactly what federal rules require of it, correctly or otherwise. Two photo eyes sit within about six inches of the slab on either side of the opening and must see each other for the door to travel down. Late-day sun coming straight into a west-facing Fort Worth garage can blind one of them. So can a bike tire, a trash bin, a bag of mulch leaned against the bracket, or the fine grit that coats everything here by August. Brackets also drift over years of the door shaking the jamb. Check the indicator LED on each eye: on most brands both should burn steady, and a dark or flickering light means that eye has lost its partner.</p>
+<p>Once the eyes are clean, square and lit, suspicion moves to the close-force setting in the motor head. As a door stiffens with age the opener needs more push, and when it hits its programmed ceiling it interprets the resistance as an obstruction and retreats. Cranking the force up is the wrong answer. It papers over a mechanical problem in the door and disables the protection that caused the reversal in the first place.</p>
+<h2>Texas heat and opener electronics</h2>
+<p>This is the failure pattern that separates a Fort Worth garage from one up north. A closed, uninsulated garage bakes through a run of hundred-degree afternoons, and the logic board screwed to the ceiling cooks along with it. Electrolytic capacitors dry out faster at sustained high temperature, and solder joints cycle and crack. The symptoms get weird rather than obvious: a door that works at seven in the morning and ignores every button by four in the afternoon, or a wall switch that responds while remotes do not. Travel limits forget themselves, and the unit reboots mid-cycle. Boards and capacitors are individually replaceable on most residential heads, and a heat-baked receiver board is a part swap, not grounds for replacing the whole opener. Sensor housings suffer the same way, which is why photo eyes in this climate go out of tolerance sooner than the manual suggests.</p>
+<h2>Motor runs, door stays put</h2>
+<p>Watch the rail while somebody presses the button. If chain or belt is traveling and the door is not, the trolley has parted from the carriage. Usually the emergency release cord was pulled, or snagged by a roof rack, and never re-engaged. Tug the cord toward the door and run the opener until it clicks back in. Two minutes, no tools, no charge.</p>
+<p>If the motor hums and the chain sits dead still, the trouble is inside the housing. Chain-drive heads around fifteen years old typically give up their nylon drive gear, the teeth rounding off until they stop catching the worm shaft. Grinding with no travel is the signature. That is a repair, and worth insisting on before anyone quotes a replacement unit. A motor that buzzes briefly then quits without grinding points instead at the starting capacitor.</p>
+<h2>When replacing it is genuinely correct</h2>
+<p>Any opener old enough to lack photo eyes entirely should be replaced, not repaired, and so should a unit with a cracked housing or a discontinued board nobody stocks. Two repairs inside two years is also a fair signal. Otherwise most heads on Fort Worth houses are worth fixing. A belt drive with battery backup is a real improvement over a chain unit hammering away under a bedroom, and backup power matters in a region where storm outages are routine. Still, that is an upgrade being offered rather than a repair you need, and it should be presented to you in exactly those terms.</p>
+<h2>The answer you should get</h2>
+<p>A named fault, a part price, and a candid read on whether spending it makes sense given how old the head is. Should a fifteen-year-old unit realistically be back in the queue before next summer, say that out loud, then still offer the repair, because plenty of people would rather pay for one more good year than buy a new opener in August.</p>
 
 ## svc_off_track_garage_door_repair_lede
 
@@ -304,33 +280,20 @@ A door sitting crooked in its opening is a cable, roller or rail problem, and it
 
 ## svc_off_track_garage_door_repair_body
 
-### Stop touching it
-
-Whatever cables and rollers remain engaged are the only things holding a derailed door up, and none of that geometry is stable once a section has left the rail. Hitting the button to find out how bad it is turns a partial derailment into a door lying across a hood. Kill power at the outlet, keep everyone clear of the opening, and resist the urge to lever it back on with a pry bar. This failure is legitimately urgent and gets pulled to the front of the day.
-
-### Three things put a door off its rail
-
-**A cable unspooled from its drum.** Each lift cable is anchored at the bottom bracket and winds onto a grooved drum sitting at the end of the torsion shaft. Let one jump those grooves, which commonly happens when a spring failure drops the door hard, and that half of the door loses its lift entirely and racks in the opening. The giveaway is one corner noticeably low with loose cable coiled near the jamb.
-
-**A roller came out.** Rollers are the wheels on the edge of each section. Nylon ones turn brittle and crack, and in this climate they do it faster, because a closed garage through a Fort Worth August is an oven. Steel ones seize once the bearings run dry and dust packs in. A seized roller skids instead of rolling and eventually climbs out, almost always at the radius where the vertical rail curves back to horizontal.
-
-**The rail is bent.** Reversing into it is the classic cause. Around here, so is weather. The National Weather Service office in Fort Worth logged supercells firing along the dryline over the middle of the Metroplex on 27 April 2026, with hail reported up to teacup size, and the following afternoon brought softball-size stones and an EF3 tornado near Mineral Wells just west of Tarrant County. Storms like that bend rails and bow struts across the whole region, and that damage matters far more than the dent people actually call about.
-
-### Why the hail dent is not the problem
-
-This is the great misunderstanding of North Texas storm season. Homeowners ring about the pockmarks in the skin, which are cosmetic and can wait indefinitely, while the real damage is a rail pushed out of plumb and a strut bowed across the back of a section, quietly destroying rollers on every cycle. After hail or straight-line wind the useful questions are whether the rails are still true, whether the struts are still flat, and whether the top section meets the header evenly. An insurance claim for cosmetic panels can run on its own schedule; the mechanical repair should not wait for it.
-
-### Cables and rollers wear out on a schedule
-
-Lift cables fray where they wrap the bottom bracket and take the most flex, and grit driven under the door accelerates it. A frayed cable is a planned replacement; a parted cable is an emergency. Rollers on a door used several times daily typically last ten to fifteen years, less if the nylon has spent every summer above a hundred degrees. Neither part is expensive, so replacing the full set in one sitting beats paying for three visits as they fail one by one.
-
-### The repair itself
-
-The door gets clamped below the lowest roller so it cannot travel. Sections are brought back into line one at a time, rollers are re-seated or replaced, cables are respooled with matched tension on both drums, and bent rail is straightened or swapped for new section. Hinges get checked at the same time, since a section that came out of the rail usually took a hinge with it. Then the same hand-balance test as any other job: off the opener, the door should hold at waist height by itself. If it drifts, spring tension is wrong and the new rollers will chew themselves up too.
-
-### What it costs
-
-Rollers and cables are cheap. Rail sections are moderate. What actually drives the number is how far the door came out and whether any sections bent in the process. You get the figure before work begins, and if a section is damaged past sensible repair you get told that plainly instead of being billed for a repair and a replacement.
+<h2>Stop touching it</h2>
+<p>Whatever cables and rollers remain engaged are the only things holding a derailed door up, and none of that geometry is stable once a section has left the rail. Hitting the button to find out how bad it is turns a partial derailment into a door lying across a hood. Kill power at the outlet, keep everyone clear of the opening, and resist the urge to lever it back on with a pry bar. This failure is legitimately urgent and gets pulled to the front of the day.</p>
+<h2>Three things put a door off its rail</h2>
+<p><strong>A cable unspooled from its drum.</strong> Each lift cable is anchored at the bottom bracket and winds onto a grooved drum sitting at the end of the torsion shaft. Let one jump those grooves, which commonly happens when a spring failure drops the door hard, and that half of the door loses its lift entirely and racks in the opening. The giveaway is one corner noticeably low with loose cable coiled near the jamb.</p>
+<p><strong>A roller came out.</strong> Rollers are the wheels on the edge of each section. Nylon ones turn brittle and crack, and in this climate they do it faster, because a closed garage through a Fort Worth August is an oven. Steel ones seize once the bearings run dry and dust packs in. A seized roller skids instead of rolling and eventually climbs out, almost always at the radius where the vertical rail curves back to horizontal.</p>
+<p><strong>The rail is bent.</strong> Reversing into it is the classic cause. Around here, so is weather. The National Weather Service office in Fort Worth logged supercells firing along the dryline over the middle of the Metroplex on 27 April 2026, with hail reported up to teacup size, and the following afternoon brought softball-size stones and an EF3 tornado near Mineral Wells just west of Tarrant County. Storms like that bend rails and bow struts across the whole region, and that damage matters far more than the dent people actually call about.</p>
+<h2>Why the hail dent is not the problem</h2>
+<p>This is the great misunderstanding of North Texas storm season. Homeowners ring about the pockmarks in the skin, which are cosmetic and can wait indefinitely, while the real damage is a rail pushed out of plumb and a strut bowed across the back of a section, quietly destroying rollers on every cycle. After hail or straight-line wind the useful questions are whether the rails are still true, whether the struts are still flat, and whether the top section meets the header evenly. An insurance claim for cosmetic panels can run on its own schedule; the mechanical repair should not wait for it.</p>
+<h2>Cables and rollers wear out on a schedule</h2>
+<p>Lift cables fray where they wrap the bottom bracket and take the most flex, and grit driven under the door accelerates it. A frayed cable is a planned replacement; a parted cable is an emergency. Rollers on a door used several times daily typically last ten to fifteen years, less if the nylon has spent every summer above a hundred degrees. Neither part is expensive, so replacing the full set in one sitting beats paying for three visits as they fail one by one.</p>
+<h2>The repair itself</h2>
+<p>The door gets clamped below the lowest roller so it cannot travel. Sections are brought back into line one at a time, rollers are re-seated or replaced, cables are respooled with matched tension on both drums, and bent rail is straightened or swapped for new section. Hinges get checked at the same time, since a section that came out of the rail usually took a hinge with it. Then the same hand-balance test as any other job: off the opener, the door should hold at waist height by itself. If it drifts, spring tension is wrong and the new rollers will chew themselves up too.</p>
+<h2>What it costs</h2>
+<p>Rollers and cables are cheap. Rail sections are moderate. What actually drives the number is how far the door came out and whether any sections bent in the process. You get the figure before work begins, and if a section is damaged past sensible repair you get told that plainly instead of being billed for a repair and a replacement.</p>
 
 ## svc_garage_door_replacement_lede
 
@@ -338,35 +301,21 @@ Replacement is the one garage door job in Fort Worth that puts you in front of t
 
 ## svc_garage_door_replacement_body
 
-### The Fort Worth permit rule, precisely
-
-Fort Worth Development Services says on its residential permitting page that replacement or addition of exterior doors, windows or burglar bars requires a building permit. A garage door is an exterior door, so a new door is permitted work in this city. The same page explains that permits cover work that changes, moves or repairs doors, while cosmetic remodelling is exempt.
-
-Read that against what most people call in about. Replacing a broken spring, a snapped cable, a set of rollers or an opener head is hardware service on the door you already own, not the replacement of an exterior door. Ordering a new door, or altering the opening, is a different animal with a filing attached to it. Verify your specific scope with Development Services at 817-392-2222 before anything is ordered, and if your address falls inside one of the city's historic districts, expect design review on top of the permit.
-
-### One section or the whole door
-
-A single caved-in section can often be swapped on its own, and that is the cheaper road when it is available. Two things decide it. Whether the manufacturer still produces your panel, and how far the finish has drifted. A ten-year-old almond door that has faced full southern exposure through Texas summers has chalked and faded, and a factory-fresh section in the same nominal color will read as a patch. Sometimes that is fine, because the replaced section sits at the bottom where nobody studies it. Sometimes it looks worse than the hail damage did. You should get a candid read on that before committing, not after.
-
-Discontinued panels are the more common blocker. Doors past roughly fifteen years often have no matching section still in production, and at that point a full replacement is the only honest option.
-
-### Hail, wind and what to actually specify
-
-**Skin gauge.** Thinner steel dents at smaller stone sizes. If your street has been hit twice in five years, a heavier gauge two-layer or three-layer door is the practical answer, and a woodgrain or textured finish disguises light bruising far better than a smooth flat panel does.
-
-**Struts.** The horizontal braces across the back of each section keep a wide door from flexing under wind load and hold it flat over time. They are also the first item a bargain door quietly leaves out. On a double-wide opening they are not optional.
-
-**Insulation.** Insulation is worth more here than most buyers realize, and not primarily for heating. An insulated door slows the afternoon heat soak into an attached garage, which is where opener boards, paint, tools and anything else you store are cooking every summer. R-values on residential doors run from around 6 on a basic insulated steel door to 18 or so on premium sandwich construction. On an attached garage sharing a wall with living space, it earns the premium. On a detached alley garage, usually not.
-
-### Measuring and the timeline
-
-Measurement comes first: opening width and height, headroom above the header, sideroom either side, and backroom depth. Older Fort Worth garages, particularly the detached alley structures behind the pre-war neighborhoods, routinely have too little headroom for standard torsion mounting, which calls for low-clearance track and a repositioned shaft. That has to be discovered while measuring, not on installation morning. Slab and jamb condition get a look too, since this region's expansive clay moves foundations and a racked opening will fight a square door forever.
-
-A stock-size like-for-like door on a standard opening can usually be sourced and hung inside a week once the paperwork is handled. Custom sizes, custom styles and glazing stretch that to several weeks, because the door is built to order.
-
-### What it costs
-
-Before a door is ordered you get an itemized figure: the door itself, the hardware, the labor, the permit, and disposal of the old sections. Push on one detail in particular, which is whether fresh track and correctly sized springs are inside that total. The existing spring was wound to counterbalance the door you are throwing away, and a heavier insulated replacement needs its own spring specification to hang level.
+<h2>The Fort Worth permit rule, precisely</h2>
+<p>Fort Worth Development Services says on its residential permitting page that replacement or addition of exterior doors, windows or burglar bars requires a building permit. A garage door is an exterior door, so a new door is permitted work in this city. The same page explains that permits cover work that changes, moves or repairs doors, while cosmetic remodelling is exempt.</p>
+<p>Read that against what most people call in about. Replacing a broken spring, a snapped cable, a set of rollers or an opener head is hardware service on the door you already own, not the replacement of an exterior door. Ordering a new door, or altering the opening, is a different animal with a filing attached to it. Verify your specific scope with Development Services at 817-392-2222 before anything is ordered, and if your address falls inside one of the city's historic districts, expect design review on top of the permit.</p>
+<h2>One section or the whole door</h2>
+<p>A single caved-in section can often be swapped on its own, and that is the cheaper road when it is available. Two things decide it. Whether the manufacturer still produces your panel, and how far the finish has drifted. A ten-year-old almond door that has faced full southern exposure through Texas summers has chalked and faded, and a factory-fresh section in the same nominal color will read as a patch. Sometimes that is fine, because the replaced section sits at the bottom where nobody studies it. Sometimes it looks worse than the hail damage did. You should get a candid read on that before committing, not after.</p>
+<p>Discontinued panels are the more common blocker. Doors past roughly fifteen years often have no matching section still in production, and at that point a full replacement is the only honest option.</p>
+<h2>Hail, wind and what to actually specify</h2>
+<p><strong>Skin gauge.</strong> Thinner steel dents at smaller stone sizes. If your street has been hit twice in five years, a heavier gauge two-layer or three-layer door is the practical answer, and a woodgrain or textured finish disguises light bruising far better than a smooth flat panel does.</p>
+<p><strong>Struts.</strong> The horizontal braces across the back of each section keep a wide door from flexing under wind load and hold it flat over time. They are also the first item a bargain door quietly leaves out. On a double-wide opening they are not optional.</p>
+<p><strong>Insulation.</strong> Insulation is worth more here than most buyers realize, and not primarily for heating. An insulated door slows the afternoon heat soak into an attached garage, which is where opener boards, paint, tools and anything else you store are cooking every summer. R-values on residential doors run from around 6 on a basic insulated steel door to 18 or so on premium sandwich construction. On an attached garage sharing a wall with living space, it earns the premium. On a detached alley garage, usually not.</p>
+<h2>Measuring and the timeline</h2>
+<p>Measurement comes first: opening width and height, headroom above the header, sideroom either side, and backroom depth. Older Fort Worth garages, particularly the detached alley structures behind the pre-war neighborhoods, routinely have too little headroom for standard torsion mounting, which calls for low-clearance track and a repositioned shaft. That has to be discovered while measuring, not on installation morning. Slab and jamb condition get a look too, since this region's expansive clay moves foundations and a racked opening will fight a square door forever.</p>
+<p>A stock-size like-for-like door on a standard opening can usually be sourced and hung inside a week once the paperwork is handled. Custom sizes, custom styles and glazing stretch that to several weeks, because the door is built to order.</p>
+<h2>What it costs</h2>
+<p>Before a door is ordered you get an itemized figure: the door itself, the hardware, the labor, the permit, and disposal of the old sections. Push on one detail in particular, which is whether fresh track and correctly sized springs are inside that total. The existing spring was wound to counterbalance the door you are throwing away, and a heavier insulated replacement needs its own spring specification to hang level.</p>
 
 ## urgency_bullet
 

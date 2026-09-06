@@ -248,33 +248,18 @@ Nothing else on a garage door fails as loudly, and nothing else tempts a homeown
 
 ## svc_garage_door_spring_repair_body
 
-### The bang, and then a door that fights back
-
-Torsion springs give no warning and then make a lot of noise. People describe a single dull crack, like a plank dropped on concrete, and it often happens overnight with nobody in the garage. The next press of the button fills in the rest. The motor pulls hard, the top section rises two or three inches, and all that steel eases back onto the slab. Go inside and look at the shaft bolted across the header. A failed torsion spring leaves two slack halves with a gap between them wide enough to put a finger through, and the winding cone at that end has usually spun out of position. Older garages around here sometimes run springs stretched along the horizontal tracks instead, where the tell is one spring hanging loose while its partner is still loaded.
-
-### Springs are rated in openings, not in years
-
-ANSI/DASMA 102, the sectional door specification, requires residential and commercial door systems to be designed to operate a minimum of 10,000 cycles when properly selected, installed, operated and maintained, and it counts one cycle as closed to fully open and back to closed again. The same document describes a residential door as one normally expected to run fewer than 1,500 cycles a year. Hold that against your own routine. Four openings on an ordinary day works out near 1,460 a year, which makes a minimum-rated spring roughly a seven-year part. Where the garage is the door everybody in the house uses, that day comes sooner. Springs built for higher cycle counts are available and cost a little more in steel.
-
-### Chloride is what shortens spring wire here
-
-DASMA's technical sheet on spring cycle life is blunt about corrosion. Springs should be kept dry, because rust reduces the effective area of the wire and therefore its strength, and rust leaves pits from which fatigue cracks accelerate. That sheet also names chemicals containing chlorine as a cause of corrosion and premature failure, and it advises keeping doors closed in climates with hard cold and frequent precipitation. Ann Arbor supplies both halves of that description. Public Works plows and salts 346 lane miles of Priority 1 and 2 streets down to bare pavement, and residents can collect up to five gallons of sand and salt mix per visit. Every vehicle coming in off Miller or Packard carries brine on its tires and rocker panels, it steams off in the warmer air of a closed garage, and it settles on the shaft, cones and bearing plates hanging directly above the opening.
-
-### Winding bars, and why nothing else substitutes
-
-A broken spring is not a spent spring. The surviving half still carries load, and on a two-spring shaft the intact one is fully wound. Bleeding off that tension takes steel winding bars sized to the cone, one bar holding while the other moves. Screwdrivers and cut lengths of rebar wander in the cone hole, slip under load, and leave at speed. Loosening set screws on a wound cone is the other classic mistake, because the cone will spin the moment they clear. For a homeowner the safe sequence is short: unplug the operator at the ceiling outlet so nobody hits the wall button from habit, leave the door down, move the car to the driveway, and stay clear of the opening.
-
-### Older garages change the parts list
-
-The age of the structure decides which system is overhead. The city's downtown housing assessment counts 31.3 percent of downtown rental units as built in 1949 or earlier, with another 27.5 percent of rental stock across the balance of the city dating from 1950 to 1969. In practice that reads as detached garages with barely any clearance above the header, extension springs along the side rails, and framing that has moved since it was built. Old West Side, in the National Register since 1972 and under a local ordinance since 1978, is full of them. Lower Burns Park holds houses of the same vintage; the city's study report on the Robert and Erma Hayden House describes a Cape Cod put up in 1936 on Gardner Avenue there. Extension hardware and torsion hardware are not interchangeable, and a low-clearance conversion needs its own brackets and track aboard the truck.
-
-### The visit, in order
-
-Numbers come off the failed spring first: wire diameter, inside diameter and overall length, plus door height and drum size, since that combination is what makes a replacement correct instead of merely similar. On a two-spring shaft both come off, because the survivor logged identical openings through identical winters. Drums are reset, cables get examined where they wrap the bottom bracket for the fraying a spring failure often causes, and bearings and the center plate are checked while the tension is off. New springs are wound to the turn count for your door height. Then the door is released from the operator and lifted by hand, and it should sit still near waist height rather than sinking or springing upward. Watch that test, because it is the proof the spring matches the door.
-
-### Where the number lands
-
-This is parts and labor with a fairly narrow band around it. Spring count, wire size, door height, and whether cables, bearings or drums also come out are what move it, and cones seized onto a salted shaft add time rather than parts. The figure is stated before any tension comes off, not after the door is in pieces.
+<h2>The bang, and then a door that fights back</h2>
+<p>Torsion springs give no warning and then make a lot of noise. People describe a single dull crack, like a plank dropped on concrete, and it often happens overnight with nobody in the garage. The next press of the button fills in the rest: the motor pulls hard, the top section rises two or three inches, and all that steel eases back onto the slab. Go inside and look at the shaft bolted across the header. A failed torsion spring leaves two slack halves with a gap between them wide enough to put a finger through, and the winding cone at that end has usually spun out of position.</p>
+<h2>Springs are rated in openings, not in years</h2>
+<p>ANSI/DASMA 102, the sectional door specification, requires residential and commercial door systems to be designed to operate a minimum of 10,000 cycles when properly selected, installed, operated and maintained, and it counts one cycle as closed to fully open and back to closed again. The same document describes a residential door as one normally expected to run fewer than 1,500 cycles a year. Hold that against your own routine: four openings on an ordinary day works out near 1,460 a year, which makes a minimum-rated spring roughly a seven-year part. Springs built for higher cycle counts cost a little more in steel.</p>
+<h2>Chloride is what shortens spring wire here</h2>
+<p>DASMA's technical sheet on spring cycle life is blunt about corrosion. Springs should be kept dry, because rust reduces the effective area of the wire and therefore its strength, and rust leaves pits from which fatigue cracks accelerate. That sheet also names chemicals containing chlorine as a cause of corrosion and premature failure. Public Works plows and salts 346 lane miles of Priority 1 and 2 streets down to bare pavement, and residents can collect up to five gallons of sand and salt mix per visit. Every vehicle coming in off Miller or Packard carries brine on its tires and rocker panels, it steams off in the warmer air of a closed garage, and it settles on the shaft, cones and bearing plates hanging directly above the opening.</p>
+<h2>Winding bars, and why nothing else substitutes</h2>
+<p>A broken spring is not a spent spring. The surviving half still carries load, and on a two-spring shaft the intact one is fully wound. Bleeding off that tension takes steel winding bars sized to the cone, one bar holding while the other moves. Screwdrivers and cut lengths of rebar wander in the cone hole, slip under load, and leave at speed. Loosening set screws on a wound cone is the other classic mistake, because the cone will spin the moment they clear. For a homeowner the safe sequence is short: unplug the operator, leave the door down, and stay clear of the opening.</p>
+<h2>Older garages change the parts list</h2>
+<p>The age of the structure decides which system is overhead. The city's downtown housing assessment counts 31.3 percent of downtown rental units as built in 1949 or earlier, with another 27.5 percent of rental stock across the balance of the city dating from 1950 to 1969. In practice that reads as detached garages with barely any clearance above the header, extension springs along the side rails, and framing that has moved since it was built. Old West Side, in the National Register since 1972 and under a local ordinance since 1978, is full of them. Extension hardware and torsion hardware are not interchangeable, and a low-clearance conversion needs its own brackets and track aboard the truck.</p>
+<h2>The visit, in order</h2>
+<p>Numbers come off the failed spring first: wire diameter, inside diameter and overall length, plus door height and drum size, since that combination is what makes a replacement correct instead of merely similar. On a two-spring shaft both come off, because the survivor logged identical openings through identical winters. Drums are reset, cables get examined where they wrap the bottom bracket, and bearings and the center plate are checked while the tension is off. New springs are wound to the turn count for your door height. Then the door is lifted by hand, and it should sit still near waist height rather than sinking or springing upward.</p>
 
 ## svc_garage_door_opener_repair_lede
 
@@ -282,35 +267,18 @@ Two unrelated faults arrive under the same heading: the door that retreats partw
 
 ## svc_garage_door_opener_repair_body
 
-### Halfway down, then straight back up
-
-That is the safety chain behaving as federal rules require. Part 1211 of Title 16 covers every residential garage door operator built for sale in the United States on or after January 1, 1993. Under section 1211.7, apart from the first foot of travel down from the full up position, an operator has to begin reversing within two seconds of contact with an obstruction and then return the door to the full up position and stop there. Section 1211.6 requires a secondary means of entrapment protection on top of that, and section 1211.8 lists what counts: an external photoelectric sensor, or an edge sensor on the bottom of the door, which section 1211.12 says has to trip at 15 pounds of force or less. So a door that refuses to finish closing is usually a working system reacting to something real.
-
-Look at the two eyes mounted low on either jamb. Grit thrown up by winter traffic films the lenses. A bag of ice melt or a snow shovel leans into the beam. Years of the door shaking the jamb walk the brackets slowly out of line.
-
-### Cold mornings and the close-force setting
-
-Ann Arbor averages 122 days a year below 32 degrees over the 1981 to 2010 record compiled in the GLISA climatology for the city. On those mornings the grease on hinges, rollers and the shaft stiffens, the bottom seal sticks to a cold slab, and the door needs noticeably more push than it did in September. An operator reads that extra drag the way it reads a child under the door and backs off. Turning the close force up to bully it through is the wrong move twice over: it hides a mechanical problem and it dulls the protection that stopped the door in the first place. The fix is at the door, not the dial.
-
-### Chain turning, door standing still
-
-Watch the rail while somebody presses the button. If the chain or belt travels and the door does not, the trolley has parted from the carriage, almost always because the release cord was pulled during an outage or snagged by a roof box and never re-engaged. Pull the cord toward the door and run the head until it latches. If the motor hums and the chain never moves, the trouble is inside the housing. Chain heads well into their second decade give up the nylon drive gear, its teeth rounding off until they stop catching the worm shaft, and grinding without travel is the signature of that. It is a gear kit, not a new opener.
-
-### An unheated garage is hard on the electronics
-
-Detached and uninsulated garages swing through the whole Michigan year, and the board screwed to the ceiling swings with them. Warm air meeting cold metal leaves condensation on connections, and the GLISA record for the city shows winter precipitation up 4.4 inches, about 75 percent, from 1951 through 2014, with very heavy precipitation events up 41 percent. The symptoms turn strange rather than obvious: a wall button that works while remotes do not, travel limits that forget where the floor is, a receiver that answers one day in three. Individual boards, receivers and capacitors are replaceable parts on most residential heads. Battery backup earns its keep on a street that loses power in a summer storm, but that is an upgrade, and it should be described to you as one.
-
-### When replacing the head is the honest answer
-
-An operator with no photoelectric or edge sensor at all predates the 1993 requirement and should be replaced rather than patched. So should a head with a cracked housing or a logic board no distributor stocks. Two failures in two seasons is a fair signal as well. One local wrinkle: running a new dedicated circuit for an opener is electrical work, and Ann Arbor prices a residential permit from estimated project cost. The first tier is $100, covering one rough and one final inspection, with a nonrefundable $15 base application fee on top and $35 for each extra inspection added to an open permit. That is small money that sets a schedule, and the schedule is what can stretch an afternoon job across two days.
-
-### Renting near campus adds a second signature
-
-The city's assessment recorded the downtown study area at 76.7 percent renter-occupied in 2020 and cited nearly 48,000 students in Ann Arbor that fall. So the person standing in front of a dead opener is frequently not the person who approves fixing it. Ann Arbor inspects all residential rental units under Housing Code Chapter 105 on a 30-month cycle and issues a Certificate of Compliance to each property that passes, and section 8:516(4) of the municipal code bars leasing a unit that has no certificate in effect. Report the fault in mechanical language, because "the motor runs and the door stays shut" tells a property manager and a technician far more than "the remote is broken," and it goes into the maintenance record in a form that survives the next inspection.
-
-### What the repair runs
-
-A named fault, the part, and the labor to fit it. Sensor alignment and a re-latched trolley sit at the bottom of the range, a gear kit in the middle, a board or a full head at the top. More useful than either figure is a straight answer on whether an aging head justifies the part.
+<h2>Halfway down, then straight back up</h2>
+<p>That is the safety chain behaving as federal rules require. Part 1211 of Title 16 covers every residential garage door operator built for sale in the United States on or after January 1, 1993. Under section 1211.7, apart from the first foot of travel down from the full up position, an operator has to begin reversing within two seconds of contact with an obstruction and then return the door to the full up position and stop there. Section 1211.6 requires a secondary means of entrapment protection on top of that, and section 1211.8 lists what counts: an external photoelectric sensor, or an edge sensor on the bottom of the door, which section 1211.12 says has to trip at 15 pounds of force or less. So a door that refuses to finish closing is usually a working system reacting to something real, and the two eyes mounted low on either jamb are where to look first.</p>
+<h2>Cold mornings and the close-force setting</h2>
+<p>Ann Arbor averages 122 days a year below 32 degrees over the 1981 to 2010 record compiled in the GLISA climatology for the city. On those mornings the grease on hinges, rollers and the shaft stiffens, the bottom seal sticks to a cold slab, and the door needs noticeably more push than it did in September. An operator reads that extra drag the way it reads a child under the door and backs off. Turning the close force up to bully it through hides a mechanical problem and dulls the protection that stopped the door. The fix is at the door, not the dial.</p>
+<h2>Chain turning, door standing still</h2>
+<p>Watch the rail while somebody presses the button. If the chain or belt travels and the door does not, the trolley has parted from the carriage, almost always because the release cord was pulled during an outage or snagged by a roof box and never re-engaged. Pull the cord toward the door and run the head until it latches. If the motor hums and the chain never moves, the trouble is inside the housing: chain heads well into their second decade give up the nylon drive gear, its teeth rounding off until they stop catching the worm shaft. That is a gear kit, not a new opener.</p>
+<h2>An unheated garage is hard on the electronics</h2>
+<p>Detached and uninsulated garages swing through the whole Michigan year, and the board screwed to the ceiling swings with them. Warm air meeting cold metal leaves condensation on connections, and the GLISA record for the city shows winter precipitation up 4.4 inches, about 75 percent, from 1951 through 2014. The symptoms turn strange rather than obvious: a wall button that works while remotes do not, travel limits that forget where the floor is, a receiver that answers one day in three. Individual boards, receivers and capacitors are replaceable parts on most residential heads.</p>
+<h2>When replacing the head is the honest answer</h2>
+<p>An operator with no photoelectric or edge sensor at all predates the 1993 requirement and should be replaced rather than patched. So should a head with a cracked housing or a logic board no distributor stocks. Two failures in two seasons is a fair signal as well. One local wrinkle: running a new dedicated circuit is electrical work, and Ann Arbor prices a residential permit from estimated project cost, with the first tier at $100 covering one rough and one final inspection, a nonrefundable $15 base application fee on top, and $35 for each extra inspection on an open permit.</p>
+<h2>Renting near campus adds a second signature</h2>
+<p>The city's assessment recorded the downtown study area at 76.7 percent renter-occupied in 2020 and cited nearly 48,000 students in Ann Arbor that fall, so the person standing in front of a dead opener is frequently not the person who approves fixing it. Ann Arbor inspects all residential rental units under Housing Code Chapter 105 on a 30-month cycle and issues a Certificate of Compliance to each property that passes, and section 8:516(4) of the municipal code bars leasing a unit that has no certificate in effect. Report the fault in mechanical language, because "the motor runs and the door stays shut" tells a manager and a technician far more than "the remote is broken."</p>
 
 ## svc_off_track_garage_door_repair_lede
 
@@ -318,72 +286,39 @@ A door hanging crooked in its opening is a cable, roller or track failure, and i
 
 ## svc_off_track_garage_door_repair_body
 
-### What it looks like from inside the garage
-
-The door is out of square. One corner sits lower than the other, or a section bulges away from the wall, or the gap along the top rail widens toward one side. Down at floor level you may find slack cable coiled near the jamb, a cable that has jumped the grooves on its drum, or a roller stem sitting proud of the track with the wheel out in open air. The door might still travel a few inches and bind, or it might be wedged where it stopped. None of that geometry is stable, and none of it is holding the door the way the design intended.
-
-### Stop running it
-
-Whatever cables and rollers are still engaged are carrying the whole weight alone. Pressing the button to see how bad it is turns one section out of its track into a door across the hood of the car. Pull the plug at the ceiling outlet, keep people and vehicles clear of the opening, and leave the pry bar in the drawer, since levering a section back over the lip bends the track flange and adds a part to the repair. This failure is urgent and goes to the front of the day.
-
-### The three ways a door leaves its track
-
-A cable comes off its drum. Each lift cable anchors at the bottom bracket and winds into grooves on a drum at the end of the torsion shaft. When a spring fails and the door drops hard, or when a cable is allowed to slacken, it can climb out of those grooves, and that half of the door loses its lift and racks in the opening.
-
-A roller gives up. Rollers are the wheels riding in the track at the edge of every section. Nylon ones grow brittle in a cold garage and crack; steel ones seize once the bearing dries out and grit packs the race. A seized roller skids rather than rolls and eventually climbs the rail, most often at the curve where the vertical track turns toward horizontal.
-
-The track itself is bent. A bumper does it. So does snow. A plow windrow pushed against the door, or a drift that refreezes into ice against the bottom section, loads the vertical track in a direction it was never meant to take.
-
-### The bottom two feet take the whole winter
-
-Everything that fails on a derailed door lives in the lowest part of the opening: bottom brackets, cable ends, the first two feet of vertical track, and the fasteners buried in the bottom section. That is also where wet salt lands. With 122 days a year below freezing in the GLISA record for Ann Arbor, meltwater on the slab refreezes overnight and the bottom seal can bond to concrete, so the first inch of travel starts as a tug against ice rather than a lift. Salted slush dripping off a car pools in exactly the same place. Rust at a bottom bracket is not cosmetic, because the bracket is the anchor point for a cable under full spring tension, and a corroded bracket bolt shearing during removal turns a cable job into bracket and track work.
-
-### Detached garages, and a frame that has moved
-
-Michigan builds to the International Residential Code, 2015 edition, adopted by reference in the state construction code rules at R 408.30500 with an effective date of February 8, 2022. The state's own amendment adds Table R301.2(5), which sets a ground snow load of 20 pounds per square foot for the City of Ann Arbor where most of Washtenaw County carries 25. Plenty of local garages went up long before any of that. The Ann Arbor Public Schools building table is a decent local clock: the Northside school building dates to 1939, Burns Park Elementary to 1925, Pattengill Elementary to 1957. Garages of those eras, especially the freestanding ones tucked behind narrow lots in Water Hill between Miller, Brooks, Sunset and the railroad tracks, have settled on their slabs. A header that has dropped or a jamb pulled out of plumb keeps throwing rollers no matter how many new ones go in, which is why the opening gets measured, not just the hardware.
-
-### The repair, step by step
-
-The door is clamped in the track below the lowest roller so it cannot travel while anyone works on it. Sections come back into line one at a time, rollers are re-seated or replaced, and cables are respooled with matched tension on both drums so the door hangs level. Bent track is straightened where that is sound or swapped for new where it is not, and hinges get checked, since a section that came out of the track usually took a hinge or a stile with it. Bottom brackets and the fasteners around them are inspected for corrosion rather than wiped off and reused. The job finishes with the door off the operator and lifted by hand: it should hold near waist height on its own. If it sinks or climbs, spring tension is off, and the new rollers will grind themselves down as well.
-
-### What decides the total
-
-Rollers and cables are inexpensive parts. Track sections are moderate. The real driver is how far the door came out, how many sections bent on the way, and whether corroded bottom hardware has to be cut off and replaced. If a section is damaged past sensible repair you should hear that plainly instead of paying for a repair and then a replacement.
+<h2>What it looks like from inside the garage</h2>
+<p>The door is out of square. One corner sits lower than the other, or a section bulges away from the wall, or the gap along the top rail widens toward one side. Down at floor level you may find slack cable coiled near the jamb, a cable that has jumped the grooves on its drum, or a roller stem sitting proud of the track with the wheel out in open air. None of that geometry is stable.</p>
+<h2>Stop running it</h2>
+<p>Whatever cables and rollers are still engaged are carrying the whole weight alone. Pressing the button to see how bad it is turns one section out of its track into a door across the hood of the car. Pull the plug at the ceiling outlet, keep people and vehicles clear of the opening, and leave the pry bar in the drawer, since levering a section back over the lip bends the track flange.</p>
+<h2>The three ways a door leaves its track</h2>
+<p>A cable comes off its drum. Each lift cable anchors at the bottom bracket and winds into grooves on a drum at the end of the torsion shaft. When a spring fails and the door drops hard, or when a cable is allowed to slacken, it can climb out of those grooves, and that half of the door loses its lift and racks in the opening.</p>
+<p>A roller gives up. Nylon rollers grow brittle in a cold garage and crack; steel ones seize once the bearing dries out and grit packs the race. A seized roller skids rather than rolls and eventually climbs the rail at the curve where the vertical track turns toward horizontal.</p>
+<p>The track itself is bent. A bumper does it, and so does snow: a plow windrow pushed against the door, or a drift that refreezes into ice against the bottom section, loads the vertical track in a direction it was never meant to take.</p>
+<h2>The bottom two feet take the whole winter</h2>
+<p>Everything that fails on a derailed door lives in the lowest part of the opening: bottom brackets, cable ends, the first two feet of vertical track, and the fasteners buried in the bottom section. That is also where wet salt lands, and where meltwater refreezes overnight against a bottom seal that can bond to the concrete. Rust at a bottom bracket is not cosmetic, because the bracket is the anchor point for a cable under full spring tension, and a corroded bracket bolt shearing during removal turns a cable job into bracket and track work.</p>
+<h2>Detached garages, and a frame that has moved</h2>
+<p>Michigan builds to the International Residential Code, 2015 edition, adopted by reference in the state construction code rules at R 408.30500 with an effective date of February 8, 2022. The state's own amendment adds Table R301.2(5), which sets a ground snow load of 20 pounds per square foot for the City of Ann Arbor where most of Washtenaw County carries 25. Plenty of local garages went up long before any of that. Garages of the pre-war era, especially the freestanding ones tucked behind narrow lots in Water Hill between Miller, Brooks, Sunset and the railroad tracks, have settled on their slabs. A header that has dropped or a jamb pulled out of plumb keeps throwing rollers no matter how many new ones go in, which is why the opening gets measured, not just the hardware.</p>
+<h2>The repair, step by step</h2>
+<p>The door is clamped in the track below the lowest roller so it cannot travel while anyone works on it. Sections come back into line one at a time, rollers are re-seated or replaced, and cables are respooled with matched tension on both drums so the door hangs level. Bent track is straightened where that is sound or swapped for new where it is not, and hinges get checked, since a section that came out of the track usually took a hinge or a stile with it. Bottom brackets and their fasteners are inspected for corrosion rather than wiped off and reused. The job finishes with the door lifted by hand: it should hold near waist height on its own. If it sinks or climbs, spring tension is off and the new rollers will grind themselves down too.</p>
 
 ## svc_garage_door_replacement_lede
 
-Of the four jobs covered here, a new door is the one where the paperwork can outlast the installation. A visible change inside a local historic district needs approval first, and four dimensions get taken before anything is ordered.
+Of every job covered here, a new door is the one where the paperwork can outlast the installation. A visible change inside a local historic district needs approval first, and four dimensions get taken before anything is ordered.
 
 ## svc_garage_door_replacement_body
 
-### One section, or all of them
-
-A single caved-in section can often be swapped by itself, and when that works it is the cheaper road by a wide margin. Two things decide whether it works. First, whether the manufacturer still produces your panel: doors past roughly fifteen years frequently have no matching section in production, and hunting a discontinued profile in the right color can cost more than the section is worth. Second, how far the finish has drifted. A door that has faced south through fifteen Michigan winters has chalked, and a factory-fresh section beside it reads as a patch. On a bottom section, where nobody studies it, that is usually fine. On the section at eye level it rarely is. You should get a straight read on the match before committing, not after the panel arrives.
-
-### Historic review comes before the order, not after
-
-Ann Arbor has fifteen local historic districts, Old West Side and Old Fourth Ward among them, and the Old Fourth Ward district was adopted back in 1983 with its survey updated in 2024. The city states that all exterior work in a historic district is regulated by the Historic District Commission and needs an application and an approved Certificate of Appropriateness. Replacing a broken spring or a set of rollers on the door you already own is hardware service. Changing what the garage looks like from the street is a design decision, and in those districts it is reviewed. Confirm the property's district status with planning staff before choosing a panel style, a window layout or a color, because a deposit placed on a door that will not pass review is money and weeks gone.
-
-### Permits and the inspection calendar
-
-Rehanging a door, replacing springs, cables, rollers or an opener head generally sits outside the permit process. Widening the opening, altering the header or running a new circuit does not. Ann Arbor prices a residential building permit from estimated project cost, with the first tier at $100 for work up to $1,000 including one rough and one final inspection, plus a nonrefundable $15 base application fee on every permit, and $35 for each additional inspection added to an open permit. Those are modest amounts that carry a schedule with them, and it is the schedule that stretches a morning's installation across a week. Whoever prices the job should be able to name the filer, the filing cost, and the week an inspector is likely to show up.
-
-### Measuring is not a formality
-
-Four dimensions get taken before a door is ordered: opening width and height, headroom above the header, sideroom on each jamb, and backroom into the garage. Detached garages behind the older streets routinely lack the headroom a standard torsion assembly needs, which calls for a low-clearance track kit and a repositioned shaft, and finding that out on installation morning costs a day. The condition of the jambs and slab matters just as much, because a garage that has settled will fight a square door forever. Postwar attached garages on the streets around Pattengill Elementary, which opened in 1957, tend to have purpose-built openings and honest framing, and they are quicker jobs for exactly that reason.
-
-### What is worth specifying in this climate
-
-Steel gauge comes first, because thinner skins dent from a bumper, a bike, or a shovel handle, and a woodgrain or textured finish hides light bruising better than a flat smooth panel. Struts, the horizontal braces across the back of each section, keep a wide door flat under wind load and are the first item a bargain quote quietly drops; on a double opening they are not optional. Insulation matters more here than buyers expect, and not mainly for comfort. A door on an attached garage that shares a wall with a bedroom is part of that wall for four months of the year, and an insulated sandwich section also stays stiffer in cold. Ask about the bottom seal too, since a fresh flexible seal on an uneven slab is what keeps meltwater and salt off the new hardware. Nylon rollers with sealed bearings run quieter than the builder-grade steel ones that came with most doors.
-
-### A new door needs its own springs
-
-This is the line that gets skipped. The spring on the shaft now was wound to counterbalance the door being thrown away. An insulated replacement usually weighs more, and hanging it on the old spring leaves the door heavy, the opener straining, and the spring cycling outside what it was sized for. New springs specified to the new door's weight, matched drums and fresh cables belong in the quote as line items you can read. Ask whether the existing opener is being reused, whether its rail and safety sensors carry over, and who hauls a couple of hundred pounds of old sections away.
-
-### Reading the replacement figure
-
-A new door is the widest range in this trade, and it is set by size, construction and access. A plain single-car steel door on a clear driveway is at one end; an oversized insulated double on a settled detached garage that needs a low-clearance kit and jamb repair is at the other. Ask for the door, the hardware, the springs, the labor, the permit and the disposal as separate lines, then ask what happens to the price if the jambs turn out to be rotten once the old door is off. An itemized figure before the order is the whole point.
-
+<h2>One section, or all of them</h2>
+<p>A single caved-in section can often be swapped by itself, and when that works it is the cheaper road by a wide margin. Two things decide whether it works. First, whether the manufacturer still produces your panel: doors past roughly fifteen years frequently have no matching section in production, and hunting a discontinued profile in the right color can cost more than the section is worth. Second, how far the finish has drifted, because a door that has faced south through fifteen Michigan winters has chalked and a factory-fresh section beside it reads as a patch. On a bottom section that is usually fine; at eye level it rarely is.</p>
+<h2>Historic review comes before the order, not after</h2>
+<p>Ann Arbor has fifteen local historic districts, Old West Side and Old Fourth Ward among them, and the Old Fourth Ward district was adopted back in 1983 with its survey updated in 2024. The city states that all exterior work in a historic district is regulated by the Historic District Commission and needs an application and an approved Certificate of Appropriateness. Replacing a broken spring or a set of rollers on the door you already own is hardware service. Changing what the garage looks like from the street is a design decision, and in those districts it is reviewed. Confirm the property's district status with planning staff before choosing a panel style, a window layout or a color, because a deposit placed on a door that will not pass review is money and weeks gone.</p>
+<h2>Permits and the inspection calendar</h2>
+<p>Rehanging a door, replacing springs, cables, rollers or an opener head generally sits outside the permit process. Widening the opening, altering the header or running a new circuit does not. Ann Arbor prices a residential building permit from estimated project cost, with the first tier at $100 for work up to $1,000 including one rough and one final inspection, plus a nonrefundable $15 base application fee on every permit and $35 for each additional inspection. Whoever prices the job should be able to name the filer, the filing cost, and the week an inspector is likely to show up.</p>
+<h2>Measuring is not a formality</h2>
+<p>Four dimensions get taken before a door is ordered: opening width and height, headroom above the header, sideroom on each jamb, and backroom into the garage. Detached garages behind the older streets routinely lack the headroom a standard torsion assembly needs, which calls for a low-clearance track kit and a repositioned shaft, and finding that out on installation morning costs a day. The condition of the jambs and slab matters just as much, because a garage that has settled will fight a square door forever.</p>
+<h2>What is worth specifying in this climate</h2>
+<p>Steel gauge comes first, because thinner skins dent from a bumper, a bike or a shovel handle, and a woodgrain or textured finish hides light bruising better than a flat smooth panel. Struts, the horizontal braces across the back of each section, keep a wide door flat under wind load and are the first item a bargain quote quietly drops. Ask about the bottom seal too, since a fresh flexible seal on an uneven slab is what keeps meltwater and salt off the new hardware. Nylon rollers with sealed bearings run quieter than the builder-grade steel ones that came with most doors.</p>
+<h2>A new door needs its own springs</h2>
+<p>This is the line that gets skipped. The spring on the shaft now was wound to counterbalance the door being thrown away. An insulated replacement usually weighs more, and hanging it on the old spring leaves the door heavy, the opener straining, and the spring cycling outside what it was sized for. New springs specified to the new door's measured weight, matched drums and fresh cables belong in the quote as line items you can read.</p>
 
 ## svc_carriage_house_garage_doors_lede
 
