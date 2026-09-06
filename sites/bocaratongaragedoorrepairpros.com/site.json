@@ -1,6 +1,6 @@
 {
   "domain": "bocaratongaragedoorrepairpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Boca Raton Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
@@ -125,6 +125,182 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Boca Raton",
       "icon": "house"
+    },
+    {
+      "slug": "carriage-house-garage-doors",
+      "name": "Carriage House",
+      "nav": "Carriage house",
+      "h1": "Carriage House and Custom Garage Doors in Boca Raton, FL Overlay and Swing-Out",
+      "accent": "Carriage house doors are sectional doors dressed as swing-out doors, and in most cases tha",
+      "photo": "assets/work-1.jpg",
+      "keyword": "carriage house garage doors Boca Raton",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-garage-door-repair",
+      "name": "Commercial Repair",
+      "nav": "Commercial repair",
+      "h1": "Commercial Garage Door Repair in Boca Raton, FL Rolling Steel and Sectional",
+      "accent": "Commercial openings fail on a different schedule and against different rules than resident",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial garage door repair Boca Raton",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-garage-door-repair",
+      "name": "Emergency Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Garage Door Repair in Boca Raton, FL After Hours Response",
+      "accent": "Two situations cannot wait for a scheduled visit: a car sealed behind a door that will not",
+      "photo": "assets/work-3.jpg",
+      "keyword": "emergency garage door repair Boca Raton",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-hinge-repair",
+      "name": "Hinge Repair",
+      "nav": "Hinge repair",
+      "h1": "Garage Door Hinge and Bracket Repair in Boca Raton, FL Hinges, Stiles and Brackets",
+      "accent": "Hinges, end stiles and bottom brackets are the parts that hold a door together while it ch",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door hinge repair Boca Raton",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-insulation",
+      "name": "Insulation",
+      "nav": "Insulation",
+      "h1": "Garage Door Insulation and R-Value Upgrade in Boca Raton, FL R-Value and Thermal Break",
+      "accent": "Insulating a garage door in a hot, humid climate is a heat-gain and moisture decision rath",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door insulation Boca Raton",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-lock-repair",
+      "name": "Lock Repair",
+      "nav": "Lock repair",
+      "h1": "Garage Door Lock and Handle Repair in Boca Raton, FL T-Handles and Slide Bolts",
+      "accent": "The lock on a garage door has two jobs that pull against each other: keeping the door shut",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door lock repair Boca Raton",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-opener-installation",
+      "name": "Opener Installation",
+      "nav": "Opener installation",
+      "h1": "Garage Door Opener Installation in Boca Raton, FL Belt, Chain or Jackshaft",
+      "accent": "Choosing an operator is mostly about the door it will move and the garage it will live in.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door opener installation Boca Raton",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-remote-programming",
+      "name": "Remote Programming",
+      "nav": "Remote programming",
+      "h1": "Garage Door Remote and Keypad Repair in Boca Raton, FL Rolling Code Pairing",
+      "accent": "Remotes and keypads fail in ways that look like an operator failure and almost never are.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door remote programming Boca Raton",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-safety-inspection",
+      "name": "Safety Inspection",
+      "nav": "Safety inspection",
+      "h1": "Garage Door Safety Inspection in Boca Raton, FL Reversal and Force Tests",
+      "accent": "A safety inspection is a pass or fail against published requirements, not an opinion about",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door safety inspection Boca Raton",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-sensor-repair",
+      "name": "Sensor Repair",
+      "nav": "Sensor repair",
+      "h1": "Garage Door Sensor Repair in Boca Raton, FL Photo Eyes and Wiring",
+      "accent": "A door that starts down, stops short of the slab and runs itself back up is rarely a sprin",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door sensor repair Boca Raton",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-tune-up",
+      "name": "Tune Up",
+      "nav": "Tune up",
+      "h1": "Garage Door Tune-Up and Maintenance in Boca Raton, FL Balance and Lubrication",
+      "accent": "A tune-up is a measurement visit, not a lubrication visit.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door tune up Boca Raton",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-weather-seal-replacement",
+      "name": "Weather Seal Replacement",
+      "nav": "Weather seal replacement",
+      "h1": "Garage Door Weather Seal Replacement in Boca Raton, FL Astragal and Threshold",
+      "accent": "Water on a garage floor after a squall is usually blamed on the slab.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door weather seal replacement Boca Raton",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-wont-close",
+      "name": "Wont Close",
+      "nav": "Wont close",
+      "h1": "Garage Door Will Not Close in Boca Raton, FL A Diagnostic Order",
+      "accent": "A door that opens normally and refuses to close is reporting something specific.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door wont close Boca Raton",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "noisy-garage-door-repair",
+      "name": "Noisy Repair",
+      "nav": "Noisy repair",
+      "h1": "Noisy Garage Door Repair in Boca Raton, FL Diagnosis by Sound",
+      "accent": "Noise is a diagnosis, not a nuisance.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "noisy garage door repair Boca Raton",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "smart-garage-door-opener",
+      "name": "Smart Opener",
+      "nav": "Smart opener",
+      "h1": "Smart Garage Door Opener Installation in Boca Raton, FL Phone Control and Retrofit",
+      "accent": "Phone control changes what the door is allowed to do on its own, and the standards treat t",
+      "photo": "assets/work-3.jpg",
+      "keyword": "smart garage door opener Boca Raton",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "torsion-spring-conversion",
+      "name": "Torsion Spring Conversion",
+      "nav": "Torsion spring conversion",
+      "h1": "Extension to Torsion Spring Conversion in Boca Raton, FL Extension to Torsion",
+      "accent": "Converting a door from extension springs to a torsion bar is worth doing for two reasons: ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "torsion spring conversion Boca Raton",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

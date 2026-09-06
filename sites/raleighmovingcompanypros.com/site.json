@@ -1,6 +1,6 @@
 {
   "domain": "raleighmovingcompanypros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Raleigh Moving Services Pros",
   "service": "Moving Services",
   "service_inline": "moving services",
@@ -119,6 +119,182 @@
       "accent": "Belongings Packed for a Safer Move",
       "keyword": "packing services movers",
       "icon": "check"
+    },
+    {
+      "slug": "appliance-moving",
+      "name": "Appliance",
+      "nav": "Appliance",
+      "h1": "Appliance Moving in Raleigh, NC Serviced before the truck arrives",
+      "accent": "North Carolina's tariff does not include disconnecting or servicing a washer, a dryer or a",
+      "photo": "assets/work-1.jpg",
+      "keyword": "appliance moving Raleigh",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-moving",
+      "name": "Commercial",
+      "nav": "Commercial",
+      "h1": "Commercial Moving in Raleigh, NC Outside the tariff, inside a contract",
+      "accent": "A commercial relocation in North Carolina has no state rate ceiling and no state complaint",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial moving Raleigh",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "furniture-moving",
+      "name": "Furniture",
+      "nav": "Furniture",
+      "h1": "Furniture Moving in Raleigh, NC Disassembly included in the rate",
+      "accent": "Sofas, sectionals, armoires and bed frames are what the tariff actually calls set-up piece",
+      "photo": "assets/work-3.jpg",
+      "keyword": "furniture moving Raleigh",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "gun-safe-moving",
+      "name": "Gun Safe",
+      "nav": "Gun safe",
+      "h1": "Gun Safe Moving in Raleigh, NC Safes over 400 pounds",
+      "accent": "A full-height gun safe weighs more than everything else in the room combined, and North Ca",
+      "photo": "assets/work-1.jpg",
+      "keyword": "gun safe moving Raleigh",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hoisting-and-difficult-access",
+      "name": "Hoisting And Difficult Access",
+      "nav": "Hoisting and difficult access",
+      "h1": "Hoisting and Difficult Access in Raleigh, NC When the stairwell will not fit",
+      "accent": "When the stairwell will not take the piece, the remaining routes are a window, a balcony o",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hoisting and difficult access Raleigh",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hot-tub-moving",
+      "name": "Hot Tub",
+      "nav": "Hot tub",
+      "h1": "Hot Tub and Spa Moving in Raleigh, NC Drained, rigged, set on a pad",
+      "accent": "A hot tub is a single article of several thousand pounds with an eight-foot footprint and ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "hot tub moving Raleigh",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "labor-only-moving",
+      "name": "Labor Only",
+      "nav": "Labor only",
+      "h1": "Labor-Only Moving in Raleigh, NC A crew without a truck",
+      "accent": "A crew without a truck is the cheapest way to move a household and the easiest way to lose",
+      "photo": "assets/work-1.jpg",
+      "keyword": "labor only moving Raleigh",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "last-minute-moving",
+      "name": "Last Minute",
+      "nav": "Last minute",
+      "h1": "Last-Minute Moving in Raleigh, NC Short-notice dates, real costs",
+      "accent": "Booking a move fewer than five business days out costs you a specific consumer protection ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "last minute moving Raleigh",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "loading-and-unloading",
+      "name": "Loading And Unloading",
+      "nav": "Loading and unloading",
+      "h1": "Loading and Unloading in Raleigh, NC Your truck, our crew",
+      "accent": "When the truck is rented and the driving is yours, what remains is the part that hurts: ge",
+      "photo": "assets/work-3.jpg",
+      "keyword": "loading and unloading Raleigh",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "office-moving",
+      "name": "Office",
+      "nav": "Office",
+      "h1": "Office Moving in Raleigh, NC Workstations moved after hours",
+      "accent": "An office relocation is not governed by the same rulebook as a household move in North Car",
+      "photo": "assets/work-1.jpg",
+      "keyword": "office moving Raleigh",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "piano-moving",
+      "name": "Piano",
+      "nav": "Piano",
+      "h1": "Piano Moving in Raleigh, NC Priced by height and flights",
+      "accent": "A piano is priced as its own event in North Carolina, separately from the hours the rest o",
+      "photo": "assets/work-2.jpg",
+      "keyword": "piano moving Raleigh",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "pool-table-moving",
+      "name": "Pool Table",
+      "nav": "Pool table",
+      "h1": "Pool Table Moving in Raleigh, NC Slate removed and releveled",
+      "accent": "A slate pool table is not moved.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "pool table moving Raleigh",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "senior-moving",
+      "name": "Senior",
+      "nav": "Senior",
+      "h1": "Senior Moving in Raleigh, NC Downsizing sorted room by room",
+      "accent": "Downsizing a house of forty years is a different job than moving a two-bedroom apartment, ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "senior moving Raleigh",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "single-item-moving",
+      "name": "Single Item",
+      "nav": "Single item",
+      "h1": "Single-Item Moving in Raleigh, NC One heavy piece, measured",
+      "accent": "One heavy piece is not a small move.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "single item moving Raleigh",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "storage-and-moving",
+      "name": "Storage And",
+      "nav": "Storage and",
+      "h1": "Moving With Storage in Raleigh, NC Storage between closing dates",
+      "accent": "When the closing dates do not line up, the shipment goes into storage in transit, and Nort",
+      "photo": "assets/work-3.jpg",
+      "keyword": "storage and moving Raleigh",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "unpacking-services",
+      "name": "Unpacking Services",
+      "nav": "Unpacking services",
+      "h1": "Unpacking Services in Raleigh, NC Cartons emptied, materials removed",
+      "accent": "Unpacking has a legal definition in North Carolina, and it is narrower than most household",
+      "photo": "assets/work-1.jpg",
+      "keyword": "unpacking services Raleigh",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

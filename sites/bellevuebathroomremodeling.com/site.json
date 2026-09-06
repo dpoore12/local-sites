@@ -1,6 +1,6 @@
 {
   "domain": "bellevuebathroomremodeling.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Bellevue Bathroom Remodeling Pros",
   "service": "Bathroom Remodeling",
   "service_inline": "bathroom remodeling",
@@ -120,6 +120,182 @@
       "accent": "Accessible Showers Built for Everyday Use",
       "keyword": "walk in shower installation",
       "icon": "check"
+    },
+    {
+      "slug": "accessible-bathroom-remodel",
+      "name": "Accessible Bathroom Remodel",
+      "nav": "Accessible bathroom remodel",
+      "h1": "Accessible Bathroom Remodel in Bellevue, NE Bathrooms That Stay Usable",
+      "accent": "Accessible work is dimensional, and the dimensions come with tolerances.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "accessible bathroom remodel Bellevue",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "basement-bathroom-addition",
+      "name": "Basement Bathroom Addition",
+      "nav": "Basement bathroom addition",
+      "h1": "Basement Bathroom Addition in Bellevue, NE Below-Grade Baths Built Properly",
+      "accent": "A basement bathroom is not a bathroom that happens to be downstairs.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "basement bathroom addition Bellevue",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "bathroom-flooring",
+      "name": "Bathroom Flooring",
+      "nav": "Bathroom flooring",
+      "h1": "Bathroom Flooring in Bellevue, NE Floors Built for Standing Water",
+      "accent": "Bathroom flooring is a moisture assembly that happens to be walked on.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "bathroom flooring Bellevue",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "bathroom-lighting-and-ventilation",
+      "name": "Bathroom Lighting And Ventilation",
+      "nav": "Bathroom lighting and ventilation",
+      "h1": "Bathroom Lighting and Ventilation in Bellevue, NE Light and Air Sized Correctly",
+      "accent": "The fan and the fixtures are the two systems most often left alone in a remodel, and they ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "bathroom lighting and ventilation Bellevue",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "bathroom-plumbing-fixtures",
+      "name": "Bathroom Plumbing Fixtures",
+      "nav": "Bathroom plumbing fixtures",
+      "h1": "Bathroom Plumbing Fixtures in Bellevue, NE Valves and Fixtures Done Right",
+      "accent": "Fixtures are the visible end of a system that is mostly hidden.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "bathroom plumbing fixtures Bellevue",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "bathroom-tile-installation",
+      "name": "Bathroom Tile Installation",
+      "nav": "Bathroom tile installation",
+      "h1": "Bathroom Tile Installation in Bellevue, NE Tile Set on a Sound Substrate",
+      "accent": "Tile is the part everyone chooses and the last part that fails.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "bathroom tile installation Bellevue",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "bathroom-waterproofing",
+      "name": "Bathroom Waterproofing",
+      "nav": "Bathroom waterproofing",
+      "h1": "Bathroom Waterproofing in Bellevue, NE The Layer Nobody Ever Sees",
+      "accent": "Waterproofing is the only part of a bathroom that has to work perfectly and is impossible ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "bathroom waterproofing Bellevue",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "guest-bathroom-remodel",
+      "name": "Guest Bathroom Remodel",
+      "nav": "Guest bathroom remodel",
+      "h1": "Guest Bathroom Remodel in Bellevue, NE Hall Baths Turned Around Fast",
+      "accent": "A hall bath serves people who did not choose the fixtures, and in a city with Offutt Air F",
+      "photo": "assets/work-2.jpg",
+      "keyword": "guest bathroom remodel Bellevue",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "half-bath-remodel",
+      "name": "Half Bath Remodel",
+      "nav": "Half bath remodel",
+      "h1": "Half Bath Remodel in Bellevue, NE Powder Rooms Rebuilt Cleanly",
+      "accent": "A powder room has two fixtures and no shower, and that single absence changes the code, th",
+      "photo": "assets/work-3.jpg",
+      "keyword": "half bath remodel Bellevue",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "heated-bathroom-floor",
+      "name": "Heated Bathroom Floor",
+      "nav": "Heated bathroom floor",
+      "h1": "Heated Bathroom Floor in Bellevue, NE Warm Floors Wired to Code",
+      "accent": "Electric floor heat is the only bathroom upgrade that changes how the room feels every sin",
+      "photo": "assets/work-1.jpg",
+      "keyword": "heated bathroom floor Bellevue",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "master-bathroom-remodel",
+      "name": "Master Bathroom Remodel",
+      "nav": "Master bathroom remodel",
+      "h1": "Master Bathroom Remodel in Bellevue, NE Primary Baths Rebuilt Completely",
+      "accent": "A primary bathroom in a late-1990s Sarpy County subdivision usually has the space and almo",
+      "photo": "assets/work-2.jpg",
+      "keyword": "master bathroom remodel Bellevue",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "shower-door-and-glass",
+      "name": "Shower Door And Glass",
+      "nav": "Shower door and glass",
+      "h1": "Shower Door and Glass in Bellevue, NE Glass Fitted to Real Walls",
+      "accent": "Glass is the last item installed and the first one to expose every error underneath it.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "shower door and glass Bellevue",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "small-bathroom-remodel",
+      "name": "Small Bathroom Remodel",
+      "nav": "Small bathroom remodel",
+      "h1": "Small Bathroom Remodel in Bellevue, NE Tight Rooms Planned to the Inch",
+      "accent": "A small bathroom is a dimensional problem before it is a design problem.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "small bathroom remodel Bellevue",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "toilet-installation",
+      "name": "Toilet Installation",
+      "nav": "Toilet installation",
+      "h1": "Toilet Installation in Bellevue, NE Set Level, Sealed, and Solid",
+      "accent": "A toilet either sits level on a solid floor with the flange at the right height, or it roc",
+      "photo": "assets/work-2.jpg",
+      "keyword": "toilet installation Bellevue",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "tub-to-shower-conversion",
+      "name": "Tub To Shower Conversion",
+      "nav": "Tub to shower conversion",
+      "h1": "Tub-to-Shower Conversion in Bellevue, NE Tub Removed, Shower Built New",
+      "accent": "A conversion is not a swap.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "tub to shower conversion Bellevue",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "vanity-and-countertop-replacement",
+      "name": "Vanity And Countertop Replacement",
+      "nav": "Vanity and countertop replacement",
+      "h1": "Vanity and Countertop Replacement in Bellevue, NE New Vanity, Correct Clearances",
+      "accent": "A vanity swap looks like carpentry and behaves like three trades.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "vanity and countertop replacement Bellevue",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

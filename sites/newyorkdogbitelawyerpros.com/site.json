@@ -1,6 +1,6 @@
 {
   "domain": "newyorkdogbitelawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "New York Dog Bite Law Pros",
   "service": "Dog Bite Lawyer",
   "service_inline": "dog bite lawyer",
@@ -208,6 +208,182 @@
       "accent": "Coverage, Offers and Claim Terms",
       "keyword": "dog bite insurance claim lawyer",
       "icon": "check"
+    },
+    {
+      "slug": "animal-care-centers-bite-reports",
+      "name": "Animal Care Centers Bite Reports",
+      "nav": "Animal care centers bite reports",
+      "h1": "Animal Care Centers and Bite Reports in New York, NY Health Code Records, Holds and Observation",
+      "accent": "A bite in New York City generates paperwork in at least three systems: a public health rec",
+      "photo": "assets/work-1.jpg",
+      "keyword": "animal care centers bite reports New York",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "apartment-and-hallway-attacks",
+      "name": "Apartment And Hallway Attacks",
+      "nav": "Apartment and hallway attacks",
+      "h1": "Apartment and Hallway Dog Attacks in New York, NY Common Areas, Elevators and Building Records",
+      "accent": "Vestibules, stair landings, service corridors and elevator cabs are where a leashed dog an",
+      "photo": "assets/work-2.jpg",
+      "keyword": "apartment and hallway attacks New York",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "child-bite-injuries",
+      "name": "Child Bite Injuries",
+      "nav": "Child bite injuries",
+      "h1": "Child Dog Bite Injuries in New York, NY Tolling, Court Approval and Growth Injuries",
+      "accent": "Most children are bitten in familiar rooms by animals they already know.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "child bite injuries New York",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dangerous-dog-proceedings",
+      "name": "Dangerous Dog Proceedings",
+      "nav": "Dangerous dog proceedings",
+      "h1": "Dangerous Dog Proceedings in New York in New York, NY Agriculture and Markets Law 123 Step by Step",
+      "accent": "A dangerous-dog case is not the injury claim.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dangerous dog proceedings New York",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dog-attack-wrongful-death",
+      "name": "Dog Attack Wrongful Death",
+      "nav": "Dog attack wrongful death",
+      "h1": "Fatal Dog Attack and Wrongful Death Claims in New York, NY EPTL Article 5, Survival Claims and Deadlines",
+      "accent": "A death from a dog attack produces two separate claims with different beneficiaries and di",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dog attack wrongful death New York",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dog-walker-and-handler-liability",
+      "name": "Dog Walker And Handler Liability",
+      "nav": "Dog walker and handler liability",
+      "h1": "Dog Walker and Handler Liability in New York, NY Custody, Control and Negligent Handling",
+      "accent": "The person holding the leash is often not the person who owns the dog.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "dog walker and handler liability New York",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "facial-scarring-claims",
+      "name": "Facial Scarring Claims",
+      "nav": "Facial scarring claims",
+      "h1": "Facial Scarring Dog Bite Claims in New York, NY Disfigurement, Revision Surgery and Proof",
+      "accent": "A facial injury is valued on how it looks after healing finishes, not on the emergency-roo",
+      "photo": "assets/work-1.jpg",
+      "keyword": "facial scarring claims New York",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "homeowners-and-co-op-insurance-claims",
+      "name": "Homeowners And Co Op Insurance Claims",
+      "nav": "Homeowners and co op insurance claims",
+      "h1": "Homeowners and Co-op Insurance Claims in New York, NY Coverage Disclosure and Claim Deadlines",
+      "accent": "Before anyone argues about fault there is a narrower question with statutory answers: does",
+      "photo": "assets/work-2.jpg",
+      "keyword": "homeowners and co op insurance claims New York",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "landlord-and-building-owner-liability",
+      "name": "Landlord And Building Owner Liability",
+      "nav": "Landlord and building owner liability",
+      "h1": "Landlord and Building Owner Liability in New York, NY Harboring, Notice and Control of the Premises",
+      "accent": "Ownership of a New York building is rarely one name.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "landlord and building owner liability New York",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "negligence-claims-beyond-one-bite",
+      "name": "Negligence Claims Beyond One Bite",
+      "nav": "Negligence claims beyond one bite",
+      "h1": "Negligence Claims Beyond the One Bite Rule in New York, NY What Flanders v Goodfellow Changed in 2025",
+      "accent": "For nineteen years New York recognized one route to an owner: proof of a vicious propensit",
+      "photo": "assets/work-1.jpg",
+      "keyword": "negligence claims beyond one bite New York",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "nerve-and-tendon-damage",
+      "name": "Nerve And Tendon Damage",
+      "nav": "Nerve and tendon damage",
+      "h1": "Nerve and Tendon Damage From Dog Bites in New York, NY Function Loss, Repair and Permanency",
+      "accent": "A puncture that closes cleanly can still have divided a digital nerve or a flexor tendon u",
+      "photo": "assets/work-2.jpg",
+      "keyword": "nerve and tendon damage New York",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "park-and-sidewalk-attacks",
+      "name": "Park And Sidewalk Attacks",
+      "nav": "Park and sidewalk attacks",
+      "h1": "Park and Sidewalk Dog Attacks in New York, NY Leash Rules, Off-Leash Hours and City Claims",
+      "accent": "Public space is where the rules are most specific and where the identity of the dog is har",
+      "photo": "assets/work-3.jpg",
+      "keyword": "park and sidewalk attacks New York",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "prior-vicious-propensity-evidence",
+      "name": "Prior Vicious Propensity Evidence",
+      "nav": "Prior vicious propensity evidence",
+      "h1": "Prior Vicious Propensity Evidence in New York, NY What Courts Have Accepted as Notice",
+      "accent": "Propensity is proved with documents and sworn recollection, not with adjectives.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "prior vicious propensity evidence New York",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "renters-insurance-and-tenant-liability",
+      "name": "Renters Insurance And Tenant Liability",
+      "nav": "Renters insurance and tenant liability",
+      "h1": "Renters Insurance and Tenant Liability in New York, NY Who the Policy Follows and What It Excludes",
+      "accent": "In a city where most households rent, the person who keeps the dog and the person who owns",
+      "photo": "assets/work-2.jpg",
+      "keyword": "renters insurance and tenant liability New York",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-new-york",
+      "name": "Statute Of Limitations New York",
+      "nav": "Statute of limitations new york",
+      "h1": "Statute of Limitations for New York Dog Bites in New York, NY Three Years, Ninety Days and the Exceptions",
+      "accent": "Three years is the headline number and it is the one that misleads people, because at leas",
+      "photo": "assets/work-3.jpg",
+      "keyword": "statute of limitations new york New York",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "the-one-bite-rule-in-new-york",
+      "name": "The One Bite Rule In New York",
+      "nav": "The one bite rule in new york",
+      "h1": "The One Bite Rule in New York in New York, NY Vicious Propensity and What Notice Means",
+      "accent": "The nickname is misleading.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "the one bite rule in new york New York",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

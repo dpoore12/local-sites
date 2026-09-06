@@ -1,6 +1,6 @@
 {
   "domain": "annarborgaragedoorrepairpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Ann Arbor Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
@@ -122,6 +122,182 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Ann Arbor",
       "icon": "house"
+    },
+    {
+      "slug": "carriage-house-garage-doors",
+      "name": "Carriage House",
+      "nav": "Carriage house",
+      "h1": "Carriage House and Custom Garage Doors in Ann Arbor, MI Overlay and Swing-Out",
+      "accent": "Carriage house doors come in two genuinely different forms, and the difference decides bot",
+      "photo": "assets/work-1.jpg",
+      "keyword": "carriage house garage doors Ann Arbor",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-garage-door-repair",
+      "name": "Commercial Repair",
+      "nav": "Commercial repair",
+      "h1": "Commercial Garage Door Repair in Ann Arbor, MI Rolling Steel and Operators",
+      "accent": "Commercial doors are different machines with different rules.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial garage door repair Ann Arbor",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-garage-door-repair",
+      "name": "Emergency Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Garage Door Repair in Ann Arbor, MI After-Hours Dispatch",
+      "accent": "Some door failures wait until Tuesday and some do not.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "emergency garage door repair Ann Arbor",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-hinge-repair",
+      "name": "Hinge Repair",
+      "nav": "Hinge repair",
+      "h1": "Garage Door Hinge and Bracket Repair in Ann Arbor, MI Hinges and Brackets",
+      "accent": "Few components cost less than a hinge, and few do more damage on their way out.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door hinge repair Ann Arbor",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-insulation",
+      "name": "Insulation",
+      "nav": "Insulation",
+      "h1": "Garage Door Insulation and R-Value Upgrade in Ann Arbor, MI U-Factor and Cores",
+      "accent": "Insulating a garage door is worth doing for specific reasons and oversold for others.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door insulation Ann Arbor",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-lock-repair",
+      "name": "Lock Repair",
+      "nav": "Lock repair",
+      "h1": "Garage Door Lock and Handle Repair in Ann Arbor, MI Handles, Bolts, Cylinders",
+      "accent": "Locks and handles are the part of a garage door people only think about twice: when the ke",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door lock repair Ann Arbor",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-opener-installation",
+      "name": "Opener Installation",
+      "nav": "Opener installation",
+      "h1": "Garage Door Opener Installation in Ann Arbor, MI Belt, Chain, Wall Mount",
+      "accent": "Choosing an opener is mostly a question about the building, not the brand.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door opener installation Ann Arbor",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-remote-programming",
+      "name": "Remote Programming",
+      "nav": "Remote programming",
+      "h1": "Garage Door Remote and Keypad Repair in Ann Arbor, MI Rolling-Code Pairing",
+      "accent": "A remote that has stopped working, a keypad that beeps and does nothing, or a new opener t",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door remote programming Ann Arbor",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-safety-inspection",
+      "name": "Safety Inspection",
+      "nav": "Safety inspection",
+      "h1": "Garage Door Safety Inspection in Ann Arbor, MI Reversal and Entrapment Testing",
+      "accent": "A safety inspection is a set of defined tests with pass and fail answers, not a walkthroug",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door safety inspection Ann Arbor",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-sensor-repair",
+      "name": "Sensor Repair",
+      "nav": "Sensor repair",
+      "h1": "Garage Door Sensor Repair in Ann Arbor, MI Photo-Eye Alignment",
+      "accent": "The door heads for the floor, stops a foot short, and climbs back up.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door sensor repair Ann Arbor",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-tune-up",
+      "name": "Tune Up",
+      "nav": "Tune up",
+      "h1": "Garage Door Tune-Up and Maintenance in Ann Arbor, MI Balance and Lubrication",
+      "accent": "A tune-up is not a wash and a spray of oil.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door tune up Ann Arbor",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-weather-seal-replacement",
+      "name": "Weather Seal Replacement",
+      "nav": "Weather seal replacement",
+      "h1": "Garage Door Weather Seal Replacement in Ann Arbor, MI Bottom Seal and Threshold",
+      "accent": "The strip of rubber along the bottom of a garage door is the part that fails first in this",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door weather seal replacement Ann Arbor",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-wont-close",
+      "name": "Wont Close",
+      "nav": "Wont close",
+      "h1": "Garage Door Will Not Close in Ann Arbor, MI Working Down the Causes",
+      "accent": "When a door lifts normally and then balks at going down, five plausible causes sit behind ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door wont close Ann Arbor",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "noisy-garage-door-repair",
+      "name": "Noisy Repair",
+      "nav": "Noisy repair",
+      "h1": "Noisy Garage Door Repair in Ann Arbor, MI Diagnosis by Sound",
+      "accent": "Grinding, squealing, a single hard pop at the same point in travel: a noisy door is diagno",
+      "photo": "assets/work-2.jpg",
+      "keyword": "noisy garage door repair Ann Arbor",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "smart-garage-door-opener",
+      "name": "Smart Opener",
+      "nav": "Smart opener",
+      "h1": "Smart Garage Door Opener Installation in Ann Arbor, MI Phone Control Retrofit",
+      "accent": "Adding phone control to a garage door is usually a retrofit rather than a new opener.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "smart garage door opener Ann Arbor",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "torsion-spring-conversion",
+      "name": "Torsion Spring Conversion",
+      "nav": "Torsion spring conversion",
+      "h1": "Extension to Torsion Spring Conversion in Ann Arbor, MI Onto a Torsion Bar",
+      "accent": "Converting a door from extension springs to a single torsion assembly changes where the lo",
+      "photo": "assets/work-1.jpg",
+      "keyword": "torsion spring conversion Ann Arbor",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

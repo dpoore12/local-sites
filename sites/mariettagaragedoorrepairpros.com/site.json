@@ -1,6 +1,6 @@
 {
   "domain": "mariettagaragedoorrepairpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Marietta Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
@@ -124,6 +124,182 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Marietta",
       "icon": "house"
+    },
+    {
+      "slug": "carriage-house-garage-doors",
+      "name": "Carriage House",
+      "nav": "Carriage house",
+      "h1": "Carriage House and Custom Garage Doors in Marietta, GA Overlay, Swing-Out and Review",
+      "accent": "Two very different products are sold under the name carriage house.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "carriage house garage doors Marietta",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-garage-door-repair",
+      "name": "Commercial Repair",
+      "nav": "Commercial repair",
+      "h1": "Commercial Garage Door Repair in Marietta, GA Rolling Steel and Operators",
+      "accent": "Commercial openings fail differently from residential ones.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial garage door repair Marietta",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-garage-door-repair",
+      "name": "Emergency Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Garage Door Repair in Marietta, GA After-Hours and Overnight",
+      "accent": "Some garage door faults can wait for a weekday appointment and some cannot.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "emergency garage door repair Marietta",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-hinge-repair",
+      "name": "Hinge Repair",
+      "nav": "Hinge repair",
+      "h1": "Garage Door Hinge and Bracket Repair in Marietta, GA Hinges, Stiles and Brackets",
+      "accent": "Nothing on a sectional door costs less than a hinge, and nothing does more damage on its w",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door hinge repair Marietta",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-insulation",
+      "name": "Insulation",
+      "nav": "Insulation",
+      "h1": "Garage Door Insulation and R-Value Upgrade in Marietta, GA R-Value and Thermal Breaks",
+      "accent": "Insulation ratings on garage doors are quoted two different ways, and only one of them des",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door insulation Marietta",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-lock-repair",
+      "name": "Lock Repair",
+      "nav": "Lock repair",
+      "h1": "Garage Door Lock and Handle Repair in Marietta, GA Slide Bolts and T-Handles",
+      "accent": "Garage doors carry two kinds of lock: the manual hardware the door was born with, and the ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door lock repair Marietta",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-opener-installation",
+      "name": "Opener Installation",
+      "nav": "Opener installation",
+      "h1": "Garage Door Opener Installation in Marietta, GA Belt, Chain or Wall Mount",
+      "accent": "A new operator is chosen by the garage it has to live in, not by the number on the box.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door opener installation Marietta",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-remote-programming",
+      "name": "Remote Programming",
+      "nav": "Remote programming",
+      "h1": "Garage Door Remote and Keypad Repair in Marietta, GA Rolling Codes and Dead Keypads",
+      "accent": "Remotes and keypads fail in ways that look identical from the driveway and are not.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door remote programming Marietta",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-safety-inspection",
+      "name": "Safety Inspection",
+      "nav": "Safety inspection",
+      "h1": "Garage Door Safety Inspection in Marietta, GA Reversal and Entrapment Testing",
+      "accent": "A safety inspection is a pass or fail exercise against published criteria, not an opinion ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door safety inspection Marietta",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-sensor-repair",
+      "name": "Sensor Repair",
+      "nav": "Sensor repair",
+      "h1": "Garage Door Sensor Repair in Marietta, GA Photo-Eye Alignment and Wiring",
+      "accent": "Two small housings bolted low beside the jambs stop more closing cycles in this city than ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door sensor repair Marietta",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-tune-up",
+      "name": "Tune Up",
+      "nav": "Tune up",
+      "h1": "Garage Door Tune-Up and Maintenance in Marietta, GA Balance, Cycles and Hardware",
+      "accent": "A tune-up is a set of measurements and a short list of adjustments, not a can of spray.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door tune up Marietta",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-weather-seal-replacement",
+      "name": "Weather Seal Replacement",
+      "nav": "Weather seal replacement",
+      "h1": "Garage Door Weather Seal Replacement in Marietta, GA Astragal, Stops and Threshold",
+      "accent": "A garage opening is sealed at four separate places, and each one fails on its own schedule",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door weather seal replacement Marietta",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-wont-close",
+      "name": "Wont Close",
+      "nav": "Wont close",
+      "h1": "Garage Door Will Not Close in Marietta, GA Diagnosed in Order",
+      "accent": "A door that opens normally and will not stay down is one of two things: a safety system do",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door wont close Marietta",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "noisy-garage-door-repair",
+      "name": "Noisy Repair",
+      "nav": "Noisy repair",
+      "h1": "Noisy Garage Door Repair in Marietta, GA Diagnosis by Sound",
+      "accent": "A door that has become loud is a door telling you which part is wearing, and the sound nar",
+      "photo": "assets/work-2.jpg",
+      "keyword": "noisy garage door repair Marietta",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "smart-garage-door-opener",
+      "name": "Smart Opener",
+      "nav": "Smart opener",
+      "h1": "Smart Garage Door Opener Installation in Marietta, GA Phone Control Done Safely",
+      "accent": "Phone control is a regulated feature, not a convenience app.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "smart garage door opener Marietta",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "torsion-spring-conversion",
+      "name": "Torsion Spring Conversion",
+      "nav": "Torsion spring conversion",
+      "h1": "Extension to Torsion Spring Conversion in Marietta, GA Extension Springs to Torsion",
+      "accent": "Extension springs are still working on a large share of this city's older garages.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "torsion spring conversion Marietta",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

@@ -1,6 +1,6 @@
 {
   "domain": "neworleansmotorcycleaccidentlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "New Orleans Motorcycle Accident Law Pros",
   "service": "Motorcycle Accident Lawyer",
   "service_inline": "motorcycle accident lawyer",
@@ -203,6 +203,182 @@
       "accent": "Damages, Offers and Claim Terms",
       "keyword": "motorcycle injury claim lawyer",
       "icon": "check"
+    },
+    {
+      "slug": "comparative-fault-in-louisiana",
+      "name": "Comparative Fault In Louisiana",
+      "nav": "Comparative fault in louisiana",
+      "h1": "Comparative Fault in Louisiana Motorcycle Claims in New Orleans, LA Percentages, Nonparties and the Fifty-One Percent Line",
+      "accent": "Fault here is a percentage rather than a verdict, and since the first day of 2026 the perc",
+      "photo": "assets/work-1.jpg",
+      "keyword": "comparative fault in louisiana New Orleans",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "crash-reports-and-evidence",
+      "name": "Crash Reports And Evidence",
+      "nav": "Crash reports and evidence",
+      "h1": "Motorcycle Crash Reports and Evidence in New Orleans in New Orleans, LA Records Requests and Preservation",
+      "accent": "The crash report is the spine of a motorcycle claim, and almost everything else that prove",
+      "photo": "assets/work-2.jpg",
+      "keyword": "crash reports and evidence New Orleans",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "fracture-and-surgical-injury-claims",
+      "name": "Fracture And Surgical Injury Claims",
+      "nav": "Fracture and surgical injury claims",
+      "h1": "Motorcycle Fracture and Surgical Injury Claims in New Orleans, LA Operative Records and Work Restrictions",
+      "accent": "Broken bones are the injury insurers understand best, which is why the argument moves quic",
+      "photo": "assets/work-3.jpg",
+      "keyword": "fracture and surgical injury claims New Orleans",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "helmet-law-and-injury-claims",
+      "name": "Helmet Law And Injury Claims",
+      "nav": "Helmet law and injury claims",
+      "h1": "Louisiana Helmet Law and Motorcycle Injury Claims in New Orleans, LA What the Statute Requires and What It Omits",
+      "accent": "Louisiana requires a helmet, and the requirement comes with a small fixed fine and a set o",
+      "photo": "assets/work-1.jpg",
+      "keyword": "helmet law and injury claims New Orleans",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hit-and-run-and-uninsured-motorist-claims",
+      "name": "Hit And Run And Uninsured Motorist Claims",
+      "nav": "Hit and run and uninsured motorist claims",
+      "h1": "Hit-and-Run and Uninsured Motorist Motorcycle Claims in New Orleans, LA Unidentified Drivers and Coverage Routes",
+      "accent": "A driver who leaves the scene creates two separate problems: a criminal matter that belong",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hit and run and uninsured motorist claims New Orleans",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "left-turn-and-intersection-crashes",
+      "name": "Left Turn And Intersection Crashes",
+      "nav": "Left turn and intersection crashes",
+      "h1": "Left-Turn and Intersection Motorcycle Crashes in New Orleans, LA Right of Way, Stop Signs and Signals",
+      "accent": "Most Orleans Parish intersection files are not about a left-turn arrow at all.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "left turn and intersection crashes New Orleans",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-bills-and-liens",
+      "name": "Medical Bills And Liens",
+      "nav": "Medical bills and liens",
+      "h1": "Motorcycle Injury Medical Bills and Liens in New Orleans, LA Privileges, Balance Billing and Reimbursement",
+      "accent": "The bill that arrives after a crash is rarely the number a rider ends up owing.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "medical bills and liens New Orleans",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "prescription-and-filing-deadlines",
+      "name": "Prescription And Filing Deadlines",
+      "nav": "Prescription and filing deadlines",
+      "h1": "Prescription and Filing Deadlines for Motorcycle Claims in New Orleans, LA Two Years, Interruption and the 2024 Change",
+      "accent": "Louisiana calls the deadline prescription, not a statute of limitations, and the period fo",
+      "photo": "assets/work-2.jpg",
+      "keyword": "prescription and filing deadlines New Orleans",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rear-end-motorcycle-crashes",
+      "name": "Rear End Motorcycle Crashes",
+      "nav": "Rear end motorcycle crashes",
+      "h1": "Rear-End Motorcycle Crash Claims in New Orleans, LA Following Distance and Sudden Stops",
+      "accent": "Being struck from behind on a motorcycle is not a fender bender with a different vehicle.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "rear end motorcycle crashes New Orleans",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "road-defect-and-pothole-crashes",
+      "name": "Road Defect And Pothole Crashes",
+      "nav": "Road defect and pothole crashes",
+      "h1": "Road Defect and Pothole Motorcycle Crashes in New Orleans, LA Custody, Notice and the Public Entity Cap",
+      "accent": "A pavement failure that a car absorbs can put a motorcycle on its side.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "road defect and pothole crashes New Orleans",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "road-rash-and-scarring-claims",
+      "name": "Road Rash And Scarring Claims",
+      "nav": "Road rash and scarring claims",
+      "h1": "Road Rash and Scarring Motorcycle Claims in New Orleans, LA Abrasion Injuries and Permanent Marks",
+      "accent": "Abrasion injuries get described as minor because nothing is broken.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "road rash and scarring claims New Orleans",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "spinal-cord-injury-claims",
+      "name": "Spinal Cord Injury Claims",
+      "nav": "Spinal cord injury claims",
+      "h1": "Motorcycle Spinal Cord Injury Claims in New Orleans, LA Lifetime Care, Caps and Trusts",
+      "accent": "A spinal cord injury turns a crash file into a lifetime budget: attendant care, equipment ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "spinal cord injury claims New Orleans",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "traumatic-brain-injury-claims",
+      "name": "Traumatic Brain Injury Claims",
+      "nav": "Traumatic brain injury claims",
+      "h1": "Motorcycle Traumatic Brain Injury Claims in New Orleans, LA Documenting a Manifest Injury",
+      "accent": "A rider can walk away from a crash, decline transport, and be unable to hold a conversatio",
+      "photo": "assets/work-1.jpg",
+      "keyword": "traumatic brain injury claims New Orleans",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "underinsured-motorist-claims",
+      "name": "Underinsured Motorist Claims",
+      "nav": "Underinsured motorist claims",
+      "h1": "Underinsured Motorist Motorcycle Claims in New Orleans, LA Limits, Selection Forms and Economic-Only Coverage",
+      "accent": "Louisiana's minimum liability limits are low enough that a single surgery can exhaust them",
+      "photo": "assets/work-2.jpg",
+      "keyword": "underinsured motorist claims New Orleans",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "wet-road-and-rain-related-crashes",
+      "name": "Wet Road And Rain Related Crashes",
+      "nav": "Wet road and rain related crashes",
+      "h1": "Wet Road and Rain-Related Motorcycle Crashes in New Orleans, LA Speed, Conditions and Surface Evidence",
+      "accent": "New Orleans averages more than five feet of rain a year, and a wet crash file gets fought ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "wet road and rain related crashes New Orleans",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "wrongful-death-and-survival-claims",
+      "name": "Wrongful Death And Survival Claims",
+      "nav": "Wrongful death and survival claims",
+      "h1": "Motorcycle Wrongful Death and Survival Claims in New Orleans, LA Two Claims, Two Periods",
+      "accent": "Louisiana splits a fatal crash into two claims: the injuries the rider suffered before dea",
+      "photo": "assets/work-1.jpg",
+      "keyword": "wrongful death and survival claims New Orleans",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

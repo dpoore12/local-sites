@@ -1,6 +1,6 @@
 {
   "domain": "louisvillecaraccidentlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Louisville Car Accident Law Pros",
   "service": "Car Accident Lawyer",
   "service_inline": "car accident lawyer",
@@ -200,6 +200,182 @@
       "accent": "Damages, Offers and Claim Terms",
       "keyword": "car accident injury claim negotiation",
       "icon": "check"
+    },
+    {
+      "slug": "back-and-spine-injury-claims",
+      "name": "Back And Spine Injury Claims",
+      "nav": "Back and spine injury claims",
+      "h1": "Back and Spine Injury Claims in Louisville, KY Long Treatment and Benefit Ceilings",
+      "accent": "Spinal injuries generate the longest treatment timelines in crash claims, and Kentucky's b",
+      "photo": "assets/work-1.jpg",
+      "keyword": "back and spine injury claims Louisville",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-truck-collisions",
+      "name": "Commercial Truck Collisions",
+      "nav": "Commercial truck collisions",
+      "h1": "Commercial Truck Collisions in Louisville, KY Federal Minimums and Carrier Records",
+      "accent": "A tractor-trailer collision is governed by the same Kentucky statutes as any other crash, ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial truck collisions Louisville",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "comparative-fault-in-kentucky",
+      "name": "Comparative Fault In Kentucky",
+      "nav": "Comparative fault in kentucky",
+      "h1": "Comparative Fault in Kentucky in Louisville, KY Percentages, Releases and Shares",
+      "accent": "Kentucky does not treat a share of blame as a bar to recovery.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "comparative fault in kentucky Louisville",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "crash-reports-and-evidence",
+      "name": "Crash Reports And Evidence",
+      "nav": "Crash reports and evidence",
+      "h1": "Crash Reports and Evidence in Louisville, KY Confidential Records and Short Clocks",
+      "accent": "Kentucky crash reports are not public records in the ordinary sense.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "crash reports and evidence Louisville",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hit-and-run-and-uninsured-drivers",
+      "name": "Hit And Run And Uninsured Drivers",
+      "nav": "Hit and run and uninsured drivers",
+      "h1": "Hit-and-Run and Uninsured Drivers in Louisville, KY Duties, Coverage and Assigned Claims",
+      "accent": "When the other driver leaves the scene or turns out to have no coverage, Kentucky supplies",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hit and run and uninsured drivers Louisville",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "intersection-and-failure-to-yield-crashes",
+      "name": "Intersection And Failure To Yield Crashes",
+      "nav": "Intersection and failure to yield crashes",
+      "h1": "Intersection and Failure-to-Yield Crashes in Louisville, KY Right-of-Way Rules and Proof",
+      "accent": "Intersection cases turn on a right-of-way rule, and Kentucky writes several of them.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "intersection and failure to yield crashes Louisville",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "interstate-and-highway-collisions",
+      "name": "Interstate And Highway Collisions",
+      "nav": "Interstate and highway collisions",
+      "h1": "Interstate and Highway Collisions in Louisville, KY Lane Rules, Clearance and Coverage",
+      "accent": "Interstate collisions in and around Louisville involve rules that only apply at highway sp",
+      "photo": "assets/work-1.jpg",
+      "keyword": "interstate and highway collisions Louisville",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "kentucky-no-fault-and-pip-benefits",
+      "name": "Kentucky No Fault And Pip Benefits",
+      "nav": "Kentucky no fault and pip benefits",
+      "h1": "Kentucky No-Fault and PIP Benefits in Louisville, KY Basic Reparation Benefits Explained",
+      "accent": "Kentucky pays the first medical bills through the vehicle's own reparation coverage, no ma",
+      "photo": "assets/work-2.jpg",
+      "keyword": "kentucky no fault and pip benefits Louisville",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-bills-liens-and-subrogation",
+      "name": "Medical Bills Liens And Subrogation",
+      "nav": "Medical bills liens and subrogation",
+      "h1": "Medical Bills, Liens and Subrogation in Louisville, KY Who Gets Paid, and in What Order",
+      "accent": "More than one party usually has a claim on the same crash recovery.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "medical bills liens and subrogation Louisville",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "pedestrian-and-cyclist-collisions",
+      "name": "Pedestrian And Cyclist Collisions",
+      "nav": "Pedestrian and cyclist collisions",
+      "h1": "Pedestrian and Cyclist Collisions in Louisville, KY Priority Coverage and Road Duties",
+      "accent": "People on foot and on bicycles occupy a different position in Kentucky's no-fault scheme t",
+      "photo": "assets/work-1.jpg",
+      "keyword": "pedestrian and cyclist collisions Louisville",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rear-end-collisions",
+      "name": "Rear End Collisions",
+      "nav": "Rear end collisions",
+      "h1": "Rear-End Collisions in Kentucky in Louisville, KY Following Distance and Fault Shares",
+      "accent": "Being struck from behind rarely settles the question of blame in Kentucky, because the fol",
+      "photo": "assets/work-2.jpg",
+      "keyword": "rear end collisions Louisville",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rejecting-no-fault-in-writing",
+      "name": "Rejecting No Fault In Writing",
+      "nav": "Rejecting no fault in writing",
+      "h1": "Rejecting No-Fault in Writing in Louisville, KY The Form, the Filing and the Effect",
+      "accent": "Kentucky assumes every driver accepted the tort limits that come with no-fault coverage.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "rejecting no fault in writing Louisville",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "soft-tissue-and-whiplash-injuries",
+      "name": "Soft Tissue And Whiplash Injuries",
+      "nav": "Soft tissue and whiplash injuries",
+      "h1": "Soft-Tissue and Whiplash Injuries in Louisville, KY The Threshold and the Billing Record",
+      "accent": "Neck and back strains are the most common crash injuries and the most disputed.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "soft tissue and whiplash injuries Louisville",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-kentucky",
+      "name": "Statute Of Limitations Kentucky",
+      "nav": "Statute of limitations kentucky",
+      "h1": "Kentucky Crash Filing Deadlines in Louisville, KY One Year, Two Years and Payment Dates",
+      "accent": "Kentucky runs more than one clock after a crash.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "statute of limitations kentucky Louisville",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "traumatic-brain-injury-claims",
+      "name": "Traumatic Brain Injury Claims",
+      "nav": "Traumatic brain injury claims",
+      "h1": "Traumatic Brain Injury Claims in Louisville, KY Permanency, Trauma Care and Funding",
+      "accent": "A brain injury changes the claim's structure, not just its value.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "traumatic brain injury claims Louisville",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "underinsured-motorist-claims",
+      "name": "Underinsured Motorist Claims",
+      "nav": "Underinsured motorist claims",
+      "h1": "Underinsured Motorist Claims in Louisville, KY Thirty-Day Windows and Priorities",
+      "accent": "Kentucky's minimum liability coverage is small enough that a moderately serious injury can",
+      "photo": "assets/work-1.jpg",
+      "keyword": "underinsured motorist claims Louisville",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

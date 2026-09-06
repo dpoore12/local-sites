@@ -1,6 +1,6 @@
 {
   "domain": "sanjoseduilawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "San Jose DUI Law Pros",
   "service": "DUI Lawyer",
   "service_inline": "dui lawyer",
@@ -119,6 +119,182 @@
       "accent": "Serious Charges and Case Stages",
       "keyword": "felony dui lawyer",
       "icon": "bolt"
+    },
+    {
+      "slug": "commercial-driver-dui",
+      "name": "Commercial Driver",
+      "nav": "Commercial driver",
+      "h1": "Commercial Driver DUI Lawyer in San Jose, CA The 0.04 Threshold and Disqualification",
+      "accent": "For a commercial license holder the threshold is 0.04 percent, and the consequence that ma",
+      "photo": "assets/work-1.jpg",
+      "keyword": "commercial driver dui San Jose",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dmv-administrative-hearing",
+      "name": "Dmv Administrative Hearing",
+      "nav": "Dmv administrative hearing",
+      "h1": "DMV Administrative Hearing Lawyer in San Jose, CA Ten Days, Four Issues, One Record",
+      "accent": "The administrative hearing is a separate proceeding with its own statute, its own standard",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dmv administrative hearing San Jose",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "drug-dui",
+      "name": "Drug",
+      "nav": "Drug",
+      "h1": "Drug DUI Lawyer in San Jose, CA No Per Se Number in the Statute",
+      "accent": "California's DUI statute is not limited to alcohol.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "drug dui San Jose",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dui-blood-test-defense",
+      "name": "Blood Test Defense",
+      "nav": "Blood test defense",
+      "h1": "DUI Blood Test Defense Lawyer in San Jose, CA Title 17 Collection and Retention Rules",
+      "accent": "A blood result looks like a fact and behaves like a document.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dui blood test defense San Jose",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dui-checkpoint-stops",
+      "name": "Checkpoint Stops",
+      "nav": "Checkpoint stops",
+      "h1": "DUI Checkpoint Stop Lawyer in San Jose, CA Ingersoll Guidelines and Section 2814.2",
+      "accent": "A sobriety checkpoint is not an ordinary traffic stop.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dui checkpoint stops San Jose",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dui-expungement",
+      "name": "Expungement",
+      "nav": "Expungement",
+      "h1": "DUI Expungement Lawyer in San Jose, CA Penal Code 1203.4 and Its Exceptions",
+      "accent": "California does not erase a DUI.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "dui expungement San Jose",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dui-probation-violation",
+      "name": "Probation Violation",
+      "nav": "Probation violation",
+      "h1": "DUI Probation Violation Lawyer in San Jose, CA The 0.01 Percent Rule Under 23154",
+      "accent": "DUI probation in California carries a term that does not exist for anyone else on the road",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dui probation violation San Jose",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dui-with-injury",
+      "name": "With Injury",
+      "nav": "With injury",
+      "h1": "DUI With Injury Lawyer in San Jose, CA Vehicle Code 23153 and Causation",
+      "accent": "Section 23153 is not section 23152 with an injury noted in the report.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dui with injury San Jose",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "field-sobriety-test-challenges",
+      "name": "Field Sobriety Test Challenges",
+      "nav": "Field sobriety test challenges",
+      "h1": "Field Sobriety Test Defense Lawyer in San Jose, CA Clue Counts, Criteria and Accuracy",
+      "accent": "The roadside tests are not measurements.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "field sobriety test challenges San Jose",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "ignition-interlock-requirements",
+      "name": "Ignition Interlock Requirements",
+      "nav": "Ignition interlock requirements",
+      "h1": "Ignition Interlock Requirements in California in San Jose, CA Terms, Servicing and Exemptions",
+      "accent": "The interlock statute changed the shape of a California DUI license consequence.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "ignition interlock requirements San Jose",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "out-of-state-driver-dui",
+      "name": "Out Of State Driver",
+      "nav": "Out of state driver",
+      "h1": "Out-of-State Driver DUI Lawyer in San Jose, CA A Suspended Privilege, Not a Card",
+      "accent": "An out-of-state license does not put a California DUI out of reach.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "out of state driver dui San Jose",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "refusing-a-chemical-test",
+      "name": "Refusing A Chemical Test",
+      "nav": "Refusing a chemical test",
+      "h1": "Chemical Test Refusal Lawyer in San Jose, CA Implied Consent and Refusal Suspensions",
+      "accent": "Refusing the chemical test after a lawful DUI arrest does not remove the evidence problem.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "refusing a chemical test San Jose",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "second-offense-dui",
+      "name": "Second Offense",
+      "nav": "Second offense",
+      "h1": "Second-Offense DUI Lawyer in San Jose, CA The Ten-Year Window and What Changes",
+      "accent": "A second California DUI is not the first one with a bigger fine attached.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "second offense dui San Jose",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "third-offense-dui",
+      "name": "Third Offense",
+      "nav": "Third offense",
+      "h1": "Third-Offense DUI Lawyer in San Jose, CA Revocation, Priors and the HTO Designation",
+      "accent": "At the third California DUI in ten years the statute stops describing a driving offense an",
+      "photo": "assets/work-2.jpg",
+      "keyword": "third offense dui San Jose",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "underage-dui",
+      "name": "Underage",
+      "nav": "Underage",
+      "h1": "Underage DUI Lawyer in San Jose, CA Zero Tolerance Rules Under 21",
+      "accent": "A driver under 21 in California faces a set of rules an adult driver does not.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "underage dui San Jose",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "wet-reckless-reduction",
+      "name": "Wet Reckless Reduction",
+      "nav": "Wet reckless reduction",
+      "h1": "Wet Reckless Reduction in California in San Jose, CA What 23103.5 Requires and Preserves",
+      "accent": "A wet reckless is a reckless driving conviction with an alcohol notation attached, and Cal",
+      "photo": "assets/work-1.jpg",
+      "keyword": "wet reckless reduction San Jose",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

@@ -1,6 +1,6 @@
 {
   "domain": "harrisburgcaraccidentlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Harrisburg Car Accident Law Pros",
   "service": "Car Accident Lawyer",
   "service_inline": "car accident lawyer",
@@ -193,6 +193,182 @@
       "accent": "Damages, Offers and Claim Terms",
       "keyword": "car accident injury claim negotiation",
       "icon": "check"
+    },
+    {
+      "slug": "comparative-negligence-in-pennsylvania",
+      "name": "Comparative Negligence In Pennsylvania",
+      "nav": "Comparative negligence in pennsylvania",
+      "h1": "Comparative Negligence in Pennsylvania in Harrisburg, PA Shared Fault, Apportionment and the 60% Rule",
+      "accent": "Fault in Pennsylvania is divided, not assigned.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "comparative negligence in pennsylvania Harrisburg",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "concussion-and-head-injury-claims",
+      "name": "Concussion And Head Injury Claims",
+      "nav": "Concussion and head injury claims",
+      "h1": "Concussion and Head Injury Claims in Harrisburg, PA Delayed Symptoms and Functional Records",
+      "accent": "A concussion can happen without a head striking anything and without a single minute of un",
+      "photo": "assets/work-2.jpg",
+      "keyword": "concussion and head injury claims Harrisburg",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "distracted-driving-crashes",
+      "name": "Distracted Driving Crashes",
+      "nav": "Distracted driving crashes",
+      "h1": "Distracted Driving Crash Claims in Harrisburg, PA Paul Miller's Law and Phone Evidence",
+      "accent": "Pennsylvania stopped regulating only texting and started regulating the act of holding a p",
+      "photo": "assets/work-3.jpg",
+      "keyword": "distracted driving crashes Harrisburg",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "highway-and-interstate-collisions",
+      "name": "Highway And Interstate Collisions",
+      "nav": "Highway and interstate collisions",
+      "h1": "Highway and Interstate Collision Claims in Harrisburg, PA Speed, Lane Departure and Fast-Moving Evidence",
+      "accent": "Interstate crashes near Harrisburg are less frequent per mile traveled than crashes on loc",
+      "photo": "assets/work-1.jpg",
+      "keyword": "highway and interstate collisions Harrisburg",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hit-and-run-and-phantom-vehicle-claims",
+      "name": "Hit And Run And Phantom Vehicle Claims",
+      "nav": "Hit and run and phantom vehicle claims",
+      "h1": "Hit and Run and Phantom Vehicle Claims in Harrisburg, PA Reporting Duties and the 30-Day Notice",
+      "accent": "A driver who leaves does not end the claim, but the clock that governs it starts running d",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hit and run and phantom vehicle claims Harrisburg",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "intersection-and-left-turn-crashes",
+      "name": "Intersection And Left Turn Crashes",
+      "nav": "Intersection and left turn crashes",
+      "h1": "Intersection and Left Turn Crash Claims in Harrisburg, PA Right of Way, Yield Rules and Evidence",
+      "accent": "Intersections concentrate everything that can go wrong on a road into a few square yards: ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "intersection and left turn crashes Harrisburg",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "limited-tort-vs-full-tort",
+      "name": "Limited Tort Vs Full Tort",
+      "nav": "Limited tort vs full tort",
+      "h1": "Limited Tort vs Full Tort in Pennsylvania in Harrisburg, PA How the Election Changes a Claim",
+      "accent": "Two words on a declarations page decide what a Pennsylvania driver is allowed to ask for a",
+      "photo": "assets/work-1.jpg",
+      "keyword": "limited tort vs full tort Harrisburg",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-bills-and-first-party-benefits",
+      "name": "Medical Bills And First Party Benefits",
+      "nav": "Medical bills and first party benefits",
+      "h1": "Medical Bills and First Party Benefits in Harrisburg, PA Priority of Payment, Deadlines and Offsets",
+      "accent": "Somebody has to pay for treatment while fault is still an open question.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "medical bills and first party benefits Harrisburg",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "pedestrian-and-cyclist-collisions",
+      "name": "Pedestrian And Cyclist Collisions",
+      "nav": "Pedestrian and cyclist collisions",
+      "h1": "Pedestrian and Cyclist Collision Claims in Harrisburg, PA Crosswalk Duties and the Four-Foot Rule",
+      "accent": "A person on foot or on a bicycle has no crumple zone, and Pennsylvania writes their protec",
+      "photo": "assets/work-3.jpg",
+      "keyword": "pedestrian and cyclist collisions Harrisburg",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "police-crash-reports-and-evidence",
+      "name": "Police Crash Reports And Evidence",
+      "nav": "Police crash reports and evidence",
+      "h1": "Police Crash Reports and Evidence in Harrisburg, PA Getting the Report and What It Cannot Do",
+      "accent": "The crash report is the document everyone wants and few people read carefully.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "police crash reports and evidence Harrisburg",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rideshare-and-delivery-vehicle-crashes",
+      "name": "Rideshare And Delivery Vehicle Crashes",
+      "nav": "Rideshare and delivery vehicle crashes",
+      "h1": "Rideshare and Delivery Vehicle Crashes in Harrisburg, PA App Status and Which Limits Apply",
+      "accent": "When a rideshare driver is involved in a crash, the coverage question turns on what the ap",
+      "photo": "assets/work-2.jpg",
+      "keyword": "rideshare and delivery vehicle crashes Harrisburg",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "serious-injury-exception",
+      "name": "Serious Injury Exception",
+      "nav": "Serious injury exception",
+      "h1": "The Serious Injury Exception in Harrisburg, PA Section 1702 and the Impairment Test",
+      "accent": "Under a limited tort policy, one phrase in the Vehicle Code decides whether pain and suffe",
+      "photo": "assets/work-3.jpg",
+      "keyword": "serious injury exception Harrisburg",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "spinal-and-disc-injury-claims",
+      "name": "Spinal And Disc Injury Claims",
+      "nav": "Spinal and disc injury claims",
+      "h1": "Spinal and Disc Injury Claims in Harrisburg, PA Long Treatment, Coverage Duration and Imaging Disputes",
+      "accent": "Disc and spinal injuries produce the longest treatment timelines and the most predictable ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "spinal and disc injury claims Harrisburg",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-pennsylvania",
+      "name": "Statute Of Limitations Pennsylvania",
+      "nav": "Statute of limitations pennsylvania",
+      "h1": "Pennsylvania Car Accident Deadlines in Harrisburg, PA Two Years, Four Years and Six Months",
+      "accent": "There is no single deadline after a Pennsylvania crash.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "statute of limitations pennsylvania Harrisburg",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "underinsured-motorist-claims",
+      "name": "Underinsured Motorist Claims",
+      "nav": "Underinsured motorist claims",
+      "h1": "Underinsured Motorist Claims in Harrisburg, PA Priority of Recovery and Coverage Limits",
+      "accent": "The driver at fault carried insurance, and it was not enough.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "underinsured motorist claims Harrisburg",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "whiplash-and-soft-tissue-injuries",
+      "name": "Whiplash And Soft Tissue Injuries",
+      "nav": "Whiplash and soft tissue injuries",
+      "h1": "Whiplash and Soft Tissue Injury Claims in Harrisburg, PA Peer Review, Necessity and Functional Proof",
+      "accent": "Soft tissue injuries are the most commonly disputed category in Pennsylvania auto claims, ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "whiplash and soft tissue injuries Harrisburg",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

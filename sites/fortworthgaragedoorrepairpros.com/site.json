@@ -1,6 +1,6 @@
 {
   "domain": "fortworthgaragedoorrepairpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Fort Worth Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
@@ -127,6 +127,182 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Fort Worth",
       "icon": "house"
+    },
+    {
+      "slug": "commercial-overhead-door-repair",
+      "name": "Commercial Overhead Door Repair",
+      "nav": "Commercial overhead door repair",
+      "h1": "Commercial Overhead Door Repair in Fort Worth, TX Rolling Steel and High Cycle",
+      "accent": "A dock door or a rolling steel curtain at a shop is a production asset, and it is not buil",
+      "photo": "assets/work-1.jpg",
+      "keyword": "commercial overhead door repair Fort Worth",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-garage-door-repair",
+      "name": "Emergency Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Garage Door Repair in Fort Worth, TX After Hours, Car Stuck Inside",
+      "accent": "Some door failures cannot wait until morning: a car shut in behind a door that will not li",
+      "photo": "assets/work-2.jpg",
+      "keyword": "emergency garage door repair Fort Worth",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-cable-repair",
+      "name": "Cable Repair",
+      "nav": "Cable repair",
+      "h1": "Garage Door Cable Repair in Fort Worth, TX Frayed and Snapped Lift Cables",
+      "accent": "Lift cables are the two galvanized wire ropes that actually carry your door up and down.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door cable repair Fort Worth",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-keypad-and-remote-repair",
+      "name": "Keypad And Remote Repair",
+      "nav": "Keypad and remote repair",
+      "h1": "Garage Door Keypad and Remote Repair in Fort Worth, TX Rolling Codes and Dead Keypads",
+      "accent": "A remote that quit and a keypad that no longer responds are radio problems, not door probl",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door keypad and remote repair Fort Worth",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-opener-replacement",
+      "name": "Opener Replacement",
+      "nav": "Opener replacement",
+      "h1": "Garage Door Opener Replacement in Fort Worth, TX Belt, Chain and Wall Mount Units",
+      "accent": "Replacing an opener is a different decision from repairing one.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door opener replacement Fort Worth",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-panel-replacement",
+      "name": "Panel Replacement",
+      "nav": "Panel replacement",
+      "h1": "Garage Door Panel Replacement in Fort Worth, TX One Section, Not the Whole Door",
+      "accent": "A single caved-in section can often be swapped without touching the rest of the door.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door panel replacement Fort Worth",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-roller-replacement",
+      "name": "Roller Replacement",
+      "nav": "Roller replacement",
+      "h1": "Garage Door Roller Replacement in Fort Worth, TX Nylon and Steel Roller Sets",
+      "accent": "Rollers are the ten or eleven small wheels that let a door climb its rail.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door roller replacement Fort Worth",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-safety-inspection",
+      "name": "Safety Inspection",
+      "nav": "Safety inspection",
+      "h1": "Garage Door Safety Inspection in Fort Worth, TX Reversal, Balance and Labels",
+      "accent": "A garage door is the heaviest moving object in most houses, and the federal rules governin",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door safety inspection Fort Worth",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-sensor-alignment",
+      "name": "Sensor Alignment",
+      "nav": "Sensor alignment",
+      "h1": "Garage Door Sensor Alignment in Fort Worth, TX Photo Eyes, Brackets and Wiring",
+      "accent": "The two small units bolted near the slab either side of the opening are what federal rule ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door sensor alignment Fort Worth",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-threshold-and-seal-replacement",
+      "name": "Threshold And Seal Replacement",
+      "nav": "Threshold and seal replacement",
+      "h1": "Garage Door Threshold and Seal Replacement in Fort Worth, TX Bottom Seal, Stop Molding, Threshold",
+      "accent": "Seals are the cheapest work on a garage door and the most visible when they fail: daylight",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door threshold and seal replacement Fort Worth",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-track-replacement",
+      "name": "Track Replacement",
+      "nav": "Track replacement",
+      "h1": "Garage Door Track Replacement in Fort Worth, TX Bent Vertical and Horizontal Rail",
+      "accent": "Track is the steel rail the door rides in, and it only has to be a quarter inch out of lin",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door track replacement Fort Worth",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hail-damage-garage-door-repair",
+      "name": "Hail Damage Repair",
+      "nav": "Hail damage repair",
+      "h1": "Hail Damage Garage Door Repair in Fort Worth, TX Dented Skins and Bent Hardware",
+      "accent": "North Texas hail hits the garage door harder than almost anything else on the house, becau",
+      "photo": "assets/work-3.jpg",
+      "keyword": "hail damage garage door repair Fort Worth",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "insulated-garage-door-installation",
+      "name": "Insulated Installation",
+      "nav": "Insulated installation",
+      "h1": "Insulated Garage Door Installation in Fort Worth, TX Sandwich Sections and R-Value",
+      "accent": "In Fort Worth an insulated door is bought for July, not January.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "insulated garage door installation Fort Worth",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "smart-garage-door-opener-installation",
+      "name": "Smart Opener Installation",
+      "nav": "Smart opener installation",
+      "h1": "Smart Garage Door Opener Installation in Fort Worth, TX Phone Control and Retrofit Kits",
+      "accent": "Phone control can be added to most working openers with a retrofit controller, or it can c",
+      "photo": "assets/work-2.jpg",
+      "keyword": "smart garage door opener installation Fort Worth",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "storm-and-wind-damage-repair",
+      "name": "Storm And Wind Damage Repair",
+      "nav": "Storm and wind damage repair",
+      "h1": "Storm and Wind Damage Garage Door Repair in Fort Worth, TX Wind Load, Struts and Jambs",
+      "accent": "Wind does not dent a garage door.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "storm and wind damage repair Fort Worth",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "wood-garage-door-repair",
+      "name": "Wood Repair",
+      "nav": "Wood repair",
+      "h1": "Wood Garage Door Repair in Fort Worth, TX Rot, Sag and Historic Districts",
+      "accent": "Wood doors on Fort Worth's older streets are usually worth repairing rather than replacing",
+      "photo": "assets/work-1.jpg",
+      "keyword": "wood garage door repair Fort Worth",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

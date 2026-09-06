@@ -1,6 +1,6 @@
 {
   "domain": "westcovinacaraccidentlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "West Covina Car Accident Law Pros",
   "service": "Car Accident Lawyer",
   "service_inline": "car accident lawyer",
@@ -200,6 +200,182 @@
       "accent": "Damages, Offers and Claim Terms",
       "keyword": "car accident injury claim negotiation",
       "icon": "check"
+    },
+    {
+      "slug": "back-and-spine-injury-claims",
+      "name": "Back And Spine Injury Claims",
+      "nav": "Back and spine injury claims",
+      "h1": "Back and Spine Injury Claims in West Covina, CA Future Care, Wage Loss and Apportionment",
+      "accent": "Spine claims are decided on future numbers rather than past ones.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "back and spine injury claims West Covina",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "concussion-and-head-injuries",
+      "name": "Concussion And Head Injuries",
+      "nav": "Concussion and head injuries",
+      "h1": "Concussion and Head Injury Claims in West Covina, CA Delayed Symptoms and Proof Without Imaging",
+      "accent": "A concussion often appears in a collision report as a complaint of pain and in the emergen",
+      "photo": "assets/work-2.jpg",
+      "keyword": "concussion and head injuries West Covina",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dealing-with-insurance-adjusters",
+      "name": "Dealing With Insurance Adjusters",
+      "nav": "Dealing with insurance adjusters",
+      "h1": "Dealing With Insurance Adjusters in California in West Covina, CA Regulated Deadlines and Offer Rules",
+      "accent": "An adjuster is not a neutral party, and also not an adversary without rules.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "dealing with insurance adjusters West Covina",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "fault-and-comparative-negligence",
+      "name": "Fault And Comparative Negligence",
+      "nav": "Fault and comparative negligence",
+      "h1": "Fault and Comparative Negligence in a California Crash in West Covina, CA How Percentages Are Assigned",
+      "accent": "Fault in California is not a switch with two positions.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "fault and comparative negligence West Covina",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "freeway-and-merge-collisions",
+      "name": "Freeway And Merge Collisions",
+      "nav": "Freeway and merge collisions",
+      "h1": "Freeway and Merge Collisions on the I-10 in West Covina, CA Lane Changes, Work Zones and Reports",
+      "accent": "A crash on Interstate 10 through West Covina is investigated by a different agency than a ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "freeway and merge collisions West Covina",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hit-and-run-and-uninsured-drivers",
+      "name": "Hit And Run And Uninsured Drivers",
+      "nav": "Hit and run and uninsured drivers",
+      "h1": "Hit-and-Run and Uninsured Driver Crashes in West Covina, CA Reporting Duties and Uninsured Motorist Rules",
+      "accent": "When the other driver leaves, two separate machines start running: a criminal investigatio",
+      "photo": "assets/work-3.jpg",
+      "keyword": "hit and run and uninsured drivers West Covina",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "intersection-and-left-turn-crashes",
+      "name": "Intersection And Left Turn Crashes",
+      "nav": "Intersection and left turn crashes",
+      "h1": "Intersection and Left-Turn Crashes in West Covina, CA Right of Way, Signals and Broadside Impacts",
+      "accent": "Broadside collisions are the most common serious crash type in this city, and the left tur",
+      "photo": "assets/work-1.jpg",
+      "keyword": "intersection and left turn crashes West Covina",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-payments-and-liens",
+      "name": "Medical Payments And Liens",
+      "nav": "Medical payments and liens",
+      "h1": "Medical Payments Coverage and Reimbursement Claims in West Covina, CA First-Party Benefits and Statutory Lien Caps",
+      "accent": "Two different things get called medical coverage after a crash.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "medical payments and liens West Covina",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "pedestrian-and-cyclist-collisions",
+      "name": "Pedestrian And Cyclist Collisions",
+      "nav": "Pedestrian and cyclist collisions",
+      "h1": "Pedestrian and Bicycle Collision Claims in West Covina, CA Crosswalk Duties and Passing Rules",
+      "accent": "Pedestrians and cyclists account for a small share of collisions in this city and a large ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "pedestrian and cyclist collisions West Covina",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "police-report-and-evidence",
+      "name": "Police Report And Evidence",
+      "nav": "Police report and evidence",
+      "h1": "Collision Reports and Crash Evidence in West Covina, CA Getting the Report and Preserving Proof",
+      "accent": "The collision report is the spine of an insurance file, and in this city it is obtainable ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "police report and evidence West Covina",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rear-end-collisions",
+      "name": "Rear End Collisions",
+      "nav": "Rear end collisions",
+      "h1": "Rear-End Collisions and Who Is at Fault in West Covina, CA Following Distance, Chains and Owner Liability",
+      "accent": "The rear driver is usually at fault, and \"usually\" is doing a great deal of work in that s",
+      "photo": "assets/work-2.jpg",
+      "keyword": "rear end collisions West Covina",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rideshare-crash-claims",
+      "name": "Rideshare Crash Claims",
+      "nav": "Rideshare crash claims",
+      "h1": "Rideshare Crash Claims in California in West Covina, CA Coverage Tiers for Uber and Lyft Trips",
+      "accent": "A crash in an Uber or Lyft vehicle is governed by a statute most drivers have never read.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "rideshare crash claims West Covina",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-california",
+      "name": "Statute Of Limitations California",
+      "nav": "Statute of limitations california",
+      "h1": "Statute of Limitations for California Crash Claims in West Covina, CA Two Years, Six Months and the Exceptions",
+      "accent": "Most people have heard the two-year figure.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "statute of limitations california West Covina",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "totaled-vehicle-and-property-damage",
+      "name": "Totaled Vehicle And Property Damage",
+      "nav": "Totaled vehicle and property damage",
+      "h1": "Totaled Vehicle and Property Damage Claims in West Covina, CA Valuation Rules, Repairs and Salvage",
+      "accent": "Total loss valuation is one of the few parts of a car accident claim California regulates ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "totaled vehicle and property damage West Covina",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "underinsured-motorist-claims",
+      "name": "Underinsured Motorist Claims",
+      "nav": "Underinsured motorist claims",
+      "h1": "Underinsured Motorist Claims in California in West Covina, CA Exhaustion, Offsets and Deadlines",
+      "accent": "Underinsured motorist coverage is not extra money stacked on top of the other driver's pol",
+      "photo": "assets/work-3.jpg",
+      "keyword": "underinsured motorist claims West Covina",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "whiplash-and-soft-tissue-injuries",
+      "name": "Whiplash And Soft Tissue Injuries",
+      "nav": "Whiplash and soft tissue injuries",
+      "h1": "Whiplash and Soft Tissue Injury Claims in West Covina, CA Records, Billing Rules and Treatment Gaps",
+      "accent": "Soft tissue claims are not doubted because the injuries are minor.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "whiplash and soft tissue injuries West Covina",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

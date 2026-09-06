@@ -1,6 +1,6 @@
 {
   "domain": "waterdamageaustinco.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Austin Water Damage Restoration Pros",
   "service": "Water Damage Restoration",
   "service_inline": "water damage restoration",
@@ -122,6 +122,182 @@
       "accent": "Contaminated Water Removed Safely",
       "keyword": "sewage cleanup",
       "icon": "warn"
+    },
+    {
+      "slug": "appliance-leak-cleanup",
+      "name": "Appliance Leak Cleanup",
+      "nav": "Appliance leak cleanup",
+      "h1": "Appliance Leak Cleanup in Austin, TX Washer and Fridge Leaks Handled",
+      "accent": "Appliance leaks are the quiet category.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "appliance leak cleanup Austin",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "burst-pipe-water-damage",
+      "name": "Burst Pipe Water Damage",
+      "nav": "Burst pipe water damage",
+      "h1": "Burst Pipe Water Damage in Austin, TX Frozen Line Failures Dried Out",
+      "accent": "A split supply line is a pressure event, not a drip.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "burst pipe water damage Austin",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "carpet-water-extraction-and-drying",
+      "name": "Carpet Water Extraction And Drying",
+      "nav": "Carpet water extraction and drying",
+      "h1": "Carpet Water Extraction and Drying in Austin, TX Carpet and Pad Judged on Readings",
+      "accent": "Carpet is easy to extract and easy to get wrong.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "carpet water extraction and drying Austin",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "ceiling-water-damage-repair",
+      "name": "Ceiling Water Damage Repair",
+      "nav": "Ceiling water damage repair",
+      "h1": "Ceiling Water Damage Repair in Austin, TX Wet Ceilings Made Safe Again",
+      "accent": "A wet ceiling is a load-bearing problem before it is a cosmetic one.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "ceiling water damage repair Austin",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-water-damage-restoration",
+      "name": "Commercial",
+      "nav": "Commercial",
+      "h1": "Commercial Water Damage Restoration in Austin, TX Buildings Dried With Tenants in Place",
+      "accent": "On a commercial loss the water is only half the problem.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial water damage restoration Austin",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "crawl-space-water-removal",
+      "name": "Crawl Space Water Removal",
+      "nav": "Crawl space water removal",
+      "h1": "Crawl Space Water Removal in Austin, TX Water Pulled Out From Under the House",
+      "accent": "A wet crawl space is a house problem, not a storage problem.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "crawl space water removal Austin",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-water-removal",
+      "name": "Emergency Water Removal",
+      "nav": "Emergency water removal",
+      "h1": "Emergency Water Removal in Austin, TX Standing Water Pumped Out Now",
+      "accent": "Emergency work is measured in gallons per minute and in hours.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "emergency water removal Austin",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hardwood-floor-water-damage",
+      "name": "Hardwood Floor Water Damage",
+      "nav": "Hardwood floor water damage",
+      "h1": "Hardwood Floor Water Damage in Austin, TX Wood Floors Dried Before Cupping Sets",
+      "accent": "Wood floors fail on a delay.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hardwood floor water damage Austin",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "mold-prevention-after-water-damage",
+      "name": "Mold Prevention After Water Damage",
+      "nav": "Mold prevention after water damage",
+      "h1": "Mold Prevention After Water Damage in Austin, TX Humidity Held Down Before Growth Starts",
+      "accent": "Mold after a water loss is a moisture control failure, not bad luck.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "mold prevention after water damage Austin",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-leak-water-damage",
+      "name": "Roof Leak Water Damage",
+      "nav": "Roof leak water damage",
+      "h1": "Roof Leak Water Damage in Austin, TX Attic and Ceiling Water Stopped",
+      "accent": "Roof leaks are rarely found where they show.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "roof leak water damage Austin",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "slab-leak-water-damage",
+      "name": "Slab Leak Water Damage",
+      "nav": "Slab leak water damage",
+      "h1": "Slab Leak Water Damage in Austin, TX Under-Slab Leaks Traced and Dried",
+      "accent": "A slab leak does not announce itself with a puddle.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "slab leak water damage Austin",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "storm-and-flash-flood-cleanup",
+      "name": "Storm And Flash Flood Cleanup",
+      "nav": "Storm and flash flood cleanup",
+      "h1": "Storm and Flash Flood Cleanup in Austin, TX Flash Flood Water Cleared Out",
+      "accent": "Storm water is outdoor water.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "storm and flash flood cleanup Austin",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "structural-drying-and-dehumidification",
+      "name": "Structural Drying And Dehumidification",
+      "nav": "Structural drying and dehumidification",
+      "h1": "Structural Drying and Dehumidification in Austin, TX Framing and Cavities Dried to Target",
+      "accent": "Structural drying is the part of the job that gets measured.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "structural drying and dehumidification Austin",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "toilet-overflow-cleanup",
+      "name": "Toilet Overflow Cleanup",
+      "nav": "Toilet overflow cleanup",
+      "h1": "Toilet Overflow Cleanup in Austin, TX Overflow Water Removed and Sanitized",
+      "accent": "Two overflows can look the same on a bathroom floor and be completely different jobs.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "toilet overflow cleanup Austin",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "water-damage-insurance-claims",
+      "name": "Water Damage Insurance Claims",
+      "nav": "Water damage insurance claims",
+      "h1": "Water Damage Insurance Claims in Austin, TX Loss Documented for the Claim File",
+      "accent": "A water claim is won or lost in the first day of documentation.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "water damage insurance claims Austin",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "water-heater-leak-cleanup",
+      "name": "Water Heater Leak Cleanup",
+      "nav": "Water heater leak cleanup",
+      "h1": "Water Heater Leak Cleanup in Austin, TX Tank Failures Cleaned Up Fast",
+      "accent": "A water heater rarely fails politely.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "water heater leak cleanup Austin",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

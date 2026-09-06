@@ -1,6 +1,6 @@
 {
   "domain": "virginiabeachcaraccidentlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Virginia Beach Car Accident Law Pros",
   "service": "Car Accident Lawyer",
   "service_inline": "car accident lawyer",
@@ -204,6 +204,182 @@
       "accent": "Damages, Offers and Claim Terms",
       "keyword": "car accident injury claim negotiation",
       "icon": "check"
+    },
+    {
+      "slug": "commercial-truck-collisions",
+      "name": "Commercial Truck Collisions",
+      "nav": "Commercial truck collisions",
+      "h1": "Commercial Truck Collisions in Virginia in Virginia Beach, VA Federal Logs, Retention Clocks and Carrier Records",
+      "accent": "A tractor-trailer collision generates records that no passenger-car crash produces, and fe",
+      "photo": "assets/work-1.jpg",
+      "keyword": "commercial truck collisions Virginia Beach",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "contributory-negligence-in-virginia",
+      "name": "Contributory Negligence In Virginia",
+      "nav": "Contributory negligence in virginia",
+      "h1": "Contributory Negligence in Virginia in Virginia Beach, VA How a Share of Fault Can End a Claim",
+      "accent": "Most states divide a crash recovery in proportion to blame, so a driver found ten percent ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "contributory negligence in virginia Virginia Beach",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "crash-reports-and-evidence",
+      "name": "Crash Reports And Evidence",
+      "nav": "Crash reports and evidence",
+      "h1": "Crash Reports and Evidence in Virginia in Virginia Beach, VA What the Police Report Can and Cannot Do",
+      "accent": "The officer's crash report is the document everyone asks for and the one Virginia law will",
+      "photo": "assets/work-3.jpg",
+      "keyword": "crash reports and evidence Virginia Beach",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "distracted-driving-crashes",
+      "name": "Distracted Driving Crashes",
+      "nav": "Distracted driving crashes",
+      "h1": "Distracted Driving Crashes in Virginia in Virginia Beach, VA The Handheld Device Law and Crash Data",
+      "accent": "Virginia's handheld device statute is short, the fines are specific, and the crash data be",
+      "photo": "assets/work-1.jpg",
+      "keyword": "distracted driving crashes Virginia Beach",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hit-and-run-and-uninsured-motorist-claims",
+      "name": "Hit And Run And Uninsured Motorist Claims",
+      "nav": "Hit and run and uninsured motorist claims",
+      "h1": "Hit-and-Run and Uninsured Motorist Claims in Virginia Beach, VA Duties After a Crash and Unidentified Drivers",
+      "accent": "When the other driver leaves, Virginia does not leave the injured person without a defenda",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hit and run and uninsured motorist claims Virginia Beach",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "intersection-and-right-of-way-crashes",
+      "name": "Intersection And Right Of Way Crashes",
+      "nav": "Intersection and right of way crashes",
+      "h1": "Intersection and Right-of-Way Crashes in Virginia Beach, VA Yield Duties, Signals and Left Turns",
+      "accent": "Right-of-way disputes are the collisions Virginia's fault rule handles least forgivingly, ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "intersection and right of way crashes Virginia Beach",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "interstate-64-and-highway-collisions",
+      "name": "Interstate 64 And Highway Collisions",
+      "nav": "Interstate 64 and highway collisions",
+      "h1": "Interstate 64 and Highway Collisions in Virginia Beach, VA Speed Limits, Work Zones and Corridor Records",
+      "accent": "Interstate 64 is the spine of the Hampton Roads network and the reason a Virginia Beach cr",
+      "photo": "assets/work-1.jpg",
+      "keyword": "interstate 64 and highway collisions Virginia Beach",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "last-clear-chance-doctrine",
+      "name": "Last Clear Chance Doctrine",
+      "nav": "Last clear chance doctrine",
+      "h1": "The Last Clear Chance Doctrine in Virginia in Virginia Beach, VA A Narrow Exception and Its Elements",
+      "accent": "Last clear chance is the exception Virginia keeps for a plaintiff who was careless and sti",
+      "photo": "assets/work-2.jpg",
+      "keyword": "last clear chance doctrine Virginia Beach",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-bills-and-health-care-liens",
+      "name": "Medical Bills And Health Care Liens",
+      "nav": "Medical bills and health care liens",
+      "h1": "Medical Bills and Health Care Liens in Virginia Beach, VA Statutory Lien Ceilings and Subrogation Limits",
+      "accent": "Virginia caps what most providers can assert against a personal injury recovery, and the c",
+      "photo": "assets/work-3.jpg",
+      "keyword": "medical bills and health care liens Virginia Beach",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "pedestrian-and-cyclist-collisions",
+      "name": "Pedestrian And Cyclist Collisions",
+      "nav": "Pedestrian and cyclist collisions",
+      "h1": "Pedestrian and Cyclist Collisions in Virginia Beach, VA Crosswalk Duties and Vulnerable Road Users",
+      "accent": "Virginia writes specific protections for people on foot and on bicycles into the traffic c",
+      "photo": "assets/work-1.jpg",
+      "keyword": "pedestrian and cyclist collisions Virginia Beach",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rear-end-collisions",
+      "name": "Rear End Collisions",
+      "nav": "Rear end collisions",
+      "h1": "Rear-End Collisions in Virginia in Virginia Beach, VA Following Distance, Stopping Distance and Proof",
+      "accent": "Virginia has no car-length rule and no statute that makes the trailing driver automaticall",
+      "photo": "assets/work-2.jpg",
+      "keyword": "rear end collisions Virginia Beach",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "spinal-injury-claims",
+      "name": "Spinal Injury Claims",
+      "nav": "Spinal injury claims",
+      "h1": "Spinal Injury Claims in Virginia in Virginia Beach, VA Imaging, Expert Proof and Future Loss",
+      "accent": "A spinal claim differs from a soft-tissue claim in what has to be proved about the future.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "spinal injury claims Virginia Beach",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-virginia",
+      "name": "Statute Of Limitations Virginia",
+      "nav": "Statute of limitations virginia",
+      "h1": "Statute of Limitations in Virginia in Virginia Beach, VA Two Years, Notice Rules and Tolling",
+      "accent": "Two years is the number most people have heard, and it is the right number for an ordinary",
+      "photo": "assets/work-1.jpg",
+      "keyword": "statute of limitations virginia Virginia Beach",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "traumatic-brain-injury-claims",
+      "name": "Traumatic Brain Injury Claims",
+      "nav": "Traumatic brain injury claims",
+      "h1": "Traumatic Brain Injury Claims in Virginia Beach, VA Diagnosis Standards, Capacity and Tolling",
+      "accent": "A brain injury claim runs into a proof problem and a capacity problem at the same time.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "traumatic brain injury claims Virginia Beach",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "underinsured-motorist-claims",
+      "name": "Underinsured Motorist Claims",
+      "nav": "Underinsured motorist claims",
+      "h1": "Underinsured Motorist Claims in Virginia in Virginia Beach, VA Stacked Limits, Credits and Election Forms",
+      "accent": "An underinsured motorist claim is a contract question layered on a fault question.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "underinsured motorist claims Virginia Beach",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "whiplash-and-soft-tissue-injuries",
+      "name": "Whiplash And Soft Tissue Injuries",
+      "nav": "Whiplash and soft tissue injuries",
+      "h1": "Whiplash and Soft-Tissue Injuries in Virginia Beach, VA Documentation, Privilege and Proof Problems",
+      "accent": "Soft-tissue injury claims are disputed on documentation rather than on diagnosis.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "whiplash and soft tissue injuries Virginia Beach",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

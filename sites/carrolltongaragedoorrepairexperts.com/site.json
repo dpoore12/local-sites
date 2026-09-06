@@ -1,6 +1,6 @@
 {
   "domain": "carrolltongaragedoorrepairexperts.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Carrollton Garage Door Repair Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
@@ -126,6 +126,182 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Carrollton",
       "icon": "house"
+    },
+    {
+      "slug": "carriage-house-garage-doors",
+      "name": "Carriage House",
+      "nav": "Carriage house",
+      "h1": "Carriage House and Custom Garage Doors in Carrollton, TX Overlays, Glass and Wood",
+      "accent": "Carriage house doors buy an appearance, and they charge for it in weight, glazing rules an",
+      "photo": "assets/work-1.jpg",
+      "keyword": "carriage house garage doors Carrollton",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-garage-door-repair",
+      "name": "Commercial Repair",
+      "nav": "Commercial repair",
+      "h1": "Commercial Garage Door Repair in Carrollton, TX Rolling Steel and Docks",
+      "accent": "Commercial door work in this city is a different trade from residential repair.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial garage door repair Carrollton",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-garage-door-repair",
+      "name": "Emergency Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Garage Door Repair in Carrollton, TX Nights and Weekends",
+      "accent": "An emergency is a door that cannot be secured or a vehicle that cannot get out.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "emergency garage door repair Carrollton",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-hinge-repair",
+      "name": "Hinge Repair",
+      "nav": "Hinge repair",
+      "h1": "Garage Door Hinge and Bracket Repair in Carrollton, TX Hinges, Stiles and Brackets",
+      "accent": "Hinges and brackets are the joints that let a rigid slab bend around a curve.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door hinge repair Carrollton",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-insulation",
+      "name": "Insulation",
+      "nav": "Insulation",
+      "h1": "Garage Door Insulation and R-Value Upgrade in Carrollton, TX R-Value and U-Factor",
+      "accent": "Two numbers get printed on garage doors and they are not comparable.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door insulation Carrollton",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-lock-repair",
+      "name": "Lock Repair",
+      "nav": "Lock repair",
+      "h1": "Garage Door Lock and Handle Repair in Carrollton, TX Handles, Bars and Cables",
+      "accent": "Manual locks matter more on this side of the Metroplex than most homeowners assume, becaus",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door lock repair Carrollton",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-opener-installation",
+      "name": "Opener Installation",
+      "nav": "Opener installation",
+      "h1": "Garage Door Opener Installation in Carrollton, TX Sized to the Door",
+      "accent": "Installing an opener is a load calculation, an electrical decision and a mounting problem ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door opener installation Carrollton",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-remote-programming",
+      "name": "Remote Programming",
+      "nav": "Remote programming",
+      "h1": "Garage Door Remote and Keypad Repair in Carrollton, TX Remotes, Keypads, Receivers",
+      "accent": "Remotes and wall keypads fail in three distinct ways: dead batteries, a receiver that has ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door remote programming Carrollton",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-safety-inspection",
+      "name": "Safety Inspection",
+      "nav": "Safety inspection",
+      "h1": "Garage Door Safety Inspection in Carrollton, TX Written Findings List",
+      "accent": "An inspection is worth having because it produces a written list of what is worn, what is ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door safety inspection Carrollton",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-sensor-repair",
+      "name": "Sensor Repair",
+      "nav": "Sensor repair",
+      "h1": "Garage Door Sensor Repair in Carrollton, TX Photo Eyes and Alignment",
+      "accent": "A door that stops and climbs back up is usually reporting what its two photoelectric heads",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door sensor repair Carrollton",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-tune-up",
+      "name": "Tune Up",
+      "nav": "Tune up",
+      "h1": "Garage Door Tune-Up and Maintenance in Carrollton, TX Measured Annual Service",
+      "accent": "A tune-up is a measurement visit, not an oiling visit.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door tune up Carrollton",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-weather-seal-replacement",
+      "name": "Weather Seal Replacement",
+      "nav": "Weather seal replacement",
+      "h1": "Garage Door Weather Seal Replacement in Carrollton, TX Bottom, Jamb and Header Seals",
+      "accent": "Most water on a garage floor did not come under the bottom rubber.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door weather seal replacement Carrollton",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-wont-close",
+      "name": "Wont Close",
+      "nav": "Wont close",
+      "h1": "Garage Door Will Not Close in Carrollton, TX Reversal Faults Traced",
+      "accent": "A door that starts down and returns is doing what federal rules built it to do.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door wont close Carrollton",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "noisy-garage-door-repair",
+      "name": "Noisy Repair",
+      "nav": "Noisy repair",
+      "h1": "Noisy Garage Door Repair in Carrollton, TX Rollers, Hinges, Bearings",
+      "accent": "Noise is a diagnosis if you can separate the sounds.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "noisy garage door repair Carrollton",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "smart-garage-door-opener",
+      "name": "Smart Opener",
+      "nav": "Smart opener",
+      "h1": "Smart Garage Door Opener Installation in Carrollton, TX App Control Done Safely",
+      "accent": "Phone control changes the safety rules, not just the convenience.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "smart garage door opener Carrollton",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "torsion-spring-conversion",
+      "name": "Torsion Spring Conversion",
+      "nav": "Torsion spring conversion",
+      "h1": "Extension to Torsion Spring Conversion in Carrollton, TX Extension Springs Replaced",
+      "accent": "Converting extension springs to a torsion shaft is a geometry job, not a parts swap.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "torsion spring conversion Carrollton",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

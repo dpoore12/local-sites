@@ -1,6 +1,6 @@
 {
   "domain": "garagedoorrepairnapervillepros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Naperville Garage Door Pros",
   "service": "Garage Door Repair",
   "service_inline": "garage door repair",
@@ -127,6 +127,182 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Naperville",
       "icon": "house"
+    },
+    {
+      "slug": "carriage-house-garage-doors",
+      "name": "Carriage House",
+      "nav": "Carriage house",
+      "h1": "Carriage House and Custom Garage Doors in Naperville, IL Overlay or True Swing-Out",
+      "accent": "Carriage house doors come in two very different forms: a modern sectional door with decora",
+      "photo": "assets/work-1.jpg",
+      "keyword": "carriage house garage doors Naperville",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-garage-door-repair",
+      "name": "Commercial Repair",
+      "nav": "Commercial repair",
+      "h1": "Commercial Garage Door Repair in Naperville, IL Rolling Steel and High-Cycle",
+      "accent": "Commercial door failures are priced by downtime, not by parts.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial garage door repair Naperville",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-garage-door-repair",
+      "name": "Emergency Repair",
+      "nav": "Emergency repair",
+      "h1": "Emergency Garage Door Repair in Naperville, IL After Hours and Weekends",
+      "accent": "Some door failures can wait for a weekday appointment and some cannot.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "emergency garage door repair Naperville",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-hinge-repair",
+      "name": "Hinge Repair",
+      "nav": "Hinge repair",
+      "h1": "Garage Door Hinge and Bracket Repair in Naperville, IL Cracked Hinges and Torn Stiles",
+      "accent": "A hinge costs a few dollars and takes minutes to swap.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door hinge repair Naperville",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-insulation",
+      "name": "Insulation",
+      "nav": "Insulation",
+      "h1": "Garage Door Insulation and R-Value Upgrade in Naperville, IL R-Value on an Attached Garage",
+      "accent": "An insulated door is worth the money on an attached garage and rarely worth the premium on",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door insulation Naperville",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-lock-repair",
+      "name": "Lock Repair",
+      "nav": "Lock repair",
+      "h1": "Garage Door Lock and Handle Repair in Naperville, IL Slide Bolts and T-Handles",
+      "accent": "Two different jobs get called lock repair: making a door secure again, and undoing the dam",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door lock repair Naperville",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-opener-installation",
+      "name": "Opener Installation",
+      "nav": "Opener installation",
+      "h1": "Garage Door Opener Installation in Naperville, IL Belt, Chain or Wall Mount",
+      "accent": "A new opener is a choice among three drive types, a horsepower class, and a rail length th",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door opener installation Naperville",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-remote-programming",
+      "name": "Remote Programming",
+      "nav": "Remote programming",
+      "h1": "Garage Door Remote and Keypad Repair in Naperville, IL Pairing, Batteries and Range",
+      "accent": "A remote that stopped working is usually a battery, a lost pairing, or a receiver that no ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door remote programming Naperville",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-safety-inspection",
+      "name": "Safety Inspection",
+      "nav": "Safety inspection",
+      "h1": "Garage Door Safety Inspection in Naperville, IL Reversal Testing to Federal Rules",
+      "accent": "A safety inspection checks one thing above all others: whether the door will stop and reve",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door safety inspection Naperville",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-sensor-repair",
+      "name": "Sensor Repair",
+      "nav": "Sensor repair",
+      "h1": "Garage Door Sensor Repair in Naperville, IL Photo Eyes Aligned and Tested",
+      "accent": "Two photo eyes sitting about six inches off the floor have to see each other before the op",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door sensor repair Naperville",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-tune-up",
+      "name": "Tune Up",
+      "nav": "Tune up",
+      "h1": "Garage Door Tune-Up and Maintenance in Naperville, IL Balance, Torque and Lubrication",
+      "accent": "A tune-up is the only garage door visit you schedule instead of react to.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door tune up Naperville",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-weather-seal-replacement",
+      "name": "Weather Seal Replacement",
+      "nav": "Weather seal replacement",
+      "h1": "Garage Door Weather Seal Replacement in Naperville, IL Bottom Seal, Stops and Threshold",
+      "accent": "Four separate pieces of rubber and vinyl keep water, snow, salt and mice out of a garage: ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door weather seal replacement Naperville",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garage-door-wont-close",
+      "name": "Wont Close",
+      "nav": "Wont close",
+      "h1": "Garage Door Will Not Close in Naperville, IL Four Causes, One Visit",
+      "accent": "A door that opens fine and refuses to close is the most common single call in this trade.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door wont close Naperville",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "noisy-garage-door-repair",
+      "name": "Noisy Repair",
+      "nav": "Noisy repair",
+      "h1": "Noisy Garage Door Repair in Naperville, IL Diagnosis by Sound",
+      "accent": "A garage door tells you what is wrong with it through the noise it makes.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "noisy garage door repair Naperville",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "smart-garage-door-opener",
+      "name": "Smart Opener",
+      "nav": "Smart opener",
+      "h1": "Smart Garage Door Opener Installation in Naperville, IL Phone Control, Retrofit or New",
+      "accent": "Phone control can be added to almost any working opener, and there are two routes: a retro",
+      "photo": "assets/work-3.jpg",
+      "keyword": "smart garage door opener Naperville",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "torsion-spring-conversion",
+      "name": "Torsion Spring Conversion",
+      "nav": "Torsion spring conversion",
+      "h1": "Extension to Torsion Spring Conversion in Naperville, IL Older Doors, Balanced Lift",
+      "accent": "An extension-spring door has two long springs stretched along the horizontal tracks.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "torsion spring conversion Naperville",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

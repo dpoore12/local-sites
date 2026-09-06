@@ -1,6 +1,6 @@
 {
   "domain": "appliancerepairtampaco.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Tampa Appliance Repair Pros",
   "service": "Appliance Repair",
   "service_inline": "appliance repair",
@@ -118,6 +118,182 @@
       "accent": "Dishes Cleaning Properly Again",
       "keyword": "dishwasher repair",
       "icon": "drop"
+    },
+    {
+      "slug": "built-in-refrigerator-repair",
+      "name": "Built In Refrigerator Repair",
+      "nav": "Built in refrigerator repair",
+      "h1": "Built-In Refrigerator Repair in Tampa, FL Cabinet Units Serviced Correctly",
+      "accent": "A built-in refrigerator is a cabinet-integrated machine with a small refrigerant charge, a",
+      "photo": "assets/work-1.jpg",
+      "keyword": "built in refrigerator repair Tampa",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-appliance-repair",
+      "name": "Commercial Repair",
+      "nav": "Commercial repair",
+      "h1": "Commercial Appliance Repair in Tampa, FL Kitchen Back In Service",
+      "accent": "In a commercial kitchen the appliance failure is only half the problem.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial appliance repair Tampa",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "cooktop-repair",
+      "name": "Cooktop Repair",
+      "nav": "Cooktop repair",
+      "h1": "Cooktop Repair in Tampa, FL Every Zone Working Properly",
+      "accent": "A cooktop has three completely different technologies behind the same countertop cutout, a",
+      "photo": "assets/work-3.jpg",
+      "keyword": "cooktop repair Tampa",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dryer-vent-cleaning",
+      "name": "Dryer Vent Cleaning",
+      "nav": "Dryer vent cleaning",
+      "h1": "Dryer Vent Cleaning in Tampa, FL Lint Removed, Airflow Verified",
+      "accent": "Lint in a dryer duct is not a housekeeping issue, it is the leading contributing factor in",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dryer vent cleaning Tampa",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "freezer-repair",
+      "name": "Freezer Repair",
+      "nav": "Freezer repair",
+      "h1": "Freezer Repair in Tampa, FL Zero Degrees Held Again",
+      "accent": "With a freezer the clock matters more than the diagnosis.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "freezer repair Tampa",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "front-load-washer-repair",
+      "name": "Front Load Washer Repair",
+      "nav": "Front load washer repair",
+      "h1": "Front Load Washer Repair in Tampa, FL Leaks, Odor and Bearings",
+      "accent": "Front-loaders fail in ways top-loaders do not, because everything hangs on a door boot, a ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "front load washer repair Tampa",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "garbage-disposal-repair",
+      "name": "Garbage Disposal Repair",
+      "nav": "Garbage disposal repair",
+      "h1": "Garbage Disposal Repair in Tampa, FL Jams Cleared, Leaks Stopped",
+      "accent": "A disposal that hums is jammed, a disposal that is silent has tripped or lost power, and a",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garbage disposal repair Tampa",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "gas-range-repair",
+      "name": "Gas Range Repair",
+      "nav": "Gas range repair",
+      "h1": "Gas Range Repair in Tampa, FL Ignition and Code Compliant Gas",
+      "accent": "On a gas range the appliance and the fuel line are two separate jobs with two separate rul",
+      "photo": "assets/work-2.jpg",
+      "keyword": "gas range repair Tampa",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "ice-maker-repair",
+      "name": "Ice Maker Repair",
+      "nav": "Ice maker repair",
+      "h1": "Ice Maker Repair in Tampa, FL Production Restored to Spec",
+      "accent": "An ice maker has three inputs, and only one of them is electrical.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "ice maker repair Tampa",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "microwave-repair",
+      "name": "Microwave Repair",
+      "nav": "Microwave repair",
+      "h1": "Microwave Repair in Tampa, FL High Voltage Work Done Safely",
+      "accent": "A microwave is the one appliance in the kitchen that can kill somebody who opens it.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "microwave repair Tampa",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "oven-and-range-repair",
+      "name": "Oven And Range Repair",
+      "nav": "Oven and range repair",
+      "h1": "Oven and Range Repair in Tampa, FL Even Heat and Reliable Ignition",
+      "accent": "An oven that will not reach temperature and an oven that overshoots are opposite faults wi",
+      "photo": "assets/work-2.jpg",
+      "keyword": "oven and range repair Tampa",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "range-hood-repair",
+      "name": "Range Hood Repair",
+      "nav": "Range hood repair",
+      "h1": "Range Hood Repair in Tampa, FL Real Airflow, Not Noise",
+      "accent": "A range hood has one job, which is moving cooking air outside, and it fails in only a few ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "range hood repair Tampa",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "same-day-appliance-repair",
+      "name": "Same Day Repair",
+      "nav": "Same day repair",
+      "h1": "Same Day Appliance Repair in Tampa, FL Urgent Failures Triaged First",
+      "accent": "Some appliance failures are urgent and some only feel urgent.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "same day appliance repair Tampa",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "stackable-washer-dryer-repair",
+      "name": "Stackable Washer Dryer Repair",
+      "nav": "Stackable washer dryer repair",
+      "h1": "Stackable Washer and Dryer Repair in Tampa, FL Closet Laundry Serviced Properly",
+      "accent": "A stacked pair is two appliances in a closet built for one, and access is the constraint o",
+      "photo": "assets/work-2.jpg",
+      "keyword": "stackable washer dryer repair Tampa",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "washer-dryer-installation",
+      "name": "Washer Dryer Installation",
+      "nav": "Washer dryer installation",
+      "h1": "Washer and Dryer Installation in Tampa, FL Drain, Vent and Circuit Right",
+      "accent": "Most of what goes wrong with a new laundry pair in the first year traces to the installati",
+      "photo": "assets/work-3.jpg",
+      "keyword": "washer dryer installation Tampa",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "wine-cooler-repair",
+      "name": "Wine Cooler Repair",
+      "nav": "Wine cooler repair",
+      "h1": "Wine Cooler Repair in Tampa, FL Steady Temperature, Quiet Cabinet",
+      "accent": "A wine cooler is judged by how steady it holds a narrow band, not by how cold it gets.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "wine cooler repair Tampa",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

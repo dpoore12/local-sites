@@ -1,6 +1,6 @@
 {
   "domain": "houstonmotorcycleaccidentlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Houston Motorcycle Accident Law Pros",
   "service": "Motorcycle Accident Lawyer",
   "service_inline": "motorcycle accident lawyer",
@@ -204,6 +204,182 @@
       "accent": "Damages, Offers and Claim Terms",
       "keyword": "motorcycle injury claim lawyer",
       "icon": "check"
+    },
+    {
+      "slug": "broken-bones-and-surgery-claims",
+      "name": "Broken Bones And Surgery Claims",
+      "nav": "Broken bones and surgery claims",
+      "h1": "Broken Bone and Surgery Claims in Houston, TX Operative Records and Billed Amounts",
+      "accent": "Fractures are the injury an insurer is most comfortable with, because they look finite on ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "broken bones and surgery claims Houston",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "comparative-fault-in-texas",
+      "name": "Comparative Fault In Texas",
+      "nav": "Comparative fault in texas",
+      "h1": "Comparative Fault in Texas in Houston, TX Chapter 33 Percentages and the Recovery Bar",
+      "accent": "Texas apportionment is a threshold, not a sliding scale, and the threshold sits just above",
+      "photo": "assets/work-2.jpg",
+      "keyword": "comparative fault in texas Houston",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "crash-report-and-evidence",
+      "name": "Crash Report And Evidence",
+      "nav": "Crash report and evidence",
+      "h1": "Crash Reports and Rider Evidence in Houston, TX Peace Officer Reports and What They Contain",
+      "accent": "The Texas Peace Officer's Crash Report is the document every insurer reads first and the o",
+      "photo": "assets/work-3.jpg",
+      "keyword": "crash report and evidence Houston",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dooring-and-blind-spot-crashes",
+      "name": "Dooring And Blind Spot Crashes",
+      "nav": "Dooring and blind spot crashes",
+      "h1": "Dooring and Blind Spot Crash Claims in Houston, TX Opened Doors and Unseen Riders",
+      "accent": "A door swung open into a moving lane and a driver who merged into a rider already beside t",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dooring and blind spot crashes Houston",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "helmet-law-and-injury-claims",
+      "name": "Helmet Law And Injury Claims",
+      "nav": "Helmet law and injury claims",
+      "h1": "Texas Helmet Law and Injury Claims in Houston, TX Chapter 661 Rules and Exceptions",
+      "accent": "Texas headgear rules are narrower than most riders expect, and the exception language does",
+      "photo": "assets/work-2.jpg",
+      "keyword": "helmet law and injury claims Houston",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hit-and-run-motorcycle-crashes",
+      "name": "Hit And Run Motorcycle Crashes",
+      "nav": "Hit and run motorcycle crashes",
+      "h1": "Hit-and-Run Motorcycle Crash Claims in Houston, TX Duties to Stop and Coverage Questions",
+      "accent": "A driver who leaves after knocking a rider down creates two problems at once: a criminal d",
+      "photo": "assets/work-3.jpg",
+      "keyword": "hit and run motorcycle crashes Houston",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "insurance-adjuster-tactics",
+      "name": "Insurance Adjuster Tactics",
+      "nav": "Insurance adjuster tactics",
+      "h1": "Insurance Adjuster Practices and Texas Deadlines in Houston, TX Chapter 542 Timelines and Written Answers",
+      "accent": "Texas puts an insurer on a clock.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "insurance adjuster tactics Houston",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "lane-splitting-and-texas-law",
+      "name": "Lane Splitting And Texas Law",
+      "nav": "Lane splitting and texas law",
+      "h1": "Lane Splitting and Texas Law in Houston, TX What Section 545.0605 Actually Says",
+      "accent": "Riding between two rows of stopped traffic on the Katy Freeway is a different legal questi",
+      "photo": "assets/work-2.jpg",
+      "keyword": "lane splitting and texas law Houston",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-bills-and-hospital-liens",
+      "name": "Medical Bills And Hospital Liens",
+      "nav": "Medical bills and hospital liens",
+      "h1": "Medical Bills and Hospital Liens in Houston, TX Chapter 55 Limits and Amounts Actually Paid",
+      "accent": "A rider can settle a claim and still owe a hospital, because Texas gives certain hospitals",
+      "photo": "assets/work-3.jpg",
+      "keyword": "medical bills and hospital liens Houston",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "rear-end-motorcycle-crashes",
+      "name": "Rear End Motorcycle Crashes",
+      "nav": "Rear end motorcycle crashes",
+      "h1": "Rear-End Motorcycle Crash Claims in Houston, TX Following Distance and Braking Evidence",
+      "accent": "Getting struck from behind on a motorcycle is not the simple liability case people assume,",
+      "photo": "assets/work-1.jpg",
+      "keyword": "rear end motorcycle crashes Houston",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "road-hazard-and-debris-crashes",
+      "name": "Road Hazard And Debris Crashes",
+      "nav": "Road hazard and debris crashes",
+      "h1": "Road Hazard and Debris Crash Claims in Houston, TX Pavement, Cargo and Government Notice",
+      "accent": "A pothole, a fallen ladder, a missing sign, or a sheet of standing water can put a rider d",
+      "photo": "assets/work-2.jpg",
+      "keyword": "road hazard and debris crashes Houston",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "road-rash-and-scarring",
+      "name": "Road Rash And Scarring",
+      "nav": "Road rash and scarring",
+      "h1": "Road Rash and Scarring Claims in Houston, TX Disfigurement as a Damage Category",
+      "accent": "Abrasion injuries are treated as cosmetic by people who have never had one debrided.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "road rash and scarring Houston",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "spinal-cord-injury-claims",
+      "name": "Spinal Cord Injury Claims",
+      "nav": "Spinal cord injury claims",
+      "h1": "Spinal Cord Injury Claims in Houston, TX Future Care and Impairment Evidence",
+      "accent": "A spinal injury changes the arithmetic of a claim, because the largest costs and losses ha",
+      "photo": "assets/work-1.jpg",
+      "keyword": "spinal cord injury claims Houston",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-texas",
+      "name": "Statute Of Limitations Texas",
+      "nav": "Statute of limitations texas",
+      "h1": "Texas Filing Deadlines for Rider Claims in Houston, TX Two Years, Tolling and Notice Rules",
+      "accent": "Two years is the number most riders have heard, and it is correct as far as it goes.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "statute of limitations texas Houston",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "traumatic-brain-injury-claims",
+      "name": "Traumatic Brain Injury Claims",
+      "nav": "Traumatic brain injury claims",
+      "h1": "Motorcycle Traumatic Brain Injury Claims in Houston, TX Trauma Records and Damage Categories",
+      "accent": "A head injury from a motorcycle crash can be documented thoroughly in the first hours and ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "traumatic brain injury claims Houston",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "wrongful-death-motorcycle-crash",
+      "name": "Wrongful Death Motorcycle Crash",
+      "nav": "Wrongful death motorcycle crash",
+      "h1": "Motorcycle Wrongful Death Claims in Houston, TX Chapter 71 Beneficiaries and Survival Actions",
+      "accent": "When a rider does not survive, Texas splits what follows into two actions with different p",
+      "photo": "assets/work-1.jpg",
+      "keyword": "wrongful death motorcycle crash Houston",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

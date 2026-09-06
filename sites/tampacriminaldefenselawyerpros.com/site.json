@@ -1,6 +1,6 @@
 {
   "domain": "tampacriminaldefenselawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Tampa Criminal Defense Law Pros",
   "service": "Criminal Defense Lawyer",
   "service_inline": "criminal defense lawyer",
@@ -192,6 +192,182 @@
       "accent": "Allegations, Evidence and Legal Process",
       "keyword": "assault charge defense lawyer",
       "icon": "check"
+    },
+    {
+      "slug": "arraignment-and-first-appearance",
+      "name": "Arraignment And First Appearance",
+      "nav": "Arraignment and first appearance",
+      "h1": "First Appearance and Arraignment in Florida in Tampa, FL Two Hearings, Two Purposes",
+      "accent": "First appearance and arraignment are two different hearings with two different purposes.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "arraignment and first appearance Tampa",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "bond-hearings-and-pretrial-release",
+      "name": "Bond Hearings And Pretrial Release",
+      "nav": "Bond hearings and pretrial release",
+      "h1": "Bond Hearings and Pretrial Release in Hillsborough County in Tampa, FL Criteria, Conditions and Revocation",
+      "accent": "Release before trial in Florida is governed by three layers at once: a constitutional righ",
+      "photo": "assets/work-2.jpg",
+      "keyword": "bond hearings and pretrial release Tampa",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "burglary-defense",
+      "name": "Burglary Defense",
+      "nav": "Burglary defense",
+      "h1": "Burglary Charges in Florida: Entry, Intent and Degree in Tampa, FL What 810.02 Actually Requires",
+      "accent": "Burglary in Florida is not a synonym for theft.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "burglary defense Tampa",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "domestic-violence-defense",
+      "name": "Domestic Violence Defense",
+      "nav": "Domestic violence defense",
+      "h1": "Domestic Violence Charges in Florida: Statutes and Conditions in Tampa, FL Definitions, Minimums and No-Contact Orders",
+      "accent": "Florida treats an allegation between household members differently from an ordinary batter",
+      "photo": "assets/work-1.jpg",
+      "keyword": "domestic violence defense Tampa",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "drug-trafficking-defense",
+      "name": "Drug Trafficking Defense",
+      "nav": "Drug trafficking defense",
+      "h1": "Drug Trafficking in Florida: Weight Thresholds and Minimums in Tampa, FL Quantity Decides the Charge",
+      "accent": "In Florida, trafficking is a weight threshold rather than a description of selling.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "drug trafficking defense Tampa",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "dui-defense",
+      "name": "Dui Defense",
+      "nav": "Dui defense",
+      "h1": "DUI Defense in Tampa: Charges and License Deadlines in Tampa, FL Two Clocks After a DUI Arrest",
+      "accent": "A Tampa DUI arrest opens two separate clocks: a criminal charge under Florida Statute 316.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "dui defense Tampa",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "expungement-and-record-sealing",
+      "name": "Expungement And Record Sealing",
+      "nav": "Expungement and record sealing",
+      "h1": "Sealing and Expunging a Florida Criminal Record in Tampa, FL One Court-Ordered Outcome in a Lifetime",
+      "accent": "Sealing and expunction in Florida are two different remedies with two different eligibilit",
+      "photo": "assets/work-1.jpg",
+      "keyword": "expungement and record sealing Tampa",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "felony-vs-misdemeanor-in-florida",
+      "name": "Felony Vs Misdemeanor In Florida",
+      "nav": "Felony vs misdemeanor in florida",
+      "h1": "Felony vs Misdemeanor in Florida: Classification and Ceilings in Tampa, FL Degrees, Fines and Time Limits",
+      "accent": "The difference between a felony and a misdemeanor in Florida is defined by where a sentenc",
+      "photo": "assets/work-2.jpg",
+      "keyword": "felony vs misdemeanor in florida Tampa",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "juvenile-defense",
+      "name": "Juvenile Defense",
+      "nav": "Juvenile defense",
+      "h1": "Juvenile Delinquency Proceedings in Florida in Tampa, FL Detention Clocks and Direct Filing",
+      "accent": "Delinquency proceedings in Florida run under chapter 985, which has its own detention rule",
+      "photo": "assets/work-3.jpg",
+      "keyword": "juvenile defense Tampa",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "probation-violation-defense",
+      "name": "Probation Violation Defense",
+      "nav": "Probation violation defense",
+      "h1": "Probation Violations in Florida: How the Proceeding Works in Tampa, FL Affidavits, Arrest and Release",
+      "accent": "A violation of probation proceeding is not a fresh prosecution with the same protections.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "probation violation defense Tampa",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "robbery-defense",
+      "name": "Robbery Defense",
+      "nav": "Robbery defense",
+      "h1": "Robbery Charges in Florida: Force, Weapons and Degrees in Tampa, FL Every Degree Is a Felony",
+      "accent": "Robbery under Florida Statute 812.13 is a taking accomplished by force, violence, assault,",
+      "photo": "assets/work-2.jpg",
+      "keyword": "robbery defense Tampa",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "sex-crime-defense",
+      "name": "Sex Crime Defense",
+      "nav": "Sex crime defense",
+      "h1": "Florida Sexual Offense Statutes and Registration Duties in Tampa, FL Degrees, 48 Hours and Record Limits",
+      "accent": "Florida's sexual offense statutes carry the harshest penalty structures in the criminal co",
+      "photo": "assets/work-3.jpg",
+      "keyword": "sex crime defense Tampa",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "theft-and-shoplifting-defense",
+      "name": "Theft And Shoplifting Defense",
+      "nav": "Theft and shoplifting defense",
+      "h1": "Theft and Shoplifting Charges in Florida in Tampa, FL Value Tiers, Priors and Retail Theft",
+      "accent": "Florida theft charges turn on a dollar figure, a property type, and a prior record.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "theft and shoplifting defense Tampa",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "warrants-and-turning-yourself-in",
+      "name": "Warrants And Turning Yourself In",
+      "nav": "Warrants and turning yourself in",
+      "h1": "Florida Arrest Warrants and Failure to Appear in Tampa, FL What the Warrant Must Contain",
+      "accent": "A Florida arrest warrant is a written command signed by a judge.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "warrants and turning yourself in Tampa",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "weapons-charge-defense",
+      "name": "Weapons Charge Defense",
+      "nav": "Weapons charge defense",
+      "h1": "Florida Weapons Charges Under Chapter 790 in Tampa, FL Carrying, Exhibition and Possession",
+      "accent": "Florida weapons charges are spread across chapter 790, and they are not interchangeable.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "weapons charge defense Tampa",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "white-collar-and-fraud-defense",
+      "name": "White Collar And Fraud Defense",
+      "nav": "White collar and fraud defense",
+      "h1": "White Collar and Fraud Charges in Florida in Tampa, FL Aggregation, Tiers and Investigations",
+      "accent": "Florida fraud charges are usually built by aggregation.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "white collar and fraud defense Tampa",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

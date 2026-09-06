@@ -1,6 +1,6 @@
 {
   "domain": "dallaswrongfuldeathlawyerpros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Dallas Wrongful Death Law Pros",
   "service": "Wrongful Death Lawyer",
   "service_inline": "wrongful death lawyer",
@@ -123,6 +123,182 @@
       "accent": "Losses, Dependents and Claim Terms",
       "keyword": "wrongful death damages lawyer",
       "icon": "check"
+    },
+    {
+      "slug": "autopsy-and-evidence-preservation",
+      "name": "Autopsy And Evidence Preservation",
+      "nav": "Autopsy and evidence preservation",
+      "h1": "Autopsy Records and Evidence Preservation in Dallas, TX Examiner Records and Retention Clocks",
+      "accent": "In a county the size of Dallas the medical examiner's involvement is not discretionary.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "autopsy and evidence preservation Dallas",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "construction-site-deaths",
+      "name": "Construction Site Deaths",
+      "nav": "Construction site deaths",
+      "h1": "Construction Site Death Claim Lawyer in Dallas, TX Falls, Contractors and Site Control",
+      "accent": "Construction is the single most dangerous industry sector in the Texas fatality statistics",
+      "photo": "assets/work-2.jpg",
+      "keyword": "construction site deaths Dallas",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "damages-available-in-texas",
+      "name": "Damages Available In Texas",
+      "nav": "Damages available in texas",
+      "h1": "Damages Available in a Texas Death Case in Dallas, TX Categories, Shares and Statutory Limits",
+      "accent": "Texas does not hand a family a list of amounts.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "damages available in texas Dallas",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "drunk-driving-fatality-claims",
+      "name": "Drunk Driving Fatality Claims",
+      "nav": "Drunk driving fatality claims",
+      "h1": "Drunk Driving Fatality Claim Lawyer in Dallas, TX Dram Shop Rules and Exemplary Damages",
+      "accent": "An intoxicated driver may not be the only party a Texas statute reaches after a fatal cras",
+      "photo": "assets/work-1.jpg",
+      "keyword": "drunk driving fatality claims Dallas",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "exemplary-damages-and-gross-negligence",
+      "name": "Exemplary Damages And Gross Negligence",
+      "nav": "Exemplary damages and gross negligence",
+      "h1": "Exemplary Damages and Gross Negligence in Texas in Dallas, TX Clear and Convincing Proof, Chapter 41 Caps",
+      "accent": "Exemplary damages are not a larger version of compensation.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "exemplary damages and gross negligence Dallas",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "fatal-car-crash-claims",
+      "name": "Fatal Car Crash Claims",
+      "nav": "Fatal car crash claims",
+      "h1": "Fatal Car Crash Claim Lawyer in Dallas, TX Dallas Streets, Speed and Evidence",
+      "accent": "Most fatal crashes in Dallas County do not involve a commercial vehicle or a public agency",
+      "photo": "assets/work-3.jpg",
+      "keyword": "fatal car crash claims Dallas",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "fatal-premises-incidents",
+      "name": "Fatal Premises Incidents",
+      "nav": "Fatal premises incidents",
+      "h1": "Fatal Premises Incident Claim Lawyer in Dallas, TX Property Duties and Visitor Status",
+      "accent": "When someone dies on another party's property, Texas law asks what the property owner owed",
+      "photo": "assets/work-1.jpg",
+      "keyword": "fatal premises incidents Dallas",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "fatal-truck-crash-claims",
+      "name": "Fatal Truck Crash Claims",
+      "nav": "Fatal truck crash claims",
+      "h1": "Fatal Truck Crash Claim Lawyer in Dallas, TX Carrier Records and Federal Rules",
+      "accent": "A fatal collision with a commercial truck sits on top of a federal record system that a pa",
+      "photo": "assets/work-2.jpg",
+      "keyword": "fatal truck crash claims Dallas",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "industrial-and-plant-accidents",
+      "name": "Industrial And Plant Accidents",
+      "nav": "Industrial and plant accidents",
+      "h1": "Industrial and Plant Accident Death Lawyer in Dallas, TX Plant Duties and Machinery Records",
+      "accent": "Chapter 71 has specific language for plants, and it is old language that still operates.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "industrial and plant accidents Dallas",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "medical-negligence-deaths",
+      "name": "Medical Negligence Deaths",
+      "nav": "Medical negligence deaths",
+      "h1": "Medical Negligence Death Claim Rules in Dallas, TX Chapter 74 Deadlines and Limits",
+      "accent": "Chapter 74 changes the mechanics of a death claim more than any other Texas statute.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "medical negligence deaths Dallas",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "nursing-home-deaths",
+      "name": "Nursing Home Deaths",
+      "nav": "Nursing home deaths",
+      "h1": "Nursing Home Death Claim Lawyer in Dallas, TX Facility Records and Resident Rights",
+      "accent": "A death in a licensed long-term care facility is governed by two statutes at once.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "nursing home deaths Dallas",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "settlement-approval-and-distribution",
+      "name": "Settlement Approval And Distribution",
+      "nav": "Settlement approval and distribution",
+      "h1": "Settlement Approval and Distribution in Texas in Dallas, TX Shares, Minors and Probate Steps",
+      "accent": "Resolving a Texas death case is not one signature.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "settlement approval and distribution Dallas",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "statute-of-limitations-texas",
+      "name": "Statute Of Limitations Texas",
+      "nav": "Statute of limitations texas",
+      "h1": "Texas Wrongful Death Statute of Limitations in Dallas, TX Two Years, and the Earlier Deadlines",
+      "accent": "The two-year period most people have heard about is only one of the deadlines that can gov",
+      "photo": "assets/work-1.jpg",
+      "keyword": "statute of limitations texas Dallas",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "survival-claims-vs-wrongful-death",
+      "name": "Survival Claims Vs",
+      "nav": "Survival claims vs",
+      "h1": "Survival Claims and Wrongful Death Claims Compared in Dallas, TX Two Texas Actions After One Death",
+      "accent": "One death can produce two Texas causes of action that are easy to blur together and costly",
+      "photo": "assets/work-2.jpg",
+      "keyword": "survival claims vs wrongful death Dallas",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "who-can-file-in-texas",
+      "name": "Who Can File In Texas",
+      "nav": "Who can file in texas",
+      "h1": "Who Can File a Wrongful Death Claim in Texas in Dallas, TX Statutory Beneficiaries and Standing",
+      "accent": "Standing comes before every other question in a Texas death case.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "who can file in texas Dallas",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "workplace-fatality-claims",
+      "name": "Workplace Fatality Claims",
+      "nav": "Workplace fatality claims",
+      "h1": "Workplace Fatality Claim Lawyer in Dallas, TX Coverage Status and Other Companies",
+      "accent": "A death on the job in Texas is routed by one question asked first: did the employer carry ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "workplace fatality claims Dallas",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

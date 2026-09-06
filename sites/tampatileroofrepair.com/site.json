@@ -1,6 +1,6 @@
 {
   "domain": "tampatileroofrepair.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Tampa Tile Roof Repair Pros",
   "service": "Tile Roof Repair",
   "service_inline": "tile roof repair",
@@ -118,6 +118,182 @@
       "accent": "Missing Tiles Replaced to Protect the Roof",
       "keyword": "roof tile replacement",
       "icon": "house"
+    },
+    {
+      "slug": "clay-vs-concrete-tile",
+      "name": "Clay Vs Concrete Tile",
+      "nav": "Clay vs concrete tile",
+      "h1": "Clay vs Concrete Tile in Tampa, FL Two Materials, Two Repair Scopes",
+      "accent": "Clay and concrete tile are held to different material standards, weigh different amounts, ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "clay vs concrete tile Tampa",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "emergency-roof-tarping",
+      "name": "Emergency Roof Tarping",
+      "nav": "Emergency roof tarping",
+      "h1": "Emergency Roof Tarping in Tampa, FL Covering a Tile Roof Without Breaking It",
+      "accent": "There is one fact every Tampa tile homeowner should know before a storm: the federal Opera",
+      "photo": "assets/work-2.jpg",
+      "keyword": "emergency roof tarping Tampa",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hip-and-gable-tile-repair",
+      "name": "Hip And Gable Tile Repair",
+      "nav": "Hip and gable tile repair",
+      "h1": "Hip and Gable Tile Repair in Tampa, FL The Edges That Carry the Most Uplift",
+      "accent": "Hips and gable rakes are the two edges where a tile roof is most heavily loaded and most h",
+      "photo": "assets/work-3.jpg",
+      "keyword": "hip and gable tile repair Tampa",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "ridge-cap-repair",
+      "name": "Ridge Cap Repair",
+      "nav": "Ridge cap repair",
+      "h1": "Ridge Cap Repair in Tampa, FL Ridge and Hip Caps Rebedded Properly",
+      "accent": "Ridge and hip caps are the highest, most wind-loaded tile on the roof and the pieces most ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "ridge cap repair Tampa",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-cleaning-moss-and-algae",
+      "name": "Roof Cleaning Moss And Algae",
+      "nav": "Roof cleaning moss and algae",
+      "h1": "Roof Cleaning, Moss and Algae in Tampa, FL Soft Wash, Never Pressure on Tile",
+      "accent": "The black streaks on Tampa tile are not dirt and not mold.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "roof cleaning moss and algae Tampa",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-deck-and-sheathing-repair",
+      "name": "Roof Deck And Sheathing Repair",
+      "nav": "Roof deck and sheathing repair",
+      "h1": "Roof Deck and Sheathing Repair in Tampa, FL Structural Repairs Under the Membrane",
+      "accent": "The deck is the structural surface everything else is fastened to.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "roof deck and sheathing repair Tampa",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-flashing-repair",
+      "name": "Roof Flashing Repair",
+      "nav": "Roof flashing repair",
+      "h1": "Roof Flashing Repair in Tampa, FL Flashing Relaid in the Right Order",
+      "accent": "Flashing is the metal that carries water across every place the tile field stops: a wall, ",
+      "photo": "assets/work-1.jpg",
+      "keyword": "roof flashing repair Tampa",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-underlayment-replacement",
+      "name": "Roof Underlayment Replacement",
+      "nav": "Roof underlayment replacement",
+      "h1": "Roof Underlayment Replacement in Tampa, FL The Waterproofing Layer Under Your Tile",
+      "accent": "The membrane between your tile and your plywood is the part of the roof that actually keep",
+      "photo": "assets/work-2.jpg",
+      "keyword": "roof underlayment replacement Tampa",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-valley-repair",
+      "name": "Roof Valley Repair",
+      "nav": "Roof valley repair",
+      "h1": "Roof Valley Repair in Tampa, FL Valley Pans Replaced Full Length",
+      "accent": "A valley is the only part of a tile roof where two slopes hand their water to a single lin",
+      "photo": "assets/work-3.jpg",
+      "keyword": "roof valley repair Tampa",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "roof-ventilation",
+      "name": "Roof Ventilation",
+      "nav": "Roof ventilation",
+      "h1": "Roof Ventilation in Tampa, FL Attic Airflow Measured Against Code",
+      "accent": "Attic ventilation on a tile roof is a code-quantified requirement, not a preference.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "roof ventilation Tampa",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "secondary-water-barrier-installation",
+      "name": "Secondary Water Barrier Installation",
+      "nav": "Secondary water barrier installation",
+      "h1": "Secondary Water Barrier Installation in Tampa, FL The Layer Behind the Tile Requirement",
+      "accent": "A secondary water barrier is the layer that keeps a house dry when the covering above it i",
+      "photo": "assets/work-2.jpg",
+      "keyword": "secondary water barrier installation Tampa",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "skylight-leak-repair",
+      "name": "Skylight Leak Repair",
+      "nav": "Skylight leak repair",
+      "h1": "Skylight Leak Repair in Tampa, FL Skylights Flashed, Not Caulked",
+      "accent": "A skylight on a tile roof is a hole through the waterproofing layer with a window sitting ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "skylight leak repair Tampa",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "soffit-and-fascia-repair",
+      "name": "Soffit And Fascia Repair",
+      "nav": "Soffit and fascia repair",
+      "h1": "Soffit and Fascia Repair in Tampa, FL The Opening Storms Push Water Through",
+      "accent": "Soffit and fascia are not roofing trim in a hurricane.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "soffit and fascia repair Tampa",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "storm-damage-tile-repair",
+      "name": "Storm Damage Tile Repair",
+      "nav": "Storm damage tile repair",
+      "h1": "Storm Damage Tile Repair in Tampa, FL Wind Damage Scoped by the Slope",
+      "accent": "Storm damage on a tile roof follows the wind, not the rain.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "storm damage tile repair Tampa",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "tile-re-roof",
+      "name": "Tile Re Roof",
+      "nav": "Tile re roof",
+      "h1": "Tile Re-Roof in Tampa, FL Full Tile Replacement, Code Path Included",
+      "accent": "A tile re-roof strips the covering to the deck, renews the waterproofing layer, and puts t",
+      "photo": "assets/work-3.jpg",
+      "keyword": "tile re roof Tampa",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "tile-roof-inspection",
+      "name": "Inspection",
+      "nav": "Inspection",
+      "h1": "Tile Roof Inspection in Tampa, FL An Inspection That Lifts the Tile",
+      "accent": "An inspection on a Tampa tile roof has one job that matters more than the rest: establishi",
+      "photo": "assets/work-1.jpg",
+      "keyword": "tile roof inspection Tampa",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [

@@ -1,6 +1,6 @@
 {
   "domain": "orlandomovingcompanypros.com",
-  "phase": 2,
+  "phase": 3,
   "brand": "Orlando Moving Services Pros",
   "service": "Moving Services",
   "service_inline": "moving services",
@@ -124,6 +124,182 @@
       "accent": "Belongings Packed for a Safer Move",
       "keyword": "packing services movers",
       "icon": "check"
+    },
+    {
+      "slug": "appliance-moving",
+      "name": "Appliance",
+      "nav": "Appliance",
+      "h1": "Appliance Moving Services in Orlando, FL Lines Off, Compressor Protected",
+      "accent": "Appliances are the pieces most likely to arrive working and then fail a week later.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "appliance moving Orlando",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "commercial-moving",
+      "name": "Commercial",
+      "nav": "Commercial",
+      "h1": "Commercial Moving Services in Orlando, FL Fixtures, Racking and Downtime",
+      "accent": "Retail fixtures, restaurant equipment, warehouse racking and hospitality furniture package",
+      "photo": "assets/work-2.jpg",
+      "keyword": "commercial moving Orlando",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "furniture-moving",
+      "name": "Furniture",
+      "nav": "Furniture",
+      "h1": "Furniture Moving Services in Orlando, FL Wrapped, Banded, Reassembled",
+      "accent": "Furniture is what decides how long an Orlando move runs.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "furniture moving Orlando",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "gun-safe-moving",
+      "name": "Gun Safe",
+      "nav": "Gun safe",
+      "h1": "Gun Safe Moving Services in Orlando, FL Hundreds of Pounds, Controlled",
+      "accent": "A gun safe is dense, top-heavy once the door is on, and unforgiving of a mistake.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "gun safe moving Orlando",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hoisting-and-difficult-access",
+      "name": "Hoisting And Difficult Access",
+      "nav": "Hoisting and difficult access",
+      "h1": "Hoisting and Difficult Access Moving in Orlando, FL When the Route Does Not Fit",
+      "accent": "Sometimes the piece does not fit the route.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "hoisting and difficult access Orlando",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "hot-tub-moving",
+      "name": "Hot Tub",
+      "nav": "Hot tub",
+      "h1": "Hot Tub and Spa Moving in Orlando, FL Drained, Skated, Reconnected",
+      "accent": "A spa is one rigid object weighing several hundred pounds empty and several thousand full,",
+      "photo": "assets/work-3.jpg",
+      "keyword": "hot tub moving Orlando",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "labor-only-moving",
+      "name": "Labor Only",
+      "nav": "Labor only",
+      "h1": "Labor-Only Moving Help in Orlando, FL Crew Hours Without a Truck",
+      "accent": "Sometimes what you need is crew hours inside a building, not a truck.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "labor only moving Orlando",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "last-minute-moving",
+      "name": "Last Minute",
+      "nav": "Last minute",
+      "h1": "Last-Minute Moving Services in Orlando, FL Short Notice, Written Scope",
+      "accent": "Short-notice moves in Orlando come from three places: a lease or closing that shifted, a j",
+      "photo": "assets/work-2.jpg",
+      "keyword": "last minute moving Orlando",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "loading-and-unloading",
+      "name": "Loading And Unloading",
+      "nav": "Loading and unloading",
+      "h1": "Loading and Unloading Help in Orlando, FL Your Truck, Our Load Plan",
+      "accent": "Hiring a crew to load or unload a truck you have rented is a real service with a specific ",
+      "photo": "assets/work-3.jpg",
+      "keyword": "loading and unloading Orlando",
+      "icon": "bolt",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "office-moving",
+      "name": "Office",
+      "nav": "Office",
+      "h1": "Office Moving Services in Orlando, FL Sequenced Around Business Hours",
+      "accent": "An office relocation in Orlando is not a household move in the eyes of Florida law, and th",
+      "photo": "assets/work-1.jpg",
+      "keyword": "office moving Orlando",
+      "icon": "wrench",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "piano-moving",
+      "name": "Piano",
+      "nav": "Piano",
+      "h1": "Piano Moving Services in Orlando, FL Boards, Stairs and Weight",
+      "accent": "A piano is a single object heavy enough to change how a crew is built.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "piano moving Orlando",
+      "icon": "shield",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "pool-table-moving",
+      "name": "Pool Table",
+      "nav": "Pool table",
+      "h1": "Pool Table Moving Services in Orlando, FL Three Slates, Releveled After",
+      "accent": "A pool table cannot be carried as one object.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "pool table moving Orlando",
+      "icon": "gear",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "senior-moving",
+      "name": "Senior",
+      "nav": "Senior",
+      "h1": "Senior Moving Services in Orlando, FL Downsizing Planned Room by Room",
+      "accent": "A senior move in Orlando is usually a downsize, and the hard part is not the truck.",
+      "photo": "assets/work-1.jpg",
+      "keyword": "senior moving Orlando",
+      "icon": "clock",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "single-item-moving",
+      "name": "Single Item",
+      "nav": "Single item",
+      "h1": "Single-Item Moving Services in Orlando, FL One Heavy Piece, Measured First",
+      "accent": "One heavy thing, one address to another.",
+      "photo": "assets/work-2.jpg",
+      "keyword": "single item moving Orlando",
+      "icon": "home",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "storage-and-moving",
+      "name": "Storage And",
+      "nav": "Storage and",
+      "h1": "Moving With Storage in Orlando, FL When the Dates Do Not Meet",
+      "accent": "Storage enters an Orlando move when the two dates do not meet.",
+      "photo": "assets/work-3.jpg",
+      "keyword": "storage and moving Orlando",
+      "icon": "tool",
+      "recovered_from": "live-backup-2026-09-06"
+    },
+    {
+      "slug": "unpacking-services",
+      "name": "Unpacking Services",
+      "nav": "Unpacking services",
+      "h1": "Unpacking Services in Orlando, FL Rooms Usable, Cartons Gone",
+      "accent": "Unpacking is the difference between a house with your belongings in it and a house you can",
+      "photo": "assets/work-1.jpg",
+      "keyword": "unpacking services Orlando",
+      "icon": "check",
+      "recovered_from": "live-backup-2026-09-06"
     }
   ],
   "symptom_service": [
