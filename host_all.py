@@ -20,6 +20,8 @@ api.cloudflare.com call and asset upload needs its own short-lived pass:
 
 import json
 import os
+import random
+import re
 import shutil
 import subprocess
 import sys
@@ -244,25 +246,64 @@ def hook_up():
 
 
 def check():
+    """Verify each site serves its PAGES, not just its home page.
+
+    The old version asked for https://<domain>/ and nothing else. On 6 Sep 2026
+    all 83 domains answered 200 to that check while 24 of the 25 pages on every
+    site were returning 404 -- the home page was the only thing still reachable
+    through the custom domains, and it was the only thing being tested. A check
+    that looks only at the page which cannot break is not a check.
+
+    Now: read each site's own sitemap, then test the home page plus three
+    interior pages drawn from it. An interior 404 fails the run.
+    """
     s = load()
-    codes = {}
+    codes, detail = {}, {}
+
+    def code_of(u):
+        p = subprocess.run(["curl", "-s", "-o", "/dev/null", "-m", "25",
+                            "-w", "%{http_code}", u],
+                           capture_output=True, text=True)
+        return p.stdout.strip() or "000"
+
+    def body_of(u):
+        p = subprocess.run(["curl", "-s", "-m", "25", u],
+                           capture_output=True, text=True)
+        return p.stdout
 
     def one(d):
-        p = subprocess.run(["curl", "-s", "-o", "/dev/null", "-m", "25",
-                            "-w", "%{http_code}", f"https://{d}/"],
-                           capture_output=True, text=True)
-        return d, p.stdout.strip()
+        home = code_of("https://" + d + "/")
+        if home != "200":
+            return d, home, [("https://" + d + "/", home)]
+
+        sm = body_of("https://" + d + "/sitemap.xml")
+        urls = [u for u in re.findall(r"<loc>([^<]+)</loc>", sm)
+                if u.rstrip("/") != "https://" + d]
+        if not urls:
+            return d, "NO-SITEMAP", [("https://" + d + "/sitemap.xml", "empty")]
+
+        picked = urls[:3] if len(urls) <= 3 else random.sample(urls, 3)
+        rows = [("https://" + d + "/", home)]
+        rows += [(u, code_of(u)) for u in picked]
+        bad = next((c for _, c in rows if c != "200"), "200")
+        return d, bad, rows
 
     with ThreadPoolExecutor(max_workers=8) as pool:
-        for d, code in pool.map(one, domains()):
+        for d, code, rows in pool.map(one, domains()):
             codes[d] = code
+            detail[d] = rows
+
     live = [d for d, c in codes.items() if c == "200"]
-    print(f"{len(live)} of {len(codes)} answering 200")
-    for d, c in sorted(codes.items()):
-        if c != "200":
-            print(f"  {d:<44}{c}")
+    print(f"{len(live)} of {len(codes)} serving home AND interior pages")
+    for d in sorted(codes):
+        if codes[d] != "200":
+            print(f"  {d:<44}{codes[d]}")
+            for u, c in detail[d]:
+                if c != "200":
+                    print(f"      {c}  {u}")
     s["codes"] = codes
     s["live_count"] = len(live)
+    s["checked"] = "home+3 interior pages from each sitemap"
     save(s)
     return 0 if len(live) == len(codes) else 1
 
