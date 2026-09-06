@@ -452,3 +452,84 @@ The choices that pay for themselves here are the boring ones. Lighter finishes b
 - Environmentally Sensitive Lands overlay covering 134 square miles north and east of the Central Arizona Project canal: https://www.scottsdaleaz.gov/codes-and-ordinances/eslo
 - Arizona ROC carpentry classifications R-7, C-7, CR-7 and R-61 remodeling for projects of fifty thousand dollars or less: https://roc.az.gov/license-classifications
 - Unlicensed-work threshold of one thousand dollars and the bar on splitting a project: https://www.azleg.gov/ars/32/01121.htm
+
+## svc_garage_door_insulation_lede
+
+A garage that sits above 120 degrees all afternoon pushes that heat into the rooms sharing its wall, and an uninsulated door is usually the largest uninsulated surface on a Scottsdale house.
+
+## svc_garage_door_insulation_body
+
+### The tell is the room next to the garage, not the garage
+
+The complaint that leads here is rarely about the door. It is a bedroom or an office
+on the other side of the garage wall that runs several degrees warmer than the rest
+of the house every afternoon, and a return duct that never quite catches up. Stand
+in the garage at four in the afternoon and put a hand flat on the inside of the door.
+On a bare steel single-layer door in July that surface is hot enough to be
+uncomfortable to hold. That panel faces a slab that has been absorbing sun all day,
+and the two of them keep radiating into the space long after the sun has moved off
+the elevation.
+
+### Why the west and south elevations matter more here
+
+Phoenix recorded 113 straight days at or above 100 degrees in 2024, breaking a 1993
+record of 76, and logged 70 days at or above 110. Nights stopped helping: 39 nights
+that year held lows in the 90s against a long-run average of about seven. A door on
+a west-facing elevation in McCormick Ranch or Scottsdale Ranch takes direct load
+through the worst of that, and the overnight low never pulls enough heat back out of
+the slab to reset it. The same door on a north elevation is a materially different
+problem, which is why the elevation gets checked before anything is quoted.
+
+### The R-value number on the sticker is not the door
+
+This is the single most common way a homeowner overpays. Manufacturers publish
+R-value as a calculated figure taken through the middle of one section, following
+DASMA's technical data sheet TDS-163: the air films, the outside skin, the core, and
+the inside skin added together. That number describes a slice of one panel. It does
+not describe the assembled door, and it says nothing about the gaps at the perimeter,
+the joints between sections, or the frame. DASMA is explicit that a calculated door
+section and a tested installed door are not comparable figures. The installed-assembly
+measurement is a separate standard, ANSI/DASMA 105. A door advertised at a high
+section R-value with a failed perimeter seal will underperform a lower-rated door
+that is sealed correctly.
+
+### What Scottsdale's building stock actually has on it
+
+The median housing unit here dates to 1991, with a heavy second wave through the
+2000s that added roughly a sixth of the stock. Doors from the earlier period are
+commonly single-layer steel or a light polystyrene panel that has had three decades
+of thermal cycling. What fails first is almost never the insulation itself. It is the
+bottom astragal, which goes hard and stops sealing against a slab that is rarely
+perfectly flat, and the vinyl stop molding along the jambs, which chalks and shrinks
+in this UV load until daylight is visible along the edge. A door can hold its rated
+core and still leak like an open window.
+
+### Insulating a door that should be replaced instead
+
+Retrofit kits exist and they work on the right door. They are the wrong answer on a
+door whose sections are already delaminating, on a door where the added weight would
+put the existing springs out of balance, or on a one-piece tilt-up still in service on
+some older Scottsdale properties. Adding several dozen pounds to a door without
+rebalancing the counterbalance is how an opener gets burned out a season later, and
+it is the failure that turns a modest job into a door and an opener. Weight and spring
+rating get checked before a kit is recommended, not after.
+
+### What the visit covers
+
+The door gets measured and identified by construction type, the springs get checked
+against the finished weight, the perimeter seal and bottom astragal are inspected the
+length of the opening, and the elevation and afternoon exposure are noted. That
+produces a straight answer among three: seal the perimeter and leave the door alone,
+add a retrofit kit the counterbalance can carry, or replace the door because the
+sections are done. All three are priced before any work starts, and the reasoning for
+the recommendation is explained rather than asserted.
+
+### The shape of the cost
+
+Perimeter sealing is the least expensive of the three by a wide margin and is
+frequently the whole fix, which is worth knowing before shopping for a door. A
+retrofit kit plus the spring rebalance it requires sits in the middle. Replacement
+with a factory-insulated sectional door is the largest, and the range on it is driven
+by section construction, window options, and whether the opener and track are being
+carried over. Anyone quoting insulation without first weighing the door and looking at
+the seal is quoting a product, not the job.

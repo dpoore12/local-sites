@@ -122,6 +122,16 @@
       "photo": "assets/hero.jpg",
       "keyword": "garage door replacement Scottsdale",
       "icon": "house"
+    },
+    {
+      "slug": "garage-door-insulation",
+      "name": "Door Insulation",
+      "nav": "Door insulation",
+      "h1": "Garage Door Insulation",
+      "accent": "Heat Off the Slab",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door insulation Scottsdale",
+      "icon": "shield"
     }
   ],
   "symptom_service": [
