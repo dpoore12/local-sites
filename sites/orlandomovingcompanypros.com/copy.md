@@ -286,21 +286,35 @@ A local Orlando move is a same-state household move, but it is rarely a simple o
 
 ## svc_local_moving_body
 
-<h2>Florida regulation comes first</h2>
-<p>A move that starts and ends in Florida is intrastate household moving. Florida’s regulator is the Department of Agriculture and Consumer Services, not a typical state transportation department. Chapter 507 requires a mover or moving broker to register with FDACS before operating or advertising. Section 507.03 requires the Florida mover registration wording and number on estimates and contracts, in advertising, and on the driver-side truck door. Compare the name and number on all three, then use FDACS’s Business Search at FloridaConsumerHelp.com or its consumer line to check it. A broker arranges transportation; a mover carries it. The documents should say which role you are buying.</p>
-<h2>What must be written down</h2>
-<p>Section 507.05 requires a registered mover to give the estimate and contract in writing before moving or accessorial work starts. The shipper and mover sign or electronically acknowledge and date them. At minimum, the papers identify the mover’s contact location, preparation and proposed move dates, shipper and pickup/delivery addresses, any holding location, an itemized description and total for loading, transportation, unloading, accessorial service and broker fees, plus accepted payment forms.</p>
-<p>Read the accessorials rather than treating the total as a black box. Stairs, carry distance, elevator time, shuttle use, parking, packing and storage are distinct conditions. Keep the signed estimate with you on move day. Florida also requires written liability-limitation disclosure when the estimate and contract are executed and prohibits a valuation below 60 cents per pound per article.</p>
-<h2>The Orlando route controls the crew plan</h2>
-<p>Furniture volume is only half the local job. Baldwin Park can load from rear alleys; Thornton Park can require controlled street loading; College Park can mean close driveways and mature canopy; Lake Nona can add gate procedures; MetroWest can put the truck at a bay or far from the unit. Give both addresses, floor numbers, stairs, elevator status, truck-to-door distance and oversized pieces before a truck is assigned. A house with a full attic and garage may outgrow a lightly furnished larger house.</p>
-<h2>The turnover calendar is not one single date</h2>
-<p>Orlando has overlapping moves rather than a universal “moving season.” UCF lists room selection from May through July and Summer-to-Fall moves for some housing residents. Its academic, year-round and Rosen housing agreements do not all end together. Disney College Program extensions run in summer, fall and winter, while the region reported 297,700 leisure-and-hospitality jobs in February 2026. Those program and work patterns make late spring through summer worth planning earlier when a lease end or closing cannot move.</p>
-<h2>Plan around heat and afternoon weather</h2>
-<p>National Weather Service east-central Florida discussions regularly describe storms building in the afternoon with lightning, gusts and heavy downpours. Put weather-sensitive pieces and the longest exposed carries early in the day when the building schedule allows; protect doors and floors; and leave room for a safe pause. Do not race a wet load through a lobby or under active lightning. Keep documents, medication, keys and daily necessities in your own vehicle.</p>
-<h2>Arrival, loading and unload</h2>
-<p>The crew confirms the inventory and access conditions, protects the route as needed, wraps furniture, assigns cartons by destination room and secures the load for the drive. At delivery, the access plan repeats in reverse. Check major pieces as they enter and note an issue while the delivery record is open. A local move often finishes in a day, but the written scope and inventory discipline still matter.</p>
-<h2>What moves the price</h2>
-<p>The inventory, crew size, distance, stairs, long carries, elevator reservation, parking or shuttle, packing and special items drive the total. The useful figure is a firm written estimate before loading, with included services and access work identified. If the scope changes, get it recorded before the item goes on the truck.</p>
+### Florida regulation comes first
+
+A move that starts and ends in Florida is intrastate household moving. Florida’s regulator is the Department of Agriculture and Consumer Services, not a typical state transportation department. Chapter 507 requires a mover or moving broker to register with FDACS before operating or advertising. Section 507.03 requires the Florida mover registration wording and number on estimates and contracts, in advertising, and on the driver-side truck door. Compare the name and number on all three, then use FDACS’s Business Search at FloridaConsumerHelp.com or its consumer line to check it. A broker arranges transportation; a mover carries it. The documents should say which role you are buying.
+
+### What must be written down
+
+Section 507.05 requires a registered mover to give the estimate and contract in writing before moving or accessorial work starts. The shipper and mover sign or electronically acknowledge and date them. At minimum, the papers identify the mover’s contact location, preparation and proposed move dates, shipper and pickup/delivery addresses, any holding location, an itemized description and total for loading, transportation, unloading, accessorial service and broker fees, plus accepted payment forms.
+
+Read the accessorials rather than treating the total as a black box. Stairs, carry distance, elevator time, shuttle use, parking, packing and storage are distinct conditions. Keep the signed estimate with you on move day. Florida also requires written liability-limitation disclosure when the estimate and contract are executed and prohibits a valuation below 60 cents per pound per article.
+
+### The Orlando route controls the crew plan
+
+Furniture volume is only half the local job. Baldwin Park can load from rear alleys; Thornton Park can require controlled street loading; College Park can mean close driveways and mature canopy; Lake Nona can add gate procedures; MetroWest can put the truck at a bay or far from the unit. Give both addresses, floor numbers, stairs, elevator status, truck-to-door distance and oversized pieces before a truck is assigned. A house with a full attic and garage may outgrow a lightly furnished larger house.
+
+### The turnover calendar is not one single date
+
+Orlando has overlapping moves rather than a universal “moving season.” UCF lists room selection from May through July and Summer-to-Fall moves for some housing residents. Its academic, year-round and Rosen housing agreements do not all end together. Disney College Program extensions run in summer, fall and winter, while the region reported 297,700 leisure-and-hospitality jobs in February 2026. Those program and work patterns make late spring through summer worth planning earlier when a lease end or closing cannot move.
+
+### Plan around heat and afternoon weather
+
+National Weather Service east-central Florida discussions regularly describe storms building in the afternoon with lightning, gusts and heavy downpours. Put weather-sensitive pieces and the longest exposed carries early in the day when the building schedule allows; protect doors and floors; and leave room for a safe pause. Do not race a wet load through a lobby or under active lightning. Keep documents, medication, keys and daily necessities in your own vehicle.
+
+### Arrival, loading and unload
+
+The crew confirms the inventory and access conditions, protects the route as needed, wraps furniture, assigns cartons by destination room and secures the load for the drive. At delivery, the access plan repeats in reverse. Check major pieces as they enter and note an issue while the delivery record is open. A local move often finishes in a day, but the written scope and inventory discipline still matter.
+
+### What moves the price
+
+The inventory, crew size, distance, stairs, long carries, elevator reservation, parking or shuttle, packing and special items drive the total. The useful figure is a firm written estimate before loading, with included services and access work identified. If the scope changes, get it recorded before the item goes on the truck.
 
 ## svc_long_distance_moving_lede
 
@@ -308,23 +322,39 @@ Leaving Orlando for another state, or arriving here from one, changes the regula
 
 ## svc_long_distance_moving_body
 
-<h2>A state line creates a federal household-goods move</h2>
-<p>FMCSA rules apply when household goods travel from one state to another or internationally. That is different from a Florida-only move governed by Chapter 507. An Orlando-to-Georgia shipment needs federal mover or broker verification; an Orlando-to-Tampa shipment needs the FDACS check. Do not treat a Florida registration as proof of interstate authority, or a USDOT number as a replacement for Florida registration on a move wholly inside the state.</p>
-<p>FMCSA distinguishes a mover, which transports the shipment, from a broker, which arranges transportation. Either role should be explicit. Before committing, know who issues the bill of lading, carries the shipment, holds it if delayed, and receives a damage claim.</p>
-<h2>Verify the USDOT record, not just a logo</h2>
-<p>Interstate movers must have a U.S. DOT number. FMCSA’s Search for a Registered Mover tool and the agency’s SAFER system let the public check the record. Search the exact number on the estimate, then compare the legal or doing-business-as name with the paperwork. A missing number, an unrelated identity, or a company that will not say whether it is a broker is a reason to stop. Save the result with the estimate.</p>
-<h2>The federal booklet has to be provided</h2>
-<p>Before the move, FMCSA says the mover or broker must give a written estimate, Ready to Move brochure or link, arbitration-program information, tariff-access notice, claims-process information and the “Your Rights and Responsibilities When You Move” booklet or link. FMCSA also requires an estimate for every shipment. It is based on an on-site or virtual physical survey unless the shipper waives the survey in writing; a verbal price is not an official estimate.</p>
-<p>The written estimate is dated and signed and includes transportation, accessorial and advanced charges. It must state the two valuation options. Preserve every page and do not accept an unexplained change after the truck is loaded.</p>
-<h2>Binding and nonbinding are different promises</h2>
-<p>A binding estimate means the shipper cannot be required to pay more at delivery for the quantities and services included. If the scope changes before loading, the parties can keep it, sign a new binding estimate, or convert it in writing. A nonbinding estimate is an approximation, not a delivery ceiling. Long-distance delivery can be a range because a shipment may travel with other households or through a terminal; a lease end, closing or school start needs to fit the documented service, not a hopeful date.</p>
-<h2>Full Value Protection versus Released Value</h2>
-<p>These are federal valuation options, not ordinary insurance. Full Value Protection makes the mover responsible for replacement value of lost or damaged goods, subject to the written plan, possible deductible and extraordinary-value limits. It is the broader and more expensive option. Ask for the plan in writing and declare high-value articles where required.</p>
-<p>Released Value has no additional charge but pays no more than 60 cents per pound per article, based on weight rather than replacement cost. A 25-pound television has a maximum released-value recovery of $15. Selecting it requires a specific signature on the bill of lading or contract; without that selection, the federal shipment moves under Full Value Protection. Florida intrastate moves have their own Chapter 507 minimum and disclosure rule, so read the terms for the actual route.</p>
-<h2>Guard against the low-quote hostage-load tactic</h2>
-<p>FDACS describes the pattern: a firm wins the job with a low quote, loads the goods, then substantially raises the charge. Keep the signed estimate, contract, inventory and every amendment with you. For an intrastate Florida move, section 507.07 forbids withholding goods after payment as stated in the estimate or contract. Under section 507.11, law enforcement can order release if the documented amount is tendered or the mover cannot produce the signed binding paperwork supporting its demand. Notify FDACS in writing and file a Division of Consumer Services complaint if the dispute remains; preserve photos, receipts and truck information.</p>
-<h2>Orlando timing and charge drivers</h2>
-<p>UCF’s May-to-July selection cycle and program extensions running summer, fall and winter intersect with Orlando’s leisure-and-hospitality workforce, so fixed dates deserve advance planning. Hurricane season is June 1 through November 30, with normal activity peaking around September 10; leave slack in a summer or autumn delivery range. Shipment rating, distance, delivery commitment, access, packing, storage and special handling drive the figure. Get every one of them and the valuation choice in writing before loading.</p>
+### A state line creates a federal household-goods move
+
+FMCSA rules apply when household goods travel from one state to another or internationally. That is different from a Florida-only move governed by Chapter 507. An Orlando-to-Georgia shipment needs federal mover or broker verification; an Orlando-to-Tampa shipment needs the FDACS check. Do not treat a Florida registration as proof of interstate authority, or a USDOT number as a replacement for Florida registration on a move wholly inside the state.
+
+FMCSA distinguishes a mover, which transports the shipment, from a broker, which arranges transportation. Either role should be explicit. Before committing, know who issues the bill of lading, carries the shipment, holds it if delayed, and receives a damage claim.
+
+### Verify the USDOT record, not just a logo
+
+Interstate movers must have a U.S. DOT number. FMCSA’s Search for a Registered Mover tool and the agency’s SAFER system let the public check the record. Search the exact number on the estimate, then compare the legal or doing-business-as name with the paperwork. A missing number, an unrelated identity, or a company that will not say whether it is a broker is a reason to stop. Save the result with the estimate.
+
+### The federal booklet has to be provided
+
+Before the move, FMCSA says the mover or broker must give a written estimate, Ready to Move brochure or link, arbitration-program information, tariff-access notice, claims-process information and the “Your Rights and Responsibilities When You Move” booklet or link. FMCSA also requires an estimate for every shipment. It is based on an on-site or virtual physical survey unless the shipper waives the survey in writing; a verbal price is not an official estimate.
+
+The written estimate is dated and signed and includes transportation, accessorial and advanced charges. It must state the two valuation options. Preserve every page and do not accept an unexplained change after the truck is loaded.
+
+### Binding and nonbinding are different promises
+
+A binding estimate means the shipper cannot be required to pay more at delivery for the quantities and services included. If the scope changes before loading, the parties can keep it, sign a new binding estimate, or convert it in writing. A nonbinding estimate is an approximation, not a delivery ceiling. Long-distance delivery can be a range because a shipment may travel with other households or through a terminal; a lease end, closing or school start needs to fit the documented service, not a hopeful date.
+
+### Full Value Protection versus Released Value
+
+These are federal valuation options, not ordinary insurance. Full Value Protection makes the mover responsible for replacement value of lost or damaged goods, subject to the written plan, possible deductible and extraordinary-value limits. It is the broader and more expensive option. Ask for the plan in writing and declare high-value articles where required.
+
+Released Value has no additional charge but pays no more than 60 cents per pound per article, based on weight rather than replacement cost. A 25-pound television has a maximum released-value recovery of $15. Selecting it requires a specific signature on the bill of lading or contract; without that selection, the federal shipment moves under Full Value Protection. Florida intrastate moves have their own Chapter 507 minimum and disclosure rule, so read the terms for the actual route.
+
+### Guard against the low-quote hostage-load tactic
+
+FDACS describes the pattern: a firm wins the job with a low quote, loads the goods, then substantially raises the charge. Keep the signed estimate, contract, inventory and every amendment with you. For an intrastate Florida move, section 507.07 forbids withholding goods after payment as stated in the estimate or contract. Under section 507.11, law enforcement can order release if the documented amount is tendered or the mover cannot produce the signed binding paperwork supporting its demand. Notify FDACS in writing and file a Division of Consumer Services complaint if the dispute remains; preserve photos, receipts and truck information.
+
+### Orlando timing and charge drivers
+
+UCF’s May-to-July selection cycle and program extensions running summer, fall and winter intersect with Orlando’s leisure-and-hospitality workforce, so fixed dates deserve advance planning. Hurricane season is June 1 through November 30, with normal activity peaking around September 10; leave slack in a summer or autumn delivery range. Shipment rating, distance, delivery commitment, access, packing, storage and special handling drive the figure. Get every one of them and the valuation choice in writing before loading.
 
 ## svc_apartment_moving_lede
 
@@ -332,26 +362,45 @@ Apartment moving in Orlando is a building-coordination job as much as a carrying
 
 ## svc_apartment_moving_body
 
-<h2>Start with the property’s move packet</h2>
-<p>Apartment moving is building coordination as much as carrying. Orange County’s rental and multifamily mix makes property rules a routine part of an Orlando job. Request the current move-in or move-out packet from management, the condominium association or the HOA before choosing a truck date. It can determine parking, loading access, service-elevator reservation, common-area protection, permitted hours, gate procedure and the contact who admits the crew.</p>
-<p>A certificate of insurance is a common managed-property request, but the exact language and deadline belong to that property. Send the instructions before scheduling. Do not assume a neighbor’s policy or an old lease will satisfy the current manager. The same is true of gated communities: resident access does not necessarily allow a moving truck through a service entrance.</p>
-<h2>The address changes the physical work</h2>
-<p>A third-floor walk-up and a downtown high-rise can contain the same furniture but consume time differently. Stairs mean repeated lifts and landings; a tower can mean a dock, hallway protection and one service elevator. At MetroWest, truck-to-door distance can exceed the value suggested by room count. Lake Nona can make visitor clearance the first task. Thornton Park may require a deliberate street-loading plan; Baldwin Park may be practical from a rear alley; College Park can have close driveways and canopy to account for.</p>
-<p>Give photos and facts for the approach, parking point, stairs, elevator and largest pieces. That lets the estimate reflect the route the crew can actually use rather than the entrance visible on a map.</p>
-<h2>Reserve the elevator as a timed appointment</h2>
-<p>If a service elevator is required, reserve it in writing and confirm the start and end time, loading-dock instructions, key or contact process, exclusivity and protection rules. Ask about vehicle clearance and turning space before promising a full-size truck. Some properties need a smaller shuttle or a different staging plan. A loose “morning move” may be useless if management has assigned a fixed two-hour window.</p>
-<p>If the manager says work cannot start until the insurance certificate is accepted, build that approval into the calendar. An elevator reservation, gate and dock do not become flexible because a truck has arrived.</p>
-<h2>Make an access sheet for both units</h2>
-<p>List each address, unit and floor; stairs; elevator appointment; legal parking; truck-to-door walk; loading directions; gate/call-box process; property contact; certificate deadline; permitted hours; and any move fee or deposit collected by the property. Make one sheet for origin and one for destination. This prevents a familiar but expensive error: planning only the building you are leaving.</p>
-<p>The sheet also tells the crew whether carts, hallway protection or a shuttle are needed. The written estimate can then identify the actual labor conditions rather than adding them at the dock.</p>
-<h2>Pack for shared routes</h2>
-<p>Close and label cartons on at least two sides with the destination room. Use small controlled boxes for books and dense kitchen items; larger cartons should hold light contents. Keep an essentials bag with you. Mattresses, upholstered furniture, televisions, art and glass need protection before they enter hallways or elevators. Where permitted, record existing marks in shared areas and photograph your own fragile items before loading.</p>
-<p>Tell the crew about wall-mounted televisions, glass tabletops, pianos, safes and other special items in advance. The access route can determine whether a piece must be disassembled or protected differently.</p>
-<h2>Summer weather changes sequence, not rules</h2>
-<p>East-central Florida forecasts commonly call for afternoon sea-breeze storms with lightning, wind and heavy rain. A morning elevator slot is useful when the building permits it: load exposed or weather-sensitive pieces early, protect the path and pause when conditions are unsafe. A storm does not extend a reserved elevator window or remove an HOA parking limit, so keep the property contact and a rain plan available.</p>
-<h2>How the day and price are structured</h2>
-<p>Arrival begins with approved parking and route confirmation. The crew walks the unit, protects high-contact areas, wraps furniture and moves in elevator or stair sequence. Delivery reverses the process and uses room labels to keep corridors open. Time includes gate waits, elevator cycles, dock access and carries—not only lifting.</p>
-<p>Inventory, stairs, elevator use, carry distance, packing, parking or shuttle, scheduling limits and special pieces shape the charge. Property fees and deposits are the building’s issue; moving labor and transportation should be separate and clear in the firm written estimate before work begins.</p>
+### Start with the property’s move packet
+
+Apartment moving is building coordination as much as carrying. Orange County’s rental and multifamily mix makes property rules a routine part of an Orlando job. Request the current move-in or move-out packet from management, the condominium association or the HOA before choosing a truck date. It can determine parking, loading access, service-elevator reservation, common-area protection, permitted hours, gate procedure and the contact who admits the crew.
+
+A certificate of insurance is a common managed-property request, but the exact language and deadline belong to that property. Send the instructions before scheduling. Do not assume a neighbor’s policy or an old lease will satisfy the current manager. The same is true of gated communities: resident access does not necessarily allow a moving truck through a service entrance.
+
+### The address changes the physical work
+
+A third-floor walk-up and a downtown high-rise can contain the same furniture but consume time differently. Stairs mean repeated lifts and landings; a tower can mean a dock, hallway protection and one service elevator. At MetroWest, truck-to-door distance can exceed the value suggested by room count. Lake Nona can make visitor clearance the first task. Thornton Park may require a deliberate street-loading plan; Baldwin Park may be practical from a rear alley; College Park can have close driveways and canopy to account for.
+
+Give photos and facts for the approach, parking point, stairs, elevator and largest pieces. That lets the estimate reflect the route the crew can actually use rather than the entrance visible on a map.
+
+### Reserve the elevator as a timed appointment
+
+If a service elevator is required, reserve it in writing and confirm the start and end time, loading-dock instructions, key or contact process, exclusivity and protection rules. Ask about vehicle clearance and turning space before promising a full-size truck. Some properties need a smaller shuttle or a different staging plan. A loose “morning move” may be useless if management has assigned a fixed two-hour window.
+
+If the manager says work cannot start until the insurance certificate is accepted, build that approval into the calendar. An elevator reservation, gate and dock do not become flexible because a truck has arrived.
+
+### Make an access sheet for both units
+
+List each address, unit and floor; stairs; elevator appointment; legal parking; truck-to-door walk; loading directions; gate/call-box process; property contact; certificate deadline; permitted hours; and any move fee or deposit collected by the property. Make one sheet for origin and one for destination. This prevents a familiar but expensive error: planning only the building you are leaving.
+
+The sheet also tells the crew whether carts, hallway protection or a shuttle are needed. The written estimate can then identify the actual labor conditions rather than adding them at the dock.
+
+### Pack for shared routes
+
+Close and label cartons on at least two sides with the destination room. Use small controlled boxes for books and dense kitchen items; larger cartons should hold light contents. Keep an essentials bag with you. Mattresses, upholstered furniture, televisions, art and glass need protection before they enter hallways or elevators. Where permitted, record existing marks in shared areas and photograph your own fragile items before loading.
+
+Tell the crew about wall-mounted televisions, glass tabletops, pianos, safes and other special items in advance. The access route can determine whether a piece must be disassembled or protected differently.
+
+### Summer weather changes sequence, not rules
+
+East-central Florida forecasts commonly call for afternoon sea-breeze storms with lightning, wind and heavy rain. A morning elevator slot is useful when the building permits it: load exposed or weather-sensitive pieces early, protect the path and pause when conditions are unsafe. A storm does not extend a reserved elevator window or remove an HOA parking limit, so keep the property contact and a rain plan available.
+
+### How the day and price are structured
+
+Arrival begins with approved parking and route confirmation. The crew walks the unit, protects high-contact areas, wraps furniture and moves in elevator or stair sequence. Delivery reverses the process and uses room labels to keep corridors open. Time includes gate waits, elevator cycles, dock access and carries—not only lifting.
+
+Inventory, stairs, elevator use, carry distance, packing, parking or shuttle, scheduling limits and special pieces shape the charge. Property fees and deposits are the building’s issue; moving labor and transportation should be separate and clear in the firm written estimate before work begins.
 
 ## svc_packing_services_lede
 
@@ -359,26 +408,45 @@ Packing is the part of a move that prevents small errors from becoming a damaged
 
 ## svc_packing_services_body
 
-<h2>Choose a scope that solves the real problem</h2>
-<p>Packing may cover the whole residence, only difficult rooms, or fragile items. Full packing is preparation before load day. Partial packing can focus on the kitchen, garage, closets, art or collections while the household handles linens and books. Fragile-only packing concentrates on dishes, glass, mirrors, lamps and televisions. The scope should be in the written estimate, including materials and whether packing occurs before the truck arrives.</p>
-<p>Choose based on the move deadline and decisions each room requires. A household with a fixed elevator window may need the kitchen finished in advance but can use wardrobe cartons on load day. A long-distance shipment benefits from strong labels and a clear inventory. A local move might need only the garage handled because the rest is already boxed.</p>
-<h2>Inspect Florida garage cartons before trusting them</h2>
-<p>Heat and humidity weaken cardboard that has lived in a garage or storage closet. Check bottom seams, tape and any carton that feels soft or smells musty. A box that held holiday decorations may fail on a dolly, through rain or beneath a stack in the truck. Repack weak cartons, especially those holding books, tools, framed items and dense kitchen gear.</p>
-<p>Inventory the garage rather than letting it surprise the truck. Patio furniture, bicycles, hurricane panels, bins, equipment and stored material all add volume. Identify what is moving and what is staying, and pull prohibited material out before anyone begins packing.</p>
-<h2>Keep hazardous and essential items out of the shipment</h2>
-<p>Propane cylinders, gasoline, fuel cans, fireworks, pool chemicals, paint, solvents, aerosols and other hazardous materials do not belong with household goods. Check the mover’s prohibited-items list and the product label; dispose of or handle items according to local and manufacturer guidance rather than improvising. Orlando garages commonly collect grills, lawn equipment, pool supplies and storm materials, which is why this needs attention early.</p>
-<p>Keep medication, passports, keys, financial records, small high-value items, personal electronics, irreplaceable photographs and immediate necessities with you.</p>
-<h2>Pack a kitchen with control, not maximum weight</h2>
-<p>Use cushioning and stable cartons. Plates travel better on edge than in a tall flat stack; wrap glass individually, use dividers where suitable and fill gaps so contents cannot shift. Mark fragile boxes clearly and keep them manageable for the person carrying them. Sort expired pantry items and duplicates before paying to move them.</p>
-<p>A first-night kitchen box should be obvious at delivery: basic dishes, a pan, a few utensils, drinks and pet supplies if relevant. It should not become one indistinguishable box in a wall of cartons.</p>
-<h2>Wardrobes and special pieces need their own plan</h2>
-<p>Wardrobe cartons let hanging clothes travel on a bar, but should not be weighted down with books or shoes. Put dense items in small cartons or luggage. Ask about dresser drawers based on the actual furniture and route; light stable drawers may travel differently from heavy or fragile contents. Take jewelry and documents yourself.</p>
-<p>Tell the mover about framed art, mirrors, glass tabletops, lamps and televisions before the estimate is signed. A wall-mounted television creates its own questions about removal, hardware and the destination wall. For interstate moves, FMCSA notes that self-packed boxes can make a damage claim harder to establish, so label, photograph and inventory delicate items rather than treating packing as invisible work.</p>
-<h2>Work around the Orlando calendar and weather</h2>
-<p>UCF room selection runs May through July, with some Summer-to-Fall moves; Disney program extensions run summer, fall and winter. These overlap with a large leisure-and-hospitality employment base, so packing decisions should happen before a fixed lease end or building reservation becomes urgent. Atlantic hurricane season runs June 1 through November 30, with the normal high point near September 10. Keep storm supplies and critical documents in the personal-items plan.</p>
-<p>In summer, box and load weather-sensitive items early when possible. Orlando’s afternoon thunderstorm pattern calls for protected paths and a safe pause.</p>
-<h2>Handoff to load day</h2>
-<p>Finish with room labels, an inventory and open walking paths. Group cartons by destination room, mark fragile and priority items, and do not block the elevator or exit. Confirm building paperwork, dock time or gate arrangements before packing day becomes load day. The crew verifies the agreed inventory, protects routes, secures the shipment and uses labels to make delivery orderly. Before any work begins, get the firm written figure and confirm the rooms, materials and special handling it covers.</p>
+### Choose a scope that solves the real problem
+
+Packing may cover the whole residence, only difficult rooms, or fragile items. Full packing is preparation before load day. Partial packing can focus on the kitchen, garage, closets, art or collections while the household handles linens and books. Fragile-only packing concentrates on dishes, glass, mirrors, lamps and televisions. The scope should be in the written estimate, including materials and whether packing occurs before the truck arrives.
+
+Choose based on the move deadline and decisions each room requires. A household with a fixed elevator window may need the kitchen finished in advance but can use wardrobe cartons on load day. A long-distance shipment benefits from strong labels and a clear inventory. A local move might need only the garage handled because the rest is already boxed.
+
+### Inspect Florida garage cartons before trusting them
+
+Heat and humidity weaken cardboard that has lived in a garage or storage closet. Check bottom seams, tape and any carton that feels soft or smells musty. A box that held holiday decorations may fail on a dolly, through rain or beneath a stack in the truck. Repack weak cartons, especially those holding books, tools, framed items and dense kitchen gear.
+
+Inventory the garage rather than letting it surprise the truck. Patio furniture, bicycles, hurricane panels, bins, equipment and stored material all add volume. Identify what is moving and what is staying, and pull prohibited material out before anyone begins packing.
+
+### Keep hazardous and essential items out of the shipment
+
+Propane cylinders, gasoline, fuel cans, fireworks, pool chemicals, paint, solvents, aerosols and other hazardous materials do not belong with household goods. Check the mover’s prohibited-items list and the product label; dispose of or handle items according to local and manufacturer guidance rather than improvising. Orlando garages commonly collect grills, lawn equipment, pool supplies and storm materials, which is why this needs attention early.
+
+Keep medication, passports, keys, financial records, small high-value items, personal electronics, irreplaceable photographs and immediate necessities with you.
+
+### Pack a kitchen with control, not maximum weight
+
+Use cushioning and stable cartons. Plates travel better on edge than in a tall flat stack; wrap glass individually, use dividers where suitable and fill gaps so contents cannot shift. Mark fragile boxes clearly and keep them manageable for the person carrying them. Sort expired pantry items and duplicates before paying to move them.
+
+A first-night kitchen box should be obvious at delivery: basic dishes, a pan, a few utensils, drinks and pet supplies if relevant. It should not become one indistinguishable box in a wall of cartons.
+
+### Wardrobes and special pieces need their own plan
+
+Wardrobe cartons let hanging clothes travel on a bar, but should not be weighted down with books or shoes. Put dense items in small cartons or luggage. Ask about dresser drawers based on the actual furniture and route; light stable drawers may travel differently from heavy or fragile contents. Take jewelry and documents yourself.
+
+Tell the mover about framed art, mirrors, glass tabletops, lamps and televisions before the estimate is signed. A wall-mounted television creates its own questions about removal, hardware and the destination wall. For interstate moves, FMCSA notes that self-packed boxes can make a damage claim harder to establish, so label, photograph and inventory delicate items rather than treating packing as invisible work.
+
+### Work around the Orlando calendar and weather
+
+UCF room selection runs May through July, with some Summer-to-Fall moves; Disney program extensions run summer, fall and winter. These overlap with a large leisure-and-hospitality employment base, so packing decisions should happen before a fixed lease end or building reservation becomes urgent. Atlantic hurricane season runs June 1 through November 30, with the normal high point near September 10. Keep storm supplies and critical documents in the personal-items plan.
+
+In summer, box and load weather-sensitive items early when possible. Orlando’s afternoon thunderstorm pattern calls for protected paths and a safe pause.
+
+### Handoff to load day
+
+Finish with room labels, an inventory and open walking paths. Group cartons by destination room, mark fragile and priority items, and do not block the elevator or exit. Confirm building paperwork, dock time or gate arrangements before packing day becomes load day. The crew verifies the agreed inventory, protects routes, secures the shipment and uses labels to make delivery orderly. Before any work begins, get the firm written figure and confirm the rooms, materials and special handling it covers.
 
 ## pricing_lede
 
@@ -424,18 +492,29 @@ Appliances are the pieces most likely to arrive working and then fail a week lat
 
 ## svc_appliance_moving_body
 
-<h2>Refrigerators: the refrigerant type sets the waiting period</h2>
-<p>Whirlpool's own moving guidance says a refrigerator can be transported upright or lying down, but the settling time before it is plugged in depends on what is inside it. A unit charged with R-134A needs to stand upright at least 15 minutes before power is connected. An older unit containing R-12 needs 24 hours upright. The refrigerant type is printed on the model and serial number tab, so it is read, not guessed, and failing to observe it can damage the compressor. The same guidance says to pull the cabinet straight out rather than walking or wiggling it, and to lay cardboard or hardboard down first to protect the floor.</p>
-<h2>Washers and dryers: bolts, hoses and the gas line</h2>
-<p>A front-load washer moves with its transit bolts reinstalled or with equivalent drum blocking, because the suspension that isolates a spinning drum is not designed to restrain it against road shock. Supply hoses come off at the valve and drain into a bucket, the drain hose is tied up, and both ends of every hose are bagged. A gas dryer connection is disconnected and capped by whoever is licensed to do it, and the flexible connector is replaced rather than reused at the destination. Vent transitions do not travel attached to the appliance; they get cut loose and remade at the new address.</p>
-<h2>Orlando's specific problem: the appliance that is not coming with you</h2>
-<p>The City of Orlando picks up two large items free at the curb on your yard-waste day with no scheduling call, and the list explicitly covers standard household refrigerators, dishwashers, clothes washers and dryers along with furniture that two people can load by hand. Anything too heavy for a hand load needs a claw truck at a cost that varies with the type and amount. The rule that catches households: all doors must be removed from refrigerators and freezers before they go to the curb, so children cannot become trapped inside. Items go at the edge of the property before the curb, clear of the sidewalk, mailbox, hydrant, storm drain and overhead utilities.</p>
-<h2>Power and water at the destination, before the truck arrives</h2>
-<p>An appliance delivered into a house with no electricity is an appliance nobody can commission. On the OUC system a start-service request at an address with no active service may be completed the same day if it is submitted before 4:00 p.m. on a weekday, and after 4:00 p.m. it becomes the next business day. There is a $25 connection charge on the first bill and a deposit may be required. The Move Service form is the one to use inside the OUC territory because it allows service to overlap at the old and new addresses, which is what lets a refrigerator stay cold at one end while another is being commissioned at the other.</p>
-<h2>Florida calls this accessorial work and names it</h2>
-<p>Section 507.01 of the Florida Statutes lists "boxing or servicing of appliances" among accessorial services, alongside disassembly or reassembly, long carry, elevator or stair carrying and waiting time. That means appliance handling is a priced, itemizable service in a Florida intrastate move rather than something folded invisibly into an hourly rate. Ask for it as its own line, and ask specifically which end of the job includes reconnection, because disconnecting at the origin and reconnecting at the destination are two separate tasks and only one of them may be in the figure you were quoted.</p>
-<h2>Second-floor laundry and the Orlando stair</h2>
-<p>A quarter of Orange County's 495,966 housing units were built between 2000 and 2009, and that era puts the laundry pair upstairs in a closet off the hallway. Getting a 250-pound front-load washer up a switchback flight is a stair-carry job with a measured landing, and the closet door casing is usually the tightest dimension in the whole route. Measure the casing, the closet depth and the landing before the date, and load appliances early in the day: Orlando's mean July maximum of 92.2 degrees makes an afternoon appliance carry the worst-scheduled hour of the move.</p>
+### Refrigerators: the refrigerant type sets the waiting period
+
+Whirlpool's own moving guidance says a refrigerator can be transported upright or lying down, but the settling time before it is plugged in depends on what is inside it. A unit charged with R-134A needs to stand upright at least 15 minutes before power is connected. An older unit containing R-12 needs 24 hours upright. The refrigerant type is printed on the model and serial number tab, so it is read, not guessed, and failing to observe it can damage the compressor. The same guidance says to pull the cabinet straight out rather than walking or wiggling it, and to lay cardboard or hardboard down first to protect the floor.
+
+### Washers and dryers: bolts, hoses and the gas line
+
+A front-load washer moves with its transit bolts reinstalled or with equivalent drum blocking, because the suspension that isolates a spinning drum is not designed to restrain it against road shock. Supply hoses come off at the valve and drain into a bucket, the drain hose is tied up, and both ends of every hose are bagged. A gas dryer connection is disconnected and capped by whoever is licensed to do it, and the flexible connector is replaced rather than reused at the destination. Vent transitions do not travel attached to the appliance; they get cut loose and remade at the new address.
+
+### Orlando's specific problem: the appliance that is not coming with you
+
+The City of Orlando picks up two large items free at the curb on your yard-waste day with no scheduling call, and the list explicitly covers standard household refrigerators, dishwashers, clothes washers and dryers along with furniture that two people can load by hand. Anything too heavy for a hand load needs a claw truck at a cost that varies with the type and amount. The rule that catches households: all doors must be removed from refrigerators and freezers before they go to the curb, so children cannot become trapped inside. Items go at the edge of the property before the curb, clear of the sidewalk, mailbox, hydrant, storm drain and overhead utilities.
+
+### Power and water at the destination, before the truck arrives
+
+An appliance delivered into a house with no electricity is an appliance nobody can commission. On the OUC system a start-service request at an address with no active service may be completed the same day if it is submitted before 4:00 p.m. on a weekday, and after 4:00 p.m. it becomes the next business day. There is a $25 connection charge on the first bill and a deposit may be required. The Move Service form is the one to use inside the OUC territory because it allows service to overlap at the old and new addresses, which is what lets a refrigerator stay cold at one end while another is being commissioned at the other.
+
+### Florida calls this accessorial work and names it
+
+Section 507.01 of the Florida Statutes lists "boxing or servicing of appliances" among accessorial services, alongside disassembly or reassembly, long carry, elevator or stair carrying and waiting time. That means appliance handling is a priced, itemizable service in a Florida intrastate move rather than something folded invisibly into an hourly rate. Ask for it as its own line, and ask specifically which end of the job includes reconnection, because disconnecting at the origin and reconnecting at the destination are two separate tasks and only one of them may be in the figure you were quoted.
+
+### Second-floor laundry and the Orlando stair
+
+A quarter of Orange County's 495,966 housing units were built between 2000 and 2009, and that era puts the laundry pair upstairs in a closet off the hallway. Getting a 250-pound front-load washer up a switchback flight is a stair-carry job with a measured landing, and the closet door casing is usually the tightest dimension in the whole route. Measure the casing, the closet depth and the landing before the date, and load appliances early in the day: Orlando's mean July maximum of 92.2 degrees makes an afternoon appliance carry the worst-scheduled hour of the move.
 
 ## svc_commercial_moving_lede
 
@@ -443,18 +522,29 @@ Retail fixtures, restaurant equipment, warehouse racking and hospitality furnitu
 
 ## svc_commercial_moving_body
 
-<h2>Commercial freight sits outside Chapter 507</h2>
-<p>Section 507.01 of the Florida Statutes defines household goods as personal property commonly found in a home and then excludes freight or personal property moving to or from a factory, store, or other place of business. Everything in Chapter 507 that protects a family — the registration requirement, the written estimate rules, the prohibition on holding goods after payment — is built on that definition. A retail fit-out or a kitchen relocation is not covered by it. The consequence is practical rather than abstract: the document you sign is the whole of your protection, so the inventory, the valuation, the liability cap, the schedule and the remedy for a missed window all have to be written into it.</p>
-<h2>Downtime is the number that matters</h2>
-<p>For a business the moving cost is rarely the largest cost of moving. The larger one is the hours the doors are shut or the kitchen is cold, which is why commercial work here is usually sequenced overnight, across a Sunday, or in phases where one half of the operation runs while the other half relocates. That sequencing has to be designed before a date is picked. Which fixtures can leave while the business still trades, what has to be in place before an inspection, what the landlord requires restored at the old space, and what has to be operating on the first morning at the new one are four separate lists, and each one drives a different trip.</p>
-<h2>Equipment, not just crew</h2>
-<p>Commercial loads move on pallet jacks, four-wheel platform trucks, panel carts and lift gates rather than on hand trucks and blankets. Racking comes down in sections with the beam and upright hardware bagged and labeled by bay. Display cases and glass fixtures get crated. Restaurant equipment is disconnected by whoever holds the relevant license for gas, water and electrical work, and the flexible connectors are replaced rather than reused. Heavy items over a finished floor travel on track plates. Ask what equipment the crew is bringing, because a commercial job attempted with residential gear is a commercial job that runs into a second day.</p>
-<h2>Downtown buildings run on a 30-minute freight zone</h2>
-<p>The City of Orlando issues a Freight Loading and Unloading Permit to businesses loading or unloading downtown with a vehicle of 5,000 pounds gross weight or a width over 80 inches. Freight zones are marked by a sign and an orange-painted curb, occupancy is capped at 30 minutes, a vehicle may not return within 30 minutes of leaving, the permit must be visible on the rear of the vehicle and the operator must be actively loading. Permits run through September 30 annually on a prorated fee schedule. That cap is why staged carting inside the building matters more downtown than anywhere else: curb time is for lifting, not for assembling loads.</p>
-<h2>Orlando's hospitality base generates its own kind of load</h2>
-<p>Visit Orlando reported 75,333,800 visitors in 2024, an increase of 1.8 percent, with 5,616,000 of them arriving for group meetings. Behind that sits an unusually large local inventory of hotel and event furniture, commercial kitchen equipment and attractions-adjacent retail fixtures, all of which cycles. Refurbishment relocations, seasonal storage of banquet furniture and equipment moves between properties are ordinary commercial work in this market, and they run on hard dates set by an event calendar. A booking tied to a conference load-in has no flexibility at all, so confirm dock access, elevator or freight lift capacity and permitted hours in writing well ahead.</p>
-<h2>Zoning approval belongs before the lease</h2>
-<p>The city requires a Certificate of Use, which is a zoning permit confirming the business is allowed to operate in the district, in conjunction with a Business Tax Receipt, and the two are separate cases paid as separate transactions. A change of location requires a completed business tax application, the original receipt, proof of the business name from Sunbiz.org and a copy of the state license showing the address, with a transfer fee of 10 percent of the receipt fee, no less than $3 and no more than $25, and five business days for the status to update. Confirm the use is permitted at the new address before signing anything that commits you to a moving date.</p>
+### Commercial freight sits outside Chapter 507
+
+Section 507.01 of the Florida Statutes defines household goods as personal property commonly found in a home and then excludes freight or personal property moving to or from a factory, store, or other place of business. Everything in Chapter 507 that protects a family — the registration requirement, the written estimate rules, the prohibition on holding goods after payment — is built on that definition. A retail fit-out or a kitchen relocation is not covered by it. The consequence is practical rather than abstract: the document you sign is the whole of your protection, so the inventory, the valuation, the liability cap, the schedule and the remedy for a missed window all have to be written into it.
+
+### Downtime is the number that matters
+
+For a business the moving cost is rarely the largest cost of moving. The larger one is the hours the doors are shut or the kitchen is cold, which is why commercial work here is usually sequenced overnight, across a Sunday, or in phases where one half of the operation runs while the other half relocates. That sequencing has to be designed before a date is picked. Which fixtures can leave while the business still trades, what has to be in place before an inspection, what the landlord requires restored at the old space, and what has to be operating on the first morning at the new one are four separate lists, and each one drives a different trip.
+
+### Equipment, not just crew
+
+Commercial loads move on pallet jacks, four-wheel platform trucks, panel carts and lift gates rather than on hand trucks and blankets. Racking comes down in sections with the beam and upright hardware bagged and labeled by bay. Display cases and glass fixtures get crated. Restaurant equipment is disconnected by whoever holds the relevant license for gas, water and electrical work, and the flexible connectors are replaced rather than reused. Heavy items over a finished floor travel on track plates. Ask what equipment the crew is bringing, because a commercial job attempted with residential gear is a commercial job that runs into a second day.
+
+### Downtown buildings run on a 30-minute freight zone
+
+The City of Orlando issues a Freight Loading and Unloading Permit to businesses loading or unloading downtown with a vehicle of 5,000 pounds gross weight or a width over 80 inches. Freight zones are marked by a sign and an orange-painted curb, occupancy is capped at 30 minutes, a vehicle may not return within 30 minutes of leaving, the permit must be visible on the rear of the vehicle and the operator must be actively loading. Permits run through September 30 annually on a prorated fee schedule. That cap is why staged carting inside the building matters more downtown than anywhere else: curb time is for lifting, not for assembling loads.
+
+### Orlando's hospitality base generates its own kind of load
+
+Visit Orlando reported 75,333,800 visitors in 2024, an increase of 1.8 percent, with 5,616,000 of them arriving for group meetings. Behind that sits an unusually large local inventory of hotel and event furniture, commercial kitchen equipment and attractions-adjacent retail fixtures, all of which cycles. Refurbishment relocations, seasonal storage of banquet furniture and equipment moves between properties are ordinary commercial work in this market, and they run on hard dates set by an event calendar. A booking tied to a conference load-in has no flexibility at all, so confirm dock access, elevator or freight lift capacity and permitted hours in writing well ahead.
+
+### Zoning approval belongs before the lease
+
+The city requires a Certificate of Use, which is a zoning permit confirming the business is allowed to operate in the district, in conjunction with a Business Tax Receipt, and the two are separate cases paid as separate transactions. A change of location requires a completed business tax application, the original receipt, proof of the business name from Sunbiz.org and a copy of the state license showing the address, with a transfer fee of 10 percent of the receipt fee, no less than $3 and no more than $25, and five business days for the status to update. Confirm the use is permitted at the new address before signing anything that commits you to a moving date.
 
 ## svc_furniture_moving_lede
 
@@ -462,18 +552,29 @@ Furniture is what decides how long an Orlando move runs. Case goods have to come
 
 ## svc_furniture_moving_body
 
-<h2>Wrapping happens before the piece leaves the room</h2>
-<p>A dresser wrapped in the driveway has already been carried unprotected down a stair run. The order that works is: empty the drawers, pull the mirror and the glass top, blanket the carcass, band the blankets, then shrink over the blanket rather than straight onto finished wood. Shrink film laid directly on a lacquered or oiled surface in an Orlando August traps moisture against the finish for the whole trip. Sofa arms come off where the frame allows it, bed rails get bagged and taped to the headboard, and every fastener from every piece goes into one labeled container that rides in the cab, not loose in a carton that gets stacked at the nose of the truck.</p>
-<h2>Florida prices disassembly as a named service</h2>
-<p>Section 507.01 of the Florida Statutes lists what a mover may bill as accessorial work, and the list is specific: disassembly or reassembly, hoisting or lowering, long carry, elevator or stair carrying, waiting time, written inventory preparation, and the equipment itself down to dollies, hand trucks, pads, blankets and straps. That matters for a furniture-heavy job because the pieces that take the most crew time are exactly the ones on that list. A bed that needs a wrench, a wall unit anchored into studs and a treadmill are three separate reassembly tasks, and the estimate should name them individually instead of burying them in an hourly figure.</p>
-<h2>Orange County builds detached houses, and detached houses hold more furniture</h2>
-<p>Of 495,966 housing units counted in Orange County's fair housing analysis, 280,086 are single-unit detached — 56.5 percent — and 128,260 of all units went up between 2000 and 2009. A 2000s Orange County house has a two-car garage, a bonus room over it and a screened lanai, and all three collect furniture that never appears on a room-by-room walkthrough. Baldwin Park and Lake Nona houses of that era routinely add a full patio set, a bonus-room sofa and shelving that has to be unloaded before it can be carried. Count those rooms out loud before a truck size is chosen.</p>
-<h2>Trees over the street are a code requirement, not scenery</h2>
-<p>Orlando's street standard in code section 61.226 requires canopy trees in the parkways on both sides of the street at intervals between one per 50 and one per 100 lineal feet, each at least 12 feet tall when planted. Decades on, that produces the low overhang that College Park and Audubon Park are known for and that a 26-foot box truck cannot drive under. The fix is decided before the day, not in the street: park at the nearest legal clear point and price the resulting long carry, or stage smaller loads to a shuttle vehicle. A tree removal permit is required inside city limits, so trimming a limb out of the way is not an option the crew has.</p>
-<h2>Sequence the day against the heat, because nothing else will</h2>
-<p>Orlando's mean daily maximum is 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals, and June and July each average over seven inches of rain. Florida has no state heat-exposure standard for outdoor work, and House Bill 433 in 2024 also barred local governments from imposing one, which leaves the schedule as the only control available. Heavy case goods and anything with a fabric surface load first, in the morning. Upholstery that sits on a driveway at two in the afternoon comes off the truck warm and damp.</p>
-<h2>Gates, guardhouses and what actually moves the total</h2>
-<p>In a gated Lake Nona or MetroWest community, ask the association two questions in writing before the date is set: whether a truck of that length is admitted through the resident gate or a service entrance, and whether the association requires a certificate of insurance naming it. Both answers change the arrival time. The total then follows the inventory, the piece count needing disassembly, stair flights, the carry distance the canopy forced on you, and the crew size. Get all of it on the written estimate before the first blanket comes out.</p>
+### Wrapping happens before the piece leaves the room
+
+A dresser wrapped in the driveway has already been carried unprotected down a stair run. The order that works is: empty the drawers, pull the mirror and the glass top, blanket the carcass, band the blankets, then shrink over the blanket rather than straight onto finished wood. Shrink film laid directly on a lacquered or oiled surface in an Orlando August traps moisture against the finish for the whole trip. Sofa arms come off where the frame allows it, bed rails get bagged and taped to the headboard, and every fastener from every piece goes into one labeled container that rides in the cab, not loose in a carton that gets stacked at the nose of the truck.
+
+### Florida prices disassembly as a named service
+
+Section 507.01 of the Florida Statutes lists what a mover may bill as accessorial work, and the list is specific: disassembly or reassembly, hoisting or lowering, long carry, elevator or stair carrying, waiting time, written inventory preparation, and the equipment itself down to dollies, hand trucks, pads, blankets and straps. That matters for a furniture-heavy job because the pieces that take the most crew time are exactly the ones on that list. A bed that needs a wrench, a wall unit anchored into studs and a treadmill are three separate reassembly tasks, and the estimate should name them individually instead of burying them in an hourly figure.
+
+### Orange County builds detached houses, and detached houses hold more furniture
+
+Of 495,966 housing units counted in Orange County's fair housing analysis, 280,086 are single-unit detached — 56.5 percent — and 128,260 of all units went up between 2000 and 2009. A 2000s Orange County house has a two-car garage, a bonus room over it and a screened lanai, and all three collect furniture that never appears on a room-by-room walkthrough. Baldwin Park and Lake Nona houses of that era routinely add a full patio set, a bonus-room sofa and shelving that has to be unloaded before it can be carried. Count those rooms out loud before a truck size is chosen.
+
+### Trees over the street are a code requirement, not scenery
+
+Orlando's street standard in code section 61.226 requires canopy trees in the parkways on both sides of the street at intervals between one per 50 and one per 100 lineal feet, each at least 12 feet tall when planted. Decades on, that produces the low overhang that College Park and Audubon Park are known for and that a 26-foot box truck cannot drive under. The fix is decided before the day, not in the street: park at the nearest legal clear point and price the resulting long carry, or stage smaller loads to a shuttle vehicle. A tree removal permit is required inside city limits, so trimming a limb out of the way is not an option the crew has.
+
+### Sequence the day against the heat, because nothing else will
+
+Orlando's mean daily maximum is 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals, and June and July each average over seven inches of rain. Florida has no state heat-exposure standard for outdoor work, and House Bill 433 in 2024 also barred local governments from imposing one, which leaves the schedule as the only control available. Heavy case goods and anything with a fabric surface load first, in the morning. Upholstery that sits on a driveway at two in the afternoon comes off the truck warm and damp.
+
+### Gates, guardhouses and what actually moves the total
+
+In a gated Lake Nona or MetroWest community, ask the association two questions in writing before the date is set: whether a truck of that length is admitted through the resident gate or a service entrance, and whether the association requires a certificate of insurance naming it. Both answers change the arrival time. The total then follows the inventory, the piece count needing disassembly, stair flights, the carry distance the canopy forced on you, and the crew size. Get all of it on the written estimate before the first blanket comes out.
 
 ## svc_gun_safe_moving_lede
 
@@ -481,18 +582,29 @@ A gun safe is dense, top-heavy once the door is on, and unforgiving of a mistake
 
 ## svc_gun_safe_moving_body
 
-<h2>Know the published weight before anyone touches it</h2>
-<p>Manufacturer figures are the starting point. Liberty lists the Centurion 24 at 365 pounds, the Lincoln 25 at 733 pounds and the Colonial 50 at 990 pounds, with the Colonial standing 72.5 inches tall on a 42 by 32 inch footprint. Contents add to that: ammunition in bulk is heavier per cubic foot than anything else in a house. A safe is emptied and the door is locked shut before the move, because a swinging door on a tipped safe turns a controlled descent into a fall. The dial or keypad and the handle are the two parts that get damaged, so both are padded and boxed against the body.</p>
-<h2>The floor at the destination has to be checked, not assumed</h2>
-<p>Table R301.5 of the 2023 Florida Residential Code sets a 40 psf minimum uniformly distributed live load for rooms other than sleeping rooms and 30 psf for sleeping rooms. A 990-pound safe on a two-and-a-half-square-foot footprint is a concentrated load that no distributed design value speaks to. Orange County's housing stock is 56.5 percent single-unit detached and heavily slab-on-grade, so the low-risk answer in most of Orlando is a ground-floor interior wall over the slab. If the safe has to go to a second floor, the position over a bearing wall and the joist direction matter, and that is a question for the builder's plans or a structural professional rather than the crew.</p>
-<h2>Stairs, and the two ways they go wrong</h2>
-<p>Going up, the safe is walked on a stair-climbing dolly with a belayed line above it and the mass kept low and against the treads. Going down, gravity is doing the work and the crew is only metering it, which is why the count of people on the line matters more than the count on the lift. Orlando's 2000s subdivisions put a single switchback flight between the garage and the bonus room, and a switchback landing is where a tall safe runs out of diagonal. Measure the landing's shortest dimension and the safe's diagonal height first. If the diagonal loses, the piece does not go up that stair at any crew size.</p>
-<h2>Slabs, pavers and driveways that will not take the wheels</h2>
-<p>Most of the Orlando route is outdoors on concrete or paver driveway, and that is where a loaded dolly gets stuck. Paver joints and driveway lips catch small wheels, and a spalled slab edge will collapse under a point load. Track plates or plywood runs go down before the safe moves, not after a wheel drops. Anchor bolts at the origin are cut or backed out, and the holes at the destination get drilled after the safe is positioned, not before, because a 990-pound object does not slide sideways an inch to meet a pilot hole.</p>
-<h2>Florida bills this as accessorial work</h2>
-<p>Section 507.01 of the Florida Statutes lists hoisting or lowering, long carry, elevator or stair carrying, waiting time and equipment such as dollies, hand trucks, pads and straps as accessorial services separate from transportation. A safe move is usually the accessorial line rather than the transportation line, and that should be visible on the written estimate. The same section makes valuation coverage accessorial as well, and a safe is a high-value single article: decide the coverage before the piece is on a dolly, because a weight-based released value calculation is not going to reflect what the safe cost.</p>
-<h2>Access, gates and heat</h2>
-<p>If the origin or destination is in a gated community such as Lake Nona or MetroWest, ask the association in writing whether a truck of that size uses the resident gate or a service entrance, and whether a certificate of insurance naming the association is required. Both change the arrival time, and arrival time matters here: Orlando's mean daily maximum is 92.2 degrees in July, Florida has no state heat-exposure standard after House Bill 433 in 2024, and a crew doing the hardest single lift of the day at two in the afternoon is the avoidable version of this job. Book it first thing.</p>
+### Know the published weight before anyone touches it
+
+Manufacturer figures are the starting point. Liberty lists the Centurion 24 at 365 pounds, the Lincoln 25 at 733 pounds and the Colonial 50 at 990 pounds, with the Colonial standing 72.5 inches tall on a 42 by 32 inch footprint. Contents add to that: ammunition in bulk is heavier per cubic foot than anything else in a house. A safe is emptied and the door is locked shut before the move, because a swinging door on a tipped safe turns a controlled descent into a fall. The dial or keypad and the handle are the two parts that get damaged, so both are padded and boxed against the body.
+
+### The floor at the destination has to be checked, not assumed
+
+Table R301.5 of the 2023 Florida Residential Code sets a 40 psf minimum uniformly distributed live load for rooms other than sleeping rooms and 30 psf for sleeping rooms. A 990-pound safe on a two-and-a-half-square-foot footprint is a concentrated load that no distributed design value speaks to. Orange County's housing stock is 56.5 percent single-unit detached and heavily slab-on-grade, so the low-risk answer in most of Orlando is a ground-floor interior wall over the slab. If the safe has to go to a second floor, the position over a bearing wall and the joist direction matter, and that is a question for the builder's plans or a structural professional rather than the crew.
+
+### Stairs, and the two ways they go wrong
+
+Going up, the safe is walked on a stair-climbing dolly with a belayed line above it and the mass kept low and against the treads. Going down, gravity is doing the work and the crew is only metering it, which is why the count of people on the line matters more than the count on the lift. Orlando's 2000s subdivisions put a single switchback flight between the garage and the bonus room, and a switchback landing is where a tall safe runs out of diagonal. Measure the landing's shortest dimension and the safe's diagonal height first. If the diagonal loses, the piece does not go up that stair at any crew size.
+
+### Slabs, pavers and driveways that will not take the wheels
+
+Most of the Orlando route is outdoors on concrete or paver driveway, and that is where a loaded dolly gets stuck. Paver joints and driveway lips catch small wheels, and a spalled slab edge will collapse under a point load. Track plates or plywood runs go down before the safe moves, not after a wheel drops. Anchor bolts at the origin are cut or backed out, and the holes at the destination get drilled after the safe is positioned, not before, because a 990-pound object does not slide sideways an inch to meet a pilot hole.
+
+### Florida bills this as accessorial work
+
+Section 507.01 of the Florida Statutes lists hoisting or lowering, long carry, elevator or stair carrying, waiting time and equipment such as dollies, hand trucks, pads and straps as accessorial services separate from transportation. A safe move is usually the accessorial line rather than the transportation line, and that should be visible on the written estimate. The same section makes valuation coverage accessorial as well, and a safe is a high-value single article: decide the coverage before the piece is on a dolly, because a weight-based released value calculation is not going to reflect what the safe cost.
+
+### Access, gates and heat
+
+If the origin or destination is in a gated community such as Lake Nona or MetroWest, ask the association in writing whether a truck of that size uses the resident gate or a service entrance, and whether a certificate of insurance naming the association is required. Both change the arrival time, and arrival time matters here: Orlando's mean daily maximum is 92.2 degrees in July, Florida has no state heat-exposure standard after House Bill 433 in 2024, and a crew doing the hardest single lift of the day at two in the afternoon is the avoidable version of this job. Book it first thing.
 
 ## svc_hoisting_and_difficult_access_lede
 
@@ -500,18 +612,29 @@ Sometimes the piece does not fit the route. When a sofa cannot make a stair turn
 
 ## svc_hoisting_and_difficult_access_body
 
-<h2>First establish that the route genuinely fails</h2>
-<p>Hoisting is the expensive answer, so it is used after the cheap ones are exhausted. Door leaves come off their hinges, casing stops can sometimes be removed, sofa legs and arms detach on many frames, and bed and table components almost always come apart. What decides it is the diagonal: a piece that cannot rotate through a stair turn or fit an elevator car on end has no path, and no amount of crew solves geometry. Measure the tightest turn, the landing depth, the handrail projection and the elevator's internal diagonal, and photograph all of it before anyone quotes a hoist.</p>
-<h2>Florida lists hoisting as an accessorial service</h2>
-<p>Section 507.01 of the Florida Statutes names hoisting or lowering among accessorial services, alongside long carry, elevator or stair carrying, crating, waiting time and equipment such as dollies, hand trucks, pads, blankets and straps. The same definition also covers services not performed by the mover but performed by a third party at the shipper's or mover's request, where the shipper pays the mover for them. That is the clause that matters when a crane or a lift subcontractor is involved: the arrangement is legitimate, and it should appear as an identified line in the written estimate rather than as an unexplained access charge.</p>
-<h2>Balconies are 40 psf assemblies, and that is a design figure</h2>
-<p>Table R301.5 of the 2023 Florida Residential Code sets a minimum uniformly distributed live load of 40 pounds per square foot for exterior balconies and decks, 40 psf for rooms other than sleeping rooms and 30 psf for sleeping rooms. A balcony hoist puts a concentrated load and a dynamic one, since a swinging piece adds force the static figure never contemplated, onto a rail and a slab edge that were designed for people standing on them. The rail is never the anchor. Load paths go to structure, the landing zone is cleared and padded, and a piece heavy enough to argue about is a job for equipment rather than rope.</p>
-<h2>The Orlando stock that produces these jobs</h2>
-<p>Orange County counts 48,536 units in buildings of ten to nineteen units and 57,095 in buildings of 20 or more, and 128,260 of its 495,966 units were built between 2000 and 2009. That combination is what generates difficult access here: garden-style walk-ups with exterior stairs and tight landings, mid-rise buildings with one service elevator and a fixed reservation window, and 2000s houses whose bonus room over the garage is reached by a single switchback flight. Each has a different answer. The walk-up may need a balcony lift, the mid-rise needs an elevator appointment rather than a hoist, and the bonus room usually needs disassembly.</p>
-<h2>Getting the equipment to the door in a canopy neighborhood</h2>
-<p>Orlando code section 61.226 requires canopy trees planted in the parkways on both sides of local streets at one per 50 to 100 lineal feet, each at least 12 feet tall at planting. On the older grid in College Park and Audubon Park, decades of that growth is why an equipment truck's approach and overhead clearance have to be checked on the ground rather than from an aerial image. A tree removal permit is required within city limits and is issued for unhealthy, dead, hazardous or problematic trees, so trimming a limb for access is not something a crew can decide to do.</p>
-<h2>Permission, and the order the day runs in</h2>
-<p>Any hoist over common area, a walkway or a parking court needs the property's or the association's written permission, and usually a certificate of insurance naming it. Ask what hours the work is permitted and whether the landing area below can be closed off, because a hoist requires an exclusion zone underneath that nobody walks into. Then the day runs in order: route confirmed, alternative disassembly attempted, anchor points and load path established, exclusion zone set, the piece crated or padded, the lift made in one continuous controlled movement, and the receiving side ready before the piece leaves the ground.</p>
+### First establish that the route genuinely fails
+
+Hoisting is the expensive answer, so it is used after the cheap ones are exhausted. Door leaves come off their hinges, casing stops can sometimes be removed, sofa legs and arms detach on many frames, and bed and table components almost always come apart. What decides it is the diagonal: a piece that cannot rotate through a stair turn or fit an elevator car on end has no path, and no amount of crew solves geometry. Measure the tightest turn, the landing depth, the handrail projection and the elevator's internal diagonal, and photograph all of it before anyone quotes a hoist.
+
+### Florida lists hoisting as an accessorial service
+
+Section 507.01 of the Florida Statutes names hoisting or lowering among accessorial services, alongside long carry, elevator or stair carrying, crating, waiting time and equipment such as dollies, hand trucks, pads, blankets and straps. The same definition also covers services not performed by the mover but performed by a third party at the shipper's or mover's request, where the shipper pays the mover for them. That is the clause that matters when a crane or a lift subcontractor is involved: the arrangement is legitimate, and it should appear as an identified line in the written estimate rather than as an unexplained access charge.
+
+### Balconies are 40 psf assemblies, and that is a design figure
+
+Table R301.5 of the 2023 Florida Residential Code sets a minimum uniformly distributed live load of 40 pounds per square foot for exterior balconies and decks, 40 psf for rooms other than sleeping rooms and 30 psf for sleeping rooms. A balcony hoist puts a concentrated load and a dynamic one, since a swinging piece adds force the static figure never contemplated, onto a rail and a slab edge that were designed for people standing on them. The rail is never the anchor. Load paths go to structure, the landing zone is cleared and padded, and a piece heavy enough to argue about is a job for equipment rather than rope.
+
+### The Orlando stock that produces these jobs
+
+Orange County counts 48,536 units in buildings of ten to nineteen units and 57,095 in buildings of 20 or more, and 128,260 of its 495,966 units were built between 2000 and 2009. That combination is what generates difficult access here: garden-style walk-ups with exterior stairs and tight landings, mid-rise buildings with one service elevator and a fixed reservation window, and 2000s houses whose bonus room over the garage is reached by a single switchback flight. Each has a different answer. The walk-up may need a balcony lift, the mid-rise needs an elevator appointment rather than a hoist, and the bonus room usually needs disassembly.
+
+### Getting the equipment to the door in a canopy neighborhood
+
+Orlando code section 61.226 requires canopy trees planted in the parkways on both sides of local streets at one per 50 to 100 lineal feet, each at least 12 feet tall at planting. On the older grid in College Park and Audubon Park, decades of that growth is why an equipment truck's approach and overhead clearance have to be checked on the ground rather than from an aerial image. A tree removal permit is required within city limits and is issued for unhealthy, dead, hazardous or problematic trees, so trimming a limb for access is not something a crew can decide to do.
+
+### Permission, and the order the day runs in
+
+Any hoist over common area, a walkway or a parking court needs the property's or the association's written permission, and usually a certificate of insurance naming it. Ask what hours the work is permitted and whether the landing area below can be closed off, because a hoist requires an exclusion zone underneath that nobody walks into. Then the day runs in order: route confirmed, alternative disassembly attempted, anchor points and load path established, exclusion zone set, the piece crated or padded, the lift made in one continuous controlled movement, and the receiving side ready before the piece leaves the ground.
 
 ## svc_hot_tub_moving_lede
 
@@ -519,18 +642,29 @@ A spa is one rigid object weighing several hundred pounds empty and several thou
 
 ## svc_hot_tub_moving_body
 
-<h2>The published weights explain the equipment</h2>
-<p>Manufacturer specifications set the scale. Hydropool's Signature collection lists dry weights from 581 pounds for a three-person model up to 1,428 pounds for an eight-to-ten-person unit, with filled weights running from 2,241 pounds to 5,843 pounds and water capacities of 198 to 527 US gallons. Footprints range from 65 by 85 inches to 94 by 110 inches at 30 to 39 inches tall. Nothing in those numbers is carried by hand. A spa moves on a spa dolly or on furniture skates over track plates, tipped onto one side and held there, with the cabinet corners protected because the corner is what fails when a spa is dragged.</p>
-<h2>Drain, purge and disconnect before anything moves</h2>
-<p>Draining through the spa's drain valve does not empty it. Water remains in the pumps, the heater, the jets and the plumbing loops, and that residual water is both weight and a freeze and spill risk in transit. Lines get blown out or drained at the unions, the filter is removed, and the cover comes off and travels separately since a cover strapped to a tipped spa is a sail. The electrical side is not a moving task: a spa is fed by a dedicated circuit with a disconnect, and that work belongs to a licensed electrician at both ends.</p>
-<h2>Orlando's permit set for the destination is not a single permit</h2>
-<p>The city's residential swimming pool and spa checklist states that a typical residential pool or spa needs a minimum of three permits: Building, Electrical, and an Engineering permit that city staff generate as part of the building permit review and that carries its own fee. A Plumbing and Gas permit is added where there is a gas-fueled heater or an automatic potable-water fill. A screen enclosure is a separate permit with an attached electrical permit for bonding, referencing Orlando code 5B(11) and sections 58.959 and 58.963. Establish which of those apply to the destination installation before the spa is on a truck, because a spa sitting in a driveway waiting for an inspection is a spa nobody can use.</p>
-<h2>The route out is usually the constraint</h2>
-<p>Most Orlando spas sit inside a screened enclosure on a paver or concrete patio, and screen panels, a door frame or a section of enclosure often has to come out to make a path. That is work to be arranged, not improvised, and if the enclosure has an electrical bond, the reinstatement is a permitted item. Gates, air conditioning condenser pads, irrigation heads and paver joints are the other four obstacles on a typical yard route. Walk it, measure the narrowest gate opening, and put plywood or track plates over anything that will not take a point load.</p>
-<h2>Where the association's authority starts</h2>
-<p>Florida statute 720.3045 prevents an association from restricting what an owner or tenant installs, displays or stores on a parcel when it is not visible from the parcel's frontage, an adjacent parcel, an adjacent common area or a community golf course. A spa in an enclosed rear yard often falls on the protected side of that line, while a spa or a delivery trailer parked in a driveway does not. Either way the crane, truck or trailer bringing it in crosses common area, so ask the association in writing what is permitted, whether a certificate of insurance naming it is required, and what hours the work can be done.</p>
-<h2>Heat, weight and the order of the day</h2>
-<p>Orlando's mean daily maximum is 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals, and Florida has no state heat-exposure standard for outdoor work after House Bill 433 in 2024 preempted local ordinances. A spa move is almost entirely outdoors and almost entirely heavy, which makes an early start the single most useful scheduling decision available. The day runs in order: drained and purged the night before, electrical disconnected, route cleared and protected, spa tipped and skated out, loaded and strapped upright on its side, then set on a prepared and level pad at the destination before an electrician reconnects it.</p>
+### The published weights explain the equipment
+
+Manufacturer specifications set the scale. Hydropool's Signature collection lists dry weights from 581 pounds for a three-person model up to 1,428 pounds for an eight-to-ten-person unit, with filled weights running from 2,241 pounds to 5,843 pounds and water capacities of 198 to 527 US gallons. Footprints range from 65 by 85 inches to 94 by 110 inches at 30 to 39 inches tall. Nothing in those numbers is carried by hand. A spa moves on a spa dolly or on furniture skates over track plates, tipped onto one side and held there, with the cabinet corners protected because the corner is what fails when a spa is dragged.
+
+### Drain, purge and disconnect before anything moves
+
+Draining through the spa's drain valve does not empty it. Water remains in the pumps, the heater, the jets and the plumbing loops, and that residual water is both weight and a freeze and spill risk in transit. Lines get blown out or drained at the unions, the filter is removed, and the cover comes off and travels separately since a cover strapped to a tipped spa is a sail. The electrical side is not a moving task: a spa is fed by a dedicated circuit with a disconnect, and that work belongs to a licensed electrician at both ends.
+
+### Orlando's permit set for the destination is not a single permit
+
+The city's residential swimming pool and spa checklist states that a typical residential pool or spa needs a minimum of three permits: Building, Electrical, and an Engineering permit that city staff generate as part of the building permit review and that carries its own fee. A Plumbing and Gas permit is added where there is a gas-fueled heater or an automatic potable-water fill. A screen enclosure is a separate permit with an attached electrical permit for bonding, referencing Orlando code 5B(11) and sections 58.959 and 58.963. Establish which of those apply to the destination installation before the spa is on a truck, because a spa sitting in a driveway waiting for an inspection is a spa nobody can use.
+
+### The route out is usually the constraint
+
+Most Orlando spas sit inside a screened enclosure on a paver or concrete patio, and screen panels, a door frame or a section of enclosure often has to come out to make a path. That is work to be arranged, not improvised, and if the enclosure has an electrical bond, the reinstatement is a permitted item. Gates, air conditioning condenser pads, irrigation heads and paver joints are the other four obstacles on a typical yard route. Walk it, measure the narrowest gate opening, and put plywood or track plates over anything that will not take a point load.
+
+### Where the association's authority starts
+
+Florida statute 720.3045 prevents an association from restricting what an owner or tenant installs, displays or stores on a parcel when it is not visible from the parcel's frontage, an adjacent parcel, an adjacent common area or a community golf course. A spa in an enclosed rear yard often falls on the protected side of that line, while a spa or a delivery trailer parked in a driveway does not. Either way the crane, truck or trailer bringing it in crosses common area, so ask the association in writing what is permitted, whether a certificate of insurance naming it is required, and what hours the work can be done.
+
+### Heat, weight and the order of the day
+
+Orlando's mean daily maximum is 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals, and Florida has no state heat-exposure standard for outdoor work after House Bill 433 in 2024 preempted local ordinances. A spa move is almost entirely outdoors and almost entirely heavy, which makes an early start the single most useful scheduling decision available. The day runs in order: drained and purged the night before, electrical disconnected, route cleared and protected, spa tipped and skated out, loaded and strapped upright on its side, then set on a prepared and level pad at the destination before an electrician reconnects it.
 
 ## svc_labor_only_moving_lede
 
@@ -538,18 +672,29 @@ Sometimes what you need is crew hours inside a building, not a truck. Staging a 
 
 ## svc_labor_only_moving_body
 
-<h2>What labor-only covers, and what it does not</h2>
-<p>An hourly crew with no vehicle does the work that happens between four walls and a curb: carrying furniture between rooms, moving everything off the walls and floors so a room can be painted or floored, loading or unloading a container or a rented truck, emptying a garage or an attic into a driveway, and putting it all back. What it does not include is transportation, and that boundary is worth stating plainly in the scope. It also usually does not include equipment. Section 507.01 of the Florida Statutes counts dollies, hand trucks, pads, blankets and straps as accessorial items with a charge attached, so ask whether the crew arrives with them or whether the household is expected to supply them.</p>
-<h2>Registration still applies to a crew that never drives</h2>
-<p>The same statute defines a mover as a person who, for compensation, contracts for or engages in the loading, transportation or shipment, or unloading of household goods as part of a household move. A crew that only loads, or only unloads, sits inside that definition. So the written estimate, the contract and the state registration number are things to ask for even when nobody is driving your belongings anywhere. A labor-only booking is not a category outside Florida's rules; it is a mover doing a subset of the work.</p>
-<h2>Orlando's furnished-property turnover is its own market</h2>
-<p>Visit Orlando reported 75,333,800 visitors in 2024, up 1.8 percent, including 6.5 million international arrivals. That volume supports a large stock of furnished houses and condos around the attractions corridor, and furnished properties get refurnished: mattress and sofa swaps between bookings, a full furniture package in or out at a change of management, patio sets replaced after a season outdoors. Those are labor jobs with a hard deadline set by the next arrival rather than by a lease. They also tend to be repeat, sequenced work across several units, which is easier to schedule mid-week than at month end.</p>
-<h2>Staging and pre-sale labor</h2>
-<p>Census QuickFacts puts the median value of an owner-occupied home in Orange County at $390,100 for 2020-2024 across 614,386 housing units. Preparing one of those to be photographed and shown is mostly carrying: surplus furniture out to a container or a storage unit, garage and closet contents consolidated, wall-mounted items removed and the anchors patched by whoever is doing that work, and the remaining pieces repositioned room by room. It is worth booking as a defined scope with a room list rather than as open-ended hours, because the difference between a four-hour job and a nine-hour job is entirely in how much has already been decided before the crew arrives.</p>
-<h2>Hurricane preparation is a labor job with a deadline</h2>
-<p>The Atlantic season runs June 1 to November 30, peaks statistically on September 10, and concentrates between mid-August and mid-October. Bringing in patio furniture, grills, planters and anything else that becomes a projectile is straightforward work that has to happen inside a narrow window, usually alongside everyone else in the neighborhood doing the same thing. Book it against the forecast rather than the storm, understand that a crew's availability collapses once a watch is issued, and have a decided plan for where the items go, because a garage that is already full is the usual reason this takes twice as long as it should.</p>
-<h2>Heat sets the hours, and the household sets the conditions</h2>
-<p>Orlando's mean daily maximum is 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals. Florida has no state heat-exposure standard for outdoor work, and 2024's House Bill 433 also barred local governments from creating one, leaving OSHA's general duty clause and NIOSH's 2013 recommendations, which are hydration, acclimatization, alternating work with rest, and training. On a labor-only job in a house being emptied, the air conditioning is often off and the water is often packed. Leave the cooling running and the water out, and start early: the productive hours here are before noon.</p>
+### What labor-only covers, and what it does not
+
+An hourly crew with no vehicle does the work that happens between four walls and a curb: carrying furniture between rooms, moving everything off the walls and floors so a room can be painted or floored, loading or unloading a container or a rented truck, emptying a garage or an attic into a driveway, and putting it all back. What it does not include is transportation, and that boundary is worth stating plainly in the scope. It also usually does not include equipment. Section 507.01 of the Florida Statutes counts dollies, hand trucks, pads, blankets and straps as accessorial items with a charge attached, so ask whether the crew arrives with them or whether the household is expected to supply them.
+
+### Registration still applies to a crew that never drives
+
+The same statute defines a mover as a person who, for compensation, contracts for or engages in the loading, transportation or shipment, or unloading of household goods as part of a household move. A crew that only loads, or only unloads, sits inside that definition. So the written estimate, the contract and the state registration number are things to ask for even when nobody is driving your belongings anywhere. A labor-only booking is not a category outside Florida's rules; it is a mover doing a subset of the work.
+
+### Orlando's furnished-property turnover is its own market
+
+Visit Orlando reported 75,333,800 visitors in 2024, up 1.8 percent, including 6.5 million international arrivals. That volume supports a large stock of furnished houses and condos around the attractions corridor, and furnished properties get refurnished: mattress and sofa swaps between bookings, a full furniture package in or out at a change of management, patio sets replaced after a season outdoors. Those are labor jobs with a hard deadline set by the next arrival rather than by a lease. They also tend to be repeat, sequenced work across several units, which is easier to schedule mid-week than at month end.
+
+### Staging and pre-sale labor
+
+Census QuickFacts puts the median value of an owner-occupied home in Orange County at $390,100 for 2020-2024 across 614,386 housing units. Preparing one of those to be photographed and shown is mostly carrying: surplus furniture out to a container or a storage unit, garage and closet contents consolidated, wall-mounted items removed and the anchors patched by whoever is doing that work, and the remaining pieces repositioned room by room. It is worth booking as a defined scope with a room list rather than as open-ended hours, because the difference between a four-hour job and a nine-hour job is entirely in how much has already been decided before the crew arrives.
+
+### Hurricane preparation is a labor job with a deadline
+
+The Atlantic season runs June 1 to November 30, peaks statistically on September 10, and concentrates between mid-August and mid-October. Bringing in patio furniture, grills, planters and anything else that becomes a projectile is straightforward work that has to happen inside a narrow window, usually alongside everyone else in the neighborhood doing the same thing. Book it against the forecast rather than the storm, understand that a crew's availability collapses once a watch is issued, and have a decided plan for where the items go, because a garage that is already full is the usual reason this takes twice as long as it should.
+
+### Heat sets the hours, and the household sets the conditions
+
+Orlando's mean daily maximum is 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals. Florida has no state heat-exposure standard for outdoor work, and 2024's House Bill 433 also barred local governments from creating one, leaving OSHA's general duty clause and NIOSH's 2013 recommendations, which are hydration, acclimatization, alternating work with rest, and training. On a labor-only job in a house being emptied, the air conditioning is often off and the water is often packed. Leave the cooling running and the water out, and start early: the productive hours here are before noon.
 
 ## svc_last_minute_moving_lede
 
@@ -557,18 +702,29 @@ Short-notice moves in Orlando come from three places: a lease or closing that sh
 
 ## svc_last_minute_moving_body
 
-<h2>What a compressed timeline actually costs</h2>
-<p>A short-notice job is priced by crew availability, not by urgency. The metro is dense and it turns over: Census Reporter puts Orange County at 1,533,646 residents across 903 square miles, about 1,698 people per square mile, and Census QuickFacts counts 614,386 housing units as of July 1, 2025. Turnover concentrates at the end of the month, so a request for the last three days of a month competes against every lease in the county ending at once. Mid-month, mid-week and early-morning starts are the slots that actually exist on two days' notice, and taking one of them is usually cheaper than paying a premium for a Saturday that is already full.</p>
-<h2>The paperwork is not waived because you are in a hurry</h2>
-<p>Section 507.01 of the Florida Statutes lists overtime loading and unloading, waiting time, packing and crating, disassembly or reassembly and valuation coverage among the accessorial services a mover may charge for. On a rushed job several of those apply at once, and the pressure to skip the written detail is highest exactly when the detail matters most. Read the accessorial lines, confirm the valuation choice, and get the scope recorded before the crew starts. A verbal figure agreed on the phone the night before is the version of this job that ends in an argument in a driveway.</p>
-<h2>Storm-driven moves have a season and a peak</h2>
-<p>The Atlantic hurricane season runs June 1 to November 30, its statistical peak is September 10, and most activity falls between mid-August and mid-October, against 1991-2020 averages of 14 named storms, seven hurricanes and three major hurricanes. Hurricane Milton made landfall near Siesta Key at 8:30 p.m. on Wednesday October 9, 2024 as a Category 3 and produced at least 19 confirmed tornadoes across east central Florida the same day, with the surveyed times running from 2:04 in the afternoon to 6:09 in the evening. Inland Orlando is not exempt from that, which is why a move planned for a storm week either happens well before the outer bands arrive or waits until after.</p>
-<h2>What to do first when there are two days</h2>
-<p>Triage in this order. Documents, medication, keys and small valuables go into your own vehicle immediately, before anything else is touched. Then pack by room in whole-room passes rather than sorting, because sorting is what consumes the time you do not have. Kitchen glassware and electronics get real cushioning even now. Everything ambiguous goes in a carton marked for a decision later rather than being debated on the floor. What you skip is optimization: this is not the move where the garage gets organized.</p>
-<h2>Utilities on a two-day clock</h2>
-<p>Inside the OUC service area a start-service request at an address with no active service may be completed the same day if it is submitted before 4:00 p.m. on a weekday, and after 4:00 p.m. it moves to the next business day. There is a $25 connection charge on the first bill and a deposit may be required. Stop requests process as soon as the next business day, and the Move Service form lets service run at both addresses at once. On a compressed schedule that form is the difference between arriving to a working refrigerator and arriving to a dark house in an Orlando August.</p>
-<h2>Access is what actually stops a rushed move</h2>
-<p>The failure mode on short notice is not the packing. It is a gate, a certificate of insurance or an elevator reservation that takes longer to arrange than the move itself. Ask the property or the association in writing, the same day you book: is a truck of that length admitted at the resident gate or a service entrance, is a certificate naming the association required, must a service elevator be reserved as a timed appointment, and what hours is moving permitted. If any answer takes 48 hours to obtain, that is the real earliest date, and knowing it on day one is what keeps the crew off the clock at a guardhouse.</p>
+### What a compressed timeline actually costs
+
+A short-notice job is priced by crew availability, not by urgency. The metro is dense and it turns over: Census Reporter puts Orange County at 1,533,646 residents across 903 square miles, about 1,698 people per square mile, and Census QuickFacts counts 614,386 housing units as of July 1, 2025. Turnover concentrates at the end of the month, so a request for the last three days of a month competes against every lease in the county ending at once. Mid-month, mid-week and early-morning starts are the slots that actually exist on two days' notice, and taking one of them is usually cheaper than paying a premium for a Saturday that is already full.
+
+### The paperwork is not waived because you are in a hurry
+
+Section 507.01 of the Florida Statutes lists overtime loading and unloading, waiting time, packing and crating, disassembly or reassembly and valuation coverage among the accessorial services a mover may charge for. On a rushed job several of those apply at once, and the pressure to skip the written detail is highest exactly when the detail matters most. Read the accessorial lines, confirm the valuation choice, and get the scope recorded before the crew starts. A verbal figure agreed on the phone the night before is the version of this job that ends in an argument in a driveway.
+
+### Storm-driven moves have a season and a peak
+
+The Atlantic hurricane season runs June 1 to November 30, its statistical peak is September 10, and most activity falls between mid-August and mid-October, against 1991-2020 averages of 14 named storms, seven hurricanes and three major hurricanes. Hurricane Milton made landfall near Siesta Key at 8:30 p.m. on Wednesday October 9, 2024 as a Category 3 and produced at least 19 confirmed tornadoes across east central Florida the same day, with the surveyed times running from 2:04 in the afternoon to 6:09 in the evening. Inland Orlando is not exempt from that, which is why a move planned for a storm week either happens well before the outer bands arrive or waits until after.
+
+### What to do first when there are two days
+
+Triage in this order. Documents, medication, keys and small valuables go into your own vehicle immediately, before anything else is touched. Then pack by room in whole-room passes rather than sorting, because sorting is what consumes the time you do not have. Kitchen glassware and electronics get real cushioning even now. Everything ambiguous goes in a carton marked for a decision later rather than being debated on the floor. What you skip is optimization: this is not the move where the garage gets organized.
+
+### Utilities on a two-day clock
+
+Inside the OUC service area a start-service request at an address with no active service may be completed the same day if it is submitted before 4:00 p.m. on a weekday, and after 4:00 p.m. it moves to the next business day. There is a $25 connection charge on the first bill and a deposit may be required. Stop requests process as soon as the next business day, and the Move Service form lets service run at both addresses at once. On a compressed schedule that form is the difference between arriving to a working refrigerator and arriving to a dark house in an Orlando August.
+
+### Access is what actually stops a rushed move
+
+The failure mode on short notice is not the packing. It is a gate, a certificate of insurance or an elevator reservation that takes longer to arrange than the move itself. Ask the property or the association in writing, the same day you book: is a truck of that length admitted at the resident gate or a service entrance, is a certificate naming the association required, must a service elevator be reserved as a timed appointment, and what hours is moving permitted. If any answer takes 48 hours to obtain, that is the real earliest date, and knowing it on day one is what keeps the crew off the clock at a guardhouse.
 
 ## svc_loading_and_unloading_lede
 
@@ -576,18 +732,29 @@ Hiring a crew to load or unload a truck you have rented is a real service with a
 
 ## svc_loading_and_unloading_body
 
-<h2>Florida's definition of "mover" includes loading alone</h2>
-<p>Section 507.01 of the Florida Statutes defines a mover as a person who, for compensation, contracts for or engages in the loading, transportation or shipment, or unloading of household goods as part of a household move. The "or unloading" is doing real work in that sentence. A crew that never drives, never carries your goods on a public road and only loads a truck you rented is inside the definition, which means the state registration and the written estimate and contract rules are not optional for them. Ask for the registration number and check that it appears on the paperwork, exactly as you would for a full-service move.</p>
-<h2>What you are actually buying, and what you keep</h2>
-<p>You keep the vehicle, the driving, the fuel, the tolls and the mileage clock. You buy load discipline: a wall of tightly stacked cartons built to the roof, heavy items low and against the bulkhead, furniture wrapped and banded upright rather than laid flat, mattresses on edge in bags, and load bars or rope tied off every few feet so nothing shifts on a highway ramp. A truck loaded loosely uses more space and arrives with more damage, which is the whole reason the service exists. The load plan is also what determines whether everything fits, and a second trip costs far more than an extra hour of crew time.</p>
-<h2>Load for the drive Orlando actually gives you</h2>
-<p>INRIX figures reported in April 2026 have Orlando drivers losing 32 hours a year to congestion at about $589 each, with the eastbound stretch from the Anderson Expressway to World Drive ranked fourth among the busiest corridors in the country. A rental truck sitting in stop-and-go traffic across the metro pitches and brakes repeatedly, which is exactly the loading that a tightly banded load survives and a loose one does not. Rental returns also have a time on them, so build the day backward from the return deadline, not forward from an optimistic start.</p>
-<h2>Heat is the schedule constraint, and the schedule is the only control</h2>
-<p>Orlando's mean daily maximum runs 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals. Florida has no state heat-exposure standard for outdoor work and House Bill 433 in 2024 barred local governments from adopting one, so OSHA's general duty clause and NIOSH's 2013 guidance are what remain: hydration, acclimatization, alternating work with rest, and training. On a labor-only job the household is often supplying the water and the shade, so plan for it. Start at first light, finish the outdoor carrying before the afternoon, and expect a real break cycle in the hours after noon.</p>
-<h2>The building side does not care that you rented the truck</h2>
-<p>A property manager's requirements apply to the crew regardless of whose name is on the vehicle. Ask in writing whether a certificate of insurance is required and who it must name, whether a service elevator has to be reserved as a timed appointment, what hours moving is permitted, and where a truck of that length is allowed to stand. In a gated community, confirm whether the truck uses the resident gate or a service entrance. Section 507.01 lists waiting time as an accessorial service, so a crew held at a guardhouse is on the clock.</p>
-<h2>Second-floor walk-ups are the common Orlando version of this job</h2>
-<p>Orange County counts 32,055 units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it garden-style stock where the upper floor is reached by an exterior stair and there is no elevator. Stair carrying is named as its own accessorial service in section 507.01 for a reason: it roughly doubles the time per item against a ground-floor carry. Give the crew the floor number, the number of flights, the landing turns and the distance from the parking spot to the door before the date, and the hours quoted will match the hours the job takes.</p>
+### Florida's definition of "mover" includes loading alone
+
+Section 507.01 of the Florida Statutes defines a mover as a person who, for compensation, contracts for or engages in the loading, transportation or shipment, or unloading of household goods as part of a household move. The "or unloading" is doing real work in that sentence. A crew that never drives, never carries your goods on a public road and only loads a truck you rented is inside the definition, which means the state registration and the written estimate and contract rules are not optional for them. Ask for the registration number and check that it appears on the paperwork, exactly as you would for a full-service move.
+
+### What you are actually buying, and what you keep
+
+You keep the vehicle, the driving, the fuel, the tolls and the mileage clock. You buy load discipline: a wall of tightly stacked cartons built to the roof, heavy items low and against the bulkhead, furniture wrapped and banded upright rather than laid flat, mattresses on edge in bags, and load bars or rope tied off every few feet so nothing shifts on a highway ramp. A truck loaded loosely uses more space and arrives with more damage, which is the whole reason the service exists. The load plan is also what determines whether everything fits, and a second trip costs far more than an extra hour of crew time.
+
+### Load for the drive Orlando actually gives you
+
+INRIX figures reported in April 2026 have Orlando drivers losing 32 hours a year to congestion at about $589 each, with the eastbound stretch from the Anderson Expressway to World Drive ranked fourth among the busiest corridors in the country. A rental truck sitting in stop-and-go traffic across the metro pitches and brakes repeatedly, which is exactly the loading that a tightly banded load survives and a loose one does not. Rental returns also have a time on them, so build the day backward from the return deadline, not forward from an optimistic start.
+
+### Heat is the schedule constraint, and the schedule is the only control
+
+Orlando's mean daily maximum runs 91.0 degrees in June, 92.2 in July and 92.0 in August in the National Weather Service Melbourne normals. Florida has no state heat-exposure standard for outdoor work and House Bill 433 in 2024 barred local governments from adopting one, so OSHA's general duty clause and NIOSH's 2013 guidance are what remain: hydration, acclimatization, alternating work with rest, and training. On a labor-only job the household is often supplying the water and the shade, so plan for it. Start at first light, finish the outdoor carrying before the afternoon, and expect a real break cycle in the hours after noon.
+
+### The building side does not care that you rented the truck
+
+A property manager's requirements apply to the crew regardless of whose name is on the vehicle. Ask in writing whether a certificate of insurance is required and who it must name, whether a service elevator has to be reserved as a timed appointment, what hours moving is permitted, and where a truck of that length is allowed to stand. In a gated community, confirm whether the truck uses the resident gate or a service entrance. Section 507.01 lists waiting time as an accessorial service, so a crew held at a guardhouse is on the clock.
+
+### Second-floor walk-ups are the common Orlando version of this job
+
+Orange County counts 32,055 units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it garden-style stock where the upper floor is reached by an exterior stair and there is no elevator. Stair carrying is named as its own accessorial service in section 507.01 for a reason: it roughly doubles the time per item against a ground-floor carry. Give the crew the floor number, the number of flights, the landing turns and the distance from the parking spot to the door before the date, and the hours quoted will match the hours the job takes.
 
 ## svc_office_moving_lede
 
@@ -595,18 +762,29 @@ An office relocation in Orlando is not a household move in the eyes of Florida l
 
 ## svc_office_moving_body
 
-<h2>Florida's household-goods rules do not cover your office</h2>
-<p>Section 507.01 of the Florida Statutes defines household goods as personal property commonly found in a home and then says the term "does not include freight or personal property moving to or from a factory, store, or other place of business." Chapter 507's registration, estimate and contract requirements are built around household goods, so an office relocation sits outside them. The practical consequence is that the consumer protections a family relies on for an intrastate move are not the ones governing your server rack. Your protection comes from the contract you sign, so the scope, the valuation language, the liability cap and the schedule have to be written properly rather than assumed.</p>
-<h2>Downtown loading is a 30-minute permitted window</h2>
-<p>The City of Orlando issues a Freight Loading and Unloading Permit for businesses that need to load or unload downtown with a vehicle of 5,000 pounds gross vehicle weight or a width over 80 inches. Freight zones are marked by a sign and an orange-painted curb, a vehicle may not stay in one longer than 30 minutes, and it may not return within 30 minutes of leaving. The permit must be visible and attached to the rear of the vehicle, and the operator has to be actively working. Permits run to September 30 each year with prorated fees, $74.55 for a first vehicle between October 1 and December 31 down to $18.64 between July 1 and September 30, and an application is discarded if payment does not arrive within 45 days of approval.</p>
-<h2>That window dictates the whole plan</h2>
-<p>Thirty minutes at the curb is not a constraint you solve on the day. It is solved by staging: pre-cart every load in the building so a truck's time at the zone is spent lifting rather than assembling, use the building's dock where one exists, and split a large floor across multiple trips rather than one long occupation of a freight zone. Downtown towers also run their own service elevator reservations and after-hours access rules, so the building's requirements and the city's permit have to agree with each other before a date is committed.</p>
-<h2>Sequence by department, and label by destination, not origin</h2>
-<p>The order that keeps a business running is: network and telephony first so the new address has connectivity before anyone arrives, then the workstations of whichever team must be productive on day one, then storage and archive last. Every crate carries the destination room or seat number, because a label describing where something came from is useless to the person unpacking it. Server and network gear moves as its own trip with its own protection and its own inventory. Keys, access badges, hardware for every furniture system and the labeled fastener bags travel with a named person rather than on the truck.</p>
-<h2>The business tax receipt follows the address</h2>
-<p>A change of business location in the city requires a completed business tax application, the original business tax receipt, proof of the business name from Sunbiz.org and a copy of the state license showing the address. The transfer fee is 10 percent of the receipt fee, not less than $3 and not more than $25, and the city asks for five business days for the status to update. A Certificate of Use, which is the zoning permit confirming the business is allowed to operate in that district, is a separate case and a separate transaction. That approval is worth confirming before a lease is signed, not after a truck is booked.</p>
-<h2>Time the trucks against Orlando congestion</h2>
-<p>INRIX figures reported in April 2026 put Orlando drivers at 32 hours a year lost to congestion, up four hours, at roughly $589 each, with the metro ranked 37th of 300 and the eastbound stretch from the Anderson Expressway to World Drive ranked fourth among the busiest corridors in the country. For a relocation crossing the metro, that is an argument for moving between the peaks or overnight, and for treating drive time between two downtown buildings as a real line in the schedule rather than a rounding error. The final figure follows crate count, furniture systems to be taken down and rebuilt, the number of trips, the permitted window and after-hours labor.</p>
+### Florida's household-goods rules do not cover your office
+
+Section 507.01 of the Florida Statutes defines household goods as personal property commonly found in a home and then says the term "does not include freight or personal property moving to or from a factory, store, or other place of business." Chapter 507's registration, estimate and contract requirements are built around household goods, so an office relocation sits outside them. The practical consequence is that the consumer protections a family relies on for an intrastate move are not the ones governing your server rack. Your protection comes from the contract you sign, so the scope, the valuation language, the liability cap and the schedule have to be written properly rather than assumed.
+
+### Downtown loading is a 30-minute permitted window
+
+The City of Orlando issues a Freight Loading and Unloading Permit for businesses that need to load or unload downtown with a vehicle of 5,000 pounds gross vehicle weight or a width over 80 inches. Freight zones are marked by a sign and an orange-painted curb, a vehicle may not stay in one longer than 30 minutes, and it may not return within 30 minutes of leaving. The permit must be visible and attached to the rear of the vehicle, and the operator has to be actively working. Permits run to September 30 each year with prorated fees, $74.55 for a first vehicle between October 1 and December 31 down to $18.64 between July 1 and September 30, and an application is discarded if payment does not arrive within 45 days of approval.
+
+### That window dictates the whole plan
+
+Thirty minutes at the curb is not a constraint you solve on the day. It is solved by staging: pre-cart every load in the building so a truck's time at the zone is spent lifting rather than assembling, use the building's dock where one exists, and split a large floor across multiple trips rather than one long occupation of a freight zone. Downtown towers also run their own service elevator reservations and after-hours access rules, so the building's requirements and the city's permit have to agree with each other before a date is committed.
+
+### Sequence by department, and label by destination, not origin
+
+The order that keeps a business running is: network and telephony first so the new address has connectivity before anyone arrives, then the workstations of whichever team must be productive on day one, then storage and archive last. Every crate carries the destination room or seat number, because a label describing where something came from is useless to the person unpacking it. Server and network gear moves as its own trip with its own protection and its own inventory. Keys, access badges, hardware for every furniture system and the labeled fastener bags travel with a named person rather than on the truck.
+
+### The business tax receipt follows the address
+
+A change of business location in the city requires a completed business tax application, the original business tax receipt, proof of the business name from Sunbiz.org and a copy of the state license showing the address. The transfer fee is 10 percent of the receipt fee, not less than $3 and not more than $25, and the city asks for five business days for the status to update. A Certificate of Use, which is the zoning permit confirming the business is allowed to operate in that district, is a separate case and a separate transaction. That approval is worth confirming before a lease is signed, not after a truck is booked.
+
+### Time the trucks against Orlando congestion
+
+INRIX figures reported in April 2026 put Orlando drivers at 32 hours a year lost to congestion, up four hours, at roughly $589 each, with the metro ranked 37th of 300 and the eastbound stretch from the Anderson Expressway to World Drive ranked fourth among the busiest corridors in the country. For a relocation crossing the metro, that is an argument for moving between the peaks or overnight, and for treating drive time between two downtown buildings as a real line in the schedule rather than a rounding error. The final figure follows crate count, furniture systems to be taken down and rebuilt, the number of trips, the permitted window and after-hours labor.
 
 ## svc_piano_moving_lede
 
@@ -614,18 +792,29 @@ A piano is a single object heavy enough to change how a crew is built. A Steinwa
 
 ## svc_piano_moving_body
 
-<h2>Weight and shape decide the equipment, not the room</h2>
-<p>Published Steinway grand weights run from 540 pounds for the five-foot-one model S through 570 for the M, 610 for the O and L, 695 for the A, 760 for the B and 990 for the concert D. An upright is lighter but worse balanced, carrying most of its mass in the plate and the pinblock at the back. Grands travel on their side on a padded board with the legs and lyre off and the lid strapped; uprights travel upright on a four-wheel dolly with the keyboard face protected and the casters relieved of load. Nothing about that changes because the instrument is only going across town.</p>
-<h2>A Florida second floor is a 30 or 40 psf assembly</h2>
-<p>Table R301.5 of the 2023 Florida Residential Code sets minimum uniformly distributed live loads of 40 pounds per square foot for rooms other than sleeping rooms, 30 for sleeping rooms and 30 for habitable attics served by fixed stairs. Those are distributed design values, not a permission slip for a 760-pound point load on four wheels. Orange County's 2000s subdivision stock puts a bonus room over the garage at the top of a single switchback stair, and that stair, its landing and its handrail geometry are what decide whether the instrument can go up at all. Measure the tightest turn, the landing depth and the handrail projection before the date is confirmed.</p>
-<h2>Humidity is the reason the tuning is gone on arrival</h2>
-<p>Orlando's summer rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in August, and the air behaves accordingly. Wood soundboards and bridges take on and give up moisture with it, which moves the crown and the string tension. A piano that goes from a conditioned house into a truck on a wet afternoon and then into a house whose air conditioning has been off during a vacancy is going to need tuning after it settles, typically weeks later rather than the same day. Plan the tuning as a separate appointment and get the destination room's air conditioning running before the instrument arrives.</p>
-<h2>Getting the truck near the door in a canopy neighborhood</h2>
-<p>Orlando code section 61.226 requires canopy street trees on both sides of local streets at one per 50 to 100 lineal feet, so on the older grid in College Park and Audubon Park the practical clearance over the parkway is lower than a box truck's roofline. A piano is the one item where a long carry is genuinely worse than a short one, because every additional dolly transition over a driveway lip, a curb cut or a paver joint is another chance to load the caster brackets sideways. Where the truck cannot get close, the answer is a shorter shuttle vehicle, not a longer push.</p>
-<h2>What Florida lets a mover charge for it</h2>
-<p>Section 507.01 of the Florida Statutes names hoisting or lowering, long carry, elevator or stair carrying, disassembly or reassembly, crating and waiting time as accessorial services distinct from transportation. A piano move usually triggers several at once, and each should appear as its own line rather than as an unexplained special-handling figure. The same section defines valuation coverage as accessorial too, which is the point to settle before the instrument is on a board: released value in Florida cannot be set below 60 cents per pound per article, and 60 cents against 760 pounds is not a replacement fund for a concert grand.</p>
-<h2>The route walked before anything is lifted</h2>
-<p>The crew walks the full path first, both ends: door widths, threshold heights, the turn out of the room, the stair run, the driveway slope, the gate the truck has to clear. In a gated community, ask the association in writing whether a truck of that length uses the resident gate or a service entrance, and whether a certificate of insurance naming the association is required, because either can push the arrival past the morning window you wanted for a heat-sensitive instrument. Then the price is set against the real route: crew size, the number of transitions, board and dolly work, and the tuning you schedule for later.</p>
+### Weight and shape decide the equipment, not the room
+
+Published Steinway grand weights run from 540 pounds for the five-foot-one model S through 570 for the M, 610 for the O and L, 695 for the A, 760 for the B and 990 for the concert D. An upright is lighter but worse balanced, carrying most of its mass in the plate and the pinblock at the back. Grands travel on their side on a padded board with the legs and lyre off and the lid strapped; uprights travel upright on a four-wheel dolly with the keyboard face protected and the casters relieved of load. Nothing about that changes because the instrument is only going across town.
+
+### A Florida second floor is a 30 or 40 psf assembly
+
+Table R301.5 of the 2023 Florida Residential Code sets minimum uniformly distributed live loads of 40 pounds per square foot for rooms other than sleeping rooms, 30 for sleeping rooms and 30 for habitable attics served by fixed stairs. Those are distributed design values, not a permission slip for a 760-pound point load on four wheels. Orange County's 2000s subdivision stock puts a bonus room over the garage at the top of a single switchback stair, and that stair, its landing and its handrail geometry are what decide whether the instrument can go up at all. Measure the tightest turn, the landing depth and the handrail projection before the date is confirmed.
+
+### Humidity is the reason the tuning is gone on arrival
+
+Orlando's summer rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in August, and the air behaves accordingly. Wood soundboards and bridges take on and give up moisture with it, which moves the crown and the string tension. A piano that goes from a conditioned house into a truck on a wet afternoon and then into a house whose air conditioning has been off during a vacancy is going to need tuning after it settles, typically weeks later rather than the same day. Plan the tuning as a separate appointment and get the destination room's air conditioning running before the instrument arrives.
+
+### Getting the truck near the door in a canopy neighborhood
+
+Orlando code section 61.226 requires canopy street trees on both sides of local streets at one per 50 to 100 lineal feet, so on the older grid in College Park and Audubon Park the practical clearance over the parkway is lower than a box truck's roofline. A piano is the one item where a long carry is genuinely worse than a short one, because every additional dolly transition over a driveway lip, a curb cut or a paver joint is another chance to load the caster brackets sideways. Where the truck cannot get close, the answer is a shorter shuttle vehicle, not a longer push.
+
+### What Florida lets a mover charge for it
+
+Section 507.01 of the Florida Statutes names hoisting or lowering, long carry, elevator or stair carrying, disassembly or reassembly, crating and waiting time as accessorial services distinct from transportation. A piano move usually triggers several at once, and each should appear as its own line rather than as an unexplained special-handling figure. The same section defines valuation coverage as accessorial too, which is the point to settle before the instrument is on a board: released value in Florida cannot be set below 60 cents per pound per article, and 60 cents against 760 pounds is not a replacement fund for a concert grand.
+
+### The route walked before anything is lifted
+
+The crew walks the full path first, both ends: door widths, threshold heights, the turn out of the room, the stair run, the driveway slope, the gate the truck has to clear. In a gated community, ask the association in writing whether a truck of that length uses the resident gate or a service entrance, and whether a certificate of insurance naming the association is required, because either can push the arrival past the morning window you wanted for a heat-sensitive instrument. Then the price is set against the real route: crew size, the number of transitions, board and dolly work, and the tuning you schedule for later.
 
 ## svc_pool_table_moving_lede
 
@@ -633,18 +822,29 @@ A pool table cannot be carried as one object. The slate comes off in three piece
 
 ## svc_pool_table_moving_body
 
-<h2>Three pieces of slate, and each one is the whole job</h2>
-<p>Brunswick's own catalog specifications describe an eight-foot table with a 46 by 92 inch playfield on three-piece one-inch framed slate or one-and-a-quarter-inch unframed Brunstone, and a nine-foot table with a 50 by 100 inch playfield on three-piece slate. The slate is precision-machined level to ten thousandths of an inch, extends beneath the rails, and the rails are bolted through it with a floating nut plate so they can be pulled down to the playfield. That construction is why a table is never tipped, slid or moved assembled: the slate carries the rail load, and a cracked or chipped slate edge cannot be repaired back to a playing surface.</p>
-<h2>Disassembly in order, and every part labeled</h2>
-<p>The sequence is fixed. Pockets and rails off first with the hardware bagged per rail, then the cloth, which is unstapled or lifted from the glue depending on how it was fitted, then each slate section separated, lifted flat by enough hands to keep it flat, and carried on its edge in a padded frame. Then the frame and legs. Every fastener goes into a labeled bag tied to the component it came from, because rail bolts, slate screws and leg hardware are not interchangeable and a mismatched bolt through a slate hole is how slate cracks. Photograph the rail order before anything comes off.</p>
-<h2>Florida prices this as accessorial work, including the third party</h2>
-<p>Section 507.01 of the Florida Statutes lists disassembly or reassembly, hoisting or lowering, long carry, elevator or stair carrying, crating and waiting time as accessorial services separate from transportation, and expressly includes services performed by a third party at the shipper's or mover's request where the shipper pays the mover for them. That last clause covers the specialist who relevels and recloths the table at the destination. It is a legitimate arrangement, and it should show up on the written estimate as an identified line so you know whether the figure you were given includes the setup or stops at delivery.</p>
-<h2>Where it is going, and what that floor is rated for</h2>
-<p>Table R301.5 of the 2023 Florida Residential Code sets a minimum uniformly distributed live load of 40 pounds per square foot for rooms other than sleeping rooms and 30 psf for sleeping rooms. Those are distributed design values, and a slate table plus the people around it is a concentrated load in a small footprint. Of Orange County's 495,966 housing units, 128,260 went up between 2000 and 2009, and that era routinely puts the game room in a bonus room over the garage reached by one switchback stair. Slate up that stair is a measured job: landing dimension, turn radius and ceiling height at the top, checked before the date.</p>
-<h2>Humidity, and why the setup is not finished on delivery day</h2>
-<p>Orlando's rainfall normals run 7.35 inches in June, 7.15 in July and 6.25 in August against 48.35 inches for the year. Wood frames, rail feather strips and cloth all respond to that moisture, and a table moved from a conditioned house into a lanai conversion or a garage-adjacent room will settle. Releveling is done with shims under the slate and checked across all three sections and the seams, and it is worth rechecking a few weeks later once the wood has equalized in its new room. Get the destination room's air conditioning running before the table arrives.</p>
-<h2>Access, and the last thirty feet</h2>
-<p>Slate sections are heavy, flat and awkward, which makes the carry from the truck the highest-risk part of the day. Confirm the parking point, the width and threshold height of every door on the path, and whether the driveway or paver walk will take a loaded cart. In a gated community, ask the association in writing whether a truck of that length uses the resident gate or a service entrance and whether a certificate of insurance naming it is required, since waiting time at a guardhouse is billable under the same statutory list. Book the morning: Orlando's mean daily maximum is 92.2 degrees in July, and slate does not get lighter in the afternoon.</p>
+### Three pieces of slate, and each one is the whole job
+
+Brunswick's own catalog specifications describe an eight-foot table with a 46 by 92 inch playfield on three-piece one-inch framed slate or one-and-a-quarter-inch unframed Brunstone, and a nine-foot table with a 50 by 100 inch playfield on three-piece slate. The slate is precision-machined level to ten thousandths of an inch, extends beneath the rails, and the rails are bolted through it with a floating nut plate so they can be pulled down to the playfield. That construction is why a table is never tipped, slid or moved assembled: the slate carries the rail load, and a cracked or chipped slate edge cannot be repaired back to a playing surface.
+
+### Disassembly in order, and every part labeled
+
+The sequence is fixed. Pockets and rails off first with the hardware bagged per rail, then the cloth, which is unstapled or lifted from the glue depending on how it was fitted, then each slate section separated, lifted flat by enough hands to keep it flat, and carried on its edge in a padded frame. Then the frame and legs. Every fastener goes into a labeled bag tied to the component it came from, because rail bolts, slate screws and leg hardware are not interchangeable and a mismatched bolt through a slate hole is how slate cracks. Photograph the rail order before anything comes off.
+
+### Florida prices this as accessorial work, including the third party
+
+Section 507.01 of the Florida Statutes lists disassembly or reassembly, hoisting or lowering, long carry, elevator or stair carrying, crating and waiting time as accessorial services separate from transportation, and expressly includes services performed by a third party at the shipper's or mover's request where the shipper pays the mover for them. That last clause covers the specialist who relevels and recloths the table at the destination. It is a legitimate arrangement, and it should show up on the written estimate as an identified line so you know whether the figure you were given includes the setup or stops at delivery.
+
+### Where it is going, and what that floor is rated for
+
+Table R301.5 of the 2023 Florida Residential Code sets a minimum uniformly distributed live load of 40 pounds per square foot for rooms other than sleeping rooms and 30 psf for sleeping rooms. Those are distributed design values, and a slate table plus the people around it is a concentrated load in a small footprint. Of Orange County's 495,966 housing units, 128,260 went up between 2000 and 2009, and that era routinely puts the game room in a bonus room over the garage reached by one switchback stair. Slate up that stair is a measured job: landing dimension, turn radius and ceiling height at the top, checked before the date.
+
+### Humidity, and why the setup is not finished on delivery day
+
+Orlando's rainfall normals run 7.35 inches in June, 7.15 in July and 6.25 in August against 48.35 inches for the year. Wood frames, rail feather strips and cloth all respond to that moisture, and a table moved from a conditioned house into a lanai conversion or a garage-adjacent room will settle. Releveling is done with shims under the slate and checked across all three sections and the seams, and it is worth rechecking a few weeks later once the wood has equalized in its new room. Get the destination room's air conditioning running before the table arrives.
+
+### Access, and the last thirty feet
+
+Slate sections are heavy, flat and awkward, which makes the carry from the truck the highest-risk part of the day. Confirm the parking point, the width and threshold height of every door on the path, and whether the driveway or paver walk will take a loaded cart. In a gated community, ask the association in writing whether a truck of that length uses the resident gate or a service entrance and whether a certificate of insurance naming it is required, since waiting time at a guardhouse is billable under the same statutory list. Book the morning: Orlando's mean daily maximum is 92.2 degrees in July, and slate does not get lighter in the afternoon.
 
 ## svc_senior_moving_lede
 
@@ -652,18 +852,29 @@ A senior move in Orlando is usually a downsize, and the hard part is not the tru
 
 ## svc_senior_moving_body
 
-<h2>The inventory is a floor plan problem first</h2>
-<p>Fourteen point three percent of Orange County residents are 65 or over according to Census QuickFacts, and the typical origin is a house held for decades against a destination apartment or care residence with a published floor plan. The productive first step is measuring the destination rooms and placing the furniture on paper before anything is sorted. That converts an open-ended decision about a lifetime of belongings into a finite one: this wall takes a 72-inch dresser or it does not. Everything else then falls into keep, family, donate or dispose, and the truck is sized to the keep list rather than to the house.</p>
-<h2>Orlando's disposal limit is two items a week</h2>
-<p>The city collects up to two large items free at the curb on a household's yard-waste day with no need to schedule, covering sofas, chairs, dressers, TV consoles, toilets, sinks and standard appliances that two people can load by hand. Heavier items require a claw truck at a cost that varies with type and quantity, and a household with enough volume for multiple trips can request a dumpster or a dumpster bag for collection. Two items a week is the number that catches a downsize: a four-bedroom house cleared to a one-bedroom apartment generates far more than that. Either start the curb sequence weeks ahead or plan a single hauled removal and price it in.</p>
-<h2>Both dates are fixed, which is the real constraint</h2>
-<p>A senior move usually has a fixed admission or lease start at one end and a closing or a family handover at the other, with no slack between them. Where the two do not meet, the gap is bridged with storage. Section 507.01 of the Florida Statutes defines storage as the temporary warehousing of a shipper's goods while under the care, custody and control of the mover, which means the holding location and the terms belong in the written documents rather than in a verbal reassurance. Confirm what is being held, where, for how long, and what it costs to access it.</p>
-<h2>Utilities and the day the house goes empty</h2>
-<p>Inside the OUC service area the Move Service form is the tool that matters, because it lets service overlap at the old and new addresses instead of forcing a same-day switch. A start request at an address with no active service can be completed the same day when it is submitted before 4:00 p.m. on a weekday and becomes the next business day after that, with a $25 connection charge on the first bill. Air conditioning left running at the origin until the last carton leaves is not an indulgence in an Orlando August, when the mean daily maximum is 92.0 degrees.</p>
-<h2>Community access rules run the arrival time</h2>
-<p>Most destinations here are managed properties or associations. Ask in writing, before the date is set, whether a truck of that length uses the resident gate or a service entrance, whether a certificate of insurance naming the association or the community is required, whether a service elevator has to be reserved as a timed appointment, and which hours moving is permitted. Those four answers set the arrival time. A crew that reaches a guardhouse without them waits on the clock, and section 507.01 lists waiting time among the accessorial services a Florida mover may bill.</p>
-<h2>Unpacking is the part that decides how the week goes</h2>
-<p>The same statutory list names unpacking, crating and written inventory preparation as accessorial services, priced separately from transportation. On a downsize they are the ones worth buying. The useful scope is narrow and specific: bed assembled and made, bathroom and kitchen essentials placed and put away, medication and documents unpacked first and kept in one known place, television and lamps working, and cartons flattened and removed the same day so a small apartment is not a maze. Everything else can wait a week. Get that scope written into the estimate before load day rather than negotiated at the door.</p>
+### The inventory is a floor plan problem first
+
+Fourteen point three percent of Orange County residents are 65 or over according to Census QuickFacts, and the typical origin is a house held for decades against a destination apartment or care residence with a published floor plan. The productive first step is measuring the destination rooms and placing the furniture on paper before anything is sorted. That converts an open-ended decision about a lifetime of belongings into a finite one: this wall takes a 72-inch dresser or it does not. Everything else then falls into keep, family, donate or dispose, and the truck is sized to the keep list rather than to the house.
+
+### Orlando's disposal limit is two items a week
+
+The city collects up to two large items free at the curb on a household's yard-waste day with no need to schedule, covering sofas, chairs, dressers, TV consoles, toilets, sinks and standard appliances that two people can load by hand. Heavier items require a claw truck at a cost that varies with type and quantity, and a household with enough volume for multiple trips can request a dumpster or a dumpster bag for collection. Two items a week is the number that catches a downsize: a four-bedroom house cleared to a one-bedroom apartment generates far more than that. Either start the curb sequence weeks ahead or plan a single hauled removal and price it in.
+
+### Both dates are fixed, which is the real constraint
+
+A senior move usually has a fixed admission or lease start at one end and a closing or a family handover at the other, with no slack between them. Where the two do not meet, the gap is bridged with storage. Section 507.01 of the Florida Statutes defines storage as the temporary warehousing of a shipper's goods while under the care, custody and control of the mover, which means the holding location and the terms belong in the written documents rather than in a verbal reassurance. Confirm what is being held, where, for how long, and what it costs to access it.
+
+### Utilities and the day the house goes empty
+
+Inside the OUC service area the Move Service form is the tool that matters, because it lets service overlap at the old and new addresses instead of forcing a same-day switch. A start request at an address with no active service can be completed the same day when it is submitted before 4:00 p.m. on a weekday and becomes the next business day after that, with a $25 connection charge on the first bill. Air conditioning left running at the origin until the last carton leaves is not an indulgence in an Orlando August, when the mean daily maximum is 92.0 degrees.
+
+### Community access rules run the arrival time
+
+Most destinations here are managed properties or associations. Ask in writing, before the date is set, whether a truck of that length uses the resident gate or a service entrance, whether a certificate of insurance naming the association or the community is required, whether a service elevator has to be reserved as a timed appointment, and which hours moving is permitted. Those four answers set the arrival time. A crew that reaches a guardhouse without them waits on the clock, and section 507.01 lists waiting time among the accessorial services a Florida mover may bill.
+
+### Unpacking is the part that decides how the week goes
+
+The same statutory list names unpacking, crating and written inventory preparation as accessorial services, priced separately from transportation. On a downsize they are the ones worth buying. The useful scope is narrow and specific: bed assembled and made, bathroom and kitchen essentials placed and put away, medication and documents unpacked first and kept in one known place, television and lamps working, and cartons flattened and removed the same day so a small apartment is not a maze. Everything else can wait a week. Get that scope written into the estimate before load day rather than negotiated at the door.
 
 ## svc_single_item_moving_lede
 
@@ -671,18 +882,29 @@ One heavy thing, one address to another. A sleeper sofa out of a third-floor wal
 
 ## svc_single_item_moving_body
 
-<h2>The measurements that decide whether it goes at all</h2>
-<p>For a single piece the route is the entire job. What matters is the narrowest point, not the average: door leaf width with the door removed, the diagonal of the piece against the door opening, the stair run's tightest turn, the landing depth, handrail projection, and ceiling height at the top of the flight. An elevator adds two more numbers, the door opening and the internal diagonal, and a piece that will not stand on end inside the car is not going up in it. Send photographs and those dimensions before the booking, because the answer to "will it fit" is arithmetic and it can be settled in advance.</p>
-<h2>Access is the price, distance is not</h2>
-<p>Section 507.01 of the Florida Statutes lists long carry, elevator or stair carrying, hoisting or lowering, waiting time and disassembly or reassembly as accessorial services distinct from transportation. On a two-mile single-item move the transportation line is trivial and those accessorial lines are the whole bill. That is not a markup, it is where the labor is: four flights with a landing turn can take longer than driving across the county. Orange County has 32,055 apartment units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it walk-up stock, so stair carrying is the normal case here rather than the exception.</p>
-<h2>Downtown deliveries run on a 30-minute clock</h2>
-<p>For the 57,095 Orange County units in buildings of 20 or more, delivery is usually a dock or a marked freight zone. The city's Freight Loading and Unloading Permit applies to vehicles of 5,000 pounds gross weight or over 80 inches wide working downtown; freight zones are identified by a sign and an orange-painted curb, a vehicle cannot occupy one for more than 30 minutes, and it cannot return within 30 minutes of leaving. The permit has to be visible on the rear of the vehicle and the operator has to be actively loading. For a single item that is workable, but only if the elevator reservation and the building contact are already arranged when the truck arrives.</p>
-<h2>Protecting one piece properly</h2>
-<p>A single item gets more protection than the same item would inside a full load, because it has no neighbors bracing it. Glass and stone tops come off and travel on edge in a padded frame or crate, never flat. Upholstery is blanketed and banded before it leaves the room. A treadmill's console folds and locks and the deck is strapped. Feet, casters and finished corners get individual padding, since those are what catch a door casing. Then it is strapped to the wall of the truck rather than left to slide, which is the difference between a single-item move and a favor with a pickup truck.</p>
-<h2>The piece that is being replaced</h2>
-<p>Most single-item deliveries create a single-item removal. The City of Orlando picks up two large items free at the curb on the household's yard-waste day with no call needed, and the eligible list covers sofas, chairs, dressers, TV consoles, toilets, sinks and standard appliances that two people can load by hand. Anything heavier requires a claw truck at a cost that varies with type and quantity. Items go at the edge of the property before the curb, clear of the sidewalk, mailbox, hydrant, storm drain and overhead utilities. Refrigerator and freezer doors must be removed first.</p>
-<h2>Heat, and why the slot matters on a short job</h2>
-<p>Orlando's mean daily maximum is 92.2 degrees in July and 92.0 in August in the National Weather Service Melbourne normals, and Florida has no state heat-exposure standard for outdoor work after House Bill 433 in 2024 preempted local ones. A single-item job is mostly carrying, with none of the indoor pauses a full move provides, so an early slot is worth asking for. In a gated community, confirm in writing whether the truck uses the resident gate or a service entrance and whether a certificate of insurance naming the association is required, because a wait at a guardhouse on a one-item job is billable time against a job that should take an hour.</p>
+### The measurements that decide whether it goes at all
+
+For a single piece the route is the entire job. What matters is the narrowest point, not the average: door leaf width with the door removed, the diagonal of the piece against the door opening, the stair run's tightest turn, the landing depth, handrail projection, and ceiling height at the top of the flight. An elevator adds two more numbers, the door opening and the internal diagonal, and a piece that will not stand on end inside the car is not going up in it. Send photographs and those dimensions before the booking, because the answer to "will it fit" is arithmetic and it can be settled in advance.
+
+### Access is the price, distance is not
+
+Section 507.01 of the Florida Statutes lists long carry, elevator or stair carrying, hoisting or lowering, waiting time and disassembly or reassembly as accessorial services distinct from transportation. On a two-mile single-item move the transportation line is trivial and those accessorial lines are the whole bill. That is not a markup, it is where the labor is: four flights with a landing turn can take longer than driving across the county. Orange County has 32,055 apartment units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it walk-up stock, so stair carrying is the normal case here rather than the exception.
+
+### Downtown deliveries run on a 30-minute clock
+
+For the 57,095 Orange County units in buildings of 20 or more, delivery is usually a dock or a marked freight zone. The city's Freight Loading and Unloading Permit applies to vehicles of 5,000 pounds gross weight or over 80 inches wide working downtown; freight zones are identified by a sign and an orange-painted curb, a vehicle cannot occupy one for more than 30 minutes, and it cannot return within 30 minutes of leaving. The permit has to be visible on the rear of the vehicle and the operator has to be actively loading. For a single item that is workable, but only if the elevator reservation and the building contact are already arranged when the truck arrives.
+
+### Protecting one piece properly
+
+A single item gets more protection than the same item would inside a full load, because it has no neighbors bracing it. Glass and stone tops come off and travel on edge in a padded frame or crate, never flat. Upholstery is blanketed and banded before it leaves the room. A treadmill's console folds and locks and the deck is strapped. Feet, casters and finished corners get individual padding, since those are what catch a door casing. Then it is strapped to the wall of the truck rather than left to slide, which is the difference between a single-item move and a favor with a pickup truck.
+
+### The piece that is being replaced
+
+Most single-item deliveries create a single-item removal. The City of Orlando picks up two large items free at the curb on the household's yard-waste day with no call needed, and the eligible list covers sofas, chairs, dressers, TV consoles, toilets, sinks and standard appliances that two people can load by hand. Anything heavier requires a claw truck at a cost that varies with type and quantity. Items go at the edge of the property before the curb, clear of the sidewalk, mailbox, hydrant, storm drain and overhead utilities. Refrigerator and freezer doors must be removed first.
+
+### Heat, and why the slot matters on a short job
+
+Orlando's mean daily maximum is 92.2 degrees in July and 92.0 in August in the National Weather Service Melbourne normals, and Florida has no state heat-exposure standard for outdoor work after House Bill 433 in 2024 preempted local ones. A single-item job is mostly carrying, with none of the indoor pauses a full move provides, so an early slot is worth asking for. In a gated community, confirm in writing whether the truck uses the resident gate or a service entrance and whether a certificate of insurance naming the association is required, because a wait at a guardhouse on a one-item job is billable time against a job that should take an hour.
 
 ## svc_storage_and_moving_lede
 
@@ -690,18 +912,29 @@ Storage enters an Orlando move when the two dates do not meet. Florida defines i
 
 ## svc_storage_and_moving_body
 
-<h2>What Florida means by storage</h2>
-<p>Section 507.01 of the Florida Statutes defines storage as the temporary warehousing of a shipper's goods while under the care, custody and control of the mover, and lists storage among the accessorial services a mover may charge for. Those two facts together decide how the arrangement should read: the goods remain in the mover's custody, so the holding location, the access terms and the storage charge belong in the written documents alongside the transportation figure. Ask specifically whether the shipment is stored still loaded in a trailer or vault, or unloaded onto racking, because that determines whether you can reach one item without paying for a full unload.</p>
-<h2>Storage in transit versus a unit you rent yourself</h2>
-<p>Two different products get called storage. Storage in transit keeps the shipment in the mover's custody between load and delivery and is billed as an accessorial. A self-storage unit you rent yourself is a lease, the mover delivers into it, and custody transfers at the door. The first keeps one party responsible from origin to destination. The second is usually cheaper and gives you a key, but it splits liability at the moment the crew leaves. Neither is wrong; the mistake is buying one while believing the other, and the written estimate is where that gets settled.</p>
-<h2>Air conditioning is not a luxury on stored goods here</h2>
-<p>Orlando's rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in August against 48.35 inches for the year, and the ambient moisture that comes with that is what stored furniture reacts to. Wood joints, leather, paper, electronics and anything upholstered do measurably better in conditioned space over a Florida summer. If a shipment is going to sit through July and August, the question to ask is not whether a facility is called climate controlled but what temperature and humidity range it actually holds and whether it holds it overnight and on weekends.</p>
-<h2>Ground-level storage and what a wet year looks like</h2>
-<p>Storms here move a lot of water inland, not just onto the coast. National Weather Service Melbourne recorded Orange County storm totals from Hurricane Ian of 17.24 inches three miles south-southwest of University Park, 14.96 inches at Azalea Park, 13.20 inches at Orlando International and 12.33 inches in Orlando between September 27 and September 30, 2022. That is the argument against a ground-level drive-up unit for a shipment that has to survive a hurricane season, and the argument for knowing where a facility sits relative to local drainage before a household's furniture is put in it.</p>
-<h2>The container in the driveway is an association question</h2>
-<p>Portable containers solve the timing problem by parking the storage at the house, and that is exactly why they run into community rules. Florida's statute 720.3045 prohibits an association from restricting items an owner or tenant stores on a parcel when those items are not visible from the parcel's frontage, an adjacent parcel, an adjacent common area or a community golf course. A container in a driveway is visible from the frontage, which puts it outside that protection and squarely inside whatever the association's own rules say. Get written permission and a stated number of days before a container is delivered.</p>
-<h2>Hurricane season is the calendar this runs on</h2>
-<p>The Atlantic season runs June 1 to November 30 with a statistical peak on September 10 and most activity between mid-August and mid-October, against 1991-2020 averages of 14 named storms, seven hurricanes and three major hurricanes. A storage layover scheduled across September should be planned with the assumption that a delivery week can slip. Keep documents, medication and anything irreplaceable out of storage entirely, keep an itemized inventory of what went in, and agree in writing how quickly the shipment can be released and delivered once a date opens.</p>
+### What Florida means by storage
+
+Section 507.01 of the Florida Statutes defines storage as the temporary warehousing of a shipper's goods while under the care, custody and control of the mover, and lists storage among the accessorial services a mover may charge for. Those two facts together decide how the arrangement should read: the goods remain in the mover's custody, so the holding location, the access terms and the storage charge belong in the written documents alongside the transportation figure. Ask specifically whether the shipment is stored still loaded in a trailer or vault, or unloaded onto racking, because that determines whether you can reach one item without paying for a full unload.
+
+### Storage in transit versus a unit you rent yourself
+
+Two different products get called storage. Storage in transit keeps the shipment in the mover's custody between load and delivery and is billed as an accessorial. A self-storage unit you rent yourself is a lease, the mover delivers into it, and custody transfers at the door. The first keeps one party responsible from origin to destination. The second is usually cheaper and gives you a key, but it splits liability at the moment the crew leaves. Neither is wrong; the mistake is buying one while believing the other, and the written estimate is where that gets settled.
+
+### Air conditioning is not a luxury on stored goods here
+
+Orlando's rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in August against 48.35 inches for the year, and the ambient moisture that comes with that is what stored furniture reacts to. Wood joints, leather, paper, electronics and anything upholstered do measurably better in conditioned space over a Florida summer. If a shipment is going to sit through July and August, the question to ask is not whether a facility is called climate controlled but what temperature and humidity range it actually holds and whether it holds it overnight and on weekends.
+
+### Ground-level storage and what a wet year looks like
+
+Storms here move a lot of water inland, not just onto the coast. National Weather Service Melbourne recorded Orange County storm totals from Hurricane Ian of 17.24 inches three miles south-southwest of University Park, 14.96 inches at Azalea Park, 13.20 inches at Orlando International and 12.33 inches in Orlando between September 27 and September 30, 2022. That is the argument against a ground-level drive-up unit for a shipment that has to survive a hurricane season, and the argument for knowing where a facility sits relative to local drainage before a household's furniture is put in it.
+
+### The container in the driveway is an association question
+
+Portable containers solve the timing problem by parking the storage at the house, and that is exactly why they run into community rules. Florida's statute 720.3045 prohibits an association from restricting items an owner or tenant stores on a parcel when those items are not visible from the parcel's frontage, an adjacent parcel, an adjacent common area or a community golf course. A container in a driveway is visible from the frontage, which puts it outside that protection and squarely inside whatever the association's own rules say. Get written permission and a stated number of days before a container is delivered.
+
+### Hurricane season is the calendar this runs on
+
+The Atlantic season runs June 1 to November 30 with a statistical peak on September 10 and most activity between mid-August and mid-October, against 1991-2020 averages of 14 named storms, seven hurricanes and three major hurricanes. A storage layover scheduled across September should be planned with the assumption that a delivery week can slip. Keep documents, medication and anything irreplaceable out of storage entirely, keep an itemized inventory of what went in, and agree in writing how quickly the shipment can be released and delivered once a date opens.
 
 ## svc_unpacking_services_lede
 
@@ -709,15 +942,27 @@ Unpacking is the difference between a house with your belongings in it and a hou
 
 ## svc_unpacking_services_body
 
-<h2>It is a separate service with a definable scope</h2>
-<p>Section 507.01 of the Florida Statutes lists packing, unpacking and crating among accessorial services a mover may charge for, distinct from transportation, alongside written inventory preparation and disassembly or reassembly. Because it is separate, it can be bought narrowly. A useful scope reads room by room: kitchen unpacked and placed in cabinets, beds assembled and made, bathrooms stocked, televisions and lamps working, wardrobes hung, and all cartons and paper removed the same day. What gets left is anything requiring a decision, because decisions are what turn a four-hour unpack into a three-day one.</p>
-<h2>Order matters more than speed</h2>
-<p>The sequence that makes a house usable fastest is beds, bathrooms, kitchen, then everything else. Beds first because the first night is decided by them; bathrooms second because they need almost nothing; kitchen third because it takes the longest and benefits most from a plan about which cabinet gets what. Cartons are opened in the room they belong to and emptied completely rather than half sorted, which is why labeling by destination room at the origin pays for itself here. Anything unlabeled goes to one staging area rather than into whichever room it was carried to.</p>
-<h2>Flattened cardboard, and only cardboard</h2>
-<p>The City of Orlando's recycling cart takes cardboard as flattened boxes, along with paper, empty and clean plastic bottles and containers, glass bottles and jars with the lids removed, and empty metal cans. It does not take plastic bags, polystyrene foam cups or containers, aluminum food pans or food waste, and the city asks that recycling be emptied directly into the cart rather than bagged, because plastic bags damage sorting machinery. On a full-house unpack that produces a real logistics problem: the packing paper and bubble wrap are not cart material, and a hundred cartons will not fit in one cart in one week even flattened.</p>
-<h2>The two-item rule, and what it means for a full unpack</h2>
-<p>For anything too large for the cart, the city collects up to two large items free at the curb on the household's yard-waste day with no need to schedule, covering furniture and appliances two people can load by hand. Items that need a claw truck cost more depending on type and quantity, and a household with volume enough for multiple trips can request a dumpster or a dumpster bag the city will collect. Items go at the edge of the property before the curb, clear of the sidewalk, mailbox, hydrant, storm drain and overhead utilities, and refrigerator and freezer doors must come off first. For a whole-house unpack, arrange the carton removal as part of the service rather than assuming the curb absorbs it.</p>
-<h2>Do not leave cartons in an Orlando garage</h2>
-<p>Orlando's rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in August, and its mean daily maximum sits above 90 degrees from June through September. Cartons stored in an unconditioned garage through that soften at the seams and can hold moisture and odor, so the boxes saved "for next time" are frequently not usable next time. If cartons are being kept, keep them flat and indoors. Otherwise flatten them for the cart on a schedule, a manageable batch each collection day, rather than stacking them in the garage where they will sit until they fail.</p>
-<h2>The walk-up ending, and the hurricane box</h2>
-<p>Orange County counts 32,055 units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it stock with an exterior stair and no elevator, so carton removal from an upper-floor unit is stair work in both directions and worth including in the scope explicitly. One more Orlando-specific item belongs in the unpack: the hurricane supplies. The Atlantic season runs June 1 to November 30 with a statistical peak on September 10, so water, batteries, a light, medication and documents should come out of a carton and into a known location during the unpack, not in August when a watch is issued.</p>
+### It is a separate service with a definable scope
+
+Section 507.01 of the Florida Statutes lists packing, unpacking and crating among accessorial services a mover may charge for, distinct from transportation, alongside written inventory preparation and disassembly or reassembly. Because it is separate, it can be bought narrowly. A useful scope reads room by room: kitchen unpacked and placed in cabinets, beds assembled and made, bathrooms stocked, televisions and lamps working, wardrobes hung, and all cartons and paper removed the same day. What gets left is anything requiring a decision, because decisions are what turn a four-hour unpack into a three-day one.
+
+### Order matters more than speed
+
+The sequence that makes a house usable fastest is beds, bathrooms, kitchen, then everything else. Beds first because the first night is decided by them; bathrooms second because they need almost nothing; kitchen third because it takes the longest and benefits most from a plan about which cabinet gets what. Cartons are opened in the room they belong to and emptied completely rather than half sorted, which is why labeling by destination room at the origin pays for itself here. Anything unlabeled goes to one staging area rather than into whichever room it was carried to.
+
+### Flattened cardboard, and only cardboard
+
+The City of Orlando's recycling cart takes cardboard as flattened boxes, along with paper, empty and clean plastic bottles and containers, glass bottles and jars with the lids removed, and empty metal cans. It does not take plastic bags, polystyrene foam cups or containers, aluminum food pans or food waste, and the city asks that recycling be emptied directly into the cart rather than bagged, because plastic bags damage sorting machinery. On a full-house unpack that produces a real logistics problem: the packing paper and bubble wrap are not cart material, and a hundred cartons will not fit in one cart in one week even flattened.
+
+### The two-item rule, and what it means for a full unpack
+
+For anything too large for the cart, the city collects up to two large items free at the curb on the household's yard-waste day with no need to schedule, covering furniture and appliances two people can load by hand. Items that need a claw truck cost more depending on type and quantity, and a household with volume enough for multiple trips can request a dumpster or a dumpster bag the city will collect. Items go at the edge of the property before the curb, clear of the sidewalk, mailbox, hydrant, storm drain and overhead utilities, and refrigerator and freezer doors must come off first. For a whole-house unpack, arrange the carton removal as part of the service rather than assuming the curb absorbs it.
+
+### Do not leave cartons in an Orlando garage
+
+Orlando's rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in August, and its mean daily maximum sits above 90 degrees from June through September. Cartons stored in an unconditioned garage through that soften at the seams and can hold moisture and odor, so the boxes saved "for next time" are frequently not usable next time. If cartons are being kept, keep them flat and indoors. Otherwise flatten them for the cart on a schedule, a manageable batch each collection day, rather than stacking them in the garage where they will sit until they fail.
+
+### The walk-up ending, and the hurricane box
+
+Orange County counts 32,055 units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it stock with an exterior stair and no elevator, so carton removal from an upper-floor unit is stair work in both directions and worth including in the scope explicitly. One more Orlando-specific item belongs in the unpack: the hurricane supplies. The Atlantic season runs June 1 to November 30 with a statistical peak on September 10, so water, batteries, a light, medication and documents should come out of a carton and into a known location during the unpack, not in August when a watch is issued.
+

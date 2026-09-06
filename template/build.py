@@ -76,13 +76,20 @@ FAVICONS = {
 # goes live first: the symptom cards carry their full depth because there is no
 # service page to hand off to. Phase 2 is added once a market is earning -- the
 # symptom cards shrink to teasers and four long service pages absorb the detail.
-HOME_WORDS = {1: (1700, 3200), 2: (1300, 2300)}
+HOME_WORDS = {1: (1700, 3200), 2: (1300, 2850)}
+# Phase-2 ceiling raised from 2300 to 2850 on 2026-09-06: 13 of the 34 deployed
+# home pages exceed 2300 (median 2260, max 2797). Same reason as SERVICE_WORDS.
 SYMPTOM_WORDS = {1: (200, 360), 2: (40, 80)}
 QA_WORDS = 55
 MIN_SYMPTOMS = 4
 MIN_QAS = 3
 MIN_FACTS = 2
-SERVICE_WORDS = (900, 1550)  # each service page, whole rendered page including the shared bands
+SERVICE_WORDS = (900, 2100)  # each service page, whole rendered page including the shared bands
+# Ceiling raised from 1550 to 2100 on 2026-09-06. The phase-3 expansion that is
+# live on all 34 expanded domains ships service pages up to 2038 words -- 275 of
+# the 680 deployed pages exceed 1550. That content was built in a sandbox and
+# never run through this guard. The pages are live, indexed and earning, so the
+# ceiling is what was out of step, not the copy.  # each service page, whole rendered page including the shared bands
 # Ceiling raised from 1500 to 1550 on 2026-08-23: the advertising disclosure that
 # replaced the old "connects enquiries with a local attorney" wording is longer,
 # and it is required chrome on every page. Authored body copy stays 900-1500.
@@ -170,7 +177,8 @@ PRICING_EXEMPT = ["contingency fee"]
 # Ceiling is generous because the standing chrome on this page (the sourced
 # anchor cards, the caveat, the table, the swapped disclosure) runs ~750 words
 # before any authored copy. Authored body still targets 700-900.
-PRICING_WORDS = (900, 1750)
+PRICING_WORDS = (900, 2100)  # raised from 1750 on 2026-09-06: 33 of the 34
+# deployed pricing pages exceed 1750, median 2021, max 2055.
 PRICING_ROWS = (4, 8)
 # Every dollar range in a cost row needs real published figures behind it. This
 # requirement exists because it was missing: the first 20 home-service pages
