@@ -323,10 +323,31 @@ async function onRequest(request, env) {
     return env.ASSETS.fetch(request);
   }
 
+  // ASSETS is asked for "/<host><path>", so any redirect it generates carries
+  // that internal prefix in Location -- most often its own trailing-slash 308
+  // on "/<host>/services". Returned as-is, the browser resolves it against the
+  // public origin and asks for "/services/" prefixed a second time, which is a
+  // guaranteed 404. Googlebot arrives on slash-less URLs far more than visitors
+  // do, because internal links here all carry the slash, so this surfaced in
+  // Search Console as "Page with redirect" long before anyone saw it in a
+  // browser. Strip the prefix back off before the response leaves the worker.
+  const unprefix = (res) => {
+    const loc = res.headers.get("Location");
+    if (!loc) return res;
+    let abs;
+    try { abs = new URL(loc, url); } catch (e) { return res; }
+    if (abs.origin !== url.origin) return res;
+    const pfx = "/" + host;
+    if (abs.pathname !== pfx && !abs.pathname.startsWith(pfx + "/")) return res;
+    const h = new Headers(res.headers);
+    h.set("Location", (abs.pathname.slice(pfx.length) || "/") + abs.search + abs.hash);
+    return new Response(res.body, { status: res.status, statusText: res.statusText, headers: h });
+  };
+
   const at = (p) => {
     const u = new URL(request.url);
     u.pathname = "/" + host + p;
-    return env.ASSETS.fetch(new Request(u.toString(), request));
+    return env.ASSETS.fetch(new Request(u.toString(), request)).then(unprefix);
   };
 
   let res = await at(url.pathname);
