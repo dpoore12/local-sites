@@ -201,7 +201,41 @@ a{color:#143d59;font-weight:700}</style></head><body><div class="b">
 <p><a href="/">Back to the site</a></p></div></body></html>`;
 }
 
+// The desk lists every lead across all 83 sites and offers a CSV of them, and
+// it answers on every domain, so an unauthenticated 200 here hands the whole
+// customer list to anyone holding the URL. Google had already discovered it.
+// Fails closed: with no LEAD_PASS configured nobody gets in, rather than the
+// door standing open because a secret went missing.
+function deskDenied() {
+  return new Response("Authentication required.", {
+    status: 401,
+    headers: {
+      "WWW-Authenticate": 'Basic realm="Lead desk", charset="UTF-8"',
+      "Cache-Control": "no-store",
+      "X-Robots-Tag": "noindex, nofollow",
+    },
+  });
+}
+
+function deskAuthorized(request, env) {
+  const expected = env.LEAD_PASS;
+  if (!expected) return false;
+  const m = /^Basic\s+(.+)$/i.exec(request.headers.get("Authorization") || "");
+  if (!m) return false;
+  let decoded;
+  try { decoded = atob(m[1].trim()); } catch (e) { return false; }
+  const i = decoded.indexOf(":");
+  const pass = i < 0 ? "" : decoded.slice(i + 1);
+  // Length-independent compare so the response time does not leak the secret.
+  let diff = pass.length ^ expected.length;
+  for (let n = 0; n < pass.length; n++) {
+    diff |= pass.charCodeAt(n) ^ expected.charCodeAt(n % expected.length);
+  }
+  return diff === 0;
+}
+
 async function leadDesk(request, env) {
+  if (!deskAuthorized(request, env)) return deskDenied();
   if (!env.LEADS) return new Response("Lead store not configured.", { status: 500 });
   const url = new URL(request.url);
   const site = (url.searchParams.get("site") || "").toLowerCase();
@@ -321,6 +355,15 @@ async function onRequest(request, env) {
 
   if (host.endsWith(".pages.dev") || host === "localhost") {
     return env.ASSETS.fetch(request);
+  }
+
+  // Three domains carry a proxied www A record; the other 80 do not. Serving
+  // both spellings would put the same page at two addresses, so www is sent to
+  // the bare domain once, permanently, and the canonical tag agrees with it.
+  if (url.hostname.toLowerCase().startsWith("www.")) {
+    const to = new URL(url.toString());
+    to.hostname = host;
+    return Response.redirect(to.toString(), 301);
   }
 
   // ASSETS is asked for "/<host><path>", so any redirect it generates carries
