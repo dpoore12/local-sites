@@ -184,6 +184,12 @@ PRICING_WORDS = (900, 2100)  # raised from 1750 on 2026-09-06: 33 of the 34
 # specifies 400-600 authored words for suburb pages (short, scannable, many), so
 # the rendered page lands about 770-970. Banded with headroom at each end.
 LOCATION_WORDS = (740, 1100)
+# Question pages answer a specific homeowner search ("why is my furnace blowing
+# cold air") rather than selling a service. Chrome measures ~305 words, so this
+# band holds the authored answer to the 400-600 words RANKING-PLAN-AUG29 specifies
+# for short-form pages - long enough to answer properly, short enough that the
+# survey's finding against long-form still holds.
+QUESTION_WORDS = (700, 1150)
 PRICING_ROWS = (4, 8)
 # Every dollar range in a cost row needs real published figures behind it. This
 # requirement exists because it was missing: the first 20 home-service pages
@@ -935,6 +941,31 @@ def build(domain, live=False, check_only=False, corpus=None):
             if not (LOCATION_WORDS[0] <= wc <= LOCATION_WORDS[1]):
                 errs.append(f"town {o['slug']}: {wc} visible words, must be "
                             f"{LOCATION_WORDS[0]}-{LOCATION_WORDS[1]}")
+            pages[f"{o['slug']}/index.html"] = html
+
+    # --- question pages ------------------------------------------------------
+    # The measured reason these exist: pages answering a specific question rank
+    # for queries whose competitors carry 0-3 referring domains, which is a bar
+    # this network already clears. The commercial city terms need 70+ and do not.
+    questions = s.get("questions") or []
+    if questions:
+        q_tpl = env.get_template("question.html")
+        for o in questions:
+            key = o["slug"].replace("-", "_")
+            lede = c.get(f"q_{key}_lede", "")
+            body = c.get(f"q_{key}_body", "")
+            if not lede or not body:
+                errs.append(f"question {o['slug']}: missing q_{key}_lede or q_{key}_body in copy.md")
+                continue
+            html = q_tpl.render(
+                meta_title=f"{o['h1']} | {s['city']}, {s['state']}",
+                meta_description=lede.split(". ")[0][:155] + ".",
+                canonical_path=f"/{o['slug']}/", base="../", schema_json=None,
+                q=o, q_lede=lede, q_body=_promote_headings(md.markdown(body)), **ctx)
+            wc = len(visible_words(html))
+            if not (QUESTION_WORDS[0] <= wc <= QUESTION_WORDS[1]):
+                errs.append(f"question {o['slug']}: {wc} visible words, must be "
+                            f"{QUESTION_WORDS[0]}-{QUESTION_WORDS[1]}")
             pages[f"{o['slug']}/index.html"] = html
 
     # --- post-render guards ---------------------------------------------------

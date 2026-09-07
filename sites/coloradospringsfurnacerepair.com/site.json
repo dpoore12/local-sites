@@ -326,5 +326,187 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-long-does-a-furnace-last",
+      "h1": "How Long a Furnace Lasts",
+      "accent": "At 6,035 Feet",
+      "photo": "assets/work-1.jpg",
+      "icon": "clock",
+      "keyword": "how long does a furnace last",
+      "volume": 6600
+    },
+    {
+      "slug": "furnace-blowing-cold-air",
+      "h1": "Why a Furnace Blows Cold Air",
+      "accent": "Six Causes, Ranked",
+      "photo": "assets/work-2.jpg",
+      "icon": "bolt",
+      "keyword": "furnace blowing cold air",
+      "volume": 1300
+    },
+    {
+      "slug": "how-to-reset-a-furnace",
+      "h1": "How to Reset a Furnace",
+      "accent": "And When Not To",
+      "photo": "assets/work-3.jpg",
+      "icon": "gear",
+      "keyword": "how to reset a furnace",
+      "volume": 1000
+    },
+    {
+      "slug": "furnace-leaking-water",
+      "h1": "Why a Furnace Leaks Water",
+      "accent": "Condensate, Not a Pipe",
+      "photo": "assets/work-1.jpg",
+      "icon": "shield",
+      "keyword": "furnace leaking water",
+      "volume": 880
+    },
+    {
+      "slug": "furnace-wont-ignite",
+      "h1": "When a Furnace Will Not Ignite",
+      "accent": "Ignition, Gas or Safety",
+      "photo": "assets/work-2.jpg",
+      "icon": "wrench",
+      "keyword": "furnace wont ignite",
+      "volume": 720
+    },
+    {
+      "slug": "furnace-not-turning-on",
+      "h1": "When a Furnace Will Not Turn On",
+      "accent": "Power Before Parts",
+      "photo": "assets/work-3.jpg",
+      "icon": "check",
+      "keyword": "furnace not turning on",
+      "volume": 590
+    },
+    {
+      "slug": "furnace-pilot-light-out",
+      "h1": "A Pilot Light That Will Not Stay Lit",
+      "accent": "Thermocouple Territory",
+      "photo": "assets/work-1.jpg",
+      "icon": "home",
+      "keyword": "furnace pilot light out",
+      "volume": 590
+    },
+    {
+      "slug": "furnace-blower-not-working",
+      "h1": "When the Blower Will Not Run",
+      "accent": "Motor, Capacitor or Board",
+      "photo": "assets/work-2.jpg",
+      "icon": "tool",
+      "keyword": "furnace blower not working",
+      "volume": 590
+    },
+    {
+      "slug": "what-size-furnace-do-i-need",
+      "h1": "What Size Furnace a Home Needs",
+      "accent": "Derated for Altitude",
+      "photo": "assets/work-3.jpg",
+      "icon": "gear",
+      "keyword": "what size furnace do i need",
+      "volume": 480
+    },
+    {
+      "slug": "furnace-smells-like-burning",
+      "h1": "Why a Furnace Smells Like Burning",
+      "accent": "Dust, Wiring or Worse",
+      "photo": "assets/work-1.jpg",
+      "icon": "shield",
+      "keyword": "furnace smells like burning",
+      "volume": 480
+    },
+    {
+      "slug": "furnace-keeps-shutting-off",
+      "h1": "A Furnace That Keeps Shutting Off",
+      "accent": "Usually a Safety Doing Its Job",
+      "photo": "assets/work-2.jpg",
+      "icon": "bolt",
+      "keyword": "furnace keeps shutting off",
+      "volume": 480
+    },
+    {
+      "slug": "cracked-heat-exchanger-signs",
+      "h1": "Signs of a Cracked Heat Exchanger",
+      "accent": "The One That Ends a Furnace",
+      "photo": "assets/work-3.jpg",
+      "icon": "shield",
+      "keyword": "cracked heat exchanger signs",
+      "volume": 320
+    },
+    {
+      "slug": "furnace-short-cycling",
+      "h1": "Why a Furnace Short Cycles",
+      "accent": "Oversizing or Overheating",
+      "photo": "assets/work-1.jpg",
+      "icon": "clock",
+      "keyword": "furnace short cycling",
+      "volume": 260
+    },
+    {
+      "slug": "furnace-is-loud",
+      "h1": "Why a Furnace Is Loud",
+      "accent": "Each Noise Names a Part",
+      "photo": "assets/work-2.jpg",
+      "icon": "wrench",
+      "keyword": "furnace is loud",
+      "volume": 260
+    },
+    {
+      "slug": "furnace-not-blowing-hot-air",
+      "h1": "Air That Is Moving But Not Warm",
+      "accent": "Burner Side, Not Blower",
+      "photo": "assets/work-3.jpg",
+      "icon": "bolt",
+      "keyword": "furnace not blowing hot air",
+      "volume": 260
+    },
+    {
+      "slug": "furnace-buzzing",
+      "h1": "Why a Furnace Buzzes",
+      "accent": "Electrical, Almost Always",
+      "photo": "assets/work-1.jpg",
+      "icon": "check",
+      "keyword": "furnace buzzing",
+      "volume": 210
+    },
+    {
+      "slug": "what-furnace-repair-costs",
+      "h1": "What Furnace Repair Costs",
+      "accent": "The Shape of the Range",
+      "photo": "assets/work-2.jpg",
+      "icon": "home",
+      "keyword": "what furnace repair costs",
+      "volume": 210
+    },
+    {
+      "slug": "furnace-fan-wont-turn-off",
+      "h1": "A Fan That Will Not Stop",
+      "accent": "Limit Switch or Fan Setting",
+      "photo": "assets/work-3.jpg",
+      "icon": "gear",
+      "keyword": "furnace fan wont turn off",
+      "volume": 210
+    },
+    {
+      "slug": "bad-furnace-ignitor-signs",
+      "h1": "How to Tell an Ignitor Has Failed",
+      "accent": "Before Replacing It",
+      "photo": "assets/work-1.jpg",
+      "icon": "tool",
+      "keyword": "bad furnace ignitor signs",
+      "volume": 170
+    },
+    {
+      "slug": "furnace-not-blowing-air",
+      "h1": "No Air at the Registers",
+      "accent": "Blower, Filter or Duct",
+      "photo": "assets/work-2.jpg",
+      "icon": "clock",
+      "keyword": "furnace not blowing air",
+      "volume": 140
+    }
+  ]
 }
