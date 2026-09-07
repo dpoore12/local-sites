@@ -179,6 +179,11 @@ PRICING_EXEMPT = ["contingency fee"]
 # before any authored copy. Authored body still targets 700-900.
 PRICING_WORDS = (900, 2100)  # raised from 1750 on 2026-09-06: 33 of the 34
 # deployed pricing pages exceed 1750, median 2021, max 2055.
+# The location page carries lighter chrome than a service page - no sourced-facts
+# band - which measures at ~366 words around the authored body. RANKING-PLAN-AUG29
+# specifies 400-600 authored words for suburb pages (short, scannable, many), so
+# the rendered page lands about 770-970. Banded with headroom at each end.
+LOCATION_WORDS = (740, 1100)
 PRICING_ROWS = (4, 8)
 # Every dollar range in a cost row needs real published figures behind it. This
 # requirement exists because it was missing: the first 20 home-service pages
@@ -906,6 +911,31 @@ def build(domain, live=False, check_only=False, corpus=None):
             errs.append(f"service {o['slug']}: {wc} visible words, must be "
                         f"{SERVICE_WORDS[0]}-{SERVICE_WORDS[1]}")
         pages[f"{o['slug']}/index.html"] = html
+
+    # --- location pages ------------------------------------------------------
+    # One page per surrounding town. These target "service + town", which is a
+    # different search from "service + city" and one the site cannot currently
+    # appear for at all. Sites with no "towns" key simply skip this.
+    towns = s.get("towns") or []
+    if towns:
+        loc_tpl = env.get_template("location.html")
+        for o in towns:
+            key = o["slug"].replace("-", "_")
+            lede = c.get(f"loc_{key}_lede", "")
+            body = c.get(f"loc_{key}_body", "")
+            if not lede or not body:
+                errs.append(f"town {o['slug']}: missing loc_{key}_lede or loc_{key}_body in copy.md")
+                continue
+            html = loc_tpl.render(
+                meta_title=f"{s['service']} in {o['name']}, {s['state']}",
+                meta_description=lede.split(". ")[0][:155] + ".",
+                canonical_path=f"/{o['slug']}/", base="../", schema_json=None,
+                loc=o, loc_lede=lede, loc_body=_promote_headings(md.markdown(body)), **ctx)
+            wc = len(visible_words(html))
+            if not (LOCATION_WORDS[0] <= wc <= LOCATION_WORDS[1]):
+                errs.append(f"town {o['slug']}: {wc} visible words, must be "
+                            f"{LOCATION_WORDS[0]}-{LOCATION_WORDS[1]}")
+            pages[f"{o['slug']}/index.html"] = html
 
     # --- post-render guards ---------------------------------------------------
     for page_name, page_html in pages.items():

@@ -923,3 +923,137 @@ Wood doors are heavy, and a repaired door weighs more than it did when half its 
 
 An assessment first, in writing, saying which parts are being repaired, which are being replaced, whether the joints are coming apart, and whether the door needs to come off the building for shop work. A price follows that scope. Where the door is in a district, the assessment should say what the city will need to see. And where a door is genuinely past saving, that should be stated rather than absorbed into an open-ended repair; the [full door replacement](../garage-door-replacement/) page covers that route. Storm damage to a wood door is a separate conversation, on the [storm and wind damage](../storm-and-wind-damage-repair/) page.
 
+## loc_keller_lede
+
+Keller went from 827 people in 1960 to 13,683 by 1990 and 45,776 by 2020, so most of its garage doors went up in one thirty-year window and are reaching the end of that window together.
+
+## loc_keller_body
+
+### The whole town's doors are the same age
+
+Keller grew 229 percent in the 1980s and doubled again by 2000. That means the
+housing stock is not mixed the way Fort Worth's is. Street after street went in
+between 1988 and 2005, and the doors went on with the houses. A torsion spring is
+rated in cycles, not years, and a common builder-grade spring is a 10,000-cycle
+part. A household opening the door four times a day reaches that in about seven
+years. Original springs here are two or three replacements past due, which is why
+one street can produce several failures in a season.
+
+### Bigger houses mean heavier doors
+
+Median household income here ran $141,364 in 2021, and the housing that goes with
+it is not the single-car garage of an inner suburb. Two and three-car openings are
+standard, often with a solid wood-look or insulated door rather than a light steel
+pan. Weight is the thing that matters to the hardware: a heavier door needs a
+higher-rated spring, thicker cables and better-seated rollers, and it punishes an
+opener that is carrying a counterbalance which has gone weak. A door that has been
+"a bit slow" for a year is usually an out-of-balance door quietly destroying its
+opener.
+
+### What hail does to a door here
+
+Tarrant County has logged 235 hail reports within ten miles of the county seat
+since 2004, the largest at three inches. The 1995 Mayfest storm dropped hail up to
+4.5 inches across Tarrant and Parker counties with drifts three feet deep. Garage
+doors take that load flat-on, and dented door panels are one of the standard
+indicators adjusters use to confirm hail was large enough to have damaged the roof
+as well. A dent that only creases the skin is cosmetic. One that bows a section or
+kinks a track edge changes how the door travels and shows up later as a binding
+door, not as a dent.
+
+### What gets checked on a Keller call
+
+The door gets weighed against the spring rating, the cycle count on the springs is
+estimated from age and household use, the tracks are checked for the slight
+out-of-plumb that a settled slab produces, and the opener's force setting is read
+rather than guessed at. On a door of this age the answer is usually springs and
+rollers rather than a new door, and knowing which one before agreeing to anything
+is the difference between a repair and a replacement quote.
+
+
+## loc_haltom_city_lede
+
+Haltom City went from 5,760 people to 23,133 in a single decade after 1950, and those postwar garages were not built for the doors that are now hanging in them.
+
+## loc_haltom_city_body
+
+### Postwar openings, modern doors
+
+Incorporated in 1949, Haltom City more than tripled between 1950 and 1960, and the
+housing from that boom is still the core of the town. Those garages were framed for
+a single car and a lighter door than anything sold today. Sixty years on, most have
+had two or three door replacements, and each replacement had to work with an
+opening that was never a modern standard size. The result is a lot of doors running
+on shimmed track, a header that was notched at some point to clear an opener, and
+jambs that have been repaired rather than replaced.
+
+### What that means when something breaks
+
+On a house of this era the failure is rarely just the part that broke. A spring
+goes and the cables come off drums that were already sitting at an angle, or a
+roller shears and the track shows the wear from years of running slightly out of
+plumb. Anyone quoting from a photograph is quoting the part, not the opening. The
+useful step is measuring the actual opening and checking whether the track is
+square to it before the price is set, because a non-standard header is the single
+most common reason a straightforward job turns into two visits.
+
+### Converted garages and one-piece doors
+
+A share of the original single-car garages here were converted to living space or
+workshops decades ago, and some kept a door on the front. One-piece tilt-up doors
+still turn up on these properties. They swing on side hardware rather than riding a
+track, they cannot take a sectional opener without new hardware, and they are the
+one case where repair is often more expensive than replacement. Identifying which
+type is on the opening matters before anything else is discussed.
+
+### Hail on an older door
+
+Tarrant County has logged 235 hail reports within ten miles of the county seat
+since 2004, and the 1995 Mayfest storm put 4.5-inch hail across the county. On a
+thin older steel door, hail does not only dent the skin; it can bow a section
+enough to change how the door meets the track. That shows up weeks later as a door
+that catches at the same point every time. A door that has been through a storm and
+has started binding is worth looking at as one problem, not two.
+
+## loc_benbrook_lede
+
+Benbrook filled in between 1960 and 1990, sits on the southwestern edge of the county where the weather arrives first, and has a lake throwing open wind at doors that were hung in the seventies.
+
+## loc_benbrook_body
+
+### The stock here is the middle era
+
+Benbrook was a village of 617 people in 1950 and 19,564 by 1990, with the sharpest
+jump in the 1960s. That puts the bulk of its housing between the postwar boom of the
+inner suburbs and the 1990s subdivisions to the north. Doors from the 1970s and
+1980s are mostly on their second replacement, and the hardware around them is
+frequently older than the door itself. Track, drums and the header the whole thing
+hangs from often date to the original build, which is why a door that looks recent
+can still be running on fifty-year-old geometry.
+
+### The lake changes the wind load
+
+Benbrook Lake was formed in 1952 behind a dam the Army Corps of Engineers started in
+1947, and the open water leaves properties near it without the windbreak that a
+built-up street provides. A garage door is the largest unsupported panel on most
+houses, and steady wind loading works differently from a single gust: it flexes the
+sections repeatedly, loosens hinge fasteners over years, and pushes rollers against
+one side of the track until the wear shows on one edge only. A door that rattles in
+wind is usually telling you the hinges have opened up, not that it is about to fail.
+
+### First in line for storms off the west
+
+Southwestern Tarrant County sits on the track storms take coming in from Parker
+County. The 1995 Mayfest storm put hail up to 4.5 inches across Parker and Tarrant,
+with drifts three feet deep, and the county has logged 235 hail reports within ten
+miles of the county seat since 2004, the largest at three inches. On an older thin
+steel door, the panel dents are the visible part; the part that matters is whether a
+section has bowed enough to change how the door meets the track.
+
+### What gets checked here
+
+The hinges and fasteners get inspected along their whole length rather than at the
+one noisy spot, the track is checked for single-edge wear that points at wind rather
+than at a bad roller, and the header and drums are identified by age, because on a
+house of this era they are frequently original. That decides whether the job is
+hardware on a sound door or a door that has outlived the opening it hangs in.

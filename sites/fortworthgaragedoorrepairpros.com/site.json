@@ -466,5 +466,34 @@
         ]
       }
     ]
-  }
+  },
+  "towns": [
+    {
+      "slug": "keller",
+      "name": "Keller",
+      "nav": "Keller",
+      "accent": "Nineties Doors, Thirty Years On",
+      "photo": "assets/work-1.jpg",
+      "keyword": "garage door repair Keller TX",
+      "icon": "bolt"
+    },
+    {
+      "slug": "haltom-city",
+      "name": "Haltom City",
+      "nav": "Haltom City",
+      "accent": "Postwar Openings, Modern Doors",
+      "photo": "assets/work-2.jpg",
+      "keyword": "garage door repair Haltom City TX",
+      "icon": "wrench"
+    },
+    {
+      "slug": "benbrook",
+      "name": "Benbrook",
+      "nav": "Benbrook",
+      "accent": "Lake Wind and Older Steel",
+      "photo": "assets/work-3.jpg",
+      "keyword": "garage door repair Benbrook TX",
+      "icon": "shield"
+    }
+  ]
 }

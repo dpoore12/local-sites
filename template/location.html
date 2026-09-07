@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block hero %}
+<section class="hero" style="background-image:
+      linear-gradient(180deg, rgba(11,34,51,.82) 0%, rgba(11,34,51,.62) 45%, rgba(11,34,51,.88) 100%),
+      url('{{ base }}{{ loc.photo }}');">
+  <div class="hero-inner">
+    <span class="hero-eyebrow">{{ ico_pin | safe }}{{ loc.name }}, {{ s.state }}</span>
+    <h1>{{ s.service }} in {{ loc.name }}, {{ s.state }} <span class="hero-accent">{{ loc.accent }}</span></h1>
+    <p class="hero-lede">{{ loc_lede }}</p>
+    <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="hero-note">{{ hero_note }}</p>
+  </div>
+</section>
+{% endblock %}
+
+{% block main %}
+<section class="band band-white">
+  <div class="band-inner">
+    <div class="section">
+      {{ loc_body | safe }}
+    </div>
+    <div class="answer-box">
+      {% if s.vertical == 'legal' %}
+      <p><strong>{{ s.service }} for {{ loc.name }}.</strong> Call {{ s.phone_display }} and a lawyer reviews
+        the claim and the deadline that applies. Nothing is signed on that call.</p>
+      {% else %}
+      <p><strong>{{ s.service }} in {{ loc.name }}.</strong> Call {{ s.phone_display }} and a technician is
+        dispatched with the parts on the truck. You get the price before the work starts.</p>
+      {% endif %}
+      <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    </div>
+  </div>
+</section>
+
+<section class="band band-tint">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">What gets called out here</span>
+      <h2>{{ c.services_pick_head }}</h2>
+    </div>
+    <div class="service-cards">
+      {% for o in s.services[:3] %}
+      <a class="service-card" href="{{ base }}{{ o.slug }}/">
+        <span class="card-icon">{{ ico[o.icon] | safe }}</span>
+        <h3 class="service-card-title">{{ o.h1 }}</h3>
+        <p>{{ o.accent }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="band band-navy">
+  <div class="band-inner">
+    <div class="band-head">
+      <span class="eyebrow">Nearby</span>
+      <h2>Other {{ s.counties[0] }} County towns</h2>
+    </div>
+    <div class="service-cards">
+      {% for o in (s.towns | rejectattr('slug', 'equalto', loc.slug) | list)[:3] %}
+      <a class="service-card" href="{{ base }}{{ o.slug }}/">
+        <span class="card-icon">{{ ico_pin | safe }}</span>
+        <h3 class="service-card-title">{{ o.name }}</h3>
+        <p>{{ o.accent }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bottom-cta">
+  <div class="band-inner">
+    <h2>{{ s.service }} &mdash; {{ loc.name }}, {{ s.state }}</h2>
+    <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
+    <p class="bottom-cta-note">{{ hero_note }}</p>
+  </div>
+</section>
+{% endblock %}
