@@ -83,6 +83,49 @@ Change nothing else in that file.
 
 ---
 
+## Before you write: the winnability gate
+
+Do not write a page for a query we cannot win. Two checks, both before the first
+sentence.
+
+**1. Does the query return a map pack?**  Search it from inside the target city.
+If the top three results sit under a map, those are Google Business Profiles.
+They need a verified street address and we do not have one in any of our 83
+markets. Measured 7 Sep 2026: `garage door repair fort worth` and
+`personal injury lawyer jonesboro` both return a three-result map pack above the
+first organic result - a city of 900,000 and a city of 78,000, same structure.
+Our ceiling on those queries is organic #1, which renders fourth on the page.
+Write the page if it is worth having at position four. Do not write it expecting
+position one.
+
+**2. How many referring domains do the ranking pages carry?**  Our sites have
+about three. If the pages ranking for a query average more than six, we lose on
+authority no matter how good the writing is. If they average one or two, the
+query is winnable today. Measured examples: `how long does a furnace last` is
+6,600 searches a month and its ranking pages average 2.0 referring domains;
+`personal injury lawyer jonesboro` needs about 70.
+
+**A note on informational queries.** They avoid the map pack, which is why they
+look attractive, but many now return an AI Overview that answers the question
+outright. `how long does a furnace last` does. Expect impressions without clicks
+on those, and value them for topical depth rather than traffic.
+
+## No page may survive a city swap
+
+Google's documentation on thin content names our exact risk in plain words:
+content is not unique when it differs from another page "in more than just the
+replacement of key verbs and nouns - yes, this means all those webmasters who
+build the same page and just change the city and state names, thinking this makes
+the content unique, are mistaken."
+
+Read your finished page and ask: if I swapped the city name for another city,
+would this still be true? If the answer is yes, the page is not written. Every
+paragraph must rest on something specific to that place - the decade its
+subdivisions went up, the county's hail record, the statute number, the permit
+fee, the lake that removes the windbreak. A page that could describe anywhere
+describes nowhere and is a liability to the whole network, because the penalty
+for thin content lands sitewide, not on the page.
+
 ## The bar
 
 Read `sites/fortworthgaragedoorrepairpros.com/copy.md` before you start. It is a
