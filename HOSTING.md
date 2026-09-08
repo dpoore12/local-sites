@@ -36,3 +36,26 @@ blocks every other host.
 
 An account token with: Cloudflare Pages · Edit, DNS · Edit, Zone · Read (all zones).
 A read-only token will silently do nothing useful.
+
+## 2026-09-08 — deploying from Dan's Mac without wrangler
+
+The sandbox-era `host_all.py` flow needs wrangler. On the Mac the working path is:
+
+    live_manifest_mac.py     # fetch every live file from the 83 sitemaps, hash it the way
+                               # Pages does (blake3 of base64(content)+ext, first 32 hex),
+                               # write scratchpad/stage + live-manifest.json
+    deploy_add_mac.py <token> <new-domain> ...
+                               # add dist/<new-domain> to that manifest, upload only the
+                               # missing hashes with an upload-token JWT, POST the deployment
+                               # with router/_worker.js. Refuses to run if any EXISTING site's
+                               # file would change (guard), so the 83 live pages stay byte-identical.
+
+Known wrinkle: Cloudflare's email obfuscation rewrites any page that contains an email
+address on every request, so those pages cannot be fetched byte-exact. Two Cincinnati PI
+pages (nursing-home-neglect, wrongful-death-claims-in-ohio) were re-uploaded with the
+obfuscation reversed on 2026-09-08. `data/manifest.json` is now the exact live manifest
+(2015 files: 83 sites + kalamazootowingpros.com, evansvilletowingpros.com,
+savannahmobilemechanicpros.com, wilmingtonmobilemechanicexperts.com).
+
+The token also needs Zone > DNS > Edit to create the CNAMEs for new zones; without it the
+Pages custom domains sit at "pending".
