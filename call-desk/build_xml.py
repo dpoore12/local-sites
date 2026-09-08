@@ -23,7 +23,11 @@ REPO = os.path.dirname(HERE)
 BASE = "https://call-desk.vercel.app"  # overwritten by DESK_BASE env if set
 BASE = os.environ.get("DESK_BASE", BASE).rstrip("/")
 
-VOICE = "Polly.Joanna"
+# Polly.Joanna is the old standard engine -- flat and obviously synthetic.
+# The -Neural suffix is the same voice on Amazon's neural engine: real
+# prosody, no robot cadence. Free, no API key. Swap to an ElevenLabs id
+# here (with api_key_ref on the Say tag) when we move to a cloned voice.
+VOICE = "Polly.Joanna-Neural"
 
 
 def load_markets():
@@ -57,8 +61,12 @@ def spoken_domain(domain):
 
 def voicemail_body(m):
     return (
-        f'  <Say voice="{VOICE}">Thanks for calling {escape(m["brand"])}. '
-        "Leave your name, your number and the address, and we will call you right back.</Say>\n"
+        # Callers hang up on a long greeting -- of 68 attributed calls in the
+        # first 10 days, only 8 stayed on long enough to reach the beep. Keep
+        # this under ~4 seconds: name the business so they know they dialled
+        # right, say what to leave, then get out of the way.
+        f'  <Say voice="{VOICE}">{escape(m["brand"])}. '
+        "Leave your name, number and address after the tone.</Say>\n"
         '  <Record maxLength="120" timeout="5" finishOnKey="#" playBeep="true" '
         'trim="trim-silence" format="mp3"/>\n'
         f'  <Say voice="{VOICE}">Got it. We will call you right back.</Say>\n'
