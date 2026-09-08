@@ -559,7 +559,8 @@ def build(domain, live=False, check_only=False, corpus=None):
         "Nothing is filed and nothing is owed until you decide what to do next."
         if legal else
         "There is nothing to fill in. The work is quoted before any of it starts.")
-    entity = "law firm and does not provide legal advice" if legal else "licensed contractor"
+    entity = ("law firm and does not provide legal advice" if legal
+              else (s.get("entity_noun") or "licensed contractor"))
     hero_note = (("No obligation · Written for " if legal else
                   "Upfront pricing · No obligation · Local ")
                  + (f"{s['city']} · {_cp([s['counties'][0]])}" if legal

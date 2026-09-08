@@ -1,0 +1,57 @@
+{
+  "service": "Towing",
+  "service_inline": "towing",
+  "emergency": true,
+  "hero_accent": "A Truck Dispatched Now, Price First",
+  "trust_third": "Tow price quoted before the hook goes on",
+  "services": [
+    {
+      "slug": "emergency-towing",
+      "name": "Emergency Towing",
+      "nav": "Emergency towing",
+      "h1": "24-Hour Emergency Towing",
+      "accent": "Any Hour, Any Road",
+      "keyword": "emergency towing",
+      "icon": "bolt"
+    },
+    {
+      "slug": "roadside-assistance",
+      "name": "Roadside Assistance",
+      "nav": "Roadside help",
+      "h1": "Roadside Assistance",
+      "accent": "Jump, Lockout, Flat, Fuel",
+      "keyword": "roadside assistance",
+      "icon": "wrench"
+    },
+    {
+      "slug": "flatbed-towing",
+      "name": "Flatbed Towing",
+      "nav": "Flatbed towing",
+      "h1": "Flatbed Towing",
+      "accent": "All Four Wheels Off the Road",
+      "keyword": "flatbed towing",
+      "icon": "shield"
+    },
+    {
+      "slug": "accident-recovery-towing",
+      "name": "Accident Recovery",
+      "nav": "Accident recovery",
+      "h1": "Accident and Recovery Towing",
+      "accent": "Off the Scene, Into Storage",
+      "keyword": "accident towing",
+      "icon": "warn"
+    }
+  ],
+  "symptoms": [
+    "car_wont_start",
+    "locked_out",
+    "flat_tire_no_spare",
+    "after_a_collision"
+  ],
+  "symptom_service": [
+    "roadside-assistance",
+    "roadside-assistance",
+    "flatbed-towing",
+    "accident-recovery-towing"
+  ]
+}
