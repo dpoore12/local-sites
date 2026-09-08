@@ -25,8 +25,9 @@
       <p><strong>{{ svc.h1 }} in {{ s.city }}.</strong> Call {{ s.phone_display }} and a {{ s.city }} lawyer
         reviews the claim and the deadline that applies. Nothing is signed on that call.</p>
       {% else %}
-      <p><strong>{{ svc.h1 }} in {{ s.city }}.</strong> Call {{ s.phone_display }} and a technician is
-        dispatched with the parts on the truck. You get the price before the work starts.</p>
+      <p><strong>{{ svc.h1 }} in {{ s.city }}.</strong> {% if s.pro_noun %}Call {{ s.phone_display }} and a {{ s.pro_noun }} is
+        dispatched with the right truck. You get the price before the hook goes on.{% else %}Call {{ s.phone_display }} and a technician is
+        dispatched with the parts on the truck. You get the price before the work starts.{% endif %}</p>
       {% endif %}
       <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     </div>

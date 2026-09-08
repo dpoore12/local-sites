@@ -1,0 +1,245 @@
+{
+  "domain": "kalamazootowingpros.com",
+  "phase": 2,
+  "brand": "Kalamazoo Towing Pros",
+  "service": "Towing",
+  "service_inline": "towing",
+  "vertical": "home",
+  "pro_noun": "driver",
+  "entity_noun": "licensed wrecker service",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "state_full": "Michigan",
+  "counties": ["Kalamazoo"],
+  "area_codes": ["269"],
+  "phone_display": "(269) 000-0000",
+  "phone_tel": "+12690000000",
+  "phone_status": "PLACEHOLDER",
+  "phone_note": "No number bought yet. Buy a Telnyx 269 number before DNS and replace phone_display/phone_tel, then set phone_status to LIVE.",
+  "emergency": true,
+  "timezone": "America/Detroit",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "us131_pileup_jan_2026",
+      "title": "One whiteout closed US-131 for five hours",
+      "claim": "On Monday 19 January 2026 northbound US-131 was closed from West Main Street to Exit 38, including the US-131 Business Loop, after a chain of crashes involving at least fifteen vehicles including semi trucks. Strong winds and lake-effect snow showers had produced whiteout conditions. The closure began after 10:30 a.m. and the road reopened at 4 p.m.; tow trucks spent the afternoon pulling semis off the guardrails. MDOT and the Kalamazoo County Sheriff's Office reported the closure.",
+      "why_it_matters": "In a lake-effect event every recovery truck in the county is on the freeway. A car in a ditch on a side road waits behind the semis, and the honest arrival estimate on a day like that is hours, not minutes. Drivers should be told that number rather than a promise nobody can keep.",
+      "sources": [
+        "https://wwmt.com/news/local/chunk-us-131-closed-multiple-crashes-whiteout-conditions-hazardous-road-conditions-west-main-street-exit-38-parkview-avenue-traffic-weather-advisory-kalamazoo-county-western-michigan",
+        "https://www.wzzm13.com/article/news/local/kalamazoo-county-pileup/69-31c041f7-0f04-4a05-a046-b0b46a8169d3"
+      ],
+      "verified": "2026-09-07"
+    },
+    {
+      "id": "wrecker_ordinance",
+      "title": "The city, not the wrecker, sets the police-tow ceiling",
+      "claim": "Chapter 40 of the Kalamazoo City Code, titled Wreckers, provides that the City Commission shall establish by resolution and/or contract the maximum amounts which may be charged for any towing or wrecker service, including storage of any vehicle in the city regardless of where the tow originated, and that it is unlawful to demand payment in excess of a fee so established. The City Clerk's office (337-8792) holds the current permitted fees.",
+      "why_it_matters": "A police-ordered tow inside Kalamazoo has a legal price ceiling. A tow the driver calls for is a private transaction with no ceiling, which is why the price must be stated before the hook goes on rather than discovered on the invoice.",
+      "sources": [
+        "https://ecode360.com/9699161",
+        "https://ecode360.com/9699162"
+      ],
+      "verified": "2026-09-07"
+    },
+    {
+      "id": "lake_effect_normals",
+      "title": "Seventy-plus inches a year, most of it in three months",
+      "claim": "NOAA 1991-2020 climate normals measured at Gerald R. Ford International Airport in Grand Rapids, the nearest first-order station, put annual snowfall at 77.6 inches, with December averaging 20.8 inches, January 22.6 and February 17.2. The Great Lakes Integrated Sciences and Assessments program describes southwest Michigan's snow as lake-effect, produced when cold westerly winds cross the open water of Lake Michigan.",
+      "why_it_matters": "Lake-effect snow falls in narrow bands, so one township can be buried while the next gets flurries. Trucks stage where the band is, batteries fail on the first hard-freeze morning, and the ditch along M-43 fills with cars every January. Winter is the towing season in this county.",
+      "sources": [
+        "https://www.currentresults.com/Weather/Michigan/Places/grand-rapids-snowfall-totals-snow-accumulation-averages.php",
+        "https://glisa.umich.edu/resources-tools/climate-impacts/lake-effect-snow-in-the-great-lakes-region/"
+      ],
+      "verified": "2026-09-07"
+    },
+    {
+      "id": "storage_fee_law",
+      "title": "Michigan caps impound storage at the lesser of two rates",
+      "claim": "MCL 257.252i provides that when a vehicle towed at the direction of a police agency is released, the storage fee that may be collected is the lesser of the daily rate established by contract with the agency that authorized the tow or the daily rate charged by the storage facility. The abandoned-vehicle sections that follow give the owner twenty days from the date of the notice to redeem the vehicle or petition the court before it may be sold.",
+      "why_it_matters": "Storage accrues daily whether or not the insurer has called back. Getting to the lot quickly with the title or registration and photo ID, and asking for the itemized bill, is the difference between a small charge and a large one.",
+      "sources": [
+        "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-257-252I",
+        "https://www.michigan.gov/sos/faqs/vehicles/abandoned-vehicles"
+      ],
+      "verified": "2026-09-07"
+    }
+  ],
+  "neighborhoods": ["Vine", "Stuart", "Westnedge Hill", "Milwood", "Edison", "Oakwood"],
+  "symptoms": ["car_wont_start", "locked_out", "flat_tire_no_spare", "after_a_collision"],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "A Truck Dispatched Now, Price First",
+  "trust_third": "Tow price quoted before the hook goes on",
+  "services": [
+    {
+      "slug": "emergency-towing",
+      "name": "Emergency Towing",
+      "nav": "Emergency towing",
+      "h1": "24-Hour Emergency Towing",
+      "accent": "Any Hour, Any Road",
+      "photo": "assets/work-1.jpg",
+      "keyword": "emergency towing Kalamazoo",
+      "icon": "bolt"
+    },
+    {
+      "slug": "roadside-assistance",
+      "name": "Roadside Assistance",
+      "nav": "Roadside help",
+      "h1": "Roadside Assistance",
+      "accent": "Jump, Lockout, Flat, Fuel",
+      "photo": "assets/work-2.jpg",
+      "keyword": "roadside assistance Kalamazoo",
+      "icon": "wrench"
+    },
+    {
+      "slug": "flatbed-towing",
+      "name": "Flatbed Towing",
+      "nav": "Flatbed towing",
+      "h1": "Flatbed Towing",
+      "accent": "All Four Wheels Off the Road",
+      "photo": "assets/work-3.jpg",
+      "keyword": "flatbed towing Kalamazoo",
+      "icon": "shield"
+    },
+    {
+      "slug": "accident-recovery-towing",
+      "name": "Accident Recovery",
+      "nav": "Accident recovery",
+      "h1": "Accident and Recovery Towing",
+      "accent": "Off the Scene, Into Storage",
+      "photo": "assets/hero.jpg",
+      "keyword": "accident towing Kalamazoo",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "emergency-towing",
+    "roadside-assistance",
+    "flatbed-towing",
+    "accident-recovery-towing"
+  ],
+  "_market": {
+    "keyword": "towing kalamazoo",
+    "monthly_price": 1000,
+    "score": 71,
+    "volume": 320,
+    "cpc_usd": 5.0,
+    "weakest_competitor": "organic #1 carries 17 referring domains",
+    "competitor_dr": 12.0,
+    "sweep": "NICHE-SWEEP-2026-09-07.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What towing jobs run in Kalamazoo",
+    "anchors": [
+      {
+        "label": "Police-ordered tow, maximum charge",
+        "value": "Set by City Commission",
+        "detail": "Kalamazoo City Code Chapter 40 makes the City Commission, by resolution or contract, the body that fixes the maximum a wrecker may charge for a police-ordered tow or for storage inside the city. Exceeding it is unlawful. The City Clerk holds the current figures.",
+        "source_name": "City of Kalamazoo Code, Chapter 40 Wreckers",
+        "source_url": "https://ecode360.com/9699161"
+      },
+      {
+        "label": "Impound storage after a police tow",
+        "value": "Lesser of two rates",
+        "detail": "MCL 257.252i limits the storage fee on a released vehicle to the lesser of the daily rate in the contract with the police agency or the lot's own posted rate. The owner has twenty days from the abandonment notice to redeem or petition the court.",
+        "source_name": "Michigan Vehicle Code, MCL 257.252i",
+        "source_url": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-257-252I"
+      },
+      {
+        "label": "Annual snowfall, nearest first-order station",
+        "value": "77.6 in",
+        "detail": "NOAA 1991-2020 normals at Grand Rapids' airport, forty minutes up US-131. January alone averages 22.6 inches. Winch-outs and cold-start jumps track that curve, and so does the wait on a whiteout day.",
+        "source_name": "NOAA NCEI climate normals via Current Results",
+        "source_url": "https://www.currentresults.com/Weather/Michigan/Places/grand-rapids-snowfall-totals-snow-accumulation-averages.php"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Local tow inside Kalamazoo or Portage, wheel-lift, up to about ten miles",
+        "low": 75,
+        "high": 200,
+        "basis": "flat",
+        "note": "Two Kalamazoo operators post local tows in the same band the national surveys report. Ask for hook plus miles to your destination as one figure.",
+        "sources": [
+          {"name": "KZOO Towing Trucks, Kalamazoo, posted local tow range, read 2026-09-07", "url": "https://kzootowingtrucks.com/"},
+          {"name": "Trent's Towing, Kalamazoo, posted local tow average, read 2026-09-07", "url": "https://trentstowingkalamazoo.com/"},
+          {"name": "TowingSites, 2026 towing cost guide, standard local tow", "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"},
+          {"name": "TowMarX, 2026 dispatch guide, local tow range", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"}
+        ]
+      },
+      {
+        "job": "Hook-up fee before mileage, wheel-lift or flatbed",
+        "low": 50,
+        "high": 125,
+        "basis": "flat",
+        "note": "Wheel-lift hooks sit at the bottom of the band, flatbeds at the top. Some operators fold the first five to seven miles into the hook.",
+        "sources": [
+          {"name": "Towing Service Hub, 2026 rates, light-duty base fees by truck type", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
+          {"name": "TowingSites, 2026 towing cost guide, base hookup fee", "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"},
+          {"name": "TowMarX, 2026 dispatch guide, hook-up fee", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"}
+        ]
+      },
+      {
+        "job": "Per-mile rate after the hook, flatbed",
+        "low": 4,
+        "high": 7,
+        "basis": "per mile",
+        "note": "Michigan statewide averages posted by a Kalamazoo operator match the national flatbed band. Wheel-lift miles run a dollar or two lower.",
+        "sources": [
+          {"name": "KZOO Towing Trucks, Kalamazoo, posted Michigan per-mile range, read 2026-09-07", "url": "https://kzootowingtrucks.com/"},
+          {"name": "Towing Service Hub, 2026 rates, flatbed per-mile", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
+          {"name": "TowMarX, 2026 dispatch guide, per-mile range", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"}
+        ]
+      },
+      {
+        "job": "Service call: jump start, lockout, spare mounted, fuel brought",
+        "low": 50,
+        "high": 150,
+        "basis": "per visit",
+        "note": "A Kalamazoo operator posts service calls starting at the bottom of this band. You pay for the service done, not for the tow that was dispatched.",
+        "sources": [
+          {"name": "Trent's Towing, Kalamazoo, posted service-call starting price, read 2026-09-07", "url": "https://trentstowingkalamazoo.com/"},
+          {"name": "Knob Hill Towing, jump-start versus tow price comparison", "url": "https://knobhilltowing.com/jump-start-vs-tow-when-to-choose-which-service/"},
+          {"name": "Vanderburgh County, Indiana, county towing agreement, at-scene jump start fee (comparator)", "url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"}
+        ]
+      },
+      {
+        "job": "Winch-out or recovery from a ditch, snowbank or mud, before the tow",
+        "low": 50,
+        "high": 250,
+        "basis": "per visit",
+        "note": "Billed by time on the line. A shallow ditch on M-43 is quick; a car on its side in a culvert can run past the band.",
+        "sources": [
+          {"name": "Towing Service Hub, 2026 rates, winch-out range", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
+          {"name": "TowingSites, 2026 towing cost guide, winch-out and complex recovery", "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"},
+          {"name": "DriveSmart, tow truck service cost guide, winching and recovery", "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"}
+        ]
+      },
+      {
+        "job": "Night, weekend or holiday surcharge, added to the base",
+        "low": 25,
+        "high": 100,
+        "basis": "added",
+        "note": "Some operators bill it as a percentage of the base instead. Either way it should be stated before the truck leaves.",
+        "sources": [
+          {"name": "Towing Service Hub, 2026 rates, after-hours premium", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
+          {"name": "TowMarX, 2026 dispatch guide, after-hours add-on", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"},
+          {"name": "DriveSmart, tow truck service cost guide, after-hours fees", "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"}
+        ]
+      }
+    ]
+  }
+}

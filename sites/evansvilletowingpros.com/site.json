@@ -1,0 +1,310 @@
+{
+  "domain": "evansvilletowingpros.com",
+  "phase": 2,
+  "brand": "Evansville Towing Pros",
+  "service": "Towing",
+  "service_inline": "towing",
+  "vertical": "home",
+  "pro_noun": "driver",
+  "entity_noun": "licensed wrecker service",
+  "city": "Evansville",
+  "state": "IN",
+  "state_full": "Indiana",
+  "counties": [
+    "Vanderburgh"
+  ],
+  "area_codes": [
+    "812"
+  ],
+  "phone_display": "(812) 000-0000",
+  "phone_tel": "+18120000000",
+  "phone_status": "PLACEHOLDER",
+  "phone_note": "No number bought yet. Buy a Telnyx 812 number before DNS and replace phone_display/phone_tel, then set phone_status to LIVE.",
+  "emergency": true,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "lloyd4u_rebuild",
+      "title": "The Lloyd is a construction zone until the end of 2026",
+      "claim": "INDOT's Lloyd4U program, announced in 2020 and estimated at about $173 million as of 2023, is reconstructing a dozen intersections and replacing bridges and pavement along the Lloyd Expressway's 14.3 miles through Vanderburgh County. Construction began in 2024. The Vann Avenue and Stockwell Road intersections on the East Lloyd are complete; Burkhardt Road, Cross Pointe and Eagle Crest boulevards, and Red Bank Road are under construction and expected to finish by the end of 2026. West of US 41 the expressway is signed State Road 62 and east of it State Road 66.",
+      "why_it_matters": "Barrier walls and narrowed shoulders mean a stalled car in a work zone becomes a lane closure, a truck may have to reach the scene from the next crossover, and a crash that closes the Lloyd puts every recovery truck in the county on the expressway at once.",
+      "sources": [
+        "https://thelloyd4u.com/project-overview/",
+        "https://news.wnin.org/2026-02-06/indot-lloyd4u-projects-on-schedule",
+        "https://en.wikipedia.org/wiki/Lloyd_Expressway"
+      ],
+      "verified": "2026-09-07"
+    },
+    {
+      "id": "county_tow_contract",
+      "title": "The county's own tow contract is a public price list",
+      "claim": "Vanderburgh County's Agreement for the Towing and Storage of Nuisance, Wrecked and Abandoned Vehicles, with the contractor for the 2018-2020 term, permits only listed fees on county-ordered tows: $60.00 to tow an automobile, pickup truck, SUV or passenger van; $50.00 for motorcycles, trucks over one ton, semis, buses and equipment; $50.00 per hour for recovery; $50.00 per hour plus $1.50 per mile for tows outside the county; $12.00 per day storage for all vehicles; $50.00 for a jump start at the scene; and no fee for dry runs or refused service. The contractor must have equipment at the scene within twenty minutes of being contacted, and must keep a 24-hour, 365-day service and a staffed storage lot at 1277 Maxwell Avenue.",
+      "why_it_matters": "These are negotiated volume rates for county-ordered tows and do not bind a private tow, but they are the only published local floor for what the work costs, and they show what a fair itemized bill looks like: a flat tow, hourly recovery, daily storage, nothing for a dry run.",
+      "sources": [
+        "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+      ],
+      "verified": "2026-09-07"
+    },
+    {
+      "id": "epd_impound",
+      "title": "Police tows go to one north-side lot, owner with ID only",
+      "claim": "The Evansville Police Department's towed-vehicles page directs owners of police-towed vehicles to Tri-State Towing at 1501 N. Evans, Evansville, IN 47711, (812) 476-4004, states that only the registered owner with picture ID can recover the vehicle, and advises calling first to confirm the lot is open and that the proper paperwork is in hand. Vehicles towed for abandoned-vehicle violations are handled through Wolf's Auto Auction, (812) 425-4576.",
+      "why_it_matters": "A spouse or a friend cannot collect the car. Bring the registration or title and photo ID yourself, call ahead, and go quickly because storage accrues by the day.",
+      "sources": [
+        "https://evansvillepolice.com/towed-vehicles/",
+        "https://evansvillepolice.com/abandoned-vehicles/"
+      ],
+      "verified": "2026-09-07"
+    },
+    {
+      "id": "indiana_notice_law",
+      "title": "Indiana starts the storage clock inside three business days",
+      "claim": "Indiana Code 9-22-1-19 requires a public agency or towing service, within three business days after a vehicle is removed to a storage yard, to search the National Motor Vehicle Title Information System or an equivalent database to identify the owner and any lienholder, and, not later than three business days after obtaining the name and address, to notify them of the agency or towing service's name, address and telephone number, that storage charges are accruing, that the vehicle is subject to sale if unclaimed, and the earliest possible date and location of the public sale.",
+      "why_it_matters": "The law is built so an owner hears within about a week that the car is in a lot and the meter is running. Waiting for the insurer to call back is the expensive choice.",
+      "sources": [
+        "https://law.justia.com/codes/indiana/title-9/article-22/chapter-1/section-9-22-1-19/",
+        "https://www.in.gov/isp/files/Towing-and-Impounding-of-Vehicles.pdf"
+      ],
+      "verified": "2026-09-07"
+    }
+  ],
+  "neighborhoods": [
+    "Haynie's Corner",
+    "Jacobsville",
+    "Riverside",
+    "Lamasco",
+    "Goosetown",
+    "North Park"
+  ],
+  "symptoms": [
+    "car_wont_start",
+    "locked_out",
+    "flat_tire_no_spare",
+    "after_a_collision"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "A Truck Dispatched Now, Price First",
+  "trust_third": "Tow price quoted before the hook goes on",
+  "services": [
+    {
+      "slug": "emergency-towing",
+      "name": "Emergency Towing",
+      "nav": "Emergency towing",
+      "h1": "24-Hour Emergency Towing",
+      "accent": "Any Hour, Any Road",
+      "photo": "assets/work-1.jpg",
+      "keyword": "emergency towing Evansville",
+      "icon": "bolt"
+    },
+    {
+      "slug": "roadside-assistance",
+      "name": "Roadside Assistance",
+      "nav": "Roadside help",
+      "h1": "Roadside Assistance",
+      "accent": "Jump, Lockout, Flat, Fuel",
+      "photo": "assets/work-2.jpg",
+      "keyword": "roadside assistance Evansville",
+      "icon": "wrench"
+    },
+    {
+      "slug": "flatbed-towing",
+      "name": "Flatbed Towing",
+      "nav": "Flatbed towing",
+      "h1": "Flatbed Towing",
+      "accent": "All Four Wheels Off the Road",
+      "photo": "assets/work-3.jpg",
+      "keyword": "flatbed towing Evansville",
+      "icon": "shield"
+    },
+    {
+      "slug": "accident-recovery-towing",
+      "name": "Accident Recovery",
+      "nav": "Accident recovery",
+      "h1": "Accident and Recovery Towing",
+      "accent": "Off the Scene, Into Storage",
+      "photo": "assets/hero.jpg",
+      "keyword": "accident towing Evansville",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "emergency-towing",
+    "roadside-assistance",
+    "flatbed-towing",
+    "accident-recovery-towing"
+  ],
+  "_market": {
+    "keyword": "towing evansville",
+    "monthly_price": 1000,
+    "score": 68,
+    "volume": 260,
+    "cpc_usd": 5.0,
+    "weakest_competitor": "map-pack site carries 9 referring domains",
+    "competitor_dr": 10.0,
+    "sweep": "NICHE-SWEEP-2026-09-07.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What towing jobs run in Evansville",
+    "anchors": [
+      {
+        "label": "County-ordered tow, car or pickup",
+        "value": "$60.00",
+        "detail": "The flat charge Vanderburgh County allows its contractor for towing an automobile, pickup, SUV or van at the county's request, with storage at $12.00 per day and recovery at $50.00 per hour. A negotiated floor, not a private rate, but the only published local price list.",
+        "source_name": "Vanderburgh County towing and storage agreement, 2018-2020 term",
+        "source_url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+      },
+      {
+        "label": "Contractor response time on a county call",
+        "value": "20 minutes",
+        "detail": "The same agreement lets the county call another wrecker if the contractor's equipment is not at the scene within twenty minutes of being contacted, and forbids any charge for a dry run.",
+        "source_name": "Vanderburgh County towing and storage agreement, Article 2",
+        "source_url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+      },
+      {
+        "label": "Lloyd Expressway rebuild",
+        "value": "$173 million",
+        "detail": "INDOT's Lloyd4U program across the expressway's 14.3 miles, with Burkhardt, Cross Pointe and Red Bank due by the end of 2026. Work-zone closures are why a Lloyd tow can take longer than the same tow did in 2023.",
+        "source_name": "TheLloyd4U project overview and WNIN, February 2026",
+        "source_url": "https://thelloyd4u.com/project-overview/"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Local tow inside Evansville, wheel-lift, up to about ten miles",
+        "low": 60,
+        "high": 200,
+        "basis": "flat",
+        "note": "A local operator posts a starting figure at the bottom of the band; the 2026 surveys fill in the top. Ask for hook plus miles as one number.",
+        "sources": [
+          {
+            "name": "Towing Evansville, posted starting price for a tow, read 2026-09-07",
+            "url": "https://www.towingevansville.com/"
+          },
+          {
+            "name": "TowingSites, 2026 towing cost guide, standard local tow",
+            "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, local tow range",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          }
+        ]
+      },
+      {
+        "job": "Hook-up fee before mileage, wheel-lift or flatbed",
+        "low": 50,
+        "high": 125,
+        "basis": "flat",
+        "note": "Wheel-lift hooks sit low in the band, flatbeds high. Some operators fold the first several miles into the hook.",
+        "sources": [
+          {
+            "name": "Towing Service Hub, 2026 rates, light-duty base fees by truck type",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowingSites, 2026 towing cost guide, base hookup fee",
+            "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "DriveSmart, tow truck service cost guide, hook-up fee",
+            "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"
+          }
+        ]
+      },
+      {
+        "job": "Per-mile rate after the hook, flatbed",
+        "low": 4,
+        "high": 7,
+        "basis": "per mile",
+        "note": "The county's own out-of-county rate is far lower because it is a volume contract. Private flatbed miles land in this band; wheel-lift miles run a dollar or two under it.",
+        "sources": [
+          {
+            "name": "Towing Service Hub, 2026 rates, flatbed per-mile",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, per-mile range",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          },
+          {
+            "name": "Vanderburgh County towing agreement, out-of-county per-mile figure (comparator)",
+            "url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+          }
+        ]
+      },
+      {
+        "job": "Service call: jump start, lockout, spare mounted, fuel brought",
+        "low": 50,
+        "high": 150,
+        "basis": "per visit",
+        "note": "The county contract prices a jump at the scene at the bottom of this band. You pay for the service done, not the tow that was dispatched.",
+        "sources": [
+          {
+            "name": "Vanderburgh County towing agreement, jump start at scene",
+            "url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+          },
+          {
+            "name": "Knob Hill Towing, jump-start versus tow price comparison",
+            "url": "https://knobhilltowing.com/jump-start-vs-tow-when-to-choose-which-service/"
+          }
+        ]
+      },
+      {
+        "job": "Winch-out or recovery from a ditch, water or mud, before the tow",
+        "low": 50,
+        "high": 250,
+        "basis": "per visit",
+        "note": "Billed by time on the line; the county contract prices recovery hourly for the same reason. A car in a flooded underpass can run past the band.",
+        "sources": [
+          {
+            "name": "Towing Service Hub, 2026 rates, winch-out range",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowingSites, 2026 towing cost guide, winch-out and complex recovery",
+            "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "Vanderburgh County towing agreement, hourly recovery rate (comparator)",
+            "url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+          }
+        ]
+      },
+      {
+        "job": "Night, weekend or holiday surcharge, added to the base",
+        "low": 25,
+        "high": 100,
+        "basis": "added",
+        "note": "Some operators bill a percentage of the base instead. Either way it belongs in the quote before the truck leaves.",
+        "sources": [
+          {
+            "name": "Towing Service Hub, 2026 rates, after-hours premium",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, after-hours add-on",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          },
+          {
+            "name": "DriveSmart, tow truck service cost guide, after-hours fees",
+            "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"
+          }
+        ]
+      }
+    ]
+  }
+}

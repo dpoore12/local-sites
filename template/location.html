@@ -24,8 +24,9 @@
       <p><strong>{{ s.service }} for {{ loc.name }}.</strong> Call {{ s.phone_display }} and a lawyer reviews
         the claim and the deadline that applies. Nothing is signed on that call.</p>
       {% else %}
-      <p><strong>{{ s.service }} in {{ loc.name }}.</strong> Call {{ s.phone_display }} and a technician is
-        dispatched with the parts on the truck. You get the price before the work starts.</p>
+      <p><strong>{{ s.service }} in {{ loc.name }}.</strong> {% if s.pro_noun %}Call {{ s.phone_display }} and a {{ s.pro_noun }} is
+        dispatched with the right truck. You get the price before the hook goes on.{% else %}Call {{ s.phone_display }} and a technician is
+        dispatched with the parts on the truck. You get the price before the work starts.{% endif %}</p>
       {% endif %}
       <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     </div>
