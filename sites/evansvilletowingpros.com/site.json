@@ -16,10 +16,10 @@
   "area_codes": [
     "812"
   ],
-  "phone_display": "(812) 000-0000",
-  "phone_tel": "+18120000000",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "No number bought yet. Buy a Telnyx 812 number before DNS and replace phone_display/phone_tel, then set phone_status to LIVE.",
+  "phone_display": "(812) 402-0614",
+  "phone_tel": "+18124020614",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-09-08 (order fe2c119e). In the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
   "emergency": true,
   "timezone": "America/Chicago",
   "tenant": {

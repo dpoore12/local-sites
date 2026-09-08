@@ -10,12 +10,16 @@
   "city": "Kalamazoo",
   "state": "MI",
   "state_full": "Michigan",
-  "counties": ["Kalamazoo"],
-  "area_codes": ["269"],
-  "phone_display": "(269) 000-0000",
-  "phone_tel": "+12690000000",
-  "phone_status": "PLACEHOLDER",
-  "phone_note": "No number bought yet. Buy a Telnyx 269 number before DNS and replace phone_display/phone_tel, then set phone_status to LIVE.",
+  "counties": [
+    "Kalamazoo"
+  ],
+  "area_codes": [
+    "269"
+  ],
+  "phone_display": "(269) 400-7107",
+  "phone_tel": "+12694007107",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-09-08 (order fe2c119e). In the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
   "emergency": true,
   "timezone": "America/Detroit",
   "tenant": {
@@ -74,8 +78,20 @@
       "verified": "2026-09-07"
     }
   ],
-  "neighborhoods": ["Vine", "Stuart", "Westnedge Hill", "Milwood", "Edison", "Oakwood"],
-  "symptoms": ["car_wont_start", "locked_out", "flat_tire_no_spare", "after_a_collision"],
+  "neighborhoods": [
+    "Vine",
+    "Stuart",
+    "Westnedge Hill",
+    "Milwood",
+    "Edison",
+    "Oakwood"
+  ],
+  "symptoms": [
+    "car_wont_start",
+    "locked_out",
+    "flat_tire_no_spare",
+    "after_a_collision"
+  ],
   "schema": {
     "local_business": false,
     "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
@@ -174,10 +190,22 @@
         "basis": "flat",
         "note": "Two Kalamazoo operators post local tows in the same band the national surveys report. Ask for hook plus miles to your destination as one figure.",
         "sources": [
-          {"name": "KZOO Towing Trucks, Kalamazoo, posted local tow range, read 2026-09-07", "url": "https://kzootowingtrucks.com/"},
-          {"name": "Trent's Towing, Kalamazoo, posted local tow average, read 2026-09-07", "url": "https://trentstowingkalamazoo.com/"},
-          {"name": "TowingSites, 2026 towing cost guide, standard local tow", "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"},
-          {"name": "TowMarX, 2026 dispatch guide, local tow range", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"}
+          {
+            "name": "KZOO Towing Trucks, Kalamazoo, posted local tow range, read 2026-09-07",
+            "url": "https://kzootowingtrucks.com/"
+          },
+          {
+            "name": "Trent's Towing, Kalamazoo, posted local tow average, read 2026-09-07",
+            "url": "https://trentstowingkalamazoo.com/"
+          },
+          {
+            "name": "TowingSites, 2026 towing cost guide, standard local tow",
+            "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, local tow range",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          }
         ]
       },
       {
@@ -187,9 +215,18 @@
         "basis": "flat",
         "note": "Wheel-lift hooks sit at the bottom of the band, flatbeds at the top. Some operators fold the first five to seven miles into the hook.",
         "sources": [
-          {"name": "Towing Service Hub, 2026 rates, light-duty base fees by truck type", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
-          {"name": "TowingSites, 2026 towing cost guide, base hookup fee", "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"},
-          {"name": "TowMarX, 2026 dispatch guide, hook-up fee", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"}
+          {
+            "name": "Towing Service Hub, 2026 rates, light-duty base fees by truck type",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowingSites, 2026 towing cost guide, base hookup fee",
+            "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, hook-up fee",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          }
         ]
       },
       {
@@ -199,9 +236,18 @@
         "basis": "per mile",
         "note": "Michigan statewide averages posted by a Kalamazoo operator match the national flatbed band. Wheel-lift miles run a dollar or two lower.",
         "sources": [
-          {"name": "KZOO Towing Trucks, Kalamazoo, posted Michigan per-mile range, read 2026-09-07", "url": "https://kzootowingtrucks.com/"},
-          {"name": "Towing Service Hub, 2026 rates, flatbed per-mile", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
-          {"name": "TowMarX, 2026 dispatch guide, per-mile range", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"}
+          {
+            "name": "KZOO Towing Trucks, Kalamazoo, posted Michigan per-mile range, read 2026-09-07",
+            "url": "https://kzootowingtrucks.com/"
+          },
+          {
+            "name": "Towing Service Hub, 2026 rates, flatbed per-mile",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, per-mile range",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          }
         ]
       },
       {
@@ -211,9 +257,18 @@
         "basis": "per visit",
         "note": "A Kalamazoo operator posts service calls starting at the bottom of this band. You pay for the service done, not for the tow that was dispatched.",
         "sources": [
-          {"name": "Trent's Towing, Kalamazoo, posted service-call starting price, read 2026-09-07", "url": "https://trentstowingkalamazoo.com/"},
-          {"name": "Knob Hill Towing, jump-start versus tow price comparison", "url": "https://knobhilltowing.com/jump-start-vs-tow-when-to-choose-which-service/"},
-          {"name": "Vanderburgh County, Indiana, county towing agreement, at-scene jump start fee (comparator)", "url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"}
+          {
+            "name": "Trent's Towing, Kalamazoo, posted service-call starting price, read 2026-09-07",
+            "url": "https://trentstowingkalamazoo.com/"
+          },
+          {
+            "name": "Knob Hill Towing, jump-start versus tow price comparison",
+            "url": "https://knobhilltowing.com/jump-start-vs-tow-when-to-choose-which-service/"
+          },
+          {
+            "name": "Vanderburgh County, Indiana, county towing agreement, at-scene jump start fee (comparator)",
+            "url": "https://evansville.granicus.com/MetaViewer.php?view_id=2&clip_id=1909&meta_id=93647"
+          }
         ]
       },
       {
@@ -223,9 +278,18 @@
         "basis": "per visit",
         "note": "Billed by time on the line. A shallow ditch on M-43 is quick; a car on its side in a culvert can run past the band.",
         "sources": [
-          {"name": "Towing Service Hub, 2026 rates, winch-out range", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
-          {"name": "TowingSites, 2026 towing cost guide, winch-out and complex recovery", "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"},
-          {"name": "DriveSmart, tow truck service cost guide, winching and recovery", "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"}
+          {
+            "name": "Towing Service Hub, 2026 rates, winch-out range",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowingSites, 2026 towing cost guide, winch-out and complex recovery",
+            "url": "https://www.towingsites.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "DriveSmart, tow truck service cost guide, winching and recovery",
+            "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"
+          }
         ]
       },
       {
@@ -235,9 +299,18 @@
         "basis": "added",
         "note": "Some operators bill it as a percentage of the base instead. Either way it should be stated before the truck leaves.",
         "sources": [
-          {"name": "Towing Service Hub, 2026 rates, after-hours premium", "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"},
-          {"name": "TowMarX, 2026 dispatch guide, after-hours add-on", "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"},
-          {"name": "DriveSmart, tow truck service cost guide, after-hours fees", "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"}
+          {
+            "name": "Towing Service Hub, 2026 rates, after-hours premium",
+            "url": "https://towingservicehub.com/blog/how-much-does-towing-cost"
+          },
+          {
+            "name": "TowMarX, 2026 dispatch guide, after-hours add-on",
+            "url": "https://towmarx.com/the-dispatch/how-much-does-a-tow-cost"
+          },
+          {
+            "name": "DriveSmart, tow truck service cost guide, after-hours fees",
+            "url": "https://blog.drivesmart.auto/blog/how-much-does-a-tow-truck-service-cost"
+          }
         ]
       }
     ]
