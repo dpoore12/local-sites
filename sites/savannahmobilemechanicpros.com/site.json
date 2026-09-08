@@ -1,0 +1,103 @@
+{
+  "domain": "savannahmobilemechanicpros.com",
+  "phase": 2,
+  "brand": "Savannah Mobile Mechanic Pros",
+  "service": "Mobile Mechanic",
+  "service_inline": "mobile mechanic",
+  "vertical": "home",
+  "pro_noun": "mechanic",
+  "entity_noun": "repair business",
+  "city": "Savannah",
+  "state": "GA",
+  "state_full": "Georgia",
+  "counties": ["Chatham"],
+  "area_codes": ["912"],
+  "phone_display": "(912) 000-0000",
+  "phone_tel": "+19120000000",
+  "phone_status": "PLACEHOLDER",
+  "phone_note": "No number bought yet. Buy a Telnyx 912 number before DNS and replace phone_display/phone_tel, then set phone_status to LIVE.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {"status": "none", "business_name": null, "license_number": null, "years_in_business": null, "reviews": null, "service_hours": null, "family_owned": null, "veteran_owned": null},
+  "local_facts": [
+    {
+      "id": "southern_battery_life",
+      "title": "Southern batteries die seventeen months sooner",
+      "claim": "AAA, citing Consumer Reports data, states that vehicle batteries in the southern United States on average last 17 months less than in colder northern climates. Heat accelerates grid corrosion, the slow degradation of the internal metal grids that support the battery plates, causing reduced capacity, diminished starting power and eventual failure. AAA notes that under-hood temperatures can exceed 150 degrees in some regions.",
+      "why_it_matters": "A three-year-old battery in Savannah is a replacement candidate, and the failure usually surfaces on the first cool morning of autumn. Load-testing before replacing is the difference between fixing the car and guessing.",
+      "sources": ["https://mwg.aaa.com/via/car/prevent-heat-damage-car-battery", "https://www.consumerreports.org/cars/car-batteries/buying-guide/"],
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "georgia_estimate_rule",
+      "title": "Georgia's protection is the written estimate, not a license",
+      "claim": "Georgia does not license automotive mechanics. The state's Consumer Ed site, run by the Georgia Attorney General's Consumer Protection Division, tells drivers to get a written estimate before work begins, to make sure the estimate states that the shop will call before doing work that exceeds a specified amount or that was not agreed to, and to ask up front for all replaced parts to be returned. Suspected repair fraud is reported to the Consumer Protection Division at 404-651-8600 or 800-869-1123.",
+      "why_it_matters": "A mobile mechanic working out of a truck should meet the same standard as a shop: parts and labor on paper first, a call before exceeding it, and the old parts handed back on request.",
+      "sources": ["https://consumered.georgia.gov/your-car/repairs-maintenance/mechanics", "https://consumer.georgia.gov/organization/about-us/statutes-we-enforce"],
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "stewart_hunter",
+      "title": "Coastal Georgia's largest employer drives a lot of one-car households",
+      "claim": "The U.S. Army Garrison Fort Stewart-Hunter Army Airfield reports 21,200 full-time soldiers, 4,350 Army civilian workers and contractors, and more than 19,000 military retirees in the Stewart-Hunter communities. Hunter Army Airfield sits inside the city of Savannah in Chatham County; Fort Stewart is about 45 miles away in Hinesville.",
+      "why_it_matters": "Military families on orders sell cars fast and buy cars fast, and a soldier's one car dying in on-post housing is a mobile-mechanic call, not a shop visit. Access to Hunter needs a visitor pass arranged in advance.",
+      "sources": ["https://home.army.mil/stewart/about/Garrison", "https://home.army.mil/stewart/index.php/about/Garrison/hunter-army-airfield"],
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "brampton_connector",
+      "title": "Port truck traffic is moving off neighborhood streets",
+      "claim": "Georgia DOT opened the $126 million Brampton Road Connector on July 16, 2026, a four-lane highway linking the Port of Savannah's Garden City Terminal to the I-16 corridor toward Atlanta. The Georgia Ports Authority says the project removes at-grade rail crossings and truck traffic from local neighborhoods. Chatham County's population is just under 300,000 and the port is one of the three busiest in the United States.",
+      "why_it_matters": "Container trucks on I-16 and Highway 21 are part of daily driving here; the connector changes which streets in Garden City and west Savannah carry them, and where a stalled car is most dangerous.",
+      "sources": ["https://cdllife.com/2026/georgia-dot-opening-126-million-four-lane-freight-corridor-connecting-port-of-savannah-to-i-16/", "https://www.chathamcounts.com/chatham-county"],
+      "verified": "2026-09-08"
+    }
+  ],
+  "neighborhoods": ["Ardsley Park", "Midtown", "Southside", "Georgetown", "Windsor Forest", "Pooler"],
+  "symptoms": ["click_no_crank", "grinding_when_braking", "check_engine_light_on", "buying_a_used_car"],
+  "schema": {"local_business": false, "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."},
+  "hero_accent": "The Mechanic Comes to the Car",
+  "trust_third": "Written quote before any part is ordered",
+  "services": [
+    {"slug": "no-start-diagnosis", "name": "No-Start Diagnosis", "nav": "Car won't start", "h1": "Car Won't Start: Battery, Starter and Alternator", "accent": "Tested Where It Sits", "photo": "assets/work-1.jpg", "keyword": "car won't start mobile mechanic Savannah", "icon": "bolt"},
+    {"slug": "mobile-brake-repair", "name": "Mobile Brake Repair", "nav": "Brakes", "h1": "Mobile Brake Repair", "accent": "Pads, Rotors and Calipers in Your Driveway", "photo": "assets/work-2.jpg", "keyword": "mobile brake repair Savannah", "icon": "warn"},
+    {"slug": "check-engine-diagnostics", "name": "Check Engine Diagnostics", "nav": "Check engine light", "h1": "Check Engine Light Diagnostics", "accent": "A Code Is Not a Diagnosis", "photo": "assets/work-3.jpg", "keyword": "check engine light diagnostic Savannah", "icon": "search"},
+    {"slug": "pre-purchase-inspection", "name": "Pre-Purchase Inspection", "nav": "Pre-purchase inspection", "h1": "Pre-Purchase Car Inspection", "accent": "At the Seller's Curb, Before You Pay", "photo": "assets/hero.jpg", "keyword": "pre purchase car inspection Savannah", "icon": "check"}
+  ],
+  "symptom_service": ["no-start-diagnosis", "mobile-brake-repair", "check-engine-diagnostics", "pre-purchase-inspection"],
+  "_market": {"keyword": "mobile mechanic savannah ga", "monthly_price": 800, "score": 74, "volume": 320, "cpc_usd": 3.6, "weakest_competitor": "aztecsmobilemechanic.com, organic #1, 15 referring domains", "competitor_dr": 8.0, "sweep": "NICHE-SWEEP-2-2026-09-07.md"},
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What mobile mechanic jobs run in Savannah",
+    "anchors": [
+      {"label": "Battery life penalty, southern states", "value": "17 months", "detail": "AAA's figure for how much sooner a battery fails in the southern United States than in cooler northern climates, from Consumer Reports data. Under-hood temperatures past 150 degrees drive grid corrosion.", "source_name": "AAA, preventing heat damage to a car battery", "source_url": "https://mwg.aaa.com/via/car/prevent-heat-damage-car-battery"},
+      {"label": "Georgia written-estimate rule", "value": "Before work begins", "detail": "The state's Consumer Ed guidance: get a written estimate first, require a call before the estimate is exceeded or unagreed work is done, and ask for replaced parts back. Georgia does not license mechanics; this is the protection.", "source_name": "Georgia Attorney General's Consumer Protection Division, Consumer Ed", "source_url": "https://consumered.georgia.gov/your-car/repairs-maintenance/mechanics"},
+      {"label": "Mobile labor, national average", "value": "$85/hr", "detail": "2026 survey midpoint for a mobile mechanic's hourly rate, with major metros at $100-$150 and rural markets at $55-$75. Savannah sits between.", "source_name": "Trackara, mobile mechanic hourly rate 2026", "source_url": "https://pro.trackara.app/blog/mobile-mechanic-hourly-rate"}
+    ],
+    "rows": [
+      {"job": "Diagnostic visit: scan tool, load test, circuit test at the car", "low": 50, "high": 120, "basis": "per visit", "note": "Most mobile mechanics credit this against the repair if you go ahead. Ask before booking.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "EC Mobile Auto, posted check-engine diagnosis price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"}]},
+      {"job": "Mobile labor, per hour, for open-ended work", "low": 80, "high": 170, "basis": "per hour", "note": "Flat-rate quotes cover most jobs; hourly applies to diagnostics and wiring. European, diesel and EV work carries a premium.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "Trackara, mobile mechanic hourly rate 2026", "url": "https://pro.trackara.app/blog/mobile-mechanic-hourly-rate"}]},
+      {"job": "Battery replaced in the driveway, parts and labor", "low": 100, "high": 250, "basis": "flat", "note": "Group size and AGM stop-start batteries set the price. Registration to the car's computer is included where the car needs it.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "EC Mobile Auto, posted battery replacement starting price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"}]},
+      {"job": "Starter or alternator replaced, parts and labor", "low": 250, "high": 650, "basis": "flat", "note": "How buried the part is decides the number. Belt and tensioner are checked with an alternator. Some engines run past the band.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"}]},
+      {"job": "Brake pads, per axle, with hardware; pads and rotors at the top", "low": 100, "high": 350, "basis": "per axle", "note": "Pads alone at the low end. Pads plus rotors is the usual job once grinding has started. A seized caliper adds to it.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "EC Mobile Auto, posted brake pad per-axle starting price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"}]},
+      {"job": "Pre-purchase inspection at the seller's car, with written report", "low": 100, "high": 200, "basis": "flat", "note": "A local mechanic's flat fee sits at the low end; the national mobile inspection services at the top.", "sources": [
+        {"name": "EC Mobile Auto, posted pre-purchase inspection price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"},
+        {"name": "YourMechanic, pre-purchase car inspection service page", "url": "https://www.yourmechanic.com/services/pre-purchase-car-inspection"},
+        {"name": "iNeedaPPI, comparison of mobile pre-purchase inspection services", "url": "https://ineedappi.com/comparing-the-top-mobile-pre-purchase-car-inspection-services-in-2025/"}]}
+    ]
+  }
+}

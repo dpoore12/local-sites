@@ -1,0 +1,17 @@
+{
+  "service": "Mobile Mechanic",
+  "service_inline": "mobile mechanic",
+  "vertical": "home",
+  "emergency": true,
+  "pro_noun": "mechanic",
+  "entity_noun": "repair business",
+  "hero_accent": "The Mechanic Comes to the Car",
+  "trust_third": "Written quote before any part is ordered",
+  "services": [
+    {"slug": "no-start-diagnosis", "name": "No-Start Diagnosis", "nav": "Car won't start", "h1": "Car Won't Start: Battery, Starter and Alternator", "accent": "Tested Where It Sits", "keyword": "car won't start mobile mechanic", "icon": "bolt"},
+    {"slug": "mobile-brake-repair", "name": "Mobile Brake Repair", "nav": "Brakes", "h1": "Mobile Brake Repair", "accent": "Pads, Rotors and Calipers in Your Driveway", "keyword": "mobile brake repair", "icon": "warn"},
+    {"slug": "check-engine-diagnostics", "name": "Check Engine Diagnostics", "nav": "Check engine light", "h1": "Check Engine Light Diagnostics", "accent": "A Code Is Not a Diagnosis", "keyword": "check engine light diagnostic mobile", "icon": "search"},
+    {"slug": "pre-purchase-inspection", "name": "Pre-Purchase Inspection", "nav": "Pre-purchase inspection", "h1": "Pre-Purchase Car Inspection", "accent": "At the Seller's Curb, Before You Pay", "keyword": "pre purchase car inspection", "icon": "check"}
+  ],
+  "symptoms": ["click_no_crank", "grinding_when_braking", "check_engine_light_on", "buying_a_used_car"]
+}

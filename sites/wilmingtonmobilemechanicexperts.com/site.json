@@ -1,0 +1,103 @@
+{
+  "domain": "wilmingtonmobilemechanicexperts.com",
+  "phase": 2,
+  "brand": "Wilmington Mobile Mechanic Experts",
+  "service": "Mobile Mechanic",
+  "service_inline": "mobile mechanic",
+  "vertical": "home",
+  "pro_noun": "mechanic",
+  "entity_noun": "motor vehicle repair business",
+  "city": "Wilmington",
+  "state": "NC",
+  "state_full": "North Carolina",
+  "counties": ["New Hanover"],
+  "area_codes": ["910"],
+  "phone_display": "(910) 000-0000",
+  "phone_tel": "+19100000000",
+  "phone_status": "PLACEHOLDER",
+  "phone_note": "No number bought yet. Buy a Telnyx 910 number before DNS and replace phone_display/phone_tel, then set phone_status to LIVE.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {"status": "none", "business_name": null, "license_number": null, "years_in_business": null, "reviews": null, "service_hours": null, "family_owned": null, "veteran_owned": null},
+  "local_facts": [
+    {
+      "id": "nc_repair_act",
+      "title": "North Carolina puts the estimate in writing by statute",
+      "claim": "G.S. 20-354.3 of the North Carolina Motor Vehicle Repair Act requires a motor vehicle repair business, when a customer requests repair work that will exceed $350, to prepare a written repair estimate before performing any diagnostic work or repair, unless the customer waives the estimate in writing. The $350 figure includes parts, labor, diagnostic and teardown charges, taxes, shop supplies and incidental services. The estimate must include a statement letting the customer indicate whether replaced parts should be saved for inspection or return, and the daily storage charge after the repair is complete. Shops must post a sign at least 24 inches on each side stating these rights. A customer injured by a violation may sue for damages, costs and attorney's fees.",
+      "why_it_matters": "A mobile mechanic is a motor vehicle repair business under the same article. The written quote before work, and the old parts back on request, are rights a Wilmington driver already has; this site expects them on every job, threshold or not.",
+      "sources": ["https://www.ncleg.gov/enactedlegislation/statutes/pdf/bysection/chapter_20/gs_20-354.3.pdf", "https://law.justia.com/codes/north-carolina/chapter-20/article-15b/section-20-354-3/"],
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "emissions_test_ending",
+      "title": "New Hanover's emissions test is on its way out; the safety inspection stays",
+      "claim": "On May 11, 2026 the EPA proposed approving North Carolina's request to remove its vehicle inspection and maintenance program, the emissions test, from the State Implementation Plan for the remaining 19 counties, with only Mecklenburg County continuing emissions testing under state law. New Hanover County is among the counties named. NC DEQ had proposed ending the test in 18 counties including New Hanover in August 2024. The annual safety inspection remains a condition of registration renewal statewide.",
+      "why_it_matters": "Once the change takes effect a check-engine light alone no longer fails a Wilmington inspection, but brakes, lights, tires and wipers still do, and a mobile mechanic can fix those before the station visit. Only a licensed station can issue the sticker.",
+      "sources": ["https://www.epa.gov/newsreleases/epa-proposes-approving-north-carolinas-plan-remove-vehicle-emissions-testing", "https://www.carolinajournal.com/nc-deq-moves-to-end-vehicle-emissions-testing-in-most-counties/", "https://www.deq.nc.gov/about/divisions/air-quality/motor-vehicles-and-air-quality/inspection-maintenance-im-program/general-emissions-inspection-information"],
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "sept_2024_flood",
+      "title": "A thousand-year flood put cars under water in September 2024",
+      "claim": "In September 2024 a stalled coastal storm dropped more than 18 inches of rain on Carolina Beach in 12 hours and almost 21 inches overall, described as a 1,000-year rainfall event. A state of emergency was declared in New Hanover, Brunswick, Bladen and Columbus counties; homes flooded, cars were submerged, schools closed, and roads including U.S. 17 in Brunswick County and U.S. 74/76 were shut. Saltwater immersion corrodes brake lines, fuel lines, subframe components and suspension hardware at a rate cleaning does not reverse, and a flooded car can start and drive normally for months before an airbag module, transmission controller or ABS sensor fails.",
+      "why_it_matters": "Flooded cars from that storm and from earlier hurricane seasons are in the local used-car supply. The under-carpet, under-seat and connector checks in a pre-purchase inspection exist for this reason.",
+      "sources": ["https://www.cbs17.com/news/north-carolina-news/state-of-emergency-declared-at-nc-coast-after-firehose-storm-hits-50-roads-still-closed/", "https://www.foxweather.com/learn/flood-water-damage-car-salt-fresh", "https://abc11.com/amp/hurricane-ian-flooded-cars-car-damage-flood/12346539/"],
+      "verified": "2026-09-08"
+    },
+    {
+      "id": "southern_battery_life",
+      "title": "Coastal heat takes seventeen months off a battery",
+      "claim": "AAA, citing Consumer Reports data, states that vehicle batteries in the southern United States on average last 17 months less than in colder northern climates, because heat accelerates grid corrosion inside the battery, and that under-hood temperatures can exceed 150 degrees in some regions.",
+      "why_it_matters": "Wilmington adds salt air to the heat, which corrodes terminals and ground straps. A battery past three years old here is a candidate, and a load test is the honest way to tell a dead battery from a corroded connection.",
+      "sources": ["https://mwg.aaa.com/via/car/prevent-heat-damage-car-battery"],
+      "verified": "2026-09-08"
+    }
+  ],
+  "neighborhoods": ["Ogden", "Pine Valley", "Forest Hills", "Monkey Junction", "Sunset Park", "Landfall"],
+  "symptoms": ["click_no_crank", "grinding_when_braking", "check_engine_light_on", "buying_a_used_car"],
+  "schema": {"local_business": false, "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."},
+  "hero_accent": "The Mechanic Comes to the Car",
+  "trust_third": "Written quote before any part is ordered",
+  "services": [
+    {"slug": "no-start-diagnosis", "name": "No-Start Diagnosis", "nav": "Car won't start", "h1": "Car Won't Start: Battery, Starter and Alternator", "accent": "Tested Where It Sits", "photo": "assets/work-1.jpg", "keyword": "car won't start mobile mechanic Wilmington NC", "icon": "bolt"},
+    {"slug": "mobile-brake-repair", "name": "Mobile Brake Repair", "nav": "Brakes", "h1": "Mobile Brake Repair", "accent": "Pads, Rotors and Calipers at Your Curb", "photo": "assets/work-2.jpg", "keyword": "mobile brake repair Wilmington NC", "icon": "warn"},
+    {"slug": "check-engine-diagnostics", "name": "Check Engine Diagnostics", "nav": "Check engine light", "h1": "Check Engine Light Diagnostics", "accent": "A Code Is Not a Diagnosis", "photo": "assets/work-3.jpg", "keyword": "check engine light diagnostic Wilmington NC", "icon": "search"},
+    {"slug": "pre-purchase-inspection", "name": "Pre-Purchase Inspection", "nav": "Pre-purchase inspection", "h1": "Pre-Purchase Car Inspection", "accent": "At the Seller's Curb, Before You Pay", "photo": "assets/hero.jpg", "keyword": "pre purchase car inspection Wilmington NC", "icon": "check"}
+  ],
+  "symptom_service": ["no-start-diagnosis", "mobile-brake-repair", "check-engine-diagnostics", "pre-purchase-inspection"],
+  "_market": {"keyword": "mobile mechanic wilmington nc", "monthly_price": 800, "score": 72, "volume": 260, "cpc_usd": 3.2, "weakest_competitor": "prestononwheels.com, organic #6, 7 referring domains", "competitor_dr": 6.0, "sweep": "NICHE-SWEEP-2-2026-09-07.md"},
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What mobile mechanic jobs run in Wilmington",
+    "anchors": [
+      {"label": "Written estimate required above", "value": "$350", "detail": "G.S. 20-354.3: parts, labor, diagnostic and teardown, taxes and supplies all count toward the threshold, and the estimate must offer you the replaced parts back. Waivable only in writing.", "source_name": "North Carolina Motor Vehicle Repair Act, G.S. 20-354.3", "source_url": "https://www.ncleg.gov/enactedlegislation/statutes/pdf/bysection/chapter_20/gs_20-354.3.pdf"},
+      {"label": "Battery life penalty, southern states", "value": "17 months", "detail": "AAA's figure, from Consumer Reports data, for how much sooner batteries fail in the southern United States than in cooler northern climates. Salt air on this coast adds terminal corrosion on top.", "source_name": "AAA, preventing heat damage to a car battery", "source_url": "https://mwg.aaa.com/via/car/prevent-heat-damage-car-battery"},
+      {"label": "Mobile labor, national average", "value": "$85/hr", "detail": "2026 survey midpoint for a mobile mechanic's hourly rate, with major metros at $100-$150 and rural markets at $55-$75.", "source_name": "Trackara, mobile mechanic hourly rate 2026", "source_url": "https://pro.trackara.app/blog/mobile-mechanic-hourly-rate"}
+    ],
+    "rows": [
+      {"job": "Diagnostic visit: scan tool, load test, circuit test at the car", "low": 50, "high": 120, "basis": "per visit", "note": "Usually credited against the repair if you proceed with the same mechanic. Confirm before booking.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "EC Mobile Auto, posted check-engine diagnosis price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"}]},
+      {"job": "Mobile labor, per hour, for open-ended work", "low": 80, "high": 170, "basis": "per hour", "note": "Applies to diagnostics and wiring; most repairs are quoted flat. European, diesel and EV work carries a premium.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "Trackara, mobile mechanic hourly rate 2026", "url": "https://pro.trackara.app/blog/mobile-mechanic-hourly-rate"}]},
+      {"job": "Battery replaced at the car, parts and labor", "low": 100, "high": 250, "basis": "flat", "note": "Group size and AGM stop-start batteries set the number. Terminal cleaning and computer registration included where needed.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "EC Mobile Auto, posted battery replacement starting price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"}]},
+      {"job": "Starter or alternator replaced, parts and labor", "low": 250, "high": 650, "basis": "flat", "note": "Location of the part on the engine decides it. A corroded ground strap is checked first, since it mimics a bad starter.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"}]},
+      {"job": "Brake pads, per axle, with hardware; pads and rotors at the top", "low": 100, "high": 350, "basis": "per axle", "note": "Salt-seized slide pins are cleaned as part of the job. A caliper that will not free adds to it.", "sources": [
+        {"name": "AutoNation Mobile Service, mobile mechanic cost guide 2026", "url": "https://www.autonationmobileservice.com/i/blog/how-much-does-a-mobile-mechanic-cost"},
+        {"name": "Awajis, mobile mechanic cost by job, May 2026", "url": "https://awajis.com/us/mobile-mechanic-cost/"},
+        {"name": "EC Mobile Auto, posted brake pad per-axle starting price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"}]},
+      {"job": "Pre-purchase inspection at the seller's car, with written report", "low": 100, "high": 200, "basis": "flat", "note": "Local flat fees sit at the low end, national mobile inspection services at the top. Flood and salt checks are the point here.", "sources": [
+        {"name": "EC Mobile Auto, posted pre-purchase inspection price", "url": "https://ecmobileauto.com/blog/how-much-does-mobile-mechanic-cost"},
+        {"name": "YourMechanic, pre-purchase car inspection service page", "url": "https://www.yourmechanic.com/services/pre-purchase-car-inspection"},
+        {"name": "iNeedaPPI, comparison of mobile pre-purchase inspection services", "url": "https://ineedappi.com/comparing-the-top-mobile-pre-purchase-car-inspection-services-in-2025/"}]}
+    ]
+  }
+}
