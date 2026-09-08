@@ -828,5 +828,45 @@
   "vol": 250,
   "cpc": 70.0,
   "built": false
+ },
+ {
+  "domain": "kalamazootowingpros.com",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "service": "Towing",
+  "rent": 1000,
+  "vol": 320,
+  "cpc": 5.0,
+  "built": true
+ },
+ {
+  "domain": "evansvilletowingpros.com",
+  "city": "Evansville",
+  "state": "IN",
+  "service": "Towing",
+  "rent": 1000,
+  "vol": 260,
+  "cpc": 5.0,
+  "built": true
+ },
+ {
+  "domain": "savannahmobilemechanicpros.com",
+  "city": "Savannah",
+  "state": "GA",
+  "service": "Mobile Mechanic",
+  "rent": 800,
+  "vol": 320,
+  "cpc": 3.6,
+  "built": true
+ },
+ {
+  "domain": "wilmingtonmobilemechanicexperts.com",
+  "city": "Wilmington",
+  "state": "NC",
+  "service": "Mobile Mechanic",
+  "rent": 800,
+  "vol": 260,
+  "cpc": 3.2,
+  "built": true
  }
 ]
