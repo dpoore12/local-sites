@@ -686,7 +686,7 @@ def build(domain, live=False, check_only=False, corpus=None):
         page_cards_head=f"What affects {s['service_inline']} in {s['city']}", **ctx)
 
     pages["about/index.html"] = inner.render(
-        meta_title=f"About &mdash; {s['service']} in {s['city']}, {s['state']}",
+        meta_title=f"About &mdash; {s['brand']}",
         meta_description=f"Why this page covers {s['city']} only.",
         canonical_path="/about/", base="../", schema_json=None,
         page_h1="About This Page", page_kicker=f"{s['city']} only",
@@ -709,7 +709,7 @@ def build(domain, live=False, check_only=False, corpus=None):
         f"<p><strong>Before you call:</strong> {c.get('emergency_note', '')}</p>"
     )
     pages["contact/index.html"] = inner.render(
-        meta_title=f"Contact &mdash; {s['service']} in {s['city']}, {s['state']}",
+        meta_title=f"Contact &mdash; {s['brand']}",
         meta_description=(
             f"Reach a {s['city']} {s['service_inline']}."
             if any(s['service_inline'].rstrip().endswith(w)
