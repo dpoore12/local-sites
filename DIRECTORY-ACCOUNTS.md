@@ -1,74 +1,74 @@
-# Directory accounts to create — verified live 13 Sep 2026
+# Directory accounts — corrected 14 Sep 2026 after Dan hit dead ends live
 
-Every link below was opened and clicked through live before being put in this
-file. Deep links go straight to the signup/claim form, not a homepage.
+The original 17-directory list (from an old citation-packet file, never checked
+against the live web) was mostly wrong. Checked every one end-to-end today,
+not just "does the form load" — actually pushed through to what happens on
+submit. Most of it was dead, paid, or a sales funnel in disguise.
 
-Signup email for every account: **danpoore99@gmail.com**
+Signup email: **danpoore99@gmail.com**. Don't put passwords in this file — use
+a password manager.
 
-**Do not put passwords in this file, in any repo, or in any chat.** Use a
-password manager and let it generate/store one. Reusing the same password
-across all of these is fine — free marketing listings, nothing sensitive —
-but it still should not live in git history.
+## Actually free and real — 2
 
-## Important discovery: #1-3 are the same system
-
-yellowpages.com, dexknows.com and superpages.com are all owned by Thryv, and
-their "Claim Your Listing" buttons all resolve to the **exact same URL**:
-`yellowpages.com/claim-your-listing`. Do #1 once. Then just check #2 and #3 —
-there is a real chance the same login already covers them, since it's one
-backend serving all three. This is the single biggest time-saver here: it
-may be 1 account, not 3.
-
-## Real accounts to create — 12 (likely 10 actions, given #1-3)
-
-| # | Directory | Direct link | Note | Status |
+| # | Directory | Link | What it is | Status |
 |---|---|---|---|---|
-| 1 | Yellow Pages | https://www.yellowpages.com/claim-your-listing | Has a reCAPTCHA checkbox — normal, just check it yourself | [ ] |
-| 2 | DexKnows | (try logging into #1 first) or https://www.dexknows.com | Same Thryv backend as #1 — check before creating a new account | [ ] |
-| 3 | Superpages | (try logging into #1 first) or https://www.superpages.com | Same Thryv backend as #1 — check before creating a new account | [ ] |
-| 4 | Storeboard | https://storeboard.com/sign-up | Standard email+password signup | [ ] |
-| 5 | BestProsInTown | https://www.bestprosintown.com/addbusiness.php | Standalone form, no separate account step visible | [ ] |
-| 6 | Contractors Up | https://www.contractorsup.com/signup | Home services only, skip for legal sites | [ ] |
-| 7 | The Builder Market | https://www.thebuildermarket.com/for-pros | Home services only | [ ] |
-| 8 | Excellent Contractor | https://www.excellentcontractor.com/signup | Home services only | [ ] |
-| 9 | Renovations Up | https://www.renovationsup.com/signup | Home services only | [ ] |
-| 10 | Good HVAC Contractors | https://www.goodhvaccontractors.com/signup | **HVAC/AC/plumbing sites only** (~13 sites) | [ ] |
-| 11 | Air Conditioning Up | https://www.airconditioningup.com/signup | HVAC/AC/plumbing only | [ ] |
-| 12 | USA Heating Contractors | https://www.usaheatingcontractors.com/signup | HVAC/AC/plumbing only | [ ] |
+| 1 | Storeboard | https://storeboard.com/sign-up | Free account, real "add a business" flow, no fee anywhere in signup | [ ] |
+| 2 | BestProsInTown | https://www.bestprosintown.com/addbusiness.php | "Free basic listing — no credit card required," confirmed on the form itself | [ ] |
 
-Directories 6-12 are all the same underlying platform/template (same company
-running seven near-identical contractor-lead sites), so once you've done one
-signup the rest will feel identical — same form, same fields, same flow.
+That's the whole free list. Do both, ~20 minutes total, then tell me — I'll
+submit all 87 sites' data into them from citation-packets/.
+
+## Dead — do not use (5)
+
+| Directory | Why |
+|---|---|
+| yellowpages.com | The "add new business" path is a sales lead form ("we'll be in touch to get to know your business"), not a listing. Confirmed live 14 Sep. |
+| dexknows.com | Same Thryv company as yellowpages.com, same dead end. |
+| superpages.com | Same Thryv company as yellowpages.com, same dead end. |
+| n49.com | Canadian directory. Wrong country. |
+| qdexx.com | Canadian directory. Wrong country. |
+
+## Paid, not free — one company running several "directory" brands (6)
+
+All the same operator. Base listing is **$19.95 one-time**, with $10 add-ons
+to bundle into their other branded sites (remodelersup, bestimprovers,
+usaconstructioncompany, homeimprovementfirms, recommendedcompany, businessesup,
+reputablebusinesses — none of which were even in the original list). Not
+pursuing without an explicit decision to spend money, since the whole citation
+plan was built on the assumption of $0 cash cost.
+
+| Directory | Fee |
+|---|---|
+| contractorsup.com | $19.95 |
+| excellentcontractor.com | $19.95 |
+| renovationsup.com | $19.95 |
+| goodhvaccontractors.com | $19.95 |
+| airconditioningup.com | $19.95 |
+| usaheatingcontractors.com | $19.95 |
+
+If this is ever worth revisiting: $19.95 for the first listing + $10/site
+covers up to 9 of their brands per business, so it's roughly $20-70 per site
+depending on how many of their brands are wanted, not $19.95 x 6 separate
+purchases.
+
+## SaaS trial, not a citation (1)
+
+| Directory | What it actually is |
+|---|---|
+| thebuildermarket.com | Lead-gen platform with a "free trial" and paid "AI growth stack" upsell. Not a plain citation. Skip. |
 
 ## Not a signup — a pitch instead (1)
 
 | Directory | What it actually is |
 |---|---|
-| expertise.com | Editorial — they choose who gets listed after research. No self-serve form. Skip for now; revisit as an outreach/PR target later, not an account to create. |
+| expertise.com | Editorial — they choose who gets listed. No self-serve form. Outreach target, not an account. |
 
-## Removed — verified dead or wrong, do not pursue (4)
+## What this actually means for the plan
 
-| Directory | Why dropped |
-|---|---|
-| n49.com | Canadian business directory. Wrong country. |
-| qdexx.com | Canadian business directory. Wrong country. |
-| trustanalytica.org | Pivoted to a paid reputation-management SaaS product. No free listing exists anymore. |
-| findglocal.com | Appears abandoned — static scraped listings, no working "add your business" flow found. |
-
-## After each account exists
-
-1. Mark its row done above.
-2. Save the login in your password manager (e.g. "citations — yellowpages").
-3. Tell me it's ready — I'll log in and submit all 87 sites' data (or the
-   relevant subset for the trade-specific ones) from citation-packets/, which
-   already has the exact name/phone/city/category per site.
-
-## Order
-
-Do #1 first, then check #2 and #3 before signing up fresh — could cut this
-list from 12 accounts to 10. #6-9 only matter for the ~38 home-services
-sites, #10-12 only for the ~13 HVAC/plumbing sites, and legal sites (~49)
-only need #1-5.
-
-Estimated time: ~10 min each, ~10 real signups after the Thryv check =
-**about 1.5-2 hours total**, down from the original 3-hour estimate.
+The free-citation lever is much smaller than originally scoped — 2 real
+directories, not 12-17. That was never going to be the thing that moves
+position 60 to page one on its own anyway. The part of PLAYBOOK-LINKS.md that
+matters most is still **Tier 3** — real local links (news mentions, HOA/
+community resource pages, guest posts, sponsorships) — because that's the
+part competitors in the live link test actually have and directories don't
+replace. Citations were always the cheap floor, not the ceiling.
