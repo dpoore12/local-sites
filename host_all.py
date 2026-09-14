@@ -256,6 +256,10 @@ def check():
 
     Now: read each site's own sitemap, then test the home page plus three
     interior pages drawn from it. An interior 404 fails the run.
+
+    Also: slashless probe — Location must not leak "/<host>/..." (Aug–Sep 2026
+    outage). A 308 to /services/ is fine; a 308 to /tampatileroofrepair.com/services/
+    fails the run.
     """
     s = load()
     codes, detail = {}, {}
@@ -266,15 +270,40 @@ def check():
                            capture_output=True, text=True)
         return p.stdout.strip() or "000"
 
+    def headers_of(u):
+        p = subprocess.run(["curl", "-sI", "-m", "25", u],
+                           capture_output=True, text=True)
+        return p.stdout
+
     def body_of(u):
         p = subprocess.run(["curl", "-s", "-m", "25", u],
                            capture_output=True, text=True)
         return p.stdout
 
+    def location_leaks(d):
+        """Return a failure reason if slashless /services Location leaks the host."""
+        hdrs = headers_of("https://" + d + "/services")
+        # First status line may be 308; Location must not contain /<host>
+        loc = ""
+        for line in hdrs.splitlines():
+            if line.lower().startswith("location:"):
+                loc = line.split(":", 1)[1].strip()
+                break
+        if not loc:
+            return None  # no redirect — fine if path exists slashless
+        needle = "/" + d
+        if loc == needle or loc.startswith(needle + "/") or f"/{d}/" in loc:
+            return f"LOC-LEAK {loc}"
+        return None
+
     def one(d):
         home = code_of("https://" + d + "/")
         if home != "200":
             return d, home, [("https://" + d + "/", home)]
+
+        leak = location_leaks(d)
+        if leak:
+            return d, leak, [("https://" + d + "/services", leak)]
 
         sm = body_of("https://" + d + "/sitemap.xml")
         urls = [u for u in re.findall(r"<loc>([^<]+)</loc>", sm)
@@ -294,7 +323,7 @@ def check():
             detail[d] = rows
 
     live = [d for d, c in codes.items() if c == "200"]
-    print(f"{len(live)} of {len(codes)} serving home AND interior pages")
+    print(f"{len(live)} of {len(codes)} serving home AND interior pages (no Location leak)")
     for d in sorted(codes):
         if codes[d] != "200":
             print(f"  {d:<44}{codes[d]}")
@@ -303,7 +332,7 @@ def check():
                     print(f"      {c}  {u}")
     s["codes"] = codes
     s["live_count"] = len(live)
-    s["checked"] = "home+3 interior pages from each sitemap"
+    s["checked"] = "home+3 interiors+Location-leak slashless probe"
     save(s)
     return 0 if len(live) == len(codes) else 1
 

@@ -32,6 +32,18 @@ domain, with its own pages written for that city and its own phone number.
 rewrites the auth header on Cloudflare calls, which breaks the upload pass and
 blocks every other host.
 
+## Synthetic monitor
+
+GitHub Action `.github/workflows/site-health.yml` runs every 6 hours (and on
+push to the router/check paths):
+
+1. `python3 test_unprefix.py` — unit pin for the Location-leak fix
+2. `python3 host_all.py check` — every domain: home + 3 sitemap interiors +
+   slashless `/services` Location must not contain `/<host>/`
+
+This is what should have caught the Aug 24–Sep 7 outage on day one. It never
+rebuilds or redeploys.
+
 ## Token needed
 
 An account token with: Cloudflare Pages · Edit, DNS · Edit, Zone · Read (all zones).
