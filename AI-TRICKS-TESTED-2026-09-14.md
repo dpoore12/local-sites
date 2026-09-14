@@ -63,6 +63,28 @@ the constraint. Re-run this monthly as query mix shifts; a real gap would
 show up as a genuinely new topic with real impressions and zero page match,
 which none of these three are.
 
+## Tip 3 (Gobig Systems reel #3): GBP primary category vs. competitors
+
+**The method as given:** Open your Google Business Profile, check your
+primary and secondary categories. Install the "GMB Spy" Chrome extension,
+search your service on Google Maps, check what category the top-ranking
+competitors use as primary. If theirs differs from yours, fix it -- called
+"a huge factor." Add any secondary categories you're missing too.
+
+**Not runnable today -- correctly, not a gap.** None of the 87 sites have a
+Google Business Profile at all. That's the deliberate decision already on
+record in `PLAYBOOK-LINKS.md`: registering fake addresses across dozens of
+cities to create GBP listings is the exact pattern Google's guidelines are
+written to catch and suspend. There is no profile to open, so there's
+nothing this technique can check right now.
+
+**Queued, not dropped.** The playbook already has the right home for this:
+once a tenant signs, calls route into *their* existing, real GBP rather
+than a new one. At that point this is a real, correct move -- check their
+primary category against the top local-pack competitors', fix a mismatch,
+fill in secondary categories. Re-read this section the day the first
+tenant signs.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
