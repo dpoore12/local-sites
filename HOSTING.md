@@ -44,6 +44,17 @@ push to the router/check paths):
 This is what should have caught the Aug 24–Sep 7 outage on day one. It never
 rebuilds or redeploys.
 
+## Router-only redeploy (no rebuild)
+
+When `.stage/` already holds the live expanded sites, push a worker fix without
+`build.py`:
+
+    python3 host_all.py stage_router
+    python3 host_all.py pass          # Cloudflare credential
+    python3 host_all.py upload        # NO credential
+    python3 host_all.py publish       # Cloudflare credential
+    python3 host_all.py check
+
 ## Token needed
 
 An account token with: Cloudflare Pages · Edit, DNS · Edit, Zone · Read (all zones).

@@ -12,6 +12,7 @@ api.cloudflare.com call and asset upload needs its own short-lived pass:
 
     python3 host_all.py reset     # with the Cloudflare credential  (one time)
     python3 host_all.py stage     # no credential
+    python3 host_all.py stage_router  # worker only — needs existing .stage/
     python3 host_all.py upload    # NO credential  (uses the upload pass)
     python3 host_all.py publish   # with the Cloudflare credential
     python3 host_all.py domains   # with the Cloudflare credential
@@ -337,7 +338,30 @@ def check():
     return 0 if len(live) == len(codes) else 1
 
 
-PHASES = {"reset": reset, "stage": stage, "pass": pass_only, "upload": upload,
+def stage_router():
+    """Drop only `_worker.js` into an existing stage tree — no rebuild.
+
+    Use when the live deploy already has the expanded sites and you need to
+    push a router fix (e.g. Location unprefix) without running build.py.
+    Requires a prior `stage` (or a restored `.stage/` from the live tree).
+    """
+    if not os.path.isdir(STAGE) or not any(
+            n for n in os.listdir(STAGE) if n != "_worker.js"):
+        print("no staged sites in", STAGE,
+              "-- restore the live tree or run stage once; refusing to "
+              "upload a worker-only empty project")
+        return 1
+    if not os.path.isfile(WORKER):
+        print("missing worker at", WORKER)
+        return 1
+    shutil.copyfile(WORKER, os.path.join(STAGE, "_worker.js"))
+    print(f"updated {STAGE}/_worker.js from {WORKER} "
+          f"(sites left untouched — {len(domains())} domains in index)")
+    return 0
+
+
+PHASES = {"reset": reset, "stage": stage, "stage_router": stage_router,
+          "pass": pass_only, "upload": upload,
           "publish": publish, "domains": hook_up, "check": check}
 
 if __name__ == "__main__":
