@@ -131,6 +131,32 @@ while the queries carrying its real volume sit 20+ positions deeper.
 Any future GSC read (including earlier ones today) should check per-query
 data before trusting a page's headline position number.
 
+## Tip 5 (Gobig Systems reel #5): AI-interview yourself for original numbers
+
+**The method as given:** Copy a page's content, paste into AI, have it
+interview you for original info -- specific numbers especially: years in
+business, homeowners served, jobs completed.
+
+**Not runnable today, same reason as tip 3.** This requires a real business
+owner with real operating history to interview. None of the 87 sites have
+one yet -- they're pre-tenant shells. Fabricating "since 2015" or "4,000+
+jobs completed" would be false advertising, and it's the exact thing
+`citation-packets/*.md` already forbids in writing: *"Do not claim a
+licence, a year founded, staff, or years in business."*
+
+**Already doing the substitute, and it's a stronger version.** The sites
+already carry specific, real numbers -- just sourced from government/public
+data (city hazard plans, NWS, ERCOT, TDLR license lookups, with links)
+instead of self-reported business history. Tip 1's test today showed that
+already beats real competitors, none of whom cite any source at all.
+Self-reported "years in business" is optional-trust; a cited government
+number isn't.
+
+**Queued for real.** The day a tenant signs, they have actual years in
+business, actual jobs completed, actual customers served -- that's exactly
+when to run this interview technique for real, adding their real numbers
+on top of the sourced local facts already there.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
