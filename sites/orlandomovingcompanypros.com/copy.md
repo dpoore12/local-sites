@@ -966,3 +966,33 @@ Orlando's rainfall normals are 7.35 inches in June, 7.15 in July and 6.25 in Aug
 
 Orange County counts 32,055 units in buildings of five to nine units and 48,536 in buildings of ten to nineteen, much of it stock with an exterior stair and no elevator, so carton removal from an upper-floor unit is stair work in both directions and worth including in the scope explicitly. One more Orlando-specific item belongs in the unpack: the hurricane supplies. The Atlantic season runs June 1 to November 30 with a statistical peak on September 10, so water, batteries, a light, medication and documents should come out of a carton and into a known location during the unpack, not in August when a watch is issued.
 
+## q_how_far_in_advance_to_book_movers_lede
+
+The honest answer splits by distance and by season, and in Orlando two local realities -- the state registration check and hurricane season -- add time that a national rule of thumb leaves out.
+
+## q_how_far_in_advance_to_book_movers_body
+
+### Two different clocks: local and long-distance
+
+A local Orlando move, same state, handled by a truck and crew from the metro, books comfortably at three to four weeks out for most of the year. A long-distance move runs six to eight weeks, because a truck and crew are being committed to a multi-day route and the carrier has to slot the load against others heading the same direction. Off-peak, two to three weeks can still land a reasonable rate on a local move; it narrows the choice of date and arrival window rather than closing the door.
+
+### Season moves the whole scale
+
+May through September is peak, when leases turn over, school calendars drive family moves, and demand across a growing county stacks up on the same few weekends. The Census Bureau put Orange County at 1,528,002 residents as of July 1, 2025, up 6.9 percent, and that growth arrives as move-ins competing for the same crews. In peak season the local window stretches toward six weeks and long-distance toward eight or more. The last Saturday of a summer month is the hardest date on the calendar to get, and the first weekday after it is often wide open.
+
+### Why Florida adds a step the rules of thumb skip
+
+Chapter 507 of the Florida Statutes requires every mover doing intrastate household moves to be registered with the state, and checking that registration is something to do before signing, not after. That check, plus reading the written estimate the same chapter requires, is real lead time. A week spent comparing two or three registered movers is time well used and impossible to compress into a two-day booking. Booking early is not only about availability; it is about having room to vet.
+
+### Book when the date is real, not when it is hoped for
+
+The recurring mistake in every discussion of this is booking around a closing or a lease start that then slips. A purchase closing can move a day or a week at the last minute, and a new-build completion moves more. Book firmly when the date is certain, and until then hold a tentative slot with a mover who confirms in writing what a date change costs. Apartment moves are the exception in the other direction: units often come available with only a couple of weeks' notice, which is exactly the situation a last-minute move exists for.
+
+### The hurricane box, on the calendar this time
+
+The Atlantic season runs June 1 to November 30 with a statistical peak on September 10, and it affects booking in two ways. A named storm in the forecast window can push a scheduled move by days, so a move planned for late August or September should carry a buffer on both ends rather than a hard next-day deadline. And the supplies, water, batteries, a light, medication and documents, should be the last carton packed and the first one identified on the truck, so a storm during the transition week does not find them at the bottom of a stack.
+
+### What to have ready when you call
+
+The move date and whether it is fixed. The origin and destination addresses with floor and elevator or stair details, since Orange County's walk-up stock turns a short move into stair work in both directions. The rough size of the load. Any single heavy item, a piano, a gun safe, a hot tub, that changes the crew and the equipment. With those four things, a quote and a held date take one call. Without them it takes three.
+

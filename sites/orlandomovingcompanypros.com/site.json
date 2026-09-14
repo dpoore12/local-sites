@@ -501,5 +501,16 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-far-in-advance-to-book-movers",
+      "h1": "How Far in Advance to Book Movers",
+      "accent": "Local vs. Long-Distance",
+      "photo": "assets/work-2.jpg",
+      "icon": "clock",
+      "keyword": "how far in advance to book movers",
+      "volume": 100
+    }
+  ]
 }
