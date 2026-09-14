@@ -157,6 +157,55 @@ business, actual jobs completed, actual customers served -- that's exactly
 when to run this interview technique for real, adding their real numbers
 on top of the sourced local facts already there.
 
+## Tip 6 (Gobig Systems reel #6): link from a clicking page to your money page
+
+**The method as given:** Search Console -> Performance -> search results ->
+pages, find a page that's already getting real clicks, open it, add a link
+to your main service page. Google treats links like votes, so link from a
+page it already likes to the page that makes money.
+
+**Run for real, no new data needed** -- reused today's page-level GSC pull.
+Only 3 of 585 measured pages across the whole network have gotten a single
+real click in 28 days: `tampacriminaldefenselawyerpros.com/bond-hearings-
+and-pretrial-release/` (5 clicks), `concordcaraccidentlawyerpros.com/rear-
+end-collision-lawyer/` (1), `bellevuebathroomremodeling.com/walk-in-shower-
+installation/` (1). Pulled the live outbound links on all three.
+
+**Already done, verified live, nothing to add.** Every one of the three
+already links to home, `/pricing/`, `/services/` and its sibling service
+pages. That's `service.html`'s built-in "the other three jobs" cross-link
+section plus the sitewide footer, doing exactly what this tip recommends,
+automatically, on every page on every site -- not something that needed
+fixing.
+
+## Tip 7 (Gobig Systems reel #7): prune zero-click pages with no external links
+
+**The method as given, in full (a first partial read of the reel nearly
+produced a wrong call here):** Search Console -> Performance -> pages,
+sort the last 16 months, find pages with zero clicks. Then check external
+links -- any zero-click page that has real external links pointing to it,
+keep. Only the ones with zero clicks *and* zero external links are
+candidates to delete, redirected to a relevant page.
+
+**This is legitimate practice for a mature site, and it does not fire on
+anything here -- for a specific, correct reason, not because the technique
+is bad.** Only 3 of 585 measured pages have a click. Read naively ("delete
+everything with zero clicks"), that's instructions to delete almost the
+entire network -- which would be actively harmful, since these are
+unranked pages sitting at position 60-90 for the authority reasons found
+all day, not dead or low-quality content. Read correctly with the external-
+links filter: the network currently has 0 citations actually submitted and
+0-3 referring domains total per site, so essentially no deep page has a
+real external link pointing at it either. The filter would still return
+"delete nearly everything," which is the wrong output at this stage of the
+network's life, not a green light.
+
+**No pages deleted or redirected.** Queued the correct way -- re-run this
+once real citations/links exist and a meaningful number of pages have had
+real crawl/index time. At that point a page with genuinely zero clicks
+*and* zero external links after a fair runway is a real pruning candidate.
+Today, none of them have had that runway yet.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
