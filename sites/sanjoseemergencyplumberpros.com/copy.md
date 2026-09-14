@@ -452,3 +452,29 @@ The pressure here runs toward the largest version of the job. A single pinhole b
 ### What the number found online leaves out
 
 National average pages price the pipe and the labor. They do not price cutting and patching a slab, the drywall work a repipe leaves behind, the permit and the inspection wait, disposal of an old tank, or the second fault the first was hiding. On an emergency call they also leave out the surcharge, which is why a two in the morning invoice feels like an ambush.
+
+## q_low_water_pressure_in_house_lede
+
+Pressure that dropped overnight and pressure that has faded over years are two different problems with two different fixes, and in San Jose the age of the house and the hardness of the water say which one is likely.
+
+## q_low_water_pressure_in_house_body
+
+### One fixture or the whole house
+
+The first split is the cheapest to check. If the kitchen tap is weak and the shower is fine, the problem is local to that fixture, and the usual cause is the aerator, the small screen at the end of the spout, packed with mineral scale. San Jose Water reports groundwater hardness of 11 to 26 grains per gallon in the parts of the city served from wells, against the utility's own hard-water threshold of 7, so an aerator here can plug in a year that would take three somewhere with softer water. Unscrew it, clear it, and the fixture is usually back. If every tap in the house is weak at once, the aerator is not the answer and the fault sits on the supply side, before the water splits into branches.
+
+### Sudden, whole-house: work from the street inward
+
+A drop that arrived overnight has a short list. First, look at the water meter with every fixture in the house off; a dial that is still turning means water is leaving the system somewhere, and a hidden leak under a slab or inside a wall is stealing the pressure. Second, confirm the main shutoff at the house and the valve at the meter are fully open, since a valve that was bumped, or one closed for other work and reopened only partway, produces exactly this symptom. Third, and most often the actual cause when the first two check out, is the pressure reducing valve, the bell-shaped brass fitting on the main line near where it enters the house. When its spring or diaphragm gives out on the low side, the whole house drops at once. It is a replacement, not an adjustment, and on a municipal supply like San Jose's it is the single most common answer to "it was fine yesterday."
+
+### Gradual, whole-house: the pipe itself
+
+Pressure that has faded over years rather than overnight is a different mechanism. San Jose's median home was built in 1975, and about 20 percent of the stock predates 1960: Willow Glen bungalows from the 1910s through the 1940s, Cambrian's mid-century tracts, the Eichler homes built between 1952 and 1963. Houses of that age commonly still carry galvanized steel supply lines, and galvanized pipe does not fail only by leaking. It closes from the inside as rust and scale build on the interior wall, until a three-quarter-inch line is passing water through an opening the size of a pencil. Hard water accelerates it. No valve adjustment recovers that; the fix is replacing the affected run, and often the whole supply, which in San Jose is a permitted repipe rather than a quiet weekend job.
+
+### Two things not to do
+
+Do not open the PRV adjustment screw all the way to compensate. A valve that has failed does not respond, and one that has not can push house pressure past what older fixtures and supply hoses are rated for. And do not assume a moving meter is the utility's problem: on a municipal system the utility's side ends at the meter, and everything on the house side, including the service line under the front yard, belongs to the property.
+
+### What tells the two apart on a call
+
+Whether the drop was sudden or gradual. Whether it is one fixture or all of them. Whether the meter turns with everything off. The house's approximate build year, since that predicts galvanized pipe before anyone opens a wall. With those four answers, a sudden drop is usually a PRV or a leak and gets scoped as an emergency repair; a gradual one is usually pipe, and gets scoped as a repipe with a permit.

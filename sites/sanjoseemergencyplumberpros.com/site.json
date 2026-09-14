@@ -329,5 +329,16 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "low-water-pressure-in-house",
+      "h1": "Low Water Pressure in the House",
+      "accent": "Sudden vs. Gradual",
+      "photo": "assets/work-2.jpg",
+      "icon": "drop",
+      "keyword": "low water pressure in house",
+      "volume": 5100
+    }
+  ]
 }
