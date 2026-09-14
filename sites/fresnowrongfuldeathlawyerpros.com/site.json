@@ -393,5 +393,16 @@
         "source_url": "https://www.courts.ca.gov/cms/rules/index.cfm?title=seven&linkid=rule7_952"
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-long-does-a-wrongful-death-lawsuit-take",
+      "h1": "How Long Does a Wrongful Death Lawsuit Take",
+      "accent": "Three Different Tracks",
+      "photo": "assets/work-2.jpg",
+      "icon": "clock",
+      "keyword": "how long does a wrongful death lawsuit take",
+      "volume": 200
+    }
+  ]
 }

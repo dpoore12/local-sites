@@ -1102,3 +1102,29 @@ Source: [Gov. Code § 905](https://leginfo.legislature.ca.gov/faces/codes_displa
 
 The compensation claim generates useful material: the employer's report, the carrier's investigation correspondence, medical and billing records, and wage statements. So does the state safety investigation. A family that keeps organized copies of both, with dates and claim numbers, preserves the factual record for any other claim that might exist. Signing a compromise and release, or any broad settlement document, without understanding which claims it touches is the step that most often closes doors nobody meant to close.
 
+## q_how_long_does_a_wrongful_death_lawsuit_take_lede
+
+There is no fixed number, and anyone who gives one is guessing. What actually sets the pace is which of three tracks a claim is on, and Fresno's own civil calendar adds a layer none of the general answers online account for.
+
+## q_how_long_does_a_wrongful_death_lawsuit_take_body
+
+### The three tracks run at different speeds
+
+A pre-litigation settlement -- the claim resolves through negotiation with an insurer before a lawsuit is even filed -- is the fastest path, and can close in months when liability isn't seriously disputed and records are complete. A filed lawsuit that settles during litigation, most commonly during or shortly after discovery, is the middle track. A case that goes to trial is the slowest, and in California that includes time the case simply waits for a courtroom and a judge to become available, which is scheduling, not case complexity. This general information describes how these tracks work, not what any specific case will do.
+
+### Where the case actually sits changes what "long" means
+
+Cases naming a public entity add the six-month government-claim presentation period before a lawsuit can even be filed at all, on top of whatever the underlying litigation takes. Medical negligence deaths run against California's shorter three-year-or-one-year discovery structure rather than the ordinary two-year period, which affects when a case has to start, not how long it takes once it does. Both of those are covered in more depth on the filing-deadlines page; the point here is that the clock on presentation and the clock on litigation duration are two different things, and families sometimes only track one of them.
+
+### What actually consumes the time in the middle
+
+Discovery -- written questions, document production, depositions -- is where most of a litigated case's duration lives, and its length depends on how many parties are involved, how contested liability is, and whether expert witnesses are needed on causation or damages. A fatal collision with one clear at-fault driver moves differently than a nursing home death or a workplace fatality where an employer, a contractor, and an equipment manufacturer may all be named separately. More defendants generally means more time, not because any one of them is slow, but because discovery has to run with all of them.
+
+### Fresno County's own calendar is part of the answer
+
+Fresno County Superior Court hears Unlimited Civil cases -- the category most wrongful death claims fall into -- at the B.F. Sisk Courthouse, and like most California counties, trial-setting depends on the court's own calendar load at the time a case is ready, not just how quickly the parties finish discovery. A case that is factually and legally ready for trial can still wait for a courtroom. That scheduling reality is local to where the case is filed and doesn't show up in general national answers to this question.
+
+### The honest range, and why it's still a range
+
+Pre-litigation settlements can close in months. Litigated cases that settle before trial commonly run one to two years from filing. Cases that go the distance to trial can run two years or more once court scheduling is added in. None of those numbers are a prediction for a specific case -- they describe how the three tracks behave in general, which is what this page can responsibly offer. A conversation about where a specific case is likely to fall, given its facts, is what the call is for.
+
