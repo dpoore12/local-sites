@@ -15,16 +15,30 @@ that were left. One more real one came out of that: Chamber of Commerce.
 Signup email: **danpoore99@gmail.com**. Don't put passwords in this file — use
 a password manager.
 
-## Actually free and real — 3
+## Actually free and real — 4
 
 | # | Directory | Link | What it is | Status |
 |---|---|---|---|---|
 | 1 | Storeboard | https://storeboard.com/sign-up | Free account, real "add a business" flow, no fee anywhere in signup | [ ] |
 | 2 | BestProsInTown | https://www.bestprosintown.com/addbusiness.php | "Free basic listing — no credit card required," confirmed on the form itself | [ ] |
 | 3 | Chamber of Commerce | https://www.chamberofcommerce.com/ (Menu -> Add Your Business) | Free tier confirmed; **street address field is genuinely optional** (tested by submitting blank -- no validation error). Needs a real account (name/email/password/captcha), same as the others. | [ ] |
+| 4 | EZlocal | https://ezlocal.com/free-business-listing/ | Free, "under 60 seconds," and it has an actual **"Service Area Business (hide address from public view)"** checkbox -- built for exactly our situation. Verification is by email link, not a password -- no separate password to create. | [ ] |
 
-That's the whole free list. Do all three, ~30 minutes total, then tell me —
-I'll submit all 87 sites' data into them from citation-packets/.
+That's the whole confirmed-free list. ~40 minutes total for all four, then
+tell me — I'll submit all 87 sites' data into them from citation-packets/.
+
+## Worth trying by hand, blocked for automated testing (2)
+
+Real, established directories that appeared repeatedly in competitor link
+profiles, but their signup pages returned a bot-detection wall (Cloudflare
+"just a moment" / navigation denied) to the automated browser used for this
+research. A real browser, used by a person, will very likely pass straight
+through -- this is not the same as the dead ones above, just unconfirmed.
+
+| Directory | Note |
+|---|---|
+| ibegin.com | `/business-center/submit/` hit a Cloudflare bot-check page. Try it directly in a normal browser. |
+| place123.net | Navigation was blocked outright during automated testing. Try directly. |
 
 ## Also checked and ruled out today (4)
 
