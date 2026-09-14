@@ -238,6 +238,70 @@ the network sits in.** But run it as: geo-qualify the query, then copycat
 the real local competitor, not the broad-query #1. No new comparison run
 this round since the method itself isn't new; logging the refinement.
 
+## Tip 9 (Gobig Systems reel #9): claim Apple Maps, Bing, Yelp/BBB, Nextdoor/Facebook/Alignable, Angi/Houzz/Thumbtack
+
+**The method as given:** a category-matched directory list -- Google/Apple
+Maps/Bing for local customers, Yelp/BBB for reviews, Nextdoor/Facebook/
+Alignable for word of mouth, Angi/Houzz/Thumbtack if a contractor.
+
+Checked what was new here (Angi/Houzz/Thumbtack already covered in
+`PLAYBOOK-LINKS.md`'s Tier 2; BBB already confirmed dead this session):
+
+- **Apple Business Connect** -- real, but heavier than a simple form. The
+  signup path routes through the full "Apple Business" suite (device
+  management, email, storage tiers), not a lightweight Maps listing by
+  itself. Didn't find a direct standalone place-listing flow to test the
+  address requirement. Lower priority than the confirmed four until
+  someone works through the full Apple Business enrollment.
+- **Bing Places** -- confirmed free ("list it on Bing for FREE"), but the
+  signup wall requires a Microsoft account sign-in before any form
+  appears, so the address/service-area question couldn't be verified live
+  today. Worth trying by hand.
+- **Nextdoor** -- the business.nextdoor.com path is paid ads, not a free
+  page. A guessed direct URL for the free Business Page redirected to an
+  unrelated existing business's page rather than a signup flow. Not
+  confirmed either way -- needs a person to find the actual free-page path
+  from a logged-in Nextdoor account, which this session doesn't have.
+- **Facebook Business Page, Alignable** -- not checked yet, ran out of
+  turn before reaching these.
+
+**Nothing new added to the confirmed-free list.** Everything here is
+either already covered, needs deeper manual verification than today's
+session reached, or (Apple) is a bigger lift than the four already
+confirmed. No account created, no forms submitted.
+
+## Tip 10 (Gobig Systems reel #10): industries ranked by SEO difficulty
+
+Not a technique -- a tier list (roofing C, lawyers F "spend money to
+win," remodeling B, plumbing D, decks S, HVAC D, landscaping B, window
+tint S). Worth a sanity check against real data rather than a re-run:
+lawyers are called F-tier/pay-to-play, but 49 of the 87 sites are legal
+and `tampacriminaldefenselawyerpros.com` is the single best-performing
+site in the whole network (position 15.7) at zero spend. A tested result
+already on record outranks an anecdotal tier list -- consistent with the
+shelf's own marketing-claims-register rule. No action taken.
+
+## Tip 11 (Gobig Systems reel #11): check GA4 for AI-assistant referral traffic
+
+**The method as given:** Google Analytics -> Reports -> Acquisition ->
+Traffic Acquisition -> Default Channel Group -> look for an "AI Assistant"
+row showing visits from ChatGPT, Gemini or Claude.
+
+**Checked directly, not applicable -- cleanly.** Grepped `template/base.html`
+and the live HTML of a real page for `gtag`, `googletagmanager`, any GA4
+measurement ID. None exist anywhere in the network. There is no Google
+Analytics property on any of the 87 sites, so there's no "AI Assistant"
+channel to look at. Not a partial result -- there is nothing to check.
+
+## Tip 12 (Gobig Systems reel #12): GBP search-terms -> Gemini posts
+
+Pull the real search terms from your Google Business Profile's performance
+report, connect the profile to Gemini, have it draft posts using those
+exact terms. Same blocker as tip 3: no GBP exists on any of the 87 sites,
+deliberately. Not applicable for the same documented reason. No new check
+needed -- this is the same category as tip 3 and tip 9's Google/Apple/Bing
+section, not a distinct technique.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
