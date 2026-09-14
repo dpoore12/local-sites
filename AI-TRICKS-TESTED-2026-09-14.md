@@ -85,6 +85,52 @@ primary category against the top local-pack competitors', fix a mismatch,
 fill in secondary categories. Re-read this section the day the first
 tenant signs.
 
+## Tip 4 (Gobig Systems reel #4): find high-impression low-click pages, rewrite the title
+
+**The method as given:** Search Console -> Performance -> export -> paste
+into AI -> find pages with lots of impressions but few clicks -> have AI
+rewrite the title to match the search better -> more clicks, possibly
+better rank.
+
+**Run for real.** Pulled page-level GSC data (585 pages, 28-day window)
+across the network. Filtered first the naive way (>=30 impressions, <1%
+CTR): 122 pages, but almost all of them sit at position 60-90, where 0%
+CTR is just what position explains on its own -- a title rewrite there is
+rearranging deck chairs. Refiltered to the only cases where a title could
+plausibly matter: position <=30 with real impressions. 20 pages qualified,
+two on page 1 (position ~5) with zero clicks -- looked like exactly what
+the tip describes.
+
+**Checked the actual queries behind those two instead of touching a title
+blind, and neither held up:**
+
+- `sandiegowrongfulterminationlaw.com/severance-agreement-review/` looked
+  like 102 impressions at position 5. The real per-query breakdown: 8
+  impressions total, all one obscure legal-citation search ("12964.5"
+  "five business days"). Not a real audience -- nothing to fix.
+- `jonesboropersonalinjurylawyerpros.com/` looked like 937 impressions at
+  position 29.6 -- a real candidate. Broken into actual queries: it's
+  getting real volume on generic, non-geo-qualified terms ("car accident
+  lawyer near me" 139 impr, "car accident lawyer" 88 impr, "injury lawyer"
+  23 impr) at position 30-34, not 29.6. Google is geo-matching a Jonesboro
+  site to people physically near Jonesboro searching bare national terms
+  -- a genuinely useful discovery on its own -- but the true position
+  for that real volume is still page 3-4. A title rewrite doesn't move a
+  page-3 result to where anyone clicks.
+
+**No titles changed. Verdict: the tip's premise (page 1 position, fixable
+by title) didn't survive contact with the real per-query data on either
+candidate found today.** Worth re-running once any page has a real,
+query-verified position in the top 10 with genuinely low CTR -- that
+case would be worth a title rewrite. Neither candidate today was that.
+
+**The bigger finding, independent of the tip: GSC's page-level "position"
+is a blended average across every query that page matched, and it can be
+badly misleading** -- a page can show an attractive aggregate position
+while the queries carrying its real volume sit 20+ positions deeper.
+Any future GSC read (including earlier ones today) should check per-query
+data before trusting a page's headline position number.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
