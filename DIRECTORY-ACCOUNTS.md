@@ -1,7 +1,7 @@
 # Directory accounts to create — verified live 13 Sep 2026
 
-Every one of these was opened and checked live before being listed here. The
-first version of this file had 4 dead ends and 1 wrong entry — corrected below.
+Every link below was opened and clicked through live before being put in this
+file. Deep links go straight to the signup/claim form, not a homepage.
 
 Signup email for every account: **danpoore99@gmail.com**
 
@@ -10,25 +10,35 @@ password manager and let it generate/store one. Reusing the same password
 across all of these is fine — free marketing listings, nothing sensitive —
 but it still should not live in git history.
 
-## Real accounts to create — 12
+## Important discovery: #1-3 are the same system
 
-Go to the homepage, click the button named, sign up. Most send an activation
-email to danpoore99@gmail.com immediately — click it same session.
+yellowpages.com, dexknows.com and superpages.com are all owned by Thryv, and
+their "Claim Your Listing" buttons all resolve to the **exact same URL**:
+`yellowpages.com/claim-your-listing`. Do #1 once. Then just check #2 and #3 —
+there is a real chance the same login already covers them, since it's one
+backend serving all three. This is the single biggest time-saver here: it
+may be 1 account, not 3.
 
-| # | Directory | What to click | Note | Status |
+## Real accounts to create — 12 (likely 10 actions, given #1-3)
+
+| # | Directory | Direct link | Note | Status |
 |---|---|---|---|---|
-| 1 | yellowpages.com | "Claim Your Listing" (bottom of homepage) | Has a reCAPTCHA on the claim step — that's normal, just check the box yourself | [ ] |
-| 2 | dexknows.com | "Claim Your Listing" | Same parent company as YP (Thryv) — **try this after YP is done, may already recognize you** | [ ] |
-| 3 | superpages.com | "Claim Your Listing" | Same Thryv family as YP — try after YP too | [ ] |
-| 4 | storeboard.com | "Sign Up" top right | Standard email+password signup | [ ] |
-| 5 | bestprosintown.com | look for "Claim this business" on your own listing once it exists, or their business login | Review-aggregator model, lower priority, do last | [ ] |
-| 6 | contractorsup.com | "Get Listed" in nav | Home services only, skip for legal sites | [ ] |
-| 7 | thebuildermarket.com | "I'm a Professional" top right | Home services only | [ ] |
-| 8 | excellentcontractor.com | "Add Your Business" in nav | Home services only | [ ] |
-| 9 | renovationsup.com | same template as #6/#8, look for "Add Your Business" | Home services only | [ ] |
-| 10 | goodhvaccontractors.com | "Add Your Business" in nav | **HVAC/AC/plumbing sites only** (~13 sites) | [ ] |
-| 11 | airconditioningup.com | same template family as #10 | HVAC/AC/plumbing only | [ ] |
-| 12 | usaheatingcontractors.com | same template family as #10 | HVAC/AC/plumbing only | [ ] |
+| 1 | Yellow Pages | https://www.yellowpages.com/claim-your-listing | Has a reCAPTCHA checkbox — normal, just check it yourself | [ ] |
+| 2 | DexKnows | (try logging into #1 first) or https://www.dexknows.com | Same Thryv backend as #1 — check before creating a new account | [ ] |
+| 3 | Superpages | (try logging into #1 first) or https://www.superpages.com | Same Thryv backend as #1 — check before creating a new account | [ ] |
+| 4 | Storeboard | https://storeboard.com/sign-up | Standard email+password signup | [ ] |
+| 5 | BestProsInTown | https://www.bestprosintown.com/addbusiness.php | Standalone form, no separate account step visible | [ ] |
+| 6 | Contractors Up | https://www.contractorsup.com/signup | Home services only, skip for legal sites | [ ] |
+| 7 | The Builder Market | https://www.thebuildermarket.com/for-pros | Home services only | [ ] |
+| 8 | Excellent Contractor | https://www.excellentcontractor.com/signup | Home services only | [ ] |
+| 9 | Renovations Up | https://www.renovationsup.com/signup | Home services only | [ ] |
+| 10 | Good HVAC Contractors | https://www.goodhvaccontractors.com/signup | **HVAC/AC/plumbing sites only** (~13 sites) | [ ] |
+| 11 | Air Conditioning Up | https://www.airconditioningup.com/signup | HVAC/AC/plumbing only | [ ] |
+| 12 | USA Heating Contractors | https://www.usaheatingcontractors.com/signup | HVAC/AC/plumbing only | [ ] |
+
+Directories 6-12 are all the same underlying platform/template (same company
+running seven near-identical contractor-lead sites), so once you've done one
+signup the rest will feel identical — same form, same fields, same flow.
 
 ## Not a signup — a pitch instead (1)
 
@@ -55,9 +65,10 @@ email to danpoore99@gmail.com immediately — click it same session.
 
 ## Order
 
-Do #1-4 first — they cover all 87 sites and are the fastest signups. #6-9
-only matter for the ~38 home-services sites, #10-12 only for the ~13
-HVAC/plumbing sites, and legal sites (~49) only need #1-4.
+Do #1 first, then check #2 and #3 before signing up fresh — could cut this
+list from 12 accounts to 10. #6-9 only matter for the ~38 home-services
+sites, #10-12 only for the ~13 HVAC/plumbing sites, and legal sites (~49)
+only need #1-5.
 
-Estimated time: ~10 min each for the 12 real ones = **about 2 hours total**,
-possibly less if #2 and #3 turn out to piggyback on #1's Thryv login.
+Estimated time: ~10 min each, ~10 real signups after the Thryv check =
+**about 1.5-2 hours total**, down from the original 3-hour estimate.
