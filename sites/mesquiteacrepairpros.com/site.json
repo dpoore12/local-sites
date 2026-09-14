@@ -57,7 +57,7 @@
     {
       "id": "texas_heat_grid_demand",
       "title": "Texas heat puts pressure on cooling and the grid",
-      "claim": "The National Weather Service logged 23 days at or above 100°F at DFW in 2024, including a 107°F summer high on August 19. ERCOT reported its 2024 summer peak telemetered load of 85,559 MW on August 20 and said summer load stayed similar to 2023 despite lower temperatures.",
+      "claim": "The National Weather Service logged 23 days at or above 100\u00b0F at DFW in 2024, including a 107\u00b0F summer high on August 19. ERCOT reported its 2024 summer peak telemetered load of 85,559 MW on August 20 and said summer load stayed similar to 2023 despite lower temperatures.",
       "why_it_matters": "When attic heat peaks and a system is already losing capacity, a small electrical, airflow or refrigerant fault becomes obvious fast. The priority is a measured repair that restores normal operation, while households follow any official ERCOT conservation guidance that is safe for them.",
       "sources": [
         "https://www.weather.gov/fwd/d100data",
@@ -310,5 +310,16 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "ac-blowing-warm-air",
+      "h1": "AC Blowing Warm Air",
+      "accent": "Airflow vs. Refrigerant",
+      "photo": "assets/work-2.jpg",
+      "icon": "search",
+      "keyword": "ac blowing warm air",
+      "volume": 1700
+    }
+  ]
 }
