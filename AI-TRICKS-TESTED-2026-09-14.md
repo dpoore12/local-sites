@@ -358,6 +358,21 @@ built for. Not run yet this session -- flagging as the next real thing to
 try, distinct from the citation grind, since it needs no account creation
 and no captcha, just Reddit search plus writing.
 
+## Tip 16 (Gobig Systems reel #16): Foursquare, "Yellow Pages" (already dead), Manta
+
+Three directories claimed to send trust signals Google likes.
+
+- **Foursquare** -- confirmed dead. Fully pivoted to a B2B "location
+  intelligence" data-sales platform ("Speak to sales," "Try for free" is a
+  developer/marketer trial). No consumer free-business-listing product
+  exists on the site anymore.
+- **Yellow Pages** -- already tested and confirmed dead this session
+  (tip 9 / earlier). Not re-tested.
+- **Manta** -- real business directory (20+ years, still operating), but
+  `/claim` hit the same Cloudflare bot-check wall as ibegin.com and
+  place123.net earlier today. Not confirmed either way in automated
+  testing. Worth trying directly in a real browser.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
