@@ -354,9 +354,44 @@ ready (real examples: "How Long a Furnace Lasts," volume 6,600) -- but its
 live sitemap only shows 9 URLs, so even that one site's questions were
 never actually built and deployed. The mechanism is real, tested-ready on
 one site, and live nowhere. This tip is exactly the sourcing method it was
-built for. Not run yet this session -- flagging as the next real thing to
-try, distinct from the citation grind, since it needs no account creation
-and no captcha, just Reddit search plus writing.
+built for.
+
+**UPDATE, later 14 Sep: RUN FOR REAL on 6 sites, all pushed to master.**
+Same discipline every time -- a real `site:reddit.com` search read for the
+actual symptom/question patterns across multiple threads, a real Ahrefs
+volume check to confirm demand exists, then a page written against that
+site's own already-sourced local_facts, never generic. Each page was
+written as a diagnostic router to the site's existing services rather than
+a duplicate of any one (the lesson from tip 14's cannibalization bug).
+`question.html` auto-links every question page to the site's top 3
+services, so the "link to the service page" step the tip asks for is
+built in. All verified inside the 700-1150 QUESTION_WORDS band with all 87
+sites building clean before each commit.
+
+| Site | Page | Ahrefs vol/mo | KD | Words |
+|---|---|---|---|---|
+| mesquiteacrepairpros.com | /ac-blowing-warm-air/ | 1,700 | 2 | 998 |
+| annarborgaragedoorrepairpros.com | /garage-door-opener-not-working/ | 1,900 | 3 | 786 |
+| fresnowrongfuldeathlawyerpros.com | /how-long-does-a-wrongful-death-lawsuit-take/ | 200 | 0 | 944 |
+| kalamazootowingpros.com | /car-wont-start-in-cold-weather/ | 250 | 0 | 756 |
+| orlandomovingcompanypros.com | /how-far-in-advance-to-book-movers/ | 100 | 10 | 930 |
+| sanjoseemergencyplumberpros.com | /low-water-pressure-in-house/ | 5,100 | 0 | 970 |
+
+Every keyword difficulty is 0-10 -- the low-competition band Kyle's
+playbook targets -- and the San Jose one (5,100/mo, KD 0) is the largest
+uncontested term found all day. This is the first tip out of 16 that
+produced net-new pages, not just a fix or a confirmation.
+
+**Still needs Dan: none of these are deployed.** They exist in source on
+master and build clean, but the Cloudflare deploy pipeline
+(`deploy_add_mac.py`) needs an API token this session does not have. The
+mesquite, ann arbor and the 4 other sites' live HTML does not yet include
+these pages until a deploy runs. Same gap applies to the og:image fix and
+the About/Contact title fix from earlier today.
+
+**Next candidates, same method, not yet done:** the other 81 sites.
+`coloradospringsfurnacerepair.com` is the cheapest -- 20 questions already
+written in its site.json, needing only a build and deploy, no writing.
 
 ## Tip 16 (Gobig Systems reel #16): Foursquare, "Yellow Pages" (already dead), Manta
 
