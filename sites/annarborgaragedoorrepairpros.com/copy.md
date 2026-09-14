@@ -809,3 +809,29 @@ Every local or technical fact in this file was verified against these fetched pa
 - 16 CFR Part 1211: applies to operators built on or after January 1, 1993 (1211.1); reversal within 2 seconds of contact (1211.7); secondary entrapment protection (1211.6, 1211.8); edge sensor actuation at 15 pounds or less (1211.12): https://www.govinfo.gov/content/pkg/CFR-2015-title16-vol2/pdf/CFR-2015-title16-vol2-part1211.pdf
 - Michigan Residential Code adopts the 2015 IRC by reference at R 408.30500, effective February 8, 2022; Table R301.2(5) sets a 20 pound ground snow load for the City of Ann Arbor against 25 for most of Washtenaw County: https://ars.apps.lara.state.mi.us/AdminCode/DownloadAdminCodeFile?FileName=R%20408.30500%20%20to%20408.30547g.pdf&ReturnHTML=True
 - Ann Arbor averages 122 days a year below 32F (1981-2010); winter precipitation up 4.4 inches and 75.4% from 1951-2014; very heavy precipitation events up 41.2%: https://glisa.umich.edu/wp-content/uploads/2021/02/AnnArborMI_Climatology.pdf
+
+## q_garage_door_opener_not_working_lede
+
+"Opener not working" is four or five different problems wearing the same complaint, and the fix depends on exactly what the motor does when the button is pressed.
+
+## q_garage_door_opener_not_working_body
+
+### Press the wall button first, not the remote
+
+If the wall-mounted button inside the garage does nothing either, the problem is upstream of the remote entirely: power to the unit, a tripped breaker, or the operator itself. If the wall button moves the door but the remote does not, the fault is narrower and usually cheaper -- most remotes use a rolling code that can fall out of sync after a battery change or a signal interruption, and the fix is a resync, not a replacement.
+
+### The motor runs but the door doesn't move
+
+A motor that hums, clicks, or runs its full cycle sound without the door actually traveling usually means the trolley has disengaged from the carriage, often from the emergency release cord being pulled or bumped. Pulling that cord manually reconnects the door to the track hardware -- it does not move the door itself, and a door that will not budge by hand afterward is worth stopping on, since that points at something under tension rather than a disengaged trolley.
+
+### The door reverses before it closes, or won't close at all
+
+Openers built since January 1993 are required to reverse within 2 seconds of hitting an obstruction and carry secondary entrapment protection, per 16 CFR 1211 -- and the photo-eye sensors near the floor are the most common reason a compliant opener refuses to close. Direct sunlight hitting the sensor at the wrong angle, especially low winter sun, or a spiderweb and dust buildup across the beam, both read to the opener as an obstruction. Wipe both lenses and check that they still show a solid LED with nothing between them before assuming a bigger fault.
+
+### It worked yesterday and does nothing today
+
+Total, sudden failure with no warning points at power more often than mechanics: a tripped GFCI outlet in the garage, a breaker, or in cold weather a battery backup unit that has failed and no longer bridges a brief outage. Ann Arbor averages 122 days a year below freezing, and cold hits battery capacity hardest right when a backup unit is being asked to do its job -- worth checking before assuming the motor itself has failed.
+
+### What this actually routes to
+
+A dead remote with a working wall button is a remote and keypad repair. Photo-eye sensor failures are a sensor repair. A disengaged trolley that won't reconnect, or a motor that runs but strains, is an opener repair. All three get diagnosed on the same visit if you're not sure which applies -- the details above are for narrowing it down before the call, not for skipping the inspection.

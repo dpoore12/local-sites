@@ -45,7 +45,7 @@
       "id": "historic_district_review",
       "title": "A visible garage change can enter historic review",
       "claim": "The City of Ann Arbor states that all exterior work in its historic districts is regulated by the Historic District Commission and requires an application and approved Certificate of Appropriateness; proposed changes to existing accessory structures should be checked with staff for the needed review.",
-      "why_it_matters": "Repairing rollers, cables or a spring on an existing door is different from selecting a new visible garage door, changing an opening, or replacing material. Owners should confirm the property’s district status and the applicable review before ordering a replacement design.",
+      "why_it_matters": "Repairing rollers, cables or a spring on an existing door is different from selecting a new visible garage door, changing an opening, or replacing material. Owners should confirm the property\u2019s district status and the applicable review before ordering a replacement design.",
       "sources": [
         "https://www.a2gov.org/planning/historic-preservation/applications/"
       ],
@@ -54,7 +54,7 @@
     {
       "id": "rental_housing",
       "title": "Downtown repair calls often involve renters and a separate approver",
-      "claim": "Ann Arbor’s downtown study area was 76.7% renter-occupied in 2020, while the city’s surrounding primary study area was 54.1% renter-occupied. The city’s housing assessment notes that the downtown development district includes the University of Michigan Central Campus and cites nearly 48,000 students in Ann Arbor in fall 2020.",
+      "claim": "Ann Arbor\u2019s downtown study area was 76.7% renter-occupied in 2020, while the city\u2019s surrounding primary study area was 54.1% renter-occupied. The city\u2019s housing assessment notes that the downtown development district includes the University of Michigan Central Campus and cites nearly 48,000 students in Ann Arbor in fall 2020.",
       "why_it_matters": "The person who discovers a door that will not close may be a tenant, while the landlord or manager authorizes repair. Dispatch, access, documentation and approval need to be handled as separate steps rather than assuming every caller owns the garage.",
       "sources": [
         "https://www.a2gov.org/media/oo1kzbww/ann-arbor-mi-downtown-housing-needs-assessment.pdf"
@@ -449,5 +449,16 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "garage-door-opener-not-working",
+      "h1": "Garage Door Opener Not Working",
+      "accent": "Four Different Problems",
+      "photo": "assets/work-2.jpg",
+      "icon": "wrench",
+      "keyword": "garage door opener not working",
+      "volume": 1900
+    }
+  ]
 }
