@@ -75,8 +75,24 @@ def fine(r):
 
 
 def domains():
-    return sorted(d for d in os.listdir(DIST)
-                  if os.path.isdir(os.path.join(DIST, d)) and "." in d)
+    """Domain list for check/stage.
+
+    Prefer `dist/` when present (full local tree). Otherwise fall back to
+    `data/markets.json` so `host_all.py check` works on a laptop without a
+    rebuild — the live deploy holds the expanded sites; this machine often
+    does not.
+    """
+    if os.path.isdir(DIST):
+        found = sorted(d for d in os.listdir(DIST)
+                       if os.path.isdir(os.path.join(DIST, d)) and "." in d)
+        if found:
+            return found
+    markets = os.path.join(ROOT, "data", "markets.json")
+    if os.path.isfile(markets):
+        rows = json.load(open(markets))
+        return sorted({r["domain"] for r in rows if r.get("domain")})
+    raise FileNotFoundError(
+        f"no domains: need {DIST}/ or {markets}")
 
 
 def load():
