@@ -443,3 +443,29 @@ Photograph the scene, the other car's plate, and the damage before the car moves
 ### What it costs
 
 Recovery time is the variable. A straight pull from a shallow ditch is quick; a car on its side in a culvert is not. The driver gives an estimate on arrival, before the winch line goes on, and the tow that follows is hook plus miles like any other. The pricing page lays out the recovery band and the after-hours surcharge alongside the tow rates.
+
+## q_car_wont_start_in_cold_weather_lede
+
+Cold doesn't damage a battery on the spot, it exposes one that was already weak -- and that distinction is what decides whether a jump fixes it or a tow is next.
+
+## q_car_wont_start_in_cold_weather_body
+
+### Why cold specifically kills a start
+
+A battery makes current through a chemical reaction, and that reaction slows down as the electrolyte gets colder -- a battery at 0°F can produce roughly half the cranking current it makes at 80°F, while the engine oil thickening in the same cold is asking the starter motor to work harder to turn the engine over. Those two things stack: less available power, more power required, at the exact same moment. A battery with real capacity left handles that fine. A battery that was already down to 60 or 70 percent of its rated capacity, and would have started the car without complaint in September, doesn't have the margin left in January.
+
+### What a jump actually tells you
+
+If a jump starts the car and it runs normally afterward, the battery likely has enough real capacity but had dropped too far to self-start in the cold -- worth having it load-tested at a shop soon, since this tends to repeat on the next cold morning. If the car cranks strong on the jump but won't catch, the problem probably isn't the battery at all -- fuel delivery and injector behavior change in extreme cold too, and that's a different call. If the car won't even crank on a jump, or cranks slower than expected, the battery may be damaged rather than just discharged, or the starter or a corroded connection is the actual fault -- cold makes marginal connections misbehave under the higher amperage a cold start demands, even when they looked fine in warm weather.
+
+### The Kalamazoo-specific part
+
+NOAA's 1991-2020 climate normals for this region show real lake-effect snow totals most winters, and the same cold snaps that bring it are exactly the conditions batteries fail in -- calls cluster on the first hard cold morning of the season, not spread evenly across winter. A battery that's been marginal since fall usually picks the coldest morning to prove it.
+
+### What actually helps before it happens
+
+A block heater, plugged in overnight on nights below roughly 15°F, keeps the oil thinner and the battery warmer, and is worth it for anyone parking outside through a Michigan winter. Past that, there's no reliable home fix for a battery that's genuinely lost capacity -- it gets replaced, not nursed through another season.
+
+### When to call for a jump versus a tow
+
+A jump start is the first call for a battery that just needs current -- it's the cheaper job and gets tried first. If the jump doesn't take, the car cranks but won't catch, or there's a smell, a spark, or visible corrosion at the terminals, that's a different problem than a flat battery and worth saying so on the call, since it changes what the driver brings.
