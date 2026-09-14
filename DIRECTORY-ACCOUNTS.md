@@ -5,18 +5,35 @@ against the live web) was mostly wrong. Checked every one end-to-end today,
 not just "does the form load" — actually pushed through to what happens on
 submit. Most of it was dead, paid, or a sales funnel in disguise.
 
+A second pass (also 14 Sep) ran the actual "copycat backlink method" -- pulled
+real competitor referring-domain profiles across 5 unrelated niches/cities via
+Ahrefs, found that 200+ of the ~500 domains on EVERY one of them are the same
+spam/PBN network (`*-seoexpress.store`, `link-baron-*.store`, `*.shop` rank
+sites) regardless of niche, and tested the handful of real, recurring domains
+that were left. One more real one came out of that: Chamber of Commerce.
+
 Signup email: **danpoore99@gmail.com**. Don't put passwords in this file — use
 a password manager.
 
-## Actually free and real — 2
+## Actually free and real — 3
 
 | # | Directory | Link | What it is | Status |
 |---|---|---|---|---|
 | 1 | Storeboard | https://storeboard.com/sign-up | Free account, real "add a business" flow, no fee anywhere in signup | [ ] |
 | 2 | BestProsInTown | https://www.bestprosintown.com/addbusiness.php | "Free basic listing — no credit card required," confirmed on the form itself | [ ] |
+| 3 | Chamber of Commerce | https://www.chamberofcommerce.com/ (Menu -> Add Your Business) | Free tier confirmed; **street address field is genuinely optional** (tested by submitting blank -- no validation error). Needs a real account (name/email/password/captcha), same as the others. | [ ] |
 
-That's the whole free list. Do both, ~20 minutes total, then tell me — I'll
-submit all 87 sites' data into them from citation-packets/.
+That's the whole free list. Do all three, ~30 minutes total, then tell me —
+I'll submit all 87 sites' data into them from citation-packets/.
+
+## Also checked and ruled out today (4)
+
+| Directory | Why |
+|---|---|
+| bbb.org | Free listing exists, but street address is a hard-required field with no service-area toggle -- confirmed by submitting the form blank ("Enter an address" flagged). We have no premises to give it. |
+| mylocalservices.com | Paid, $2 one-time. Not free. |
+| legalclarity.org | Not a directory at all -- it's a legal content/blog site. No business-listing feature exists. It only appears in law-firm backlink profiles because it's cited as an editorial source, not a citation target. |
+| (the spam network itself) | ~200-300 of every competitor's ~500 referring domains, across every niche/city checked, are the same automated link-seller network (`*-seoexpress.store`, `link-baron-*.store`, dozens of `rank*.shop` domains). Not real, not worth chasing, and their presence on a competitor's profile does not explain why that competitor ranks. |
 
 ## Dead — do not use (5)
 
