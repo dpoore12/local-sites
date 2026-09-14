@@ -206,6 +206,38 @@ real crawl/index time. At that point a page with genuinely zero clicks
 *and* zero external links after a fair runway is a real pruning candidate.
 Today, none of them have had that runway yet.
 
+## Tip 8 (Gobig Systems reel #8): position 11-20 queries, beat whoever's #1
+
+**The method as given:** Search Console -> Performance -> turn on average
+position -> filter to position 11-20 -> sort by impressions -> open the
+page -> compare it to whoever ranks #1 for that query -> add what's
+missing (original data, stories, FAQs).
+
+**Run for real using today's query pull, no new calls.** 49 (site, query)
+rows sit at position 11-20 -- genuinely the closest band found all day.
+Top ones: `oceansidepersonalinjurylawyerpros.com` / "injury lawyer" (pos
+17.3, 28 impr), `jonesboropersonalinjurylawyerpros.com` / "injury lawyer"
+(pos 18.0), `salinascaraccidentlawyer.com` / "car accident lawyer" (pos
+19.9), `bellevuebathroomremodeling.com` / "bathroom remodeling" (pos 15.3).
+
+**One catch that changes how to apply it: almost every one of these is a
+generic, non-geo-qualified term, same pattern as the Jonesboro discovery
+in tip 4.** Google is showing a small local page to searchers physically
+near that city for a bare national query, not because the page is
+genuinely competitive for it. Comparing against the literal #1 result for
+"injury lawyer" nationally would mean comparing against a mega-firm or
+Justia -- not a winnable content gap, just a mismatched comparison. The
+tip's mechanism only works when the query itself is winnable, which for
+these is really the geo-qualified version ("injury lawyer jonesboro ar"),
+and that comparison is exactly the copycat method already run five times
+today (tips 1 and this session's earlier work).
+
+**Verdict: the targeting idea is genuinely good -- position 11-20 is the
+right place to look for close wins, better than the 60-90 band most of
+the network sits in.** But run it as: geo-qualify the query, then copycat
+the real local competitor, not the broad-query #1. No new comparison run
+this round since the method itself isn't new; logging the refinement.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
