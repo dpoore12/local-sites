@@ -302,6 +302,62 @@ deliberately. Not applicable for the same documented reason. No new check
 needed -- this is the same category as tip 3 and tip 9's Google/Apple/Bing
 section, not a distinct technique.
 
+## Tip 14 (Gobig Systems reel #14): find keyword cannibalization via GSC pages-per-query -- REAL FIX SHIPPED
+
+**The method as given:** Search Console -> Performance -> Search Results ->
+click a keyword you're trying to rank for -> click Pages. More than one
+page showing means two pages are splitting the same keyword and Google
+shows neither well. Pick the strongest page, link the weaker one to it.
+
+**Run for real, cheaply** -- one query at a time (not the expensive
+network-wide join estimated for tip 8), checked the top 15 highest-
+impression queries via `dimensionFilterGroups` filtered per query. Two
+real hits:
+
+- `mesquiteacrepairpros.com`: `/about/` was getting MORE impressions (211)
+  than the homepage (138) for "ac repair mesquite tx."
+- `fresnowrongfuldeathlawyerpros.com`: `/contact/` was ranking BETTER
+  (position 64.0) than the homepage (85.7) for the core money keyword
+  "fresno wrongful death lawyer."
+
+(A third apparent hit on jonesboropersonalinjurylawyerpros.com was just
+an http:// vs https:// artifact in GSC's history, 2-3 impressions --
+ignored, not real.)
+
+**Root cause found and fixed, not just described.** Both About and
+Contact page `<title>` tags were built in `template/build.py` as
+`"About -- {service} in {city}, {state}"` / `"Contact -- {service} in
+{city}, {state}"` -- the *exact* commercial phrase the homepage targets.
+Verified live on both sites before touching anything (curl'd the actual
+`<title>` tags). This is systemic, not a two-site problem: every one of
+the 87 sites' About/Contact pages carries this same title pattern.
+
+**Fix shipped:** both titles now use the site's own `brand` name (already
+distinct per site, e.g. "Mesquite Air Conditioner Repair Pros") instead of
+repeating the money phrase. Verified all 87 sites still build clean before
+committing. `template/build.py` commit 299b1a1, pushed to master. This is
+the first tip out of 14 that produced an actual source-code fix rather
+than a confirmation or a "not applicable."
+
+## Tip 15 (Gobig Systems reel #15): mine Reddit questions, answer them, link to the service page
+
+**The method as given:** Google `<service> site:reddit.com`, find a real
+question someone asked, answer it as a blog post with a quick-answer
+summary up top, link that post to the matching service page.
+
+**Genuinely new and ties directly to something already found dormant in
+the codebase today, not yet executed.** `template/build.py` has a full
+`question.html` template and a `questions` mechanism in `site.json`.
+Checked all 87 site.json files directly rather than assuming: 86 have zero
+questions. One, `coloradospringsfurnacerepair.com`, has 20 written and
+ready (real examples: "How Long a Furnace Lasts," volume 6,600) -- but its
+live sitemap only shows 9 URLs, so even that one site's questions were
+never actually built and deployed. The mechanism is real, tested-ready on
+one site, and live nowhere. This tip is exactly the sourcing method it was
+built for. Not run yet this session -- flagging as the next real thing to
+try, distinct from the citation grind, since it needs no account creation
+and no captcha, just Reddit search plus writing.
+
 ## Standing instruction
 
 Dan: "I am going to pump stuff to you and if it helps and needs things you
