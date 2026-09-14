@@ -1,77 +1,63 @@
-# Directory accounts to create — 17 total, reused across all 87 sites
+# Directory accounts to create — verified live 13 Sep 2026
 
-Signup email for every one of these: **danpoore99@gmail.com**
+Every one of these was opened and checked live before being listed here. The
+first version of this file had 4 dead ends and 1 wrong entry — corrected below.
 
-**Do not put passwords in this file, in any repo, or in any chat.** Use a password
-manager (1Password, Bitwarden, even Apple Passwords) and let it generate/store one.
-Reusing the same password across all 17 is fine — these are free marketing listings,
-not anything sensitive — but it still should not live in git history.
+Signup email for every account: **danpoore99@gmail.com**
 
-Most of these send an activation email immediately after signup. Click that link
-right after signing up, same session, so the account doesn't sit half-created.
+**Do not put passwords in this file, in any repo, or in any chat.** Use a
+password manager and let it generate/store one. Reusing the same password
+across all of these is fine — free marketing listings, nothing sensitive —
+but it still should not live in git history.
 
-Once an account exists and is activated, mark it done below and tell me — I'll log
-in and submit all 87 businesses' data into it. That part doesn't need you again
-after the account exists.
+## Real accounts to create — 12
 
-## Tier A — universal, every one of the 87 sites (10)
+Go to the homepage, click the button named, sign up. Most send an activation
+email to danpoore99@gmail.com immediately — click it same session.
 
-| # | Directory | Signup | Status |
-|---|---|---|---|
-| 1 | yellowpages.com | https://www.yellowpages.com/help/list-your-business | [ ] |
-| 2 | dexknows.com | https://www.dexknows.com/business/free-listing | [ ] |
-| 3 | superpages.com | https://www.superpages.com/add-listing/ | [ ] |
-| 4 | n49.com | https://www.n49.com/company/add/ | [ ] |
-| 5 | findglocal.com | https://www.findglocal.com/add-business | [ ] |
-| 6 | storeboard.com | https://storeboard.com/sign-up | [ ] |
-| 7 | bestprosintown.com | https://www.bestprosintown.com/ (Sign Up / List Your Business) | [ ] |
-| 8 | trustanalytica.org | https://www.trustanalytica.org/business/register | [ ] |
-| 9 | expertise.com | https://www.expertise.com/get-listed (editorial — may need a pitch, not instant) | [ ] |
-| 10 | qdexx.com | https://www.qdexx.com/ (Add Business) | [ ] |
+| # | Directory | What to click | Note | Status |
+|---|---|---|---|---|
+| 1 | yellowpages.com | "Claim Your Listing" (bottom of homepage) | Has a reCAPTCHA on the claim step — that's normal, just check the box yourself | [ ] |
+| 2 | dexknows.com | "Claim Your Listing" | Same parent company as YP (Thryv) — **try this after YP is done, may already recognize you** | [ ] |
+| 3 | superpages.com | "Claim Your Listing" | Same Thryv family as YP — try after YP too | [ ] |
+| 4 | storeboard.com | "Sign Up" top right | Standard email+password signup | [ ] |
+| 5 | bestprosintown.com | look for "Claim this business" on your own listing once it exists, or their business login | Review-aggregator model, lower priority, do last | [ ] |
+| 6 | contractorsup.com | "Get Listed" in nav | Home services only, skip for legal sites | [ ] |
+| 7 | thebuildermarket.com | "I'm a Professional" top right | Home services only | [ ] |
+| 8 | excellentcontractor.com | "Add Your Business" in nav | Home services only | [ ] |
+| 9 | renovationsup.com | same template as #6/#8, look for "Add Your Business" | Home services only | [ ] |
+| 10 | goodhvaccontractors.com | "Add Your Business" in nav | **HVAC/AC/plumbing sites only** (~13 sites) | [ ] |
+| 11 | airconditioningup.com | same template family as #10 | HVAC/AC/plumbing only | [ ] |
+| 12 | usaheatingcontractors.com | same template family as #10 | HVAC/AC/plumbing only | [ ] |
 
-## Tier B — home services / construction trades only (4)
+## Not a signup — a pitch instead (1)
 
-Skip these for the 49 legal sites. Use for garage door, bathroom remodel, AC repair,
-plumbing, roofing, gutter, window, foundation, moving (~38 sites).
+| Directory | What it actually is |
+|---|---|
+| expertise.com | Editorial — they choose who gets listed after research. No self-serve form. Skip for now; revisit as an outreach/PR target later, not an account to create. |
 
-| # | Directory | Signup | Status |
-|---|---|---|---|
-| 11 | contractorsup.com | https://www.contractorsup.com/ (Add Listing) | [ ] |
-| 12 | thebuildermarket.com | https://www.thebuildermarket.com/ (Add Listing) | [ ] |
-| 13 | excellentcontractor.com | https://www.excellentcontractor.com/ (Add Listing) | [ ] |
-| 14 | renovationsup.com | https://www.renovationsup.com/ (Add Listing) | [ ] |
+## Removed — verified dead or wrong, do not pursue (4)
 
-## Tier C — HVAC/plumbing only (3)
-
-Only for AC repair, furnace repair, emergency plumber sites (~13 sites). Skip for
-garage door, bathroom, legal, moving.
-
-| # | Directory | Signup | Status |
-|---|---|---|---|
-| 15 | goodhvaccontractors.com | https://www.goodhvaccontractors.com/ (Add Listing) | [ ] |
-| 16 | airconditioningup.com | https://www.airconditioningup.com/ (Add Listing) | [ ] |
-| 17 | usaheatingcontractors.com | https://www.usaheatingcontractors.com/ (Add Listing) | [ ] |
-
-## What actually happens per signup
-
-Confirmed live on BizHwy and Storeboard just now (13 Sep 2026): the form asks for
-business name/category/city, then an email + password, then sends an activation
-link to that email. That pattern is what to expect on all 17 — some skip the
-password and just confirm the email.
+| Directory | Why dropped |
+|---|---|
+| n49.com | Canadian business directory. Wrong country. |
+| qdexx.com | Canadian business directory. Wrong country. |
+| trustanalytica.org | Pivoted to a paid reputation-management SaaS product. No free listing exists anymore. |
+| findglocal.com | Appears abandoned — static scraped listings, no working "add your business" flow found. |
 
 ## After each account exists
 
 1. Mark its row done above.
-2. Save the login (email + password) in your password manager under a name like
-   "citations — yellowpages" etc.
-3. Tell me it's ready. I'll log in and submit the business data for all 87 sites
-   (or the relevant subset for Tier B/C) from the citation-packets/ files, which
-   already have the exact name/phone/city/category values locked per site.
+2. Save the login in your password manager (e.g. "citations — yellowpages").
+3. Tell me it's ready — I'll log in and submit all 87 sites' data (or the
+   relevant subset for the trade-specific ones) from citation-packets/, which
+   already has the exact name/phone/city/category per site.
 
-## Order that gets the most sites covered fastest
+## Order
 
-Do Tier A first — it covers every one of the 87 sites with 10 accounts. Tier B/C
-are smaller (only 38 and 13 sites respectively) and can wait a day.
+Do #1-4 first — they cover all 87 sites and are the fastest signups. #6-9
+only matter for the ~38 home-services sites, #10-12 only for the ~13
+HVAC/plumbing sites, and legal sites (~49) only need #1-4.
 
-Estimated time: ~10-15 minutes per signup including clicking the activation email
-= about 2.5-3 hours for all 17, once.
+Estimated time: ~10 min each for the 12 real ones = **about 2 hours total**,
+possibly less if #2 and #3 turn out to piggyback on #1's Thryv login.
