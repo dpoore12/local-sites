@@ -449,3 +449,33 @@ Systems going in new today use lower-GWP refrigerants that are mildly flammable,
 ### What maintenance cannot do
 
 It finds conditions. It does not cure a pinholed coil, a failed compressor, scorched wiring, or duct that was never sized for the house, and it cannot promise a season without a breakdown. Maintenance is flat-rate work in this market, priced as a visit rather than by the machine, and the range moves with the season instead of with the equipment. Anything measured by the pound, and any part swap, sits outside that price. Each is a separate scope, quoted on its own, for you to approve or decline.
+
+## q_ac_blowing_warm_air_lede
+
+Registers moving plenty of air that isn't cold point somewhere specific, and the outdoor unit's behavior narrows it fast.
+
+## q_ac_blowing_warm_air_body
+
+### Start at the outdoor unit, not the vents
+
+Set the thermostat to call for cooling, then look at the condenser from a safe distance. Three states, three different problems. Fan spinning and the unit humming or clicking without spinning: a failed run capacitor or a seized motor, both electrical, both quick for a technician with a meter. Fan turning normally: the compressor circuit is doing something, which shifts the question to refrigerant charge or airflow. Dead silent, nothing running at all: check the breaker and the disconnect pull-out before assuming a bigger failure, since a tripped breaker or a pulled disconnect produces exactly this symptom and costs nothing to rule out.
+
+### Strong air, warm air: usually the sealed circuit
+
+If the registers move real volume and none of it is cold, and the outdoor fan is turning, the metering device is short of refrigerant more often than any other cause. Refrigerant does not get consumed by normal operation, so a low charge means a leak somewhere in the loop, not routine loss. Two things confirm it without opening anything: frost collaring the copper line at the indoor coil, and an oily residue at the outdoor service valves, since the oil that circulates with the refrigerant leaves a film at the exact point it escaped. Running the system further after spotting either one just pushes moisture and contaminants through a compressor that was never designed to see them.
+
+### Weak air, any temperature: check the coil and the filter first
+
+A different symptom needs a different answer. If the air itself feels adequate in temperature but there's barely any volume at the registers, the sealed circuit is probably fine and something is blocking airflow before it gets cold. A filter clogged enough to restrict return air causes the coil behind it to ice over, which then blocks airflow further in a cycle that gets worse the longer the system runs. A dirty evaporator coil does the same thing without a visibly dirty filter, especially in a system that has run several summers without a coil cleaning. Both show the same fix on paper -- clear the restriction -- but a coil buried in a return-air closet or above a ceiling isn't a homeowner job the way a filter swap is.
+
+### Runs constantly, never quite gets there
+
+A system that never shuts off and still leaves the house a few degrees warmer than the thermostat setting is usually undersized for the load it's fighting, not broken outright. In Mesquite, a large share of the housing stock dates from the postwar-through-1970s expansion, and attic ductwork and insulation from that era were sized for a smaller cooling load than modern expectations, plus decades of Texas summers baking the same attic space above it. A system that would keep up in a newer, better-insulated house can run flat out here and still lose the late-afternoon battle. This is the one case where the fix isn't always a repair -- sometimes it's confirming the duct and insulation are actually delivering the capacity the equipment already has, before assuming the equipment itself is too small.
+
+### Short cycles, on and off every few minutes
+
+Rapid cycling with each run producing a burst of cool air that never lasts is a different pattern from any of the above, and it usually traces to an oversized system, a thermostat sensing problem, or in some cases a freeze-up already in progress from one of the airflow issues above. It's worth noting on the call, since it changes what the technician checks first.
+
+### What to check before the call, and what not to touch
+
+A thermostat set to "on" instead of "auto" runs the blower continuously regardless of cooling status and can look like several of the symptoms above -- confirm the mode first. A dirty filter is a five-minute homeowner fix. Frost on the indoor coil or lines is not: shut the system off entirely and let it thaw before anyone runs it again, since operating a frozen coil pushes liquid refrigerant toward a compressor built to handle vapor. Past that, diagnosing which of these paths applies means gauges, a meter and a look inside the equipment, which is what the visit is for.
