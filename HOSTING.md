@@ -15,7 +15,7 @@ domain, with its own pages written for that city and its own phone number.
 
 - Project: `local-sites` (Cloudflare account a3bf1a13d93899d8408b9d1ea94df078)
 - Direct address: https://local-sites-5d8.pages.dev
-- Router source: `router/functions/[[path]].js`
+- Router source: `router/_worker.js`
 - Built sites: `dist/<domain>/`
 - State and manifest: `data/hosting.json`, `data/manifest.json`
 
@@ -37,7 +37,7 @@ blocks every other host.
 GitHub Action `.github/workflows/site-health.yml` runs every 6 hours (and on
 push to the router/check paths):
 
-1. `python3 test_unprefix.py` — unit pin for the Location-leak fix
+1. `python3 test_unprefix.py` + `python3 test_location_leak.py` — unit pins for the Location-leak fix
 2. `python3 host_all.py check` — every domain: home + 3 sitemap interiors +
    slashless `/services` Location must not contain `/<host>/`
 

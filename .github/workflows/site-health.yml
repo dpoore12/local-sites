@@ -11,6 +11,7 @@ on:
       - "host_all.py"
       - "router/_worker.js"
       - "test_unprefix.py"
+      - "test_location_leak.py"
       - ".github/workflows/site-health.yml"
 
 jobs:
@@ -19,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: unprefix Location-leak unit tests
-        run: python3 test_unprefix.py
+        run: python3 test_unprefix.py && python3 test_location_leak.py
 
   check:
     runs-on: ubuntu-latest

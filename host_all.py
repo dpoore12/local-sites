@@ -262,6 +262,21 @@ def hook_up():
     return 1 if bad else 0
 
 
+def location_leaks_from_headers(hdrs: str, domain: str):
+    """Return failure reason if Location leaks "/<host>/..." (Aug–Sep 2026 outage)."""
+    loc = ""
+    for line in hdrs.splitlines():
+        if line.lower().startswith("location:"):
+            loc = line.split(":", 1)[1].strip()
+            break
+    if not loc:
+        return None
+    needle = "/" + domain
+    if loc == needle or loc.startswith(needle + "/") or f"/{domain}/" in loc:
+        return f"LOC-LEAK {loc}"
+    return None
+
+
 def check():
     """Verify each site serves its PAGES, not just its home page.
 
@@ -300,18 +315,7 @@ def check():
     def location_leaks(d):
         """Return a failure reason if slashless /services Location leaks the host."""
         hdrs = headers_of("https://" + d + "/services")
-        # First status line may be 308; Location must not contain /<host>
-        loc = ""
-        for line in hdrs.splitlines():
-            if line.lower().startswith("location:"):
-                loc = line.split(":", 1)[1].strip()
-                break
-        if not loc:
-            return None  # no redirect — fine if path exists slashless
-        needle = "/" + d
-        if loc == needle or loc.startswith(needle + "/") or f"/{d}/" in loc:
-            return f"LOC-LEAK {loc}"
-        return None
+        return location_leaks_from_headers(hdrs, d)
 
     def one(d):
         home = code_of("https://" + d + "/")
