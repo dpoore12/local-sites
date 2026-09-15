@@ -12,6 +12,7 @@ api.cloudflare.com call and asset upload needs its own short-lived pass:
 
     python3 host_all.py reset     # with the Cloudflare credential  (one time)
     python3 host_all.py stage     # no credential
+    python3 host_all.py stage_router  # worker only — needs existing .stage/
     python3 host_all.py upload    # NO credential  (uses the upload pass)
     python3 host_all.py publish   # with the Cloudflare credential
     python3 host_all.py domains   # with the Cloudflare credential
@@ -74,8 +75,24 @@ def fine(r):
 
 
 def domains():
-    return sorted(d for d in os.listdir(DIST)
-                  if os.path.isdir(os.path.join(DIST, d)) and "." in d)
+    """Domain list for check/stage.
+
+    Prefer `dist/` when present (full local tree). Otherwise fall back to
+    `data/markets.json` so `host_all.py check` works on a laptop without a
+    rebuild — the live deploy holds the expanded sites; this machine often
+    does not.
+    """
+    if os.path.isdir(DIST):
+        found = sorted(d for d in os.listdir(DIST)
+                       if os.path.isdir(os.path.join(DIST, d)) and "." in d)
+        if found:
+            return found
+    markets = os.path.join(ROOT, "data", "markets.json")
+    if os.path.isfile(markets):
+        rows = json.load(open(markets))
+        return sorted({r["domain"] for r in rows if r.get("domain")})
+    raise FileNotFoundError(
+        f"no domains: need {DIST}/ or {markets}")
 
 
 def load():
@@ -245,6 +262,21 @@ def hook_up():
     return 1 if bad else 0
 
 
+def location_leaks_from_headers(hdrs: str, domain: str):
+    """Return failure reason if Location leaks "/<host>/..." (Aug–Sep 2026 outage)."""
+    loc = ""
+    for line in hdrs.splitlines():
+        if line.lower().startswith("location:"):
+            loc = line.split(":", 1)[1].strip()
+            break
+    if not loc:
+        return None
+    needle = "/" + domain
+    if loc == needle or loc.startswith(needle + "/") or f"/{domain}/" in loc:
+        return f"LOC-LEAK {loc}"
+    return None
+
+
 def check():
     """Verify each site serves its PAGES, not just its home page.
 
@@ -256,6 +288,10 @@ def check():
 
     Now: read each site's own sitemap, then test the home page plus three
     interior pages drawn from it. An interior 404 fails the run.
+
+    Also: slashless probe — Location must not leak "/<host>/..." (Aug–Sep 2026
+    outage). A 308 to /services/ is fine; a 308 to /tampatileroofrepair.com/services/
+    fails the run.
     """
     s = load()
     codes, detail = {}, {}
@@ -266,15 +302,29 @@ def check():
                            capture_output=True, text=True)
         return p.stdout.strip() or "000"
 
+    def headers_of(u):
+        p = subprocess.run(["curl", "-sI", "-m", "25", u],
+                           capture_output=True, text=True)
+        return p.stdout
+
     def body_of(u):
         p = subprocess.run(["curl", "-s", "-m", "25", u],
                            capture_output=True, text=True)
         return p.stdout
 
+    def location_leaks(d):
+        """Return a failure reason if slashless /services Location leaks the host."""
+        hdrs = headers_of("https://" + d + "/services")
+        return location_leaks_from_headers(hdrs, d)
+
     def one(d):
         home = code_of("https://" + d + "/")
         if home != "200":
             return d, home, [("https://" + d + "/", home)]
+
+        leak = location_leaks(d)
+        if leak:
+            return d, leak, [("https://" + d + "/services", leak)]
 
         sm = body_of("https://" + d + "/sitemap.xml")
         urls = [u for u in re.findall(r"<loc>([^<]+)</loc>", sm)
@@ -294,7 +344,7 @@ def check():
             detail[d] = rows
 
     live = [d for d, c in codes.items() if c == "200"]
-    print(f"{len(live)} of {len(codes)} serving home AND interior pages")
+    print(f"{len(live)} of {len(codes)} serving home AND interior pages (no Location leak)")
     for d in sorted(codes):
         if codes[d] != "200":
             print(f"  {d:<44}{codes[d]}")
@@ -303,12 +353,35 @@ def check():
                     print(f"      {c}  {u}")
     s["codes"] = codes
     s["live_count"] = len(live)
-    s["checked"] = "home+3 interior pages from each sitemap"
+    s["checked"] = "home+3 interiors+Location-leak slashless probe"
     save(s)
     return 0 if len(live) == len(codes) else 1
 
 
-PHASES = {"reset": reset, "stage": stage, "pass": pass_only, "upload": upload,
+def stage_router():
+    """Drop only `_worker.js` into an existing stage tree — no rebuild.
+
+    Use when the live deploy already has the expanded sites and you need to
+    push a router fix (e.g. Location unprefix) without running build.py.
+    Requires a prior `stage` (or a restored `.stage/` from the live tree).
+    """
+    if not os.path.isdir(STAGE) or not any(
+            n for n in os.listdir(STAGE) if n != "_worker.js"):
+        print("no staged sites in", STAGE,
+              "-- restore the live tree or run stage once; refusing to "
+              "upload a worker-only empty project")
+        return 1
+    if not os.path.isfile(WORKER):
+        print("missing worker at", WORKER)
+        return 1
+    shutil.copyfile(WORKER, os.path.join(STAGE, "_worker.js"))
+    print(f"updated {STAGE}/_worker.js from {WORKER} "
+          f"(sites left untouched — {len(domains())} domains in index)")
+    return 0
+
+
+PHASES = {"reset": reset, "stage": stage, "stage_router": stage_router,
+          "pass": pass_only, "upload": upload,
           "publish": publish, "domains": hook_up, "check": check}
 
 if __name__ == "__main__":
