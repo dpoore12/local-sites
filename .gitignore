@@ -12,3 +12,4 @@ data/_worker.bundle
 dist/
 research_*.json
 tools/
+deploy-manifest.json

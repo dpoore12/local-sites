@@ -59,3 +59,29 @@ savannahmobilemechanicpros.com, wilmingtonmobilemechanicexperts.com).
 
 The token also needs Zone > DNS > Edit to create the CNAMEs for new zones; without it the
 Pages custom domains sit at "pending".
+
+## 2026-09-14 — deploy_all_mac.py: the safe full-network deploy
+
+`deploy_add_mac.py` could only ADD new sites; it aborted on any change to an
+existing site because it reconstructed the live manifest by re-fetching pages
+(never exact). `deploy_all_mac.py` replaces it and is dist-authoritative: it
+hashes the actual built bytes, so there is nothing to reconstruct and existing
+sites can change safely.
+
+Two steps, and step 1 touches nothing on Cloudflare:
+
+    uv run --with jinja2 --with markdown python3 template/build.py --live
+    uv run --with blake3 --with requests python3 deploy_all_mac.py
+                               # DRY RUN: computes the manifest, verifies every
+                               # robots.txt is index-allowed (aborts on noindex),
+                               # diffs vs data/manifest.json, prints added/
+                               # removed/changed, writes deploy-manifest.json.
+                               # Sends NOTHING to Cloudflare.
+    uv run --with blake3 --with requests python3 deploy_all_mac.py --push "$(cat ~/.local-sites-token)"
+                               # PUSH: re-verifies the reviewed manifest still
+                               # matches disk, re-checks robots, uploads only the
+                               # missing hashes, POSTs the deployment.
+
+A changed shared head (og:image, title tweaks) shows as "every page changed" in
+the diff -- that is correct, one line per page, not a rewrite. Only genuinely-new
+bytes upload; unchanged files already live in Cloudflare's content-addressed store.
