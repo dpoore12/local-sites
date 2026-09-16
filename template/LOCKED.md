@@ -70,5 +70,6 @@ At phase 2 the failure cards shrink to 40-80 word teasers, each linking to the
 service page that covers it. Every service page cross-links the other three, and
 the footer lists all of them.
 
-Only Naperville and Fort Worth are phase 2 today. All 83 site.json files already
-carry full `services` definitions, so promoting a site is a pure writing job.
+All 87 sites are phase 2 today (updated 2026-09-15), and every `site.json`
+carries full `services` definitions. (This originally read "only Naperville and
+Fort Worth are phase 2" — the whole portfolio has since been promoted.)
