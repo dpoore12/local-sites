@@ -835,3 +835,59 @@ Total, sudden failure with no warning points at power more often than mechanics:
 ### What this actually routes to
 
 A dead remote with a working wall button is a remote and keypad repair. Photo-eye sensor failures are a sensor repair. A disengaged trolley that won't reconnect, or a motor that runs but strains, is an opener repair. All three get diagnosed on the same visit if you're not sure which applies -- the details above are for narrowing it down before the call, not for skipping the inspection.
+
+## q_garage_door_wont_open_lede
+
+A door that will not open is a different diagnosis from one that will not close, because the causes are mostly about weight and power rather than the safety sensors, and a broken spring is the first thing to rule out.
+
+## q_garage_door_wont_open_body
+
+### Does the motor try, or is it silent
+
+The first split is whether the opener does anything at all. If the motor runs its full cycle but the door stays put, the opener has probably disengaged from the door at the emergency release, or something under tension is holding the door down. If the motor is silent from the wall button, the fault is power or the unit itself rather than the door hardware. Pressing the wall button before reaching for the remote separates a dead opener from a dead remote.
+
+### Rule out a broken torsion spring first
+
+The spring, not the motor, does the lifting; the opener only steers a door the springs have already balanced. A snapped torsion spring, often heard as a bang from the garage the day before, leaves the opener unable to raise the door's full dead weight, and forcing it only strains the motor. Springs wear out by cycle count, and the ANSI/DASMA 102 standard designs a residential spring for at least ten thousand open-and-close cycles, which a busy household reaches in a few years. A door that will not budge by hand with the opener disconnected points straight here.
+
+### A lock that engaged, or a roller out of its track
+
+A slide lock or a vacation latch that was thrown will stop a door cold, and so will a roller that has jumped its track or a cable that has slipped its drum, leaving the door cocked at an angle. None of these are opener faults, and driving the motor against them tightens the bind. A door that hangs visibly crooked or catches hard on one side is a hardware problem, not an electronic one.
+
+### Power, remotes, and the release cord
+
+A silent opener usually traces to a tripped GFCI outlet or breaker in the garage, a dead battery backup, or a remote that lost its rolling-code pairing after a battery change. Pulling the red release cord frees the door to be lifted by hand, which is worth doing to feel whether the door itself glides or resists, since that one test tells a hardware bind apart from an electronics fault.
+
+### The Ann Arbor winter angle
+
+Wet de-icing salt rides into the garage on the car through a season the city treats across 346 lane miles of priority roads, and it collects at the lower brackets, cables and roller stems, exactly where a door that suddenly refuses to lift tends to be seizing. Cold thickens the grease and drains battery backups too. A door that grew harder to open across a Michigan winter is often a hardware and lubrication problem, not a failing motor.
+
+### What this actually routes to
+
+A door that will not lift by hand with the opener disconnected is almost always [spring repair](../garage-door-spring-repair/); a crooked door, a jumped roller or a cable off its drum is [off-track and cable repair](../off-track-garage-door-repair/); a silent unit, a dead remote or a failed board is [opener repair](../garage-door-opener-repair/). A door's weight should be measured rather than guessed before a spring is specified, which is why the notes above are meant to narrow the problem before a visit, not to replace the inspection.
+
+## q_garage_door_off_track_lede
+
+A door that has come off its track is the one garage-door fault where pressing the button again reliably makes things worse, so the first correct move is to stop operating it entirely.
+
+## q_garage_door_off_track_body
+
+### Why this is a stop-now problem
+
+When the rollers leave the track, the door loses the guidance that keeps its weight aligned over the springs and cables, and each further press of the opener drags it further out of square, bends the track, and can bring a heavy section down. Unlike a noisy or a slow door, an off-track door does not improve with use; the damage compounds on every cycle. Unplugging the opener, so nobody presses the button out of habit, is the first step.
+
+### What actually pulls a door off its track
+
+Three causes account for most cases. A vehicle bumper or a bike catching the bottom section knocks it sideways. A lift cable snaps or slips off its drum, so one side drops while the other holds and the door twists. Or a roller that has worn, seized or lost its stem lets one corner escape the rail. A door left hanging at an angle, with a gap opened up between a roller and its track, usually shows which of the three has happened.
+
+### Do not force a bound door by hand
+
+The urge to pull the red release cord and wrestle the door back into the rail is the wrong one here, because a door still held partway up by a cable or a spring under tension can drop fast, and a door already twisted binds hard against the bent track. Torsion and extension springs store more than enough energy to injure, which is why a genuinely off-track door is a hardware job rather than a homeowner one.
+
+### The salt-and-corrosion angle
+
+Ann Arbor salts its priority streets to bare pavement and hands residents sand-and-salt mix by the gallon through winter, and that wet residue rides into the garage on the car and settles at the bottom brackets, roller stems and lower track. Corrosion there stiffens rollers and weakens the cable hardware that holds a door in line, so an off-track failure in a Michigan garage is often the end of a slow rust problem rather than one sudden event. The bottom brackets in particular sit under spring tension and are no place for guesswork.
+
+### What this actually routes to
+
+A door off its rail is [off-track and cable repair](../off-track-garage-door-repair/): the rollers, cables, drums and bent track get inspected together, because a door rarely leaves the track for a single reason. If a snapped cable turns out to trace back to a broken spring, that is [spring repair](../garage-door-spring-repair/) handled on the same visit. The notes above are for describing the problem accurately over the phone, not for lifting a loaded door by hand.

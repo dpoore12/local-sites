@@ -459,6 +459,24 @@
       "icon": "wrench",
       "keyword": "garage door opener not working",
       "volume": 1900
+    },
+    {
+      "slug": "garage-door-wont-open",
+      "h1": "Garage Door Won't Open",
+      "accent": "Power, Spring, or Lock",
+      "photo": "assets/work-1.jpg",
+      "icon": "bolt",
+      "keyword": "garage door won't open",
+      "volume": 1900
+    },
+    {
+      "slug": "garage-door-off-track",
+      "h1": "Garage Door Off Track",
+      "accent": "Stop Using It Now",
+      "photo": "assets/work-2.jpg",
+      "icon": "warn",
+      "keyword": "garage door off track",
+      "volume": 1500
     }
   ]
 }

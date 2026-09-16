@@ -306,5 +306,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "car-overheating-what-to-do",
+      "h1": "Car Overheating: What to Do",
+      "accent": "Stop Before the Damage",
+      "photo": "assets/work-3.jpg",
+      "icon": "shield",
+      "keyword": "car overheating what to do",
+      "volume": 450
+    },
+    {
+      "slug": "how-long-does-a-tow-truck-take",
+      "h1": "How Long Does a Tow Truck Take",
+      "accent": "The Honest Number",
+      "photo": "assets/work-1.jpg",
+      "icon": "bolt",
+      "keyword": "how long does a tow truck take",
+      "volume": 70
+    }
+  ]
 }

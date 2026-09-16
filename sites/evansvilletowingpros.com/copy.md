@@ -490,3 +490,55 @@ Photograph the scene, the other plate and the damage before anything moves, if t
 
 Recovery minutes are the variable. A clean pull out of a shallow ditch is short; a car on its roof or sitting in water is not. The driver states an estimate on arrival before the line is attached, and the tow afterward is hook plus mileage like any other. The county contract bills recovery by the hour for exactly this reason. The pricing page sets the recovery band and the after-hours surcharge next to the tow rates.
 
+## q_car_overheating_what_to_do_lede
+
+An overheating engine is one of the few roadside problems where the wrong move in the first two minutes turns a cheap repair into a new engine, so the order of what you do matters more than pinning down the cause.
+
+## q_car_overheating_what_to_do_body
+
+### A climbing temperature gauge is a stop instruction
+
+When the needle climbs toward the red or a warning light comes on, driving on is what cracks a head gasket or warps a cylinder head, and those bills often run past what the car is worth. The right response is to pull off as soon as it is safe, shut the engine down, and let it cool. Steam from under the hood or a sweet coolant smell says the same thing, more urgently.
+
+### Buy cooling time with the heater, and leave the cap alone
+
+Turning the cabin heater and its fan to full pulls heat out of the engine and can shave several degrees while a safe place to stop is found, uncomfortable as that is. The firm rule is that a radiator or coolant cap on a hot engine sits under pressure, and opening it sprays scalding coolant, so it stays shut until the engine is genuinely cool. Adding coolant is a task for afterward, never during.
+
+### Limp it or load it
+
+A car that settles back to normal after a stop, with coolant at the right level and nothing pooling underneath, can sometimes make a nearby shop with the heater on and the gauge watched closely. A car that climbs into the red again within minutes, is leaking, has thrown a belt, or ran hot long enough to lose power should not be driven at all, because every extra mile stacks on more damage. That is a load-it-on-the-truck situation, not a limp-home one.
+
+### Summer heat, the Lloyd, and where a stall becomes a lane closure
+
+Overheating clusters in slow traffic on hot days, when airflow through the radiator falls to whatever the fan alone can pull. That matters on the Lloyd Expressway right now, where INDOT's Lloyd4U rebuild has intersections and bridges under construction into the end of 2026: a car that boils over inside a barrier-walled work zone becomes a lane closure with no shoulder and nowhere easy for a truck to reach it. Stopping before the engine seizes, rather than nursing it through the zone, is both the cheaper and the safer choice.
+
+### What this actually routes to
+
+A car that has truly overheated should not drive itself onto a wheel-lift; it belongs on [flatbed towing](../flatbed-towing/) so the drivetrain turns nothing on the way in. If the engine cooled and the fix was a topped hose or a jump after a stall, that is [roadside assistance](../roadside-assistance/). A routine move to a repair shop across town is [emergency towing](../emergency-towing/), and a breakdown that ended in a collision is [accident recovery](../accident-recovery-towing/). Any estimate on arrival should account for the work zones the rebuild has added.
+
+## q_how_long_does_a_tow_truck_take_lede
+
+A realistic wait for a tow truck runs from about twenty minutes to over an hour, and the biggest reason for the spread is not distance but how many trucks are already committed to other jobs.
+
+## q_how_long_does_a_tow_truck_take_body
+
+### Where the twenty-minute figure comes from
+
+The quickest realistic arrival for a routine call in a city the size of Evansville is around twenty minutes, and that number is not plucked from the air: Vanderburgh County's towing and storage agreement lets the county hand the job to a different wrecker if the contracted operator is not at the scene within twenty minutes of being contacted. That is a negotiated standard for county-ordered work rather than a promise on a private call, but it is a fair benchmark for what prompt looks like locally on an ordinary day.
+
+### What actually sets the wait
+
+Distance from the nearest free truck is only one input. The larger ones are how many jobs sit ahead of yours, the hour of the day, whether the vehicle needs a flatbed instead of a wheel-lift, and how exactly the location is pinned down. A caller who can give a cross street, a mile marker or a landmark cuts the search at the far end, and a single overnight truck covers far more ground than a full daytime rotation, so two in the morning and two in the afternoon are not the same wait.
+
+### A storm or a wreck rewrites the estimate
+
+The honest answer changes completely during bad weather or a major crash. When several collisions land at once, every recovery truck in the county is spoken for, and a drivable-but-dead car on a quiet street waits behind the scenes blocking traffic. Construction adds to it: with stretches of the Lloyd Expressway walled off through the end of 2026, a truck sometimes has to reach a work-zone breakdown from the next crossover rather than straight on. On days like that, an estimate measured in hours is the truthful one.
+
+### What a straight answer sounds like
+
+A dispatcher worth calling gives a real window and updates it, instead of telling every caller fifteen minutes regardless of the queue. Two questions settle it: how many jobs are ahead of mine, and is the truck coming from across town or across the county. A number you can trust is easier to plan around, especially when the safer move is to wait somewhere warm rather than beside the vehicle.
+
+### What this actually routes to
+
+A wait is really a dispatch question, and the kind of job decides which truck goes out. A jump, a lockout, a spare or fuel is [roadside assistance](../roadside-assistance/), usually the fastest to clear. A vehicle that has to stay flat rides on [flatbed towing](../flatbed-towing/), and a standard move is [emergency towing](../emergency-towing/). Clearing a car after a collision, where a scene has to be made safe first, is [accident recovery](../accident-recovery-towing/), and it is the work most affected by how many trucks a bad day has already tied up.
+

@@ -469,3 +469,55 @@ A block heater, plugged in overnight on nights below roughly 15°F, keeps the oi
 ### When to call for a jump versus a tow
 
 A jump start is the first call for a battery that just needs current -- it's the cheaper job and gets tried first. If the jump doesn't take, the car cranks but won't catch, or there's a smell, a spark, or visible corrosion at the terminals, that's a different problem than a flat battery and worth saying so on the call, since it changes what the driver brings.
+
+## q_how_much_does_it_cost_to_tow_a_car_lede
+
+A tow is priced as a hook-up fee plus a per-mile rate, and the one number worth asking for in Kalamazoo is that total before the truck is dispatched, because a police-ordered tow and a tow you arrange yourself follow completely different rules.
+
+## q_how_much_does_it_cost_to_tow_a_car_body
+
+### The two figures behind almost every light-duty tow
+
+Almost every ordinary tow is billed as a hook-up fee to put the vehicle on the truck plus a charge for each mile to the destination, with a wheel-lift hook sitting lower than a flatbed one. National 2026 rate surveys and the prices two Kalamazoo operators publish put a local ten-mile wheel-lift tow in a fairly wide band; the itemized cost page here carries the current ranges with their sources. The question that heads off a surprise is simple: hook plus miles to where the car is going, quoted as one figure, before the truck rolls.
+
+### A police-ordered tow has a legal ceiling; a tow you call for does not
+
+This is the local part most drivers never hear. Chapter 40 of the Kalamazoo City Code makes the City Commission, by resolution or contract, the body that sets the maximum a wrecker may charge for a police-ordered tow or for storage inside the city, and demanding more than the permitted amount is unlawful, with the City Clerk holding the current figures. A tow arranged privately carries no such cap, which is precisely why the price should be agreed out loud before the hook goes on rather than discovered on the invoice.
+
+### Storage is the charge that grows while nobody is watching
+
+On a police-directed tow, Michigan limits storage to the lesser of the rate in the towing agency's contract or the lot's own posted daily rate, under MCL 257.252i, and the owner has twenty days from the abandonment notice to redeem the vehicle or petition the court. That daily charge accrues whether or not an insurer has called back, so getting to the lot promptly with the title or registration and a photo ID, and asking for an itemized bill, is what keeps a modest cost from turning into a large one.
+
+### What moves the quote
+
+After-hours, weekend and holiday work, a winch-out before the tow, a low car or an all-wheel-drive vehicle that has to ride flat, and mileage past the first several miles all move the figure. Weather moves it too: when a whiteout shut US-131 for roughly five hours in January 2026, every recovery truck in the county was committed and a private call waited behind the freeway. None of that is hidden when the surcharges are named in the quote.
+
+### What this actually routes to
+
+A straightforward move between two addresses is [emergency towing](../emergency-towing/); a jump, a lockout, a mounted spare or fuel brought to a stalled car is [roadside assistance](../roadside-assistance/), billed for the service done rather than a tow; a vehicle that must keep all four wheels off the road rides on [flatbed towing](../flatbed-towing/). The pricing page states the market ranges for each with the sources behind them, and the number that counts is always the one quoted before the work begins.
+
+## q_what_to_do_if_your_car_breaks_down_on_the_highway_lede
+
+The first priority in a highway breakdown is not the engine, it is getting the vehicle and everyone in it out of the live traffic lane, and only then working out whether this is a roadside fix or a tow.
+
+## q_what_to_do_if_your_car_breaks_down_on_the_highway_body
+
+### Reach the right shoulder while the car still rolls
+
+The moment a car loses power at speed, the safest place is off the moving lane, so the instinct to coast onto the right shoulder or an exit ramp while some momentum remains is the correct one, with hazard lights on at once to warn the traffic behind. A vehicle stalled in a live lane on I-94 or US-131 is a far more dangerous situation than a dead engine, and the order that keeps people safe is position first, machine second.
+
+### Get out on the side away from traffic, and stand behind the barrier
+
+Once stopped, leaving through the passenger-side door away from traffic and moving behind a guardrail or well up the embankment removes the worst risk on a limited-access highway, which is being struck by a passing vehicle. A reflective triangle or flares set well back up the road buy approaching drivers time to react. Staying belted in a car on a narrow shoulder is the exact scenario safety agencies warn against.
+
+### Michigan law says other drivers must move over; plan as if they will not
+
+Michigan's Move Over law requires traffic to slow and shift a lane away from a stopped emergency or service vehicle showing lights, which is why a tow operator arrives with a light bar running. The law lowers the risk; it does not erase it. In winter this same stretch of freeway is where lake-effect whiteouts trigger chain crashes, as the January 2026 closure of US-131 after a fifteen-vehicle pileup showed, and on a day like that a recovery truck is tied up on the interstate before it can reach a car elsewhere.
+
+### Roadside fix or tow
+
+If the car restarts and holds, easing to the next exit and off the highway beats waiting in a hazardous spot. A flat with a sound spare, a drained battery, or an empty tank is often a roadside job done where the car sits. An overheating engine, a car that will not steer or brake properly, or anything that quit at speed with no warning should not be driven and needs a truck.
+
+### What this actually routes to
+
+A jump, a spare fitted, or fuel delivered to a car that is otherwise sound is [roadside assistance](../roadside-assistance/). A vehicle that cannot be driven off the highway safely is a tow: one that has to stay flat, because it will not roll or drives all four wheels, goes on [flatbed towing](../flatbed-towing/), while a routine move to a shop or home is [emergency towing](../emergency-towing/). An honest arrival estimate matters most here, since a wait on the shoulder is a wait in a dangerous place.

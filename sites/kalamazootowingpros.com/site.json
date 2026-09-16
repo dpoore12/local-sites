@@ -324,6 +324,24 @@
       "icon": "bolt",
       "keyword": "car won't start in cold weather",
       "volume": 250
+    },
+    {
+      "slug": "how-much-does-it-cost-to-tow-a-car",
+      "h1": "How Much Does It Cost to Tow a Car",
+      "accent": "Hook Plus Miles, Stated First",
+      "photo": "assets/hero.jpg",
+      "icon": "warn",
+      "keyword": "how much does it cost to tow a car",
+      "volume": 2900
+    },
+    {
+      "slug": "what-to-do-if-your-car-breaks-down-on-the-highway",
+      "h1": "What to Do If Your Car Breaks Down on the Highway",
+      "accent": "Get Off the Lane First",
+      "photo": "assets/work-1.jpg",
+      "icon": "bolt",
+      "keyword": "what to do if your car breaks down on the highway",
+      "volume": 250
     }
   ]
 }
