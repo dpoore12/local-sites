@@ -82,3 +82,23 @@ plays the whisper to the contractor, then bridges, preserving the caller's numbe
 
 Call log page: https://call-desk-xi.vercel.app/calls-46b11d3e1d66ba86 (private link).
 Updates itself daily at 7:00am Pacific.
+
+## Released 2026-10-20
+
+43 unassigned numbers deleted from Telnyx at Dan's word (none wired to a market,
+none printed on any live fixpros1.com or local-sites page — all 303 fixpros1.com
+pages were fetched and grepped first). Account now holds 89: the 83 markets, the
+4 test sites, `lead-router-staging` (+12168680519) and the lead-alert SMS sender
+(+19179243152, kept because `alert_leads.py` names it). List of released numbers:
+`call-desk/log/voicemail_2026-10-20/released_numbers_2026-10-20.txt`.
+
+## Evansville number replaced 2026-10-25
+
+evansvilletowingpros.com moved from (812) 402-0614 to **(812) 266-9502** (Telnyx order
+728b1c49, number id 3078712547319219775, same TeXML app 3044557307150075287, so it answers
+with the same Evansville voicemail). The old number was recycled: all 85 voicemails on it
+(9 Sep – 25 Oct) were people asking about legalizing or shipping cars to Mexico, none for a
+tow (`call-desk/log/voicemail_2026-10-25_evansville/TRANSCRIPTS.md`). 402-0614 was released
+the same day. The site change was deployed alone with `swap_phone_deploy.py` (9 Evansville
+pages, nothing else on the network changed); `data/manifest.json` is the new live manifest.
+Watch the first week: any non-Evansville caller on 266-9502 means this one has a past too.

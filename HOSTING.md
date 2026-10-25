@@ -85,3 +85,22 @@ Two steps, and step 1 touches nothing on Cloudflare:
 A changed shared head (og:image, title tweaks) shows as "every page changed" in
 the diff -- that is correct, one line per page, not a rewrite. Only genuinely-new
 bytes upload; unchanged files already live in Cloudflare's content-addressed store.
+
+## 2026-10-25 — what is live, and swapping one site's phone number
+
+Live is still the 8 Sep deploy plus the Evansville phone swap below. The 14 Sep preview
+(`DEPLOY-PREVIEW-2026-09-14.md`: og:image on every page, ~36 question/town pages) and the
+15 Sep question pages were never pushed, so `dist/` from a fresh build is ahead of live.
+`data/manifest.json` is the live manifest; `deploy-manifest.json` is only the 14 Sep preview.
+
+`~/.local-sites-token` is `CLOUDFLARE_API_TOKEN=<token>`: pass the part after `=`
+(`$(cut -d= -f2- ~/.local-sites-token)`), not the whole file.
+
+To change one site's phone number without shipping anything else:
+
+    uv run --with blake3 --with requests python3 swap_phone_deploy.py DOMAIN "(old) display" "(new) display" +1OLD +1NEW
+    # dry run first; add --push "$(cut -d= -f2- ~/.local-sites-token)" to deploy
+
+It fetches that domain's live files, aborts unless each matches `data/manifest.json`
+byte for byte, swaps the number, and redeploys the same manifest with only those pages changed.
+Remember `sites/<domain>/site.json`, `call-desk/index.json` and `call-desk/wiring.json` too.

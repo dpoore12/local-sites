@@ -16,10 +16,10 @@
   "area_codes": [
     "812"
   ],
-  "phone_display": "(812) 402-0614",
-  "phone_tel": "+18124020614",
+  "phone_display": "(812) 266-9502",
+  "phone_tel": "+18122669502",
   "phone_status": "LIVE",
-  "phone_note": "Telnyx local number, bought 2026-09-08 (order fe2c119e). In the market's own area code. Not yet routed anywhere -- it rings nothing until a destination is set.",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 728b1c49) to replace (812) 402-0614, a recycled number whose callers wanted a car-export business. In the market's own area code. Answers with the Evansville voicemail on call-desk.",
   "emergency": true,
   "timezone": "America/Chicago",
   "tenant": {
