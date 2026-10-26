@@ -1,6 +1,6 @@
 # Paid filing sheet: Kyle batch 1 (26 Oct 2026)
 
-Dan's go (26 Oct): Cleanerin for the 4 duct and dryer-vent sites and MyLocalServices for all 10. Dan signs up and pays; nothing here has been submitted. Account email for every sign-up: **dan@fixlypro1.com**.
+Dan's go (26 Oct): Cleanerin for the 4 duct and dryer-vent sites and MyLocalServices for all 10. Dan signs up and pays; nothing here has been submitted. Account email for every sign-up: the fixlypro1 desk inbox (Dan has it; kept out of this public repo).
 
 | Directory | Sites | Cost |
 |---|---|---|
@@ -20,10 +20,10 @@ Dan's go (26 Oct): Cleanerin for the 4 duct and dryer-vent sites and MyLocalServ
 
 | Site | Website to give them | Phone | Account email |
 |---|---|---|---|
-| Dryer Vent Cleaning Ocala | https://dryerventcleaningocala.com/ | (352) 723-0197 | dan@fixlypro1.com |
-| Marietta Air Duct Cleaning Pros | https://mariettaairductcleaningpros.com/ | (943) 271-6154 | dan@fixlypro1.com |
-| Schaumburg Air Duct Cleaning Pros | https://schaumburgairductcleaningpros.com/ | (224) 524-0789 | dan@fixlypro1.com |
-| Wheaton Air Duct Cleaning Pros | https://wheatonairductcleaningpros.com/ | (331) 600-8021 | dan@fixlypro1.com |
+| Dryer Vent Cleaning Ocala | https://dryerventcleaningocala.com/ | (352) 723-0197 | the fixlypro1 desk inbox |
+| Marietta Air Duct Cleaning Pros | https://mariettaairductcleaningpros.com/ | (943) 271-6154 | the fixlypro1 desk inbox |
+| Schaumburg Air Duct Cleaning Pros | https://schaumburgairductcleaningpros.com/ | (224) 524-0789 | the fixlypro1 desk inbox |
+| Wheaton Air Duct Cleaning Pros | https://wheatonairductcleaningpros.com/ | (331) 600-8021 | the fixlypro1 desk inbox |
 
 ## MyLocalServices (10)
 
@@ -39,7 +39,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 72712 |
 | Categories (pick the closest 3) | Dumpster Rental; Waste Removal; Junk Removal |
 | Description | Roll-off dumpster rental for Bentonville and Benton County, AR: new-construction framing scrap, remodel tear-outs, garage and estate cleanouts, and concrete or dirt. Boxes sized to the job, with the tons, rental days and price stated before the drop. Serving Bentonville, Centerton, Bella Vista, Pea Ridge and Rogers. Independently operated advertising site, not itself a waste hauling company. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Dryer Vent Cleaning Ocala
 
@@ -51,7 +51,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 34471 |
 | Categories (pick the closest 3) | Dryer Vent Cleaning; Air Duct Cleaning; Chimney & Vent Cleaning |
 | Description | Dryer vent cleaning for Ocala and Marion County, FL: full-run cleaning from the dryer to the wall hood or roof cap, roof vent cleaning, bird nest removal and vent repair. The price for the whole run is stated before the dryer is moved. Serving Ocala, Silver Springs Shores, Marion Oaks and On Top of the World. Independently operated advertising site, not itself a dryer vent contractor. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Marietta Air Duct Cleaning Pros
 
@@ -63,7 +63,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 30060 |
 | Categories (pick the closest 3) | Air Duct Cleaning; Dryer Vent Cleaning; Heating & Air Conditioning |
 | Description | Air duct cleaning for Marietta and Cobb County, GA: supply and return ducts, dryer vents, coil and air handler cleaning, and duct sealing. The whole system is in scope and the total is stated before work starts. Serving Marietta, Kennesaw, Smyrna and East Cobb. Independently operated advertising site, not itself a duct cleaning contractor. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Window Tinting Bradenton
 
@@ -75,7 +75,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 34205 |
 | Categories (pick the closest 3) | Window Tinting; Auto Glass; Window Film |
 | Description | Window tinting for Bradenton and Manatee County, FL: car tint at Florida-legal shades, ceramic film, and solar film for homes and businesses. Film and price named before the job. Serving Bradenton, Palmetto, Ellenton, Holmes Beach and Lakewood Ranch. Independently operated advertising site, not itself a window film installer. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Wellington Dumpster Rental Pros
 
@@ -87,7 +87,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 33414 |
 | Categories (pick the closest 3) | Dumpster Rental; Waste Removal; Junk Removal |
 | Description | Roll-off dumpster rental in Wellington, FL: home cleanouts, remodel and roofing debris, barn and farm cleanouts, and storm debris. Priced before delivery and placed where the HOA and the village allow. Serving all of Wellington, from Wellington Green to the farms off South Shore Boulevard. Independently operated advertising site, not itself a permitted roll-off hauler. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Biloxi Dumpster Rental Pros
 
@@ -99,7 +99,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 39530 |
 | Categories (pick the closest 3) | Dumpster Rental; Waste Removal; Junk Removal |
 | Description | Roll-off dumpster rental in Biloxi, MS: construction and renovation debris, roof tear-offs, concrete and heavy debris, and cleanouts. The box is matched to the debris, with the weight and rental days settled first. Serving Biloxi from Point Cadet and Edgewater north to Woolmarket. Independently operated advertising site, not itself a roll-off container hauler. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Schaumburg Air Duct Cleaning Pros
 
@@ -111,7 +111,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 60193 |
 | Categories (pick the closest 3) | Air Duct Cleaning; Dryer Vent Cleaning; Heating & Air Conditioning |
 | Description | Air duct cleaning for Schaumburg, IL: supply and return ducts, furnace and blower cleaning, dryer vents, and cleanup after a remodel. The whole system is in scope and the total is on paper first. Serving Schaumburg from Weathersfield and Lexington Village to the Woodfield area. Independently operated advertising site, not itself a duct cleaning contractor. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### North Miami Septic Tank Pumping Pros
 
@@ -123,7 +123,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 33161 |
 | Categories (pick the closest 3) | Septic Tank Services; Septic Pumping; Drain Cleaning |
 | Description | Septic tank pumping and service for North Miami, FL: routine pumping, emergency backups, drain field repair, and tank abandonment when sewer reaches the street, under Miami-Dade's septic rules. Priced before the hose goes in. Serving North Miami from Keystone Point and Sans Souci to Westside Sunkist Grove. Independently operated advertising site, not itself a registered septic tank contractor. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Wheaton Air Duct Cleaning Pros
 
@@ -135,7 +135,7 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 60187 |
 | Categories (pick the closest 3) | Air Duct Cleaning; Dryer Vent Cleaning; Heating & Air Conditioning |
 | Description | Air duct cleaning for Wheaton, IL: every return and trunk line, furnace and blower cleaning, dust cleanup after a basement or remodel job, and dryer vents. Scope and price stated first. Serving Wheaton from the Northside to Danada and Arrowhead. Independently operated advertising site, not itself a duct cleaning contractor. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
 ### Pensacola Dumpster Rental Pros
 
@@ -147,5 +147,5 @@ Step 1 is name and number, step 2 address and categories (3 free), step 3 checko
 | Address | leave blank or city-only; ZIP 32502 |
 | Categories (pick the closest 3) | Dumpster Rental; Waste Removal; Junk Removal |
 | Description | Roll-off dumpster rental for Pensacola and Escambia County, FL: storm debris, roof tear-offs, construction and renovation, and home cleanouts. Tonnage, rental days and price named before the box is dropped. Serving Pensacola, Warrington, Ferry Pass, Myrtle Grove, Cantonment and Perdido Key. Independently operated advertising site, not itself a waste hauling company. |
-| Email | dan@fixlypro1.com |
+| Email | the fixlypro1 desk inbox |
 
