@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Asheville",
+ "state": "NC",
+ "pop": 87236,
+ "vol": 210,
+ "cpc": 10.62,
+ "lead_value": 2230,
+ "query": "chimney sweep asheville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 591.0,
+ "top5_pages_min": 153,
+ "top10_pages_med": 591,
+ "top10_pages_min": 153,
+ "winner_words_med": 540,
+ "winners_measured": 2,
+ "score": 12.9,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "flue-fighters.com",
+   "url": "https://flue-fighters.com/",
+   "title": "Flue Fighters: Chimney Sweep Services Asheville NC",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=chimneysweeps&find_loc=Asheville%2C+NC",
+   "title": "THE BEST 10 CHIMNEY SWEEPS IN ASHEVILLE, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/asheville/comments/1fm2q2w/chimney_sweep_for_reasonable_price/",
+   "title": "Chimney sweep for reasonable price : r/asheville",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "chimneysweepashevillenc.com",
+   "url": "https://www.chimneysweepashevillenc.com/",
+   "title": "Chimney Sweep Asheville, NC Emberstone Chimney Solutions",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "ashevillechimneysweeper.com",
+   "url": "https://ashevillechimneysweeper.com/",
+   "title": "Reece's Klean Sweep - RKS Gas Piping: Asheville, NC ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "environmentalchimneyservice.com",
+   "url": "https://www.environmentalchimneyservice.com/",
+   "title": "Chimney Sweep & Fireplace Repair - Asheville NC ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/emberstoneasheville/",
+   "title": "Emberstone Chimney Solutions - Asheville NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "wrightsfireplaces.com",
+   "url": "https://www.wrightsfireplaces.com/chimney-venting-services/chimney-sweeping/",
+   "title": "Chimney Sweeping Near Me - Asheville NC",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "wanderingbrusheschimneysweeps.com",
+   "url": "https://www.wanderingbrusheschimneysweeps.com/",
+   "title": "WESTERN NC CHIMNEY SWEEPS & SERVICES",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Emberstone Chimney Solutions - Chimney Sweep Asheville, NC",
+   "domain": "chimneysweepashevillenc.com",
+   "rating": 4.8,
+   "reviews": 131
+  },
+  {
+   "title": "Archer Chimneys & Exteriors",
+   "domain": "archerchimneys.com",
+   "rating": 4.6,
+   "reviews": 37
+  },
+  {
+   "title": "Flue Fighters",
+   "domain": "flue-fighters.com",
+   "rating": 5,
+   "reviews": 210
+  }
+ ],
+ "fetched": "2026-10-25"
+}

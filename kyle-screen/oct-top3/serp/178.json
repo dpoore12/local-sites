@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Flower Mound",
+ "state": "TX",
+ "pop": 68609,
+ "vol": 140,
+ "cpc": 35.84,
+ "lead_value": 5018,
+ "query": "air duct cleaning flower mound",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 497,
+ "top5_pages_min": 177,
+ "top10_pages_med": 497,
+ "top10_pages_min": 177,
+ "winner_words_med": 965,
+ "winners_measured": 3,
+ "score": 26,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/tx/flower-mound/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Flower Mound, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "cleanairductpros.com",
+   "url": "https://cleanairductpros.com/air-duct-cleaning-flower-mound-tx",
+   "title": "Get Air Duct Cleaning in Flower Mound, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/duct-cleaning-flower-mound/",
+   "title": "Duct Cleaning Flower Mound",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "airductcleaningserviceflowermound.com",
+   "url": "https://airductcleaningserviceflowermound.com/pet-dander-duct-cleaning-flower-mound-tx/",
+   "title": "Pet Dander Duct Cleaning in Flower Mound, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/tx/flower-mound/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Flower Mound, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "airductcleaningserviceflowermound.com",
+   "url": "https://airductcleaningserviceflowermound.com/nadca-approved-air-duct-services-flower-mound-tx/",
+   "title": "NADCA Approved Air Duct Services in Flower Mound, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "airductcleaningserviceflowermound.com",
+   "url": "https://airductcleaningserviceflowermound.com/commercial-laundry-vent-cleaning-flower-mound-tx/",
+   "title": "Commercial Laundry Vent Cleaning in Flower Mound, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "maroonductcleaning.com",
+   "url": "https://maroonductcleaning.com/maroon-duct-cleaning-flower-mound-tx.html",
+   "title": "Trusted Air Experts - Maroon Duct Cleaning Flower Mound TX",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Duct+Cleaning&find_loc=Flower+Mound%2C+TX",
+   "title": "TOP 10 BEST Dryer Duct Cleaning in Flower Mound, TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Worry Free Air Duct Cleaners",
+   "domain": "flowermoundairductcleaning.com",
+   "rating": 4.9,
+   "reviews": 98
+  },
+  {
+   "title": "Lowe's Air Duct Cleaning",
+   "domain": "lowesair.com",
+   "rating": 4.9,
+   "reviews": 150
+  },
+  {
+   "title": "Perfect Touch Air Duct Cleaning",
+   "domain": "flowermoundairduct.com",
+   "rating": 4.8,
+   "reviews": 103
+  }
+ ],
+ "fetched": "2026-10-25"
+}

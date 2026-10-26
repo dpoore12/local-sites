@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 210,
+ "cpc": 29.69,
+ "lead_value": 6235,
+ "query": "air duct cleaning marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 287.5,
+ "top5_pages_min": 34,
+ "top10_pages_med": 61,
+ "top10_pages_min": 34,
+ "winner_words_med": 1462,
+ "winners_measured": 4,
+ "score": 51,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Cleaning&find_loc=Marietta%2C+GA",
+   "title": "TOP 10 BEST Air Duct Cleaning in Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "airductcleaningga.com",
+   "url": "https://www.airductcleaningga.com/air-duct-cleaning-marietta-ga",
+   "title": "$349 Full Air Duct Cleaning Marietta GA",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "ductorcleanair.com",
+   "url": "https://www.ductorcleanair.com/",
+   "title": "Air Duct & Dryer Vent Cleaning Atlanta | Ductor Clean Air",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "advantaclean.com",
+   "url": "https://www.advantaclean.com/marietta-ga/",
+   "title": "Water Damage Restoration & Air Duct Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Marietta, GA 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "4seasonsaircare.com",
+   "url": "https://4seasonsaircare.com/",
+   "title": "4 Seasons Air Care: Air Duct & Dryer Vent Cleaning Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/ga/marietta/category/air-duct-cleaning/accredited",
+   "title": "284 results for Air Duct Cleaning near Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mamabeardryerventcare.com",
+   "url": "https://www.mamabeardryerventcare.com/",
+   "title": "BEST Dryer Vent Cleaning Marietta Near You - Need Dryer ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "dryerventwizard.com",
+   "url": "https://www.dryerventwizard.com/locations/atlanta/geo/marietta-ga",
+   "title": "Dryer Vent Cleaning Marietta, GA Repair & Installation ...",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "4 Seasons Air Care LLC | Air duct cleaning service | HVAC contractor | Carpet Cleaning Services",
+   "domain": "4seasonsaircare.com",
+   "rating": 5,
+   "reviews": 68
+  },
+  {
+   "title": "Ductor Clean Air",
+   "domain": "ductorcleanair.com",
+   "rating": 5,
+   "reviews": 230
+  },
+  {
+   "title": "AdvantaClean of Marietta",
+   "domain": "advantaclean.com",
+   "rating": 5,
+   "reviews": 108
+  }
+ ],
+ "fetched": "2026-10-25"
+}

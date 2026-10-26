@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Summerville",
+ "state": "SC",
+ "pop": 46074,
+ "vol": 390,
+ "cpc": 9.94,
+ "lead_value": 3877,
+ "query": "pressure washing summerville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 139.5,
+ "top5_pages_min": 78,
+ "top10_pages_med": 78,
+ "top10_pages_min": 14,
+ "winner_words_med": 497,
+ "winners_measured": 3,
+ "score": 56,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "go-ccs.com",
+   "url": "https://go-ccs.com/pressure-washing-summerville-sc/",
+   "title": "Commercial Pressure Washing Summerville SC",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/melanatedmoneymondays/posts/931748244307001/",
+   "title": "Pressure washing recommendations in Summerville area",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/exterior-cleaning-of-sc-summerville",
+   "title": "EXTERIOR CLEANING OF SC - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "rollingsudspowerwashing.com",
+   "url": "https://www.rollingsudspowerwashing.com/home-pressure-washing-services-near-me-summerville-sc-2/",
+   "title": "Pressure Washing Services Near Me | Summerville, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/proform-pressure-washing-summerville",
+   "title": "PROFORM PRESSURE WASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "washmyhouse.org",
+   "url": "https://washmyhouse.org/experience-superior-cleaning-with-professional-pressure-washing-services-in-summerville-sc-by-soft-wash-pros/",
+   "title": "Experience Superior Cleaning with Professional Pressure ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/south-carolina/curb-appeal-pressure-washing-516417109",
+   "title": "Curb Appeal Pressure Washing, Summerville, SC 29483, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "charlestonpowerwash.com",
+   "url": "https://charlestonpowerwash.com/contact-us",
+   "title": "Contact Us",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/Caseyscleaningsc/",
+   "title": "Casey's Exterior Cleaning SC | Summerville SC",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Jeffs Exterior Washing",
+   "domain": "jeffsexteriorwashing.com",
+   "rating": 5,
+   "reviews": 545
+  },
+  {
+   "title": "H2Pro Power Washing",
+   "domain": "h2propowerwashing.com",
+   "rating": 5,
+   "reviews": 563
+  },
+  {
+   "title": "Caseys Exterior Cleaning",
+   "domain": "caseysexteriorcleaning.com",
+   "rating": 5,
+   "reviews": 153
+  }
+ ],
+ "fetched": "2026-10-25"
+}

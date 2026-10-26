@@ -1,0 +1,100 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Ocala",
+ "state": "FL",
+ "pop": 57468,
+ "vol": 170,
+ "cpc": 38.26,
+ "lead_value": 6504,
+ "query": "air duct cleaning ocala",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 615,
+ "top5_pages_min": 147,
+ "top10_pages_med": 269,
+ "top10_pages_min": 12,
+ "winner_words_med": 810,
+ "winners_measured": 5,
+ "score": 33,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "stanleysteemer.com",
+   "url": "https://www.stanleysteemer.com/locations/FL/Ocala/2000060",
+   "title": "Air Duct Cleaning - Ocala, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Ocala%2C+FL",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN OCALA, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "sunkoolac.com",
+   "url": "https://sunkoolac.com/service-areas/marion-county/ocala-fl/duct-cleaning-in-ocala-fl/",
+   "title": "Duct Cleaning in Ocala, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/ocala/comments/10epl6u/air_duct_cleaning_service/",
+   "title": "Air Duct Cleaning Service? : r/ocala",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "cadductcleaning.com",
+   "url": "https://cadductcleaning.com/locations/ocala-fl/",
+   "title": "Air Duct, Dryer Vent & Chimney Cleaning in Ocala, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "ocalaairconditioningandrefrigeration.com",
+   "url": "https://ocalaairconditioningandrefrigeration.com/air-duct-cleaning/",
+   "title": "Air Duct Cleaning Ocala FL - Allan & Rogers - We do it right!",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "airfreshexperts.com",
+   "url": "https://airfreshexperts.com/",
+   "title": "Air Fresh Dryer Vents & Duct Cleaning | Ocala, Florida - Ocala ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/ocala/duct-cleaning",
+   "title": "Duct cleaners near Ocala, FL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Clean Air Duct Cleaning",
+   "domain": "cadductcleaning.com",
+   "rating": 4.9,
+   "reviews": 89
+  },
+  {
+   "title": "Air Fresh Dryer Vent And Duct Cleaning",
+   "domain": "airfreshexperts.com",
+   "rating": 5,
+   "reviews": 734
+  },
+  {
+   "title": "Danino Air duct and dryer vent cleaning",
+   "domain": "danino-airsolution.org",
+   "rating": 5,
+   "reviews": 83
+  }
+ ],
+ "fetched": "2026-10-25"
+}

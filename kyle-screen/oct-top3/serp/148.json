@@ -1,0 +1,113 @@
+{
+ "niche": "window tinting",
+ "city": "Loveland",
+ "state": "CO",
+ "pop": 71334,
+ "vol": 210,
+ "cpc": 8.73,
+ "lead_value": 1833,
+ "query": "window tinting loveland",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 698.5,
+ "top5_pages_min": 1,
+ "top10_pages_med": 703,
+ "top10_pages_min": 1,
+ "winner_words_med": 1188,
+ "winners_measured": 4,
+ "score": 40.2,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/co/ft-collins-126/car-tint-shop-near-me-in-loveland-co-auto-window-tinting-commercial-service/",
+   "title": "Auto Window Tinting Car Tint Shop Near Me in Loveland, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1399834230537724/posts/2094778324376641/",
+   "title": "Who provides mobile window tinting services in Loveland, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/co/loveland/window-tinting",
+   "title": "The 10 Best Window Tinting Services in Loveland, CO 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "autoplexco.com",
+   "url": "https://www.autoplexco.com/contact/?srsltid=AYCX9vIM7BOZyt23vCX2JgTNaKVB488uTjfAj36NbXH-h6Di1lvYU0Nl",
+   "title": "Contact | Autoplex | 6 Colorado Locations",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "whirlocal.io",
+   "url": "https://whirlocal.io/colorado/loveland/spotlight/best-window-tinting-shops-in-loveland-co/",
+   "title": "Best Window Tinting Shops in Loveland, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/anchorautoglasstint/",
+   "title": "Anchor Auto Glass & Tint | Loveland CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "coloradocustomswheelandtires.com",
+   "url": "https://coloradocustomswheelandtires.com/",
+   "title": "Tire Shop in Loveland, CO - Quality Custom Wheels & Tires ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/marketplace/item/1509227027646523/?ref=search&referral_code=null&referral_story_type=post",
+   "title": "Loveland window tint - Cars & Trucks - Fort Collins, Colorado",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Colorado/Loveland?srsltid=AYCX9vITKN_xxKnwXTabSVnSU3WDcDc3yVLi5df4cOk53IhMTx_7JjmJ",
+   "title": "XPEL Installers - Loveland, Colorado - United States",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Anchor Auto Glass & Tint",
+   "domain": "anchorautoglassandtint.com",
+   "rating": 4.9,
+   "reviews": 541
+  },
+  {
+   "title": "Crystal Clean Window Tinting and Clear Bra",
+   "domain": "lovelandwindowtint.com",
+   "rating": 4.7,
+   "reviews": 100
+  },
+  {
+   "title": "Autoplex Window Tinting & Truck Accessories",
+   "domain": "autoplexco.com",
+   "rating": 4.9,
+   "reviews": 725
+  },
+  {
+   "title": "SUNOUT Window Tint Specialists        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 334
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,100 @@
+{
+ "niche": "pressure washing",
+ "city": "Daytona Beach",
+ "state": "FL",
+ "pop": 62316,
+ "vol": 210,
+ "cpc": 11.32,
+ "lead_value": 2377,
+ "query": "pressure washing daytona beach",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 40,
+ "top5_pages_min": 2,
+ "top10_pages_med": 40,
+ "top10_pages_min": 2,
+ "winner_words_med": 626,
+ "winners_measured": 3,
+ "score": 81.8,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Daytona+Beach%2C+FL",
+   "title": "THE BEST 10 PRESSURE WASHERS IN DAYTONA ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "soapandsea.com",
+   "url": "https://soapandsea.com/near-me/pressure-washing-daytona-beach-fl/",
+   "title": "Get A Free Quote ... - Pressure Washing in Daytona Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "windowhero.com",
+   "url": "https://windowhero.com/locations/ormond-beach/daytona-beach/",
+   "title": "Pressure Washing Daytona Beach, Ormond Beach",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/daytona-beach/pressure-washing",
+   "title": "Power washers near Daytona Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "daytona-pressure.com",
+   "url": "https://daytona-pressure.com/",
+   "title": "Daytona Pressure Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "washandgofl.com",
+   "url": "https://washandgofl.com/",
+   "title": "Pressure Washing Port Orange & Daytona Beach | Wash and Go",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "liftoffpressurewashing.com",
+   "url": "https://liftoffpressurewashing.com/daytona-beach.html",
+   "title": "Pressure Washing in Daytona Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "daytonabeachsoftwash.com",
+   "url": "https://www.daytonabeachsoftwash.com/",
+   "title": "Pressure Wash | Daytona Beach, FL | All Star Pressure Wash",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Wash and Go Pressure & Soft Washing",
+   "domain": "washandgofl.com",
+   "rating": 5,
+   "reviews": 356
+  },
+  {
+   "title": "Paradise Pressure Washing",
+   "domain": "paradise-pressure-washing.com",
+   "rating": 5,
+   "reviews": 114
+  },
+  {
+   "title": "Sunnydays Cleaning",
+   "domain": "sunnydayscleaningllc.com",
+   "rating": 5,
+   "reviews": 85
+  }
+ ],
+ "fetched": "2026-10-25"
+}

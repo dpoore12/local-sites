@@ -1,0 +1,107 @@
+{
+ "niche": "towing service",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 210,
+ "cpc": 8.97,
+ "lead_value": 1884,
+ "query": "towing service fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 7.5,
+ "top5_pages_min": 7,
+ "top10_pages_med": 7,
+ "top10_pages_min": 7,
+ "winner_words_med": 583,
+ "winners_measured": 2,
+ "score": 71.6,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/ABudgetTowingLLC/",
+   "title": "A Budget Towing LLC | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=roadsideassist&find_loc=Fort+Myers%2C+FL",
+   "title": "THE BEST 10 ROADSIDE ASSISTANCE IN FORT MYERS, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/516061361775789/posts/27937508782537677/",
+   "title": "Affordable towing companies near Cape Coral for pickup in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "uh-ohtowing.com",
+   "url": "http://www.uh-ohtowing.com/",
+   "title": "Uh-Oh Towing - Home",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/787724735099369/posts/1945520219319809/",
+   "title": "Affordable tow truck near Fort Myers",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/hooked-up-towing-378038189",
+   "title": "Hooked UP Towing - North Fort Myers",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/angel-towing-fort-myers",
+   "title": "Angel Towing - Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/citys-towing-recovery-usa-corp-554776594",
+   "title": "City's Towing & Recovery USA Corp - Fort Myers",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/a-budget-towing-355041403",
+   "title": "A Budget Towing - Fort Myers",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "ACME TOWING & TRANSPORTING LLC.",
+   "domain": "facebook.com",
+   "rating": 5,
+   "reviews": 396
+  },
+  {
+   "title": "Uh-Oh Towing",
+   "domain": "uh-ohtowing.com",
+   "rating": 4.5,
+   "reviews": 170
+  },
+  {
+   "title": "Superior Towing",
+   "domain": "",
+   "rating": 4.3,
+   "reviews": 96
+  }
+ ],
+ "fetched": "2026-10-25"
+}

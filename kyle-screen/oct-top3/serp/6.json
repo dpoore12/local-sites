@@ -1,0 +1,107 @@
+{
+ "niche": "roof cleaning",
+ "city": "Homestead",
+ "state": "FL",
+ "pop": 64079,
+ "vol": 90,
+ "cpc": 49.44,
+ "lead_value": 4450,
+ "query": "roof cleaning homestead",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 18,
+ "top5_pages_min": 6,
+ "top10_pages_med": 39,
+ "top10_pages_min": 6,
+ "winner_words_med": 1741,
+ "winners_measured": 4,
+ "score": 95,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/klean-roof-homestead-777019179",
+   "title": "klean roof homestead",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Roof+Cleaning&find_loc=Homestead%2C+FL",
+   "title": "TOP 10 BEST Roof Cleaning in Homestead, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "pressuremanllc.com",
+   "url": "https://pressuremanllc.com/roof-cleaning/",
+   "title": "Roof Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "flpropertycare.com",
+   "url": "https://flpropertycare.com/",
+   "title": "Florida Property Care - Expert Property Services in FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "kleanwaypressurecleaning.com",
+   "url": "https://www.kleanwaypressurecleaning.com/",
+   "title": "Roof Cleaning Service Near Me | Pressure Cleaning Homestead",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/513764449513502/posts/1932090794347520/",
+   "title": "Roof cleaning service in Homestead, FL area",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/homestead/roof-cleaning",
+   "title": "Roof cleaning professionals near Homestead, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/homestead/roof-cleaning.htm",
+   "title": "Top 10 Best Roof cleaners in Homestead, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "superclean305.com",
+   "url": "https://superclean305.com/roof-cleaning-homestead/",
+   "title": "Roof Cleaning Homestead | Pressure Washing Cleaning Miami",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Florida Property Care Llc",
+   "domain": "flpropertycare.com",
+   "rating": 4.9,
+   "reviews": 1000
+  },
+  {
+   "title": "Oasis Wash & Seal",
+   "domain": "oasispropertyimprovements.com",
+   "rating": 5,
+   "reviews": 85
+  },
+  {
+   "title": "Powershine Exterior",
+   "domain": "powershine-exterior.com",
+   "rating": 5,
+   "reviews": 37
+  }
+ ],
+ "fetched": "2026-10-25"
+}

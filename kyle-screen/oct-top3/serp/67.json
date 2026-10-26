@@ -1,0 +1,100 @@
+{
+ "niche": "window tinting",
+ "city": "Conway",
+ "state": "AR",
+ "pop": 63816,
+ "vol": 320,
+ "cpc": 5.79,
+ "lead_value": 1853,
+ "query": "window tinting conway",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 13.0,
+ "top5_pages_min": 11,
+ "top10_pages_med": 13,
+ "top10_pages_min": 11,
+ "winner_words_med": 801,
+ "winners_measured": 2,
+ "score": 72.4,
+ "state_full": "Arkansas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "chriscraincustoms.com",
+   "url": "https://chriscraincustoms.com/",
+   "title": "Chris Crain Customs | Window Tint, Wraps & Detailing",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/319257396527065/posts/1046365230482941/",
+   "title": "What is a good place or person for affordable window tint ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/arkansas-window-tinting-conway",
+   "title": "Arkansas Window Tinting",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "stayshadytinting.net",
+   "url": "https://stayshadytinting.net/",
+   "title": "Stay Shady Tinting \u2014 Window Tinting | Greenbrier, Conway ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/319257396527065/posts/1073513797768084/",
+   "title": "Where to get car windows tinted in Conway, Arkansas?",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Security+Window+Film&find_loc=Conway%2C+AR",
+   "title": "TOP 10 BEST Security Window Film in Conway, AR",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/100063474463316/?locale=es_LA",
+   "title": "Conway Glass Tinting Plus",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/319257396527065/posts/1292551955864266/",
+   "title": "Who offers affordable window tinting in Conway, Arkansas?",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Affordable Window Tinting",
+   "domain": "",
+   "rating": 4.4,
+   "reviews": 79
+  },
+  {
+   "title": "Conway Glass Tinting Plus Inc.",
+   "domain": "conwayglasstinting.net",
+   "rating": 4.7,
+   "reviews": 129
+  },
+  {
+   "title": "Arkansas Window Tinting",
+   "domain": "arwindowtinting.com",
+   "rating": 4.7,
+   "reviews": 413
+  }
+ ],
+ "fetched": "2026-10-25"
+}

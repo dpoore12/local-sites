@@ -1,0 +1,202 @@
+[
+ {
+  "domain": "bentonvilledumpsterrentalpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:15:11Z",
+   "updated_at": "2026-10-25T23:15:22Z",
+   "context": {
+    "domain_name": "bentonvilledumpsterrentalpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/bentonvilledumpsterrentalpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/bentonvilledumpsterrentalpros.com"
+   }
+  }
+ },
+ {
+  "domain": "dryerventcleaningocala.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:15:22Z",
+   "updated_at": "2026-10-25T23:15:32Z",
+   "context": {
+    "domain_name": "dryerventcleaningocala.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/dryerventcleaningocala.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/dryerventcleaningocala.com"
+   }
+  }
+ },
+ {
+  "domain": "mariettaairductcleaningpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:15:33Z",
+   "updated_at": "2026-10-25T23:15:42Z",
+   "context": {
+    "domain_name": "mariettaairductcleaningpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/mariettaairductcleaningpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/mariettaairductcleaningpros.com"
+   }
+  }
+ },
+ {
+  "domain": "windowtintingbradenton.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:15:42Z",
+   "updated_at": "2026-10-25T23:15:51Z",
+   "context": {
+    "domain_name": "windowtintingbradenton.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/windowtintingbradenton.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/windowtintingbradenton.com"
+   }
+  }
+ },
+ {
+  "domain": "wellingtondumpsterrentalpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:15:52Z",
+   "updated_at": "2026-10-25T23:16:01Z",
+   "context": {
+    "domain_name": "wellingtondumpsterrentalpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/wellingtondumpsterrentalpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/wellingtondumpsterrentalpros.com"
+   }
+  }
+ },
+ {
+  "domain": "biloxidumpsterrentalpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:16:01Z",
+   "updated_at": "2026-10-25T23:16:10Z",
+   "context": {
+    "domain_name": "biloxidumpsterrentalpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/biloxidumpsterrentalpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/biloxidumpsterrentalpros.com"
+   }
+  }
+ },
+ {
+  "domain": "schaumburgairductcleaningpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:16:11Z",
+   "updated_at": "2026-10-25T23:16:20Z",
+   "context": {
+    "domain_name": "schaumburgairductcleaningpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/schaumburgairductcleaningpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/schaumburgairductcleaningpros.com"
+   }
+  }
+ },
+ {
+  "domain": "northmiamiseptictankpumpingpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:16:21Z",
+   "updated_at": "2026-10-25T23:16:30Z",
+   "context": {
+    "domain_name": "northmiamiseptictankpumpingpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/northmiamiseptictankpumpingpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/northmiamiseptictankpumpingpros.com"
+   }
+  }
+ },
+ {
+  "domain": "wheatonairductcleaningpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:16:30Z",
+   "updated_at": "2026-10-25T23:16:39Z",
+   "context": {
+    "domain_name": "wheatonairductcleaningpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/wheatonairductcleaningpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/wheatonairductcleaningpros.com"
+   }
+  }
+ },
+ {
+  "domain": "pensacoladumpsterrentalpros.com",
+  "http": "201",
+  "state": "succeeded",
+  "errors": [],
+  "result": {
+   "state": "succeeded",
+   "completed": true,
+   "created_at": "2026-10-25T23:16:39Z",
+   "updated_at": "2026-10-25T23:16:51Z",
+   "context": {
+    "domain_name": "pensacoladumpsterrentalpros.com"
+   },
+   "error": null,
+   "links": {
+    "self": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/pensacoladumpsterrentalpros.com/registration-status",
+    "resource": "/accounts/a3bf1a13d93899d8408b9d1ea94df078/registrar/registrations/pensacoladumpsterrentalpros.com"
+   }
+  }
+ }
+]

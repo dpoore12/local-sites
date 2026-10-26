@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Boynton Beach",
+ "state": "FL",
+ "pop": 71097,
+ "vol": 170,
+ "cpc": 9.57,
+ "lead_value": 1627,
+ "query": "pressure washing boynton beach",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 37,
+ "top5_pages_min": 37,
+ "top10_pages_med": 29,
+ "top10_pages_min": 21,
+ "winner_words_med": 515,
+ "winners_measured": 2,
+ "score": 56.8,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/boynton-beach/pressure-washing",
+   "title": "Power washers near Boynton Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "aceshighpressurecleaning.com",
+   "url": "https://aceshighpressurecleaning.com/",
+   "title": "High Pressure Cleaning Services in the Boynton Beach Area",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "ivanspressurecleaning.com",
+   "url": "https://www.ivanspressurecleaning.com/",
+   "title": "Ivan's Pressure Cleaning - Pressure Cleaning Company ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Boynton+Beach%2C+FL",
+   "title": "THE BEST 10 PRESSURE WASHERS IN BOYNTON ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "aquaforcepressurecleaning.com",
+   "url": "https://aquaforcepressurecleaning.com/",
+   "title": "Roof Cleaning, Pressure Cleaning & Paver Sealing | Palm ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "rhipressurewashing.com",
+   "url": "https://www.rhipressurewashing.com/pressurewashingboynton",
+   "title": "Boynton Beach, FL \u2014 RHI Pressure Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Johnny-Under-Pressure-100064242987033/",
+   "title": "Johnny Under Pressure | Boynton Beach FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/boynton-beach/pressure-washing.htm",
+   "title": "Top 10 Best Pressure washers in Boynton Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "boyntonbeachwindowandpressurewashing.com",
+   "url": "https://boyntonbeachwindowandpressurewashing.com/",
+   "title": "Boynton Beach Window And Pressure Washing",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Johnny Under Pressure Boynton Beach",
+   "domain": "",
+   "rating": 5,
+   "reviews": 262
+  },
+  {
+   "title": "Palm Beach Exterior Pressure Washing",
+   "domain": "palmbeachpressurewasher.com",
+   "rating": 5,
+   "reviews": 124
+  },
+  {
+   "title": "Power Clean Pressure Cleaning",
+   "domain": "flpowerclean.com",
+   "rating": 5,
+   "reviews": 869
+  }
+ ],
+ "fetched": "2026-10-25"
+}

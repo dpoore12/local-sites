@@ -1,0 +1,107 @@
+{
+ "niche": "siding repair",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 70,
+ "cpc": 51.72,
+ "lead_value": 3620,
+ "query": "siding repair marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 141,
+ "top5_pages_min": 110,
+ "top10_pages_med": 153,
+ "top10_pages_min": 110,
+ "winner_words_med": 1212,
+ "winners_measured": 4,
+ "score": 47,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "sidingdepot.com",
+   "url": "https://www.sidingdepot.com/",
+   "title": "Siding Depot: Marietta & North Atlanta James Hardie Siding",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "nelson-exteriors.com",
+   "url": "https://www.nelson-exteriors.com/",
+   "title": "Nelson Exteriors | Siding Contractor & Exteriors Marietta",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "sidingatlanta.com",
+   "url": "https://www.sidingatlanta.com/services/siding-installation-replacement/marietta/",
+   "title": "Siding Replacement Marietta",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "houzz.com",
+   "url": "https://www.houzz.com/professionals/siding-and-exterior/marietta-ga-us-probr0-bo~t_11826~r_4207783",
+   "title": "Best 15 Siding Contractors & Companies in Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "trustdale.com",
+   "url": "https://trustdale.com/home-services/cities/marietta-ga/siding",
+   "title": "Top Residential Siding Companies in Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "drroof.com",
+   "url": "https://www.drroof.com/marietta-ga/siding/",
+   "title": "Marietta, GA Siding Company | Siding Installation",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/siding-contractors",
+   "title": "Siding professionals near Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "impactsidingandroofing.com",
+   "url": "https://impactsidingandroofing.com/",
+   "title": "Roofing Repair, Siding Replacement, Windows & Doors ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "mrrooferatlanta.com",
+   "url": "https://www.mrrooferatlanta.com/blog/siding-replacement-contractors-in-marietta/",
+   "title": "Siding Replacement Contractors in Marietta: What to Look ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Nelson Exteriors",
+   "domain": "nelson-exteriors.com",
+   "rating": 4.8,
+   "reviews": 365
+  },
+  {
+   "title": "Impact Siding and Roofing",
+   "domain": "impactsidingandroofing.com",
+   "rating": 4.9,
+   "reviews": 171
+  },
+  {
+   "title": "Siding Plus",
+   "domain": "sidingplus.com",
+   "rating": 4.8,
+   "reviews": 42
+  }
+ ],
+ "fetched": "2026-10-25"
+}

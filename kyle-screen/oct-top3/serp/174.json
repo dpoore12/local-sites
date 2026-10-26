@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Walnut Creek",
+ "state": "CA",
+ "pop": 66900,
+ "vol": 90,
+ "cpc": 37.63,
+ "lead_value": 3387,
+ "query": "dryer vent cleaning walnut creek",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 6321.5,
+ "top5_pages_min": 1767,
+ "top10_pages_med": 3024,
+ "top10_pages_min": 222,
+ "winner_words_med": 985,
+ "winners_measured": 5,
+ "score": 28,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning&find_loc=Walnut+Creek%2C+CA",
+   "title": "TOP 10 BEST Dryer Vent Cleaning in Walnut Creek, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "dryerventwizard.com",
+   "url": "https://www.dryerventwizard.com/locations/sacramento/geo/walnut-creek-ca",
+   "title": "Dryer Vent Cleaning, Repair & Installation in Walnut Creek",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "coit.com",
+   "url": "https://www.coit.com/bay-area/walnut-creek",
+   "title": "Cleaning Services in Walnut Creek, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "homesafedryerventsac.com",
+   "url": "https://www.homesafedryerventsac.com/ventilation-system-cleaning/walnut-creek-ca/",
+   "title": "Ventilation Cleaning Services Walnut Creek, CA | HomeSafe",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "diamondcertified.org",
+   "url": "https://www.diamondcertified.org/category/air-duct-cleaning/ca/walnut-creek/",
+   "title": "Top Rated Air Duct Cleaning Contractors for Walnut Creek, ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "hsr.care",
+   "url": "https://www.hsr.care/locations/walnut-creek-ca/",
+   "title": "Professional Air Duct & Vent Cleaning in Walnut Creek, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "oxifresh.com",
+   "url": "https://www.oxifresh.com/locations/ca/walnut-creek-carpet-cleaning/dryer-vent-cleaning-walnut-creek/",
+   "title": "Dryer Vent Cleaning in Walnut Creek, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "cycloneairsystems.com",
+   "url": "https://www.cycloneairsystems.com/index-walnut-creek-ca-dryer-vent-cleaning",
+   "title": "Walnut Creek, CA | $98. - Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ca/walnut-creek/duct-cleaning",
+   "title": "Duct cleaners near Walnut Creek, CA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "The Pro Dryer Vent Cleaners",
+   "domain": "theprodryerventcleaners.xyz",
+   "rating": 5,
+   "reviews": 3
+  },
+  {
+   "title": "Urban Team Dryer and Air Vent",
+   "domain": "sites.google.com",
+   "rating": 5,
+   "reviews": 3
+  },
+  {
+   "title": "Dryer Vent Pros & Air Duct Cleaning",
+   "domain": "dryerventprosdvp.com",
+   "rating": 5,
+   "reviews": 360
+  }
+ ],
+ "fetched": "2026-10-25"
+}

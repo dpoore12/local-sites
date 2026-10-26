@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Conroe",
+ "state": "TX",
+ "pop": 63032,
+ "vol": 260,
+ "cpc": 15.51,
+ "lead_value": 4033,
+ "query": "pressure washing conroe",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 341.5,
+ "top5_pages_min": 12,
+ "top10_pages_med": 154,
+ "top10_pages_min": 12,
+ "winner_words_med": 655,
+ "winners_measured": 3,
+ "score": 53,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "prestigeexteriorcleaning.com",
+   "url": "https://prestigeexteriorcleaning.com/commercial-pressure-washing-service/",
+   "title": "Commercial Pressure Washing Conroe TX | Prestige",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2922899138041094/",
+   "title": "Who power washes houses in Conroe?",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/diamond-pressure-washing-conroe",
+   "title": "DIAMOND PRESSURE WASHING - Conroe, Texas",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "texas-pressurewashing.com",
+   "url": "https://www.texas-pressurewashing.com/pressure-washing-prices-2022b244d1cc/Pressure%20wash%20pricing%20Conroe",
+   "title": "Pressure Washing Prices In Conroe 2022",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/allthingsthewoodlands/posts/663564523349315/",
+   "title": "Pressure Washing Services in Conroe, TX for Home and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "conroepowerwashing.com",
+   "url": "https://conroepowerwashing.com/our-services/soft-washing/",
+   "title": "Soft Washing - Conroe Power Washing (Ploi)",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/info-225126572-pressure-washing-conroe-conroe/",
+   "title": "Pressure Washing Conroe in Conroe, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/texas/pressure-washing-conroe-380722077",
+   "title": "Pressure Washing Conroe, 310 E Davis St ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/pro-tec-pressure-washing-conroe",
+   "title": "Pro Tec Pressure Washing",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Pressure Washing Conroe",
+   "domain": "pressurewashingconroe.com",
+   "rating": 5,
+   "reviews": 8
+  },
+  {
+   "title": "Conroe Power Washing",
+   "domain": "conroepowerwashing.com",
+   "rating": 5,
+   "reviews": 5
+  },
+  {
+   "title": "TRC Pressure Washing LLC",
+   "domain": "trcpressurewash.com",
+   "rating": 5,
+   "reviews": 196
+  }
+ ],
+ "fetched": "2026-10-25"
+}

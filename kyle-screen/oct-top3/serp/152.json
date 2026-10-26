@@ -1,0 +1,114 @@
+{
+ "niche": "epoxy garage floor",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 140,
+ "cpc": 12.2,
+ "lead_value": 1708,
+ "query": "epoxy garage floor sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 201.0,
+ "top5_pages_min": 31,
+ "top10_pages_med": 766,
+ "top10_pages_min": 31,
+ "winner_words_med": 3053,
+ "winners_measured": 6,
+ "score": 38.4,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/sarasota/epoxy-flooring.htm",
+   "title": "Top 10 Best Epoxy flooring pros in Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "garagefloorepoxy.org",
+   "url": "https://www.garagefloorepoxy.org/services",
+   "title": "Concrete Flooring in Sarasota, FL | Epoxy Floor Coatings",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "rhinoepoxycoating.com",
+   "url": "https://rhinoepoxycoating.com/service-areas/sarasota-county/",
+   "title": "Premier Epoxy Floor Coatings in Sarasota County, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/sarasota/concrete-floor-coating-installation",
+   "title": "Concrete floor coating installers near Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/299995403430782/posts/4769539546476323/",
+   "title": "looking for a good company to do epoxy coating on garage ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "garageexperts.com",
+   "url": "https://www.garageexperts.com/sarasota-fl/venice/residential-epoxy-flooring/",
+   "title": "Residential Epoxy & Polyaspartic Flooring in Venice, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "sharkfloorcoatings.com",
+   "url": "https://sharkfloorcoatings.com/areas-served/sarasota-fl/",
+   "title": "Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Epoxy+Coating&find_loc=Sarasota%2C+FL",
+   "title": "TOP 10 BEST Epoxy Coating in Sarasota, FL - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "sarasotaresidentialpainting.com",
+   "url": "https://www.sarasotaresidentialpainting.com/garage-floor-coating",
+   "title": "Garage Floor Coating",
+   "kind": "site"
+  },
+  {
+   "pos": 10,
+   "domain": "garagefloorepoxy.org",
+   "url": "https://www.garagefloorepoxy.org/about-us",
+   "title": "Epoxy Flooring Company in Sarasota",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "EVERLAST REFINISHING",
+   "domain": "everlastrefinishing.com",
+   "rating": 5,
+   "reviews": 126
+  },
+  {
+   "title": "Prime Resin Coatings",
+   "domain": "primeresinfl.com",
+   "rating": 4.9,
+   "reviews": 67
+  },
+  {
+   "title": "Epoxy Pro Solutions",
+   "domain": "epoxyprosolutions.com",
+   "rating": 4.9,
+   "reviews": 118
+  }
+ ],
+ "fetched": "2026-10-25"
+}

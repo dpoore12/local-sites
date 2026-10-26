@@ -1,0 +1,107 @@
+{
+ "niche": "auto glass repair",
+ "city": "Petaluma",
+ "state": "CA",
+ "pop": 59440,
+ "vol": 110,
+ "cpc": 22.58,
+ "lead_value": 2484,
+ "query": "auto glass repair petaluma",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 104,
+ "top5_pages_min": 6,
+ "top10_pages_med": 493,
+ "top10_pages_min": 6,
+ "winner_words_med": 371,
+ "winners_measured": 5,
+ "score": 67.6,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "nielsonglass.com",
+   "url": "https://nielsonglass.com/",
+   "title": "Window Installation & Glass Shower Doors - Nielson Glass ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/petaluma-ca/safelite",
+   "title": "Safelite Locations & Hours Near Petaluma, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/petaluma-ca/mip/reliable-glass-458151767",
+   "title": "Reliable Glass - Petaluma, CA 94952",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/adams-glass-and-repair-petaluma-3",
+   "title": "ADAM'S GLASS AND REPAIR - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "novatoglassinc.com",
+   "url": "https://www.novatoglassinc.com/petaluma-ca",
+   "title": "Petaluma Glass Company | Windows | Shower Doors",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/info-226765272-auto-glass-petaluma-petaluma/",
+   "title": "Auto Glass Petaluma in Petaluma, CA \u2013 Reviews, Hours, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "sonomacountyautoglass.com",
+   "url": "https://www.sonomacountyautoglass.com/windshield-repair-petaluma",
+   "title": "Mobile Windshield Repair in Petaluma, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/dassow-glass-petaluma",
+   "title": "DASSOW GLASS - Updated October 2026 - Petaluma, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/windshield-brother-387528547",
+   "title": "Windshield Brother, 400 Yolanda Ave, Santa Rosa, CA ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Adam's Glass and Repair",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Redwood Glass Co",
+   "domain": "redwoodglassco.com",
+   "rating": 4.9,
+   "reviews": 41
+  },
+  {
+   "title": "Specialized Automotive Window Tint & Detail",
+   "domain": "specializedautomotive.christian-di-7091.chatgpt.site",
+   "rating": 4.9,
+   "reviews": 82
+  }
+ ],
+ "fetched": "2026-10-25"
+}

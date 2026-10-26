@@ -1,0 +1,321 @@
+{
+  "domain": "schaumburgairductcleaningpros.com",
+  "phase": 2,
+  "brand": "Schaumburg Air Duct Cleaning Pros",
+  "service": "Air Duct Cleaning",
+  "service_inline": "air duct cleaning",
+  "vertical": "home",
+  "entity_noun": "duct cleaning contractor",
+  "city": "Schaumburg",
+  "state": "IL",
+  "state_full": "Illinois",
+  "counties": [
+    "Cook"
+  ],
+  "area_codes": [
+    "847",
+    "224"
+  ],
+  "phone_display": "(224) 524-0789",
+  "phone_tel": "+12245240789",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845303944644351). In 224, the overlay on the 847 northwest suburbs. Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "weathersfield_build_out",
+      "title": "A farm village of 130 became a suburb in thirty years",
+      "claim": "Schaumburg incorporated in 1956 with about 130 residents. Alfred Campanelli began building the Weathersfield subdivision in 1959, and it eventually grew to more than 6,800 housing units. The census counted 986 people in the village in 1960, 18,724 in 1970, 53,305 in 1980 and 68,586 in 1990. Campanelli's Weathersfield homes included radiantly heated, hydronic houses built around a York-Heat boiler system.",
+      "why_it_matters": "Most of Schaumburg's houses went up between 1960 and 1990, so the duct system in a typical house here is often thirty-five to sixty-plus years old, with original returns and joints that have had decades to loosen. And in a Weathersfield house that was built with hot-water heat, any ducts may be a later addition for central air or a conversion, which changes what a cleaning involves.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Schaumburg,_Illinois",
+        "https://en.wikipedia.org/wiki/Alfred_Campanelli",
+        "https://heatinghelp.com/systems-help-center/campanelli-system/"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "ohare_heating_normals",
+      "title": "Nearly 6,000 heating degree days a year at O'Hare",
+      "claim": "The National Weather Service's 1991-2020 climate normals for Chicago O'Hare, the official station a short drive east of Schaumburg, put annual heating degree days at 5,974 against 1,003 cooling degree days. January is the coldest month, averaging 25.2 degrees with a normal high of 31.6 and a low of 18.8, and 1,234 heating degree days in that month alone. Normal annual snowfall is 38.4 inches.",
+      "why_it_matters": "Heating outweighs cooling here roughly six to one, so the furnace blower moves air through the ducts for most of October to April. Dust collects on the blower wheel and the heat exchanger over a winter, which is why the first cold night brings a burning-dust smell and why spring or early fall is the sensible time to clean.",
+      "sources": [
+        "https://www.weather.gov/lot/Chicago_normals"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "illinois_home_repair_act",
+      "title": "Illinois puts home repair over $1,000 in writing",
+      "claim": "The Illinois Home Repair and Remodeling Act (815 ILCS 513) defines home repair broadly and leaves out only maintenance, service or repairs under $500. Before starting work over $1,000, a contractor must furnish a written contract or work order for signature stating the total cost, including parts and materials listed with reasonable particularity and any charge for an estimate, plus the business name and address. For any contract the contractor must hand over the pamphlet Home Repair: Know Your Consumer Rights, and over $1,000 the homeowner signs a Consumer Rights Acknowledgment Form.",
+      "why_it_matters": "The duct cleaning complaint that shows up again and again is the small advertised price that grows into a large bill once the crew is inside. Asking for the whole scope and total on paper before anything is opened is what this statute is built around, and it costs nothing to ask.",
+      "sources": [
+        "https://codes.findlaw.com/il/chapter-815-business-transactions/il-st-sect-815-513-10/",
+        "https://codes.findlaw.com/il/chapter-815-business-transactions/il-st-sect-815-513-15/",
+        "https://codes.findlaw.com/il/chapter-815-business-transactions/il-st-sect-815-513-20/"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "nicor_duct_sealing_2026",
+      "title": "Nicor Gas pays toward duct sealing in 2026",
+      "claim": "The Nicor Gas Energy Efficiency Program's seal-and-insulate offer runs from 1 January to 31 December 2026 and includes a duct sealing rebate of $600 per home, alongside rebates for air sealing and attic and wall insulation. All work must be done by a program-approved contractor, the rebate comes off the contractor's final invoice, and eligibility can vary by project. Nicor Gas, which serves 656 communities across northern Illinois, lists Schaumburg among its regional offices.",
+      "why_it_matters": "Cleaning removes dust; it does not close the gaps in basement and attic ductwork that let dust in and heat out. If a duct inspection turns up loose joints or open seams, sealing them through an approved contractor may come with money back, so check eligibility before paying for the work outright.",
+      "sources": [
+        "https://www.nicorgas.com/content/dam/southern-co-gas/nicor-gas/docs/energy-efficiency/residential/20251217-asi-residential-fact-sheet.pdf",
+        "https://www.nicorgas.com/content/dam/southern-co-gas/nicor-gas/docs/company/nicor-gas-2024-at-a-glance-factsheet.pdf"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Weathersfield",
+    "Lexington Village",
+    "Timbercrest Woods",
+    "Olde Schaumburg",
+    "Sheffield Ridge",
+    "Kingsport Village"
+  ],
+  "symptoms": [
+    "burning_dust_smell_first_heat",
+    "drywall_dust_after_remodel",
+    "dryer_lint_smell_slow_drying",
+    "debris_or_droppings_at_returns"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Furnace to Last Register, Total in Writing",
+  "trust_third": "Scope and total on paper before anything is opened",
+  "services": [
+    {
+      "slug": "air-duct-cleaning",
+      "name": "Air Duct Cleaning",
+      "nav": "Duct cleaning",
+      "h1": "Air Duct Cleaning",
+      "accent": "Every Run Back to the Furnace",
+      "photo": "assets/work-1.jpg",
+      "keyword": "air duct cleaning Schaumburg",
+      "icon": "search"
+    },
+    {
+      "slug": "furnace-blower-cleaning",
+      "name": "Furnace and Blower Cleaning",
+      "nav": "Furnace cleaning",
+      "h1": "Furnace and Blower Cleaning",
+      "accent": "Before the First Cold Night",
+      "photo": "assets/work-2.jpg",
+      "keyword": "furnace cleaning Schaumburg",
+      "icon": "gear"
+    },
+    {
+      "slug": "dryer-vent-cleaning",
+      "name": "Dryer Vent Cleaning",
+      "nav": "Dryer vents",
+      "h1": "Dryer Vent Cleaning",
+      "accent": "Lint Out, Hood Clear of Snow",
+      "photo": "assets/work-3.jpg",
+      "keyword": "dryer vent cleaning Schaumburg",
+      "icon": "warn"
+    },
+    {
+      "slug": "post-renovation-duct-cleaning",
+      "name": "Post-Renovation Duct Cleaning",
+      "nav": "After a remodel",
+      "h1": "Post-Renovation Duct Cleaning",
+      "accent": "Drywall Dust Out of the System",
+      "photo": "assets/hero.jpg",
+      "keyword": "duct cleaning after renovation Schaumburg",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "furnace-blower-cleaning",
+    "post-renovation-duct-cleaning",
+    "dryer-vent-cleaning",
+    "air-duct-cleaning"
+  ],
+  "_market": {
+    "keyword": "air duct cleaning schaumburg",
+    "monthly_price": 800,
+    "volume": 260,
+    "cpc_usd": 32.1,
+    "weakest_competitor": "organic #1 staronductcleaning.com is DR 0.7 and #2 cleanairwerks.com is DR 0, neither publishing prices; #3 is a Yelp directory page; top map-pack listing carries 422 reviews",
+    "competitor_dr": 0.0,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What duct, furnace and vent work runs around Schaumburg",
+    "anchors": [
+      {
+        "label": "Typical cost per heating and cooling system",
+        "value": "$450 to $1,000",
+        "detail": "The EPA's own guidance gives this as the usual range per system, though not always, moving with the size of the system and how contaminated it is. Posted Chicagoland per-furnace prices start below it.",
+        "source_name": "US EPA, Should You Have the Air Ducts in Your Home Cleaned?",
+        "source_url": "https://www.epa.gov/indoor-air-quality-iaq/should-you-have-air-ducts-your-home-cleaned"
+      },
+      {
+        "label": "Illinois written-contract threshold",
+        "value": "Over $1,000",
+        "detail": "Under 815 ILCS 513/15 a contractor must furnish a written contract or work order stating the total cost, with parts and materials itemized, before starting home repair work over $1,000. The state pamphlet is required for any contract.",
+        "source_name": "Illinois Home Repair and Remodeling Act, 815 ILCS 513/15, via FindLaw",
+        "source_url": "https://codes.findlaw.com/il/chapter-815-business-transactions/il-st-sect-815-513-15/"
+      },
+      {
+        "label": "Heating degree days, normal year at O'Hare",
+        "value": "5,974",
+        "detail": "NWS 1991-2020 normals, against 1,003 cooling degree days. The furnace blower carries most of the year's air through a Schaumburg duct system, and its wheel is often the dirtiest part of the job.",
+        "source_name": "National Weather Service Chicago, O'Hare 1991-2020 normals",
+        "source_url": "https://www.weather.gov/lot/Chicago_normals"
+      },
+      {
+        "label": "Nicor Gas duct sealing rebate, 2026",
+        "value": "$600 per home",
+        "detail": "Paid through a program-approved contractor and taken off the final invoice, with eligibility varying by project. Sealing is a separate job from cleaning, but the same inspection usually finds the leaks.",
+        "source_name": "Nicor Gas Energy Efficiency Program, 2026 seal and insulate fact sheet",
+        "source_url": "https://www.nicorgas.com/content/dam/southern-co-gas/nicor-gas/docs/energy-efficiency/residential/20251217-asi-residential-fact-sheet.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Whole-system duct cleaning, one furnace, supply and return runs and main trunk lines",
+        "low": 299,
+        "high": 1000,
+        "basis": "per system",
+        "note": "Four Chicagoland operators post per-furnace prices across this band, two naming Schaumburg. Check that returns and trunk lines are included.",
+        "sources": [
+          {
+            "name": "Fireplace and Chimney Authority, Elmhurst, posted per-furnace price, Bartlett page, read 2026-10-25",
+            "url": "https://fireplaceandchimneyauthority.com/air-duct-cleaning/bartlett/"
+          },
+          {
+            "name": "Top Air Solutions, Glenview, posted per-furnace packages, serves Schaumburg, read 2026-10-25",
+            "url": "https://www.topairhvac.com/air-duct-cleaning/"
+          },
+          {
+            "name": "Air Fresh Chicago, Northbrook, posted per-furnace prices, read 2026-10-25",
+            "url": "https://airfreshchicago.com/services/air-duct-cleaning-chicago/"
+          },
+          {
+            "name": "Four Seasons Heating and Cooling, Chicago metro duct cleaning cost article, 2026-09-09",
+            "url": "https://www.fourseasonsheatingcooling.com/blog/average-duct-cleaning-cost-chicago/"
+          }
+        ]
+      },
+      {
+        "job": "Each additional furnace system cleaned on the same visit",
+        "low": 299,
+        "high": 400,
+        "basis": "per system",
+        "note": "One list goes from $550 for one furnace to $950 for two; others price each furnace as its own system.",
+        "sources": [
+          {
+            "name": "Air Fresh Chicago, Northbrook, one, two and three furnace prices",
+            "url": "https://airfreshchicago.com/services/air-duct-cleaning-chicago/"
+          },
+          {
+            "name": "Fireplace and Chimney Authority, Elmhurst, homes with two or more furnaces quoted per furnace",
+            "url": "https://fireplaceandchimneyauthority.com/air-duct-cleaning/bartlett/"
+          },
+          {
+            "name": "Top Air Solutions, Glenview, prices set per furnace system",
+            "url": "https://www.topairhvac.com/air-duct-cleaning/"
+          }
+        ]
+      },
+      {
+        "job": "Per-opening pricing, each supply register or return grille",
+        "low": 11,
+        "high": 75,
+        "basis": "per opening",
+        "note": "An Elgin-area list posts $10.95 an opening plus $39.95 per trunk line; national 2026 figures run $25 to $50, returns higher.",
+        "sources": [
+          {
+            "name": "Green Clean Carpet and Air Duct, Elgin and Schaumburg, posted per-opening and trunk-line rates, read 2026-10-25",
+            "url": "https://www.greencleancarpetcleaning.net/air-duct-cleaning/"
+          },
+          {
+            "name": "Housecall Pro, 2026 duct cleaning price guide, per vent and per return",
+            "url": "https://www.housecallpro.com/resources/duct-cleaning-prices/"
+          }
+        ]
+      },
+      {
+        "job": "Dryer vent cleaning, side-wall or roof termination",
+        "low": 100,
+        "high": 300,
+        "basis": "per visit",
+        "note": "Two companies serving Schaumburg post $149 flat. Roof runs and bird nests push other quotes toward the top.",
+        "sources": [
+          {
+            "name": "Top Air Solutions, Glenview, dryer vent cleaning cost article, 2026-08-30",
+            "url": "https://www.topairhvac.com/dryer-vent-cleaning-cost/"
+          },
+          {
+            "name": "Cleaning Wizard, Chicago, posted price list, serves Schaumburg, read 2026-10-25",
+            "url": "https://cleaningwizard.org/pricing/"
+          },
+          {
+            "name": "Housecall Pro, 2026 duct cleaning price guide, dryer vent by location",
+            "url": "https://www.housecallpro.com/resources/duct-cleaning-prices/"
+          }
+        ]
+      },
+      {
+        "job": "Furnace blower, heat exchanger and coil cleaning added to a duct job",
+        "low": 60,
+        "high": 150,
+        "basis": "added",
+        "note": "The blower wheel is often the dirtiest part of a Chicago-area system. Ask whether it is in the base price.",
+        "sources": [
+          {
+            "name": "Four Seasons Heating and Cooling, Chicago metro cost article, furnace component cleaning",
+            "url": "https://www.fourseasonsheatingcooling.com/blog/average-duct-cleaning-cost-chicago/"
+          },
+          {
+            "name": "Cleaning Wizard, Chicago, posted coil and HVAC system cleaning prices",
+            "url": "https://cleaningwizard.org/pricing/"
+          },
+          {
+            "name": "Housecall Pro, 2026 duct cleaning price guide, furnace cleaning add-on",
+            "url": "https://www.housecallpro.com/resources/duct-cleaning-prices/"
+          }
+        ]
+      },
+      {
+        "job": "Condo or small townhouse with one small system",
+        "low": 349,
+        "high": 840,
+        "basis": "per system",
+        "note": "Small units often hit a company's minimum charge. A Chicago metro estimate for a 1,000 square foot condo tops out near $840.",
+        "sources": [
+          {
+            "name": "Green Clean Carpet and Air Duct, Elgin and Schaumburg, posted minimum for condos and small homes",
+            "url": "https://www.greencleancarpetcleaning.net/air-duct-cleaning/"
+          },
+          {
+            "name": "Cleaning Wizard, Chicago, posted single-service air duct cleaning price",
+            "url": "https://cleaningwizard.org/pricing/"
+          },
+          {
+            "name": "Four Seasons Heating and Cooling, Chicago metro cost article, condo and apartment band",
+            "url": "https://www.fourseasonsheatingcooling.com/blog/average-duct-cleaning-cost-chicago/"
+          }
+        ]
+      }
+    ]
+  }
+}

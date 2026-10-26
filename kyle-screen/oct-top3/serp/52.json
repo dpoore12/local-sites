@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Manassas",
+ "state": "VA",
+ "pop": 41705,
+ "vol": 90,
+ "cpc": 20.45,
+ "lead_value": 1840,
+ "query": "chimney sweep manassas",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 3.0,
+ "top5_pages_min": 1,
+ "top10_pages_med": 3,
+ "top10_pages_min": 1,
+ "winner_words_med": 815,
+ "winners_measured": 2,
+ "score": 78.3,
+ "state_full": "Virginia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "chimchimchureemasonry.com",
+   "url": "https://www.chimchimchureemasonry.com/",
+   "title": "500",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "helpmychimney.com",
+   "url": "https://helpmychimney.com/contact/",
+   "title": "Contact - Manassas, VA | America One Chimney Sweeps",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=fireplace&find_loc=Manassas%2C+VA+20110",
+   "title": "THE BEST 10 FIREPLACE SERVICES NEAR MANASSAS ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/ourmanassastalk/posts/1033908004573899/",
+   "title": "What chimney services are recommended for fireplace ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/virginia/royalty-chimney-sweep-repair-543574181",
+   "title": "Royalty Chimney Sweep & Repair, Manassas, VA 20115, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "manassaschimneysweep.us",
+   "url": "https://www.manassaschimneysweep.us/chimney-flashing-repair-manassas-va",
+   "title": "Manassas Chimney Flashing Repair (571) 427-4590 Call us",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/va/manassas/category/chimney-sweeper",
+   "title": "Chimney Sweeper near Manassas, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/virginia/ashmasters-chimney-service-2497271",
+   "title": "Ashmasters Chimney Service, 11708 Lakeway Dr, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "manassaschimneysweep.us",
+   "url": "https://www.manassaschimneysweep.us/chimney-inspection-manassas-va",
+   "title": "Manassas Chimney Inspection (571) 427-4590 Call us",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Winston's Chimney Service",
+   "domain": "winstonsservices.com",
+   "rating": 4.9,
+   "reviews": 785
+  },
+  {
+   "title": "Chim-Chim Churee Chimney & Masonry",
+   "domain": "chimchimchureemasonry.com",
+   "rating": 4.9,
+   "reviews": 664
+  },
+  {
+   "title": "A&T Chimney Sweeps",
+   "domain": "atchimneysweeps.com",
+   "rating": 4.8,
+   "reviews": 26
+  }
+ ],
+ "fetched": "2026-10-25"
+}

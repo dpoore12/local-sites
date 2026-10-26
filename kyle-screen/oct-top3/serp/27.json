@@ -1,0 +1,107 @@
+{
+ "niche": "roof cleaning",
+ "city": "Olympia",
+ "state": "WA",
+ "pop": 48338,
+ "vol": 140,
+ "cpc": 15.71,
+ "lead_value": 2199,
+ "query": "roof cleaning olympia",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 23.5,
+ "top5_pages_min": 23,
+ "top10_pages_med": 24,
+ "top10_pages_min": 23,
+ "winner_words_med": 768,
+ "winners_measured": 3,
+ "score": 87.7,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/3095425464093996/posts/3614873892149148/",
+   "title": "What is a reasonable price for roof cleaning in Olympia?",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "olympiamossremoval.com",
+   "url": "https://www.olympiamossremoval.com/",
+   "title": "Olympia Moss Removal and Gutter Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Roof+Cleaning&find_loc=Olympia%2C+WA",
+   "title": "TOP 10 BEST Roof Cleaning in Olympia, WA - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/olympia/comments/1c1yo9x/less_toxic_roof_cleaning_recs/",
+   "title": "Less toxic roof cleaning recs : r/olympia",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "northwestroofdefense.com",
+   "url": "https://northwestroofdefense.com/",
+   "title": "Northwest Roof Defense: Roof Cleaning Olympia WA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "beyondroofcleaning.com",
+   "url": "https://www.beyondroofcleaning.com/",
+   "title": "Beyond Roof Cleaning in Olympia",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/wa/olympia/roof-cleaning",
+   "title": "The 10 Best Roof Cleaning Services in Olympia, WA 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "zachspowerwashing.com",
+   "url": "https://zachspowerwashing.com/",
+   "title": "Pressure Washing Olympia WA | Roof Cleaning Tumwater ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "ghbwindowcleaning.com",
+   "url": "https://ghbwindowcleaning.com/olympia-roof-cleaning",
+   "title": "Best Roof Cleaning & Moss Removal in Olympia, WA",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bayside Exterior Cleaning",
+   "domain": "baysideexteriorcleaning.com",
+   "rating": 5,
+   "reviews": 432
+  },
+  {
+   "title": "Northwest Roof Defense",
+   "domain": "northwestroofdefense.com",
+   "rating": 5,
+   "reviews": 82
+  },
+  {
+   "title": "Olympia Moss Removal",
+   "domain": "olympiamossremoval.com",
+   "rating": 5,
+   "reviews": 61
+  }
+ ],
+ "fetched": "2026-10-25"
+}

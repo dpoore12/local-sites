@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Lake Charles",
+ "state": "LA",
+ "pop": 74024,
+ "vol": 390,
+ "cpc": 6.67,
+ "lead_value": 2601,
+ "query": "window tinting lake charles",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 305.0,
+ "top5_pages_min": 28,
+ "top10_pages_med": 28,
+ "top10_pages_min": 6,
+ "winner_words_med": 556,
+ "winners_measured": 3,
+ "score": 45.3,
+ "state_full": "Louisiana",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Elite-Window-Tinting-LLC-100063802162423/",
+   "title": "Elite Window Tinting, LLC | Lake Charles LA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "vexwindowtint.com",
+   "url": "https://www.vexwindowtint.com/",
+   "title": "Vex Window Tint | Enhance Your Space Today",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Lake+Charles%2C+LA",
+   "title": "THE BEST 10 CAR WINDOW TINTING IN LAKE CHARLES ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "protechaudio.net",
+   "url": "https://www.protechaudio.net/window-tinting/",
+   "title": "Window Tinting - Lake Charles - ProTech Audio",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "sleekgeek337.com",
+   "url": "https://www.sleekgeek337.com/",
+   "title": "Window Tinting & Detailing Services | Sleek Geek LLC ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "tropictinting.com",
+   "url": "https://tropictinting.com/",
+   "title": "Home | Tropic Tint - Auto, Residential, Commercial Tinting",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/lakecharlesnews/posts/2684596295208187/",
+   "title": "Best window tint shop in Lake Charles, LA?",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "coastaltintla.com",
+   "url": "https://coastaltintla.com/",
+   "title": "Window Tinting Lake Charles, LA | Coastal Tint LLC | Auto ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "lakecharlestoyota.com",
+   "url": "https://www.lakecharlestoyota.com/lct-customs/window-tint/",
+   "title": "Window Tint in Lake Charles",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "VEX Window Tint",
+   "domain": "vexwindowtint.com",
+   "rating": 5,
+   "reviews": 198
+  },
+  {
+   "title": "Elite Window Tinting",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 169
+  },
+  {
+   "title": "Tropic Tint",
+   "domain": "tropictinting.com",
+   "rating": 4.5,
+   "reviews": 31
+  }
+ ],
+ "fetched": "2026-10-25"
+}

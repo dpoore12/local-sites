@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Castle Rock",
+ "state": "CO",
+ "pop": 53063,
+ "vol": 210,
+ "cpc": 30.29,
+ "lead_value": 6361,
+ "query": "junk removal castle rock",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 62,
+ "top5_pages_min": 25,
+ "top10_pages_med": 62,
+ "top10_pages_min": 25,
+ "winner_words_med": 708,
+ "winners_measured": 3,
+ "score": 78,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/co/castle-rock/trash-pickup-castle-rock-co",
+   "title": "Trash and Recycling Pickup Castle Rock, CO",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/co/castle-rock/trash-removal",
+   "title": "Hauling professionals near Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/everythingcastlerock/posts/2555377828259191/",
+   "title": "Junk removal services needed in Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/jolly-junk-castle-rock-castle-rock-co/",
+   "title": "Jolly Junk - Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "craigslist.org",
+   "url": "https://www.craigslist.org/search/city/castle-rock-co?hub=junk-removal",
+   "title": "junk removal near Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/castle-rock/trash-pickup/?srsltid=AYCX9vL_OAT9wAiPuJrQX9l0-j0oHNGgoftgEsGCkZnyyWqMAZVbZsO3",
+   "title": "Trash Pickup Services in Castle Rock, CO | Removal & ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Furniture+Removal&find_loc=Castle+Rock%2C+CO",
+   "title": "TOP 10 BEST Furniture Removal in Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/574193470703557/posts/1671768687612691/",
+   "title": "Peak Junk Removal services in Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/junk-n-haul-castle-rock",
+   "title": "1199 Auburn Dr, Castle Rock, Colorado - Junk-N-Haul",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Jolly Junk Removal",
+   "domain": "jollyjunk.com",
+   "rating": 4.9,
+   "reviews": 635
+  },
+  {
+   "title": "JCS Junk Removal",
+   "domain": "jcs-junk-removal.com",
+   "rating": 5,
+   "reviews": 30
+  },
+  {
+   "title": "Rocky Mountain Hauling & Removal",
+   "domain": "rockymountainhaul.com",
+   "rating": 4.9,
+   "reviews": 75
+  }
+ ],
+ "fetched": "2026-10-25"
+}

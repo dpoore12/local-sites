@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Bremerton",
+ "state": "WA",
+ "pop": 39056,
+ "vol": 320,
+ "cpc": 23.42,
+ "lead_value": 7494,
+ "query": "junk removal bremerton",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 97,
+ "top5_pages_min": 97,
+ "top10_pages_med": 443,
+ "top10_pages_min": 97,
+ "winner_words_med": 2347,
+ "winners_measured": 2,
+ "score": 58,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/junk-removal-seattle/us04040",
+   "title": "Trusted Junk Removal Services in Bremerton, WA",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Bremerton%2C+WA",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "fwsjunkremoval.org",
+   "url": "http://www.fwsjunkremoval.org/",
+   "title": "Bremerton Forge Junk Removal: Home",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/SecretBremerton/posts/9142447845843939/",
+   "title": "Dumpster or junk removal service for West Bremerton home?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "rjphome4.com",
+   "url": "https://www.rjphome4.com/junk-removal-bremerton",
+   "title": "COUCH/MATTRESS/FURNITURE - junk removal",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "trashtransporterllc.com",
+   "url": "https://trashtransporterllc.com/",
+   "title": "Trash Transporter - Junk removal at Your Disposal in Kitsap, WA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "gotclutterllc.com",
+   "url": "https://gotclutterllc.com/",
+   "title": "Debris Removal in Bremerton, WA - Trash Haulers",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "collegehunkshaulingjunk.com",
+   "url": "https://www.collegehunkshaulingjunk.com/locations/junk-removal/washington/bremerton/",
+   "title": "Junk Removal Companies in Bremerton, WA",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bremerton Forge Junk Removal",
+   "domain": "fwsjunkremoval.org",
+   "rating": 5,
+   "reviews": 62
+  },
+  {
+   "title": "1-800-GOT-JUNK? Bremerton",
+   "domain": "1800gotjunk.com",
+   "rating": 5,
+   "reviews": 552
+  },
+  {
+   "title": "RJP Junk Removal, Yard Waste Removal & Home Services LLC",
+   "domain": "rjphome4.com",
+   "rating": 5,
+   "reviews": 475
+  }
+ ],
+ "fetched": "2026-10-25"
+}

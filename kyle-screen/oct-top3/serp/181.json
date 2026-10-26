@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 210,
+ "cpc": 9.68,
+ "lead_value": 2033,
+ "query": "window tinting boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 1398.5,
+ "top5_pages_min": 94,
+ "top10_pages_med": 1398,
+ "top10_pages_min": 94,
+ "winner_words_med": 1271,
+ "winners_measured": 4,
+ "score": 24.6,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bocatintandaudio.com",
+   "url": "https://www.bocatintandaudio.com/window-tinting-services",
+   "title": "Auto, Residential, & Commercial Window Tinting",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/BocaRaton/comments/nrfa99/best_place_to_get_car_window_tints_in_boca/",
+   "title": "Best place to get car window tints in Boca? : r/BocaRaton",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "thetintteam.com",
+   "url": "https://thetintteam.com/a-comprehensive-guide-for-best-car-window-tinting-in-boca-raton/",
+   "title": "Top-Rated Car Window Tinting in Boca Raton",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "coolvu.com",
+   "url": "https://www.coolvu.com/bocaraton/",
+   "title": "Window Film Installation | Boca Raton, Fl Window Tinting",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Home+Window+Tinting&find_loc=Boca+Raton%2C+FL",
+   "title": "TOP 10 BEST Home Window Tinting in Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/fl/coconut-creek-002/window-tint-near-me-in-hamptons-at-boca-raton-fl-auto-window-tinting-retail-service/",
+   "title": "Window Tint Near Me in Hamptons at Boca Raton, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Florida/Boca_Raton?srsltid=AYCX9vIrCjdlvYAOpUlVUgzkiUkRmGERMsxFdIQilQiGK6DVIe6nbMTb",
+   "title": "XPEL Installers - Boca Raton, Florida - United States",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/BocaTintandTunes/",
+   "title": "Tint and Tunes | Boca Raton FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bocatintandaudio.com",
+   "url": "https://www.bocatintandaudio.com/residential-window-tinting",
+   "title": "Residential Window Tinting in Boca Raton",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Superior Tint Of Boca",
+   "domain": "superiortint.net",
+   "rating": 4.7,
+   "reviews": 464
+  },
+  {
+   "title": "Tint World",
+   "domain": "tintworld.com",
+   "rating": 4.8,
+   "reviews": 370
+  },
+  {
+   "title": "Boca Tint & Audio",
+   "domain": "bocatintandaudio.com",
+   "rating": 4.7,
+   "reviews": 144
+  }
+ ],
+ "fetched": "2026-10-25"
+}

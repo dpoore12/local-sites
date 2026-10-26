@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Canton",
+ "state": "OH",
+ "pop": 72535,
+ "vol": 590,
+ "cpc": 7.81,
+ "lead_value": 4608,
+ "query": "dumpster rental canton",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 53.5,
+ "top5_pages_min": 11,
+ "top10_pages_med": 84,
+ "top10_pages_min": 11,
+ "winner_words_med": 1011,
+ "winners_measured": 5,
+ "score": 67,
+ "state_full": "Ohio",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "cantondumpster.rentals",
+   "url": "https://cantondumpster.rentals/",
+   "title": "Dumpster Rentals in Canton, OH | Affordable Roll-Off Dumpsters",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "kingdumpsters.com",
+   "url": "https://www.kingdumpsters.com/dumpster-rental-canton-oh/",
+   "title": "Dumpster Rental Canton, OHIO | Roll-Off Containers by ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Canton%2C+OH",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN CANTON, OH",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/canton-oh-dumpster-rental-ohio.php",
+   "title": "Roll Off Dumpster Rentals in Canton, OH",
+   "kind": "national"
+  },
+  {
+   "pos": 5,
+   "domain": "whitedumpster.com",
+   "url": "https://www.whitedumpster.com/",
+   "title": "#1 Dumpster Rental Canton OH Has to Offer - Rent a Roll Off ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "cobrarolloff.com",
+   "url": "https://cobrarolloff.com/",
+   "title": "Cobra Roll Off: Dumpster Rental Canton Ohio & Northeast Ohio",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "legacydumpsters.com",
+   "url": "https://legacydumpsters.com/",
+   "title": "Legacy Dumpsters \u2013 Dumpster Rentals",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "dumpstercontrols.io",
+   "url": "https://dumpstercontrols.io/directory/ohio/canton",
+   "title": "Dumpster Rental Companies in Canton, OH",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "vaughnsrefuse.com",
+   "url": "https://vaughnsrefuse.com/",
+   "title": "Vaughns Refuse - Pride in Perfect Service",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "King Dumpsters Canton",
+   "domain": "kingdumpsters.com",
+   "rating": 5,
+   "reviews": 540
+  },
+  {
+   "title": "Canton Dumpster Rentals",
+   "domain": "cantondumpster.rentals",
+   "rating": 4.7,
+   "reviews": 44
+  },
+  {
+   "title": "Bin There Dump That Canton Dumpsters",
+   "domain": "bintheredumpthat.com",
+   "rating": 5,
+   "reviews": 88
+  }
+ ],
+ "fetched": "2026-10-25"
+}

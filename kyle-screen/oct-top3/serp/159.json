@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Palm Beach Gardens",
+ "state": "FL",
+ "pop": 50699,
+ "vol": 90,
+ "cpc": 25.81,
+ "lead_value": 2323,
+ "query": "pressure washing palm beach gardens",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 118.0,
+ "top5_pages_min": 104,
+ "top10_pages_med": 118,
+ "top10_pages_min": 104,
+ "winner_words_med": 434,
+ "winners_measured": 2,
+ "score": 36.5,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/palm-beach-gardens/roof-cleaning.htm",
+   "title": "Top 10 Best Roof cleaners in Palm Beach Gardens, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "southflcleaningexperts.com",
+   "url": "https://www.southflcleaningexperts.com/contact/palm-beach-gardens-fl-pressure-cleaning",
+   "title": "First-Class Palm Beach Gardens Pressure Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "sunshinepressurewashing.com",
+   "url": "https://sunshinepressurewashing.com/",
+   "title": "Sunshine Pressure Washing \u2013 Lake Worth, Palm Beach ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/OliverTwistpressurecleaning/posts/we-look-forward-to-serving-you-with-your-roof-and-pressure-cleaning-needs-please/1715136220614162/",
+   "title": "Roof and pressure cleaning in Palm Beach Gardens",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/oliver-twist-pressure-cleaning-palm-beach-gardens-4",
+   "title": "OLIVER TWIST PRESSURE CLEANING",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/lots-of-pressure-llc-palm-beach-gardens-fl/",
+   "title": "Lots Of Pressure, LLC - Palm Beach Gardens, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "pwpbg.com",
+   "url": "https://pwpbg.com/special-offers/",
+   "title": "Special Offers",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Roof+Cleaning&find_loc=Palm+Beach+Gardens%2C+FL",
+   "title": "TOP 10 BEST Roof Cleaning in Palm Beach Gardens, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/palmbeachpc/",
+   "title": "Palm Beach Pressure Cleaning (@palmbeachpc)",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "J&S Exterior Cleaning Solutions",
+   "domain": "jsexteriorcleaning.com",
+   "rating": 5,
+   "reviews": 297
+  },
+  {
+   "title": "Oliver Twist Pressure Cleaning",
+   "domain": "pwpbg.com",
+   "rating": 5,
+   "reviews": 64
+  },
+  {
+   "title": "Prestige Pressure Services",
+   "domain": "prestigepressureservices.com",
+   "rating": 4.9,
+   "reviews": 50
+  }
+ ],
+ "fetched": "2026-10-25"
+}

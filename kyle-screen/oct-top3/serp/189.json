@@ -1,0 +1,88 @@
+{
+ "niche": "basement waterproofing",
+ "city": "Canton",
+ "state": "OH",
+ "pop": 72535,
+ "vol": 70,
+ "cpc": 30.1,
+ "lead_value": 2107,
+ "query": "basement waterproofing canton",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 819.5,
+ "top5_pages_min": 800,
+ "top10_pages_med": 819,
+ "top10_pages_min": 800,
+ "winner_words_med": 1127,
+ "winners_measured": 2,
+ "score": 14.0,
+ "state_full": "Ohio",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "pioneerbasementsolutions.com",
+   "url": "https://pioneerbasementsolutions.com/",
+   "title": "Pioneer Basement Solutions: Home",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/oh/canton/category/waterproofing-contractors",
+   "title": "Waterproofing Contractors near Canton, OH",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "basementwaterproofingcanton.com",
+   "url": "https://basementwaterproofingcanton.com/",
+   "title": "Basement Waterproofing Canton - Book an Estimate Today!",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "leaktightllc.com",
+   "url": "https://leaktightllc.com/",
+   "title": "Basement Waterproofing Contractor Canton Ohio - LeakTight ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/pioneerbasementsolutionsohio/",
+   "title": "Pioneer Basement Solutions | Canton OH",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "acculevel.com",
+   "url": "https://acculevel.com/canton/services/basement-waterproofing/",
+   "title": "Basement Waterproofing Canton OH | Get Free Estimates ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "arkbasementservices.com",
+   "url": "https://www.arkbasementservices.com/canton-oh-service-areas/",
+   "title": "Our Canton, Ohio Service Areas",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Basement+Waterproofing&find_loc=Canton%2C+OH",
+   "title": "TOP 10 BEST Basement Waterproofing in Canton, OH",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "wekeepyoudry.com",
+   "url": "https://www.wekeepyoudry.com/service-areas/stark-county/canton",
+   "title": "Basement Waterproofing & Foundation Repair in Canton, OH",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

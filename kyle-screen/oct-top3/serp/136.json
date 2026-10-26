@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Melbourne",
+ "state": "FL",
+ "pop": 77508,
+ "vol": 70,
+ "cpc": 33.02,
+ "lead_value": 2311,
+ "query": "dryer vent cleaning melbourne",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 52,
+ "top5_pages_min": 52,
+ "top10_pages_med": 52,
+ "top10_pages_min": 52,
+ "winner_words_med": 734,
+ "winners_measured": 1,
+ "score": 46.4,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/melbourne/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Melbourne, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "abc-cleaninginc.com",
+   "url": "https://abc-cleaninginc.com/melbourne-air-duct-cleaning/",
+   "title": "ABC Cleaning - Air Duct Cleaning Melbourne",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/west-melbourne-fl/dryer-vent-services",
+   "title": "Best Dryer Vent Services in West Melbourne, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "extremeairandheat.com",
+   "url": "https://extremeairandheat.com/services/duct-cleaning",
+   "title": "Duct Cleaning Melbourne FL | Viera, Suntree, Satellite Beach",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/446079748871054/posts/3511194322359566/",
+   "title": "Air Duct Cleaning Services in Melbourne, Florida",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/west-melbourne/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near West Melbourne, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/DestinationBrevard/posts/nates-dryer-vent-cleaning-has-the-ability-to-do-whatever-is-necessary-to-get-you/1593667422801473/",
+   "title": "Nate's Dryer Vent Cleaning has the ability to do whatever is ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/patriot-dryer-vent-cleaning-llc-melbourne-fl/",
+   "title": "Patriot Dryer Vent Cleaning Llc - Melbourne, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "melbournedryerventcleaning.us",
+   "url": "https://www.melbournedryerventcleaning.us/clogged-dryer-vent-cleaning-melbourne-fl",
+   "title": "Melbourne Clogged Dryer Vent Cleaning (321) 398-5008 Call ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Nate's Dryer Vent Cleaning",
+   "domain": "natesdryerventcleaning.com",
+   "rating": 5,
+   "reviews": 2200
+  },
+  {
+   "title": "Space Coast Dryer Vent Cleaning",
+   "domain": "",
+   "rating": 5,
+   "reviews": 156
+  },
+  {
+   "title": "Dryer Vent Cleaning Brevard County LLC",
+   "domain": "floridadryerventservice.com",
+   "rating": 5,
+   "reviews": 246
+  }
+ ],
+ "fetched": "2026-10-25"
+}

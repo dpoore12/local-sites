@@ -1,0 +1,107 @@
+{
+ "niche": "gutter installation",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 90,
+ "cpc": 50.51,
+ "lead_value": 4546,
+ "query": "gutter installation marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 666,
+ "top5_pages_min": 62,
+ "top10_pages_med": 402,
+ "top10_pages_min": 62,
+ "winner_words_med": 1212,
+ "winners_measured": 4,
+ "score": 36,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/gutters/jd-gutters/service/326768338324177086",
+   "title": "J&D Gutters | Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "buckhead-west-atlanta.brothersgutters.com",
+   "url": "https://buckhead-west-atlanta.brothersgutters.com/service-areas/marietta/",
+   "title": "Gutter Installation, Cleaning & Repair in Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/gutter-creations-marietta",
+   "title": "GUTTER CREATIONS - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "garciagutters.com",
+   "url": "https://www.garciagutters.com/marietta-gutters-30060.html",
+   "title": "Garcia Gutters in Marietta, GA 30060",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/seamless-gutter-installer-marietta-ga/",
+   "title": "Seamless Gutter Installer Marietta GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/gutters",
+   "title": "Gutter professionals near Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "404gutters.com",
+   "url": "https://404gutters.com/",
+   "title": "#1 Gutter Installation Company in Marietta | Contact Now !",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "perfectguttercleaning.com",
+   "url": "https://perfectguttercleaning.com/",
+   "title": "Perfect Gutter Cleaning - Gutter Cleaning - Marietta, Georgia",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/marietta-gutter-clean-marietta",
+   "title": "MARIETTA GUTTER CLEAN - Updated October 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "ARC Gutter Cleaning",
+   "domain": "arcguttercleaning.com",
+   "rating": 5,
+   "reviews": 119
+  },
+  {
+   "title": "Aj Gutters Installation Marietta",
+   "domain": "ajguttersllc.com",
+   "rating": 5,
+   "reviews": 48
+  },
+  {
+   "title": "G & N Gutters",
+   "domain": "gandngutters.com",
+   "rating": 5,
+   "reviews": 143
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Littleton",
+ "state": "CO",
+ "pop": 44275,
+ "vol": 1000,
+ "cpc": 6.48,
+ "lead_value": 6480,
+ "query": "window tinting littleton",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 140,
+ "top5_pages_min": 16,
+ "top10_pages_med": 140,
+ "top10_pages_min": 16,
+ "winner_words_med": 1275,
+ "winners_measured": 3,
+ "score": 62,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/co/littleton-101/window-tint-near-me-in-columbine-co-window-tinting-service/",
+   "title": "Window Tint Near Me in Columbine, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Mobile+Auto+Tinting&find_loc=Littleton%2C+CO",
+   "title": "TOP 10 BEST Mobile Auto Tinting in Littleton, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/181170265641109/posts/2078125752612208/",
+   "title": "Car window tint service in West Littleton area",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "tintcrafterssw.com",
+   "url": "https://www.tintcrafterssw.com/contact",
+   "title": "Contact | Littleton, CO | Tint Crafters South West",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Colorado/Littleton?srsltid=AYCX9vKHU4SXEem9t3LXGJADl-GWvSToPnK72GOKpFEFvlkN-vuH6DXz",
+   "title": "XPEL Installers - Littleton, Colorado - United States",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "homewindowtintingdenver.com",
+   "url": "https://homewindowtintingdenver.com/home-window-film-littleton/",
+   "title": "Home Window Film Littleton",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/national-window-tinting-littleton-2",
+   "title": "NATIONAL WINDOW TINTING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/news-media/news-and-press/tint-world-announces-new-location-serving-drivers-in-littleton-colorado/",
+   "title": "Tint World\u00ae announces new location serving drivers in ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "americanautoenhancement.com",
+   "url": "https://www.americanautoenhancement.com/",
+   "title": "American Auto Enhancement | Vehicle Wraps | 6687 South ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Tint World",
+   "domain": "tintworld.com",
+   "rating": 5,
+   "reviews": 246
+  },
+  {
+   "title": "RM Windowtint",
+   "domain": "rmwindowtint.com",
+   "rating": 4.6,
+   "reviews": 107
+  },
+  {
+   "title": "Preference Window Tinting LLC",
+   "domain": "preferencewindowtintingllc.godaddysites.com",
+   "rating": 4.8,
+   "reviews": 196
+  }
+ ],
+ "fetched": "2026-10-25"
+}

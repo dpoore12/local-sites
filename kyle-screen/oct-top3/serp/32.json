@@ -1,0 +1,113 @@
+{
+ "niche": "dumpster rental",
+ "city": "Bradenton",
+ "state": "FL",
+ "pop": 51763,
+ "vol": 480,
+ "cpc": 15.01,
+ "lead_value": 7205,
+ "query": "dumpster rental bradenton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 39,
+ "top5_pages_min": 21,
+ "top10_pages_med": 30,
+ "top10_pages_min": 7,
+ "winner_words_med": 1021,
+ "winners_measured": 4,
+ "score": 84,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "dumpstertoday.com",
+   "url": "https://dumpstertoday.com/locations/bradenton/dumpster-rental-reviews/",
+   "title": "Dumpster Rental Reviews",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "lowes.com",
+   "url": "https://www.lowes.com/store/0772-bradenton-fl/dumpster-rental",
+   "title": "Dumpster Rental in Bradenton, FL, 7395 52ND PLACE EAST",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/justsalesbradentonpalmettoellentonparris/posts/28084966604470484/",
+   "title": "Looking for a large dumpster rental here in Bradenton. Best ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "941dumpsters.com",
+   "url": "https://www.941dumpsters.com/Dumpster_Rentals_Palmetto/",
+   "title": "Palmetto Dumpster Rentals",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Bradenton%2C+FL",
+   "title": "TOP 10 BEST Dumpster Rental in Bradenton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "bradentondumpsterrental.com",
+   "url": "https://bradentondumpsterrental.com/residential-dumpster-rental/roll-off-dumpster-sizes-bradenton-fl/12-yard-dumpsters/",
+   "title": "12-Yard Dumpster Rental Bradenton FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/dumpster-rental-cost-bradenton/?locale=it_IT",
+   "title": "Dumpster Rental Cost Bradenton",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "jimbosdumpsters.com",
+   "url": "https://www.jimbosdumpsters.com/dumpster-rentals/",
+   "title": "Dumpster Rentals Bradenton & Sarasota | Jimbo's",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/dumpster-today-bradenton-485735889",
+   "title": "Dumpster Today Bradenton, 3912 Us-301 N, Ste ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "New Braunfels Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Bradenton Roll-Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Junksta Dumpsters",
+   "domain": "junkstadumpsters.com",
+   "rating": 5,
+   "reviews": 73
+  },
+  {
+   "title": "Curlie Joes        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 159
+  }
+ ],
+ "fetched": "2026-10-25"
+}

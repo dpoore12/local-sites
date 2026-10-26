@@ -1,0 +1,294 @@
+{
+  "domain": "bentonvilledumpsterrentalpros.com",
+  "phase": 2,
+  "brand": "Bentonville Dumpster Rental Pros",
+  "service": "Dumpster Rental",
+  "service_inline": "dumpster rental",
+  "vertical": "home",
+  "pro_noun": "hauler",
+  "entity_noun": "waste hauling company",
+  "city": "Bentonville",
+  "state": "AR",
+  "state_full": "Arkansas",
+  "counties": [
+    "Benton"
+  ],
+  "area_codes": [
+    "479"
+  ],
+  "phone_display": "(479) 415-5328",
+  "phone_tel": "+14794155328",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477). In the market's own area code. Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "district_hauler_license",
+      "title": "Hauling someone else's trash takes a district license",
+      "claim": "The Benton County Solid Waste District states that before anyone hauls waste commercially anywhere in Arkansas they must first obtain a license from the local regional solid waste management district, and that the license covers collecting waste from households or businesses on a temporary or permanent basis, transporting it within or through the district, and disposing of it. The district warns that providing collection service without a hauler license violates Arkansas law and district rules. Licensed haulers file an annual application due December 15 and quarterly reports, including reports on loads taken to transfer stations and to the Eco Vista Landfill.",
+      "why_it_matters": "A roll-off box is solid waste collection under that rule, so the company dropping it in your driveway needs a district license. Asking for it before booking separates an established hauler from a truck that will dump the load somewhere it should not go.",
+      "sources": [
+        "https://www.bentoncountyrecycles.org/waste-haulers"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "right_of_way_permit",
+      "title": "Anything in the street goes through the Street Department",
+      "claim": "The City of Bentonville requires a right-of-way permit at all times during which any work is done upon, in, under, above or about any street, alley, curb, gutter, sidewalk or other public right-of-way in the city. Applications are made online through the city's eTrakit system with a site plan, review takes five business days, a Traffic Management Plan following the MUTCD is required for any closure or detour, and all fees and bonds are paid before the permit issues. The approved permit must be posted where it is visible from the street. The Street Department, at 479-271-3130, administers the permit. The page does not list dumpsters or containers by name.",
+      "why_it_matters": "A box on the driveway or the lot is private property. A box on the street, the curb or the sidewalk is in the right-of-way, so the question goes to the Street Department a week ahead of delivery day, not the morning the truck arrives.",
+      "sources": [
+        "https://www.bentonville.ar.gov/762/Right-of-Way-Permit"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "growth_2024_report",
+      "title": "Fewer permits, bigger houses, a pipeline that doubled",
+      "claim": "Bentonville's 2024 Annual Development Report estimates the city's population at 63,089 on 31 December 2024, up 16 percent from the 54,164 counted in the 2020 Census. The city issued 1,354 building permits in 2024, including 234 residential remodel and addition permits. The average new single-family house permitted grew to 3,115 square feet, up from 2,175 in 2023, and the number of residential units planned rose 92 percent to 2,907.",
+      "why_it_matters": "Bigger houses throw off more framing scrap, drywall and packaging per lot, and nearly three thousand planned units means the job-site dumpster stays a fixture of Bentonville streets. Remodels add a steady second stream of kitchens, baths and floors coming out of existing houses.",
+      "sources": [
+        "https://www.bentonville.ar.gov/DocumentCenter/View/18341/2024-Annual-Development-Report"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "eco_vista_and_special_waste",
+      "title": "One regional landfill, and separate sites for what it refuses",
+      "claim": "Eco-Vista Landfill in Springdale covers 609 acres, including a 147-acre Class 1 municipal solid waste landfill and a 60-acre Class 4 construction and demolition debris landfill. It does not accept hazardous materials, is open to the public 7 a.m. to 3 p.m. on weekdays, and is closed Saturday and Sunday. The Benton County Solid Waste District runs special waste drop-off sites at 5702 Brookside Road in Centerton and 2307 North Arkansas Street in Rogers for furniture, appliances, electronics, metal items, tires and household hazardous materials, with fees and material limits applying.",
+      "why_it_matters": "Construction debris from a Bentonville box has a permitted place to go, and the weekend closure is why a Friday afternoon swap can wait until Monday. Tires, paint, batteries and refrigerant appliances belong at the district's sites, not under a layer of drywall.",
+      "sources": [
+        "https://www.wm.com/us/en/eco-vista-landfill",
+        "https://www.bentoncountyrecycles.org/"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown",
+    "Market District",
+    "Third Street Historic District",
+    "Hidden Springs",
+    "Kensington",
+    "Woods Creek"
+  ],
+  "symptoms": [
+    "framing_scrap_on_the_lot",
+    "kitchen_gut_pile",
+    "house_full_before_closing",
+    "concrete_too_heavy"
+  ],
+  "symptoms_eyebrow": "Common projects",
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "The Right Box, Priced Before the Drop",
+  "trust_third": "Tons, days and price stated before delivery",
+  "services": [
+    {
+      "slug": "new-construction-dumpster-rental",
+      "name": "New Construction Dumpsters",
+      "nav": "New construction",
+      "h1": "New Construction Dumpster Rental",
+      "accent": "Framing Scrap to Final Clean",
+      "photo": "assets/work-1.jpg",
+      "keyword": "construction dumpster rental Bentonville",
+      "icon": "house"
+    },
+    {
+      "slug": "remodeling-dumpster-rental",
+      "name": "Remodeling Dumpsters",
+      "nav": "Remodeling",
+      "h1": "Remodeling Dumpster Rental",
+      "accent": "Kitchens, Baths, Floors and Decks",
+      "photo": "assets/work-2.jpg",
+      "keyword": "remodeling dumpster Bentonville",
+      "icon": "wrench"
+    },
+    {
+      "slug": "cleanout-dumpster-rental",
+      "name": "Cleanout Dumpsters",
+      "nav": "Cleanouts",
+      "h1": "Cleanout Dumpster Rental",
+      "accent": "Estates, Rentals and Move-Outs",
+      "photo": "assets/work-3.jpg",
+      "keyword": "cleanout dumpster Bentonville",
+      "icon": "cal"
+    },
+    {
+      "slug": "concrete-dirt-dumpster-rental",
+      "name": "Concrete and Dirt Dumpsters",
+      "nav": "Concrete and dirt",
+      "h1": "Concrete and Dirt Dumpster Rental",
+      "accent": "Heavy Loads, Small Boxes",
+      "photo": "assets/hero.jpg",
+      "keyword": "concrete dumpster Bentonville",
+      "icon": "ruler"
+    }
+  ],
+  "symptom_service": [
+    "new-construction-dumpster-rental",
+    "remodeling-dumpster-rental",
+    "cleanout-dumpster-rental",
+    "concrete-dirt-dumpster-rental"
+  ],
+  "_market": {
+    "keyword": "dumpster rental bentonville",
+    "monthly_price": 800,
+    "volume": 480,
+    "cpc_usd": 11.81,
+    "weakest_competitor": "dumpsterrentalcrewbentonville.com, organic #2, DR 0: an exact-match rank-and-rent site ranking with its 598-word About page (its price page still mentions 'Twin Cities projects'). #3 is martinsstucco.com (DR 0.3), a stucco contractor; #1 is Angi. Top map listing has 2 reviews.",
+    "competitor_dr": 0.0,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What roll-off dumpsters run around Bentonville",
+    "anchors": [
+      {
+        "label": "Hauler license before collecting anyone's waste",
+        "value": "Required by state law",
+        "detail": "The Benton County Solid Waste District licenses every hauler that collects, transports or disposes of waste for others in the district, and warns that collecting without a license violates Arkansas law and district rules. Applications are due each December 15.",
+        "source_name": "Benton County Solid Waste District, waste haulers page",
+        "source_url": "https://www.bentoncountyrecycles.org/waste-haulers"
+      },
+      {
+        "label": "City right-of-way permit review",
+        "value": "5 business days",
+        "detail": "Work upon or above a Bentonville street, curb, gutter or sidewalk needs a right-of-way permit applied for through eTrakit, with fees and bonds paid before it issues. Closures need a Traffic Management Plan. The Street Department is at 479-271-3130.",
+        "source_name": "City of Bentonville, Right-of-Way Permit",
+        "source_url": "https://www.bentonville.ar.gov/762/Right-of-Way-Permit"
+      },
+      {
+        "label": "Construction and demolition landfill, Springdale",
+        "value": "60 acres, weekdays only",
+        "detail": "Eco-Vista's Class 4 cell takes construction and demolition debris beside its 147-acre Class 1 landfill. No hazardous materials. Public hours are 7 a.m. to 3 p.m., Monday through Friday, and pricing is given at the scale house rather than posted.",
+        "source_name": "WM, Eco-Vista Landfill",
+        "source_url": "https://www.wm.com/us/en/eco-vista-landfill"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Small box, 8 to 11 yards, one week, one to one and a half tons included",
+        "low": 340,
+        "high": 375,
+        "basis": "flat",
+        "note": "Right for one bathroom, a closet-and-garage purge, or a small load of concrete filled only part way.",
+        "sources": [
+          {
+            "name": "A&L Dumpster Rental, Gentry, posted 8- and 11-yard prices with Bentonville in its service area, read 2026-10-25",
+            "url": "https://aldumpstersrental.com/"
+          },
+          {
+            "name": "Ozark Dumpster Service, Springdale and Bentonville, posted 10-yard price, read 2026-10-25",
+            "url": "https://www.ozarkdumpsterservice.com/"
+          }
+        ]
+      },
+      {
+        "job": "15-yard box, one week, about two tons included",
+        "low": 399,
+        "high": 440,
+        "basis": "flat",
+        "note": "A kitchen or a single-room flooring job. Tile and plaster push it toward the weight limit before it looks full.",
+        "sources": [
+          {
+            "name": "Arkansas Waste Solutions, posted 15-yard starting price, Bentonville served, read 2026-10-25",
+            "url": "https://www.yourlocaldumpster.com/"
+          },
+          {
+            "name": "A&L Dumpster Rental, Gentry, posted 15-yard price, read 2026-10-25",
+            "url": "https://aldumpstersrental.com/"
+          },
+          {
+            "name": "Ozark Dumpster Service, Springdale and Bentonville, posted 15-yard price, read 2026-10-25",
+            "url": "https://www.ozarkdumpsterservice.com/"
+          }
+        ]
+      },
+      {
+        "job": "20-yard box, three tons included",
+        "low": 459,
+        "high": 515,
+        "basis": "flat",
+        "note": "The most-rented size. Most posted rates cover seven days; one Benton and Washington County hauler posts fourteen.",
+        "sources": [
+          {
+            "name": "Arkansas Waste Solutions, 20-yard listing, read 2026-10-25",
+            "url": "https://www.yourlocaldumpster.com/items/20_yard_dumpster_rental/"
+          },
+          {
+            "name": "Mann's Waste Solutions, Benton and Washington counties, 20-yard starting price, read 2026-10-25",
+            "url": "https://mannswastesolutions.com/services/"
+          },
+          {
+            "name": "Ozark Dumpster Service, Springdale and Bentonville, posted 20-yard price, read 2026-10-25",
+            "url": "https://www.ozarkdumpsterservice.com/"
+          },
+          {
+            "name": "Outbound Waste, Bentonville price list, read 2026-10-25",
+            "url": "https://www.calloutbound.com/dumpster-rental-bentonville-ar"
+          }
+        ]
+      },
+      {
+        "job": "30-yard box, one week, four tons included",
+        "low": 645,
+        "high": 665,
+        "basis": "flat",
+        "note": "Framing and drywall phases on a new house, or a whole-house remodel. Four NWA operators post within twenty dollars.",
+        "sources": [
+          {
+            "name": "Outbound Waste, Bentonville price list, read 2026-10-25",
+            "url": "https://www.calloutbound.com/dumpster-rental-bentonville-ar"
+          },
+          {
+            "name": "A&L Dumpster Rental, Gentry, posted 30-yard price, read 2026-10-25",
+            "url": "https://aldumpstersrental.com/"
+          },
+          {
+            "name": "Ozark Dumpster Service, Springdale and Bentonville, posted 30-yard price, read 2026-10-25",
+            "url": "https://www.ozarkdumpsterservice.com/"
+          },
+          {
+            "name": "Arkansas Waste Solutions, posted 30-yard starting price, read 2026-10-25",
+            "url": "https://www.yourlocaldumpster.com/"
+          }
+        ]
+      },
+      {
+        "job": "Each ton past the included allowance, by landfill scale weight",
+        "low": 75,
+        "high": 85,
+        "basis": "per ton",
+        "note": "Billed from the scale ticket after the haul. Shingles, concrete, soil and wet drywall are what trigger it.",
+        "sources": [
+          {
+            "name": "Arkansas Waste Solutions, 20-yard listing, extra weight rate, read 2026-10-25",
+            "url": "https://www.yourlocaldumpster.com/items/20_yard_dumpster_rental/"
+          },
+          {
+            "name": "Ozark Dumpster Service, posted overage per ton, read 2026-10-25",
+            "url": "https://www.ozarkdumpsterservice.com/"
+          },
+          {
+            "name": "Outbound Waste, Bentonville overweight rate, read 2026-10-25",
+            "url": "https://www.calloutbound.com/dumpster-rental-bentonville-ar"
+          }
+        ]
+      }
+    ]
+  }
+}

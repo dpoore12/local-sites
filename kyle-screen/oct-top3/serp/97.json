@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Flower Mound",
+ "state": "TX",
+ "pop": 68609,
+ "vol": 70,
+ "cpc": 32.36,
+ "lead_value": 2265,
+ "query": "dryer vent cleaning flower mound",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 177,
+ "top5_pages_min": 1,
+ "top10_pages_med": 337,
+ "top10_pages_min": 1,
+ "winner_words_med": 842,
+ "winners_measured": 4,
+ "score": 59.1,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "servpro.com",
+   "url": "https://www.servpro.com/locations/tx/servpro-of-flower-mound-lewisville/services/cleaning/specialty/hvac-air-duct-cleaning",
+   "title": "Professional HVAC Cleaning & Air Duct Services",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "airductcleaningserviceflowermound.com",
+   "url": "https://airductcleaningserviceflowermound.com/furnace-vent-cleaning-flower-mound-tx/",
+   "title": "Advanced Furnace Vent Cleaning in Flower Mound, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/tx/flower-mound/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Flower Mound, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "flowermounddryerventcleaning.us",
+   "url": "https://www.flowermounddryerventcleaning.us/services",
+   "title": "Our Services - Flower Mound Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/pages/Flower-Mound-Dryer-Vent-Cleaning/643539912369654",
+   "title": "Flower Mound Dryer Vent Cleaning",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dryer-vent-wizard-of-flower-mound-flower-mound",
+   "title": "Dryer Vent Wizard of Flower Mound - Appliances & Repair",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "airductcleaningserviceflowermound.com",
+   "url": "https://airductcleaningserviceflowermound.com/air-duct-dust-cleaning-flower-mound-tx/",
+   "title": "Air Duct Dust Cleaning in Flower Mound, TX | Cleaner Indoor Air",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "flowermounddryerventcleaning.us",
+   "url": "https://www.flowermounddryerventcleaning.us/contact-us",
+   "title": "Contact Us - Flower Mound Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "airductcleaningserviceflowermound.com",
+   "url": "https://airductcleaningserviceflowermound.com/repair-dryer-vent-hose-flower-mound-tx/",
+   "title": "Repair Dryer Vent Hose Flower Mound, TX",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "TM Dryer Vent Cleaning",
+   "domain": "",
+   "rating": 5,
+   "reviews": 30
+  },
+  {
+   "title": "Superior Air Duct & Dryer Vent Cleaning",
+   "domain": "superiorcleanducts.com",
+   "rating": 5,
+   "reviews": 210
+  },
+  {
+   "title": "Lowe's Air Duct Cleaning",
+   "domain": "lowesair.com",
+   "rating": 4.9,
+   "reviews": 150
+  }
+ ],
+ "fetched": "2026-10-25"
+}

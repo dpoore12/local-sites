@@ -1,0 +1,289 @@
+{
+  "domain": "wheatonairductcleaningpros.com",
+  "phase": 2,
+  "brand": "Wheaton Air Duct Cleaning Pros",
+  "service": "Air Duct Cleaning",
+  "service_inline": "air duct cleaning",
+  "vertical": "home",
+  "pro_noun": null,
+  "entity_noun": "duct cleaning contractor",
+  "city": "Wheaton",
+  "state": "IL",
+  "state_full": "Illinois",
+  "counties": [
+    "DuPage"
+  ],
+  "area_codes": [
+    "630",
+    "331"
+  ],
+  "phone_display": "(331) 600-8021",
+  "phone_tel": "+13316008021",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304011753217). In 331, the overlay of the market's own 630 area code. Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/Chicago",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "housing_stock_1976",
+      "title": "A 1976 median, and six in ten homes older than 1980",
+      "claim": "The Census Bureau's American Community Survey 2024 five-year estimates count 20,359 housing units in Wheaton, with a median year built of 1976. The 1970s alone account for 5,765 of them, the largest single decade. In all, 12,650 units, about 62 percent, were built before 1980, and 1,805 date from 1939 or earlier.",
+      "why_it_matters": "A house from the 1970s has run its original ductwork through roughly fifty heating seasons, usually with several furnace swaps bolted onto the same trunk lines. Old panned returns, abandoned branches and patched joints are where debris collects, and they are the parts a supply-only cleaning never reaches.",
+      "sources": [
+        "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034&geo_ids=16000US1781048",
+        "https://censusreporter.org/profiles/16000US1781048-wheaton-il/"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "heating_degree_days",
+      "title": "Close to six thousand heating degree days a year",
+      "claim": "National Weather Service Chicago's 1991-2020 normals for O'Hare, the official Chicago station about 13 miles northeast of Wheaton, list 5,974 heating degree days a year. January carries 1,234 of them and December 1,069, and the station averages 121 days a year with a low at or below freezing. The same normals list 1,003 cooling degree days, so the ducts also carry air-conditioned air through the summer.",
+      "why_it_matters": "From October into April the furnace blower pulls the whole house's air through the return side again and again. A loaded filter, a dusty blower wheel or a gap in a return duct gets months of runtime to make itself felt, and the same ductwork then carries the cooling load all summer.",
+      "sources": [
+        "https://www.weather.gov/lot/ord_rfd_monthly_yearly_normals"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "basement_remodel_inspections",
+      "title": "City inspections end before the drywall dust starts",
+      "claim": "The City of Wheaton's basement remodeling guideline lists underground plumbing, rough framing, rough mechanical, rough electrical and rough plumbing inspections, conducted once all rough-ins are complete but before insulation or concealment, followed by an insulation inspection once insulation and air sealing are done and before drywall, and then a final. Submittals include a floor plan with the electrical layout and escape window and a combustion air calculation worksheet.",
+      "why_it_matters": "Taping and sanding happen after the last rough inspection, and nothing on the list looks inside the ductwork. If the furnace ran while joint compound was sanded, the return side pulled the powder in, and it stays in the return trunk, the blower and the coil until somebody removes it.",
+      "sources": [
+        "https://wheaton.il.us/800/Basement-Remodeling",
+        "https://wheaton.il.us/165/Building-Projects-Permits"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "furnace_permit_co_alarms",
+      "title": "A furnace swap is permitted work, with a CO alarm rule attached",
+      "claim": "The City of Wheaton's residential furnace and air conditioner guideline asks for the brand, efficiency and BTU rating of the proposed furnace, the manufacturer's installation specifications, and a combustion air calculation worksheet if the appliance is gas-fired and not high-efficiency. The city's code requires carbon monoxide alarms when additions, alterations or repairs requiring a permit occur in a dwelling with a fuel-fired appliance or an attached garage that opens into the home.",
+      "why_it_matters": "A blower cleaning sometimes turns up a furnace that is near the end, and a replacement is a permitted, inspected job in Wheaton. Knowing that up front, including the CO alarm requirement it triggers, keeps a cleaning visit from sliding into unpermitted furnace work.",
+      "sources": [
+        "https://wheaton.il.us/813/Furnace-Air-Conditioner---Residential"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Downtown Wheaton",
+    "Northside",
+    "Danada",
+    "Arrowhead"
+  ],
+  "symptoms": [
+    "dust_back_within_days",
+    "weak_airflow_far_rooms",
+    "drywall_dust_after_remodel",
+    "dryer_needs_two_cycles"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Returns and Trunks Included, Price First",
+  "trust_third": "Scope and price stated before the system is opened",
+  "services": [
+    {
+      "slug": "air-duct-cleaning",
+      "name": "Air Duct Cleaning",
+      "nav": "Duct cleaning",
+      "h1": "Whole-House Air Duct Cleaning",
+      "accent": "Every Supply, Every Return",
+      "photo": "assets/work-1.jpg",
+      "keyword": "air duct cleaning Wheaton",
+      "icon": "house"
+    },
+    {
+      "slug": "furnace-blower-cleaning",
+      "name": "Furnace and Blower Cleaning",
+      "nav": "Furnace and blower",
+      "h1": "Furnace Blower and Coil Cleaning",
+      "accent": "The Part the Ducts Depend On",
+      "photo": "assets/work-2.jpg",
+      "keyword": "furnace cleaning Wheaton",
+      "icon": "gear"
+    },
+    {
+      "slug": "post-renovation-duct-cleaning",
+      "name": "Post-Renovation Duct Cleaning",
+      "nav": "After a remodel",
+      "h1": "Post-Renovation Duct Cleaning",
+      "accent": "Drywall Powder Out of the Returns",
+      "photo": "assets/work-3.jpg",
+      "keyword": "post construction duct cleaning Wheaton",
+      "icon": "ruler"
+    },
+    {
+      "slug": "dryer-vent-cleaning",
+      "name": "Dryer Vent Cleaning",
+      "nav": "Dryer vents",
+      "h1": "Dryer Vent Cleaning",
+      "accent": "Rim Joist to Outside Hood",
+      "photo": "assets/hero.jpg",
+      "keyword": "dryer vent cleaning Wheaton",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "air-duct-cleaning",
+    "furnace-blower-cleaning",
+    "post-renovation-duct-cleaning",
+    "dryer-vent-cleaning"
+  ],
+  "_market": {
+    "keyword": "air duct cleaning wheaton",
+    "volume": 70,
+    "cpc_usd": 71.93,
+    "monthly_price": 800,
+    "weakest_competitor": "#3 saiairductclean.com (DR 3.2): a Glenview company whose home page lists no Wheaton page among its named service areas and posts only limited-time dollar-off offers, no base prices. #1 djrcleaning.com (DR 7) is a Roselle cleaning company ranking on a Wheaton location page with no prices; #2 is a BBB directory listing. No map pack on the SERP.",
+    "competitor_dr": 3.2,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What duct cleaning runs in Wheaton and the Chicago suburbs",
+    "anchors": [
+      {
+        "label": "EPA's range for a full system cleaning",
+        "value": "$450-$1,000",
+        "detail": "EPA's consumer guide says duct cleaning services typically, but not always, cost $450 to $1,000 per heating and cooling system, depending on the services, the size of the system, access, climate and how dirty it is. The guide dates back to 1997, which is one reason posted suburban packages often come in under it.",
+        "source_name": "U.S. EPA, Should You Have the Air Ducts in Your Home Cleaned?",
+        "source_url": "https://www.epa.gov/indoor-air-quality-iaq/should-you-have-air-ducts-your-home-cleaned"
+      },
+      {
+        "label": "Heating degree days a year, nearest official station",
+        "value": "5,974",
+        "detail": "NWS Chicago's 1991-2020 normals at O'Hare, about 13 miles from Wheaton. January alone carries 1,234. That is the runtime a furnace blower and its filter absorb every winter, and it is why blower and coil work shows up as a line of its own.",
+        "source_name": "National Weather Service Chicago, 1991-2020 monthly and yearly normals",
+        "source_url": "https://www.weather.gov/lot/ord_rfd_monthly_yearly_normals"
+      },
+      {
+        "label": "Wheaton homes built before 1980",
+        "value": "62%",
+        "detail": "12,650 of 20,359 housing units in the 2024 ACS five-year estimates, with a median year built of 1976. Older systems carry more branches, more patched joints and often panned returns, which is where the time on a cleaning goes.",
+        "source_name": "U.S. Census Bureau, ACS 2024 five-year table B25034, via Census Reporter",
+        "source_url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034&geo_ids=16000US1781048"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Whole-system cleaning, one furnace, supplies plus returns and trunk lines",
+        "low": 249,
+        "high": 600,
+        "basis": "per system",
+        "note": "The low end is often a supply-only tier. Ask whether returns, main trunks and negative air are in the figure.",
+        "sources": [
+          {
+            "name": "Fireplace & Chimney Authority, Elmhurst, serves Wheaton, posted one-furnace price, read 2026-10-25",
+            "url": "https://fireplaceandchimneyauthority.com/air-duct-cleaning/wilmette/"
+          },
+          {
+            "name": "Top Air Solutions, Chicago suburbs, posted per-system packages, read 2026-10-25",
+            "url": "https://www.topairhvac.com/air-duct-cleaning/"
+          },
+          {
+            "name": "AirClear Solutions, Downers Grove page, posted range for full-service jobs, read 2026-10-25",
+            "url": "https://www.airclearsolutions.com/air-duct-cleaning-downers-grove-il/"
+          },
+          {
+            "name": "Cleaning Wizard, Chicago and suburbs, posted single-service price, read 2026-10-25",
+            "url": "https://cleaningwizard.org/pricing/"
+          }
+        ]
+      },
+      {
+        "job": "Full package with the furnace blower cleaned out, or a larger house",
+        "low": 550,
+        "high": 1000,
+        "basis": "per system",
+        "note": "Packages that pull and clean the blower sit here, as do bigger houses with more runs to brush.",
+        "sources": [
+          {
+            "name": "AirFresh, Northbrook, posted one-furnace package including blower cleanout, read 2026-10-25",
+            "url": "https://airfreshchicago.com/services/air-duct-cleaning-chicago/"
+          },
+          {
+            "name": "Top Air Solutions, Chicago suburbs, posted top tier with blower motor cleaning, read 2026-10-25",
+            "url": "https://www.topairhvac.com/air-duct-cleaning/"
+          },
+          {
+            "name": "Four Seasons Heating & Cooling, Chicagoland, 2026 Chicago duct cleaning cost guide, read 2026-10-25",
+            "url": "https://www.fourseasonsheatingcooling.com/blog/average-duct-cleaning-cost-chicago/"
+          }
+        ]
+      },
+      {
+        "job": "Furnace component cleaning added to a duct job: blower, coil",
+        "low": 60,
+        "high": 150,
+        "basis": "added",
+        "note": "Coil work that needs the coil pulled, or a blower wheel caked solid, can run past this band.",
+        "sources": [
+          {
+            "name": "Four Seasons Heating & Cooling, Chicagoland, posted furnace component cleaning range, read 2026-10-25",
+            "url": "https://www.fourseasonsheatingcooling.com/blog/average-duct-cleaning-cost-chicago/"
+          },
+          {
+            "name": "Cleaning Wizard, Chicago and suburbs, posted coil and HVAC system cleaning prices, read 2026-10-25",
+            "url": "https://cleaningwizard.org/pricing/"
+          }
+        ]
+      },
+      {
+        "job": "Second furnace system in the same house",
+        "low": 249,
+        "high": 599,
+        "basis": "per added system",
+        "note": "Per-system pricing bills the second furnace like the first; one company adds $400 for it.",
+        "sources": [
+          {
+            "name": "Top Air Solutions, Chicago suburbs, posted per-system packages, read 2026-10-25",
+            "url": "https://www.topairhvac.com/air-duct-cleaning/"
+          },
+          {
+            "name": "AirFresh, Northbrook, posted one-, two- and three-furnace packages, read 2026-10-25",
+            "url": "https://airfreshchicago.com/services/air-duct-cleaning-chicago/"
+          }
+        ]
+      },
+      {
+        "job": "Dryer vent cleaning, on its own or on the same visit",
+        "low": 99,
+        "high": 199,
+        "basis": "flat",
+        "note": "Most posted prices are flat for any length. Roof exits and crushed sections are quoted separately.",
+        "sources": [
+          {
+            "name": "Top Air Solutions, Chicago suburbs, posted flat dryer vent price, read 2026-10-25",
+            "url": "https://www.topairhvac.com/air-duct-cleaning-carol-stream-il/"
+          },
+          {
+            "name": "The Lint King, Downers Grove page, posted routine maintenance range, read 2026-10-25",
+            "url": "https://thelintking.com/dryer-vent-cleaning/il/downers-grove/"
+          },
+          {
+            "name": "Cleaning Wizard, Chicago and suburbs, posted dryer vent price, read 2026-10-25",
+            "url": "https://cleaningwizard.org/pricing/"
+          },
+          {
+            "name": "Ugly Ductling, Chicago and suburbs, posted dryer vent starting price, read 2026-10-25",
+            "url": "https://www.uglyduct.com/"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+ "niche": "chimney sweep",
+ "city": "Chapel Hill",
+ "state": "NC",
+ "pop": 59635,
+ "vol": 70,
+ "cpc": 38.25,
+ "lead_value": 2678,
+ "query": "chimney sweep chapel hill",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 324,
+ "top5_pages_min": 256,
+ "top10_pages_med": 324,
+ "top10_pages_min": 256,
+ "winner_words_med": 452,
+ "winners_measured": 3,
+ "score": 40.9,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "chimneysplusgutters.com",
+   "url": "https://chimneysplusgutters.com/chimneys/chapel-hill-chimney-sweep-services/",
+   "title": "Chapel Hill Chimney Sweep Services",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=chimneysweeps&find_loc=Chapel+Hill%2C+NC",
+   "title": "THE BEST 10 CHIMNEY SWEEPS IN CHAPEL HILL, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "mrsmokestack.com",
+   "url": "https://www.mrsmokestack.com/about-us/service-area/chapel-hill/",
+   "title": "Fireplace Repair Near Me - Chapel Hill NC",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "nexuschimney.com",
+   "url": "https://nexuschimney.com/chapel-hill-chimney-services/",
+   "title": "Chapel Hill NC Chimney Services",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "smokealert.net",
+   "url": "https://smokealert.net/chimney-sweep-chapel-hill-nc/?srsltid=AYCX9vIbQyji-QJ-EQ6bvP0YabPcQ3_595nYguJ0_lJF8VrOnaffZQfp",
+   "title": "Chimney Cleaning & Repair in Chapel Hill, NC | Smoke Alert",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/nc/chapel-hill/chimney-sweep",
+   "title": "Chimney sweepers near Chapel Hill, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "houzz.com",
+   "url": "https://www.houzz.com/professionals/chimney-cleaners/chapel-hill-nc-us-probr0-bo~t_27200~r_4460162",
+   "title": "Best 15 Chimney Sweeps & Cleaners in Chapel Hill, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/nc/chapel-hill/chimney-sweep.htm",
+   "title": "Top 10 Best Chimney sweeps in Chapel Hill, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "windowgang.com",
+   "url": "https://www.windowgang.com/durham-nc/services/chimney-sweep/",
+   "title": "Chimney Sweep Services in Durham",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

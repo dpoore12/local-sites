@@ -1,0 +1,88 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Cedar Park",
+ "state": "TX",
+ "pop": 61238,
+ "vol": 70,
+ "cpc": 75.31,
+ "lead_value": 5272,
+ "query": "air duct cleaning cedar park",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 444.0,
+ "top5_pages_min": 21,
+ "top10_pages_med": 444,
+ "top10_pages_min": 21,
+ "winner_words_med": 1644,
+ "winners_measured": 4,
+ "score": 43,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "aircentralusa.com",
+   "url": "https://aircentralusa.com/service-areas/cedar-park-leander/",
+   "title": "Cedar Park and Leander service-area directory - Air Central",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/tx/cedar-park/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Cedar Park, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "dryerventwizard.com",
+   "url": "https://www.dryerventwizard.com/locations/central-texas/geo/cedar-park-tx",
+   "title": "Dryer Vent Cleaning, Repair & Installation in Cedar Park, TX",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Duct+Repair&find_loc=Cedar+Park%2C+TX+78613",
+   "title": "Best Duct Repair near Cedar Park, TX 78613",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "duct-x.com",
+   "url": "https://duct-x.com/cedar-park-tx/",
+   "title": "Cedar Park Chimney & Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/tx/cedar-park/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Cedar Park, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "supremeairaustin.com",
+   "url": "https://supremeairaustin.com/air-duct-cleaning-in-cedar-park-tx/",
+   "title": "Best Air Duct Cleaning In Cedar Park TX | 1000+ Reviews",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/air-duct-cleaning-in-cedar-park/",
+   "title": "Air Duct Cleaning In Cedar Park",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "austin.unitedhomeservices.com",
+   "url": "https://austin.unitedhomeservices.com/locations/cedar-park/",
+   "title": "Home Services in Cedar Park",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

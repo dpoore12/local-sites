@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Longview",
+ "state": "TX",
+ "pop": 81443,
+ "vol": 390,
+ "cpc": 7.97,
+ "lead_value": 3108,
+ "query": "window tinting longview",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 10,
+ "top5_pages_min": 1,
+ "top10_pages_med": 10,
+ "top10_pages_min": 1,
+ "winner_words_med": 290,
+ "winners_measured": 4,
+ "score": 91,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bigdaddysstereo.com",
+   "url": "https://bigdaddysstereo.com/product-category/auto/window-tint-auto/",
+   "title": "Window Tint Archives",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/tx-elite-window-tinting-longview",
+   "title": "TXELITEWINDOWTINTING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/313173554554724/posts/908158891722851/",
+   "title": "Where to get affordable car window tint in Longview?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1086815398939491/posts/2225966088357744/",
+   "title": "Mobile window tinting services for cars in Longview, Texas",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "duartesdetailing.com",
+   "url": "https://duartesdetailing.com/window-tinting",
+   "title": "Window Tinting Service in Longview, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Texas/Longview?srsltid=AYCX9vInOYjjdnesVoKeL01YouSXHxiK9BrVS3Fb26EUAqJPAHYf6jy8",
+   "title": "XPEL Installers - Longview, Texas - United States",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1357904554747822/posts/2295112214360380/",
+   "title": "Who offers affordable window tinting in Longview, TX?",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "duartesdetailing.com",
+   "url": "https://duartesdetailing.com/",
+   "title": "Home | Premium Automotive Care in Longview, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/555320461182115/posts/2146580898722722/",
+   "title": "Window tinting places near Hallsville, Longview, and ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Tx Elite Window Tinting",
+   "domain": "txelitewindowtinting.com",
+   "rating": 5,
+   "reviews": 123
+  },
+  {
+   "title": "The Trim Shop",
+   "domain": "trimshoplongview.com",
+   "rating": 4.7,
+   "reviews": 128
+  },
+  {
+   "title": "Ontime Auto Glass",
+   "domain": "ontimeautoglass.com",
+   "rating": 4.7,
+   "reviews": 306
+  }
+ ],
+ "fetched": "2026-10-25"
+}

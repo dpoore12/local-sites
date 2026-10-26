@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Kissimmee",
+ "state": "FL",
+ "pop": 65173,
+ "vol": 480,
+ "cpc": 12.3,
+ "lead_value": 5904,
+ "query": "dumpster rental kissimmee",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 313.5,
+ "top5_pages_min": 7,
+ "top10_pages_med": 313,
+ "top10_pages_min": 7,
+ "winner_words_med": 1197,
+ "winners_measured": 2,
+ "score": 48,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/fl/kissimmee/dumpster-rental-kissimmee-fl",
+   "title": "Dumpster Rental in Kissimmee, FL | WM",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/kissimmee-fl-dumpster-rental-florida.php",
+   "title": "Dumpster Rentals in Kissimmee, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Kissimmee%2C+FL",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN KISSIMMEE, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "golddumpstersco.com",
+   "url": "https://golddumpstersco.com/",
+   "title": "Dumpster Rental Kissimmee | Same Day Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "lowes.com",
+   "url": "https://www.lowes.com/store/2363-kissimmee-fl/dumpster-rental",
+   "title": "Dumpster Rental in Kissimmee, FL, 34746",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "starsdumpsterrentalkissimmee.com",
+   "url": "https://starsdumpsterrentalkissimmee.com/",
+   "title": "Stars Dumpster Rental Kissimmee",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/dumpster-rental-near-kissimmee/",
+   "title": "Dumpster Rental Near Kissimmee: Local Companies, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "wasteville.com",
+   "url": "https://www.wasteville.com/",
+   "title": "Wasteville | (407) 565-2366",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "dumpsterstrong.com",
+   "url": "https://dumpsterstrong.com/dumpster-prices-kissimmee",
+   "title": "Dumpster Rental Prices Kissimmee FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Kissimmee Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "My Box Dumpster Rental",
+   "domain": "myboxdumpsterrental.com",
+   "rating": 5,
+   "reviews": 108
+  },
+  {
+   "title": "Kissimmee Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

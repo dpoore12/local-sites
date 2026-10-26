@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Manteca",
+ "state": "CA",
+ "pop": 71948,
+ "vol": 320,
+ "cpc": 6.25,
+ "lead_value": 2000,
+ "query": "window tinting manteca",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 17,
+ "top5_pages_min": 7,
+ "top10_pages_med": 17,
+ "top10_pages_min": 7,
+ "winner_words_med": 348,
+ "winners_measured": 3,
+ "score": 86.3,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/ultra-performance-manteca-3",
+   "title": "ULTRA PERFORMANCE - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "t1detailing.com",
+   "url": "https://www.t1detailing.com/contact-us/",
+   "title": "Contact T1 Detailing | Manteca CA Auto Detailing Services",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/ivan-s-window-tint-manteca",
+   "title": "IVAN'S WINDOW TINT - Manteca, California",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "tintschoolonline.com",
+   "url": "https://tintschoolonline.com/locations/california/manteca-window-tinting-classes",
+   "title": "Window Tint Training Manteca CA",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/manteca-car-tint/",
+   "title": "Manteca Car Tint",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/titos-window-tint-420199942",
+   "title": "Titos Window Tint, 1043 W Yosemite Ave, Manteca, CA ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/the-streetz-motorsports/",
+   "title": "The Streetz Motorsports - Manteca, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Car+Window+Repair&find_loc=Manteca%2C+CA",
+   "title": "TOP 10 BEST Car Window Repair in Manteca, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/extremetintmobile/",
+   "title": "Extreme Tint Mobile Services (@extremetintmobile)",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "MainStream Window Tint",
+   "domain": "mainstreamwindowtintppf.com",
+   "rating": 4.8,
+   "reviews": 173
+  },
+  {
+   "title": "Titos Window Tint",
+   "domain": "titoswindowtint.com",
+   "rating": 4.8,
+   "reviews": 139
+  },
+  {
+   "title": "Professional Auto Stereo & Security",
+   "domain": "professionalautostereo.com",
+   "rating": 4.2,
+   "reviews": 172
+  }
+ ],
+ "fetched": "2026-10-25"
+}

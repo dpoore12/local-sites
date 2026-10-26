@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Bellingham",
+ "state": "WA",
+ "pop": 82631,
+ "vol": 480,
+ "cpc": 16.38,
+ "lead_value": 7862,
+ "query": "junk removal bellingham",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 405.0,
+ "top5_pages_min": 21,
+ "top10_pages_med": 74,
+ "top10_pages_min": 21,
+ "winner_words_med": 828,
+ "winners_measured": 3,
+ "score": 41,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "slothjunkremoval.com",
+   "url": "https://slothjunkremoval.com/",
+   "title": "Sloth Junk Removal: Junk Removal Bellingham WA | No ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "cob.org",
+   "url": "https://cob.org/services/environment/moving-out-resources",
+   "title": "Moving Out? Pack it Out!",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "ssc-inc.com",
+   "url": "https://ssc-inc.com/commercial-junk-haul/",
+   "title": "Commercial Junk Hauling Services - Junk Removal Bellingham",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Bellingham%2C+WA",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "apluscleanups.com",
+   "url": "https://apluscleanups.com/",
+   "title": "A+ Clean Ups: Junk Removal in Bellingham",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/junk-removal-seattle/us04039",
+   "title": "Local Junk Removal Pros in Bellingham, WA",
+   "kind": "national"
+  },
+  {
+   "pos": 7,
+   "domain": "bellinghamjunkremovalservice.com",
+   "url": "https://bellinghamjunkremovalservice.com/",
+   "title": "Bellingham Junk Removal Service \u2014 Whatcom & Skagit County",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/washington/junk-away-695951214",
+   "title": "Junk Away, 3020 W Maplewood Ave, Bellingham, WA ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Junkaway LLC",
+   "domain": "junkawaywa.com",
+   "rating": 4.9,
+   "reviews": 114
+  },
+  {
+   "title": "Bellingham Junk Removal Service",
+   "domain": "bellinghamjunkremovalservice.com",
+   "rating": 5,
+   "reviews": 519
+  },
+  {
+   "title": "Sloth Junk Removal",
+   "domain": "slothjunkremoval.com",
+   "rating": 4.9,
+   "reviews": 51
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,100 @@
+{
+ "niche": "window tinting",
+ "city": "Pensacola",
+ "state": "FL",
+ "pop": 52703,
+ "vol": 880,
+ "cpc": 6.97,
+ "lead_value": 6134,
+ "query": "window tinting pensacola",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 43,
+ "top5_pages_min": 7,
+ "top10_pages_med": 52,
+ "top10_pages_min": 7,
+ "winner_words_med": 952,
+ "winners_measured": 4,
+ "score": 89,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/fl/pensacola-161/",
+   "title": "Automotive Styling and Window Tinting Services of ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Pensacola%2C+FL",
+   "title": "THE BEST 10 CAR WINDOW TINTING IN PENSACOLA, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "integritywindowtint.com",
+   "url": "https://www.integritywindowtint.com/",
+   "title": "Integrity Window Tinting | Window Tinting | 6808 Pine Forest ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "blackoptixtint.com",
+   "url": "https://blackoptixtint.com/locations/fl/pensacola/",
+   "title": "Custom Window Tint & Auto Styling in Pensacola",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "glasswrap.com",
+   "url": "https://www.glasswrap.com/",
+   "title": "Glass Wrap: Window Tinting in Pensacola, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "tintedfl.com",
+   "url": "https://www.tintedfl.com/",
+   "title": "TintEd Pensacola & surrounding areas: tinted fort walton ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "invisiguardfilms.com",
+   "url": "https://invisiguardfilms.com/",
+   "title": "InvisiGuard Window Tinting: Window Film Tinting Service ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "newyorkcustomz.com",
+   "url": "https://newyorkcustomz.com/locations/mobile-window-tinting-in-pensacola-fl/",
+   "title": "Mobile Window Tinting in Pensacola, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "T's Window Tinting",
+   "domain": "tswindowtinting.com",
+   "rating": 5,
+   "reviews": 185
+  },
+  {
+   "title": "Tint World",
+   "domain": "tintworld.com",
+   "rating": 5,
+   "reviews": 671
+  },
+  {
+   "title": "Perform X Window Tinting",
+   "domain": "performxwindowtinting.com",
+   "rating": 4.8,
+   "reviews": 169
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Bentonville",
+ "state": "AR",
+ "pop": 40167,
+ "vol": 480,
+ "cpc": 11.81,
+ "lead_value": 5669,
+ "query": "dumpster rental bentonville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 75,
+ "top5_pages_min": 39,
+ "top10_pages_med": 67,
+ "top10_pages_min": 39,
+ "winner_words_med": 1829,
+ "winners_measured": 4,
+ "score": 71,
+ "state_full": "Arkansas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/ar/bentonville/dumpster-rental.htm",
+   "title": "Top 10 Best Dumpster providers in Bentonville, AR",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "dumpsterrentalcrewbentonville.com",
+   "url": "https://www.dumpsterrentalcrewbentonville.com/about",
+   "title": "About Dumpster Rental in Bentonville, AR",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "martinsstucco.com",
+   "url": "https://www.martinsstucco.com/dumpster-rental/",
+   "title": "Dumpster Rental | Diamond Waste Services",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ar/bentonville/dumpster-rentals",
+   "title": "Dumpster rental providers near Bentonville, AR",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/bentonville-garbage-dumpster-rental/",
+   "title": "Bentonville Garbage Dumpster Rental",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "gravitydumpsterrentals.com",
+   "url": "https://gravitydumpsterrentals.com/blog/dumpster-rental-cost-bentonville.html",
+   "title": "Dumpster Rental Cost in Bentonville, AR: What Sets the Price",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "bentonvilledumpsterrental.weebly.com",
+   "url": "https://bentonvilledumpsterrental.weebly.com/",
+   "title": "Bentonville Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "mobiledumps.com",
+   "url": "https://mobiledumps.com/locations/ar/northwest/",
+   "title": "Northwest Arkansas",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "gravitydumpsterrentals.com",
+   "url": "https://gravitydumpsterrentals.com/faqs.html",
+   "title": "Dumpster Rental FAQs",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bentonville Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Bentonville Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Waste Dumpster Rentals Bentonville - Junk Hauling",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 320,
+ "cpc": 29.92,
+ "lead_value": 9574,
+ "query": "junk removal boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 2473,
+ "top5_pages_min": 2473,
+ "top10_pages_med": 1631,
+ "top10_pages_min": 789,
+ "winner_words_med": 1427,
+ "winners_measured": 2,
+ "score": 20,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/boca-raton/furniture-removal/?srsltid=AYCX9vLx61FnHP4BuQafaaxJbueufEKIFXI2x0pgaTnO1PbnfP0-Nghj",
+   "title": "Furniture Removal in Boca Raton, FL ~ Instant Price",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/1-800-got-junk-boca-raton-deerfield-beach-3",
+   "title": "1-800-GOT-JUNK? BOCA RATON - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/boca-raton/debris-removal/?srsltid=AYCX9vLoH-UBVp3Ojz4gU4MhQuqDbN2mdD1E4HwsEGUwcfigsyAmmVwt",
+   "title": "Debris Removal in Boca Raton, FL | Pickup & Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "craigslist.org",
+   "url": "https://www.craigslist.org/search/city/boca-raton-fl?hub=junk-removal",
+   "title": "junk removal near Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1200207990164548/posts/3383975105121148/",
+   "title": "Rapid Haul junk removal services in Boca Raton, Florida",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "newagejunk1144.com",
+   "url": "https://newagejunk1144.com/junk-removal/boca-raton/",
+   "title": "Boca Raton, Fl",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/boca-raton/bulk-trash-removal",
+   "title": "Bulk trash removal services near Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/nicks-junk-removal-boca-raton-466542607",
+   "title": "Nick's Junk Removal (Boca Raton)",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/61592262029962/posts/junk-piling-up-well-handle-it-%EF%B8%8Fcoastaway-junk-hauling-provides-fast-reliable-jun/122114680917408734/",
+   "title": "Junk removal services in Boca Raton and South Florida",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Junk King Boca Raton",
+   "domain": "junk-king.com",
+   "rating": 4.9,
+   "reviews": 734
+  },
+  {
+   "title": "The Junkluggers of Broward West and Palm Beach South",
+   "domain": "junkluggers.com",
+   "rating": 4.9,
+   "reviews": 1400
+  },
+  {
+   "title": "1-800-GOT-JUNK? Boca Raton",
+   "domain": "1800gotjunk.com",
+   "rating": 5,
+   "reviews": 1900
+  }
+ ],
+ "fetched": "2026-10-25"
+}

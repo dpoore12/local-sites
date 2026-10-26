@@ -1,0 +1,266 @@
+{
+  "domain": "northmiamiseptictankpumpingpros.com",
+  "phase": 2,
+  "brand": "North Miami Septic Tank Pumping Pros",
+  "service": "Septic Tank Pumping",
+  "service_inline": "septic tank pumping",
+  "vertical": "home",
+  "pro_noun": null,
+  "entity_noun": "registered septic tank contractor",
+  "city": "North Miami",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Miami-Dade"
+  ],
+  "area_codes": [
+    "305",
+    "786",
+    "645"
+  ],
+  "phone_display": "(645) 654-0839",
+  "phone_tel": "+16456540839",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304087250693). Area code 645 is the newer Miami-Dade overlay for 305/786. Rings the call-desk voicemail until a renter is found.",
+  "emergency": true,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "ordinance_22_83",
+      "title": "No new conventional septic tanks in Miami-Dade since 2023",
+      "claim": "On 7 July 2022 the Miami-Dade Board of County Commissioners adopted Ordinance 22-83, which sorts septic systems into four tiers, from conventional Type 1 to performance-based Types 2, 3 and 4. Since 1 January 2023 a new system, or the replacement of an entire existing one, cannot be a Type 1, and homes within 1,000 feet of a surface water body need a Type 3 or 4. Every system in the county had to be registered with DERM by 1 January 2024.",
+      "why_it_matters": "Pumping, baffle and line repairs are routine. Replacing the whole system in North Miami is not: it now means an engineered, performance-based unit with a county plan review, which is why diagnosis comes before anyone quotes a new tank.",
+      "sources": [
+        "https://www.miamidade.gov/govaction/legistarfiles/MinMatters/Y2023/231348min.pdf",
+        "https://www.miamidade.gov/govaction/legistarfiles/Matters/Y2022/221394.pdf"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "groundwater_vulnerable",
+      "title": "About 9,000 county septic systems already sit too close to the water table",
+      "claim": "Miami-Dade County counts roughly 120,000 septic systems in use. Its Connect 2 Protect program says about 9,000 are vulnerable to compromise or failure from rising groundwater today, a figure projected to reach about 13,500 by 2040, and that South Florida groundwater sits just a few feet below the surface and usually peaks around September or October. The county's 2022 ordinance memo notes that a drainfield's bottom typically sits 6 to 24 inches above the Biscayne Aquifer.",
+      "why_it_matters": "A tank that copes in April can back up in October with no change in how the house uses water. Slow drains at the end of the rainy season are a groundwater problem as often as a full tank, and the fix differs.",
+      "sources": [
+        "https://www.miamidade.gov/global/water/connect-to-protect-septic-to-sewer.page",
+        "https://www.miamidade.gov/govaction/legistarfiles/Matters/Y2022/221394.pdf"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "biscayne_fish_kill",
+      "title": "The 2020 fish kill ran from North Miami to Virginia Key",
+      "claim": "In mid-August 2020, dead fish, and stingrays and crabs crowding the shallows, were reported along Biscayne Bay from North Miami south to Virginia Key. State wildlife scientists attributed the kill to low dissolved oxygen tied to high water temperatures and heavy rain, with oxygen falling to zero in parts of the northern bay. Coverage at the time listed septic effluent among the nutrient pollutants that make such conditions worse.",
+      "why_it_matters": "North Miami drains to the northern bay, the stretch with the poorest circulation. A neglected tank or a drainfield sitting in groundwater is not only a yard problem here, which is why the county keeps tightening septic rules.",
+      "sources": [
+        "https://www.nbcmiami.com/news/local/scientists-investigate-fish-kill-impacting-marine-life-from-north-miami-to-virginia-key/2277354/",
+        "https://www.cbsnews.com/miami/news/low-oxygen-biscayne-bay-fish-kill/"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "sewer_connection_clock",
+      "title": "Once sewer reaches the street, the clock is 365 days",
+      "claim": "Florida Statutes 381.00655 requires the owner of a working septic system to connect to an available public sewer within 365 days of written notice that service is available, or within 90 days of a health department notice if the system needs repair. The City of North Miami's own septic-to-sewer work has run in phases, 14 properties in phase 1 on $3.4 million in federal and state money and 47 properties in phase 2 on $600,000 in state funding.",
+      "why_it_matters": "A connection notice changes the job from pumping to abandonment. The tank has to be pumped out and properly abandoned under permit, and the timing of the last pump-out should match the sewer hookup.",
+      "sources": [
+        "https://www.flsenate.gov/Laws/Statutes/2025/381.00655",
+        "https://northmiamifl.gov/1144/Septic-to-Sewer-Conversion-Phase-1",
+        "https://northmiamifl.gov/1329/Septic-to-Sewer-Convertion-Phase-2"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Keystone Point",
+    "Sans Souci",
+    "Arch Creek Highlands",
+    "Alhambra Heights",
+    "Westside Sunkist Grove",
+    "City Center"
+  ],
+  "symptoms": [
+    "slow_drains_and_gurgling",
+    "sewage_backup_indoors",
+    "soggy_yard_over_drainfield",
+    "notice_to_connect_to_sewer"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Backups Answered, Price Stated First",
+  "trust_third": "Pump-out price stated before the hose goes in",
+  "services": [
+    {
+      "slug": "septic-tank-pumping",
+      "name": "Septic Tank Pumping",
+      "nav": "Tank pumping",
+      "h1": "Septic Tank Pumping",
+      "accent": "Pumped, Checked, Written Up",
+      "photo": "assets/work-1.jpg",
+      "keyword": "septic tank pumping North Miami",
+      "icon": "wrench"
+    },
+    {
+      "slug": "emergency-septic-service",
+      "name": "Emergency Septic Service",
+      "nav": "Backups",
+      "h1": "Emergency Septic Service",
+      "accent": "Sewage Backing Up, Any Hour",
+      "photo": "assets/work-2.jpg",
+      "keyword": "emergency septic service North Miami",
+      "icon": "bolt"
+    },
+    {
+      "slug": "drain-field-repair",
+      "name": "Drain Field Repair",
+      "nav": "Drain field",
+      "h1": "Septic Drain Field Repair",
+      "accent": "When the Ground Stops Draining",
+      "photo": "assets/work-3.jpg",
+      "keyword": "drain field repair North Miami",
+      "icon": "warn"
+    },
+    {
+      "slug": "septic-tank-abandonment",
+      "name": "Septic Tank Abandonment",
+      "nav": "Sewer hookup",
+      "h1": "Septic Tank Abandonment",
+      "accent": "When the Sewer Reaches Your Street",
+      "photo": "assets/hero.jpg",
+      "keyword": "septic tank abandonment North Miami",
+      "icon": "house"
+    }
+  ],
+  "symptom_service": [
+    "septic-tank-pumping",
+    "emergency-septic-service",
+    "drain-field-repair",
+    "septic-tank-abandonment"
+  ],
+  "_market": {
+    "keyword": "septic tank pumping north miami",
+    "monthly_price": 1000,
+    "volume": 260,
+    "cpc_usd": 215.13,
+    "weakest_competitor": "organic #1 caraballoexpress.com is DR 0.8, a Hialeah operator with one-line service blurbs and a single posted pump-out price; #3 septictank.com (DR 13) is an Ohio referral directory; #2 is Yelp; top map listing carries 187 reviews",
+    "competitor_dr": 0.8,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What septic jobs run in North Miami",
+    "anchors": [
+      {
+        "label": "County plan review, new or replacement septic system for a house",
+        "value": "$150",
+        "detail": "DERM's review fee for a performance-based system (Types 2 to 4) serving a single-family home or duplex. The same schedule notes conventional Type 1 tanks are generally not allowed after 1 January 2023.",
+        "source_name": "Miami-Dade RER fee schedule, Implementing Order 4-42, effective October 2023",
+        "source_url": "https://www.miamidade.gov/permits/library/fees/schedule-environmental.pdf"
+      },
+      {
+        "label": "County help converting a homesteaded house to sewer",
+        "value": "Up to $15,000",
+        "detail": "Miami-Dade's Septic-to-Sewer Financial Assistance Program offers grants, zero-interest loans or low-interest loans, depending on household income, to owners with a Homestead Exemption.",
+        "source_name": "Miami-Dade Water and Sewer, Connect 2 Protect",
+        "source_url": "https://www.miamidade.gov/global/water/connect-to-protect-septic-to-sewer.page"
+      },
+      {
+        "label": "Time allowed to connect once sewer is available",
+        "value": "365 days",
+        "detail": "A properly working system must be connected within 365 days of the sewer utility's written notice. A system that needs repair gets 90 days from a health department notice, with one hardship extension of up to 90 days.",
+        "source_name": "Florida Statutes 381.00655",
+        "source_url": "https://www.flsenate.gov/Laws/Statutes/2025/381.00655"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Routine pump-out, residential tank up to about 1,000 gallons",
+        "low": 299,
+        "high": 500,
+        "basis": "per visit",
+        "note": "Posted starting prices sit at the bottom. Lids buried under pavers, long hose runs and after-hours calls push it to the top.",
+        "sources": [
+          {
+            "name": "All City Septic, South Florida, posted pump-out starting price for 1,000-gallon tanks, read 2026-10-25",
+            "url": "https://www.allcityseptic.com/"
+          },
+          {
+            "name": "Champion Septic Tank, Hialeah, serves North Miami, posted small-tank flat rate, read 2026-10-25",
+            "url": "https://www.championseptictank.com/septic-tank-pumping-cleaning-north-miami-north-miami-beach"
+          },
+          {
+            "name": "Cobra Septic, Miami-Dade to St. Lucie, posted pump-out starting price, read 2026-10-25",
+            "url": "https://www.cobraseptic.com/services/septic-pumping"
+          },
+          {
+            "name": "A to Z Statewide Plumbing, West Park, posted emergency pump-out range up to 1,000 gallons, read 2026-10-25",
+            "url": "https://atozstatewideplumbing.com/emergency-septic-pumping/"
+          }
+        ]
+      },
+      {
+        "job": "Pump-out with the line from the house to the tank jetted clear",
+        "low": 349,
+        "high": 450,
+        "basis": "per visit",
+        "note": "The top figure is one operator's pump-out plus its posted line-cleaning add-on, totaled. Roots in the line add time.",
+        "sources": [
+          {
+            "name": "All City Septic, South Florida, posted pump-out and hydro-jet starting price, read 2026-10-25",
+            "url": "https://www.allcityseptic.com/"
+          },
+          {
+            "name": "Champion Septic Tank, Hialeah, posted small-tank price plus sewer line cleaning add-on, read 2026-10-25",
+            "url": "https://www.championseptictank.com/"
+          }
+        ]
+      },
+      {
+        "job": "Drainfield replacement, or a new tank and drainfield",
+        "low": 5000,
+        "high": 25000,
+        "basis": "per system",
+        "note": "In Miami-Dade a full replacement must now be a performance-based unit; near water, Type 3 or 4, which sits at the top.",
+        "sources": [
+          {
+            "name": "A to Z Statewide Plumbing, West Park, posted South Florida drain field replacement range, read 2026-10-25",
+            "url": "https://atozstatewideplumbing.com/emergency-septic-pumping/"
+          },
+          {
+            "name": "Hardin, Lin and Thibodeau, FIU, House Prices and Septic Tanks: Miami-Dade County, draft of August 2024, new tank and drain field cost",
+            "url": "https://environment.fiu.edu/programs/environmental-finance-risk-management/environmental-finance-publications/efrm-working-paper-series-2023/2024_08_20_miami_septic_tanks_draft.pdf"
+          }
+        ]
+      },
+      {
+        "job": "Septic-to-sewer conversion, owner's share",
+        "low": 7500,
+        "high": 40000,
+        "basis": "per property",
+        "note": "Low where a sewer main already runs past the lot, high where one must be extended. Tank abandonment is extra.",
+        "sources": [
+          {
+            "name": "Hardin, Lin and Thibodeau, FIU, House Prices and Septic Tanks: Miami-Dade County, draft of August 2024, owner conversion cost range",
+            "url": "https://environment.fiu.edu/programs/environmental-finance-risk-management/environmental-finance-publications/efrm-working-paper-series-2023/2024_08_20_miami_septic_tanks_draft.pdf"
+          },
+          {
+            "name": "Florida Senate, Local Funding Initiative Request 1081, Septic Tank Replacement in Miami-Dade County, 2019",
+            "url": "https://www.flsenate.gov/PublishedContent/Session/FiscalYear/FY2019-20/LocalFundingInitiativeRequests/FY2019-20_S1081.PDF"
+          }
+        ]
+      }
+    ]
+  }
+}

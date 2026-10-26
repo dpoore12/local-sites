@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Spartanburg",
+ "state": "SC",
+ "pop": 37647,
+ "vol": 480,
+ "cpc": 12.5,
+ "lead_value": 6000,
+ "query": "dumpster rental spartanburg",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 46,
+ "top5_pages_min": 24,
+ "top10_pages_med": 89,
+ "top10_pages_min": 24,
+ "winner_words_med": 1246,
+ "winners_measured": 4,
+ "score": 86,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "meridianwaste.com",
+   "url": "https://www.meridianwaste.com/sc/spartanburg/29376/30-yard-roll-off-dumpster-rental/",
+   "title": "Rent a 30-Yard Roll-off Dumpster in Spartanburg SC 29376",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "meridianwaste.com",
+   "url": "https://www.meridianwaste.com/sc/spartanburg/29316/30-yard-temporary-roll-off-dumpster/",
+   "title": "30-Yard Roll-off Dumpster in Spartanburg SC 29316",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/623777511109360/posts/3485946974892385/",
+   "title": "What businesses in Spartanburg offer one-day dumpster ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "redboxplus.com",
+   "url": "https://www.redboxplus.com/upstatesc/rent-a-dumpster-in-the-spartanburg-area/",
+   "title": "Renting the Right Dumpster in Spartanburg, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "meridianwaste.com",
+   "url": "https://www.meridianwaste.com/sc/spartanburg/29301/30-yard-temporary-roll-off-dumpster/",
+   "title": "30-Yard Roll-off Dumpster in Spartanburg, SC 29301",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "hubhauldumpsters.com",
+   "url": "https://hubhauldumpsters.com/blog/dumpster-rental-cost-spartanburg-sc.html",
+   "title": "Dumpster Rental Cost in Spartanburg, SC: What It Covers",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/61568301760496/videos/need-a-dumpster-rental-in-spartanburg-sc-heres-a-little-glimpse-of-some-of-our-r/1676948560070191/",
+   "title": "Need a dumpster rental in Spartanburg, SC? \ud83d\ude9b ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "meridianwaste.com",
+   "url": "https://www.meridianwaste.com/sc/spartanburg/29304/40-yard-roll-off-dumpster-rental/",
+   "title": "Rent a 40-Yard Roll-off Dumpster in Spartanburg, SC 29304",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/sc/spartanburg/dumpster-rental.htm",
+   "title": "Top 10 Best Dumpster providers in Spartanburg, SC",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Spartanburg Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Spartanburg City Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "MR TRASH DUMPSTER RENTALS SPARTANBURG SC",
+   "domain": "callmrtrash.com",
+   "rating": 5,
+   "reviews": 287
+  }
+ ],
+ "fetched": "2026-10-25"
+}

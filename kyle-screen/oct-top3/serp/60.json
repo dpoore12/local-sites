@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Conroe",
+ "state": "TX",
+ "pop": 63032,
+ "vol": 480,
+ "cpc": 12.77,
+ "lead_value": 6130,
+ "query": "dumpster rental conroe",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 63,
+ "top5_pages_min": 4,
+ "top10_pages_med": 167,
+ "top10_pages_min": 4,
+ "winner_words_med": 816,
+ "winners_measured": 4,
+ "score": 74,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "dumpsterrentalcrewconroe.com",
+   "url": "https://www.dumpsterrentalcrewconroe.com/residential",
+   "title": "Dumpster & Roll-Off Container Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=20+Cubic+Yard+Dumpster+Rental&find_loc=Conroe%2C+TX",
+   "title": "TOP 10 BEST 20 Cubic Yard Dumpster Rental in Conroe, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2663758927288451/",
+   "title": "What dumpster rental services are available in Conroe?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "trydownstream.com",
+   "url": "https://trydownstream.com/us/texas/conroe/roll-off-dumpster",
+   "title": "Best Roll-off Dumpster prices for you in Conroe, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "frontierwaste.com",
+   "url": "https://frontierwaste.com/conroe/",
+   "title": "City of Conroe",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "small-dumpster-rental-conroe-tx.ddsdumpsterservices.com",
+   "url": "https://small-dumpster-rental-conroe-tx.ddsdumpsterservices.com/",
+   "title": "Small Dumpster Rental 2, 3, 4, 6, 8 Conroe (888) 438-4290 TX ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2623677744629903/",
+   "title": "Conroe dumpster rentals for residential and commercial use",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/tx/conroe/commercial-trash-service-conroe-tx",
+   "title": "Commercial Business Waste Service Conroe, TX | WM",
+   "kind": "national"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tx/conroe/dumpster-rentals",
+   "title": "Dumpster rental providers near Conroe, TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Prime Waste Dumpster Rentals Conroe",
+   "domain": "primewastedumpsterrental.com",
+   "rating": 5,
+   "reviews": 10
+  },
+  {
+   "title": "Conroe Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Conroe Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

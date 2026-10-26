@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Bristol",
+ "state": "CT",
+ "pop": 60568,
+ "vol": 70,
+ "cpc": 27.78,
+ "lead_value": 1945,
+ "query": "chimney sweep bristol",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 313.0,
+ "top5_pages_min": 34,
+ "top10_pages_med": 313,
+ "top10_pages_min": 34,
+ "winner_words_med": 881,
+ "winners_measured": 2,
+ "score": 29.0,
+ "state_full": "Connecticut",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "chimneysweepbristolct.com",
+   "url": "https://www.chimneysweepbristolct.com/fireplace-installation/",
+   "title": "Fireplace Installation Bristol CT - We Deliver Consistent Results!",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "gmthomeservices.com",
+   "url": "https://gmthomeservices.com/chimney-services-in-bristol-ct/",
+   "title": "Chimney Services in Bristol, CT | Expert Care",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/ct/bristol/category/chimney-cleaning",
+   "title": "Chimney Cleaning near Bristol, CT",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/bristol-chimney-fall-river",
+   "title": "BRISTOL CHIMNEY - Updated October 2026 - Fall River, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "thecleansweeps.com",
+   "url": "https://thecleansweeps.com/locations/bristol-ct/",
+   "title": "Home Services in Newton & Waltham in Bristol, CT",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/ct/bristol/category/chimney-repair",
+   "title": "Chimney Repair near Bristol, CT",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/pennsylvania/md-chimney-sweeps-385187127",
+   "title": "MD Chimney Sweeps, 20 Lincoln Ave, Bristol, PA 19007- ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/pennsylvania/mr-chimney-2275733",
+   "title": "Mr Chimney, 600 Newport Rd, Bristol, PA 19007-3010, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bristolchimneyworks.com",
+   "url": "https://bristolchimneyworks.com/contact.html",
+   "title": "Contact Bristol Chimney Works",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Modern Chimney Sweep",
+   "domain": "modernchimneysweep.site",
+   "rating": 5,
+   "reviews": 3
+  },
+  {
+   "title": "Eversafe Chimney Sweep Experts",
+   "domain": "eversafechimneyexperts.com",
+   "rating": 4.9,
+   "reviews": 48
+  },
+  {
+   "title": "Evergold Chimney Sweep & Roofing Group",
+   "domain": "evergoldroofing.com",
+   "rating": 4.9,
+   "reviews": 105
+  }
+ ],
+ "fetched": "2026-10-25"
+}

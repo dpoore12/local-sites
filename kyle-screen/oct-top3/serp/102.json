@@ -1,0 +1,100 @@
+{
+ "niche": "dumpster rental",
+ "city": "Ocala",
+ "state": "FL",
+ "pop": 57468,
+ "vol": 1000,
+ "cpc": 8.61,
+ "lead_value": 8610,
+ "query": "dumpster rental ocala",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 183,
+ "top5_pages_min": 50,
+ "top10_pages_med": 183,
+ "top10_pages_min": 50,
+ "winner_words_med": 884,
+ "winners_measured": 3,
+ "score": 59,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thejunksharks.com",
+   "url": "https://thejunksharks.com/",
+   "title": "Ocala Dumpster Rental, Same-Day Delivery | The Junk ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/fl/ocala/dumpster-rental-ocala-fl",
+   "title": "Temporary Dumpster Rental in Ocala, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "ocaladumpsterrentals.com",
+   "url": "https://www.ocaladumpsterrentals.com/",
+   "title": "Dumpster Rental Ocala FL | Flat Rate From $345 | RDR",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "affordabledumpsterrental.com",
+   "url": "https://affordabledumpsterrental.com/ocala-dumpster-rental/ocala/",
+   "title": "Ocala Dumpster Rental - Call Today & Save - (352) 225-9492",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Ocala%2C+FL",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN OCALA, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "floridaexpress.us",
+   "url": "https://www.floridaexpress.us/services/residential/roll-off-dumpster-rental",
+   "title": "Dumpster Rental Ocala & Gainesville, FL | Florida Express",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "ocalajunkremoval.net",
+   "url": "https://ocalajunkremoval.net/",
+   "title": "Ocala Junk Removal and Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "bintheredumpthat.com",
+   "url": "https://www.bintheredumpthat.com/north-central-florida-dumpster-rentals/service-areas/ocala/",
+   "title": "Dumpster Rental Service in Ocala: Reliable and Friendly",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "The Junk Sharks Dumpster Rental - Ocala",
+   "domain": "thejunksharks.com",
+   "rating": 5,
+   "reviews": 346
+  },
+  {
+   "title": "Ocala Junk Removal & Dumpster Rental",
+   "domain": "ocalajunkremoval.net",
+   "rating": 5,
+   "reviews": 203
+  },
+  {
+   "title": "Bin There Dump That Ocala - Dumpster Rental",
+   "domain": "bintheredumpthat.com",
+   "rating": 5,
+   "reviews": 273
+  }
+ ],
+ "fetched": "2026-10-25"
+}

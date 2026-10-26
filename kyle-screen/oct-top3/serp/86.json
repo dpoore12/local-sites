@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Leesburg",
+ "state": "VA",
+ "pop": 47673,
+ "vol": 70,
+ "cpc": 25.56,
+ "lead_value": 1789,
+ "query": "pressure washing leesburg",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 93.5,
+ "top5_pages_min": 32,
+ "top10_pages_med": 34,
+ "top10_pages_min": 32,
+ "winner_words_med": 659,
+ "winners_measured": 3,
+ "score": 64.9,
+ "state_full": "Virginia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "reelsradiance.com",
+   "url": "https://reelsradiance.com/service-areas/leesburg-va",
+   "title": "Pressure Washing in Leesburg, VA - Reels Radiance",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/downtownleesburg/posts/1317545582782041/",
+   "title": "Spring Power Washing Services in Leesburg, Virginia",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Pressure+Washers&find_loc=Leesburg%2C+VA",
+   "title": "TOP 10 BEST Pressure Washers in Leesburg, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "perfectpowerwash.com",
+   "url": "https://perfectpowerwash.com/virginia/leesburg/",
+   "title": "Power Washing in Leesburg, Virginia",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "supremewashpro.com",
+   "url": "https://www.supremewashpro.com/near-me/leesburg-pressure-washing",
+   "title": "Leesburg's First-Class Pressure Washing Services",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/blastoff-power-washing-leesburg",
+   "title": "BLASTOFF POWER WASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "rollingsudspowerwashing.com",
+   "url": "https://www.rollingsudspowerwashing.com/home-pressure-washing-company-leesburg-va-3/",
+   "title": "Pressure Washing Company | Leesburg, VA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Loudoun+County%2C+VA",
+   "title": "THE BEST 10 PRESSURE WASHERS IN LOUDOUN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "loudounexteriorcleaning.com",
+   "url": "https://loudounexteriorcleaning.com/",
+   "title": "Loudoun Exterior Cleaning: House Washing & Pressure ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "NOVA Pro Wash",
+   "domain": "novaprowash.com",
+   "rating": 5,
+   "reviews": 183
+  },
+  {
+   "title": "Crudbusters Soft and Power Washing",
+   "domain": "crudbusters.com",
+   "rating": 5,
+   "reviews": 43
+  },
+  {
+   "title": "House Wash VA Power Washing",
+   "domain": "housewashva.com",
+   "rating": 5,
+   "reviews": 700
+  }
+ ],
+ "fetched": "2026-10-25"
+}

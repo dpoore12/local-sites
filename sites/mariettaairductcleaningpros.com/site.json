@@ -1,0 +1,330 @@
+{
+  "domain": "mariettaairductcleaningpros.com",
+  "phase": 2,
+  "brand": "Marietta Air Duct Cleaning Pros",
+  "service": "Air Duct Cleaning",
+  "service_inline": "air duct cleaning",
+  "vertical": "home",
+  "entity_noun": "duct cleaning contractor",
+  "city": "Marietta",
+  "state": "GA",
+  "state_full": "Georgia",
+  "counties": [
+    "Cobb"
+  ],
+  "area_codes": [
+    "770",
+    "678",
+    "470",
+    "943"
+  ],
+  "phone_display": "(943) 271-6154",
+  "phone_tel": "+19432716154",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304137582344). In 943, the newest metro-Atlanta overlay. Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "atlanta_pollen_record_2025",
+      "title": "Atlanta's pollen count broke its record in March 2025",
+      "claim": "On Saturday 29 March 2025 Atlanta Allergy & Asthma recorded a pollen count of 14,801 grains per cubic meter of air, shattering the previous record of 9,368 set in March 2012. Any count above 1,500 is classed as extreme. Trees were the main source, after a warm February with no hard freeze brought an early bloom and a warm, dry March intensified it. The count is taken from a rooftop sampler and read under a microscope.",
+      "why_it_matters": "Pollen gets into a house through doors, windows and any return duct that pulls air from the attic or crawlspace. A filter that fits its slot catches most of it; a leaky return or a loose filter lets it reach the supply runs. Cleaning in the middle of a season like that is wasted money. Fix the filter and the leaks, then clean after the counts fall.",
+      "sources": [
+        "https://www.atlantanewsfirst.com/2025/03/29/atlanta-shatters-pollen-count-record-rising-far-above-extreme-standards/"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "georgia_duct_tightness_testing",
+      "title": "Georgia has tested new duct systems for leaks since 2011",
+      "claim": "Georgia's state energy code took effect on 1 January 2011, and duct and envelope tightness (DET) verification became mandatory on new homes from 30 June 2011. A newly installed duct system must be tested if any part of it, or the air handler, sits outside the building envelope, in an unconditioned attic or crawlspace. As first written, the rules also required an existing system to pass the same test if more than half of it was modified, and required mastic on new or modified ductwork. Under Georgia's amendments to the 2015 IECC the duct leakage target is 6 CFM per 100 square feet of conditioned floor area, and testing must be done by a certified DET verifier such as a HERS rater or BPI analyst.",
+      "why_it_matters": "A Marietta house built before mid-2011 was never held to a duct leakage test, and its attic and crawlspace returns often pull dust, insulation fibers and humid air straight into the system. Cleaning those ducts without sealing them buys a few clean months, and the leak is usually the better use of the money.",
+      "sources": [
+        "https://www.southface.org/wp-content/uploads/2016/07/duct-and-envelope-tightness-faqs.pdf",
+        "https://www.southface.org/wp-content/uploads/2020/06/Energy-Code-FAQs-v2.pdf"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "uga_humidity_mold_guidance",
+      "title": "Georgia's extension service names the AC as a moisture source",
+      "claim": "University of Georgia Extension Circular 1047-1, Preventing Mold in Your Home (fully reviewed 1 March 2023), advises keeping indoor relative humidity below 60 percent and ideally between 30 and 50 percent. It lists air conditioning system flaws, naming an oversized unit, duct leaks, dirty coils and condensation, among the sources of excess moisture in a house, and recommends sealing leaks in HVAC ducts and the return plenum and running a well maintained, right-sized air conditioner with the fan on auto.",
+      "why_it_matters": "In a humid Georgia summer the indoor coil sits cold and wet for months, and that is where musty smells and growth usually start, not in the duct runs. A fan left on 'on' re-wets the house with water from the coil. The coil, the drain pan and the leaks deserve attention before anyone sells a duct sanitizer.",
+      "sources": [
+        "https://fieldreport.caes.uga.edu/publications/C1047-1/preventing-mold-in-your-home/"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "marietta_historic_districts",
+      "title": "Five historic districts of houses built before central air",
+      "claim": "The City of Marietta lists five National Register historic districts: Atlanta-Frasier Street, Church-Cherokee Street, Northwest Marietta, Washington Avenue and Whitlock Avenue, and in August 2013 part of Kennesaw Avenue became the city's first locally designated historic district. The Whitlock Avenue district, listed in 1989, covers 82 acres and 101 contributing buildings dating from before the Civil War into the 1930s. The Northwest Marietta district, listed in 1975, takes in about 230 acres of houses built roughly from the 1840s to the 1890s.",
+      "why_it_matters": "Almost none of those houses were built with forced air or central cooling. Most of their ductwork was added later, threaded through crawlspaces, closets and attics around plaster walls and old framing, and it is often a patchwork of metal and flexible duct of different ages. A cleaning there starts with finding where the runs actually go.",
+      "sources": [
+        "https://mariettaga.gov/398/Historic-Districts-Local-Landmarks",
+        "https://en.wikipedia.org/wiki/Whitlock_Avenue_Historic_District",
+        "https://en.wikipedia.org/wiki/Northwest_Marietta_Historic_District"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Whitlock Avenue",
+    "Church-Cherokee",
+    "Kennesaw Avenue",
+    "Emerson Overlook",
+    "Hamilton Grove",
+    "Woodmere"
+  ],
+  "symptoms": [
+    "dust_back_within_days",
+    "dryer_needs_two_cycles",
+    "musty_smell_when_ac_starts",
+    "weak_airflow_upstairs"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Every Run, Not Just the Registers",
+  "trust_third": "Written scope and total before any register comes off",
+  "services": [
+    {
+      "slug": "air-duct-cleaning",
+      "name": "Air Duct Cleaning",
+      "nav": "Duct cleaning",
+      "h1": "Whole-System Air Duct Cleaning",
+      "accent": "Supply, Return and Air Handler",
+      "photo": "assets/work-1.jpg",
+      "keyword": "air duct cleaning Marietta",
+      "icon": "search"
+    },
+    {
+      "slug": "dryer-vent-cleaning",
+      "name": "Dryer Vent Cleaning",
+      "nav": "Dryer vents",
+      "h1": "Dryer Vent Cleaning",
+      "accent": "Drum to Outside Hood",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dryer vent cleaning Marietta",
+      "icon": "warn"
+    },
+    {
+      "slug": "hvac-coil-cleaning",
+      "name": "Coil and Air Handler Cleaning",
+      "nav": "Coil cleaning",
+      "h1": "Evaporator Coil and Air Handler Cleaning",
+      "accent": "Where the Musty Smell Starts",
+      "photo": "assets/work-3.jpg",
+      "keyword": "AC coil cleaning Marietta",
+      "icon": "gear"
+    },
+    {
+      "slug": "duct-sealing-repair",
+      "name": "Duct Sealing and Repair",
+      "nav": "Duct sealing",
+      "h1": "Duct Sealing and Repair",
+      "accent": "Attic and Crawlspace Leaks Closed",
+      "photo": "assets/hero.jpg",
+      "keyword": "duct sealing Marietta",
+      "icon": "wrench"
+    }
+  ],
+  "symptom_service": [
+    "air-duct-cleaning",
+    "dryer-vent-cleaning",
+    "hvac-coil-cleaning",
+    "duct-sealing-repair"
+  ],
+  "_market": {
+    "keyword": "air duct cleaning marietta",
+    "monthly_price": 800,
+    "volume": 210,
+    "cpc_usd": 29.69,
+    "weakest_competitor": "organic #2 airductcleaningga.com and #3 ductorcleanair.com are both DR 0; #1 is a Yelp directory page; top map-pack listing carries 230 reviews",
+    "competitor_dr": 0.0,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What duct, vent and coil work runs in Marietta",
+    "anchors": [
+      {
+        "label": "Full cleaning, average-sized home",
+        "value": "$450 to $1,000",
+        "detail": "NADCA, the duct cleaning trade association, puts a proper cleaning of an average-sized home in this band nationally, moving with duct type, system size, the number of systems and how dirty they are. Metro Atlanta price lists run lower for a single system.",
+        "source_name": "NADCA Breathing Clean, cost and time estimates",
+        "source_url": "https://www.breathingclean.com/cost-time-estimates"
+      },
+      {
+        "label": "Whole-house specials NADCA says to avoid",
+        "value": "$100 or less",
+        "detail": "NADCA's homeowner guidance tells people to steer clear of bargain-basement whole-house offers at this level, including the ones posted in neighborhood social media groups. A single system cleaned properly takes hours of labor and equipment that a figure like that cannot cover.",
+        "source_name": "NADCA Breathing Clean, top five homeowner FAQs",
+        "source_url": "https://breathingclean.com/blog/considering-air-duct-cleaning-weve-got-answers-top-five-faqs-homeowners-right-here"
+      },
+      {
+        "label": "Atlanta pollen record, 29 March 2025",
+        "value": "14,801 per m³",
+        "detail": "Atlanta Allergy & Asthma's count that day, against a previous record of 9,368 from March 2012 and an extreme threshold of 1,500. Timing a cleaning after the tree pollen drops keeps the work from being undone within weeks.",
+        "source_name": "Atlanta News First, record pollen count report",
+        "source_url": "https://www.atlantanewsfirst.com/2025/03/29/atlanta-shatters-pollen-count-record-rising-far-above-extreme-standards/"
+      },
+      {
+        "label": "Georgia duct leakage target, new systems",
+        "value": "6 CFM per 100 sq ft",
+        "detail": "The duct tightness target under Georgia's amendments to the 2015 IECC, measured by a certified verifier when ducts or the air handler sit outside the insulated envelope. Older systems were never tested, which is why sealing often comes before cleaning.",
+        "source_name": "Southface, Georgia energy code FAQs",
+        "source_url": "https://www.southface.org/wp-content/uploads/2020/06/Energy-Code-FAQs-v2.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Whole-system duct cleaning, one HVAC system, supply and return runs plus the air handler",
+        "low": 250,
+        "high": 700,
+        "basis": "per system",
+        "note": "Metro Atlanta lists cluster from $250 to $550 a system. Confirm the returns, trunk lines and air handler are inside the number.",
+        "sources": [
+          {
+            "name": "Pure Air Atlanta, metro Atlanta air duct cleaning cost guide, updated 2026-10-04, read 2026-10-25",
+            "url": "https://pureairatlanta.com/air-duct-cleaning-cost-atlanta/"
+          },
+          {
+            "name": "Ductor Clean Air, Marietta, posted per-unit price list, read 2026-10-25",
+            "url": "https://ductorcleanair.com/special-prices"
+          },
+          {
+            "name": "Dryer Vent Specialists, Atlanta, posted price list, HVAC air duct cleaning, read 2026-10-25",
+            "url": "https://www.atldvs.com/prices"
+          },
+          {
+            "name": "Voda Cleaning and Restoration of Atlanta-Marietta, Sandy Springs cost page, read 2026-10-25",
+            "url": "https://myvoda.com/atlanta-marietta-ga/?p=4937"
+          }
+        ]
+      },
+      {
+        "job": "Two-system house, upstairs and main-floor units cleaned on one visit",
+        "low": 600,
+        "high": 1500,
+        "basis": "per visit",
+        "note": "Each air handler and its ducts are cleaned and priced as their own system, so two systems land near double.",
+        "sources": [
+          {
+            "name": "Pure Air Atlanta, metro Atlanta cost guide, large home or two-plus systems",
+            "url": "https://pureairatlanta.com/air-duct-cleaning-cost-atlanta/"
+          },
+          {
+            "name": "Voda Cleaning and Restoration of Atlanta-Marietta, larger systems and extensive ductwork",
+            "url": "https://myvoda.com/atlanta-marietta-ga/?p=4937"
+          }
+        ]
+      },
+      {
+        "job": "Per-opening pricing, each supply register or return grille",
+        "low": 25,
+        "high": 75,
+        "basis": "per opening",
+        "note": "Marietta figures sit at $30 to $39 a vent. Returns are larger and run toward the top. Count every opening before comparing.",
+        "sources": [
+          {
+            "name": "HomeBlue, Marietta GA air duct cleaning cost, per-vent range, updated 2024-05-30",
+            "url": "https://www.homeblue.com/duct-cleaning/marietta-ga-air-duct-cleaning-cost.htm"
+          },
+          {
+            "name": "Pure Air Atlanta, metro Atlanta cost guide, per-vent band",
+            "url": "https://pureairatlanta.com/air-duct-cleaning-cost-atlanta/"
+          },
+          {
+            "name": "Housecall Pro, 2026 duct cleaning price guide, per vent and per return",
+            "url": "https://www.housecallpro.com/resources/duct-cleaning-prices/"
+          }
+        ]
+      },
+      {
+        "job": "Dryer vent cleaning, from the drum to the outside hood",
+        "low": 100,
+        "high": 249,
+        "basis": "per visit",
+        "note": "A Marietta list charges $159 alongside duct work, $199 alone, and $8 a foot past twenty feet. Roof runs reach the top.",
+        "sources": [
+          {
+            "name": "Ductor Clean Air, Marietta, posted dryer vent price and per-foot charge, read 2026-10-25",
+            "url": "https://ductorcleanair.com/special-prices"
+          },
+          {
+            "name": "Pure Air Atlanta, metro Atlanta cost guide, dryer vent band",
+            "url": "https://pureairatlanta.com/air-duct-cleaning-cost-atlanta/"
+          },
+          {
+            "name": "Dryer Vent Specialists, Atlanta, posted dryer vent cleaning range, read 2026-10-25",
+            "url": "https://www.atldvs.com/prices"
+          }
+        ]
+      },
+      {
+        "job": "Air handler, blower wheel and coil cleaning added to a duct job",
+        "low": 60,
+        "high": 200,
+        "basis": "added",
+        "note": "The blower wheel and coil usually hold more dirt than the ducts. Ask whether they are in the base price or extra.",
+        "sources": [
+          {
+            "name": "Pure Air Atlanta, metro Atlanta cost guide, furnace and air handler add-on",
+            "url": "https://pureairatlanta.com/air-duct-cleaning-cost-atlanta/"
+          },
+          {
+            "name": "Housecall Pro, 2026 duct cleaning price guide, furnace cleaning add-on",
+            "url": "https://www.housecallpro.com/resources/duct-cleaning-prices/"
+          }
+        ]
+      },
+      {
+        "job": "Sanitizer or antimicrobial fogging of the ducts",
+        "low": 50,
+        "high": 150,
+        "basis": "added",
+        "note": "Worth paying for only with a documented reason. The EPA registers no biocide for internally insulated ducts.",
+        "sources": [
+          {
+            "name": "Pure Air Atlanta, metro Atlanta cost guide, sanitizing and fogging",
+            "url": "https://pureairatlanta.com/air-duct-cleaning-cost-atlanta/"
+          },
+          {
+            "name": "Dryer Vent Specialists, Atlanta, posted dry fog sanitation price, read 2026-10-25",
+            "url": "https://www.atldvs.com/prices"
+          }
+        ]
+      },
+      {
+        "job": "Bathroom exhaust fan cleaned on the same visit",
+        "low": 25,
+        "high": 79,
+        "basis": "added",
+        "note": "One Marietta list adds it for $25 with other work; a standalone exhaust fan call starts higher.",
+        "sources": [
+          {
+            "name": "Ductor Clean Air, Marietta, posted bathroom fan add-on, read 2026-10-25",
+            "url": "https://ductorcleanair.com/special-prices"
+          },
+          {
+            "name": "Dryer Vent Specialists, Atlanta, posted bathroom exhaust price, read 2026-10-25",
+            "url": "https://www.atldvs.com/prices"
+          }
+        ]
+      }
+    ]
+  }
+}

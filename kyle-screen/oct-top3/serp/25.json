@@ -1,0 +1,113 @@
+{
+ "niche": "junk removal",
+ "city": "Bradenton",
+ "state": "FL",
+ "pop": 51763,
+ "vol": 480,
+ "cpc": 15.84,
+ "lead_value": 7603,
+ "query": "junk removal bradenton",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 26,
+ "top5_pages_min": 21,
+ "top10_pages_med": 26,
+ "top10_pages_min": 21,
+ "winner_words_med": 819,
+ "winners_measured": 3,
+ "score": 88,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/bradenton/debris-removal/?srsltid=AYCX9vK6td2RKQr1ZRm288WL6d3MX22UogToGO8q0M7iW13kNlhPLVGe",
+   "title": "Debris Removal in Bradenton, FL | Pickup & Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/157091669737802/posts/1315414397238851/",
+   "title": "Simple junk removal pricing in Bradenton",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/manatee-junk-bros-bradenton",
+   "title": "MANATEE JUNK BROS - Updated October 2026 - 59 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/parrishnetwork/posts/2774611106257763/",
+   "title": "Junk removal companies for mobile home cleanout in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "junkremovalinbradnton.com",
+   "url": "https://junkremovalinbradnton.com/about-us/",
+   "title": "Local Junk Hauling Service - Junk Removal Bradenton",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/630380630330970/posts/26109002488708767/",
+   "title": "Is there someone who hauls junk/scraps in or near ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1975904302676453/posts/3756228584644007/",
+   "title": "Is there a free junk removal service in Bradenton/Sarasota ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/bradenton/waste-and-junk-removal",
+   "title": "Junk removal professionals near Bradenton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/bradenton/furniture-removal/?srsltid=AYCX9vJ0C4JHQUkzeRmymiiufDz1g7_h_tiQNcIJYv0OGUl8kZ933uoF",
+   "title": "Furniture Removal in Bradenton, FL ~ Instant Price",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bradenton Junk Removal",
+   "domain": "bradentonjunkremoval.com",
+   "rating": 5,
+   "reviews": 25
+  },
+  {
+   "title": "Manatee Junk Bros",
+   "domain": "manateejunkbros.com",
+   "rating": 5,
+   "reviews": 507
+  },
+  {
+   "title": "Djangos Junk Removal",
+   "domain": "djangosjunk.com",
+   "rating": 5,
+   "reviews": 105
+  },
+  {
+   "title": "2Easy Junk Removal        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 23
+  }
+ ],
+ "fetched": "2026-10-25"
+}

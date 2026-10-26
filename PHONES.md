@@ -102,3 +102,26 @@ tow (`call-desk/log/voicemail_2026-10-25_evansville/TRANSCRIPTS.md`). 402-0614 w
 the same day. The site change was deployed alone with `swap_phone_deploy.py` (9 Evansville
 pages, nothing else on the network changed); `data/manifest.json` is the new live manifest.
 Watch the first week: any non-Evansville caller on 266-9502 means this one has a past too.
+
+## Kyle batch 1 numbers, bought 2026-10-25 (Telnyx order 8f5ea477)
+
+Ten local numbers, each picked from a run of consecutive free numbers, newest overlay where
+one exists. Each is on its own TeXML app (named after the domain) pointing at
+`call-desk-xi.vercel.app/v/<domain>.xml`: voicemail, no forwarding yet.
+
+| Site | Number |
+|---|---|
+| bentonvilledumpsterrentalpros.com | (479) 415-5328 |
+| dryerventcleaningocala.com | (352) 723-0197 |
+| mariettaairductcleaningpros.com | (943) 271-6154 (new metro-Atlanta overlay) |
+| windowtintingbradenton.com | (941) 557-1022 |
+| wellingtondumpsterrentalpros.com | (728) 226-7144 (new 561 overlay) |
+| biloxidumpsterrentalpros.com | (228) 250-0380 |
+| schaumburgairductcleaningpros.com | (224) 524-0789 |
+| northmiamiseptictankpumpingpros.com | (645) 654-0839 (Miami-Dade overlay) |
+| wheatonairductcleaningpros.com | (331) 600-8021 |
+| pensacoladumpsterrentalpros.com | (448) 216-5186 (new 850 overlay) |
+
+App and number ids are in `call-desk/wiring.json`. The call-desk XML was deployed through the
+Vercel connector (existing files referenced by SHA, new ones inline), because there is no
+VERCEL_TOKEN on the Mac.

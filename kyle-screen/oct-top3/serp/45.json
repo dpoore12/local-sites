@@ -1,0 +1,100 @@
+{
+ "niche": "paintless dent repair",
+ "city": "Rockwall",
+ "state": "TX",
+ "pop": 40922,
+ "vol": 140,
+ "cpc": 15.48,
+ "lead_value": 2167,
+ "query": "paintless dent repair rockwall",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 32,
+ "top5_pages_min": 12,
+ "top10_pages_med": 57,
+ "top10_pages_min": 12,
+ "winner_words_med": 1199,
+ "winners_measured": 4,
+ "score": 80.4,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "capitalcollisiontx.com",
+   "url": "https://www.capitalcollisiontx.com/service-area/hail-damage-repair-service-in-rockwall-tx",
+   "title": "Hail Damage Repair Service in Rockwall, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/TopNotchImage/posts/pushing-hail-dents-in-rockwall-tx-rockwalltx-fatetx-rowletttx-roysecitytx-quinla/1562816392513160/",
+   "title": "Pushing hail dents in Rockwall, TX! #rockwalltx #fatetx # ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "carwise.com",
+   "url": "https://www.carwise.com/auto-body-shops/maaco-rockwall-rockwall-tx-75087/567285",
+   "title": "Maaco Rockwall - Auto Body Shops",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "premierdentrepairdfw.com",
+   "url": "https://premierdentrepairdfw.com/",
+   "title": "Premier Dent Repair: Paintless Dent Repair Dallas, TX DFW",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1819789084912413/posts/5485424065015545/",
+   "title": "Recommended body shops in Rockwall, TX for bumper ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "m.yelp.ca",
+   "url": "https://m.yelp.ca/biz/all-star-pdr-rockwall?rg=1",
+   "title": "ALL STAR PDR - Updated October 2026 - 14 Photos",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/texas/dent-guy-371083049",
+   "title": "Dent Guy Inc, 5330 Rochell Rd, Fate, TX 75032, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/TopNotchImage?locale=af_ZA",
+   "title": "Top Notch Dent Repair l Auto Hail Repair In Rockwall, TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dent Guy Inc. Paintless Dent Repair",
+   "domain": "dentguypdr.net",
+   "rating": 5,
+   "reviews": 112
+  },
+  {
+   "title": "All Star PDR",
+   "domain": "allstarpdr.com",
+   "rating": 5,
+   "reviews": 22
+  },
+  {
+   "title": "Dallas PDR Paintless Dent Repair",
+   "domain": "facebook.com",
+   "rating": 4.9,
+   "reviews": 275
+  }
+ ],
+ "fetched": "2026-10-25"
+}

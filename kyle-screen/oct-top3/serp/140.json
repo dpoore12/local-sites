@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Manassas",
+ "state": "VA",
+ "pop": 41705,
+ "vol": 140,
+ "cpc": 29.03,
+ "lead_value": 4064,
+ "query": "air duct cleaning manassas",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 335,
+ "top5_pages_min": 89,
+ "top10_pages_med": 155,
+ "top10_pages_min": 60,
+ "winner_words_med": 1278,
+ "winners_measured": 5,
+ "score": 44,
+ "state_full": "Virginia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/va/manassas/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Manassas, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/va/manassas/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Manassas, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/atlantic-duct-cleaning-inc-manassas-va/",
+   "title": "Atlantic Duct Cleaning - Manassas, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "duct-cleaning.promatcher.com",
+   "url": "https://duct-cleaning.promatcher.com/cost/manassas-va-duct-cleaning-costs-prices.aspx",
+   "title": "Manassas Duct Cleaning Costs & Prices",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/101823712683887/reviews/",
+   "title": "Pronto Air Duct Cleaning | Manassas VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/crystal-clean-duct-service-manassas",
+   "title": "Crystal Clean Duct Service - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/info-227226180-b-d-air-duct-cleaning-service-manassas/",
+   "title": "B & D Air Duct Cleaning Service in Manassas, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "ezductclean.com",
+   "url": "https://ezductclean.com/service-areas/manassas-va/",
+   "title": "Manassas, VA - NADCA Certified | EZDuctClean",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "thedvguys.com",
+   "url": "https://thedvguys.com/gainesville/hvac-equipment-cleaning-manassas-va/",
+   "title": "HVAC Equipment Cleaning in Manassas, VA | The Vent Guys",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Crystal Clean Duct Service LLC",
+   "domain": "crystalcleanductservice.com",
+   "rating": 4.9,
+   "reviews": 649
+  },
+  {
+   "title": "Pronto Air Duct Cleaning",
+   "domain": "prontoairduct.com",
+   "rating": 5,
+   "reviews": 479
+  },
+  {
+   "title": "Atlantic Duct Cleaning",
+   "domain": "atlanticductcleaning.com",
+   "rating": 5,
+   "reviews": 5000
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,313 @@
+{
+  "domain": "windowtintingbradenton.com",
+  "phase": 2,
+  "brand": "Window Tinting Bradenton",
+  "service": "Window Tinting",
+  "service_inline": "window tinting",
+  "vertical": "home",
+  "pro_noun": null,
+  "entity_noun": "window film installer",
+  "city": "Bradenton",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Manatee"
+  ],
+  "area_codes": [
+    "941"
+  ],
+  "phone_display": "(941) 557-1022",
+  "phone_tel": "+19415571022",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304120805127). In the market's own area code. Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "fl_tint_limits",
+      "title": "Florida sets the shade by the window, not by the car",
+      "claim": "Florida Statutes 316.2953 requires film on the side windows beside and ahead of the driver to pass at least 28 percent of visible light and reflect no more than 25 percent. Section 316.2954 sets the windows behind the driver at 15 percent minimum transmittance and 35 percent maximum reflectance, or 6 percent on multipurpose passenger vehicles such as SUVs and vans. Section 316.2955 allows 3 percent either way on a reading and requires a compliance label inside the driver's door jamb.",
+      "why_it_matters": "The same 20 percent film is legal on a sedan's back glass and illegal on its front doors. Ask for the meter reading on the front glass and check the door-jamb label before driving off.",
+      "sources": [
+        "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.2953.html",
+        "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.2954.html",
+        "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.2955.html"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "medical_exemption",
+      "title": "A $6.50 certificate covers darker film for a medical reason",
+      "claim": "Section 316.29545 has the Department of Highway Safety and Motor Vehicles issue exemption certificates for lupus, autoimmune disease or other conditions requiring limited light exposure. Form HSMV 83390, revised July 2025, needs a certification from a qualifying physician, PA or nurse practitioner and a copy of a Florida license or ID, mailed to the Bureau of Motorist Compliance. The fee is $6.50 per vehicle; the certificate never expires but is void once the vehicle is sold.",
+      "why_it_matters": "Film darker than the statute allows, or on the windshield below the AS-1 line, is lawful only with this certificate for that exact car, so it should be in hand before the film goes on.",
+      "sources": [
+        "https://flhsmv.gov/pdf/forms/83390.pdf",
+        "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.29545.html"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "milton_glass",
+      "title": "Milton gusted past 100 mph at the Sarasota-Bradenton airport",
+      "claim": "Hurricane Milton made landfall on the west-central Florida coast as a Category 3 on 9 October 2024. The National Weather Service Tampa Bay report lists Sarasota/Bradenton International Airport at 60 knots sustained with an 89-knot gust, the highest land gust in its table; the National Hurricane Center's 10 p.m. update put it at 102 mph. Florida Statutes 553.842(5) bars marketing any product as hurricane or impact protection without state product approval.",
+      "why_it_matters": "Safety film holds broken glass together, but it is no substitute for shutters or impact windows. A quote calling film hurricane protection without a Florida approval number is a claim the seller may not make.",
+      "sources": [
+        "https://www.weather.gov/media/tbw/TropicalEventSummary/PSHTBW_2024AL14_Milton_Summary.pdf",
+        "https://www.nhc.noaa.gov/archive/2024/al14/al142024.update.10100155.shtml?text",
+        "https://www.flsenate.gov/Laws/Statutes/2025/553.842"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "bradenton_heat",
+      "title": "One hundred and ten days of 90-degree normal highs",
+      "claim": "The National Weather Service's 1991-2020 daily normals for the Bradenton 5 ESE station put the normal high at 90 degrees or above every day from 31 May through 17 September, 110 days in a row, peaking at 92.0 in July and early August. The station logs 3,773 cooling degree days a year against 438 heating degree days.",
+      "why_it_matters": "A car parked all afternoon and a west-facing slider in Palma Sola take that load for a third of the year. Heat rejection, not darkness, is the number worth comparing.",
+      "sources": [
+        "https://www.weather.gov/media/tbw/climate/normals/BRAF1DailyTable.pdf"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Wares Creek",
+    "Point Pleasant",
+    "Riverview Boulevard",
+    "Warner's Bayou",
+    "Palma Sola Park",
+    "Village of the Arts"
+  ],
+  "symptoms": [
+    "car_cabin_too_hot",
+    "film_failing_or_too_dark",
+    "home_windows_heat_and_fading",
+    "office_glare_and_glass_safety"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Legal Shades, Real Heat Rejection",
+  "trust_third": "Film, shade and price stated before work starts",
+  "services": [
+    {
+      "slug": "car-window-tinting",
+      "name": "Car Window Tinting",
+      "nav": "Car tint",
+      "h1": "Car Window Tinting",
+      "accent": "Florida-Legal Shades, Labeled",
+      "photo": "assets/work-1.jpg",
+      "keyword": "car window tinting Bradenton",
+      "icon": "shield"
+    },
+    {
+      "slug": "ceramic-window-tint",
+      "name": "Ceramic Window Tint",
+      "nav": "Ceramic tint",
+      "h1": "Ceramic Window Tint",
+      "accent": "Heat Out, Not Just Light",
+      "photo": "assets/work-2.jpg",
+      "keyword": "ceramic window tint Bradenton",
+      "icon": "bolt"
+    },
+    {
+      "slug": "residential-window-tinting",
+      "name": "Home Window Tinting",
+      "nav": "Home film",
+      "h1": "Residential Window Tinting",
+      "accent": "Heat, Glare and Faded Floors",
+      "photo": "assets/work-3.jpg",
+      "keyword": "residential window tinting Bradenton",
+      "icon": "house"
+    },
+    {
+      "slug": "commercial-window-tinting",
+      "name": "Commercial Window Film",
+      "nav": "Office film",
+      "h1": "Commercial Window Tinting",
+      "accent": "Storefronts, Offices, Safety Film",
+      "photo": "assets/hero.jpg",
+      "keyword": "commercial window tinting Bradenton",
+      "icon": "eye"
+    }
+  ],
+  "symptom_service": [
+    "ceramic-window-tint",
+    "car-window-tinting",
+    "residential-window-tinting",
+    "commercial-window-tinting"
+  ],
+  "_market": {
+    "keyword": "window tinting bradenton",
+    "monthly_price": 800,
+    "volume": 480,
+    "cpc_usd": 11.75,
+    "weakest_competitor": "organic #1 tintworxfl.com and #3 mjtint.com are both DR 0 with no posted prices; #2 is a Yelp list; top map listing carries 210 reviews",
+    "competitor_dr": 0.0,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What window tint jobs run in Bradenton",
+    "anchors": [
+      {
+        "label": "Front door glass, least light the film must pass",
+        "value": "28%",
+        "detail": "Florida Statutes 316.2953 covers the side windows beside and ahead of the driver: at least 28 percent visible light transmittance and no more than 25 percent reflectance, measured on that car's glass with the film on.",
+        "source_name": "Florida Statutes 316.2953, side windows",
+        "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.2953.html"
+      },
+      {
+        "label": "Rear side and back glass, least light the film must pass",
+        "value": "15% car, 6% SUV or van",
+        "detail": "Florida Statutes 316.2954 sets windows behind the driver at 15 percent transmittance and 35 percent maximum reflectance, with a 6 percent floor for multipurpose passenger vehicles. A fully darkened back glass also needs mirrors on both sides.",
+        "source_name": "Florida Statutes 316.2954, windows behind the driver",
+        "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.2954.html"
+      },
+      {
+        "label": "Tolerance on any light meter reading",
+        "value": "Plus or minus 3%",
+        "detail": "Florida Statutes 316.2955 allows 3 percent either way on every measurement in the tint sections and requires the installer to fix a compliance label, naming the film and the installer, to the inside of the driver's door jamb.",
+        "source_name": "Florida Statutes 316.2955, labeling and tolerances",
+        "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/Sections/0316.2955.html"
+      },
+      {
+        "label": "Medical exemption certificate, per vehicle",
+        "value": "$6.50",
+        "detail": "Form HSMV 83390, signed by a qualifying physician, PA or nurse practitioner and mailed to the Bureau of Motorist Compliance. The certificate never expires but is void when the car is sold.",
+        "source_name": "FLHSMV form HSMV 83390, revised July 2025",
+        "source_url": "https://flhsmv.gov/pdf/forms/83390.pdf"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Full car in carbon or entry film, side and rear glass, no windshield",
+        "low": 150,
+        "high": 500,
+        "basis": "per vehicle",
+        "note": "Coupes and small sedans sit at the bottom. Large SUVs with cargo glass, and one-piece rear windows, climb to the top.",
+        "sources": [
+          {
+            "name": "Ampd Auto Detailing, mobile to Bradenton and Manatee County, posted carbon starting price, read 2026-10-25",
+            "url": "https://ampdautodetailing.com/window-tint/bradenton/"
+          },
+          {
+            "name": "Sharkey's Detailing & Tint, Sarasota, posted carbon film starting price, read 2026-10-25",
+            "url": "https://www.sharkeysdetailingandtint.com/bradenton-window-tinting"
+          },
+          {
+            "name": "Coastal Tint Co, Sarasota, Florida pricing guide, carbon sedan range, read 2026-10-25",
+            "url": "https://www.coastaltintco.com/blog/how-much-does-window-tinting-cost-florida"
+          },
+          {
+            "name": "Tint World, Port Charlotte store, posted carbon ranges by vehicle class, read 2026-10-25",
+            "url": "https://www.tintworld.com/?p=954858"
+          }
+        ]
+      },
+      {
+        "job": "Full car in ceramic film, side and rear glass, no windshield",
+        "low": 225,
+        "high": 800,
+        "basis": "per vehicle",
+        "note": "Entry ceramic on a small car starts low. Premium infrared-rejecting lines on a three-row SUV reach the top.",
+        "sources": [
+          {
+            "name": "Ampd Auto Detailing, mobile to Bradenton, posted ceramic starting price, read 2026-10-25",
+            "url": "https://ampdautodetailing.com/window-tint/bradenton/"
+          },
+          {
+            "name": "The Window Wizard, mobile Bradenton and Sarasota, posted full-vehicle ceramic starting price, read 2026-10-25",
+            "url": "https://thewindowwiz.com/"
+          },
+          {
+            "name": "Coastal Tint Co, Sarasota, posted full-car ceramic prices by vehicle class, read 2026-10-25",
+            "url": "https://www.coastaltintco.com/pricing"
+          },
+          {
+            "name": "Tint World, Port Charlotte store, posted ceramic ranges by vehicle class, read 2026-10-25",
+            "url": "https://www.tintworld.com/?p=954858"
+          }
+        ]
+      },
+      {
+        "job": "Clear ceramic film across the whole windshield",
+        "low": 150,
+        "high": 199,
+        "basis": "per vehicle",
+        "note": "Below the AS-1 line this is only lawful in Florida with a medical exemption certificate for that car.",
+        "sources": [
+          {
+            "name": "The Window Wizard, Bradenton and Sarasota, posted 70 percent ceramic windshield starting price, read 2026-10-25",
+            "url": "https://thewindowwiz.com/auto-window-tinting"
+          },
+          {
+            "name": "Coastal Tint Co, Sarasota, posted windshield add-on price, read 2026-10-25",
+            "url": "https://www.coastaltintco.com/pricing"
+          }
+        ]
+      },
+      {
+        "job": "Visor strip only, or the two front door windows only",
+        "low": 60,
+        "high": 100,
+        "basis": "per visit",
+        "note": "Posted starting prices. Matching factory-dark rear glass usually means a lighter, legal shade on the front doors.",
+        "sources": [
+          {
+            "name": "The Window Wizard, Bradenton and Sarasota, posted visor strip and front-two starting prices, read 2026-10-25",
+            "url": "https://thewindowwiz.com/auto-window-tinting"
+          },
+          {
+            "name": "Crown Clean Auto Detailing, Tampa, posted windshield strip and front-two starting prices, read 2026-10-25",
+            "url": "https://crowncleanautodetailing.com/mobile-tinting-service-tampa/"
+          }
+        ]
+      },
+      {
+        "job": "Home windows, solar-control or ceramic film, installed",
+        "low": 5,
+        "high": 20,
+        "basis": "per sq ft",
+        "note": "Dyed film at the bottom, nano-ceramic at the top. Second-floor glass, arched tops and small-job minimums raise the total.",
+        "sources": [
+          {
+            "name": "Southwest Florida Tinting & PPF, Fort Myers, residential cost guide, per-square-foot ranges, read 2026-10-25",
+            "url": "https://www.fortmyerstint.com/blog/residential-window-tinting-cost-in-fort-myers-fl-is-it-worth-the-investment/"
+          },
+          {
+            "name": "Sea Cool, South Florida, window film cost guide, per-square-foot ranges, read 2026-10-25",
+            "url": "https://www.sea-cool.com/resources/window-film-cost-guide/"
+          }
+        ]
+      },
+      {
+        "job": "Safety and security film on home or storefront glass, installed",
+        "low": 10,
+        "high": 24,
+        "basis": "per sq ft",
+        "note": "Thicker film anchored to the frame with an attachment system sits at the top. None of it is approved hurricane protection.",
+        "sources": [
+          {
+            "name": "Southwest Florida Tinting & PPF, Fort Myers, security film per-square-foot range, read 2026-10-25",
+            "url": "https://www.fortmyerstint.com/blog/residential-window-tinting-cost-in-fort-myers-fl-is-it-worth-the-investment/"
+          },
+          {
+            "name": "Sea Cool, South Florida, security glazing with attachment system, per-square-foot range, read 2026-10-25",
+            "url": "https://www.sea-cool.com/resources/window-film-cost-guide/"
+          }
+        ]
+      }
+    ]
+  }
+}

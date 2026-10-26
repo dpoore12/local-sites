@@ -1,0 +1,100 @@
+{
+ "niche": "window tinting",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 590,
+ "cpc": 7.45,
+ "lead_value": 4396,
+ "query": "window tinting fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 94.0,
+ "top5_pages_min": 12,
+ "top10_pages_med": 66,
+ "top10_pages_min": 12,
+ "winner_words_med": 1308,
+ "winners_measured": 6,
+ "score": 71,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/fl/fort-myers-004/car-window-tinting/",
+   "title": "Car Window Tinting | Fort Myers, Florida",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "solartextinting.com",
+   "url": "https://www.solartextinting.com/",
+   "title": "Solartex Window Tinting | #1 Fort Myers Tinting Company",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "bhwtinc.com",
+   "url": "http://www.bhwtinc.com/",
+   "title": "Beverly Hills Window Tinting & Treatments Ft Myers & Naples",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "windowtintingfortmyers.com",
+   "url": "https://www.windowtintingfortmyers.com/",
+   "title": "Window Tinting Fort Myers | Auto Window Tinting Fort Myers FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Fort+Myers%2C+FL",
+   "title": "THE BEST 10 CAR WINDOW TINTING IN FORT MYERS, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "distinctivetint.com",
+   "url": "https://www.distinctivetint.com/",
+   "title": "Distinctive Window Tinting | Best Window Tinting & Paint ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/SHADESCustomWindowTinting/",
+   "title": "Shades Custom Window Tinting | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "suntamer.com",
+   "url": "https://suntamer.com/",
+   "title": "Suntamers Window Tinting SWFL: Cape Coral, Bonita, Fort ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Afterhours Tint Studio",
+   "domain": "",
+   "rating": 5,
+   "reviews": 91
+  },
+  {
+   "title": "Miracle Shade",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 305
+  },
+  {
+   "title": "Tint World",
+   "domain": "tintworld.com",
+   "rating": 4.8,
+   "reviews": 355
+  }
+ ],
+ "fetched": "2026-10-25"
+}

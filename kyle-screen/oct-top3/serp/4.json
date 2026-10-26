@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Asheville",
+ "state": "NC",
+ "pop": 87236,
+ "vol": 720,
+ "cpc": 9.69,
+ "lead_value": 6977,
+ "query": "dumpster rental asheville",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 18,
+ "top5_pages_min": 7,
+ "top10_pages_med": 98,
+ "top10_pages_min": 7,
+ "winner_words_med": 326,
+ "winners_measured": 4,
+ "score": 95,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wasteawayavl.com",
+   "url": "https://wasteawayavl.com/dumpster-rental-asheville-nc-waste-away",
+   "title": "Dumpster Rental Asheville, NC by Waste Away",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "griffinwaste.com",
+   "url": "https://griffinwaste.com/dumpster-franchise/dumpster-rentals-asheville-nc/",
+   "title": "Asheville, NC Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/asheville/comments/keykn9/dumpster_rental_recommendation/",
+   "title": "Dumpster Rental Recommendation? : r/asheville",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/nc/asheville/dumpster-rental-asheville-nc",
+   "title": "Temporary Dumpster Rental in Asheville, NC",
+   "kind": "national"
+  },
+  {
+   "pos": 5,
+   "domain": "carolinadumpsterservice.com",
+   "url": "https://www.carolinadumpsterservice.com/",
+   "title": "Carolina Dumpster Service",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Asheville%2C+NC",
+   "title": "TOP 10 BEST Dumpster Rental in Asheville, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "allindumpsterrentals.com",
+   "url": "https://allindumpsterrentals.com/",
+   "title": "All-In Dumpster Rentals: Dumpster Rental Asheville NC | Roll ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "ewingdumpsters.com",
+   "url": "https://ewingdumpsters.com/",
+   "title": "Ewing's Dumpster Service",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "dumpstercontrols.io",
+   "url": "https://dumpstercontrols.io/directory/north-carolina/asheville",
+   "title": "Dumpster Rental Companies in Asheville, NC",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Asheville Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Bedrock Dumpster Rental",
+   "domain": "bedrockdumpsterrental.com",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "All In Dumpster Rentals",
+   "domain": "allindumpsterrentals.com",
+   "rating": 5,
+   "reviews": 14
+  }
+ ],
+ "fetched": "2026-10-25"
+}

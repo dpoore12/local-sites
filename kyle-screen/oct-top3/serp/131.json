@@ -1,0 +1,113 @@
+{
+ "niche": "junk removal",
+ "city": "Upland",
+ "state": "CA",
+ "pop": 75413,
+ "vol": 320,
+ "cpc": 21.33,
+ "lead_value": 6826,
+ "query": "junk removal upland",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 789,
+ "top5_pages_min": 5,
+ "top10_pages_med": 449,
+ "top10_pages_min": 5,
+ "winner_words_med": 730,
+ "winners_measured": 4,
+ "score": 50,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/upland-ca/furniture-removal/?srsltid=AYCX9vIBOKdCNLDceHVz8vvpLxkJrv_Jcaaph3yfu8UjmIyrAtY3a4lK",
+   "title": "Furniture Removal in Upland, CA ~ Instant Price",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/take-out-junk-upland",
+   "title": "TAKE OUT JUNK - Updated October 2026 - 22 Reviews",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/upland-ca/trash-pick-up-services",
+   "title": "Best Trash Pick Up Services in Upland, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "uplandca.gov",
+   "url": "https://www.uplandca.gov/public_works/trash/index.php",
+   "title": "Recycling and Waste",
+   "kind": "gov/edu"
+  },
+  {
+   "pos": 5,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/upland-ca/trash-pickup/?srsltid=AYCX9vICNdIAoUIG_jGzn3N8q_zR0MVProqfmY6w_35Xy78UwFK5cig7",
+   "title": "Trash Pickup Services in Upland, CA | Removal & Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "craigslist.org",
+   "url": "https://www.craigslist.org/search/city/upland-ca?cat=lbs",
+   "title": "Labor / Hauling / Moving near Upland, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/trash-hauling-services-in-upland/",
+   "title": "Trash Hauling Services in Upland",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/upland-ca/storage-unit-cleanout/?srsltid=AYCX9vK_4KSoVFjZWfJTXP2qFIQajMomHVzOECAQjg6HuE77RG04k4PG",
+   "title": "Storage Unit Cleanout in Upland, CA ~ Book Now!",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/mexicano-junk-removal-528756649",
+   "title": "Mexicano Junk Removal, Upland, CA 91786, US",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "LoadUp Junk Removal        My Ad Center",
+   "domain": "google.com",
+   "rating": 4.9,
+   "reviews": 572
+  },
+  {
+   "title": "Upland Junk Removal",
+   "domain": "uplandjunkremoval.com",
+   "rating": 5,
+   "reviews": 16
+  },
+  {
+   "title": "Take Out Junk",
+   "domain": "takeoutjunk.wixsite.com",
+   "rating": 5,
+   "reviews": 37
+  },
+  {
+   "title": "Mexicano Junk Removal",
+   "domain": "mexicanojunkremoval.com",
+   "rating": 5,
+   "reviews": 86
+  }
+ ],
+ "fetched": "2026-10-25"
+}

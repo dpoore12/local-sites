@@ -1,0 +1,107 @@
+{
+ "niche": "auto glass repair",
+ "city": "Beaverton",
+ "state": "OR",
+ "pop": 93542,
+ "vol": 70,
+ "cpc": 24.21,
+ "lead_value": 1695,
+ "query": "auto glass repair beaverton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 149,
+ "top5_pages_min": 6,
+ "top10_pages_med": 153,
+ "top10_pages_min": 6,
+ "winner_words_med": 845,
+ "winners_measured": 4,
+ "score": 57.3,
+ "state_full": "Oregon",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "beavertonautoglass.com",
+   "url": "https://www.beavertonautoglass.com/",
+   "title": "Auto Glass Repair & Windshield Replacement | Beaverton ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Auto+Glass+Repair&find_loc=Beaverton%2C+OR",
+   "title": "TOP 10 BEST Auto Glass Repair in Beaverton, OR",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "safelite.com",
+   "url": "https://www.safelite.com/stores/beaverton",
+   "title": "Windshield Repair & Replacement in Beaverton, OR",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "collisionautoglass.com",
+   "url": "https://collisionautoglass.com/",
+   "title": "Auto Glass Repair Portland & Tualatin OR | Collision Auto Glass",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "glassdoctor.com",
+   "url": "https://glassdoctor.com/sw-portland-auto",
+   "title": "Auto Glass Repair Professionals Serving SW Portland",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "cascadeautoglass.com",
+   "url": "https://cascadeautoglass.com/in/beaverton-or/",
+   "title": "Beaverton, OR",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "msglassoutlet.com",
+   "url": "https://www.msglassoutlet.com/auto-glass-repair-beaverton-or",
+   "title": "Auto Glass Repair & Windshield Replacement Beaverton OR",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "farrellsglass.com",
+   "url": "https://farrellsglass.com/location/beaverton-or/",
+   "title": "Glass Repair in Beaverton, OR | Auto, Home & Commercial ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "beavertongmc.com",
+   "url": "https://www.beavertongmc.com/windshield-repair",
+   "title": "Windshield Repair & Replacement Services in PORTLAND",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Glass Doctor Auto of SW Portland",
+   "domain": "",
+   "rating": 5,
+   "reviews": 254
+  },
+  {
+   "title": "MS Glass Outlet",
+   "domain": "msglassoutlet.com",
+   "rating": 4.7,
+   "reviews": 1300
+  },
+  {
+   "title": "Evergreen Auto Glass",
+   "domain": "evergreenautoglass.com",
+   "rating": 5,
+   "reviews": 876
+  }
+ ],
+ "fetched": "2026-10-25"
+}

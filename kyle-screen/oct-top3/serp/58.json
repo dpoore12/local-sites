@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Kissimmee",
+ "state": "FL",
+ "pop": 65173,
+ "vol": 260,
+ "cpc": 39.82,
+ "lead_value": 10353,
+ "query": "air duct cleaning kissimmee",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 56,
+ "top5_pages_min": 5,
+ "top10_pages_med": 36,
+ "top10_pages_min": 5,
+ "winner_words_med": 836,
+ "winners_measured": 4,
+ "score": 76,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/kissimmee/eclair-duct-cleaning-reviews-9374329.htm",
+   "title": "Eclair Duct Cleaning",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "abc-cleaninginc.com",
+   "url": "https://abc-cleaninginc.com/kissimmee-air-duct-cleaning/",
+   "title": "ABC Cleaning - Kissimmee - Air Duct Cleaning Orlando",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "central-florida-ducts-lighting.com",
+   "url": "https://central-florida-ducts-lighting.com/services/ducts/dryer-vent-cleaning-in-kissimmee/",
+   "title": "Dryer Vent Cleaning in Kissimmee",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/300283777215494/posts/1877160409527815/",
+   "title": "Air Duct Cleaning Services for Homes in Kissimmee",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/purity-air-ducting-cleaning-kissimmee",
+   "title": "PURITY AIR DUCTING CLEANING - Kissimmee, Florida",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "kissimmeeairductcleaning.com",
+   "url": "https://kissimmeeairductcleaning.com/duct-cleaning-for-leed-homes-kissimmee-fl/",
+   "title": "Duct Cleaning for LEED Homes in Kissimmee, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/duct-cleaning-kissimmee/",
+   "title": "Duct Cleaning Kissimmee",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dryer-vent-angel-kissimmee",
+   "title": "DRYER VENT ANGEL - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "kissimmeeairductcleaning.com",
+   "url": "https://kissimmeeairductcleaning.com/air-duct-rodent-removal-kissimmee-fl/",
+   "title": "Air Duct Rodent Removal in Kissimmee, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Speedy AC Duct Cleaning Service",
+   "domain": "speedyacductcleaningservice.com",
+   "rating": 4.9,
+   "reviews": 289
+  },
+  {
+   "title": "Central Fl duct cleaning",
+   "domain": "ductcleaningcentralfl.com",
+   "rating": 5,
+   "reviews": 65
+  },
+  {
+   "title": "Ducks AC & Duct Cleaning",
+   "domain": "ducksductcleaning.com",
+   "rating": 5,
+   "reviews": 247
+  }
+ ],
+ "fetched": "2026-10-25"
+}

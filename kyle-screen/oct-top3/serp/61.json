@@ -1,0 +1,100 @@
+{
+ "niche": "dumpster rental",
+ "city": "Macon",
+ "state": "GA",
+ "pop": 89981,
+ "vol": 590,
+ "cpc": 8.61,
+ "lead_value": 5080,
+ "query": "dumpster rental macon",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 66,
+ "top5_pages_min": 7,
+ "top10_pages_med": 66,
+ "top10_pages_min": 7,
+ "winner_words_med": 616,
+ "winners_measured": 4,
+ "score": 74,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/macon-ga/dumpster-rental-services",
+   "title": "Best Dumpster Rental Services in Macon, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "macondumpsterrental.com",
+   "url": "https://macondumpsterrental.com/residential-dumpster-rental-macon/",
+   "title": "Residential Dumpster Rental Macon, GA | Flat-Rate Home ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/ga/macon",
+   "title": "Services in the Macon, Georgia Area",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "dumpstercompare.com",
+   "url": "https://www.dumpstercompare.com/ga/macon",
+   "title": "9 dumpster rental companies in Macon, GA - DumpsterCompare",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "macondumpsterrental.com",
+   "url": "https://macondumpsterrental.com/privacy-policy/",
+   "title": "Privacy Policy - Dumpster Rental Macon GA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/dumpster-sizes-macon/",
+   "title": "Dumpster Sizes in Macon: Options, Local Providers, and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "bigbarrysdumpsterrental.com",
+   "url": "https://bigbarrysdumpsterrental.com/contact.html",
+   "title": "Contact | Dumpster Rental Macon GA | (478) 475-2468",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Macon-Bibb+County%2C+GA",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN MACON-BIBB ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Macon Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Jr's Mini Roll Off Dumpster Service",
+   "domain": "jrsminirolloff.com",
+   "rating": 5,
+   "reviews": 114
+  },
+  {
+   "title": "Jon Dumpster Rentals Macon",
+   "domain": "",
+   "rating": null,
+   "reviews": null
+  }
+ ],
+ "fetched": "2026-10-25"
+}

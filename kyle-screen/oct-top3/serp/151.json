@@ -1,0 +1,113 @@
+{
+ "niche": "dumpster rental",
+ "city": "Ormond Beach",
+ "state": "FL",
+ "pop": 38661,
+ "vol": 210,
+ "cpc": 27.46,
+ "lead_value": 5767,
+ "query": "dumpster rental ormond beach",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": "",
+ "top5_pages_min": "",
+ "top10_pages_med": 113,
+ "top10_pages_min": 113,
+ "winner_words_med": 335,
+ "winners_measured": 1,
+ "score": 39,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "arwooddisposal.com",
+   "url": "https://arwooddisposal.com/20-yard-dumpster-rentals-for-homeowners-ormond-beach-florida/",
+   "title": "20 Yard Dumpster Rentals for Homeowners - Ormond Beach ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Ormond+Beach%2C+FL+32174",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING NEAR ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/port-orange-fl-dumpster-rental-florida.php",
+   "title": "Dumpster Rentals in Port Orange, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Daytona+Beach%2C+FL",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN DAYTONA BEACH, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "volusiajunkremoval.com",
+   "url": "https://www.volusiajunkremoval.com/junk-removal-ormond-beach/",
+   "title": "Same-Day Junk Removal Services in Ormond Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "dumpsterexpress.com",
+   "url": "https://dumpsterexpress.com/dumpster-rental/dumpster-rentals/florida/",
+   "title": "Dumpster Rental Florida",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "ormond-beach-fl.dsdumpsters.com",
+   "url": "https://ormond-beach-fl.dsdumpsters.com/",
+   "title": "Construction Dumpsters & Sanitation Rentals in Ormond ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "ormondbeach.org",
+   "url": "https://www.ormondbeach.org/135/Solid-Waste-Recycling-Yard-Waste",
+   "title": "Solid Waste, Recycling & Yard Waste Collections",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "wastemgt-waf-stg-65b.adobecqms.net",
+   "url": "https://wastemgt-waf-stg-65b.adobecqms.net/us/en/location/fl/ormond-beach",
+   "title": "Services in the Ormond Beach, Florida Area",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Ormond Beach Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Ormond Beach Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Ormond Beach Roll Off Dumpster Rental",
+   "domain": "rolloffdumpsterrentalusa.com",
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "title": "Sunshine Dumpster Rentals        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 26
+  }
+ ],
+ "fetched": "2026-10-25"
+}

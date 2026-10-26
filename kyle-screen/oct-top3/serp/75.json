@@ -1,0 +1,100 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 320,
+ "cpc": 28,
+ "lead_value": 8960,
+ "query": "air duct cleaning sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 161,
+ "top5_pages_min": 2,
+ "top10_pages_med": 96,
+ "top10_pages_min": 2,
+ "winner_words_med": 873,
+ "winners_measured": 6,
+ "score": 69,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "badgerbobs.com",
+   "url": "https://badgerbobs.com/hvac-duct-cleaning?srsltid=AYCX9vIJ821ksH9AEj58B1w9gjU5Qsrs6jHGQhEVC9O4mki2QRC3Yevb",
+   "title": "Badger Bob's Air Duct Cleaning Service in Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Sarasota%2C+FL",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN SARASOTA, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "suncoastducts.com",
+   "url": "https://suncoastducts.com/",
+   "title": "Suncoast Ducts: Air Duct Cleaning Sarasota FL",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "expresssarasota.com",
+   "url": "https://expresssarasota.com/",
+   "title": "Air Duct & Dryer Vent Cleaning Sarasota, FL | Express",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/sarasota/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Sarasota, FL 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "veteranair.com",
+   "url": "https://www.veteranair.com/air-quality/air-duct-cleaning/",
+   "title": "Air Duct Cleaning Services Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "cooltoday.com",
+   "url": "https://www.cooltoday.com/air-quality/duct-services/duct-cleaning",
+   "title": "Duct Cleaning - Sarasota",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "stanleysteemer.com",
+   "url": "https://www.stanleysteemer.com/locations/FL/Sarasota/2000004",
+   "title": "Carpet Cleaning & Air Duct Cleaning in Sarasota, FL",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "T.I.E.S. 360, LLC - Air Duct Cleaning Sarasota",
+   "domain": "ties360.com",
+   "rating": 4.8,
+   "reviews": 251
+  },
+  {
+   "title": "Express Air Duct Cleaning",
+   "domain": "expresssarasota.com",
+   "rating": 5,
+   "reviews": 408
+  },
+  {
+   "title": "DNA Air Duct Cleaning of Sarasota",
+   "domain": "dnaductcleaning.com",
+   "rating": 5,
+   "reviews": 168
+  }
+ ],
+ "fetched": "2026-10-25"
+}

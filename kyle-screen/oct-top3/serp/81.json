@@ -1,0 +1,88 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Wheaton",
+ "state": "IL",
+ "pop": 53648,
+ "vol": 70,
+ "cpc": 71.93,
+ "lead_value": 5035,
+ "query": "air duct cleaning wheaton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 97,
+ "top5_pages_min": 72,
+ "top10_pages_med": 97,
+ "top10_pages_min": 72,
+ "winner_words_med": 461,
+ "winners_measured": 3,
+ "score": 66,
+ "state_full": "Illinois",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "djrcleaning.com",
+   "url": "https://www.djrcleaning.com/locations/wheaton-dryer-vent-cleaning/",
+   "title": "Dryer Vent Cleaning Wheaton IL | Done Just Right, Inc ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/il/wheaton/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Wheaton, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "saiairductclean.com",
+   "url": "https://saiairductclean.com/air-duct-cleaning-wheaton-il/",
+   "title": "Air Duct Cleaning Wheaton IL | 24/7 Hours Air Duct Cleaner",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "airductcleaningwheaton.com",
+   "url": "https://airductcleaningwheaton.com/annual-vent-cleaning-plans-wheaton-il/",
+   "title": "Annual Vent Cleaning Plans in Wheaton, IL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/duct-cleaning-services-wheaton/",
+   "title": "Duct Cleaning Services Wheaton",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/illinois/air-flows-chicago-425222422",
+   "title": "Air Flows Chicago - Wheaton",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/il/wheaton/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Wheaton, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "airductcleaningwheaton.com",
+   "url": "https://airductcleaningwheaton.com/duct-cleaning-for-leed-homes-wheaton-il/",
+   "title": "Duct Cleaning for LEED Homes in Wheaton, IL | Eco HVAC Care",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning&find_loc=Wheaton%2C+IL",
+   "title": "TOP 10 BEST Dryer Vent Cleaning in Wheaton, IL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

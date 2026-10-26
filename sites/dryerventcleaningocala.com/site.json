@@ -1,0 +1,281 @@
+{
+  "domain": "dryerventcleaningocala.com",
+  "phase": 2,
+  "brand": "Dryer Vent Cleaning Ocala",
+  "service": "Dryer Vent Cleaning",
+  "service_inline": "dryer vent cleaning",
+  "vertical": "home",
+  "pro_noun": null,
+  "entity_noun": "dryer vent contractor",
+  "city": "Ocala",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Marion"
+  ],
+  "area_codes": [
+    "352"
+  ],
+  "phone_display": "(352) 723-0197",
+  "phone_tel": "+13527230197",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304028530434). In the market's own area code. Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "florida_code_m1502",
+      "title": "Florida caps a dryer duct at 35 feet, and fittings count",
+      "claim": "Section M1502 of the 2023 Florida Building Code, Residential, requires dryer exhaust ducts to terminate outside the building with a backdraft damper and forbids screens at the termination. The duct must be metal with a smooth interior, 4 inches nominal, and may not be joined with screws. Its maximum length is 35 feet from the transition duct connection to the outlet, reduced by fittings: 5 feet for each 4-inch-radius mitered 90-degree elbow and 2 feet 6 inches for each mitered 45. The flexible transition duct may be no longer than 8 feet and may not be concealed in construction.",
+      "why_it_matters": "A single-story Ocala house with the laundry in the middle of the floor plan often sends its dryer duct up through the attic and out the roof. Two or three elbows on that route eat ten or fifteen feet of the allowance, and a long, bent run is exactly where lint settles. The length rule is the first thing to measure when clothes take two cycles.",
+      "sources": [
+        "https://up.codes/viewer/florida/fl-residential-code-2023/chapter/15/exhaust-systems"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "mobile_homes_hud",
+      "title": "About one Marion County home in six is a mobile home",
+      "claim": "The Census Bureau's American Community Survey 2024 one-year estimates count 199,453 housing units in Marion County, of which 35,391 are mobile homes and 138,141 are single-family detached houses. Federal manufactured home standards at 24 CFR 3280.708 require clothes dryers to exhaust to the outside through a moisture and lint exhaust duct, state that the duct shall not terminate beneath the manufactured home, and prohibit screws or other fasteners that project into the duct.",
+      "why_it_matters": "A dryer duct that ends under the floor instead of past the skirting dumps hot, wet, lint-laden air into the crawl space, where it collects on the underside of the home. In a county with this many manufactured homes, checking where the duct actually ends is part of every cleaning.",
+      "sources": [
+        "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034,B25024&geo_ids=16000US1250750,05000US12083",
+        "https://www.law.cornell.edu/cfr/text/24/3280.708"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "older_population",
+      "title": "Three in ten residents are 65 or older",
+      "claim": "The Florida Office of Economic and Demographic Research county profile puts 29.8 percent of Marion County residents at age 65 and over, against 21.2 percent statewide, with a median age of 50.3 against 43.0 for Florida. The county's population was 375,908 at the 2020 Census and is estimated at 433,765 for 2025.",
+      "why_it_matters": "Pulling a dryer away from the wall, working on a roof cap, or climbing a ladder to an eave are the parts of vent maintenance most likely to end in a fall. In a county this old, a vent cleaning is often a job handed off rather than one done on a Saturday afternoon, and the cleaning should leave the outlet easy to check from the ground.",
+      "sources": [
+        "https://edr.state.fl.us/Content/area-profiles/county/marion.pdf"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "horse_country",
+      "title": "More horses than any other county in the country",
+      "claim": "The 2023 equine economic impact study released in February 2024 by the Florida Thoroughbred Breeders' and Owners' Association counts about 75,000 horses and ponies in Marion County, more than any other single county or parish in the United States, with roughly 210,000 acres, over a fifth of the county's land, in horse-related use and about 28,500 equine and equine-related jobs.",
+      "why_it_matters": "Farm households and barn workers wash saddle pads, barn towels and work clothes that come in coated in hair, hay chaff and arena dust. Much of that slips past a lint screen and settles in the duct, so a farm or barn laundry clogs its vent faster than a suburban one and should be checked more often.",
+      "sources": [
+        "https://www.ftboa.com/economic-study-reaffirms-marion-county-florida-as-horse-capital-of-the-world"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Ocala Historic District",
+    "Silver Springs Shores",
+    "On Top of the World",
+    "Marion Oaks",
+    "Ocala Estates",
+    "Ocala Palms"
+  ],
+  "symptoms": [
+    "clothes_still_damp",
+    "lint_at_roof_cap",
+    "chirping_in_vent",
+    "crushed_hose_hot_laundry_room"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Dryer to Outlet, Priced Before the Brush",
+  "trust_third": "Full-run price stated before the dryer is moved",
+  "services": [
+    {
+      "slug": "dryer-vent-cleaning",
+      "name": "Dryer Vent Cleaning",
+      "nav": "Vent cleaning",
+      "h1": "Dryer Vent Cleaning",
+      "accent": "The Whole Run, Not Just the Hose",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dryer vent cleaning Ocala",
+      "icon": "check"
+    },
+    {
+      "slug": "roof-dryer-vent-cleaning",
+      "name": "Roof Dryer Vent Cleaning",
+      "nav": "Roof vents",
+      "h1": "Roof Dryer Vent Cleaning",
+      "accent": "Cleared From the Cap Down",
+      "photo": "assets/work-2.jpg",
+      "keyword": "roof dryer vent cleaning Ocala",
+      "icon": "house"
+    },
+    {
+      "slug": "dryer-vent-bird-nest-removal",
+      "name": "Bird Nest Removal",
+      "nav": "Bird nests",
+      "h1": "Dryer Vent Bird Nest Removal",
+      "accent": "Out Lawfully, Kept Out",
+      "photo": "assets/work-3.jpg",
+      "keyword": "bird nest in dryer vent Ocala",
+      "icon": "eye"
+    },
+    {
+      "slug": "dryer-vent-repair",
+      "name": "Dryer Vent Repair",
+      "nav": "Repair and reroute",
+      "h1": "Dryer Vent Repair and Rerouting",
+      "accent": "Crushed, Split or Too Long",
+      "photo": "assets/hero.jpg",
+      "keyword": "dryer vent repair Ocala",
+      "icon": "wrench"
+    }
+  ],
+  "symptom_service": [
+    "dryer-vent-cleaning",
+    "roof-dryer-vent-cleaning",
+    "dryer-vent-bird-nest-removal",
+    "dryer-vent-repair"
+  ],
+  "_market": {
+    "keyword": "dryer vent cleaning ocala",
+    "volume": 140,
+    "cpc_usd": 37.8,
+    "monthly_price": 800,
+    "weakest_competitor": "#2 airfreshexperts.com (DR 2.2): a template site whose footer still carries a '14/A, Miranda City, NYC' placeholder address, with no dedicated dryer-vent page and no prices. #3 budsairocala.com (DR 2.2) is an HVAC company whose home page links a dryer-vent page but posts no prices. #1 is a Thumbtack directory page. No map pack on the SERP.",
+    "competitor_dr": 2.2,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What dryer vent work runs around Ocala",
+    "anchors": [
+      {
+        "label": "Longest dryer duct the Florida code allows",
+        "value": "35 ft",
+        "detail": "Measured from the transition duct connection to the outlet, then reduced by every fitting: 5 feet for a 4-inch-radius mitered 90-degree elbow, 2 feet 6 inches for a mitered 45. A longer run is allowed only where the dryer maker's or a booster fan maker's instructions permit it, and it must be labeled.",
+        "source_name": "Florida Building Code, Residential, 2023, section M1502 (via UpCodes)",
+        "source_url": "https://up.codes/viewer/florida/fl-residential-code-2023/chapter/15/exhaust-systems"
+      },
+      {
+        "label": "Residential dryer fires where failure to clean was the factor",
+        "value": "34%",
+        "detail": "The U.S. Fire Administration's report on clothes dryer fires in residential buildings, 2008 to 2010, estimated about 2,900 a year, with 5 deaths, 100 injuries and $35 million in property loss. Failure to clean was the leading contributing factor, and lint and dust were the leading items first ignited.",
+        "source_name": "Fire Engineering, reporting the USFA topical report Clothes Dryer Fires in Residential Buildings (2008-2010)",
+        "source_url": "https://www.fireengineering.com/fire-prevention-protection/usfa-releases-new-report-on-clothes-dryer-fires/"
+      },
+      {
+        "label": "Mobile homes in Marion County",
+        "value": "35,391",
+        "detail": "Of 199,453 housing units in the 2024 ACS one-year estimates. Federal manufactured home standards say the dryer duct must exhaust outside and may not end beneath the home, which makes checking the outlet part of the job price, not an extra.",
+        "source_name": "U.S. Census Bureau, ACS 2024 one-year table B25024, via Census Reporter",
+        "source_url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25035,B25034,B25024&geo_ids=16000US1250750,05000US12083"
+      }
+    ],
+    "rows": [
+      {
+        "job": "Standard cleaning, single-story home, wall or roof exit",
+        "low": 89,
+        "high": 248,
+        "basis": "flat",
+        "note": "The top of the band includes a new transition hose. Ask whether the roof cap and the hose are in the figure.",
+        "sources": [
+          {
+            "name": "Clean Air Duct Cleaning, Ocala page, posted dryer vent price, read 2026-10-25",
+            "url": "https://cadductcleaning.com/locations/ocala-fl/"
+          },
+          {
+            "name": "Anderson Vent Cleaning, serves Ocala, posted single-story price for roof or wall vents, read 2026-10-25",
+            "url": "https://www.andersonventcleaning.com/ocala"
+          },
+          {
+            "name": "Lint Dragon, Belleview and Marion County, posted starting price, read 2026-10-25",
+            "url": "https://lintdragon.com/service-areas/belleview-fl/"
+          },
+          {
+            "name": "Complete Dryer Vent Services, Ocala and The Villages, posted most-homes price, read 2026-10-25",
+            "url": "https://www.completedryervent.com/"
+          }
+        ]
+      },
+      {
+        "job": "Two-story home or upstairs laundry",
+        "low": 149,
+        "high": 248,
+        "basis": "flat",
+        "note": "One Marion County operator posts a separate two-story price; another posts a single figure for most homes.",
+        "sources": [
+          {
+            "name": "Clean Air Duct Cleaning, Central Florida, posted two-story dryer vent price, read 2026-10-25",
+            "url": "https://cadductcleaning.com/"
+          },
+          {
+            "name": "Complete Dryer Vent Services, Ocala and The Villages, posted most-homes price, read 2026-10-25",
+            "url": "https://www.completedryervent.com/"
+          }
+        ]
+      },
+      {
+        "job": "Roof-exit vent, cleaned from the cap as well as the dryer end",
+        "low": 99,
+        "high": 300,
+        "basis": "flat",
+        "note": "One Ocala-area operator prices a single-story roof exit like a wall exit. Florida comparators add roughly $75 to $150 for the roof.",
+        "sources": [
+          {
+            "name": "Anderson Vent Cleaning, serves Ocala, posted single-story price for roof or wall vents, read 2026-10-25",
+            "url": "https://www.andersonventcleaning.com/ocala"
+          },
+          {
+            "name": "Jax All Pro, Jacksonville (Florida comparator, outside Marion County), posted roof-terminated vent range, read 2026-10-25",
+            "url": "https://jaxallpro.com/dryer-vent-cleaning-cost-jacksonville/"
+          },
+          {
+            "name": "Air Duct Cleaning Miami, Miami-Dade and Broward (Florida comparator), posted rooftop vent range, read 2026-10-25",
+            "url": "https://airductcleaningmiamifl.com/blog/dryer-vent-cleaning-cost-miami/"
+          }
+        ]
+      },
+      {
+        "job": "Bird nest pulled from the vent, cleaning included",
+        "low": 200,
+        "high": 450,
+        "basis": "per visit",
+        "note": "Roof nests and long runs sit at the top. A nest with eggs or chicks may mean waiting.",
+        "sources": [
+          {
+            "name": "Complete Dryer Vent Services, The Villages and Ocala, posted bird nest removal range, read 2026-10-25",
+            "url": "https://www.completedryervent.com/bird-nest-removal-from-dryer-vent-in-the-villages-fl"
+          },
+          {
+            "name": "Air Duct Cleaning Miami, Miami-Dade and Broward (Florida comparator), posted cleaning with nest removal, read 2026-10-25",
+            "url": "https://airductcleaningmiamifl.com/blog/dryer-vent-cleaning-cost-miami/"
+          }
+        ]
+      },
+      {
+        "job": "Inspection only: camera and airflow, no cleaning",
+        "low": 60,
+        "high": 120,
+        "basis": "per visit",
+        "note": "A Marion County operator credits its inspection fee toward a cleaning if one turns out to be needed.",
+        "sources": [
+          {
+            "name": "Lint Dragon, Belleview and Marion County, posted inspection fee, read 2026-10-25",
+            "url": "https://lintdragon.com/service-areas/belleview-fl/"
+          },
+          {
+            "name": "Jax All Pro, Jacksonville (Florida comparator, outside Marion County), posted inspection range, read 2026-10-25",
+            "url": "https://jaxallpro.com/dryer-vent-cleaning-cost-jacksonville/"
+          }
+        ]
+      }
+    ]
+  }
+}

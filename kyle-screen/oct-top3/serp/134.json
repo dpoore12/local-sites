@@ -1,0 +1,113 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Pensacola",
+ "state": "FL",
+ "pop": 52703,
+ "vol": 260,
+ "cpc": 21.14,
+ "lead_value": 5496,
+ "query": "air duct cleaning pensacola",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 341.5,
+ "top5_pages_min": 68,
+ "top10_pages_med": 68,
+ "top10_pages_min": 45,
+ "winner_words_med": 1051,
+ "winners_measured": 3,
+ "score": 48,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/pensacola/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Pensacola, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "acconnectionllc.com",
+   "url": "https://acconnectionllc.com/duct-cleaning-in-pensacola/",
+   "title": "Duct Cleaning in Pensacola, FL | A/C Connection",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/pensacola/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Pensacola, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "servicemastersusa.com",
+   "url": "https://servicemastersusa.com/duct-installation/",
+   "title": "Duct Installation | Pensacola & Perdido Key, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "airductcleaningwestpensacola.com",
+   "url": "https://airductcleaningwestpensacola.com/air-duct-and-ac-odor-removal-west-pensacola-fl/",
+   "title": "Air Duct and AC Odor Removal in West Pensacola, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "m.yelp.com",
+   "url": "https://www.m.yelp.com/search?find_desc=Air+Duct+Cleaning&find_loc=Pensacola+Beach%2C+FL",
+   "title": "Best Air Duct Cleaning near Pensacola Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "eliteductservice.com",
+   "url": "https://eliteductservice.com/",
+   "title": "Professional Air Duct & Dryer Vent Cleaning Services",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "commanderair.net",
+   "url": "https://www.commanderair.net/hvac-services/air-duct-repair/",
+   "title": "Air Duct Repair Near Pensacola, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "airductcleaningwestpensacola.com",
+   "url": "https://airductcleaningwestpensacola.com/basement-vent-cleaning-west-pensacola-fl/",
+   "title": "Basement Vent Cleaning in West Pensacola, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Florida Air Pro cleaning",
+   "domain": "floridairprocleaning.com",
+   "rating": 5,
+   "reviews": 847
+  },
+  {
+   "title": "Gulf Coast Air Care",
+   "domain": "",
+   "rating": 5,
+   "reviews": 409
+  },
+  {
+   "title": "Dusty's Air Duct Cleaning of Pensacola",
+   "domain": "dustycleansducts.com",
+   "rating": 4.9,
+   "reviews": 64
+  },
+  {
+   "title": "Air Design Systems MEP, LLC        My Ad Center",
+   "domain": "google.com",
+   "rating": 4.7,
+   "reviews": 378
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Beaverton",
+ "state": "OR",
+ "pop": 93542,
+ "vol": 170,
+ "cpc": 26.72,
+ "lead_value": 4542,
+ "query": "air duct cleaning beaverton",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": "",
+ "top5_pages_min": "",
+ "top10_pages_med": 4970,
+ "top10_pages_min": 321,
+ "winner_words_med": 1388,
+ "winners_measured": 2,
+ "score": 20,
+ "state_full": "Oregon",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "betterairnorthwest.com",
+   "url": "https://betterairnorthwest.com/air-duct-cleaning-portland-or/",
+   "title": "Air Duct Cleaning Portland OR",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/beaverton-or/heating-duct-cleaning-services",
+   "title": "Best Heating Duct Cleaning Services in Beaverton, OR",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "carpetsaversnw.com",
+   "url": "https://carpetsaversnw.com/2026/10/15/air-duct-and-dryer-vent-cleaning-in-beaverton-or-why-it-matters-for-home-safety-and-efficiency/",
+   "title": "Air Duct & Dryer Vent Cleaning in Beaverton, OR",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/beaverton-or/dryer-duct-cleaning-services-beaverton-oregon-help-improve/P24_97qMTFRcDAqetUPykg",
+   "title": "How do dryer duct cleaning services in Beaverton, Oregon ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/beaverton-or/need-sameday-dryer-vent-fix-beaverton-something-typically/3yzNK54M4oczRWDOzbNl_Q",
+   "title": "If I need a same\u2011day dryer vent fix in Beaverton, OR, is that ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/or/beaverton/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Beaverton, OR",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/beaverton-or/expect-dryer-duct-cleaning-appointment-beaverton-oregon/NM_Cxs9cw6cWNsnH-EIfAw",
+   "title": "What should I expect during a dryer duct cleaning ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/beaverton-or/long-dryer-run-poor-airflow-repair-replace-duct-beaverton/5nWfErrPpebtMx8eVZToJw",
+   "title": "can they repair or replace the duct in Beaverton, OR and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/206043977157541/posts/1015125742916023/",
+   "title": "Air Duct and Chimney Cleaning Services in Beaverton ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "PNW ProClean",
+   "domain": "pnwproclean.net",
+   "rating": 5,
+   "reviews": 833
+  },
+  {
+   "title": "PNW Duct Cleaning",
+   "domain": "pnwductcleaning.com",
+   "rating": 5,
+   "reviews": 127
+  },
+  {
+   "title": "Eager Beaver Duct Cleaning",
+   "domain": "eagerbeaverducts.com",
+   "rating": 5,
+   "reviews": 153
+  }
+ ],
+ "fetched": "2026-10-25"
+}

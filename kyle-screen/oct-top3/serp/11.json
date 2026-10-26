@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Bradenton",
+ "state": "FL",
+ "pop": 51763,
+ "vol": 110,
+ "cpc": 19.4,
+ "lead_value": 2134,
+ "query": "dryer vent cleaning bradenton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 10,
+ "top5_pages_min": 6,
+ "top10_pages_med": 8,
+ "top10_pages_min": 6,
+ "winner_words_med": 420,
+ "winners_measured": 4,
+ "score": 92.2,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning&find_loc=Bradenton%2C+FL",
+   "title": "TOP 10 BEST Dryer Vent Cleaning in Bradenton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "dryerventcleaningofbradenton.com",
+   "url": "https://dryerventcleaningofbradenton.com/",
+   "title": "Dryer Vent Cleaning in Bradenton, Sarasota, Ellenton, Palmetto",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "ten8dryerventcleaning.com",
+   "url": "https://www.ten8dryerventcleaning.com/",
+   "title": "Ten-8 Dryer Vent Cleaning | Firefighter Owned Since 2017",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "sweeneycleaning.net",
+   "url": "https://sweeneycleaning.net/air-duct-cleaning/",
+   "title": "Bradenton Air Duct Cleaners & Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "sunshinedryervent.com",
+   "url": "https://sunshinedryervent.com/",
+   "title": "Sunshine Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "amerovent.net",
+   "url": "https://www.amerovent.net/",
+   "title": "Amerovent Dryer Vent Cleaning Specialists",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/bradenton/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Bradenton, FL 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/bradenton/category/dryer-vent-cleaning/accredited",
+   "title": "81 results for Dryer Vent Cleaning near Bradenton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "anthonysairconditioning.com",
+   "url": "https://www.anthonysairconditioning.com/indoor-air-quality/dryer-vent-cleaning/",
+   "title": "Dryer Vent Cleaning in Bradenton",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "The Dryer Vent Cleaning Experts",
+   "domain": "dryerventcleaningexperts.com",
+   "rating": 5,
+   "reviews": 527
+  },
+  {
+   "title": "Dryer Vent Cleaning of Bradenton",
+   "domain": "dryerventcleaningofbradenton.com",
+   "rating": 5,
+   "reviews": 249
+  },
+  {
+   "title": "Clean Sweep Duct Cleaning & Air Conditioning",
+   "domain": "cleansweepductsac.com",
+   "rating": 5,
+   "reviews": 759
+  }
+ ],
+ "fetched": "2026-10-25"
+}

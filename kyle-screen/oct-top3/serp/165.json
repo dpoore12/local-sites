@@ -1,0 +1,107 @@
+{
+ "niche": "basement waterproofing",
+ "city": "Rockville",
+ "state": "MD",
+ "pop": 64072,
+ "vol": 70,
+ "cpc": 60.93,
+ "lead_value": 4265,
+ "query": "basement waterproofing rockville",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 158,
+ "top5_pages_min": 158,
+ "top10_pages_med": 158,
+ "top10_pages_min": 158,
+ "winner_words_med": 1604,
+ "winners_measured": 1,
+ "score": 34,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "basementsystems.com",
+   "url": "https://www.basementsystems.com/basement-waterproofing/maryland-md/rockville-waterproofers.html",
+   "title": "Basement Waterproofing Rockville, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "jeswork.com",
+   "url": "https://www.jeswork.com/service-areas/basement-waterproofing-rockville-md/",
+   "title": "Basement Waterproofing Services Near Me in Rockville, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "bestbuywaterproofing.com",
+   "url": "https://bestbuywaterproofing.com/service-areas/rockville/",
+   "title": "Rockville Foundation & Basement Waterproofing",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/MontgomeryCountyMD/comments/18mowmz/waterproofing_basement_companies/",
+   "title": "Waterproofing basement companies",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "nvwaterproofing.com",
+   "url": "https://www.nvwaterproofing.com/rockville-md.html",
+   "title": "Professional Foundation & Concrete Repair in Rockville, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "fortressfoundationsolutions.com",
+   "url": "https://www.fortressfoundationsolutions.com/rockville-md.html",
+   "title": "Basement waterproofing &structural repairs in Rockville",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "basementmasterswaterproofing.com",
+   "url": "https://basementmasterswaterproofing.com/service-area/rockville-md",
+   "title": "Foundation Repair Rockville, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "valuedrywaterproofing.com",
+   "url": "https://valuedrywaterproofing.com/services/basement-water-proofing/maryland/rockville/",
+   "title": "Rockville basement waterproofing",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "crawlspacebrothers.com",
+   "url": "https://crawlspacebrothers.com/locations/rockville-md/",
+   "title": "Crawl Space Repair & Basement Waterproofing in ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "DMV Waterproofing",
+   "domain": "dmvwp.com",
+   "rating": 5,
+   "reviews": 65
+  },
+  {
+   "title": "Beyond Waterproofing and Foundation Repair",
+   "domain": "beyondwaterproofing.com",
+   "rating": 4.9,
+   "reviews": 133
+  },
+  {
+   "title": "Bros Basement Waterproofing",
+   "domain": "brosbasementwaterproofing.com",
+   "rating": 4.7,
+   "reviews": 26
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 110,
+ "cpc": 21.04,
+ "lead_value": 2314,
+ "query": "dryer vent cleaning boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 615,
+ "top5_pages_min": 155,
+ "top10_pages_med": 385,
+ "top10_pages_min": 36,
+ "winner_words_med": 1045,
+ "winners_measured": 4,
+ "score": 23.4,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "hvac.filterbuy.com",
+   "url": "https://hvac.filterbuy.com/service-areas/florida/boca-raton/dryer-vent-cleaning/",
+   "title": "Professional Dryer Vent Cleaning Services in Boca Raton",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/boca-raton/duct-cleaning/air-duct-dryer-vent-florida/service/483300468756348936?spotlightWebMarkupEnabled=1",
+   "title": "Air Duct & Dryer Vent Florida | Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "greendryervents.com",
+   "url": "https://www.greendryervents.com/boca-raton-dryer-vent-cleaning/",
+   "title": "Boca Raton Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/boca-raton/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "fairairsolutions.com",
+   "url": "https://www.fairairsolutions.com/locations/boca-raton/",
+   "title": "Air Duct Cleaning in Boca Raton, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/boca-raton/the-dryer-vent-cleaner-reviews-1.htm",
+   "title": "The Dryer Vent Cleaner Reviews - Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/boca-raton-fl/mip/dr-dryer-vent-cleaning-574013164",
+   "title": "Dr Dryer Vent Cleaning - Boca Raton, FL 33432",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "express-bocaraton.com",
+   "url": "https://express-bocaraton.com/about/",
+   "title": "About Express Air Duct Cleaning Boca Raton",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "homesmiles.com",
+   "url": "https://homesmiles.com/service/dryer-vent-cleaning-services-boca-raton-fl/",
+   "title": "Boca Raton Dryer Vent Cleaning Services",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dryer Vent Wizard of Boca Raton",
+   "domain": "dryerventwizard.com",
+   "rating": 5,
+   "reviews": 126
+  },
+  {
+   "title": "Quick Vents + Appliance Repair",
+   "domain": "quickvents.com",
+   "rating": 5,
+   "reviews": 782
+  },
+  {
+   "title": "Dr. Dryer Vent Cleaning",
+   "domain": "drdryerventc.com",
+   "rating": 5,
+   "reviews": 192
+  }
+ ],
+ "fetched": "2026-10-25"
+}

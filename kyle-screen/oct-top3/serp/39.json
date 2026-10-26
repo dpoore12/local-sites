@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Greeley",
+ "state": "CO",
+ "pop": 96539,
+ "vol": 320,
+ "cpc": 8.04,
+ "lead_value": 2573,
+ "query": "window tinting greeley",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 31.5,
+ "top5_pages_min": 3,
+ "top10_pages_med": 56,
+ "top10_pages_min": 3,
+ "winner_words_med": 733,
+ "winners_measured": 5,
+ "score": 81.2,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "cartoys.com",
+   "url": "https://www.cartoys.com/a/store-locator/greeley.html",
+   "title": "GREELEY",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1392371578346740/posts/2173089436941613/",
+   "title": "Windshield tinting services in Greeley, CO with good ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Home+Window+Tinting&find_loc=Greeley%2C+CO",
+   "title": "TOP 10 BEST Home Window Tinting in Greeley, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1392371578346740/posts/1783803072536920/",
+   "title": "What shops in Greeley can do vinyl taillight tinting?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "ceramicpro.com",
+   "url": "https://ceramicpro.com/greeley/",
+   "title": "Ceramic Pro Elite Greeley | Coatings, PPF, Window Film",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1392371578346740/posts/2073145896935968/",
+   "title": "Affordable window tinting in Greeley/Evans area?",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1392371578346740/posts/1704766910440537/",
+   "title": "Who does tinted windows in Greeley?",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "greeleyautospa.com",
+   "url": "https://www.greeleyautospa.com/about/",
+   "title": "About Greeley Auto Spa",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1392371578346740/posts/2044305973153294/",
+   "title": "Windshield repair and window tint services? | Greeley, CO",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Prestige Window Tinting",
+   "domain": "prestigewindowtintingcolorado.com",
+   "rating": 4.9,
+   "reviews": 250
+  },
+  {
+   "title": "Greeley Auto Spa / Sun Stoppers Window Tinting",
+   "domain": "greeleyautospa.com",
+   "rating": 4.9,
+   "reviews": 565
+  },
+  {
+   "title": "Colorado Tint Direct",
+   "domain": "coloradotintdirect.com",
+   "rating": 4.9,
+   "reviews": 81
+  }
+ ],
+ "fetched": "2026-10-25"
+}

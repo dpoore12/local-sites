@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Littleton",
+ "state": "CO",
+ "pop": 44275,
+ "vol": 260,
+ "cpc": 33.79,
+ "lead_value": 8785,
+ "query": "junk removal littleton",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 29,
+ "top5_pages_min": 25,
+ "top10_pages_med": 789,
+ "top10_pages_min": 25,
+ "winner_words_med": 1121,
+ "winners_measured": 5,
+ "score": 88,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "junkremovallittletonco.com",
+   "url": "https://junkremovallittletonco.com/",
+   "title": "Junk Removal Littleton CO | Same-Day | Littleton Junk Removal",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/denver-south/littleton",
+   "title": "Junk Removal Services in Littleton, CO",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "mountainmenjunk.com",
+   "url": "https://www.mountainmenjunk.com/junk-removal-littleton/",
+   "title": "Junk Removal Littleton",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Littleton%2C+CO",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "cluttertrucker.com",
+   "url": "https://cluttertrucker.com/service-areas/colorado/littleton/",
+   "title": "Junk Removal and Deep Cleaning Services Littleton CO",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "curbwaste.com",
+   "url": "https://curbwaste.com/company-profiles-network/priority-junk-removal",
+   "title": "Waste Management Company - Priority Junk Removal",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/co/littleton/junk-removal",
+   "title": "The 10 Best Junk Removal Services in Littleton, CO 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "junkluggers.com",
+   "url": "https://www.junkluggers.com/colorado/littleton-junk-removal/",
+   "title": "Littleton, CO's Reliable Junk Removal Contractor",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "openpr.com",
+   "url": "https://www.openpr.com/news/4670334/affordable-residential-junk-removal-in-littleton",
+   "title": "Affordable Residential Junk Removal in Littleton",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Littleton Junk Removal",
+   "domain": "junkremovallittletonco.com",
+   "rating": 5,
+   "reviews": 18
+  },
+  {
+   "title": "Priority Junk Removal",
+   "domain": "priorityjunkremovals.com",
+   "rating": 5,
+   "reviews": 204
+  },
+  {
+   "title": "Junk Genius X",
+   "domain": "junkgenius.com",
+   "rating": 4.9,
+   "reviews": 354
+  }
+ ],
+ "fetched": "2026-10-25"
+}

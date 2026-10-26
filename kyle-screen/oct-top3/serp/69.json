@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Lynchburg",
+ "state": "VA",
+ "pop": 78014,
+ "vol": 140,
+ "cpc": 12.26,
+ "lead_value": 1716,
+ "query": "chimney sweep lynchburg",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 13,
+ "top5_pages_min": 13,
+ "top10_pages_med": 38,
+ "top10_pages_min": 13,
+ "winner_words_med": 529,
+ "winners_measured": 2,
+ "score": 71.4,
+ "state_full": "Virginia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/lynchburgrecommendations/posts/1369011257405238/",
+   "title": "Who can inspect and maintain my fireplace and chimney in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "airductcleaninglynchburg.com",
+   "url": "https://airductcleaninglynchburg.com/chimney-cleaning-lynchburg-va/",
+   "title": "Expert Chimney Cleaning in Lynchburg, VA",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/lynchburg-va/chimney-repairs-services",
+   "title": "Best Chimney Repairs Services in Lynchburg, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/lynchburg-va/chimney-swept-years-wood-stove-insert-needs-servicing/LxE6gc7u4UNLKgMLjF2nLw",
+   "title": "Best Fireplace Maintenance Services in Lynchburg, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/chimney-repair-lynchburg-va/",
+   "title": "Chimney Repair Lynchburg VA: Top Companies and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/virginia/guills-chimney-cleaners-419167848",
+   "title": "Guills Chimney Cleaners, 14045 Wards Rd, Lynchburg, VA ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/lynchburg-va/recommendations-lynchburg-va-familyowned-locally-owned/yeicP59dAsI01-HwAzN-LQ",
+   "title": "Best Gas Fireplace Cleaning Services in Lynchburg, VA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "hearthstonechimneylynchburg.com",
+   "url": "https://hearthstonechimneylynchburg.com/",
+   "title": "Chimney Cleaning in Lynchburg | Inspected, Then Quoted",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/lynchburg-va/chimney-started-smoking-sparking-tonight-anyone-recommend/AzRpe47_ikVO1ksFGbsUIA",
+   "title": "Best Chimney Repairs Services in Lynchburg, VA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Tight Squeeze Chimney Busters",
+   "domain": "tightsqueezechimneybusters.com",
+   "rating": 4.7,
+   "reviews": 24
+  },
+  {
+   "title": "Sam Chimney Sweep Pros",
+   "domain": "",
+   "rating": 3,
+   "reviews": 2
+  },
+  {
+   "title": "Black Goose Chimney Sweep INC",
+   "domain": "blackgoose.net",
+   "rating": 4.7,
+   "reviews": 267
+  }
+ ],
+ "fetched": "2026-10-25"
+}

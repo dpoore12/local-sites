@@ -1,0 +1,100 @@
+{
+ "niche": "gutter installation",
+ "city": "Asheville",
+ "state": "NC",
+ "pop": 87236,
+ "vol": 90,
+ "cpc": 46.76,
+ "lead_value": 4208,
+ "query": "gutter installation asheville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 170.0,
+ "top5_pages_min": 18,
+ "top10_pages_med": 322,
+ "top10_pages_min": 18,
+ "winner_words_med": 1032,
+ "winners_measured": 3,
+ "score": 61,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "asheville.brothersgutters.com",
+   "url": "https://asheville.brothersgutters.com/",
+   "title": "Asheville Gutter Company | Gutter Services You Can Trust",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Gutter+Installation&find_loc=Asheville%2C+NC",
+   "title": "TOP 10 BEST Gutter Installation in Asheville, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "guttermanllc.com",
+   "url": "https://guttermanllc.com/",
+   "title": "Gutter Man of WNC, LLC",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "guttersystemsofasheville.com",
+   "url": "https://www.guttersystemsofasheville.com/",
+   "title": "Gutter Systems of Asheville",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/asheville/comments/wm6gev/gutters/",
+   "title": "Gutters? : r/asheville",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "truteam.com",
+   "url": "https://www.truteam.com/gutter-contractors-branches/nc/asheville/351/",
+   "title": "Installation Contractors in Asheville, NC | Allied | 351",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "gutterspecialistsllc.com",
+   "url": "https://www.gutterspecialistsllc.com/",
+   "title": "Gutter Specialists LLC: Gutter Companies Asheville, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "houzz.com",
+   "url": "https://www.houzz.com/professionals/roofing-and-gutter/asheville-nc-us-probr0-bo~t_11819~r_4453066",
+   "title": "Roofers & Gutter Installation Companies Near Asheville",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "The Brothers That Just Do Gutters",
+   "domain": "asheville.brothersgutters.com",
+   "rating": 5,
+   "reviews": 182
+  },
+  {
+   "title": "Blue Mountain Gutter Co",
+   "domain": "bluemountaingc.com",
+   "rating": 4.9,
+   "reviews": 368
+  },
+  {
+   "title": "Gutter Man of WNC LLC",
+   "domain": "guttermanllc.com",
+   "rating": 4.5,
+   "reviews": 66
+  }
+ ],
+ "fetched": "2026-10-25"
+}

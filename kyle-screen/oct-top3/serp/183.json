@@ -1,0 +1,100 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Franklin",
+ "state": "TN",
+ "pop": 68886,
+ "vol": 110,
+ "cpc": 37.64,
+ "lead_value": 4140,
+ "query": "air duct cleaning franklin",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 452.0,
+ "top5_pages_min": 89,
+ "top10_pages_med": 452,
+ "top10_pages_min": 89,
+ "winner_words_med": 1236,
+ "winners_measured": 2,
+ "score": 23,
+ "state_full": "Tennessee",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "nashvillesairductcleaning.com",
+   "url": "https://nashvillesairductcleaning.com/franklin/",
+   "title": "Air Duct Cleaning in Franklin, TN | Williamson County",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/franklin-tn/air-duct-cleaning-services",
+   "title": "Best Air Duct Cleaning Services in Franklin, TN",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "thecleanairco.com",
+   "url": "https://thecleanairco.com/clean-air-co-franklin-tn/",
+   "title": "Clean Air Co Franklin: Air Duct Cleaning and Crawl Space ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/franklin-duct-duct-goose-air-duct-cleaning-service-franklin",
+   "title": "FRANKLIN DUCT, DUCT, GOOSE AIR DUCT CLEANING ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "franklindryerventtech.com",
+   "url": "https://www.franklindryerventtech.com/",
+   "title": "Dryer Vent Cleaning In Franklin TN",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning+Services&find_loc=Franklin%2C+TN",
+   "title": "TOP 10 BEST Dryer Vent Cleaning Services in Franklin, TN",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "airductcleaning-franklin.us",
+   "url": "https://www.airductcleaning-franklin.us/services",
+   "title": "Our Services - Franklin Airduct",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "networx.com",
+   "url": "https://www.networx.com/air-duct-cleaning/tn/franklin",
+   "title": "Franklin TN Air Duct Cleaning Services - Networx",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Mr B's Air Duct Cleaning",
+   "domain": "mrbairduct.com",
+   "rating": 5,
+   "reviews": 209
+  },
+  {
+   "title": "Franklin Duct, Duct, Goose\u00ae Discount Air Duct & Dryer Vent Cleaning Service",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "David & Sons Air Duct & Dryer",
+   "domain": "",
+   "rating": 4.4,
+   "reviews": 5
+  }
+ ],
+ "fetched": "2026-10-25"
+}

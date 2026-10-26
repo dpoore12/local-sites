@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Frederick",
+ "state": "MD",
+ "pop": 66893,
+ "vol": 390,
+ "cpc": 10.93,
+ "lead_value": 4263,
+ "query": "dumpster rental frederick",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 27,
+ "top5_pages_min": 27,
+ "top10_pages_med": 23,
+ "top10_pages_min": 20,
+ "winner_words_med": 1521,
+ "winners_measured": 2,
+ "score": 68,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/frederickmd/comments/1nli82c/best_price_for_dumpster/",
+   "title": "Best price for dumpster? : r/frederickmd",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "rentadumpstermd.com",
+   "url": "https://rentadumpstermd.com/",
+   "title": "Roll Off Dumpster Rental in Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/SupportFrederick/posts/2538414143347463/",
+   "title": "Dumpster rental services in Frederick, MD and surrounding ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/j-and-p-dumpster-rentals-and-more-frederick",
+   "title": "J&P Dumpster Rentals And More - Frederick, Maryland",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "lwbdumpsterrentalfrederick.com",
+   "url": "https://lwbdumpsterrentalfrederick.com/sizes/40-yard-dumpster.html",
+   "title": "Largest Size - 40 Yard Dumpster Rental Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "dumpstercontrols.io",
+   "url": "https://dumpstercontrols.io/directory/maryland/frederick",
+   "title": "Dumpster Rental Companies in Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "monacacyrentaldumpsters.com",
+   "url": "https://monacacyrentaldumpsters.com/services/same-day-dumpster-rental-frederick/",
+   "title": "Monocacy ... - Same-Day Dumpster Rental in Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "lwbdumpsterrentalfrederick.com",
+   "url": "https://lwbdumpsterrentalfrederick.com/blog/index.html",
+   "title": "Dumpster Rental Blog & Guides | Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/trash-bin-rental-frederick-md/",
+   "title": "Trash Bin Rental Frederick MD",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "J&P Dumpster Rentals and More, LLC",
+   "domain": "jpdumpsterrental.com",
+   "rating": 4.9,
+   "reviews": 36
+  },
+  {
+   "title": "Frederick Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Bin There Dump That Central Maryland Dumpster Rentals",
+   "domain": "bintheredumpthat.com",
+   "rating": 5,
+   "reviews": 231
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Hagerstown",
+ "state": "MD",
+ "pop": 40612,
+ "vol": 480,
+ "cpc": 8.87,
+ "lead_value": 4258,
+ "query": "dumpster rental hagerstown",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 23,
+ "top5_pages_min": 2,
+ "top10_pages_med": 27,
+ "top10_pages_min": 2,
+ "winner_words_med": 777,
+ "winners_measured": 5,
+ "score": 100,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dumpster-rentals-hagerstown-hagerstown",
+   "title": "Dumpster Rentals Hagerstown",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "blueboxrental.com",
+   "url": "https://www.blueboxrental.com/category/long-term_dumpsters/",
+   "title": "Long Term - Blue Box Rental LLC - Hagerstown, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "dumpsterrentalshagerstown.com",
+   "url": "https://dumpsterrentalshagerstown.com/private-policy/",
+   "title": "Privacy Policy - Dumpster Rental Hagerstown MD",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/residential-roll-offs-hagerstown",
+   "title": "RESIDENTIAL ROLL OFFS - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "scrapmonster.com",
+   "url": "https://www.scrapmonster.com/company/dumpster-rentals-hagerstown/172767",
+   "title": "Dumpster Rentals Hagerstown",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/HagerstownSmallBusiness/posts/28979931895027856/",
+   "title": "J&D Rolloff Dumpsters for residential projects in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "mygreendumpster.com",
+   "url": "https://mygreendumpster.com/pages/about-us",
+   "title": "About Us \u2013 Dumpster, LLC",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/maryland/dumpster-377671794",
+   "title": "Dumpster, 16607 National Pike, Hagerstown, MD 21740, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "xrefer.com",
+   "url": "https://www.xrefer.com/dumpster-rental/md/hagerstown.php",
+   "title": "Best Priced Dumpster Rental in Hagerstown, MD - XRefer",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dumpster Rentals Hagerstown",
+   "domain": "dumpsterrentalshagerstown.com",
+   "rating": 5,
+   "reviews": 91
+  },
+  {
+   "title": "D\u00fcmpster LLC",
+   "domain": "mygreendumpster.com",
+   "rating": 5,
+   "reviews": 129
+  },
+  {
+   "title": "Hagerstown Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

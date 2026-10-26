@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Panama City",
+ "state": "FL",
+ "pop": 36877,
+ "vol": 480,
+ "cpc": 16.63,
+ "lead_value": 7982,
+ "query": "dumpster rental panama city",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 233,
+ "top5_pages_min": 233,
+ "top10_pages_med": 329,
+ "top10_pages_min": 233,
+ "winner_words_med": 660,
+ "winners_measured": 2,
+ "score": 31,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wasteprousa.com",
+   "url": "https://www.wasteprousa.com/office/panama-city/",
+   "title": "Panama City",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/panama-city-fl/dumpster-rental-services",
+   "title": "Best Dumpster Rental Services in Panama City, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/panama-city-garbage-dumpster-rental/?locale=te_IN",
+   "title": "Panama City Garbage Dumpster Rental Options and Pricing",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "919dump.com",
+   "url": "https://919dump.com/dumpsters/",
+   "title": "20 & 30-Yard Dumpster Rentals in Panama City, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Panama+City+Beach%2C+FL",
+   "title": "TOP 10 BEST Dumpster Rental in Panama City Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/panama-city-garbage-dumpster-rental/?locale=ps_AF",
+   "title": "Panama City Garbage Dumpster Rental Options and Pricing",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "919dump.com",
+   "url": "https://919dump.com/services/storm-debris-dumpster-rental/",
+   "title": "Rent a Dumpster For Storm Debris in Panama City, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "dumpstercontrols.io",
+   "url": "https://dumpstercontrols.io/directory/florida/panama-city",
+   "title": "Dumpster Rental Companies in Panama City, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "emeraldgulfdumpsterrental.com",
+   "url": "https://emeraldgulfdumpsterrental.com/services/junk-removal.html",
+   "title": "Junk Removal Panama City FL - Emerald Gulf Dumpster Rental",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Panama City Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Panama City Roll-Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Panama City Dumpster Rental",
+   "domain": "rolloffdumpsterrentalusa.com",
+   "rating": null,
+   "reviews": null
+  }
+ ],
+ "fetched": "2026-10-25"
+}

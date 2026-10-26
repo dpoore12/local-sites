@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Newton",
+ "state": "MA",
+ "pop": 87971,
+ "vol": 260,
+ "cpc": 25.16,
+ "lead_value": 6542,
+ "query": "junk removal newton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 2473,
+ "top5_pages_min": 145,
+ "top10_pages_med": 1408,
+ "top10_pages_min": 145,
+ "winner_words_med": 659,
+ "winners_measured": 4,
+ "score": 28,
+ "state_full": "Massachusetts",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Trash+Removal&find_loc=Newton%2C+MA",
+   "title": "TOP 10 BEST Trash Removal in Newton, MA - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/newton-ma/trash-pickup/?srsltid=AYCX9vJ8ENQqEwEYtw_Fi2ETZvd-liqSRxpYMp7IMfLfBtx_5LOLPuBv",
+   "title": "Trash Pickup Services in Newton, MA | Removal & Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "newtonma.gov",
+   "url": "https://www.newtonma.gov/government/public-works/sustainable-materials-management",
+   "title": "Sustainable Materials Management | City of Newton, MA",
+   "kind": "gov/edu"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/178466262200898/posts/2136012059779632/",
+   "title": "Household junk removal in Newton ASAP",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "lugaway.com",
+   "url": "https://lugaway.com/furniture-removal-newton-ma/",
+   "title": "Furniture Removal Services in Newton MA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "lugaway.com",
+   "url": "https://lugaway.com/bagster-pick-up-newton-ma/",
+   "title": "Bagster Pick-Up Services in Newton MA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Junk+Removal+Services&find_loc=Newton%2C+MA",
+   "title": "TOP 10 BEST Junk Removal Services in Newton, MA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/anything-goes-junk-removal-newton-ma/",
+   "title": "Anything Goes - Newton, MA",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/supreme-junk-removal-and-services-newton-2",
+   "title": "Supreme junk removal & services",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "AAA Junk Removal",
+   "domain": "aaajunkremoval.com",
+   "rating": 4.9,
+   "reviews": 151
+  },
+  {
+   "title": "Junk Pro, Inc.",
+   "domain": "junkproinc.com",
+   "rating": 5,
+   "reviews": 68
+  },
+  {
+   "title": "Lug Away Junk Removal",
+   "domain": "lugaway.com",
+   "rating": 5,
+   "reviews": 934
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,114 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Jupiter",
+ "state": "FL",
+ "pop": 58298,
+ "vol": 110,
+ "cpc": 15.79,
+ "lead_value": 1737,
+ "query": "dryer vent cleaning jupiter",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 58.0,
+ "top5_pages_min": 14,
+ "top10_pages_med": 84,
+ "top10_pages_min": 14,
+ "winner_words_med": 425,
+ "winners_measured": 5,
+ "score": 65.6,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "airculesairductcleaning.com",
+   "url": "https://airculesairductcleaning.com/jupiter/",
+   "title": "Air Duct Cleaning in Jupiter",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1569000033418351/posts/4032064777111852/",
+   "title": "Air Duct, Dryer Vent, and Chimney Cleaning Services in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/jupiter/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Jupiter, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "dryerventcleaningjupiter.com",
+   "url": "https://dryerventcleaningjupiter.com/dryer-vent-installation-jupiter-fl/",
+   "title": "Dryer Vent Installation in Jupiter, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/jupiter/category/dryer-vent-installation/accredited",
+   "title": "6 results for Dryer Vent Installation near Jupiter, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/the-lint-man-dryer-vent-cleaning-780035831",
+   "title": "The Lint Man Dryer Vent Cleaning - Jupiter",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/healthy-home-dryer-vent-specialists-jupiter",
+   "title": "Healthy Home Dryer Vent Specialists",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "dryerventcleaningjupiter.com",
+   "url": "https://dryerventcleaningjupiter.com/gallery/",
+   "title": "Dryer vent cleaner in Jupiter, FL, 33458",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Appliance+Cleaning&find_loc=Jupiter%2C+FL",
+   "title": "TOP 10 BEST Appliance Cleaning in Jupiter, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 10,
+   "domain": "dryerventcleaningjupiter.com",
+   "url": "https://dryerventcleaningjupiter.com/palm-beach-county-fl/",
+   "title": "Reliable Dryer Vent Cleaner Solutions | Palm Beach ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "ASAP Dryer Vent Cleaning",
+   "domain": "dryerventcleaningjupiter.com",
+   "rating": 5,
+   "reviews": 322
+  },
+  {
+   "title": "In & Out Dryer Vent Cleaning",
+   "domain": "4yearservice.com",
+   "rating": 4.9,
+   "reviews": 176
+  },
+  {
+   "title": "Coastal Dryer Vent Cleaning",
+   "domain": "coastaldryerventcleaning.com",
+   "rating": 5,
+   "reviews": 53
+  }
+ ],
+ "fetched": "2026-10-25"
+}

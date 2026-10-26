@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Plymouth",
+ "state": "MN",
+ "pop": 73987,
+ "vol": 590,
+ "cpc": 8.79,
+ "lead_value": 5186,
+ "query": "dumpster rental plymouth",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 77,
+ "top5_pages_min": 77,
+ "top10_pages_med": 39012,
+ "top10_pages_min": 77,
+ "winner_words_med": 514,
+ "winners_measured": 2,
+ "score": 53,
+ "state_full": "Minnesota",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "asapmarketplace.com",
+   "url": "https://www.asapmarketplace.com/locations/mn/hennepin-county/plymouth/roll-off-dumpster-rentals/",
+   "title": "Roll Off Dumpster Rental in Plymouth",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/mn/plymouth/dumpster-rentals",
+   "title": "Dumpster rental providers near Plymouth, MN",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "primedumpster.com",
+   "url": "https://primedumpster.com/dumpster-rental-plymouth-minnesota-55447/",
+   "title": "Dumpster Rentals in Plymouth, Minnesota, 55447",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1207062982809329/posts/2577161062466174/",
+   "title": "Dumpster rental options in Plymouth area",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/in/plymouth/dumpster-rental.htm",
+   "title": "Top 10 Best Dumpster providers in Plymouth, IN",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "southfielddumpsters.com",
+   "url": "https://www.southfielddumpsters.com/plymouth-mi-dumpster-rental-michigan/",
+   "title": "Dumpster Rental in Plymouth, MI",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/search?cflt=dumpsterrental&find_loc=Plymouth%2C+OH",
+   "title": "THE BEST 10 DUMPSTER RENTAL NEAR PLYMOUTH, OH",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "fosterbrosdumpsterrental.com",
+   "url": "https://fosterbrosdumpsterrental.com/services/residential-dumpster-rental.html",
+   "title": "Residential Dumpster Rental Plymouth, MA | Foster Brothers",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "dumpsterrentalmanitowoc.com",
+   "url": "https://dumpsterrentalmanitowoc.com/plymouth-wi.html",
+   "title": "Dumpster Rental in Plymouth WI | Roll-Off Containers",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Plymouth Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Dumpster Rentals Plymouth",
+   "domain": "",
+   "rating": 4,
+   "reviews": 1
+  },
+  {
+   "title": "Plymouth Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "land clearing",
+ "city": "Spartanburg",
+ "state": "SC",
+ "pop": 37647,
+ "vol": 210,
+ "cpc": 39.25,
+ "lead_value": 8242,
+ "query": "land clearing spartanburg",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 22,
+ "top5_pages_min": 10,
+ "top10_pages_med": 22,
+ "top10_pages_min": 10,
+ "winner_words_med": 1326,
+ "winners_measured": 3,
+ "score": 94,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/wildcat-advanced-land-clearing-spartanburg-2",
+   "title": "WILDCAT ADVANCED LAND CLEARING",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/smsdirtwork/posts/with-decades-of-hands-on-experience-providing-professional-excavation-and-land-g/1184521720433773/",
+   "title": "Upstate South Carolina excavation and land grading services",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "nelsonstump.com",
+   "url": "https://www.nelsonstump.com/areas/duncan-sc",
+   "title": "land clearing & forestry mulching in duncan, sc",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "craigslist.org",
+   "url": "https://www.craigslist.org/search/city/spartanburg-sc?hub=brush-clearing",
+   "title": "brush and weed clearing near Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Brush+Removal&find_loc=Spartanburg%2C+SC",
+   "title": "TOP 10 BEST Brush Removal in Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/779498716841714/posts/1431810594943853/",
+   "title": "PRS Land Management & Excavation is proud to serve ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Excavation+Services&find_loc=Spartanburg%2C+SC",
+   "title": "TOP 10 BEST Excavation Services in Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/rated.WildcatAdvancedLand.51644778.html",
+   "title": "Wildcat Advanced Land Clearing Reviews - Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Clear-Path-Land-Solutions-61577063930787/",
+   "title": "Clear Path Land Solutions | Spartanburg SC",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Pettys Land Management and Clearing Of The Carolina\u2019s LLC",
+   "domain": "facebook.com",
+   "rating": 4.7,
+   "reviews": 36
+  },
+  {
+   "title": "Rhino Land Solutions",
+   "domain": "rhinolandsolutions.com",
+   "rating": 5,
+   "reviews": 60
+  },
+  {
+   "title": "Wildcat Advanced Land Clearing LLC",
+   "domain": "walclearing.com",
+   "rating": 5,
+   "reviews": 25
+  }
+ ],
+ "fetched": "2026-10-25"
+}

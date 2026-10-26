@@ -1,0 +1,106 @@
+{
+ "niche": "roof cleaning",
+ "city": "Puyallup",
+ "state": "WA",
+ "pop": 38609,
+ "vol": 170,
+ "cpc": 16.36,
+ "lead_value": 2781,
+ "query": "roof cleaning puyallup",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 504,
+ "top5_pages_min": 5,
+ "top10_pages_med": 504,
+ "top10_pages_min": 5,
+ "winner_words_med": 1553,
+ "winners_measured": 5,
+ "score": 51.5,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/lakesidecurb/posts/beautiful-day-here-in-puyallup-roof-and-gutter-cleaning-licensed-bonded-and-insu/1455724039988480/",
+   "title": "Lakeside Curb Appeal: Roof and gutter cleaning in Puyallup",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "aawindowgutter.com",
+   "url": "https://aawindowgutter.com/puyallup-gutter-cleaning",
+   "title": "Gutter Cleaning in Puyallup, WA",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/superior-roof-cleaning-and-construction-puyallup-3",
+   "title": "SUPERIOR ROOF CLEANING & CONSTRUCTION",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "soundprowash.com",
+   "url": "https://soundprowash.com/",
+   "title": "Sound ProWash: Puyallup Roof Cleaning & Exterior Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "tiktok.com",
+   "url": "https://www.tiktok.com/@powercleanps/video/7222721540318645550",
+   "title": "Puyallup customer roof soft wash and moss removal. ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "theroofdoctor.com",
+   "url": "https://www.theroofdoctor.com/gutter-cleaning/puyallup/wa/",
+   "title": "Gutter Cleaning in Puyallup, WA - The Roof Doctor",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Moss+Removal&find_loc=Puyallup%2C+WA",
+   "title": "TOP 10 BEST Moss Removal in Puyallup, WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "santosroofingllc.pro",
+   "url": "https://santosroofingllc.pro/roof-cleaning-puyallup/",
+   "title": "Roof Cleaning Puyallup | Santos Roofing Experts",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Puyallup Roof and Gutter Cleaning",
+   "domain": "puyalluproofguttercleaning.com",
+   "rating": 5,
+   "reviews": 7
+  },
+  {
+   "title": "Puyallup Roof Cleaning",
+   "domain": "puyalluproofcleaning.com",
+   "rating": 4.8,
+   "reviews": 11
+  },
+  {
+   "title": "Superior Roof Cleaning & Construction LLC",
+   "domain": "superiorroofcleaningandconstruction.com",
+   "rating": 5,
+   "reviews": 78
+  },
+  {
+   "title": "First Choice Roof Cleaning        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 18
+  }
+ ],
+ "fetched": "2026-10-25"
+}

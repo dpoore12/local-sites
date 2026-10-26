@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Pflugerville",
+ "state": "TX",
+ "pop": 53752,
+ "vol": 90,
+ "cpc": 50.22,
+ "lead_value": 4520,
+ "query": "air duct cleaning pflugerville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 122.5,
+ "top5_pages_min": 21,
+ "top10_pages_med": 122,
+ "top10_pages_min": 21,
+ "winner_words_med": 1130,
+ "winners_measured": 4,
+ "score": 66,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tx/pflugerville/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Pflugerville, TX 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "kandmsteamcleaning.com",
+   "url": "https://kandmsteamcleaning.com/cleaning-pflugerville-tx/pflugerville-residential-cleaning-services/dryer-vent-cleaning-in-pflugerville/",
+   "title": "Dryer Vent Cleaning in Pflugerville",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "supremeairaustin.com",
+   "url": "https://supremeairaustin.com/air-duct-cleaning-in-pflugerville-tx/",
+   "title": "Expert Air Duct Cleaning In Pflugerville, TX | Schedule Now",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/527636354036836/posts/4328018523998581/",
+   "title": "Duct and vent cleaning services in Pflugerville with 62% ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "pflugervilleairductcleaning.com",
+   "url": "https://pflugervilleairductcleaning.com/roof-dryer-vent-cleaning-pflugerville-tx/",
+   "title": "Roof Dryer Vent Cleaning in Pflugerville, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/tx/pflugerville/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Pflugerville, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "pflugervilleairductcleaning.com",
+   "url": "https://pflugervilleairductcleaning.com/annual-vent-cleaning-plans-pflugerville-tx/",
+   "title": "Annual Vent Cleaning Plans in Pflugerville, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/search?find_desc=Air+Duct+Cleaning+Services&find_loc=Pflugerville%2C+TX",
+   "title": "Best Air Duct Cleaning Services near Pflugerville, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/texasairduct/",
+   "title": "Texas Air Duct Cleaning Services | Pflugerville TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Air Duct Services Pflugerville",
+   "domain": "airductservicespflugerville.online",
+   "rating": 5,
+   "reviews": 4
+  },
+  {
+   "title": "Supreme Air Austin | Air Duct Cleaning | Dryer Vent Cleaning",
+   "domain": "supremeairaustin.com",
+   "rating": 5,
+   "reviews": 1000
+  },
+  {
+   "title": "Duct Cleaning Squads - Air Duct Cleaning Austin",
+   "domain": "ductcleaningsquads.com",
+   "rating": 5,
+   "reviews": 135
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Bonita Springs",
+ "state": "FL",
+ "pop": 47547,
+ "vol": 210,
+ "cpc": 22.6,
+ "lead_value": 4746,
+ "query": "dumpster rental bonita springs",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 95,
+ "top5_pages_min": 63,
+ "top10_pages_med": 95,
+ "top10_pages_min": 63,
+ "winner_words_med": 891,
+ "winners_measured": 5,
+ "score": 66,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/trash-can-rental-services-bonita-springs/",
+   "title": "Trash Can Rental Services Bonita Springs",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "moomoodumpsters.com",
+   "url": "https://moomoodumpsters.com/about-us/",
+   "title": "What to Expect From Bonita Springs Dumpster Company",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dynamite-dumpsters-bonita-springs",
+   "title": "DYNAMITE DUMPSTERS - Updated September 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/double-d-dumpster-delivery-425705671",
+   "title": "Double D Dumpster Delivery, Bonita Springs, FL 34135, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/fort-myers-dumpster-rental-pros-bonita-springs",
+   "title": "Fort Myers Dumpster Rental Pros",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Bonita+Springs%2C+FL",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN BONITA ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "moomoodumpsters.com",
+   "url": "https://moomoodumpsters.com/contact-us/",
+   "title": "Get in Touch Now: Bonita Springs Dumpster Company",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/double-d-dumpster-delivery-bonita-springs",
+   "title": "DOUBLE D DUMPSTER DELIVERY - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bigdaddysdumpers.com",
+   "url": "https://www.bigdaddysdumpers.com/our-services",
+   "title": "Dump Trailer Rental in Bonita Springs, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bonita Springs Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Bonita Springs Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Bin There Dump That Bonita Springs",
+   "domain": "bintheredumpthat.com",
+   "rating": 5,
+   "reviews": 47
+  }
+ ],
+ "fetched": "2026-10-25"
+}

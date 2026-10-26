@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Santa Barbara",
+ "state": "CA",
+ "pop": 90412,
+ "vol": 140,
+ "cpc": 29.52,
+ "lead_value": 4133,
+ "query": "chimney sweep santa barbara",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 22.5,
+ "top5_pages_min": 3,
+ "top10_pages_med": 26,
+ "top10_pages_min": 3,
+ "winner_words_med": 656,
+ "winners_measured": 4,
+ "score": 91,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=chimneysweeps&find_loc=Santa+Barbara%2C+CA",
+   "title": "THE BEST 10 CHIMNEY SWEEPS IN SANTA BARBARA, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "sbchimneysweeps.com",
+   "url": "https://sbchimneysweeps.com/",
+   "title": "SB Chimney Sweeps | Expert Chimney Cleaning ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "tubulargeorge.com",
+   "url": "https://tubulargeorge.com/",
+   "title": "Tubular George: Chimney, Skylights & Ventilation \u2014 Santa ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "montecitochimneyservice.com",
+   "url": "https://montecitochimneyservice.com/",
+   "title": "Montecito Chimney Service: Home",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/ca/santa-barbara/chimney-sweep.htm",
+   "title": "Top 10 Best Chimney sweeps in Santa Barbara, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/sb_chimneysweeps/",
+   "title": "Santa Barbara Chimney Sweeps (@sb_chimneysweeps)",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "chiefsweep.com",
+   "url": "https://www.chiefsweep.com/",
+   "title": "Chimney Cleaning Pros | Santa Ynez | Chief Sweep Chimney ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "santabarbarachimneysweep.com",
+   "url": "https://santabarbarachimneysweep.com/",
+   "title": "Home | Chimney Cleaning & Repair | R. Horne Hearth and ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/montecito-chimney-service-272326808",
+   "title": "Montecito Chimney Service, 518 W Valerio St, Santa ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "AirLogic Chimney Sweep",
+   "domain": "",
+   "rating": 5,
+   "reviews": 4
+  },
+  {
+   "title": "Montecito Chimney Services",
+   "domain": "montecitochimneyservice.com",
+   "rating": 4.5,
+   "reviews": 11
+  },
+  {
+   "title": "Santa Barbara Chimney & Fireplace",
+   "domain": "sbchimneysweeps.com",
+   "rating": 4.6,
+   "reviews": 19
+  }
+ ],
+ "fetched": "2026-10-25"
+}

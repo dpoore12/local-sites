@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 210,
+ "cpc": 21.36,
+ "lead_value": 4486,
+ "query": "dryer vent cleaning sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 20.5,
+ "top5_pages_min": 6,
+ "top10_pages_med": 10,
+ "top10_pages_min": 6,
+ "winner_words_med": 579,
+ "winners_measured": 5,
+ "score": 100,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "vent-solutions.com",
+   "url": "https://vent-solutions.com/",
+   "title": "Vent Solutions Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "badgerbobs.com",
+   "url": "https://badgerbobs.com/dryer-vent-cleaning?srsltid=AYCX9vK_rWqj0QraAk9XC65mr5Z7Oq1AJ7fwGvoF0LI7Ztm99Wi1X4WT",
+   "title": "Dryer Vent Cleaning in Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning&find_loc=Sarasota%2C+FL",
+   "title": "TOP 10 BEST Dryer Vent Cleaning in Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "amerovent.net",
+   "url": "https://www.amerovent.net/",
+   "title": "Amerovent Dryer Vent Cleaning Specialists",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "sunshinedryervent.com",
+   "url": "https://sunshinedryervent.com/",
+   "title": "Sunshine Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/sarasota/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "suncoastkwikdry.com",
+   "url": "https://suncoastkwikdry.com/sarasota-dryer-vent-cleaning/",
+   "title": "Sarasota Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/sarasota/comments/1uvfe89/sarasota_homeowners_when_is_air_duct_cleaning/",
+   "title": "When is air duct cleaning actually worth it? : r/sarasota",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bayonet-inc.com",
+   "url": "https://www.bayonet-inc.com/sarasota/air-conditioning/iaq/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning | Sarasota, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Vent Solutions Dryer Vent Cleaning",
+   "domain": "vent-solutions.com",
+   "rating": 5,
+   "reviews": 942
+  },
+  {
+   "title": "The Dryer Vent Cleaning Experts",
+   "domain": "dryerventcleaningexperts.com",
+   "rating": 5,
+   "reviews": 527
+  },
+  {
+   "title": "Duct Cleaning Pros's Dryer Vent",
+   "domain": "ductcleaningprossarasota.com",
+   "rating": 5,
+   "reviews": 43
+  }
+ ],
+ "fetched": "2026-10-25"
+}

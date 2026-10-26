@@ -1,0 +1,107 @@
+{
+ "niche": "roof cleaning",
+ "city": "Beaverton",
+ "state": "OR",
+ "pop": 93542,
+ "vol": 90,
+ "cpc": 49.28,
+ "lead_value": 4435,
+ "query": "roof cleaning beaverton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 25,
+ "top5_pages_min": 14,
+ "top10_pages_med": 25,
+ "top10_pages_min": 14,
+ "winner_words_med": 630,
+ "winners_measured": 3,
+ "score": 88,
+ "state_full": "Oregon",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/willies-beaverton",
+   "title": "WILLIES - Updated October 2026 - 16270 SW Hart Rd, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "aawindowgutter.com",
+   "url": "https://aawindowgutter.com/beaverton-gutter-cleaning",
+   "title": "Gutter Cleaning in Beaverton, OR",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/beaverton-or/steps-usually-included-soft-wash-roof-cleaning-service/ppmew-7ikGuKNZELY5C0HA",
+   "title": "Best Soft Wash Services in Beaverton, OR",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/AllSurfaceCleaningCompany/",
+   "title": "All Surface Cleaning Company | Beaverton OR",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "northwestroof.com",
+   "url": "https://northwestroof.com/roof-repair-replacement-beaverton-or/",
+   "title": "Beaverton OR Roof Repair & Cleaning | 4.8\u2605 700+ Reviews",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "roofcarepdx.com",
+   "url": "https://roofcarepdx.com/service-areas/beaverton-roof-cleaning/",
+   "title": "Beaverton Roof, Gutter, and Pressure Washing Services",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/beaverton-gutter-cleaning-beaverton",
+   "title": "BEAVERTON GUTTER CLEANING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "clearsummitcleaning.com",
+   "url": "https://www.clearsummitcleaning.com/",
+   "title": "Clear Summit: Window & Gutter Cleaning Portland & Beaverton",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/Rayp19722/",
+   "title": "Beaverton Gutter Cleaning Service",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "All Surface Cleaning - Portland Roof & Gutter Cleaning Company",
+   "domain": "allsurfacecleaning.com",
+   "rating": 4.9,
+   "reviews": 1600
+  },
+  {
+   "title": "Beaverton Gutter Cleaning",
+   "domain": "beavertonguttercleaning.com",
+   "rating": 4.5,
+   "reviews": 55
+  },
+  {
+   "title": "Dave's Exterior Cleaning",
+   "domain": "davecleans.com",
+   "rating": 5,
+   "reviews": 149
+  }
+ ],
+ "fetched": "2026-10-25"
+}

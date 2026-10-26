@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Annapolis",
+ "state": "MD",
+ "pop": 38722,
+ "vol": 720,
+ "cpc": 19.57,
+ "lead_value": 14090,
+ "query": "chimney sweep annapolis",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 263.5,
+ "top5_pages_min": 9,
+ "top10_pages_med": 60,
+ "top10_pages_min": 9,
+ "winner_words_med": 521,
+ "winners_measured": 3,
+ "score": 59,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "annapolischimney.com",
+   "url": "https://annapolischimney.com/get-quote/",
+   "title": "Get Quote",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/the-chimney-guy-annapolis-md/",
+   "title": "Chimney Guy - Annapolis, MD",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/md/chimney-sweeping-annapolis-costs",
+   "title": "Chimney Sweeping in Annapolis, MD - Costs 08 / 2026",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/maryland/complete-chimneys-annapolis-423523727",
+   "title": "Complete Chimneys Annapolis, 1125 West St ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "priddychimney.com",
+   "url": "https://priddychimney.com/annapolis-chimney-repair/",
+   "title": "Chimney Repair Experts in Annapolis",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "chimneycleaningannapolismd.com",
+   "url": "https://chimneycleaningannapolismd.com/",
+   "title": "Chimney Cleaning Annapolis MD - Always Deliver The Best ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/md/annapolis/category/chimney-service",
+   "title": "Chimney Services near Annapolis, MD",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "annapolischimney.com",
+   "url": "https://annapolischimney.com/our-services-area/downs-chimney-sweep/",
+   "title": "Downs Chimney Sweep",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "annapolischimney.com",
+   "url": "https://annapolischimney.com/our-services-area/rolling-hills-chimney-sweep/",
+   "title": "Rolling Hills Chimney Sweep",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Kenneth's Chimney Service",
+   "domain": "chimneysuperiormd.com",
+   "rating": 4.9,
+   "reviews": 134
+  },
+  {
+   "title": "Annapolis Chimney",
+   "domain": "annapolischimney.com",
+   "rating": 5,
+   "reviews": 45
+  },
+  {
+   "title": "Soot Busters Arnold",
+   "domain": "sootbustersarnold.cc",
+   "rating": 4.8,
+   "reviews": 85
+  }
+ ],
+ "fetched": "2026-10-25"
+}

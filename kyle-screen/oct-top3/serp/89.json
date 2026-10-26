@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Alpharetta",
+ "state": "GA",
+ "pop": 62298,
+ "vol": 110,
+ "cpc": 16.24,
+ "lead_value": 1786,
+ "query": "dryer vent cleaning alpharetta",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 34,
+ "top5_pages_min": 28,
+ "top10_pages_med": 815,
+ "top10_pages_min": 28,
+ "winner_words_med": 985,
+ "winners_measured": 5,
+ "score": 63.9,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Cleaning&find_loc=Alpharetta%2C+GA",
+   "title": "TOP 10 BEST Air Duct Cleaning in Alpharetta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "madhatterservices.com",
+   "url": "https://madhatterservices.com/dryer-vent-cleaning-alpharetta-georgia/",
+   "title": "Dryer Vent Cleaning & Inspection | Alpharetta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "airofamericaus.com",
+   "url": "https://airofamericaus.com/",
+   "title": "Air Duct & Dryer Vent Cleaning Alpharetta & Metro Atlanta | Air ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "mamabeardryerventcare.com",
+   "url": "https://www.mamabeardryerventcare.com/dryer-vent-cleaning-alpharetta-georgia-dryer-vent-cleaning-near-you",
+   "title": "BEST Dryer Vent Cleaning in Alpharetta",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "dryerventwizard.com",
+   "url": "https://www.dryerventwizard.com/locations/atlanta/geo/alpharetta-ga",
+   "title": "Professional Dryer Vent Services in Alpharetta, GA",
+   "kind": "national"
+  },
+  {
+   "pos": 6,
+   "domain": "airductcleaningga.com",
+   "url": "https://www.airductcleaningga.com/air-duct-cleaning-alpharetta-ga",
+   "title": "$299 Full Air Duct Cleaning Alpharetta GA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "trustdale.com",
+   "url": "https://trustdale.com/home-services/cities/alpharetta-ga/dryer-vent-cleaning/30004",
+   "title": "Find Verified Dryer Vent Cleaning Services in Alpharetta",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "hurricanellc.com",
+   "url": "https://www.hurricanellc.com/cities/alpharetta-ga/",
+   "title": "Air Duct Cleaners & Cleaning Services near me in Alpharetta ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "airductrescue.com",
+   "url": "https://airductrescue.com/air-duct-dryer-vent-cleaning-in-alpharetta-ga/",
+   "title": "Air Duct & Dryer Vent Cleaning in Alpharetta, GA",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Mama Bear Dryer Vent Cleaning",
+   "domain": "mamabeardryerventcare.com",
+   "rating": 5,
+   "reviews": 145
+  },
+  {
+   "title": "Nomura Dryer Vent Cleaning",
+   "domain": "nomuradryerventcleaning.com",
+   "rating": 5,
+   "reviews": 45
+  },
+  {
+   "title": "Air of America Air Duct & Dryer Vent Cleaning Services",
+   "domain": "airofamericaus.com",
+   "rating": 4.9,
+   "reviews": 645
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Kirkland",
+ "state": "WA",
+ "pop": 84430,
+ "vol": 480,
+ "cpc": 22.93,
+ "lead_value": 11006,
+ "query": "junk removal kirkland",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 91.0,
+ "top5_pages_min": 8,
+ "top10_pages_med": 102,
+ "top10_pages_min": 8,
+ "winner_words_med": 1555,
+ "winners_measured": 4,
+ "score": 78,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "busbyjunkremoval.com",
+   "url": "https://www.busbyjunkremoval.com/",
+   "title": "Junk Removal Seattle & Eastside | Same-Day Service | Busby",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/Kirkland/comments/18vhx2u/junk_removal/",
+   "title": "Junk removal : r/Kirkland",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Kirkland%2C+WA",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN KIRKLAND ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/junk-removal-seattle/us04038/kirkland",
+   "title": "Junk Removal Kirkland WA & Dumpster Rental Alternative",
+   "kind": "national"
+  },
+  {
+   "pos": 5,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/wa/kirkland/waste-and-junk-removal",
+   "title": "Junk removal professionals near Kirkland, WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "lugg.com",
+   "url": "https://lugg.com/kirkland-wa-junk-removal",
+   "title": "Junk removal in Kirkland, WA - same-day pickup & hauling",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Omars-Hauling-and-Junk-Removal-LLC-61568784363922/",
+   "title": "Omar's Hauling and Junk Removal, LLC | Kirkland WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "collegehunkshaulingjunk.com",
+   "url": "https://www.collegehunkshaulingjunk.com/junk-removal/kirkland-wa/",
+   "title": "Junk Removal near Kirkland, WA",
+   "kind": "national"
+  },
+  {
+   "pos": 9,
+   "domain": "trailertrash-junkremoval.com",
+   "url": "https://trailertrash-junkremoval.com/",
+   "title": "Junk Removal Kirkland, Bothell, Redmond, Bellevue, Seattle",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Busby Junk Removal",
+   "domain": "busbyjunkremoval.com",
+   "rating": 5,
+   "reviews": 379
+  },
+  {
+   "title": "Johnson\u2019s Junk Removal LLC",
+   "domain": "johnsonsjunk.com",
+   "rating": 5,
+   "reviews": 212
+  },
+  {
+   "title": "4 Seasons Junk Removal LLC",
+   "domain": "4seasonsjunk.com",
+   "rating": 5,
+   "reviews": 97
+  }
+ ],
+ "fetched": "2026-10-25"
+}

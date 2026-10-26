@@ -1,0 +1,100 @@
+{
+ "niche": "window tinting",
+ "city": "Cedar Park",
+ "state": "TX",
+ "pop": 61238,
+ "vol": 170,
+ "cpc": 11.84,
+ "lead_value": 2013,
+ "query": "window tinting cedar park",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 2224.5,
+ "top5_pages_min": 2,
+ "top10_pages_med": 2225,
+ "top10_pages_min": 2,
+ "winner_words_med": 1058,
+ "winners_measured": 4,
+ "score": 39.4,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/tx/austin-043/how-much-does-window-tinting-cost-in-cedar-park-tx-auto-window-tinting-retail-service/",
+   "title": "How Much Does Window Tinting Cost in Cedar Park, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/tx/austin-043/car-window-tint-estimates-near-me-in-cedar-park-78613-retail-window-tinting-service/",
+   "title": "Car Window Tint Estimates Near Me in Cedar Park (78613)",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Texas/Cedar_Park?srsltid=AYCX9vJTz-S4mTWw3Lu8Q41haFiQSEk6qrZ5XfrWlOs2Xz7Uwl3IScgc",
+   "title": "XPEL Installers - Cedar Park, Texas - United States",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/auto-film-masters-tint-and-ppf-cedar-park",
+   "title": "AUTO FILM MASTERS TINT & PPF - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/shades-of-texas-window-tinting-cedar-park",
+   "title": "SHADES OF TEXAS - WINDOWS, TINT & SHADES - AUSTIN",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "paragonwindowtinting.com",
+   "url": "https://paragonwindowtinting.com/service-areas/window-tinting-in-cedar-park/",
+   "title": "Window Tinting in Cedar Park",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/turbo-tint-cedar-park",
+   "title": "TURBO TINT - Updated October 2026 - 12 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/vehicle-window-tinting-cedar-park-tx/",
+   "title": "Vehicle Window Tinting Cedar Park TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Prime Tint & PPF - Window Tint, PPF, Ceramic Coatings",
+   "domain": "primetintandppf.com",
+   "rating": 5,
+   "reviews": 372
+  },
+  {
+   "title": "BEST WINDOW TINT SHOP LLC.",
+   "domain": "thebestwindowtintshop.com",
+   "rating": 4.8,
+   "reviews": 272
+  },
+  {
+   "title": "Auto Film Masters",
+   "domain": "autofilmmasterstinttx.com",
+   "rating": 4.9,
+   "reviews": 128
+  }
+ ],
+ "fetched": "2026-10-25"
+}

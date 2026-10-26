@@ -1,0 +1,88 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Pensacola",
+ "state": "FL",
+ "pop": 52703,
+ "vol": 110,
+ "cpc": 20.37,
+ "lead_value": 2241,
+ "query": "dryer vent cleaning pensacola",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 219.5,
+ "top5_pages_min": 24,
+ "top10_pages_med": 371,
+ "top10_pages_min": 24,
+ "winner_words_med": 892,
+ "winners_measured": 5,
+ "score": 50.9,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "edifiedservices.com",
+   "url": "https://edifiedservices.com/",
+   "title": "Dryer Vent Cleaning Pensacola | 375+ 5-Star Reviews",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning&find_loc=Pensacola%2C+FL",
+   "title": "TOP 10 BEST Dryer Vent Cleaning in Pensacola, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "hugyourhome.com",
+   "url": "https://hugyourhome.com/certified-dryer-vent-service/",
+   "title": "Certified Dryer Vent Service in Pensacola & Destin",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Bay-Area-Dryer-Vent-Cleaning-LLC-100063695750206/",
+   "title": "Bay Area Dryer Vent Cleaning LLC | Pensacola FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "floridairprocleaning.com",
+   "url": "https://floridairprocleaning.com/",
+   "title": "Air Duct Cleaning Services in Northwest Florida and Alabama",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "stanleysteemer.com",
+   "url": "https://www.stanleysteemer.com/locations/FL/Pensacola/2000063",
+   "title": "Air Duct Cleaning - Pensacola, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 7,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/pensacola/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Pensacola, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "dryerrepairpensacola.com",
+   "url": "https://dryerrepairpensacola.com/dryer-vent-cleaning-pensacola/",
+   "title": "Dryer Vent Cleaning Pensacola \u2014 Safe, Code-Compliant",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/pensacola/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Pensacola, FL 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Downers Grove",
+ "state": "IL",
+ "pop": 49670,
+ "vol": 170,
+ "cpc": 50.53,
+ "lead_value": 8590,
+ "query": "air duct cleaning downers grove",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 102,
+ "top5_pages_min": 97,
+ "top10_pages_med": 172,
+ "top10_pages_min": 97,
+ "winner_words_med": 461,
+ "winners_measured": 4,
+ "score": 56,
+ "state_full": "Illinois",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "downersgroveairductcleaning.us",
+   "url": "https://www.downersgroveairductcleaning.us/services",
+   "title": "Our Services - Downers Grove Airduct",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Repair&find_loc=Downers+Grove%2C+IL",
+   "title": "TOP 10 BEST Air Duct Repair in Downers Grove, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/air-duct-cleaning-services-downers-grove/",
+   "title": "Air Duct Cleaning Services Downers Grove",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "airductsdoneright.com",
+   "url": "https://airductsdoneright.com/location/darien/",
+   "title": "Darien, IL, Downers Grove, IL, Woodridge, IL, Naperville, ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "downersgrovehvac.com",
+   "url": "https://downersgrovehvac.com/air-duct-cleaning/",
+   "title": "Air Duct Cleaning Downers Grove, IL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "downersgrovechimneysweep.us",
+   "url": "https://www.downersgrovechimneysweep.us/duct-cleaning-downers-grove-il",
+   "title": "Downers Grove Duct Cleaning (331) 258-7789 Call us",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "airductsdoneright.com",
+   "url": "https://airductsdoneright.com/services/dryer-exhaust-vent-cleaning/",
+   "title": "Dryer / Exhaust Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "downersgroveairductcleaning.us",
+   "url": "https://www.downersgroveairductcleaning.us/air-duct-sealing-downers-grove-il",
+   "title": "Downers Grove Air Duct Sealing (630) 984-3508 Call us",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "downersgroveairductcleaning.us",
+   "url": "https://www.downersgroveairductcleaning.us/terms-and-conditions",
+   "title": "Terms and Conditions - Downers Grove Airduct",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Downers Grove Air Duct Cleaning / Chimney Cleaning",
+   "domain": "",
+   "rating": 5,
+   "reviews": 14
+  },
+  {
+   "title": "Air Care Services",
+   "domain": "aircareservicesinc.com",
+   "rating": 4.6,
+   "reviews": 83
+  },
+  {
+   "title": "Mr. Duct",
+   "domain": "mrductcleaning.com",
+   "rating": 4.8,
+   "reviews": 467
+  }
+ ],
+ "fetched": "2026-10-25"
+}

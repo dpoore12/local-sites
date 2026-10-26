@@ -1,0 +1,107 @@
+{
+ "niche": "roof cleaning",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 170,
+ "cpc": 21.43,
+ "lead_value": 3643,
+ "query": "roof cleaning fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 25,
+ "top5_pages_min": 25,
+ "top10_pages_med": 29,
+ "top10_pages_min": 25,
+ "winner_words_med": 661,
+ "winners_measured": 3,
+ "score": 90,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Fort+Myers%2C+FL",
+   "title": "THE BEST 10 PRESSURE WASHERS IN FORT MYERS, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "clearlyamazing.com",
+   "url": "https://www.clearlyamazing.com/locations/fort-myers-florida-soft-washing/",
+   "title": "Fort Myers Florida Soft Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/FreshFinishPressureWashing/posts/-%F0%9D%90%98%F0%9D%90%8E%F0%9D%90%94%F0%9D%90%91-%F0%9D%90%91%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%85-%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%84%F0%9D%90%92-%F0%9D%90%8C%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%84-%F0%9D%90%93%F0%9D%90%87%F0%9D%90%80%F0%9D%90%8D-%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%84%F0%9D%90%8F-%F0%9D%90%98%F0%9D%90%8E%F0%9D%90%94-%F0%9D%90%83%F0%9D%90%91%F0%9D%90%98%F0%9D%90%8A%F0%9D%90%84%F0%9D%90%84%F0%9D%90%8F-%F0%9D%90%88%F0%9D%90%93-%F0%9D%90%82%F0%9D%90%8B%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8D-%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%8Eflorida-weather-can-be-to/1505341291625458/",
+   "title": "Roof cleaning before and after in Fort Myers",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/allied-roof-cleaning-inc-fort-myers-fl/",
+   "title": "Allied Roof Cleaning - Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1998697690143140/posts/5068070329872512/",
+   "title": "How to wash a roof without walking on newly repaired ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "advancedcleaningsolutionsfl.com",
+   "url": "https://advancedcleaningsolutionsfl.com/",
+   "title": "Advanced Cleaning Solutions: Roof Cleaning & Power ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/fort-myers-fl/looking-trustworthy-companies-fort-myers-fl-roof-washing/cBPywsAOuEM1scdvoRSz7Q",
+   "title": "Looking for trustworthy companies in Fort Myers, FL that do ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/260142179225841/posts/496868655553191/",
+   "title": "Recommendations for side house, gutter and roof cleaning ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/fort-myers-fl/soft-wash-services",
+   "title": "Best Soft Wash Services in Fort Myers, FL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Florida Clean Roof",
+   "domain": "floridacleanroof.com",
+   "rating": 4.9,
+   "reviews": 403
+  },
+  {
+   "title": "Marco Island Roof Cleaning",
+   "domain": "marcoroofcleaning.com",
+   "rating": 5,
+   "reviews": 36
+  },
+  {
+   "title": "SWFL Roof & Exterior Cleaning",
+   "domain": "swflroofcleaning.com",
+   "rating": 4.8,
+   "reviews": 50
+  }
+ ],
+ "fetched": "2026-10-25"
+}

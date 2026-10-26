@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Beaverton",
+ "state": "OR",
+ "pop": 93542,
+ "vol": 480,
+ "cpc": 15.9,
+ "lead_value": 7632,
+ "query": "junk removal beaverton",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 1262.5,
+ "top5_pages_min": 52,
+ "top10_pages_med": 2473,
+ "top10_pages_min": 52,
+ "winner_words_med": 1734,
+ "winners_measured": 3,
+ "score": 35,
+ "state_full": "Oregon",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/beaverton/dumpster-rental",
+   "title": "Dumpster Rental in Beaverton",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/or/beaverton/junk-removal",
+   "title": "The 10 Best Junk Removal Services in Beaverton, OR 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/455846978206953/posts/2163378244120476/",
+   "title": "Junk Removal Services in Beaverton and Hillsboro",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/beaverton/dirt-removal/?srsltid=AYCX9vLAEem1gSW_g_5fqyBByrZMdDlgRdCNo4976NUA4Uh6kShBPQXv",
+   "title": "Dirt Removal in Beaverton, OR ~ Instant Upfront Pricing",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/the-junkluggers-beaverton",
+   "title": "THE JUNKLUGGERS OF TIGARD & BEAVERTON",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "showusyourjunkpdx.com",
+   "url": "https://www.showusyourjunkpdx.com/beaverton/",
+   "title": "Beaverton Junk Removal & Demolition Services",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/825345747977593/posts/2497285507450267/",
+   "title": "Flat-rate junk removal services for wood debris in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "beavertonoregon.gov",
+   "url": "https://www.beavertonoregon.gov/residential-rates",
+   "title": "Residential Rates | Beaverton, OR - Official Website",
+   "kind": "gov/edu"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Ernie's Wagon Junk Removal",
+   "domain": "ernieswagon.com",
+   "rating": 5,
+   "reviews": 93
+  },
+  {
+   "title": "Junk King Beaverton",
+   "domain": "junk-king.com",
+   "rating": 4.9,
+   "reviews": 777
+  },
+  {
+   "title": "The Junkluggers of Tigard & Beaverton",
+   "domain": "junkluggers.com",
+   "rating": 5,
+   "reviews": 246
+  }
+ ],
+ "fetched": "2026-10-25"
+}

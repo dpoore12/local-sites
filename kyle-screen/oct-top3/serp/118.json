@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 480,
+ "cpc": 10.17,
+ "lead_value": 4882,
+ "query": "dumpster rental marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 227.5,
+ "top5_pages_min": 29,
+ "top10_pages_med": 29,
+ "top10_pages_min": 7,
+ "winner_words_med": 899,
+ "winners_measured": 3,
+ "score": 53,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/ga/marietta/dumpster-rental.htm",
+   "title": "Top 10 Best Dumpster providers in Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "mariettadumpsterrental.org",
+   "url": "https://mariettadumpsterrental.org/about/",
+   "title": "About - Marietta Dumpster Guys",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/735004461255115/posts/1020839986004893/",
+   "title": "Anyone know of any dumpster rentals in Marietta that are ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "justjunk.com",
+   "url": "https://justjunk.com/dumpster-services-marietta",
+   "title": "Dumpster Services Marietta",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Roll+Off+Dumpster+Rental&find_loc=Marietta%2C+GA",
+   "title": "TOP 10 BEST Roll Off Dumpster Rental in Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "nationwidewasteservice.com",
+   "url": "https://nationwidewasteservice.com/marietta-dumpster-rental/",
+   "title": "Dumpster Rental Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "dumpsterenterprises.com",
+   "url": "https://dumpsterenterprises.com/dumpster-rental/ga/marietta",
+   "title": "Dumpster Rental Marietta, GA | $519 Flat Rate, 7 Days",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "peachtreewaste.com",
+   "url": "https://peachtreewaste.com/marietta/",
+   "title": "Marietta",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dumpsters-plus-marietta",
+   "title": "DUMPSTERS PLUS - Updated September 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Marietta Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Bin There Dump That Dumpster Rental",
+   "domain": "bintheredumpthat.com",
+   "rating": 4.9,
+   "reviews": 314
+  },
+  {
+   "title": "Marietta Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

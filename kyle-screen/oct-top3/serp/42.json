@@ -1,0 +1,100 @@
+{
+ "niche": "pressure washing",
+ "city": "Apopka",
+ "state": "FL",
+ "pop": 45587,
+ "vol": 170,
+ "cpc": 20.91,
+ "lead_value": 3555,
+ "query": "pressure washing apopka",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 32,
+ "top5_pages_min": 32,
+ "top10_pages_med": 188,
+ "top10_pages_min": 29,
+ "winner_words_med": 1052,
+ "winners_measured": 4,
+ "score": 81,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/nugs-property-washing-apopka",
+   "title": "NUGS PROPERTY WASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "pressuresup.com",
+   "url": "https://www.pressuresup.com/near-me/apopka-fl-pressure-washing",
+   "title": "Roof Cleaning in Apopka, FL - Pressure Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/IPW32712/",
+   "title": "Independent Pressure Washing | Apopka FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/big-mikes-pressure-washing-apopka",
+   "title": "BIG MIKES PRESSURE WASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "prostylelandcare.com",
+   "url": "https://www.prostylelandcare.com/softwashing",
+   "title": "Softwashing Service Apopka FL, Roof Washing ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/adroit-pressure-washing-428915064",
+   "title": "Adroit Pressure Washing - Apopka, FL, 32712",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/Thepressurewashingguy/",
+   "title": "The Pressure Washing Guy | Apopka FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/grider-boys-pressure-washing-543080095",
+   "title": "Grider Boys Pressure Washing - Apopka, FL, 32703",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Redeemed Pressure Cleaning",
+   "domain": "redeemedpressurecleaning.com",
+   "rating": 5,
+   "reviews": 67
+  },
+  {
+   "title": "E Pressure Washing, LLC",
+   "domain": "epressurewashing.com",
+   "rating": 5,
+   "reviews": 334
+  },
+  {
+   "title": "Michael Cranston Washing Service - Pressure Cleaning, Professional Pressure Washing in Apopka, FL",
+   "domain": "michaelcranstonwashingsvc.com",
+   "rating": 5,
+   "reviews": 2
+  }
+ ],
+ "fetched": "2026-10-25"
+}

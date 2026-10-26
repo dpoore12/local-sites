@@ -1,0 +1,107 @@
+{
+ "niche": "roof cleaning",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 140,
+ "cpc": 37.69,
+ "lead_value": 5277,
+ "query": "roof cleaning boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 127,
+ "top5_pages_min": 56,
+ "top10_pages_med": 56,
+ "top10_pages_min": 13,
+ "winner_words_med": 748,
+ "winners_measured": 5,
+ "score": 51,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bocapressurecleaning.com",
+   "url": "https://bocapressurecleaning.com/",
+   "title": "Pressure Cleaning Boca Raton FL | Expert Pressure Washing ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/bestbocaratonpressurewashing/",
+   "title": "Best Boca Raton Pressure Washing",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/tloc/Boca-raton-FL/Roof-Clean/",
+   "title": "Top-Rated Roof Cleaning Services Experts in Boca Raton ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/AskBoca/posts/1857951258407767/",
+   "title": "Who gently pressure washes roofs with tile care in Boca?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "nolimitpressureclean.com",
+   "url": "https://www.nolimitpressureclean.com/residential/roof-cleaning",
+   "title": "Roof Cleaning | Soft Washing Roofs in Boca Raton",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "1st-classservice.com",
+   "url": "https://www.1st-classservice.com/roof-and-gutter-cleaning/boca-raton-fl",
+   "title": "Roof and Gutter Cleaning | Boca Raton, FL | 561-666-0115",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "modernbocamom.com",
+   "url": "https://modernbocamom.com/2018/08/boca-raton-roof-cleaning/",
+   "title": "Your Perfect Boca Raton Roof Cleaning \"Solution\" is ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "reliablepressurecleaning.co",
+   "url": "https://reliablepressurecleaning.co/roof-cleaning",
+   "title": "Plantation, Boca Raton & Fort Lauderdale, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/advanced-roof-cleaning-boca-raton-2",
+   "title": "ADVANCED ROOF CLEANING - Updated October 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Shore Roof Cleaning",
+   "domain": "shoreroofcleaning.com",
+   "rating": 5,
+   "reviews": 61
+  },
+  {
+   "title": "Advanced Roof Cleaning",
+   "domain": "chemicalroofcleaning.com",
+   "rating": 5,
+   "reviews": 53
+  },
+  {
+   "title": "Ivan's Pressure Cleaning Services",
+   "domain": "ivanspressurecleaning.com",
+   "rating": 5,
+   "reviews": 595
+  }
+ ],
+ "fetched": "2026-10-25"
+}

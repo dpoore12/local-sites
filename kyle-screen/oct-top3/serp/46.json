@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Ocala",
+ "state": "FL",
+ "pop": 57468,
+ "vol": 320,
+ "cpc": 6.44,
+ "lead_value": 2061,
+ "query": "pressure washing ocala",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 16.0,
+ "top5_pages_min": 9,
+ "top10_pages_med": 16,
+ "top10_pages_min": 9,
+ "winner_words_med": 824,
+ "winners_measured": 2,
+ "score": 79.7,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Ocala-Power-Wash-61577595076697/",
+   "title": "Ocala Power Wash",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/ocala-powerwashing-ocala-41",
+   "title": "OCALA POWERWASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "pressurewashingocala.com",
+   "url": "https://www.pressurewashingocala.com/get-pricing/",
+   "title": "Get an INSTANT, FREE pricing quote!",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "leprechaunsoftwash.com",
+   "url": "https://leprechaunsoftwash.com/locations/soft-wash-in-ocala-fl/",
+   "title": "Best Soft Washing Company in Ocala FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/rated.ApplythePressure.162069775.html",
+   "title": "apply the pressure pressure washing llc",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "powerwashocala.com",
+   "url": "https://powerwashocala.com/services/pressure-washing-ocala/",
+   "title": "High-Flow Concrete Clean - Top Pressure Washing in Ocala, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "go-ccs.com",
+   "url": "https://go-ccs.com/pressure-washing-ocala-fl/",
+   "title": "Professional Pressure Washing Ocala FL | CCS",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/back-2-clean-pressure-washing-ocala/",
+   "title": "Back 2 Clean Pressure Washing Ocala",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/wash-life-florida-pressure-washing-492810321",
+   "title": "Wash life Florida pressure washing, Ocala, FL 34479, US",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "J n' C Pressure Washing L.L.C.",
+   "domain": "jncpressurewash.com",
+   "rating": 5,
+   "reviews": 264
+  },
+  {
+   "title": "JNS Pressure Washing LLC",
+   "domain": "jnspressurewashing.com",
+   "rating": 4.9,
+   "reviews": 207
+  },
+  {
+   "title": "Jackalopes Pressure Washing Services",
+   "domain": "jackalopespws.com",
+   "rating": 5,
+   "reviews": 171
+  }
+ ],
+ "fetched": "2026-10-25"
+}

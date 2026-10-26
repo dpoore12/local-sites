@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Littleton",
+ "state": "CO",
+ "pop": 44275,
+ "vol": 70,
+ "cpc": 41.54,
+ "lead_value": 2908,
+ "query": "dryer vent cleaning littleton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 99,
+ "top5_pages_min": 1,
+ "top10_pages_med": 137,
+ "top10_pages_min": 1,
+ "winner_words_med": 989,
+ "winners_measured": 4,
+ "score": 78.4,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/co/littleton/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Littleton, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "airductcleaningindenver.com",
+   "url": "https://www.airductcleaningindenver.com/dryer-vent-cleaning-dos-and-donts-for-littleton-colorado-homeowners/",
+   "title": "Dryer Vent Cleaning Do's and Don'ts for Littleton, Colorado ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dryer-vent-rescue-littleton",
+   "title": "DRYER VENT RESCUE - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "airductcleaningservicelittleton.com",
+   "url": "https://airductcleaningservicelittleton.com/duct-cleaning-behind-drywall-littleton-co/",
+   "title": "Duct Cleaning Behind Drywall in Littleton, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "airductcleaningservicelittleton.com",
+   "url": "https://airductcleaningservicelittleton.com/hotel-duct-and-vent-cleaning-littleton-co/",
+   "title": "Hotel Duct And Vent Cleaning Littleton, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dryer-vent-wizard-of-littleton-littleton-4",
+   "title": "Dryer Vent Wizard of Littleton - Air Duct Cleaning",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "dashpages.io",
+   "url": "https://dashpages.io/colorado/littleton/cleaning-services/colorful-air-duct-cleaning",
+   "title": "Colorful Air Duct Cleaning in Littleton, CO - DashPages",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/air-duct-cleaning-services-littleton-co/",
+   "title": "Air Duct Cleaning Services in Littleton CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "dryerventcleaningthepineryco.com",
+   "url": "https://www.dryerventcleaningthepineryco.com/locations/littleton-co-dryer-vent-cleaning",
+   "title": "Serving Littleton, CO - The Pinery Dryer Vent Cleaning",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Epic Vents, LLC",
+   "domain": "epicvents.com",
+   "rating": 5,
+   "reviews": 87
+  },
+  {
+   "title": "Quality Air Duct Cleaning Littleton",
+   "domain": "quality-littleton.com",
+   "rating": 5,
+   "reviews": 31
+  },
+  {
+   "title": "Dryer Vent Squad of Denver",
+   "domain": "dryerventsquaddenver.com",
+   "rating": 5,
+   "reviews": 417
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 170,
+ "cpc": 20.56,
+ "lead_value": 3495,
+ "query": "dryer vent cleaning marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 34,
+ "top5_pages_min": 28,
+ "top10_pages_med": 287,
+ "top10_pages_min": 28,
+ "winner_words_med": 873,
+ "winners_measured": 4,
+ "score": 81,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thehonestguysatl.com",
+   "url": "https://thehonestguysatl.com/air-duct-cleaning-marietta-ga/",
+   "title": "Restore A Fresher Indoor Environment With Our Air Duct ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/dryer-vent-pros-marietta",
+   "title": "DRYER VENT PROS - Updated October 2026 - 28 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "dryerventcleaningmariettaga.com",
+   "url": "https://www.dryerventcleaningmariettaga.com/services/dryer-vent-duct-cleaning-marietta-ga",
+   "title": "Thorough Dryer Vent Duct Cleaning in Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/ducts-and-vents",
+   "title": "Duct and vent installers near Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "dryerventcleaningmariettaga.com",
+   "url": "https://www.dryerventcleaningmariettaga.com/services/dryer-vent-cleaning-marietta-ga",
+   "title": "Professional Dryer Vent Cleaning in Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/jd-air-duct-cleaning-marietta",
+   "title": "JD Air Duct Cleaning - Marietta, Georgia",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/ductor-clean-air-marietta-ga/",
+   "title": "Ductor Clean Air - Air Duct Cleaning - Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/ductwork-cleaning-marietta-ga/",
+   "title": "Ductwork Cleaning Marietta Ga",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/search?find_desc=replace+dryer+vent&find_loc=Marietta%2C+GA",
+   "title": "TOP 10 BEST Replace Dryer Vent in Marietta, GA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Mama Bear Dryer Vent Cleaning",
+   "domain": "mamabeardryerventcare.com",
+   "rating": 5,
+   "reviews": 580
+  },
+  {
+   "title": "Dryer Vent Pros, LLC",
+   "domain": "dryerventpros.biz",
+   "rating": 5,
+   "reviews": 143
+  },
+  {
+   "title": "Dryer Vent Wizard of Atlanta",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 428
+  }
+ ],
+ "fetched": "2026-10-25"
+}

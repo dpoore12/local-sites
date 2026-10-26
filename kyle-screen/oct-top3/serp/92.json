@@ -1,0 +1,100 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Schaumburg",
+ "state": "IL",
+ "pop": 74907,
+ "vol": 320,
+ "cpc": 38.15,
+ "lead_value": 12208,
+ "query": "dryer vent cleaning schaumburg",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 95,
+ "top5_pages_min": 62,
+ "top10_pages_med": 210,
+ "top10_pages_min": 62,
+ "winner_words_med": 411,
+ "winners_measured": 6,
+ "score": 61,
+ "state_full": "Illinois",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thelintking.com",
+   "url": "https://thelintking.com/blog/top-dryer-vent-cleaning-services-in-schaumburg/",
+   "title": "Top Clothes Dryer Vent Cleaning Services in Schaumburg IL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/professional-dryer-vent-cleaning-schaumburg/",
+   "title": "Professional Dryer Vent Cleaning in Schaumburg",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Duct+Cleaning&find_loc=Schaumburg%2C+IL",
+   "title": "TOP 10 BEST Duct Cleaning in Schaumburg, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "saiairductclean.com",
+   "url": "https://saiairductclean.com/air-duct-cleaning-services-schaumburg-il/",
+   "title": "Air Duct Cleaning Schaumburg IL | 24/7 Hour ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/illinois/vent-right-dryer-vent-cleaning-repair-808580071",
+   "title": "Vent Right Dryer Vent Cleaning & Repair - Schaumburg",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "alignable.com",
+   "url": "https://www.alignable.com/schaumburg-il/the-lint-king-dryer-vent-cleaning-experts",
+   "title": "The Lint King - Dryer Vent Cleaning Experts",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning+Services&find_loc=Schaumburg%2C+IL",
+   "title": "TOP 10 BEST Dryer Vent Cleaning Services ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "homesmiles.com",
+   "url": "https://homesmiles.com/service/dryer-vent-cleaning-services-schaumburg-il/",
+   "title": "Professional Schaumburg Dryer Vent Cleaning Services ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "AAA Cleaning Services INC",
+   "domain": "aaacleaningservicesinc.com",
+   "rating": 5,
+   "reviews": 422
+  },
+  {
+   "title": "The Lint King - Dryer Vent Cleaning Experts",
+   "domain": "thelintking.com",
+   "rating": 4.9,
+   "reviews": 229
+  },
+  {
+   "title": "Staron Duct Cleaning LLC",
+   "domain": "staronductcleaning.com",
+   "rating": 5,
+   "reviews": 126
+  }
+ ],
+ "fetched": "2026-10-25"
+}

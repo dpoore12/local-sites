@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Alpharetta",
+ "state": "GA",
+ "pop": 62298,
+ "vol": 480,
+ "cpc": 12.73,
+ "lead_value": 6110,
+ "query": "pressure washing alpharetta",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 57.5,
+ "top5_pages_min": 16,
+ "top10_pages_med": 67,
+ "top10_pages_min": 16,
+ "winner_words_med": 675,
+ "winners_measured": 5,
+ "score": 69,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "advancedpressureandgutter.com",
+   "url": "https://www.advancedpressureandgutter.com/cities-served/alpharetta",
+   "title": "Gutter Cleaning & Power Washing in Alpharetta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Alpharetta%2C+GA",
+   "title": "THE BEST 10 PRESSURE WASHERS IN ALPHARETTA, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "alpharetta-pressure-washing.com",
+   "url": "https://alpharetta-pressure-washing.com/",
+   "title": "Alpharetta Pressure Washing | Residential, Commercial ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/ga/alpharetta/pressure-washing.htm",
+   "title": "Top 10 Best Pressure washers in Alpharetta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "alphapressurewash.com",
+   "url": "https://alphapressurewash.com/",
+   "title": "Alpha Pressure Washing | Atlanta & North Metro Atlanta ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "vibrantpowerwashing.com",
+   "url": "https://www.vibrantpowerwashing.com/",
+   "title": "Vibrant Power Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/NorthFultonPressureWashing/",
+   "title": "North Fulton Pressure Washing | Alpharetta GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "hydrodynamic-esc.com",
+   "url": "https://www.hydrodynamic-esc.com/locations/pressure-washing-service-alpharetta-ga",
+   "title": "Residential Pressure Washing Alpharetta GA",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/alpharetta/pressure-washing",
+   "title": "The 10 Best Pressure Washing Services in Alpharetta, GA ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Hawks Pressure Wash",
+   "domain": "hawkspressurewash.com",
+   "rating": 5,
+   "reviews": 108
+  },
+  {
+   "title": "Alpha Pressure Washing",
+   "domain": "alpharetta-pressure-washing.com",
+   "rating": 4.9,
+   "reviews": 188
+  },
+  {
+   "title": "North Georgia Exterior Cleaning LLC",
+   "domain": "ngexteriorcleaning.com",
+   "rating": 4.9,
+   "reviews": 150
+  }
+ ],
+ "fetched": "2026-10-25"
+}

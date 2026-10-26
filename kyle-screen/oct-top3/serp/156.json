@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Macon",
+ "state": "GA",
+ "pop": 89981,
+ "vol": 140,
+ "cpc": 12.13,
+ "lead_value": 1698,
+ "query": "pressure washing macon",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 110,
+ "top5_pages_min": 102,
+ "top10_pages_med": 106,
+ "top10_pages_min": 45,
+ "winner_words_med": 716,
+ "winners_measured": 4,
+ "score": 37.3,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/macon/mobile-pressure-washers",
+   "title": "The 10 Best Mobile Pressure Washers in Macon, GA 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "extremecleanga.com",
+   "url": "https://extremecleanga.com/services/soft-wash/",
+   "title": "Soft Wash Specialist | Extreme Clean of Georgia (478) 788 ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/robinstogo/posts/1783678685694464/",
+   "title": "Who can power wash my house in Macon, GA?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "windowsplusofga.com",
+   "url": "https://windowsplusofga.com/",
+   "title": "Windows Plus | Best Window Cleaning Company in Macon ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/545312382477891/posts/2968467820162323/",
+   "title": "Pressure washing and soft washing services in Macon, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/thomas-pressure-washing-macon",
+   "title": "THOMAS PRESSURE WASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/126798284086904/posts/6304196453013692/",
+   "title": "ISO someone who does pressure washing houses in the ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/ga/pressure-cleaning-macon-costs",
+   "title": "Pressure Cleaning in Macon, GA - Costs 08 / 2026 - Homeyou",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/info-161481486-georgia-pressure-washing-macon/",
+   "title": "Georgia Pressure Washing in Macon, GA \u2013 Reviews ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Harvey Lango\u2019s Pressure Washing, LLC",
+   "domain": "harveylangospressurewashing.com",
+   "rating": 5,
+   "reviews": 119
+  },
+  {
+   "title": "Southern Wash Company",
+   "domain": "southernwashco.com",
+   "rating": 5,
+   "reviews": 210
+  },
+  {
+   "title": "Premier Pressure & Softwash",
+   "domain": "premierpressureandsoftwashllc.com",
+   "rating": 5,
+   "reviews": 47
+  }
+ ],
+ "fetched": "2026-10-25"
+}

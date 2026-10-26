@@ -1,0 +1,88 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Ocala",
+ "state": "FL",
+ "pop": 57468,
+ "vol": 140,
+ "cpc": 37.8,
+ "lead_value": 5292,
+ "query": "dryer vent cleaning ocala",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 10.0,
+ "top5_pages_min": 8,
+ "top10_pages_med": 12,
+ "top10_pages_min": 8,
+ "winner_words_med": 810,
+ "winners_measured": 3,
+ "score": 100,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/ocala/duct-cleaning",
+   "title": "Duct cleaners near Ocala, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "airfreshexperts.com",
+   "url": "https://airfreshexperts.com/about-us/",
+   "title": "About Us | Ocala, Florida",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "budsairocala.com",
+   "url": "https://budsairocala.com/dryer-vent-cleaning/",
+   "title": "Dryer Vent Cleaning in Ocala, FL - Bud's Heating and Air",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/ocala/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Ocala, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "ocaladrymaster.com",
+   "url": "https://ocaladrymaster.com/service-area/",
+   "title": "Ocala Drymaster Service Area",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/ocala-fl/mip/air-fresh-dryer-vent-and-duct-cleaning-inc-475610329",
+   "title": "Air Fresh Dryer Vent And Duct Cleaning Inc. in Ocala , FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/down-dirty-dryer-vents-519920877",
+   "title": "Down & Dirty Dryer Vents, Ocala, FL 34480, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "dryerventandductcleaningocala.com",
+   "url": "https://dryerventandductcleaningocala.com/",
+   "title": "DRYER VENT AND AIR DUCT CLEANING BY DRYERVENTZ ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/ocala/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Ocala, FL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

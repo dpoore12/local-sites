@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Conroe",
+ "state": "TX",
+ "pop": 63032,
+ "vol": 70,
+ "cpc": 25.28,
+ "lead_value": 1770,
+ "query": "dryer vent cleaning conroe",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 138,
+ "top5_pages_min": 10,
+ "top10_pages_med": 391,
+ "top10_pages_min": 10,
+ "winner_words_med": 739,
+ "winners_measured": 4,
+ "score": 55.8,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/tx/conroe/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Conroe, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "conroekwikdry.com",
+   "url": "https://conroekwikdry.com/air-duct-cleaning/",
+   "title": "Air Duct Cleaning - Conroe Kwik Dry Total Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/tx/conroe/category/dryer-vent-cleaning",
+   "title": "Dryer Vent Cleaning near Conroe, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2400165413647805/",
+   "title": "Who cleans dryer ducts in Conroe?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "conroeairductcleaner.com",
+   "url": "https://conroeairductcleaner.com/",
+   "title": "Conroe Air Duct Cleaner | Professional Duct Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tx/conroe/duct-cleaning",
+   "title": "Duct cleaners near Conroe, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "dryerventcleaningconroe.com",
+   "url": "https://dryerventcleaningconroe.com/contact-us.html",
+   "title": "Prevent Home Dryer Fires - Dryer Vent Cleaning Conroe TX",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/AirDuctCleaningConroe/",
+   "title": "Air Duct Cleaning Conroe / Dryer Vent Cleaning TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "conroedryerventcleaning.us",
+   "url": "https://www.conroedryerventcleaning.us/services",
+   "title": "Our Services - Conroe Dryer Vent Cleaning",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Conroe Dryer Vent Cleaning",
+   "domain": "dryervent-pros.com",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Dryer Vent Wizard of The Woodlands",
+   "domain": "",
+   "rating": 5,
+   "reviews": 481
+  },
+  {
+   "title": "CB & S Dryer Vent & Air Duct Cleaning And Chimney Repair Inc.",
+   "domain": "",
+   "rating": 5,
+   "reviews": 5
+  }
+ ],
+ "fetched": "2026-10-25"
+}

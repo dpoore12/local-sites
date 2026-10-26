@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Downers Grove",
+ "state": "IL",
+ "pop": 49670,
+ "vol": 90,
+ "cpc": 26.19,
+ "lead_value": 2357,
+ "query": "dryer vent cleaning downers grove",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 178,
+ "top5_pages_min": 97,
+ "top10_pages_med": 140,
+ "top10_pages_min": 97,
+ "winner_words_med": 665,
+ "winners_measured": 4,
+ "score": 51.7,
+ "state_full": "Illinois",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "chicago.unitedhomeservices.com",
+   "url": "https://chicago.unitedhomeservices.com/locations/downers-grove-il/",
+   "title": "Home Services in Downers Grove",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/il/downers-grove/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Downers Grove, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/390284931651737/posts/1266645937348961/",
+   "title": "Downers Grove has many air duct cleaning companies",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Cleaning&find_loc=Downers+Grove+Township%2C+IL",
+   "title": "TOP 10 BEST Air Duct Cleaning in Downers Grove ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "willowbrookducting.com",
+   "url": "https://www.willowbrookducting.com/downers-grove.html",
+   "title": "Air Duct Cleaning in Downers Grove, IL - Easy Booking, Fast ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/air-duct-cleaning-services-downers-grove/",
+   "title": "Air Duct Cleaning Services Downers Grove",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "airductsdoneright.com",
+   "url": "https://airductsdoneright.com/services/air-duct-cleaning/",
+   "title": "Air Duct Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Repair&find_loc=Downers+Grove%2C+IL",
+   "title": "TOP 10 BEST Air Duct Repair in Downers Grove, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "downersgrovechimneysweep.us",
+   "url": "https://www.downersgrovechimneysweep.us/duct-cleaning-downers-grove-il",
+   "title": "Downers Grove Duct Cleaning (331) 258-7789 Call us",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Mr. Duct",
+   "domain": "mrductcleaning.com",
+   "rating": 4.8,
+   "reviews": 467
+  },
+  {
+   "title": "Air Care Services",
+   "domain": "aircareservicesinc.com",
+   "rating": 4.6,
+   "reviews": 83
+  },
+  {
+   "title": "Downers Grove Air Duct Cleaning / Chimney Cleaning",
+   "domain": "",
+   "rating": 5,
+   "reviews": 14
+  }
+ ],
+ "fetched": "2026-10-25"
+}

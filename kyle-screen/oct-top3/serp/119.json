@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Georgetown",
+ "state": "TX",
+ "pop": 54898,
+ "vol": 320,
+ "cpc": 23.31,
+ "lead_value": 7459,
+ "query": "junk removal georgetown",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 216,
+ "top5_pages_min": 36,
+ "top10_pages_med": 451,
+ "top10_pages_min": 36,
+ "winner_words_med": 890,
+ "winners_measured": 4,
+ "score": 53,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/georgetown",
+   "title": "Junk Removal Services in Georgetown, TX",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "georgetowntexas.gov",
+   "url": "https://www.georgetowntexas.gov/utilities/garbage_and_recycling/residential_services/bulky_waste_disposal.php",
+   "title": "Bulk Waste Disposal",
+   "kind": "gov/edu"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Georgetown%2C+TX",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/junk-removal/tx/georgetown/?srsltid=AYCX9vJWKxmXf2Us4rMLn7jZY-XCsLeeUrWib9tIxdnH9d0G87YOH00q",
+   "title": "Same-Day Junk Removal in Georgetown, TX | From $75",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/georgetowntexas/posts/26670892319251729/",
+   "title": "The Junktion provides excellent junk removal services in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "thejunktiontx.com",
+   "url": "https://thejunktiontx.com/",
+   "title": "The Junktion | Junk Removal Georgetown, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/junk-removal-austin/georgetown",
+   "title": "Same-Day Junk Removal in Georgetown, TX - Austin",
+   "kind": "national"
+  },
+  {
+   "pos": 8,
+   "domain": "thetitanway.com",
+   "url": "https://www.thetitanway.com/austin/georgetown",
+   "title": "Junk Removal in Georgetown, TX - Titan Group",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "junkmonkeycrew.com",
+   "url": "https://junkmonkeycrew.com/",
+   "title": "Junk Monkey: Expert Local Junk Removal Company in ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Junk King Georgetown",
+   "domain": "junk-king.com",
+   "rating": 4.9,
+   "reviews": 890
+  },
+  {
+   "title": "Junk Monkey Junk Removal & Recycling",
+   "domain": "junkmonkeycrew.com",
+   "rating": 4.9,
+   "reviews": 76
+  },
+  {
+   "title": "The Junktion LLC",
+   "domain": "thejunktiontx.com",
+   "rating": 5,
+   "reviews": 39
+  }
+ ],
+ "fetched": "2026-10-25"
+}

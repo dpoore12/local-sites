@@ -1,0 +1,113 @@
+{
+ "niche": "gutter installation",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 110,
+ "cpc": 37.11,
+ "lead_value": 4082,
+ "query": "gutter installation fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 489.0,
+ "top5_pages_min": 21,
+ "top10_pages_med": 240,
+ "top10_pages_min": 21,
+ "winner_words_med": 1514,
+ "winners_measured": 5,
+ "score": 41,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "leaffilter.com",
+   "url": "https://www.leaffilter.com/locations/florida/fort-myers/",
+   "title": "Gutter Installation Fort Myers, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Gutter+Installation&find_loc=Fort+Myers%2C+FL",
+   "title": "TOP 10 BEST Gutter Installation in Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "andysgutters.com",
+   "url": "https://andysgutters.com/",
+   "title": "Andy's Seamless Gutter Installation - Cape Coral, Fort Myers, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "ecowatch.com",
+   "url": "https://www.ecowatch.com/gutters/best-services/fl/fort-myers",
+   "title": "15 Best Gutter Companies in Fort Myers, FL (2025 Reviews)",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "fort-myers.brothersgutters.com",
+   "url": "https://fort-myers.brothersgutters.com/",
+   "title": "Brothers Gutters: Gutter Company in Fort Myers & Naples, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "beagutters.com",
+   "url": "https://beagutters.com/",
+   "title": "Best Fort Myers Gutters, Serving All of SW Florida",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "service-partners.com",
+   "url": "https://www.service-partners.com/seamless-gutters-branches/fl/fort-myers/a88/",
+   "title": "Gutter Supplies Near Fort Myers",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "wwjdguttersofflorida.com",
+   "url": "https://wwjdguttersofflorida.com/service-areas/north-fort-myers-fl/",
+   "title": "Gutters in North Fort Myers, FL: Seamless Install & Repair",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/fort-myers/gutter-repair-replacement.htm",
+   "title": "Gutter Repair Replacement in Fort Myers, FL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "The Brothers That Just Do Gutters",
+   "domain": "fort-myers.brothersgutters.com",
+   "rating": 4.7,
+   "reviews": 138
+  },
+  {
+   "title": "Southwest Florida Gutters, LLC",
+   "domain": "swfl-gutters.com",
+   "rating": 5,
+   "reviews": 62
+  },
+  {
+   "title": "Advanced Seamless Gutters",
+   "domain": "advgutters.com",
+   "rating": 4.6,
+   "reviews": 399
+  },
+  {
+   "title": "IBP Fort Myers        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 12
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,113 @@
+{
+ "niche": "towing service",
+ "city": "Bradenton",
+ "state": "FL",
+ "pop": 51763,
+ "vol": 170,
+ "cpc": 11.29,
+ "lead_value": 1919,
+ "query": "towing service bradenton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 9.0,
+ "top5_pages_min": 5,
+ "top10_pages_med": 8,
+ "top10_pages_min": 5,
+ "winner_words_med": 760,
+ "winners_measured": 3,
+ "score": 90.8,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/scotts-towing-380615994",
+   "title": "Scott's Towing, 2303 9th St E, Bradenton, FL 34208, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "bradentontowingcompany.com",
+   "url": "https://bradentontowingcompany.com/contact-us/",
+   "title": "Contact Us",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/USA-Bradenton-Towing-61576612850628/",
+   "title": "USA Bradenton Towing",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "bradentontowingcompany.com",
+   "url": "https://bradentontowingcompany.com/long-distance-towing-in-bradenton/",
+   "title": "Long Distance Towing In Bradenton",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1463869633980140/posts/1834421466924953/",
+   "title": "Towing companies from Bradenton to Tampa",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/jets-towing-bradenton",
+   "title": "JETS TOWING - Updated October 2026 - 2030 58th ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/towing/fl/bradenton/7/",
+   "title": "Towing in Bradenton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/top-gun-towing-304159359",
+   "title": "Top Gun Towing, 620 17th Ave W, Bradenton, FL 34205, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/elmers-automotive-and-towing-bradenton",
+   "title": "Elmer's Automotive & Towing",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bradenton Towing",
+   "domain": "",
+   "rating": 4.7,
+   "reviews": 69
+  },
+  {
+   "title": "USA Bradenton Towing Company",
+   "domain": "bradentontowingcompany.com",
+   "rating": 4.8,
+   "reviews": 85
+  },
+  {
+   "title": "Autorama Towing LLC.",
+   "domain": "autorepairbradentonfl.com",
+   "rating": 4.6,
+   "reviews": 45
+  },
+  {
+   "title": "HWY 75 Charly\u2019s Towing Service        My Ad Center",
+   "domain": "google.com",
+   "rating": 4.9,
+   "reviews": 161
+  }
+ ],
+ "fetched": "2026-10-25"
+}

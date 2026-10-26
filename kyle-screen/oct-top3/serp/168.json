@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 880,
+ "cpc": 15.79,
+ "lead_value": 13895,
+ "query": "dumpster rental fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 329.5,
+ "top5_pages_min": 132,
+ "top10_pages_med": 329,
+ "top10_pages_min": 63,
+ "winner_words_med": 895,
+ "winners_measured": 6,
+ "score": 32,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "dumpsters.com",
+   "url": "https://www.dumpsters.com/service-area/ft-myers-fl",
+   "title": "Rent a Construction Dumpster in Fort Myers",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "redboxplus.com",
+   "url": "https://www.redboxplus.com/fort-myers/dumpster-roll-off/",
+   "title": "Roll-off Dumpster Rental Fort Myers, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "fortmyers.gov",
+   "url": "https://fortmyers.gov/1565/Roll-Off-Collection-Service",
+   "title": "Roll-Off Collection Service | Fort Myers, FL - City Government",
+   "kind": "gov/edu"
+  },
+  {
+   "pos": 4,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/fort-myers/dumpster-rentals",
+   "title": "Dumpster rental providers near Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/garbage-dumpster-rental-fort-myers-fl/",
+   "title": "Garbage Dumpster Rental Fort Myers Fl",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "redboxplus.com",
+   "url": "https://www.redboxplus.com/fort-myers/sanibel-fl/",
+   "title": "Dumpster Rental in Sanibel, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/fl/fort-myers",
+   "title": "Trash, Garbage and Recycling Services in Fort Myers, Florida",
+   "kind": "national"
+  },
+  {
+   "pos": 8,
+   "domain": "dumpstercontrols.io",
+   "url": "https://dumpstercontrols.io/directory/florida/fort-myers",
+   "title": "Dumpster Rental Companies in Fort Myers, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/fort-myers-easy-dumpster-rental-fort-myers",
+   "title": "Fort Myers Easy Dumpster Rental",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Waste Master Dumpster Rental Fort Myers",
+   "domain": "wastemasterdumpsterrental.com",
+   "rating": 4.7,
+   "reviews": 10
+  },
+  {
+   "title": "Fort Myers Eleanor Dumpster Rental Service",
+   "domain": "",
+   "rating": 5,
+   "reviews": 4
+  },
+  {
+   "title": "Bin There Dump That Fort Myers",
+   "domain": "bintheredumpthat.com",
+   "rating": 4.9,
+   "reviews": 248
+  }
+ ],
+ "fetched": "2026-10-25"
+}

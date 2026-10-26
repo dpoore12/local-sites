@@ -1,0 +1,113 @@
+{
+ "niche": "window tinting",
+ "city": "Yuba City",
+ "state": "CA",
+ "pop": 65416,
+ "vol": 320,
+ "cpc": 5.42,
+ "lead_value": 1734,
+ "query": "window tinting yuba city",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 30,
+ "top5_pages_min": 15,
+ "top10_pages_med": 23,
+ "top10_pages_min": 15,
+ "winner_words_med": 632,
+ "winners_measured": 4,
+ "score": 72.6,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/artisticwindowtinting/posts/cars-trucks-suvs-and-plenty-in-between-we-appreciate-everyone-who-trusts-artisti/1729553772508837/",
+   "title": "Artistic Window Tinting - Yuba City",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/stealth-window-tint-yuba-city-yuba-city-3?start=20",
+   "title": "Stealth Window Tint - Yuba City Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/867166596653901/posts/9504372216266586/",
+   "title": "Who offers affordable car tinting services in Yuba City?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "autopaintcorrectionyubacity.com",
+   "url": "https://autopaintcorrectionyubacity.com/window-tinting",
+   "title": "Window Tinting - Yuba City, CA 95991",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/867166596653901/posts/8214970645206756/",
+   "title": "Places in Marysville or Yuba City that does car window ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/California/Yuba_City?srsltid=AYCX9vInlgWZDvK3k8Jhn4I3sNXVFoblZfRXamj6a5TmFG0PovMH8RXe",
+   "title": "XPEL Installers - Yuba City, California - United States",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/stealth-window-tint-yuba-city-456621664",
+   "title": "Stealth Window Tint - Yuba City",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/artistic-window-tinting-yuba-city?start=20",
+   "title": "Artistic Window Tinting",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "oscurotintz.com",
+   "url": "https://www.oscurotintz.com/contact",
+   "title": "Contact Oscuro Tintz \u2014 Window Tinting in Yuba City, CA ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Artistic Window Tinting        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 2500
+  },
+  {
+   "title": "Artistic Window Tinting",
+   "domain": "artisticwindowtinting.com",
+   "rating": 5,
+   "reviews": 2500
+  },
+  {
+   "title": "Elegant Window Tinting",
+   "domain": "elegantwindowtinting.org",
+   "rating": 5,
+   "reviews": 264
+  },
+  {
+   "title": "KS Window Tinting",
+   "domain": "kswindowtinting.co",
+   "rating": 5,
+   "reviews": 273
+  }
+ ],
+ "fetched": "2026-10-25"
+}

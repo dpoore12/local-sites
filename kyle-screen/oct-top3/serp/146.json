@@ -1,0 +1,107 @@
+{
+ "niche": "pool resurfacing",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 140,
+ "cpc": 12.64,
+ "lead_value": 1770,
+ "query": "pool resurfacing sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 136,
+ "top5_pages_min": 136,
+ "top10_pages_med": 121,
+ "top10_pages_min": 60,
+ "winner_words_med": 1553,
+ "winners_measured": 3,
+ "score": 40.8,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/6793610440764548/posts/25899818673050438/",
+   "title": "Pool repair and resurfacing in Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "tortugapools.net",
+   "url": "https://tortugapools.net/pool-renovation/",
+   "title": "Pool Renovation Sarasota, FL | Resurfacing & Remodeling",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/tloc/Sarasota-FL/Pool-Resurfacing-and-Refinishing/",
+   "title": "Top-rated swimming pool resurface pros. - Sarasota",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "ontimepoolservice.com",
+   "url": "https://ontimepoolservice.com/",
+   "title": "On-Time Pool Service: Pool Cleaning, Repair & Renovation in ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "platinumpoolssrq.com",
+   "url": "https://platinumpoolssrq.com/",
+   "title": "Platinum Pools SRQ: Custom Pools Builder in Sarasota",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Pool+Deck+Resurfacing&find_loc=South+Sarasota%2C+FL+34231",
+   "title": "Best Pool Deck Resurfacing near South Sarasota, FL 34231",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "trustedpool.com",
+   "url": "https://www.trustedpool.com/",
+   "title": "Trusted Pool & Spa: Pool Contractors | Sarasota County, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "infinitepoolfinishes.com",
+   "url": "https://infinitepoolfinishes.com/services/commercial-pools/sarasota-fl/",
+   "title": "Commercial Pool Repair in Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "swimply.com",
+   "url": "https://swimply.com/pool-services/sarasota-florida",
+   "title": "The top 10 Pool Services in Sarasota, Florida 2026",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Nelson Pool Company",
+   "domain": "nelsonpoolcompany.com",
+   "rating": 4.8,
+   "reviews": 112
+  },
+  {
+   "title": "Platinum Pools SRQ",
+   "domain": "platinumpoolssrq.com",
+   "rating": 4.8,
+   "reviews": 109
+  },
+  {
+   "title": "Stand Out Pools",
+   "domain": "standoutpools.com",
+   "rating": 4.8,
+   "reviews": 248
+  }
+ ],
+ "fetched": "2026-10-25"
+}

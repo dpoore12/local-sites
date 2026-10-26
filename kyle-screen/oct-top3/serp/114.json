@@ -1,0 +1,107 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 140,
+ "cpc": 12.41,
+ "lead_value": 1737,
+ "query": "septic tank pumping fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 53.0,
+ "top5_pages_min": 45,
+ "top10_pages_med": 55,
+ "top10_pages_min": 45,
+ "winner_words_med": 862,
+ "winners_measured": 5,
+ "score": 55.6,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "myseptic.net",
+   "url": "https://www.myseptic.net/",
+   "title": "septic tank.: Clean Earth Environmental",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/north-fort-myers/septic-tank.htm",
+   "title": "Top 10 Best Septic tank pros in North Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/fl/septic-pumping-fort-myers-costs",
+   "title": "Septic Pumping in Fort Myers, FL - Costs 09 / 2026 - Homeyou",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/septic-service-in-fort-myers-fl/",
+   "title": "Septic Service in Fort Myers FL: Companies, Costs, and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/fort-myers-fl/recommendations-septic-pump-out-services-fort-myers-fl/66zT60WcxB4WpWbpDrODlg",
+   "title": "Best Septic Tank Repair Services in Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "septicandwell.com",
+   "url": "https://septicandwell.com/florida/lee/city/fort-myers",
+   "title": "Fort Myers, FL Septic & Well Services \u2014 5 Local Pros (2026)",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=septicservices&find_loc=Lehigh+Acres%2C+FL",
+   "title": "THE BEST 10 SEPTIC SERVICES IN LEHIGH ACRES, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/fort-myers/septic-systems",
+   "title": "The 10 Best Septic System Contractors in Fort Myers, FL ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "septictank.com",
+   "url": "https://septictank.com/florida/fort-myers-beach/septic-tank-pumping",
+   "title": "Septic Tank Pumping in Fort Myers Beach, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Miller Septic",
+   "domain": "millersepticfl.com",
+   "rating": 5,
+   "reviews": 231
+  },
+  {
+   "title": "Fort Myers Septic Tank Pumping",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "All Septic All Plumbing",
+   "domain": "asapswfl.com",
+   "rating": 4.5,
+   "reviews": 113
+  }
+ ],
+ "fetched": "2026-10-25"
+}

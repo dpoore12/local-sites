@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Mount Pleasant",
+ "state": "SC",
+ "pop": 74885,
+ "vol": 210,
+ "cpc": 27.69,
+ "lead_value": 5815,
+ "query": "pressure washing mount pleasant",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 44,
+ "top5_pages_min": 2,
+ "top10_pages_med": 36,
+ "top10_pages_min": 2,
+ "winner_words_med": 914,
+ "winners_measured": 4,
+ "score": 84,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "washmtpleasant.com",
+   "url": "https://www.washmtpleasant.com/",
+   "title": "Mount Pleasant Pressure Washing: Top Charleston Roof ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Mount+Pleasant%2C+SC",
+   "title": "THE BEST 10 PRESSURE WASHERS IN MOUNT ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/MtPleasantPressureWashing/",
+   "title": "Mount Pleasant Pressure Washing",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "duneswestpw.com",
+   "url": "https://duneswestpw.com/",
+   "title": "Dunes West Pressure Washing in Mount Pleasant, South ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "pleasantpressuresoftwash.com",
+   "url": "https://www.pleasantpressuresoftwash.com/",
+   "title": "Mount Pleasant Pressure, LLC Washing | Roof Cleaning ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "charlestonspraywash.com",
+   "url": "https://www.charlestonspraywash.com/near-me/pressure-washing-mount-pleasant-sc/",
+   "title": "Pressure Washing in Mount Pleasant, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/sc/mount-pleasant/pressure-washing",
+   "title": "Power washers near Mount Pleasant, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "windowninjas.com",
+   "url": "https://windowninjas.com/mt-pleasant/services/pressure-washing",
+   "title": "Professional Pressure Washing in Mt. Pleasant , SC",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "taylorpressurewashings.com",
+   "url": "https://taylorpressurewashings.com/",
+   "title": "Best Pressure Washing Services in Mount Pleasant SC ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Mount Pleasant Pressure Washing",
+   "domain": "washmtpleasant.com",
+   "rating": 5,
+   "reviews": 216
+  },
+  {
+   "title": "Lowcountry Soft Wash LLC",
+   "domain": "lowcountrysoftwash.com",
+   "rating": 4.9,
+   "reviews": 549
+  },
+  {
+   "title": "Dunes West Pressure Washing",
+   "domain": "duneswestpw.com",
+   "rating": 5,
+   "reviews": 46
+  }
+ ],
+ "fetched": "2026-10-25"
+}

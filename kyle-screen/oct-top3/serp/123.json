@@ -1,0 +1,106 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Littleton",
+ "state": "CO",
+ "pop": 44275,
+ "vol": 210,
+ "cpc": 32.45,
+ "lead_value": 6815,
+ "query": "air duct cleaning littleton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 175,
+ "top5_pages_min": 175,
+ "top10_pages_med": 90,
+ "top10_pages_min": 1,
+ "winner_words_med": 1689,
+ "winners_measured": 3,
+ "score": 51,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "indoorqualityair.us",
+   "url": "https://indoorqualityair.us/cities/littleton-co/",
+   "title": "Air duct Cleaning Service for Littleton, CO - Indoor Quality Air",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/quality-air-duct-cleaning-littleton",
+   "title": "QUALITY AIR DUCT CLEANING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "airductprosdenver.com",
+   "url": "https://airductprosdenver.com/locations/littleton/",
+   "title": "Air Duct & Dryer Vent Cleaning Littleton, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/air-duct-cleaning-littleton-co/?locale=gn_PY",
+   "title": "Air Duct Cleaning Littleton CO: Costs, Companies, and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/dude-dryer-vent-cleaning-littleton",
+   "title": "DUDE DRYER VENT CLEANING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Hvac+Cleaning&find_loc=Littleton%2C+CO",
+   "title": "TOP 10 BEST Hvac Cleaning in Littleton, CO - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "airductcleaningservicelittleton.com",
+   "url": "https://www.airductcleaningservicelittleton.com/in-wall-dryer-vent-cleaning-littleton-co/",
+   "title": "In-Wall Dryer Vent Cleaning in Littleton, CO - Air Duct Services",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "dashpages.io",
+   "url": "https://dashpages.io/colorado/littleton/cleaning-services/colorful-air-duct-cleaning",
+   "title": "Colorful Air Duct Cleaning in Littleton, CO - DashPages",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Ductworks, Inc.        My Ad Center",
+   "domain": "google.com",
+   "rating": 4.8,
+   "reviews": 1300
+  },
+  {
+   "title": "Quality Air Duct Cleaning Littleton",
+   "domain": "quality-littleton.com",
+   "rating": 5,
+   "reviews": 31
+  },
+  {
+   "title": "Fresh Air Duct Cleaning Englewood",
+   "domain": "freshductenglewood.com",
+   "rating": 5,
+   "reviews": 107
+  },
+  {
+   "title": "ColorfulDucts&DryerClean",
+   "domain": "colorfulducts.com",
+   "rating": 5,
+   "reviews": 18
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 320,
+ "cpc": 9.52,
+ "lead_value": 3046,
+ "query": "pressure washing boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 56,
+ "top5_pages_min": 37,
+ "top10_pages_med": 200,
+ "top10_pages_min": 37,
+ "winner_words_med": 583,
+ "winners_measured": 4,
+ "score": 64,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/boca-bright-boca-raton",
+   "title": "BOCA BRIGHT - Updated October 2026 - 12 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "thepressuresonfl.com",
+   "url": "https://thepressuresonfl.com/",
+   "title": "Pressure Cleaning Boca Raton - TPO",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/anytime-power-washing-boca-raton-fl/",
+   "title": "Anytime Power Washing - Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "thepressurecleaningpeople.com",
+   "url": "https://thepressurecleaningpeople.com/service-areas/boca-raton",
+   "title": "Boca Raton Roof Cleaning & Pressure Washing | Soft Wash",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "thiswaspowerwashed.com",
+   "url": "https://www.thiswaspowerwashed.com/service-areas/boca-raton",
+   "title": "Pressure Washing in Boca Raton, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "go-ccs.com",
+   "url": "https://go-ccs.com/pressure-washing-boca-raton-fl/",
+   "title": "Commercial Pressure Washing Boca Raton FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/pressure-cleaning-experts-in-boca-raton/?locale=ka_GE",
+   "title": "Pressure Cleaning Experts in Boca Raton",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/the-pressures-on-275664588",
+   "title": "The Pressures On, 201 SW 12th St, Boca Raton, FL 33432, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bocaraton.pressurewashing.net",
+   "url": "http://bocaraton.pressurewashing.net/",
+   "title": "Pressure Washing Boca Raton",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Ivan's Pressure Cleaning Services",
+   "domain": "ivanspressurecleaning.com",
+   "rating": 5,
+   "reviews": 595
+  },
+  {
+   "title": "ASAP Pressure Cleaning Services",
+   "domain": "asappressureclean.com",
+   "rating": 5,
+   "reviews": 66
+  },
+  {
+   "title": "Curt\u2019s Pressure Cleaning",
+   "domain": "curtspressurecleaning.com",
+   "rating": 4.9,
+   "reviews": 287
+  }
+ ],
+ "fetched": "2026-10-25"
+}

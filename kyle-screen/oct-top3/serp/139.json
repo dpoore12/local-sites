@@ -1,0 +1,100 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Greeley",
+ "state": "CO",
+ "pop": 96539,
+ "vol": 390,
+ "cpc": 28.56,
+ "lead_value": 11138,
+ "query": "air duct cleaning greeley",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 229,
+ "top5_pages_min": 46,
+ "top10_pages_med": 175,
+ "top10_pages_min": 40,
+ "winner_words_med": 1751,
+ "winners_measured": 7,
+ "score": 44,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "windsorduct.com",
+   "url": "https://windsorduct.com/service-areas/evans",
+   "title": "Air Duct Cleaning in Evans, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/co/greeley/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Greeley, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "duct-cleaning.promatcher.com",
+   "url": "https://duct-cleaning.promatcher.com/cost/greeley-co-duct-cleaning-costs-prices.aspx",
+   "title": "Greeley Duct Cleaning Costs & Prices - ProMatcher Cost Report",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/reel/DdyiAZEyXLZ/",
+   "title": "AIR DUCT CLEANING IN GREELEY, COLORADO This is ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/greeley-co/dryer-vent-cleaning-services",
+   "title": "Best Dryer Vent Cleaning Services in Greeley, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "originphce.com",
+   "url": "https://originphce.com/air-quality/duct-installation-greeley-co/",
+   "title": "Duct Installation in Greeley, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1539897919605855/posts/3695426284052997/",
+   "title": "Affordable Duct Cleaning Services in Greeley Area",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "dashpages.io",
+   "url": "https://dashpages.io/colorado/greeley/cleaning-services/tlc-carpet-air-duct-cleaning",
+   "title": "TLC Carpet & Air Duct Cleaning in Greeley, CO - DashPages",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "TLC Carpet & Air Duct Cleaning",
+   "domain": "tlccarpetcleaningnortherncolorado.com",
+   "rating": 5,
+   "reviews": 375
+  },
+  {
+   "title": "Windsor Duct Cleaning",
+   "domain": "windsorduct.com",
+   "rating": 5,
+   "reviews": 444
+  },
+  {
+   "title": "Lemons Heating & Cooling",
+   "domain": "lemonsheatingandcooling.com",
+   "rating": 4.9,
+   "reviews": 407
+  }
+ ],
+ "fetched": "2026-10-25"
+}

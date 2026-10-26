@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Asheville",
+ "state": "NC",
+ "pop": 87236,
+ "vol": 140,
+ "cpc": 26.36,
+ "lead_value": 3690,
+ "query": "air duct cleaning asheville",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 24,
+ "top5_pages_min": 9,
+ "top10_pages_med": 50,
+ "top10_pages_min": 9,
+ "winner_words_med": 814,
+ "winners_measured": 6,
+ "score": 91,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning+Company&find_loc=Asheville%2C+NC",
+   "title": "TOP 10 BEST Dryer Vent Cleaning Company in Asheville ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "airductcleaningasheville.com",
+   "url": "https://airductcleaningasheville.com/air-duct-cleaning-service-asheville-nc/",
+   "title": "Trusted HVAC ... - Air Duct Cleaning Service in Asheville, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1360334574894100/posts/1746895082904712/",
+   "title": "Duct work services in Asheville available",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "duckyducts.com",
+   "url": "https://duckyducts.com/dryer-vent-cleaning/",
+   "title": "Dryer Vent Cleaning l Ducky Ducts l Asheville ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "servicemasterasheville.com",
+   "url": "https://www.servicemasterasheville.com/disaster-restoration/duct-cleaning",
+   "title": "Air Duct Cleaning Services | Asheville NC",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/avl-duct-scrubbers-asheville",
+   "title": "AVL DUCT SCRUBBERS - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/air-duct-cleaning-asheville/",
+   "title": "Air Duct Cleaning Asheville",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "duckyducts.com",
+   "url": "https://duckyducts.com/duct-repair-and-sealing/",
+   "title": "Duct Repair & Sealing | AEROSEAL Technology | Call Now",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "organicashevilleductcleaning.com",
+   "url": "https://www.organicashevilleductcleaning.com/skyland",
+   "title": "Skyland | Organic Asheville Duct Cleaning 828 445-1770",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Ducky Ducts l Duct Cleaning Company",
+   "domain": "duckyducts.com",
+   "rating": 5,
+   "reviews": 1100
+  },
+  {
+   "title": "AVL Duct Scrubbers",
+   "domain": "avlductscrubbers.com",
+   "rating": 5,
+   "reviews": 569
+  },
+  {
+   "title": "Dust Busters Air Cleaning",
+   "domain": "dustbustersair.com",
+   "rating": 5,
+   "reviews": 96
+  }
+ ],
+ "fetched": "2026-10-25"
+}

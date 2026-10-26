@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Pensacola",
+ "state": "FL",
+ "pop": 52703,
+ "vol": 590,
+ "cpc": 7.44,
+ "lead_value": 4390,
+ "query": "pressure washing pensacola",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 39.5,
+ "top5_pages_min": 33,
+ "top10_pages_med": 42,
+ "top10_pages_min": 33,
+ "winner_words_med": 992,
+ "winners_measured": 5,
+ "score": 79,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=pressurewashers&find_loc=Pensacola%2C+FL",
+   "title": "THE BEST 10 PRESSURE WASHERS IN PENSACOLA, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "advancedpressurewashingllc.com",
+   "url": "https://www.advancedpressurewashingllc.com/",
+   "title": "Advanced Pressure Washing LLC | Pensacola Pressure ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "calldudewash.com",
+   "url": "https://calldudewash.com/",
+   "title": "Top Pressure Washing Company in Pensacola | Fast ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "rppwpensacola.com",
+   "url": "https://www.rppwpensacola.com/",
+   "title": "Pressure Washing in Pensacola, FL | Robert Parramores ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "all-starsoftwash.com",
+   "url": "https://www.all-starsoftwash.com/",
+   "title": "Pressure Washing in Pensacola, Florida - All Star Softwash",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "sprayemdown.com",
+   "url": "https://www.sprayemdown.com/",
+   "title": "Pressure Washing Pensacola, FL | Spray Em Down",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "powerwashingbeauchamp.com",
+   "url": "https://powerwashingbeauchamp.com/",
+   "title": "Beauchamp Power Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/pensacola/pressure-washing",
+   "title": "The 10 Best Pressure Washing Services in Pensacola, FL ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "petersonspressurewashing.com",
+   "url": "https://petersonspressurewashing.com/",
+   "title": "Pressure Washing Navarre, FL | Peterson's Pressure Washing",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dude Wash",
+   "domain": "calldudewash.com",
+   "rating": 4.9,
+   "reviews": 178
+  },
+  {
+   "title": "Exterior Wash Experts",
+   "domain": "exteriorwashexperts.com",
+   "rating": 5,
+   "reviews": 384
+  },
+  {
+   "title": "All-Star Softwash - Pressure Washing",
+   "domain": "all-starsoftwash.com",
+   "rating": 5,
+   "reviews": 177
+  }
+ ],
+ "fetched": "2026-10-25"
+}

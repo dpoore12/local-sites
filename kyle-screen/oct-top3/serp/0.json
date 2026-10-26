@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Pensacola",
+ "state": "FL",
+ "pop": 52703,
+ "vol": 880,
+ "cpc": 9.27,
+ "lead_value": 8158,
+ "query": "dumpster rental pensacola",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 9,
+ "top5_pages_min": 2,
+ "top10_pages_med": 17,
+ "top10_pages_min": 2,
+ "winner_words_med": 443,
+ "winners_measured": 4,
+ "score": 100,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/fl/pensacola/dumpster-rental-pensacola-fl",
+   "title": "Temporary Dumpster Rental in Pensacola, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "coastalcontainer.com",
+   "url": "https://coastalcontainer.com/",
+   "title": "Coastal Container: Dumpster Rental Pensacola | Roll-Off ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "dumpsterwerks.com",
+   "url": "https://www.dumpsterwerks.com/",
+   "title": "Dumpster Werks | dumpster rental | Pensacola, FL, USA",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "ecosouthservices.com",
+   "url": "https://ecosouthservices.com/dumpster-rental-pensacola-fl/",
+   "title": "Dumpster Rental Pensacola, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Pensacola%2C+FL",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN PENSACOLA, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/whatshappeningpensacolafl/posts/1484242599959923/",
+   "title": "Affordable dumpster rental recommendations? | Pensacola ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "dumpsterrentalsofpensacola.com",
+   "url": "https://dumpsterrentalsofpensacola.com/",
+   "title": "Dumpster Rental Pensacola FL | Roll-Off Dumpsters | Hulk's",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/pensacola/dumpster-rentals/affordable-dumpster-rental/service/528238171544502283",
+   "title": "Affordable Dumpster Rental | Pensacola, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/pensacola-fl-dumpster-rental-florida.php",
+   "title": "Rent a Dumpster in Pensacola, FL",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Pensacola Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Pensacola Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "North Ridgeville Roll-Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  }
+ ],
+ "fetched": "2026-10-25"
+}

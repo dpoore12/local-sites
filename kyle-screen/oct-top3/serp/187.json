@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Franklin",
+ "state": "TN",
+ "pop": 68886,
+ "vol": 260,
+ "cpc": 31.48,
+ "lead_value": 8185,
+ "query": "junk removal franklin",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": "",
+ "top5_pages_min": "",
+ "top10_pages_med": 1631,
+ "top10_pages_min": 789,
+ "winner_words_med": 1427,
+ "winners_measured": 2,
+ "score": 18,
+ "state_full": "Tennessee",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/franklin",
+   "title": "Junk Removal in Franklin, TN",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Franklin%2C+TN",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN FRANKLIN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "junkbeegonemurfreesboro.com",
+   "url": "https://www.junkbeegonemurfreesboro.com/junk-removal-franklin/",
+   "title": "Junk Removal Franklin TN",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/junk-removal-nashville/franklin",
+   "title": "Franklin's Same-Day Junk Removal - Book Today",
+   "kind": "national"
+  },
+  {
+   "pos": 5,
+   "domain": "twomenandajunktruck.com",
+   "url": "https://twomenandajunktruck.com/locations/tn/junk-removal-brentwood-franklin",
+   "title": "Junk Removal in Brentwood and Franklin, TN",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tn/franklin/junk-removal",
+   "title": "The 10 Best Junk Removal Services in Franklin, TN 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "junkjackerstn.com",
+   "url": "http://www.junkjackerstn.com/",
+   "title": "Junk Jackers: Junk Removal Franklin TN | Same-Day Service",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/junk-removal/tn/franklin/?srsltid=AYCX9vIJK412umGPAK5c2t-K4E3gUK7r8pH74Yn2cY1joelcEvPoxFd8",
+   "title": "Junk Removal & Disposal in Franklin, TN",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Stand Up Guys Junk Removal",
+   "domain": "standupguys.com",
+   "rating": 4.9,
+   "reviews": 655
+  },
+  {
+   "title": "Two Men and a Junk Truck",
+   "domain": "twomenandajunktruck.com",
+   "rating": 4.9,
+   "reviews": 171
+  },
+  {
+   "title": "Stand Up Guys Junk Removal",
+   "domain": "standupguys.com",
+   "rating": 5,
+   "reviews": 159
+  }
+ ],
+ "fetched": "2026-10-25"
+}

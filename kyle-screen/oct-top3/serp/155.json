@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Edmond",
+ "state": "OK",
+ "pop": 87004,
+ "vol": 590,
+ "cpc": 10.19,
+ "lead_value": 6012,
+ "query": "dumpster rental edmond",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 287.0,
+ "top5_pages_min": 148,
+ "top10_pages_med": 412,
+ "top10_pages_min": 148,
+ "winner_words_med": 899,
+ "winners_measured": 3,
+ "score": 38,
+ "state_full": "Oklahoma",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/ok/edmond/dumpster-rental-edmond-ok",
+   "title": "Edmond, OK Roll Off Dumpster Rental",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/edmond-ok-dumpster-rental-oklahoma.php",
+   "title": "Roll Off Dumpster Rentals in Edmond, OK",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "bintheredumpthat.com",
+   "url": "https://www.bintheredumpthat.com/oklahoma-city-dumpster-rentals/service-areas/edmond/",
+   "title": "Edmond, OK Dumpster Rentals",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Edmond%2C+OK",
+   "title": "TOP 10 BEST Dumpster Rental in Edmond, OK",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "edmonddumpsterrental.com",
+   "url": "https://www.edmonddumpsterrental.com/",
+   "title": "Dumpster Rental | Roll Off Service | Edmond , OK",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "envirodispose.com",
+   "url": "https://envirodispose.com/dumpster-rentals-edmond/",
+   "title": "Dumpster Rentals Edmond, OK | Affordable Waste Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/932651710995324/posts/2215407749386374/",
+   "title": "Same-day dumpster rental available in Edmond, OK",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "oncalljunkhaul.com",
+   "url": "https://www.oncalljunkhaul.com/",
+   "title": "OKC & Edmond's Expert Dumpster Rental Service",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "edmondok.gov",
+   "url": "https://www.edmondok.gov/605/Bulk-Drop-Off",
+   "title": "Bulk Drop-Off | Edmond, OK - Official Website",
+   "kind": "gov/edu"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Bin There Dump That - Oklahoma City Dumpster Rentals",
+   "domain": "okcdumpsterrental.com",
+   "rating": 5,
+   "reviews": 213
+  },
+  {
+   "title": "Countrywide Dumpster Rental Edmond",
+   "domain": "countrywidedumpsterrental.com",
+   "rating": 4.9,
+   "reviews": 13
+  },
+  {
+   "title": "Strong Dumpsters Tough Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

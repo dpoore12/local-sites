@@ -104,3 +104,25 @@ To change one site's phone number without shipping anything else:
 It fetches that domain's live files, aborts unless each matches `data/manifest.json`
 byte for byte, swaps the number, and redeploys the same manifest with only those pages changed.
 Remember `sites/<domain>/site.json`, `call-desk/index.json` and `call-desk/wiring.json` too.
+
+## 2026-10-25 — Kyle batch 1: 10 new sites, and the 100-domain cap
+
+The 10 Kyle-method sites (`KYLE-BUILD-LIST-2026-10-25.md`) were added with
+`add_sites_deploy.py` (dry run, `--push`, `--hookup`): their files were added to the live
+manifest, no existing file changed, and the domains were attached and CNAMEd.
+
+**Cloudflare caps a Pages project at 100 custom domains.** `local-sites` now holds 100: 96
+site domains plus www for the 4 September test sites. `pensacoladumpsterrentalpros.com`
+didn't fit, so it lives on a **second project, `local-sites-2`** (local-sites-2.pages.dev):
+the same router `_worker.js`, the same `LEADS` D1 binding (so its lead form writes to the same
+lead desk), and only Pensacola's files. LEAD_PASS isn't set there, so read leads on the main
+project's desk. Any redeploy of Pensacola must target `local-sites-2`. The registrar account
+is at 99/100 too, so batch 2 needs a second Cloudflare account.
+
+**Adding files to sites that are already live** (the batch 1 photos, 25 Oct) uses
+`add_assets_deploy.py DOMAIN ... [--project local-sites-2] [--push TOKEN]`. It adds only files
+the live manifest lacks, refuses if any live file would change, and checks each home page
+against the manifest first, so a stale manifest can't roll anything back. `local-sites-2`'s
+manifest is saved in `data/manifest-local-sites-2.json`. A project's asset store only holds
+what was uploaded to that project. The script tops it up from `dist/` when a live hash is
+missing there.

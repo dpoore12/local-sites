@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Camarillo",
+ "state": "CA",
+ "pop": 66086,
+ "vol": 140,
+ "cpc": 11.51,
+ "lead_value": 1611,
+ "query": "window tinting camarillo",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 31087.0,
+ "top5_pages_min": 14,
+ "top10_pages_med": 31087,
+ "top10_pages_min": 14,
+ "winner_words_med": 1188,
+ "winners_measured": 2,
+ "score": 25.7,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Ceramic+Tint&find_loc=Camarillo%2C+CA",
+   "title": "TOP 10 BEST Ceramic Tint in Camarillo, CA - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/camarillo/comments/1c9rzpv/car_tint_near_camarillo/",
+   "title": "Car Tint near Camarillo",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/ca/agoura-hills-127/wrap-shop-near-me-in-camarillo-ca-retail-vehicle-wrap-shop/",
+   "title": "Wrap Shop Near Me in Camarillo, CA | Retail Vehicle ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=vehiclewraps&find_loc=Camarillo%2C+CA",
+   "title": "THE BEST 10 VEHICLE WRAPS IN CAMARILLO, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "ghostshieldfilm.com",
+   "url": "https://ghostshieldfilm.com/areas-we-serve/camarillo-ca/",
+   "title": "Clear Bra & PPF Services Experts in Camarillo, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/the-wrap-source-644137041",
+   "title": "The Wrap Source, 735 W Ventura Blvd, STE H, Camarillo, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "windowtintconejo.com",
+   "url": "https://windowtintconejo.com/",
+   "title": "Window Tinting and Car Wrapping in Ventura. 10% OFF",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/p/DeuVC3djPZG/",
+   "title": "Professional car window tinting is the perfect way to ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=auto+glass&find_loc=Camarillo%2C+CA",
+   "title": "TOP 10 BEST Auto Glass in Camarillo, CA - Updated 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "City Auto Wraps and Window Tinting",
+   "domain": "cityautowrapsandwindowtinting.com",
+   "rating": 4.5,
+   "reviews": 87
+  },
+  {
+   "title": "Auto Obsessionz",
+   "domain": "autoobsessionz.com",
+   "rating": 4.9,
+   "reviews": 78
+  },
+  {
+   "title": "Conejo Wraps and Window Tinting",
+   "domain": "conejoautodetailandtinting.com",
+   "rating": 5,
+   "reviews": 12
+  }
+ ],
+ "fetched": "2026-10-25"
+}

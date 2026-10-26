@@ -1,0 +1,107 @@
+{
+ "niche": "auto glass repair",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 170,
+ "cpc": 11.93,
+ "lead_value": 2028,
+ "query": "auto glass repair fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 69,
+ "top5_pages_min": 55,
+ "top10_pages_med": 1662,
+ "top10_pages_min": 55,
+ "winner_words_med": 1489,
+ "winners_measured": 4,
+ "score": 50.5,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "glassdoctor.com",
+   "url": "https://glassdoctor.com/fort-myers/windshields",
+   "title": "Windshield Replacement & Repair in Fort Myers, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "glassdoctor.com",
+   "url": "https://glassdoctor.com/locations/florida/north-fort-myers",
+   "title": "Need Glass Repair or Replacement in North Fort Myers, FL?",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/TheAutoGlassWarehouse/",
+   "title": "Auto Glass Warehouse | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Auto+Glass+Repair&find_loc=North+Fort+Myers%2C+FL+33917",
+   "title": "Best Auto Glass Repair near North Fort Myers, FL 33917",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/A-Auto-Glass-Calibrations-61564039653136/",
+   "title": "A+ Auto Glass & Calibrations | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mywindshield.com",
+   "url": "https://www.mywindshield.com/near-me/fl/fort-myers/",
+   "title": "Auto Glass Repair in Fort Myers, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "maps.apple.com",
+   "url": "https://maps.apple.com/place?place-id=I7E33AE900A2A8AF2",
+   "title": "Safelite AutoGlass in Fort Myers, FL United States",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/popular/auto-glass-repair-fort-myers/",
+   "title": "Auto Glass Repair Fort Myers",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "schmidtglass.com",
+   "url": "https://schmidtglass.com/nort-fort-myers-glass-shop/",
+   "title": "North Fort Myers Glass Shop",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "A+ Auto Glass & Calibrations",
+   "domain": "aplusautoglass.biz",
+   "rating": 4.7,
+   "reviews": 261
+  },
+  {
+   "title": "Glass America - Mobile Auto Glass & Windshield Replacement",
+   "domain": "autoglasswarehouse.net",
+   "rating": 4.4,
+   "reviews": 160
+  },
+  {
+   "title": "Same Day Windshield",
+   "domain": "samedaywindshield.com",
+   "rating": 4.8,
+   "reviews": 352
+  }
+ ],
+ "fetched": "2026-10-25"
+}

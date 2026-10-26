@@ -1,0 +1,113 @@
+{
+ "niche": "junk removal",
+ "city": "Petaluma",
+ "state": "CA",
+ "pop": 59440,
+ "vol": 880,
+ "cpc": 12.17,
+ "lead_value": 10710,
+ "query": "junk removal petaluma",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 1389.0,
+ "top5_pages_min": 37,
+ "top10_pages_med": 1389,
+ "top10_pages_min": 37,
+ "winner_words_med": 429,
+ "winners_measured": 2,
+ "score": 35,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/marin/petaluma",
+   "title": "Junk Removal Services in Petaluma, CA",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/junk-removal-sanfrancisco/us04026/petaluma",
+   "title": "Same-Day Junk Removal in Petaluma",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Junk+Removal+%26+Hauling&find_loc=Petaluma%2C+CA",
+   "title": "TOP 10 BEST Junk Removal & Hauling in Petaluma, CA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "junk-a-haulics.com",
+   "url": "https://www.junk-a-haulics.com/petaluma-junk-removal",
+   "title": "Petaluma Junk Removal | Junk-A-Haulics",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "recology.com",
+   "url": "https://www.recology.com/recology-sonoma-marin/petaluma/bulky-items/",
+   "title": "Bulky Items - Recology Sonoma Marin",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "peaceoutjunk.com",
+   "url": "https://www.peaceoutjunk.com/",
+   "title": "Peace Out Junk | junk removal Sonoma County junk hauling ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thecaptainsgotit.com",
+   "url": "https://www.thecaptainsgotit.com/",
+   "title": "Captain Haul It All | Junk Removal | Petaluma, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fuhgeddaboutit.junk.removal/",
+   "title": "Fuhgeddaboutit Junk Removal",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "goodriddancehauling.com",
+   "url": "https://goodriddancehauling.com/petaluma/",
+   "title": "Good Riddance Hauling Company in Petaluma",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "MC Junk Removal & Hauling        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 67
+  },
+  {
+   "title": "Fuhgeddaboutit Junk Removal",
+   "domain": "fuhgeddaboutitjunkremoval.com",
+   "rating": 4.9,
+   "reviews": 212
+  },
+  {
+   "title": "Peace Out Junk",
+   "domain": "peaceoutjunk.com",
+   "rating": 5,
+   "reviews": 58
+  },
+  {
+   "title": "The Other Junk Company",
+   "domain": "",
+   "rating": 5,
+   "reviews": 94
+  }
+ ],
+ "fetched": "2026-10-25"
+}

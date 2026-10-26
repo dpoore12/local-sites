@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Georgetown",
+ "state": "TX",
+ "pop": 54898,
+ "vol": 260,
+ "cpc": 16.39,
+ "lead_value": 4261,
+ "query": "dumpster rental georgetown",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 17,
+ "top5_pages_min": 17,
+ "top10_pages_med": 132,
+ "top10_pages_min": 17,
+ "winner_words_med": 734,
+ "winners_measured": 3,
+ "score": 95,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/tx/georgetown/dumpster-rental-georgetown-tx",
+   "title": "Temporary Dumpster Rental in Georgetown, TX",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/georgetown/dumpster-rental",
+   "title": "Dumpster Rental in Georgetown, TX",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Georgetown%2C+TX",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN GEORGETOWN, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "agsdumpsters.com",
+   "url": "https://agsdumpsters.com/georgetown/",
+   "title": "Dumpster Rental in Georgetown - AGS ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "bvrwasteandrecycling.com",
+   "url": "https://www.bvrwasteandrecycling.com/georgetown",
+   "title": "Georgetown, Texas | BVRWasteandRecycling",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "frontierwaste.com",
+   "url": "https://frontierwaste.com/dumpster-rental-georgetown-tx/",
+   "title": "Dumpster Rental Georgetown, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "texas1stchoicedumpsterrental.com",
+   "url": "https://texas1stchoicedumpsterrental.com/dumpster-prices",
+   "title": "Georgetown Dumpster Rental Prices: 15-25 Yards",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/georgetowntexas/posts/26592162227124739/",
+   "title": "What is cheaper, dumpster rental or junk removal in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/georgetown-tx-dumpster-rental-texas.php",
+   "title": "Dumpster Rentals in Georgetown, TX",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Trash Panda Dumpster Rentals",
+   "domain": "trashpandadumpsterrentals.co",
+   "rating": 5,
+   "reviews": 4
+  },
+  {
+   "title": "Dumpster Rental Georgetown",
+   "domain": "",
+   "rating": 4,
+   "reviews": 1
+  },
+  {
+   "title": "Georgetown Dumpster Rental",
+   "domain": "rolloffdumpsterrentalusa.com",
+   "rating": null,
+   "reviews": null
+  }
+ ],
+ "fetched": "2026-10-25"
+}

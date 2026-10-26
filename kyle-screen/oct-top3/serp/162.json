@@ -1,0 +1,100 @@
+{
+ "niche": "dumpster rental",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 260,
+ "cpc": 22.07,
+ "lead_value": 5738,
+ "query": "dumpster rental boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 329.5,
+ "top5_pages_min": 233,
+ "top10_pages_med": 280,
+ "top10_pages_min": 132,
+ "winner_words_med": 1046,
+ "winners_measured": 4,
+ "score": 36,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "coastalwasteinc.com",
+   "url": "https://www.coastalwasteinc.com/roll-off-dumpsters/palm-beach-county/lake-worth-dumpster-rental/",
+   "title": "Dumpster Rental in Lake Worth | Palm Beach County Roll ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/the-perfect-dump-boca-raton-2",
+   "title": "THE PERFECT DUMP - Updated October 2026 - 14 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "coastalwasteinc.com",
+   "url": "https://www.coastalwasteinc.com/roll-off-dumpsters/palm-beach-county/delray-beach-dumpster-rental/",
+   "title": "Delray Dumpster Rental | Dumpster for Rent in Palm Beach ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/15-yard-dumpster-rental-boca-raton-fl/?locale=tr_TR",
+   "title": "15 Yard Dumpster Rental Boca Raton FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/boca-raton-dumpsters-by-precision-disposal-boca-raton-2",
+   "title": "Boca Raton Dumpsters by Precision Disposal",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "coastalwasteinc.com",
+   "url": "https://www.coastalwasteinc.com/roll-off-dumpsters/palm-beach-county/palm-beach-dumpster-rental/",
+   "title": "Dumpster Rentals in Palm Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/boca-raton/dumpster-rentals/stainless-industries-inc/service/472413757326098456",
+   "title": "Stainless Industries Inc | Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/dumpsters-r-us-boca-raton",
+   "title": "DUMPSTERS R US - Updated October 2026 - 14 Photos",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Boca Raton Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Boca Raton Mab Dumpster Rental Service",
+   "domain": "",
+   "rating": 5,
+   "reviews": 5
+  },
+  {
+   "title": "Roll Off Dumpster Rental Boca Raton",
+   "domain": "rolloffdumpsterrentalusa.com",
+   "rating": null,
+   "reviews": null
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,113 @@
+{
+ "niche": "window tinting",
+ "city": "St. George",
+ "state": "UT",
+ "pop": 76817,
+ "vol": 320,
+ "cpc": 5.16,
+ "lead_value": 1651,
+ "query": "window tinting st. george",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 41,
+ "top5_pages_min": 16,
+ "top10_pages_med": 159,
+ "top10_pages_min": 16,
+ "winner_words_med": 777,
+ "winners_measured": 4,
+ "score": 70.0,
+ "state_full": "Utah",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "m1windowtinting.com",
+   "url": "https://m1windowtinting.com/",
+   "title": "#1 Window Tinting Company in St. George, Utah | 970-712-6908",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1891499488248272/posts/2161966527868232/",
+   "title": "Vehicle Window Tinting Services in St George with Lifetime ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/exclusive-wraps-and-tint-saint-george",
+   "title": "Exclusive Wraps & Tint - Updated October 2026 - 14 Reviews",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/stgeorgeutahwom/posts/1403825028182866/",
+   "title": "Best tint shop in St. George?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "originalclearbra.com",
+   "url": "https://originalclearbra.com/",
+   "title": "Paint Protection Film Salt Lake City | Utah Window Tinting ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/645505868888266/posts/7298874863551300/",
+   "title": "Where to get window tinting in St. George?",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/retail-service-for-window-tinting-near-me-in-st-george-ut-6/",
+   "title": "Retail Service for Window Tinting Near Me | St. George, UT",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/st-george-window-tinting-st-george",
+   "title": "ST. GEORGE WINDOW TINTING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Utah/St._George?srsltid=AYCX9vLZ3tDHL2ilGM8GCWeTiHsxrYZroOqrd25l1Mg5xZEFDF3vR7Xu",
+   "title": "XPEL Installers - St. George, Utah - United States",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "St. George Tint Shop        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 331
+  },
+  {
+   "title": "St. George Tint Shop",
+   "domain": "stgtintshop.com",
+   "rating": 5,
+   "reviews": 332
+  },
+  {
+   "title": "The Tint Lab LLC",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 40
+  },
+  {
+   "title": "Express Tints",
+   "domain": "expresstints.com",
+   "rating": 4.8,
+   "reviews": 271
+  }
+ ],
+ "fetched": "2026-10-25"
+}

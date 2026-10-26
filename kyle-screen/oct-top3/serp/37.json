@@ -1,0 +1,81 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Asheville",
+ "state": "NC",
+ "pop": 87236,
+ "vol": 70,
+ "cpc": 30.08,
+ "lead_value": 2106,
+ "query": "septic tank pumping asheville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 21,
+ "top5_pages_min": 12,
+ "top10_pages_med": 16,
+ "top10_pages_min": 8,
+ "winner_words_med": 522,
+ "winners_measured": 4,
+ "score": 82.0,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "ableseptictankservice.com",
+   "url": "https://www.ableseptictankservice.com/",
+   "title": "Able Septic Tank Service: Local, Residential Septic Pumping ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=septicservices&find_loc=Asheville%2C+NC",
+   "title": "THE BEST 10 SEPTIC SERVICES IN ASHEVILLE, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "mountainwellandseptic.com",
+   "url": "https://www.mountainwellandseptic.com/",
+   "title": "Mountain Well And Septic: Well | Asheville",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "mikesseptictankservice.com",
+   "url": "https://www.mikesseptictankservice.com/contact",
+   "title": "Mike's Septic Tank Service Asheville Area 828-253-2612",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "allaboutplumbingnc.com",
+   "url": "https://allaboutplumbingnc.com/services/septic/",
+   "title": "Septic Services in Hendersonville, Asheville & Mills River ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/nc/asheville/septic-tank.htm",
+   "title": "Top 10 Best Septic tank pros in Asheville, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "ashevilleseptic.com",
+   "url": "https://ashevilleseptic.com/",
+   "title": "Asheville Septic | North Carolina's trusted Septic Installation ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "septicandwell.com",
+   "url": "https://septicandwell.com/listings/cains-septic-service",
+   "title": "Cain's Septic Service \u2014 Septic Pumping in Asheville, NC",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

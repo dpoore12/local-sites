@@ -1,0 +1,100 @@
+{
+ "niche": "window tinting",
+ "city": "Summerville",
+ "state": "SC",
+ "pop": 46074,
+ "vol": 880,
+ "cpc": 5.98,
+ "lead_value": 5262,
+ "query": "window tinting summerville",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 62,
+ "top5_pages_min": 2,
+ "top10_pages_med": 1183,
+ "top10_pages_min": 2,
+ "winner_words_med": 829,
+ "winners_measured": 4,
+ "score": 79,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "southernluxedetailing.com",
+   "url": "https://www.southernluxedetailing.com/",
+   "title": "Ceramic Tint, Coating & PPF in Summerville | Southern Luxe",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/car-window-tinting-near-me-in-summerville-sc-vehicle-install-service-professionals/",
+   "title": "Car Window Tinting Near Me in Summerville, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/gw-window-tinting-summerville-sc/",
+   "title": "GW Window Tinting Summerville SC - Reviews, Prices & ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/BerkeleyCountyGrowth/posts/3758406581131349/",
+   "title": "Residential tinting companies in Summerville?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/jc-pro-tint-summerville",
+   "title": "JC PRO TINT - Updated October 2026 - 54 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "blackoptixtint.com",
+   "url": "https://blackoptixtint.com/locations/sc/summerville/booking/",
+   "title": "Custom Window Tint & Auto Styling in Summerville",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/south-carolina/g-w-window-tinting-304794836",
+   "title": "G W Window Tinting",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Home+Window+Tinting&find_loc=Summerville%2C+SC",
+   "title": "TOP 10 BEST Home Window Tinting in Summerville, SC",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "JC Pro Tint",
+   "domain": "jcprotintsc.com",
+   "rating": 5,
+   "reviews": 342
+  },
+  {
+   "title": "G W Window Tinting",
+   "domain": "gwwindowtinting.com",
+   "rating": 4.9,
+   "reviews": 338
+  },
+  {
+   "title": "Next Level Tint and Detail",
+   "domain": "nextleveltint.com",
+   "rating": 4.9,
+   "reviews": 217
+  }
+ ],
+ "fetched": "2026-10-25"
+}

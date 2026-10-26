@@ -1,0 +1,88 @@
+{
+ "niche": "chimney sweep",
+ "city": "New Braunfels",
+ "state": "TX",
+ "pop": 63279,
+ "vol": 70,
+ "cpc": 27.15,
+ "lead_value": 1900,
+ "query": "chimney sweep new braunfels",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 198,
+ "top5_pages_min": 13,
+ "top10_pages_med": 198,
+ "top10_pages_min": 13,
+ "winner_words_med": 601,
+ "winners_measured": 3,
+ "score": 55.7,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wolfmanchimneyfireplace.com",
+   "url": "https://wolfmanchimneyfireplace.com/",
+   "title": "New Braunfels Chimney & Fireplace Services | Inspections ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=chimneysweeps&find_loc=New+Braunfels%2C+TX+78130",
+   "title": "THE BEST 10 CHIMNEY SWEEPS NEAR NEW ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "allserviceco.com",
+   "url": "https://www.allserviceco.com/chimney-sweep-and-repair",
+   "title": "Chimney Sweep | New Braunfels, TX - All Service",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "johnson-chimneysweep.com",
+   "url": "https://www.johnson-chimneysweep.com/newbraunfels-tx",
+   "title": "Johnson Professional Chimney Sweep & Repair Services",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/Wolfmanchimneyfireplace/",
+   "title": "Wolfman Chimney & Fireplace | New Braunfels TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "capitolchimney.com",
+   "url": "https://capitolchimney.com/our-locations/new-braunfels-location/",
+   "title": "Chimney, Fireplace & Dryer Vent Experts in New Braunfels, ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/sugarbears-chimney-sweeps-new-braunfels",
+   "title": "Sugarbears Chimney Sweeps - New Braunfels, Texas",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/texas/sugarbears-chimney-sweeps-9606258",
+   "title": "Sugarbears Chimney Sweeps - New Braunfels",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tx/new-braunfels/chimney-sweep",
+   "title": "Chimney sweepers near New Braunfels, TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

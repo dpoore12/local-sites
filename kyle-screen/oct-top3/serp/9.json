@@ -1,0 +1,88 @@
+{
+ "niche": "dumpster rental",
+ "city": "Gulfport",
+ "state": "MS",
+ "pop": 71012,
+ "vol": 480,
+ "cpc": 11.12,
+ "lead_value": 5338,
+ "query": "dumpster rental gulfport",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 12.0,
+ "top5_pages_min": 1,
+ "top10_pages_med": 23,
+ "top10_pages_min": 1,
+ "winner_words_med": 777,
+ "winners_measured": 3,
+ "score": 93,
+ "state_full": "Mississippi",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/ms/gulfport/dumpster-rental-gulfport-ms",
+   "title": "Temporary Dumpster Rental in Gulfport, MS",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "rentajunkbus.com",
+   "url": "https://www.rentajunkbus.com/dumpster-rental-gulfport-ms",
+   "title": "Dumpster Rental Gulfport, MS It's Not Just A ...",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/gulfport-ms-dumpster-rental-mississippi.php",
+   "title": "Roll Off Dumpster Rentals in Gulfport, MS",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/maverickrolloffsllc/",
+   "title": "Maverick Rolloffs, LLC | Gulfport MS",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Gulfport%2C+MS",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN GULFPORT, MS",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "markdunning.com",
+   "url": "https://markdunning.com/mississippi/",
+   "title": "Mississippi Dumpster Rentals and Waste Collection Services",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "pinkdumpstersms.com",
+   "url": "https://www.pinkdumpstersms.com/",
+   "title": "Dumpster Rentals MS Gulf Coast",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "gulfportdumpsterrental.z19.web.core.windows.net",
+   "url": "https://gulfportdumpsterrental.z19.web.core.windows.net/index.html",
+   "title": "Gulfport Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "dumpsters.com",
+   "url": "https://www.dumpsters.com/service-area/gulfport-ms",
+   "title": "Rent a Dumpster in Gulfport, MS",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

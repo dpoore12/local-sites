@@ -1,0 +1,119 @@
+{
+ "niche": "stucco repair",
+ "city": "Santa Fe",
+ "state": "NM",
+ "pop": 69976,
+ "vol": 260,
+ "cpc": 13.18,
+ "lead_value": 3427,
+ "query": "stucco repair santa fe",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 149.5,
+ "top5_pages_min": 48,
+ "top10_pages_med": 48,
+ "top10_pages_min": 16,
+ "winner_words_med": 694,
+ "winners_measured": 3,
+ "score": 56,
+ "state_full": "New Mexico",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/quality-stucco-santa-fe",
+   "title": "QUALITY STUCCO - Updated October 2026 - Santa Fe, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "happyhomesllp.com",
+   "url": "https://happyhomesllp.com/stucco-services/santa-fe-nm/",
+   "title": "Stucco Repair in Santa Fe NM",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/136461779799902/posts/9406967909415863/",
+   "title": "Licensed stucco contractors in Santa Fe",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/santafeforum/posts/3714830462025725/",
+   "title": "Good morning today I'm offering my stucco services I' ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/santa-fe-nm/recommendations-stucco-repair-garage-santa-fe-nm/xY52tjr2qm4OHozL4rmZOQ",
+   "title": "Best Garage Remodel Services in Santa Fe, NM",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/136461779799902/posts/9935380839907898/",
+   "title": "Who does stucco and patching in Santa Fe?",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/santa-fe-nm/im-renovating-historic-style-property-want-contractors/ZDOMuCjLgiJ3BEzzTh0p3w",
+   "title": "Best Stucco Repair Services in Santa Fe, NM",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "guruleconstruction.com",
+   "url": "https://guruleconstruction.com/general-contractor-santa-fe-new-mexico-services/stucco-repair-replacement/",
+   "title": "Stucco Repair & Replacement | Santa Fe, NM",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/santa-fe-nm/looking-contractors-santa-fe-nm-match-exterior-finishes/5d9TITJN6uChdyZepklaKg",
+   "title": "I am looking for contractors in Santa Fe, NM who can match ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Land of Encanto Stucco        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 41
+  },
+  {
+   "title": "Stucco Contractors Santa Fe",
+   "domain": "stuccocontractorsantafe.com",
+   "rating": 4.9,
+   "reviews": 16
+  },
+  {
+   "title": "Zia Stucco and Roofing",
+   "domain": "ziastucco.com",
+   "rating": 5,
+   "reviews": 10
+  },
+  {
+   "title": "Land of Encanto Stucco",
+   "domain": "landofencantostucco.com",
+   "rating": 5,
+   "reviews": 41
+  },
+  {
+   "title": "Land of Encanto Stucco - Santa Fe        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 41
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,100 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Castle Rock",
+ "state": "CO",
+ "pop": 53063,
+ "vol": 210,
+ "cpc": 23.22,
+ "lead_value": 4876,
+ "query": "air duct cleaning castle rock",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 175,
+ "top5_pages_min": 90,
+ "top10_pages_med": 175,
+ "top10_pages_min": 90,
+ "winner_words_med": 989,
+ "winners_measured": 3,
+ "score": 56,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "denver.unitedhomeservices.com",
+   "url": "https://denver.unitedhomeservices.com/locations/castle-rock/",
+   "title": "Home Services in Castle Rock",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/co/castle-rock/duct-cleaning/dryerventz-ductventz-cleaning-service/service/549922293873049605",
+   "title": "Dryerventz | Ductventz Cleaning Service | Castle Rock, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "dryerventwizard.com",
+   "url": "https://www.dryerventwizard.com/locations/castle-rock/geo/castle-rock",
+   "title": "Dryer Vent Cleaning, Repair & Install in Castle Rock, CO",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/DuctDryer-Pros-100094619674109/",
+   "title": "Duct&Dryer Pros",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "exactchoicellc.com",
+   "url": "https://www.exactchoicellc.com/?srsltid=AYCX9vK2qj4kwPUat65F1-5qqsxm_hHFgYvN_anIv11y6m7HXiAf8-sm",
+   "title": "Parker Air Duct Cleaning - Parker CO | Exact Choice Duct and ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/CastleRockCOCommunity/posts/6811622125605543/",
+   "title": "Air Vent Cleaning Services in Castle Rock, Colorado",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "americanaircarecolorado.com",
+   "url": "https://www.americanaircarecolorado.com/free-estimates",
+   "title": "Contact Us - American Air Care in Castle Rock, CO",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "dryer-vent-wizard-of-castle-rock.wheree.com",
+   "url": "https://dryer-vent-wizard-of-castle-rock.wheree.com/",
+   "title": "DRYER VENT WIZARD OF CASTLE ROCK - Reviews, Photos ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "AirDuct Specialists, INC",
+   "domain": "airductspecialists.com",
+   "rating": 5,
+   "reviews": 159
+  },
+  {
+   "title": "DryerVentz | DuctVentz Cleaning Service",
+   "domain": "dryerventzdenvermetro.com",
+   "rating": 5,
+   "reviews": 178
+  },
+  {
+   "title": "Castle Rock Air Duct Cleaning",
+   "domain": "",
+   "rating": 2.6,
+   "reviews": 5
+  }
+ ],
+ "fetched": "2026-10-25"
+}

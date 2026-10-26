@@ -1,0 +1,106 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Ocala",
+ "state": "FL",
+ "pop": 57468,
+ "vol": 170,
+ "cpc": 16.31,
+ "lead_value": 2773,
+ "query": "septic tank pumping ocala",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 235.0,
+ "top5_pages_min": 5,
+ "top10_pages_med": 235,
+ "top10_pages_min": 5,
+ "winner_words_med": 661,
+ "winners_measured": 5,
+ "score": 59.5,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "marionpumper.com",
+   "url": "https://marionpumper.com/septic-services-ocala/drain-field-services/",
+   "title": "Drain Field Services, Ocala, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/ocala/septic-tank.htm",
+   "title": "Top 10 Best Septic tank pros in Ocala, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/wordofmouthocala/posts/23927038626931484/",
+   "title": "What septic companies are recommended in Ocala?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "marionpumper.com",
+   "url": "https://marionpumper.com/septic-services-ocala/septic-tank-services/septic-tank-repair/",
+   "title": "Septic Tank Repair, Ocala, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/ocala-septic-tank-pumping-services/",
+   "title": "Ocala Septic Tank Pumping Services",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/fl/septic-service-ocala-costs",
+   "title": "Septic Service in Ocala, FL - Costs 09 / 2026 - Homeyou",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/a-absolute-septic-service-ocala",
+   "title": "A ABSOLUTE SEPTIC SERVICE - Updated September 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "septictank.com",
+   "url": "https://septictank.com/business/a-action-septic-tank-service-ocala-fl",
+   "title": "A-Action Septic Tank Service - Ocala",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "A-1 Payless Septic Service, Inc",
+   "domain": "a1paylesssepticservice.com",
+   "rating": 4.2,
+   "reviews": 91
+  },
+  {
+   "title": "Ocala well and septic",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 54
+  },
+  {
+   "title": "Nu Septic",
+   "domain": "nuseptic.com",
+   "rating": 4.7,
+   "reviews": 52
+  },
+  {
+   "title": "ABC Septic Pumping Service of Ocala        My Ad Center",
+   "domain": "google.com",
+   "rating": 4.5,
+   "reviews": 23
+  }
+ ],
+ "fetched": "2026-10-25"
+}

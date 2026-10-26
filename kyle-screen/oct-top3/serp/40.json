@@ -1,0 +1,100 @@
+{
+ "niche": "pressure washing",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 170,
+ "cpc": 15.11,
+ "lead_value": 2569,
+ "query": "pressure washing marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 48,
+ "top5_pages_min": 12,
+ "top10_pages_med": 57,
+ "top10_pages_min": 12,
+ "winner_words_med": 509,
+ "winners_measured": 6,
+ "score": 81.1,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/house-washing-services",
+   "title": "The 10 Best House Washing Services in Marietta, GA 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "aqua-nomics.com",
+   "url": "https://www.aqua-nomics.com/service-area/marietta-ga-pressure-washing-roof-cleaning/",
+   "title": "Pressure Washing and Roof Cleaning in Marietta, Ga",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "rollingsudspowerwashing.com",
+   "url": "https://www.rollingsudspowerwashing.com/home-pressure-washing-services-near-me-marietta-ga/",
+   "title": "Pressure Washing Services Near Me | Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/MariettaMomsOfficial/posts/7388257167864956/",
+   "title": "Home pressure washing services in Marietta area?",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/sunshine-cleaning-service-marietta",
+   "title": "SUNSHINE CLEANING SERVICE - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "go-ccs.com",
+   "url": "https://go-ccs.com/pressure-washing-marietta-ga/",
+   "title": "Commercial Pressure Washing Marietta GA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "advancedpressureandgutter.com",
+   "url": "https://www.advancedpressureandgutter.com/cities-served/marietta",
+   "title": "Marietta Power Washing & Gutter Cleaning Services",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/georgia/peterson-pressure-washing-370546482",
+   "title": "Peterson Pressure Washing - Marietta",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Wes\u2019s Waterworks Pressure Washing",
+   "domain": "weswaterworks.com",
+   "rating": 5,
+   "reviews": 165
+  },
+  {
+   "title": "Advanced Pressure & Gutter Cleaning, Part of Ned's Home",
+   "domain": "advancedpressureandgutter.com",
+   "rating": 4.9,
+   "reviews": 2500
+  },
+  {
+   "title": "Expert Pressure & Gutter Cleaning",
+   "domain": "expertwashusa.com",
+   "rating": 5,
+   "reviews": 160
+  }
+ ],
+ "fetched": "2026-10-25"
+}

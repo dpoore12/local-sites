@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Longmont",
+ "state": "CO",
+ "pop": 89919,
+ "vol": 320,
+ "cpc": 26.93,
+ "lead_value": 8618,
+ "query": "air duct cleaning longmont",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 342.0,
+ "top5_pages_min": 153,
+ "top10_pages_med": 164,
+ "top10_pages_min": 90,
+ "winner_words_med": 1245,
+ "winners_measured": 4,
+ "score": 38,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "kurahomeservices.com",
+   "url": "https://www.kurahomeservices.com/service-areas/air-duct-cleaning-and-home-maintenance-in-longmont-colorado",
+   "title": "Air Duct Cleaning Longmont CO | Kura Home Maintenance",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1881081528825563/posts/2740935096173531/",
+   "title": "Hello Everyone! We are in Longmont for \"AIR DUCT ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/longmont-co/heating-duct-cleaning-services",
+   "title": "Best Heating Duct Cleaning Services in Longmont, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "servpro.com",
+   "url": "https://www.servpro.com/locations/co/servpro-of-longmont/services/cleaning/specialty",
+   "title": "Specialty Cleaning Services near Longmont, CO",
+   "kind": "national"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/longmont-co/dryer-vent-cleaning-services",
+   "title": "Best Dryer Vent Cleaning Services in Longmont, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/duct-cleaning-services-in-longmont/",
+   "title": "Duct Cleaning Services in Longmont",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "ductcleaning-co.com",
+   "url": "https://ductcleaning-co.com/hvac-cleaning-services/northern-colorado-home-air-duct-cleaning/",
+   "title": "Northern Colorado Home Air Duct Cleaning Services by ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/longmont-co/dryer-duct-services",
+   "title": "Best Dryer Duct Services in Longmont, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "airductcleaninglongmontco.com",
+   "url": "https://www.airductcleaninglongmontco.com/services/industrial-duct-cleaning-longmont-co",
+   "title": "Industrial Duct Cleaning Solutions in Longmont, CO",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Corvonta Air Duct Cleaning Service",
+   "domain": "",
+   "rating": 5,
+   "reviews": 11
+  },
+  {
+   "title": "Bee's Air Duct Cleaning",
+   "domain": "ductcleaning-co.com",
+   "rating": 4.9,
+   "reviews": 2100
+  },
+  {
+   "title": "Zentaro Air Duct Cleaning Services",
+   "domain": "",
+   "rating": 5,
+   "reviews": 7
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "mobile mechanic",
+ "city": "Palm Coast",
+ "state": "FL",
+ "pop": 78740,
+ "vol": 210,
+ "cpc": 9.41,
+ "lead_value": 1976,
+ "query": "mobile mechanic palm coast",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 43553.0,
+ "top5_pages_min": 68,
+ "top10_pages_med": 191,
+ "top10_pages_min": 68,
+ "winner_words_med": 1008,
+ "winners_measured": 3,
+ "score": 26.2,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/mobile_mechanic_mira_motors/",
+   "title": "MOBILE MECHANIC PALM COAST ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "palmcoastautorepair.biz",
+   "url": "https://www.palmcoastautorepair.biz/",
+   "title": "Palm Coast Auto Repair: Home",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/603252770445269/posts/2369346697169192/",
+   "title": "Mobile mechanic services in Palm Coast",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/whites-mobile-mechanic-palm-coast",
+   "title": "WHITES MOBILE MECHANIC - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/ironclad-mobile-mechanics-unit/",
+   "title": "Ironclad Mobile Mechanics LLC - Palm Coast, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "paulsmobilecare.com",
+   "url": "https://paulsmobilecare.com/about/",
+   "title": "About Paul's Mobile Care LLC | Mobile Mechanic Palm Coast",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/nexgen-mobile-mechanic-790539898",
+   "title": "Nexgen Mobile Mechanic, Palm Coast, FL 32137, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/auto-repairs/fl/palm-coast/2/",
+   "title": "Auto Repairs in Palm Coast, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "craigslist.org",
+   "url": "https://www.craigslist.org/search/city/palm-coast-fl?cat=aos",
+   "title": "Automotive Services near Palm Coast, FL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Paul's Mobile Care LLC",
+   "domain": "paulsmobilecare.com",
+   "rating": 4.4,
+   "reviews": 206
+  },
+  {
+   "title": "Michael's Mobile Care",
+   "domain": "michaelsmobilecare.com",
+   "rating": 4.9,
+   "reviews": 41
+  },
+  {
+   "title": "MIRA MOTORS Mobile Mechanic",
+   "domain": "instagram.com",
+   "rating": 5,
+   "reviews": 76
+  }
+ ],
+ "fetched": "2026-10-25"
+}

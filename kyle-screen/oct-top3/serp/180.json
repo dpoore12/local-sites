@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 590,
+ "cpc": 18.57,
+ "lead_value": 10956,
+ "query": "junk removal sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 789,
+ "top5_pages_min": 789,
+ "top10_pages_med": 398,
+ "top10_pages_min": 8,
+ "winner_words_med": 1102,
+ "winners_measured": 2,
+ "score": 25,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "collegehunkshaulingjunk.com",
+   "url": "https://www.collegehunkshaulingjunk.com/sarasota/",
+   "title": "Moving & Junk Removal in Sarasota, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Sarasota%2C+FL",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/sarasota",
+   "title": "Junk Removal, Dumpster Rental Sarasota, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 4,
+   "domain": "scgov.net",
+   "url": "https://www.scgov.net/government/solid-waste/trash-and-recycling",
+   "title": "Trash and Recycling | Sarasota County, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "sarasotajunkremoval.com",
+   "url": "https://sarasotajunkremoval.com/",
+   "title": "Sarasota Junk Removal Services #1 Rated Junk Team ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/877008332816759/posts/1929041777613404/",
+   "title": "Junk removal services in Sarasota County",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/junk-removal/fl/sarasota/?srsltid=AYCX9vIp3_CMXrOs2pZScG2ZzyK-cCDoaeDeGgjn845eB_nxe9-3n6vt",
+   "title": "Junk Removal & Disposal in Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "junkremovaltampatosarasota.com",
+   "url": "https://junkremovaltampatosarasota.com/",
+   "title": "JUNK REMOVAL Tampa to Sarasota.com - 941-477-0177",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Junk King Sarasota",
+   "domain": "junk-king.com",
+   "rating": 4.9,
+   "reviews": 1400
+  },
+  {
+   "title": "Armour Junk Removal & Hauling llc",
+   "domain": "armourjunkremoval.com",
+   "rating": 5,
+   "reviews": 147
+  },
+  {
+   "title": "Nextgen Junk Removal Sarasota",
+   "domain": "nextgenjunk.com",
+   "rating": 5,
+   "reviews": 388
+  }
+ ],
+ "fetched": "2026-10-25"
+}

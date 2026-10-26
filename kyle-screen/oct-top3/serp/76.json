@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 480,
+ "cpc": 15.43,
+ "lead_value": 7406,
+ "query": "junk removal fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 33,
+ "top5_pages_min": 33,
+ "top10_pages_med": 33,
+ "top10_pages_min": 33,
+ "winner_words_med": 1925,
+ "winners_measured": 1,
+ "score": 68,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/fort-myers/hauling.htm",
+   "title": "Top 10 Best Haulers in Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/FtMyers/posts/4221398088006190/",
+   "title": "Junk removal services in central Fort Myers, FL?",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "taskrabbit.com",
+   "url": "https://www.taskrabbit.com/locations/fort-myers/junk-removal",
+   "title": "Junk Removal & Hauling Services in Fort Myers",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "thebirdnestgroup.com",
+   "url": "https://thebirdnestgroup.com/",
+   "title": "The BirdNest Group: Junk Removal & Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/JunkItQuick/",
+   "title": "Junk-It-Quick | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "junk.com",
+   "url": "https://www.junk.com/fl/fortmyers",
+   "title": "Same Day Junk Removal in Fort Myers",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/r-and-r-junk-removal-fort-myers",
+   "title": "R & R JUNK REMOVAL - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/jimmy3332/",
+   "title": "Removal Solutions LLC",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Friendly Junk Removal & Hauling",
+   "domain": "friendlyjunkremoval.com",
+   "rating": 5,
+   "reviews": 97
+  },
+  {
+   "title": "College Hunks Hauling Junk and Moving Fort Myers",
+   "domain": "collegehunkshaulingjunk.com",
+   "rating": 4.9,
+   "reviews": 1900
+  },
+  {
+   "title": "Lee Junk Removal",
+   "domain": "leejunkremoval.com",
+   "rating": 5,
+   "reviews": 192
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "New Braunfels",
+ "state": "TX",
+ "pop": 63279,
+ "vol": 390,
+ "cpc": 11.3,
+ "lead_value": 4407,
+ "query": "dumpster rental new braunfels",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 202.0,
+ "top5_pages_min": 13,
+ "top10_pages_med": 65,
+ "top10_pages_min": 13,
+ "winner_words_med": 623,
+ "winners_measured": 5,
+ "score": 51,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tophandrolloff.com",
+   "url": "https://tophandrolloff.com/",
+   "title": "Top Hand Roll-Off Dumpster Rentals in New Braunfels",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Binz-Dumpster-Rentals-61560503111336/",
+   "title": "Binz Dumpster Rentals | New Braunfels TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "zters.com",
+   "url": "https://www.zters.com/dumpster-rental/new-braunfels-tx",
+   "title": "Dumpster Rental in New Braunfels, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/ez-dumpster-rental-new-braunfels",
+   "title": "EZ DUMPSTER RENTAL - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/twostephauling/",
+   "title": "Two Step Disposal Roll off dumpster rentals & Junk removal",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tx/new-braunfels/dumpster-rentals",
+   "title": "The 10 Best Dumpster Rentals in New Braunfels, TX 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "fivestardumpsters.org",
+   "url": "https://www.fivestardumpsters.org/",
+   "title": "Skid Steer and Dumpster Rental. Servicing New Braunfels ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "wm.com",
+   "url": "https://www.wm.com/us/en/location/tx/new-braunfels",
+   "title": "Services in the New Braunfels, Texas Area",
+   "kind": "national"
+  },
+  {
+   "pos": 9,
+   "domain": "asapmarketplace.com",
+   "url": "https://www.asapmarketplace.com/locations/tx/comal-county/new-braunfels/roll-off-dumpster-rentals/",
+   "title": "Roll Off Dumpster Rental in New Braunfels",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "New Braunfels Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "New Braunfels Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Dumpster Rental New Braunfels",
+   "domain": "",
+   "rating": 4,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

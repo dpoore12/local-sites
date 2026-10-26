@@ -1,0 +1,113 @@
+{
+ "niche": "window tinting",
+ "city": "Tracy",
+ "state": "CA",
+ "pop": 84691,
+ "vol": 320,
+ "cpc": 6.41,
+ "lead_value": 2051,
+ "query": "window tinting tracy",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 25,
+ "top5_pages_min": 25,
+ "top10_pages_med": 22,
+ "top10_pages_min": 19,
+ "winner_words_med": 180,
+ "winners_measured": 2,
+ "score": 73.7,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "jetblacktint.com",
+   "url": "https://jetblacktint.com/tracy/visit-our-newest-location-in-tracy-california/?srsltid=AYCX9vJ-eAjs9YmARdEN24gjzne9_CssrGOiFRDbo96pN4YwZCSfD7Qz",
+   "title": "Visit Our Newest Location in Tracy, California",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/super-friendly-tinters-tracy",
+   "title": "SUPER FRIENDLY TINTERS - CLOSED",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/california/jl-window-tint-778816823",
+   "title": "JL Window Tint, 7928 W 11th St, Tracy, CA 95304, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/Superiorwindowtint95377/reels/",
+   "title": "Superior Window Tint Tracy, CA 95377",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "lowcostinterlock.com",
+   "url": "https://www.lowcostinterlock.com/locations/ignition-interlock-california-tracy-1204-holly-dr-95376/",
+   "title": "CAL CUSTOM AUDIO & WINDOW TINT \u2013 TRACY",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/supreme-auto-tinting-tracy-2",
+   "title": "SUPREME AUTO TINTING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "ceramicgarage.com",
+   "url": "https://ceramicgarage.com/locations/tracy-ca/?srsltid=AYCX9vIcP34Mvel3C8kZYgZoWZtyD65OPn4gbIHe9InM28Aq9zP25UWX",
+   "title": "XPEL PPF, Ceramic Coating & Tint Tracy, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/p/DertAlCGqKa/",
+   "title": "Tracy 5\u2b50\ufe0f Automotive/Commercial Tinting 209-876-6440 ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "ceramicprotracyelite.com",
+   "url": "https://ceramicprotracyelite.com/blog-posts/window-tint-cost-in-tracy-ca-get-a-free-quote-from-ceramic-pro/",
+   "title": "Window Tint Cost In Tracy, CA: Get A Free Quote From ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "GShopTints",
+   "domain": "gshopmobiletint.com",
+   "rating": 5,
+   "reviews": 146
+  },
+  {
+   "title": "Black Sky Tint&Glass",
+   "domain": "blackskytint.com",
+   "rating": 4.9,
+   "reviews": 278
+  },
+  {
+   "title": "209 MOBILE WINDOW TINT",
+   "domain": "209windowtint.com",
+   "rating": 5,
+   "reviews": 94
+  },
+  {
+   "title": "Superior Window Tint        My Ad Center",
+   "domain": "google.com",
+   "rating": 4.8,
+   "reviews": 564
+  }
+ ],
+ "fetched": "2026-10-25"
+}

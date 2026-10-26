@@ -1,0 +1,100 @@
+{
+ "niche": "dumpster rental",
+ "city": "Homestead",
+ "state": "FL",
+ "pop": 64079,
+ "vol": 170,
+ "cpc": 31.03,
+ "lead_value": 5275,
+ "query": "dumpster rental homestead",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 233,
+ "top5_pages_min": 233,
+ "top10_pages_med": 511,
+ "top10_pages_min": 233,
+ "winner_words_med": 1046,
+ "winners_measured": 2,
+ "score": 26,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "republicservices.com",
+   "url": "https://www.republicservices.com/locations/florida/homestead-trash-pickup-and-recycling",
+   "title": "Homestead, FL Trash Pickup & Recycling",
+   "kind": "national"
+  },
+  {
+   "pos": 2,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/cutler-bay-fl-dumpster-rental-florida.php",
+   "title": "Dumpster Rentals in Cutler Bay, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/genix-dumpsters-homestead",
+   "title": "GENIX DUMPSTERS - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "doneritehauling.com",
+   "url": "https://doneritehauling.com/hauling-homestead-fl/",
+   "title": "Junk Removal Homestead Florida - Done Rite Hauling",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Homestead%2C+FL",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "skool.com",
+   "url": "https://www.skool.com/dumpster-rental-4466/dumpster-rental-homestead-fl-call-888-875-8904",
+   "title": "Dumpster Rental Homestead, FL | Call (888) 875-8904",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "1stcalldumpsters.com",
+   "url": "https://1stcalldumpsters.com/dumpster-rental-homestead-fl/",
+   "title": "Dumpster Rental Homestead, FL | Call (850) 332-9639 - Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Trash+Dump&find_loc=Homestead%2C+FL",
+   "title": "TOP 10 BEST Trash Dump in Homestead, FL - Updated 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Homestead Dumpsters Rentable",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Roll Off Dumpster Services, LLC",
+   "domain": "",
+   "rating": 5,
+   "reviews": 54
+  },
+  {
+   "title": "Homestead City Dumpster Rentals Company",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Cypress",
+ "state": "CA",
+ "pop": 49087,
+ "vol": 140,
+ "cpc": 31.79,
+ "lead_value": 4451,
+ "query": "air duct cleaning cypress",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 101.5,
+ "top5_pages_min": 34,
+ "top10_pages_med": 154,
+ "top10_pages_min": 34,
+ "winner_words_med": 1062,
+ "winners_measured": 6,
+ "score": 59,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "reliablehoustonairductcleaning.com",
+   "url": "https://reliablehoustonairductcleaning.com/air-duct-cleaning-cypress-tx/",
+   "title": "Air Duct Cleaning Cypress TX",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Cypress%2C+TX&start=80",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN CYPRESS, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "goldenwand.com",
+   "url": "https://goldenwand.com/air-duct-cleaning-cypress-tx/",
+   "title": "Air Duct Cleaning in Cypress TX",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/texas/eco-duct-vent-cleaning-514808807",
+   "title": "Eco Duct Vent Cleaning, 28190 Barker Cypress Rd ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "airduct-cleaningcypress.com",
+   "url": "https://www.airduct-cleaningcypress.com/dryer-vent-cleaning/",
+   "title": "Dryer Vent Cleaning Cypress",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "reviews.birdeye.com",
+   "url": "https://reviews.birdeye.com/air-duct-cleaning-cypress-tx-156196442928633",
+   "title": "AIR DUCT CLEANING CYPRESS TX - 60 Reviews - Birdeye",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "americanairducttx.com",
+   "url": "https://americanairducttx.com/",
+   "title": "Air Duct Cleaners for Cypress | (346) 810-6300 Call Us",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "airduct-cleaning-cypresstx.com",
+   "url": "https://airduct-cleaning-cypresstx.com/",
+   "title": "Cypress DuctForce Vent Cleaning: Duct Cleaning Cypress TX",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "cleanandgreenairductcleaning.com",
+   "url": "https://cleanandgreenairductcleaning.com/service-areas/harris-county-tx/",
+   "title": "Harris County TX Duct Cleaning Services",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "5 Star Air Duct Cleaning",
+   "domain": "5starairductcleaning.com",
+   "rating": 5,
+   "reviews": 86
+  },
+  {
+   "title": "ABC Air Duct Cleaning & Dryer Vent Cleaning",
+   "domain": "abcairductcleaning.com",
+   "rating": 4.9,
+   "reviews": 138
+  },
+  {
+   "title": "Mega Clean Air",
+   "domain": "megacleanairpro.com",
+   "rating": 5,
+   "reviews": 242
+  }
+ ],
+ "fetched": "2026-10-25"
+}

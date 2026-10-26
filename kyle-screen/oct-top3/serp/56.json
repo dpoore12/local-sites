@@ -1,0 +1,107 @@
+{
+ "niche": "land clearing",
+ "city": "Conroe",
+ "state": "TX",
+ "pop": 63032,
+ "vol": 140,
+ "cpc": 18.12,
+ "lead_value": 2537,
+ "query": "land clearing conroe",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 47.0,
+ "top5_pages_min": 12,
+ "top10_pages_med": 47,
+ "top10_pages_min": 12,
+ "winner_words_med": 1690,
+ "winners_measured": 4,
+ "score": 77.9,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2398157250515288/",
+   "title": "Conroe land clearing and property restoration services",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "conroelandclearing.com",
+   "url": "https://conroelandclearing.com/brush-removal/",
+   "title": "Brush Removal - Land Clearing & Forestry Mulching in Conroe",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Brush+Clearing&find_loc=Conroe%2C+TX",
+   "title": "TOP 10 BEST Brush Clearing in Conroe, TX - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2667764510221226/",
+   "title": "Land clearing and underbrush removal services in Conroe",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/texas/tkt-land-clearing-377342202",
+   "title": "TKT Land Clearing, 4 Lake Dr, Conroe, TX 77384, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "texasacelandclearing.com",
+   "url": "https://texasacelandclearing.com/contact",
+   "title": "Contact Texas Ace Land Clearing | Montgomery, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/2419878051676541/",
+   "title": "What companies provide brush clearing services in Conroe?",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/iloveconroe/posts/3211844492479889/",
+   "title": "Affordable landscape crew for land clearing in Conroe, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/a-and-e-clearing-land-services-conroe",
+   "title": "A&E CLEARING LAND SERVICES - Updated October 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "OG Land and Tree Co.",
+   "domain": "oglandandtree.com",
+   "rating": 5,
+   "reviews": 25
+  },
+  {
+   "title": "Good Morrow Land Services LLC",
+   "domain": "houstontreeservice.com",
+   "rating": 4.8,
+   "reviews": 276
+  },
+  {
+   "title": "Texas Underbrushing",
+   "domain": "texasunderbrushingllc.com",
+   "rating": 5,
+   "reviews": 99
+  }
+ ],
+ "fetched": "2026-10-25"
+}

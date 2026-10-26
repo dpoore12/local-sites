@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Biloxi",
+ "state": "MS",
+ "pop": 44820,
+ "vol": 390,
+ "cpc": 11.67,
+ "lead_value": 4551,
+ "query": "dumpster rental biloxi",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 27.0,
+ "top5_pages_min": 23,
+ "top10_pages_med": 30,
+ "top10_pages_min": 23,
+ "winner_words_med": 952,
+ "winners_measured": 3,
+ "score": 88,
+ "state_full": "Mississippi",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "gulfwidewaste.com",
+   "url": "https://www.gulfwidewaste.com/",
+   "title": "Gulf Wide Waste: Dumpster Rental Services Ocean Springs, MS",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "rubleinvestments.com",
+   "url": "https://www.rubleinvestments.com/dumpster-rental-biloxi-ms/",
+   "title": "Dumpster Rental Biloxi MS - Ruble Investments LLC",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Heavy+Equipment+Pickup+And+Removal&find_loc=Biloxi%2C+MS",
+   "title": "TOP 10 BEST Heavy Equipment Pickup and Removal in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/thedumpsterguyharrisoncounty/",
+   "title": "The Dumpster Guy MS Gulf Coast | Pass Christian MS",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Biloxi%2C+MS",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN BILOXI, MS",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "alphadumpsters.com",
+   "url": "https://alphadumpsters.com/gulfport-ms-dumpster-rental/",
+   "title": "Dumpster Rental Gulfport Mississippi",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "wastemgt-waf-stg-65b.adobecqms.net",
+   "url": "https://wastemgt-waf-stg-65b.adobecqms.net/us/en/location/ms/biloxi",
+   "title": "Residential & Business Waste Services in Biloxi, MS | WM",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/mississippi/stannix-dumpsters-456803132",
+   "title": "Stannix Dumpsters - 808 Howard Ave, Biloxi, MS, 39530",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "woodchipsdumpsters.com",
+   "url": "https://woodchipsdumpsters.com/dumpster-rental-biloxi-ms/",
+   "title": "Dumpster Rental Biloxi, MS | Certified | Call (850) 332-9639",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Biloxi Roll-Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Biloxi Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "The Dumpster Guy",
+   "domain": "harrison.thedumpsterguyusa.com",
+   "rating": 5,
+   "reviews": 176
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Wellington",
+ "state": "FL",
+ "pop": 60202,
+ "vol": 170,
+ "cpc": 28.41,
+ "lead_value": 4830,
+ "query": "dumpster rental wellington",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 9,
+ "top5_pages_min": 6,
+ "top10_pages_med": 9,
+ "top10_pages_min": 6,
+ "winner_words_med": 1046,
+ "winners_measured": 3,
+ "score": 91,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "wellingtondumpsterrental.com",
+   "url": "https://wellingtondumpsterrental.com/contact-us/",
+   "title": "Contact Us - Best Dumpster Rental Wellington",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "langleydumpsters.com",
+   "url": "https://langleydumpsters.com/dumpster-rental-wellington.html",
+   "title": "Dumpster Rental in Wellington, FL | Roll-Offs from $250",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "precisiondisposal.us",
+   "url": "https://www.precisiondisposal.us/FL/dumpster-rental-wellington-florida",
+   "title": "Dumpster Rental Wellington FL by Precision Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Wellington-Dumpster-Rental-100088215935210/",
+   "title": "Wellington Dumpster Rental",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "elginsdumpsterswestpalmbeach.com",
+   "url": "https://elginsdumpsterswestpalmbeach.com/locations/wellington/",
+   "title": "Dumpster rental Wellington, FL | Elgins Dumpsters",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "cleansweepdumpster.com",
+   "url": "https://cleansweepdumpster.com/dumpster-rental-wellington-fl/",
+   "title": "Dumpster Rental in Wellington, FL | Certified Call (820) 218 ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "dumpsterrentalwellington.com",
+   "url": "https://dumpsterrentalwellington.com/",
+   "title": "Dumpster Rental in Wellington FL | Roll-Off Containers",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Wellington%2C+KY",
+   "title": "Best Dumpster Rental near Wellington, KY",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bindumpeddumpsterrentals.com",
+   "url": "https://bindumpeddumpsterrentals.com/wellington-dumpster-rental-services/",
+   "title": "Roll-Off Dumpsters & Trash Hauling",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Wellington Dumpster Rentals",
+   "domain": "",
+   "rating": 1,
+   "reviews": 1
+  },
+  {
+   "title": "Wellington Dumpster Rental",
+   "domain": "",
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "title": "Wellington Dumpster Rental",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

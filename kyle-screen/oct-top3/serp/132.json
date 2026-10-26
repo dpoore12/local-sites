@@ -1,0 +1,100 @@
+{
+ "niche": "chimney sweep",
+ "city": "Hagerstown",
+ "state": "MD",
+ "pop": 40612,
+ "vol": 90,
+ "cpc": 26.69,
+ "lead_value": 2402,
+ "query": "chimney sweep hagerstown",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 135,
+ "top5_pages_min": 79,
+ "top10_pages_med": 135,
+ "top10_pages_min": 12,
+ "winner_words_med": 714,
+ "winners_measured": 5,
+ "score": 50.0,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "livingwells.net",
+   "url": "https://www.livingwells.net/chimney-services/",
+   "title": "Fireplace Services Near Me - Frederick MD - Hagerstown MD",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/ApartmentPeeps/posts/25733895162894622/",
+   "title": "Chimney sweep service in Hagerstown?",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/hagerstown-md/recommendations-csia-otherwise-certified-chimney-sweep/05pruQ1A4MtJYL1g9b6SRQ",
+   "title": "Best Chimney Repairs Services in Hagerstown, MD",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/md/hagerstown/chimney-repair.htm",
+   "title": "Top 10 Best Chimney repair specialists in Hagerstown, MD",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "chimneyfireplacehagerstown.com",
+   "url": "https://www.chimneyfireplacehagerstown.com/fireplace-technician-hagerstown/",
+   "title": "Fireplace Technician Hagerstown, Maryland | Skilled Hearth ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/maryland/chimney-sweeps-of-sherwood-forest-inc-423149919",
+   "title": "Chimney Sweeps of Sherwood Forest Inc",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/hagerstown-md/fireplace-maintenance-services",
+   "title": "Best Fireplace Maintenance Services in Hagerstown, MD",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mcpchimneyservices.com",
+   "url": "https://mcpchimneyservices.com/washington-county-maryland/",
+   "title": "Chimney Services in Washington County, MD",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Living Wells Chimney Services",
+   "domain": "livingwells.net",
+   "rating": 4.7,
+   "reviews": 57
+  },
+  {
+   "title": "Monocacy Chimney Care Inc",
+   "domain": "monocacychimneycare.com",
+   "rating": 4.6,
+   "reviews": 42
+  },
+  {
+   "title": "Andrews Chimney Service LLC",
+   "domain": "andrewschimney.com",
+   "rating": 4.2,
+   "reviews": 15
+  }
+ ],
+ "fetched": "2026-10-25"
+}

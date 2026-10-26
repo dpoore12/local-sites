@@ -1,0 +1,107 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Warner Robins",
+ "state": "GA",
+ "pop": 72531,
+ "vol": 140,
+ "cpc": 42.74,
+ "lead_value": 5984,
+ "query": "septic tank pumping warner robins",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 96,
+ "top5_pages_min": 13,
+ "top10_pages_med": 96,
+ "top10_pages_min": 13,
+ "winner_words_med": 1050,
+ "winners_measured": 3,
+ "score": 73,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/georgia/sergeant-rooter-and-septic-792076715",
+   "title": "Sergeant Rooter and Septic - Warner Robins",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "septictank.com",
+   "url": "https://septictank.com/georgia/warner-robins/septic-tank-pumping",
+   "title": "Septic Tank Pumping in Warner Robins, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/circle-h-septic-warner-robins",
+   "title": "Circle H Septic - 1840 Watson Blvd, Warner Robins, Georgia",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "stewartsepticservices.com",
+   "url": "https://www.stewartsepticservices.com/",
+   "title": "Stewart Septic Services",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/EvansSeptic/posts/-when-was-the-last-time-your-septic-tank-was-cleanedif-you-cant-remember-give-ev/1559983612598268/",
+   "title": "Evans Septic Tank Services offers septic cleaning in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/p/tXDzrHhYcWJq/",
+   "title": "Crocker Septic Tank Service - Warner Robins",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/warner-robins-ga/crocker-septic-tanks",
+   "title": "Crocker septic tanks in Warner Robins, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/CircleHSeptic/",
+   "title": "Circle H Septic | Warner Robins GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/robinstogo/posts/1092947651434241/",
+   "title": "Who recommends septic tank pumping services for a two- ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Sergeant Rooter and Septic",
+   "domain": "sergeantsepticandrooter.com",
+   "rating": 4.8,
+   "reviews": 122
+  },
+  {
+   "title": "All American Plumbing & Septic Services",
+   "domain": "americanplumbingandseptic.com",
+   "rating": 4.1,
+   "reviews": 32
+  },
+  {
+   "title": "Circle H Septic",
+   "domain": "circlehseptic.com",
+   "rating": 4.6,
+   "reviews": 64
+  }
+ ],
+ "fetched": "2026-10-25"
+}

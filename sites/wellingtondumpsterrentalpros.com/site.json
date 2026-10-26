@@ -1,0 +1,316 @@
+{
+  "domain": "wellingtondumpsterrentalpros.com",
+  "phase": 2,
+  "brand": "Wellington Dumpster Rental Pros",
+  "service": "Dumpster Rental",
+  "service_inline": "dumpster rental",
+  "vertical": "home",
+  "pro_noun": "driver",
+  "entity_noun": "permitted roll-off hauler",
+  "city": "Wellington",
+  "state": "FL",
+  "state_full": "Florida",
+  "counties": [
+    "Palm Beach"
+  ],
+  "area_codes": [
+    "561",
+    "728"
+  ],
+  "phone_display": "(728) 226-7144",
+  "phone_tel": "+17282267144",
+  "phone_status": "LIVE",
+  "phone_note": "Telnyx local number in 728, the overlay on 561 for Palm Beach County, bought 2026-10-25 (order 8f5ea477, number id 3078845304104027910). Rings the call-desk voicemail until a renter is found.",
+  "emergency": false,
+  "timezone": "America/New_York",
+  "tenant": {
+    "status": "none",
+    "business_name": null,
+    "license_number": null,
+    "years_in_business": null,
+    "reviews": null,
+    "service_hours": null,
+    "family_owned": null,
+    "veteran_owned": null
+  },
+  "local_facts": [
+    {
+      "id": "village_rolloff_rule",
+      "title": "The village sends big projects to a permitted roll-off",
+      "claim": "Wellington's construction and demolition debris page limits curbside collection of that debris to 2 cubic yards a week, requires loose drywall and floor tile to be containerized in units weighing under 50 pounds, and does not collect concrete, rock, fencing or shipping pallets. Residents with a construction or demolition project, or who expect a large amount of refuse, are told to rent a roll-off container from a hauler permitted in Wellington. The village's bulk collection page separately allows up to 4 cubic yards of minor home-repair debris and excess garbage on bulk day.",
+      "why_it_matters": "A remodel, a roof or an estate cleanout outgrows the curb in a day. Whether the hauler is permitted to work inside the village is the first thing to confirm, before size or price, because a container from anyone else invites a call from code compliance or the HOA.",
+      "sources": [
+        "https://www.wellingtonfl.gov/225/Construction-Demolition-Debris",
+        "https://www.wellingtonfl.gov/715/Bulk-Collection"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "swa_tipping_fees_2026",
+      "title": "Roll-off loads pay the county's construction rate",
+      "claim": "The Solid Waste Authority of Palm Beach County tipping fee schedule effective October 1, 2026 charges $95 per ton for construction debris and large vegetation, $42 for garbage and trash, $35 for yard vegetation and $35 for livestock waste, and states that dump trucks and open-top roll-off containers are generally charged the construction debris rate. Mixed loads are charged the higher category. The transfer stations, including Royal Palm Beach at 9743 Weisman Way, cannot accept concrete, block, tile, roofing material, construction lumber, fencing or dirt.",
+      "why_it_matters": "Every overage on a Wellington dumpster bill traces back to that scale. Heavy remodel debris and mixed loads cost the most, and a load of tile or roofing has to ride to the North County landfill complex on Jog Road rather than the nearest transfer station.",
+      "sources": [
+        "https://www.swa.org/DocumentCenter/View/324",
+        "https://www.swa.org/229/Construction-Demolition-Debris"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "manure_storage_code",
+      "title": "Manure in a container has its own rulebook",
+      "claim": "Wellington Land Development Code Section 30-153 sets minimum standards for storing and hauling livestock waste. Each livestock facility needs an approved storage area, and roll-off or dumpster containers holding manure must sit on a concrete or asphalt pad with a lip around it, at least 5 feet from any roof overhang, 50 feet from a public drainage conveyance or inlet, 100 feet from any water body and 150 feet from a potable well. Rules adopted by the Village Council in 2013 also require manure haulers to register with the village and keep records that Wellington staff can audit.",
+      "why_it_matters": "A barn cleanout is two jobs. Fencing, mats and shed debris belong in a roll-off; manure and soiled bedding belong in a compliant bin and with a registered hauler, delivered to the one county facility that takes livestock waste.",
+      "sources": [
+        "https://acme.wellingtonfl.gov/livestock-waste-storage-and-disposal",
+        "https://gotowncrier.com/?p=17427"
+      ],
+      "verified": "2026-10-25"
+    },
+    {
+      "id": "irma_debris_2017",
+      "title": "Irma left 168,602 cubic yards of limbs in one month",
+      "claim": "After Hurricane Irma, Wellington crews and contractors gathered and hauled away 168,602 cubic yards of vegetative debris between September 18 and October 17, 2017, and FEMA later agreed to reimburse the village $1,892,200 for collection, reduction and disposal. About half the village lives in gated communities, FEMA requires each association's approval before debris crews can enter, and delays in those approvals slowed the Irma cleanup.",
+      "why_it_matters": "Public storm cleanup clears roads first and reaches gated streets later, in several passes over weeks. A roll-off set in the yard takes the wet drywall, carpet and broken screen enclosures that a curb pile was never meant to hold.",
+      "sources": [
+        "https://gotowncrier.com/?p=780873",
+        "https://www.wptv.com/news/region-c-palm-beach-county/wellington/wellington-makes-changes-to-post-storm-cleanup-plan"
+      ],
+      "verified": "2026-10-25"
+    }
+  ],
+  "neighborhoods": [
+    "Palm Beach Polo",
+    "Olympia",
+    "Sugar Pond Manor",
+    "Binks Forest",
+    "Paddock Park",
+    "Saddle Trail Park",
+    "Greenview Shores",
+    "Versailles"
+  ],
+  "symptoms": [
+    "house_or_garage_cleanout",
+    "remodel_or_roof_tearoff",
+    "barn_or_paddock_clearout",
+    "storm_debris_pileup"
+  ],
+  "schema": {
+    "local_business": false,
+    "local_business_reason": "No tenant signed. Emitting LocalBusiness markup with no verifiable business behind it is a fabrication."
+  },
+  "hero_accent": "Sized to the Load, Priced Before Delivery",
+  "trust_third": "Rental days and tons included, stated before booking",
+  "services": [
+    {
+      "slug": "home-cleanout-dumpster-rental",
+      "name": "Home Cleanouts",
+      "nav": "Home cleanouts",
+      "h1": "Home and Garage Cleanout Dumpsters",
+      "accent": "Sized by the Room, Gone by the Closing",
+      "photo": "assets/work-1.jpg",
+      "keyword": "cleanout dumpster rental Wellington",
+      "icon": "house"
+    },
+    {
+      "slug": "remodel-roofing-dumpster-rental",
+      "name": "Remodel and Roofing Debris",
+      "nav": "Remodel and roofing",
+      "h1": "Remodeling and Roof Tear-Off Dumpsters",
+      "accent": "Tile, Drywall, Cabinets, Shingles",
+      "photo": "assets/work-2.jpg",
+      "keyword": "construction dumpster rental Wellington",
+      "icon": "wrench"
+    },
+    {
+      "slug": "barn-cleanout-dumpster-rental",
+      "name": "Barn and Farm Cleanouts",
+      "nav": "Barn cleanouts",
+      "h1": "Barn, Stable and Farm Cleanout Dumpsters",
+      "accent": "Fencing, Mats, Hay and Sheds",
+      "photo": "assets/work-3.jpg",
+      "keyword": "barn cleanout dumpster Wellington",
+      "icon": "pin"
+    },
+    {
+      "slug": "storm-debris-dumpster-rental",
+      "name": "Storm Debris",
+      "nav": "Storm debris",
+      "h1": "Hurricane and Storm Debris Dumpsters",
+      "accent": "Ahead of the County's Passes",
+      "photo": "assets/hero.jpg",
+      "keyword": "storm debris dumpster Wellington",
+      "icon": "warn"
+    }
+  ],
+  "symptom_service": [
+    "home-cleanout-dumpster-rental",
+    "remodel-roofing-dumpster-rental",
+    "barn-cleanout-dumpster-rental",
+    "storm-debris-dumpster-rental"
+  ],
+  "_market": {
+    "keyword": "dumpster rental wellington",
+    "monthly_price": 800,
+    "volume": 170,
+    "cpc_usd": 28.41,
+    "weakest_competitor": "organic #1 wellingtondumpsterrental.com is DR 5 and returned a server error when read on 2026-10-25; #2 langleydumpsters.com (DR 7) is a Pompano Beach hauler that posts only 'from $250'; #3 precisiondisposal.us (DR 25) is a multi-state hauler with no Wellington page depth; the top map-pack listing has 1 review",
+    "competitor_dr": 5.0,
+    "sweep": "KYLE-BUILD-LIST-2026-10-25.md"
+  },
+  "pricing": {
+    "mode": "cost",
+    "table_head": "What roll-off dumpsters run in Wellington",
+    "anchors": [
+      {
+        "label": "County disposal rate on roll-off loads",
+        "value": "$95 per ton",
+        "detail": "The Solid Waste Authority charges construction debris and large vegetation at $95 a ton from October 1, 2026, and its schedule says open-top roll-off containers are generally charged at that rate. Household garbage is $42 a ton; a mixed load pays the higher category.",
+        "source_name": "Solid Waste Authority of Palm Beach County, tipping fee rate schedule effective 10/1/2026",
+        "source_url": "https://www.swa.org/DocumentCenter/View/324"
+      },
+      {
+        "label": "Livestock waste, delivered to REF No. 2 only",
+        "value": "$35 per ton",
+        "detail": "Manure plus the bedding and feed mixed with it is its own category at the county scale, accepted at this rate only at Renewable Energy Facility No. 2 on Jog Road. Transfer stations never take animal waste.",
+        "source_name": "Solid Waste Authority of Palm Beach County, tipping fee rate schedule, note 8",
+        "source_url": "https://www.swa.org/DocumentCenter/View/324"
+      },
+      {
+        "label": "Construction debris the village takes at the curb",
+        "value": "2 cu yd a week",
+        "detail": "Wellington's curbside limit for construction and demolition debris. Drywall and tile must be boxed in containers under 50 pounds, and concrete, rock, fencing and pallets are not collected. Bigger projects are pointed to a permitted roll-off.",
+        "source_name": "Village of Wellington, Construction and Demolition Debris page",
+        "source_url": "https://www.wellingtonfl.gov/225/Construction-Demolition-Debris"
+      }
+    ],
+    "rows": [
+      {
+        "job": "10-yard roll-off for a garage, a single room or a small bathroom",
+        "low": 299,
+        "high": 499,
+        "basis": "flat, per haul",
+        "note": "Rental windows run three to seven days across these lists. Where a weight is stated, about one ton is included.",
+        "sources": [
+          {
+            "name": "Palm Beach Waste Services, West Palm Beach, posted price list, read 2026-10-25",
+            "url": "https://palmbeachwaste.com/"
+          },
+          {
+            "name": "Bin There Dump That West Palm Beach, posted bin rates, read 2026-10-25",
+            "url": "https://www.bintheredumpthat.com/west-palm-beach-dumpster-rentals/bin-rates-and-sizes/"
+          },
+          {
+            "name": "All Out Rubbish, Palm Beach and Broward, posted dumpster ranges, read 2026-10-25",
+            "url": "https://alloutrubbish.com/services/dumpster-rental"
+          },
+          {
+            "name": "Prime Dumpster, Royal Palm Beach page, posted average ranges, read 2026-10-25",
+            "url": "https://primedumpster.com/dumpster-rental-royal-palm-beach-florida-33411/"
+          }
+        ]
+      },
+      {
+        "job": "14- to 15-yard roll-off for a bathroom gut, a small roof or a full garage",
+        "low": 425,
+        "high": 575,
+        "basis": "flat, per haul",
+        "note": "The middle size suits heavy debris in modest amounts. Weight allowances are often unstated at this size, so ask before booking.",
+        "sources": [
+          {
+            "name": "Bin There Dump That West Palm Beach, posted 14-yard rate, read 2026-10-25",
+            "url": "https://www.bintheredumpthat.com/west-palm-beach-dumpster-rentals/bin-rates-and-sizes/"
+          },
+          {
+            "name": "All Out Rubbish, Palm Beach and Broward, posted 15-yard range, read 2026-10-25",
+            "url": "https://alloutrubbish.com/services/dumpster-rental"
+          },
+          {
+            "name": "Prime Dumpster, Royal Palm Beach page, posted 15-yard range, read 2026-10-25",
+            "url": "https://primedumpster.com/dumpster-rental-royal-palm-beach-florida-33411/"
+          }
+        ]
+      },
+      {
+        "job": "20-yard roll-off for a kitchen remodel or a whole-house cleanout",
+        "low": 389,
+        "high": 725,
+        "basis": "flat, per haul",
+        "note": "The low end includes five days and one ton; the mid-range lists include two tons and a week.",
+        "sources": [
+          {
+            "name": "Dumpsters in Motion, Palm Beach County, posted price list, read 2026-10-25",
+            "url": "https://dumpstersinmotionfl.com/dumpster-prices"
+          },
+          {
+            "name": "Palm Beach Waste Services, West Palm Beach, posted 20-yard price, read 2026-10-25",
+            "url": "https://palmbeachwaste.com/"
+          },
+          {
+            "name": "All Out Rubbish, Palm Beach and Broward, posted 20-yard range, read 2026-10-25",
+            "url": "https://alloutrubbish.com/services/dumpster-rental"
+          },
+          {
+            "name": "Prime Dumpster, Royal Palm Beach page, posted 20-yard range, read 2026-10-25",
+            "url": "https://primedumpster.com/dumpster-rental-royal-palm-beach-florida-33411/"
+          }
+        ]
+      },
+      {
+        "job": "30-yard roll-off for a large cleanout, a barn teardown or storm debris",
+        "low": 549,
+        "high": 799,
+        "basis": "flat, per haul",
+        "note": "The lowest published 30-yard price includes three tons and seven days. Dense debris belongs in a smaller container.",
+        "sources": [
+          {
+            "name": "Palm Beach Waste Services, West Palm Beach, posted 30-yard price, read 2026-10-25",
+            "url": "https://palmbeachwaste.com/"
+          },
+          {
+            "name": "Prime Dumpster, Royal Palm Beach page, posted 30-yard range, read 2026-10-25",
+            "url": "https://primedumpster.com/dumpster-rental-royal-palm-beach-florida-33411/"
+          }
+        ]
+      },
+      {
+        "job": "Each ton over the weight included in the rental",
+        "low": 90,
+        "high": 95,
+        "basis": "per ton",
+        "note": "Published overage tracks the county's $95-a-ton construction debris rate, which is what most roll-off loads are charged at the scale.",
+        "sources": [
+          {
+            "name": "Palm Beach Waste Services, West Palm Beach, posted overweight rate, read 2026-10-25",
+            "url": "https://palmbeachwaste.com/"
+          },
+          {
+            "name": "Dumpsters in Motion, Palm Beach County, posted additional tonnage rate, read 2026-10-25",
+            "url": "https://dumpstersinmotionfl.com/dumpster-prices"
+          },
+          {
+            "name": "Solid Waste Authority of Palm Beach County, tipping fee rate schedule effective 10/1/2026",
+            "url": "https://www.swa.org/DocumentCenter/View/324"
+          }
+        ]
+      },
+      {
+        "job": "Each extra day past the included rental period",
+        "low": 20,
+        "high": 25,
+        "basis": "per day",
+        "note": "Remodels waiting on an inspection and cleanouts waiting on family are the jobs that run into extra days.",
+        "sources": [
+          {
+            "name": "Dumpsters in Motion, Palm Beach County, posted extra-day rate, read 2026-10-25",
+            "url": "https://dumpstersinmotionfl.com/dumpster-prices"
+          },
+          {
+            "name": "All Out Rubbish, Palm Beach and Broward, posted extra-day rate, read 2026-10-25",
+            "url": "https://alloutrubbish.com/services/dumpster-rental"
+          }
+        ]
+      }
+    ]
+  }
+}

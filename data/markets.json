@@ -868,5 +868,105 @@
   "vol": 260,
   "cpc": 3.2,
   "built": true
+ },
+ {
+  "domain": "bentonvilledumpsterrentalpros.com",
+  "city": "Bentonville",
+  "state": "AR",
+  "service": "Dumpster Rental",
+  "rent": 800,
+  "vol": 480,
+  "cpc": 11.81,
+  "built": true
+ },
+ {
+  "domain": "dryerventcleaningocala.com",
+  "city": "Ocala",
+  "state": "FL",
+  "service": "Dryer Vent Cleaning",
+  "rent": 800,
+  "vol": 140,
+  "cpc": 37.8,
+  "built": true
+ },
+ {
+  "domain": "mariettaairductcleaningpros.com",
+  "city": "Marietta",
+  "state": "GA",
+  "service": "Air Duct Cleaning",
+  "rent": 800,
+  "vol": 210,
+  "cpc": 29.69,
+  "built": true
+ },
+ {
+  "domain": "windowtintingbradenton.com",
+  "city": "Bradenton",
+  "state": "FL",
+  "service": "Window Tinting",
+  "rent": 800,
+  "vol": 480,
+  "cpc": 11.75,
+  "built": true
+ },
+ {
+  "domain": "wellingtondumpsterrentalpros.com",
+  "city": "Wellington",
+  "state": "FL",
+  "service": "Dumpster Rental",
+  "rent": 800,
+  "vol": 170,
+  "cpc": 28.41,
+  "built": true
+ },
+ {
+  "domain": "biloxidumpsterrentalpros.com",
+  "city": "Biloxi",
+  "state": "MS",
+  "service": "Dumpster Rental",
+  "rent": 800,
+  "vol": 390,
+  "cpc": 11.67,
+  "built": true
+ },
+ {
+  "domain": "schaumburgairductcleaningpros.com",
+  "city": "Schaumburg",
+  "state": "IL",
+  "service": "Air Duct Cleaning",
+  "rent": 800,
+  "vol": 260,
+  "cpc": 32.1,
+  "built": true
+ },
+ {
+  "domain": "northmiamiseptictankpumpingpros.com",
+  "city": "North Miami",
+  "state": "FL",
+  "service": "Septic Tank Pumping",
+  "rent": 1000,
+  "vol": 260,
+  "cpc": 215.13,
+  "built": true
+ },
+ {
+  "domain": "wheatonairductcleaningpros.com",
+  "city": "Wheaton",
+  "state": "IL",
+  "service": "Air Duct Cleaning",
+  "rent": 800,
+  "vol": 70,
+  "cpc": 71.93,
+  "built": true
+ },
+ {
+  "domain": "pensacoladumpsterrentalpros.com",
+  "city": "Pensacola",
+  "state": "FL",
+  "service": "Dumpster Rental",
+  "rent": 800,
+  "vol": 880,
+  "cpc": 9.27,
+  "built": true
  }
 ]

@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "North Richland Hills",
+ "state": "TX",
+ "pop": 67317,
+ "vol": 70,
+ "cpc": 61.86,
+ "lead_value": 4330,
+ "query": "air duct cleaning north richland hills",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 28770.5,
+ "top5_pages_min": 177,
+ "top10_pages_med": 28770,
+ "top10_pages_min": 177,
+ "winner_words_med": 842,
+ "winners_measured": 2,
+ "score": 16,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "callmilestone.com",
+   "url": "https://callmilestone.com/north-richland-hills/indoor-air-quality/duct-cleaning/",
+   "title": "Duct Cleaning in North Richland Hills",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=North+Richland+Hills%2C+TX",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN NORTH ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "unitedhomeservices.com",
+   "url": "https://unitedhomeservices.com/locations/north-richland-hills-tx/",
+   "title": "Reliable Home Services in North Richland Hills, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "bloomairductcleaning.com",
+   "url": "https://bloomairductcleaning.com/north-richland-hills/",
+   "title": "Air Duct Cleaning North Richland Hills TX",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "space-airduct.com",
+   "url": "https://space-airduct.com/north-richland-hills/",
+   "title": "Air Duct Cleaning North Richland Hills, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/tx/north-richland-hills/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in North Richland Hills, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "laraairductcleaning.com",
+   "url": "https://laraairductcleaning.com/north-richland-hills/",
+   "title": "Air Duct Cleaning North Richland Hills TX",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "airductcleaningnorthrichlandhills.com",
+   "url": "https://airductcleaningnorthrichlandhills.com/dryer-vent-mold-cleaning-north-richland-hills-tx/",
+   "title": "Dryer Vent Mold Cleaning North Richland Hills, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "continentalairduct.com",
+   "url": "https://continentalairduct.com/air-duct-cleaning-north-richland-hills-tx/",
+   "title": "Air Duct Cleaning in North Richland Hills, TX | Continental",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Space Air Duct Cleaning",
+   "domain": "space-airduct.com",
+   "rating": 4.9,
+   "reviews": 209
+  },
+  {
+   "title": "United Home Services",
+   "domain": "unitedhomeservices.com",
+   "rating": 4.9,
+   "reviews": 497
+  },
+  {
+   "title": "Premium Air Duct Technician",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  }
+ ],
+ "fetched": "2026-10-25"
+}

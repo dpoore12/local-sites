@@ -1,0 +1,88 @@
+{
+ "niche": "auto glass repair",
+ "city": "Yakima",
+ "state": "WA",
+ "pop": 93257,
+ "vol": 320,
+ "cpc": 6.5,
+ "lead_value": 2080,
+ "query": "auto glass repair yakima",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 493,
+ "top5_pages_min": 12,
+ "top10_pages_med": 493,
+ "top10_pages_min": 12,
+ "winner_words_med": 317,
+ "winners_measured": 3,
+ "score": 36.9,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "johnsonautoglass.com",
+   "url": "https://www.johnsonautoglass.com/",
+   "title": "Johnson's Auto Glass - Yakima, Washington",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "safelite.com",
+   "url": "https://www.safelite.com/stores/yakima",
+   "title": "Windshield Repair & Replacement in Yakima, WA",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/payless-auto-glass-lopez-yakima",
+   "title": "Payless Auto Glass Lopez - Yakima, Washington",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "mckinneyglass.com",
+   "url": "https://mckinneyglass.com/",
+   "title": "McKinney Glass: Home",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "caliber.com",
+   "url": "https://www.caliber.com/find-a-location/yakima-glass-98902",
+   "title": "Auto Glass Repair in Yakima - Caliber Collision",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/NorthwesternAutoGlass/",
+   "title": "Northwestern Auto Glass | Selah WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "autoglassonly.com",
+   "url": "https://www.autoglassonly.com/service-areas/wa/yakima/",
+   "title": "Yakima Mobile Glass Repair & Replacement",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "glass.net",
+   "url": "https://www.glass.net/local/wa/yakima",
+   "title": "Yakima, WA Windshield Replacement",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/johnsons-auto-glass-yakima-3",
+   "title": "JOHNSON AUTO GLASS UPHOLSTERY",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

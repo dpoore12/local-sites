@@ -1,0 +1,88 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Puyallup",
+ "state": "WA",
+ "pop": 38609,
+ "vol": 90,
+ "cpc": 52.65,
+ "lead_value": 4738,
+ "query": "air duct cleaning puyallup",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 104.0,
+ "top5_pages_min": 6,
+ "top10_pages_med": 104,
+ "top10_pages_min": 6,
+ "winner_words_med": 736,
+ "winners_measured": 6,
+ "score": 71,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "puyallupairductcleaningwa.com",
+   "url": "http://puyallupairductcleaningwa.com/",
+   "title": "Air Duct Cleaning Puyallup | $69 SPECIAL (253) 693-4083",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "huntsservices.com",
+   "url": "https://www.huntsservices.com/air-duct-cleaning-hvac-remove-dust-debris-dirt-buildup-clear-vents/puyallup-air-duct-clean-service/",
+   "title": "Puyallup Duct Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Cleaning&find_loc=Puyallup%2C+WA",
+   "title": "TOP 10 BEST Air Duct Cleaning in Puyallup, WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "westcoastpowervac.com",
+   "url": "https://www.westcoastpowervac.com/locationa0da/best-professional-air-duct-cleaning-puyallup-wa",
+   "title": "Professional Air Duct Cleaning in Puyallup, WA",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "rainierheating.com",
+   "url": "https://www.rainierheating.com/hvac-services/ductwork",
+   "title": "Professional HVAC Ductwork Services in Puyallup, WA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/wa/puyallup/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Puyallup, WA 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "capitolductcleaning.com",
+   "url": "https://capitolductcleaning.com/dryer-vent-cleaning/puyallup/wa/",
+   "title": "Dryer Vent Cleaning Puyallup WA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/wa/puyallup/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Puyallup, WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/wa/duct-cleaning-puyallup-costs",
+   "title": "Duct Cleaning in Puyallup, WA - Costs 10 / 2026 - Homeyou",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

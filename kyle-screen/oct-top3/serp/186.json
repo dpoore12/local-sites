@@ -1,0 +1,107 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Gastonia",
+ "state": "NC",
+ "pop": 73209,
+ "vol": 110,
+ "cpc": 28.86,
+ "lead_value": 3175,
+ "query": "septic tank pumping gastonia",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 2006,
+ "top5_pages_min": 2006,
+ "top10_pages_med": 2006,
+ "top10_pages_min": 2006,
+ "winner_words_med": 1033,
+ "winners_measured": 1,
+ "score": 18,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/north-carolina/rays-septic-well-357282948",
+   "title": "Ray's Septic & Well, Dallas, NC 28034, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/c.Septic-Tanks-Wells.Gastonia.NC.-12081.html",
+   "title": "Septic Tank and Well Services - Gastonia",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "septictank.com",
+   "url": "https://septictank.com/north-carolina/gastonia/septic-inspection",
+   "title": "Septic Inspection in Gastonia, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "septictankpumpinggastonia.com",
+   "url": "https://septictankpumpinggastonia.com/partners/",
+   "title": "Septic Contractor Partners \u2013 Gastonia NC Network",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/north-carolina/leonard-mcswain-septic-tank-company-546585593",
+   "title": "Leonard McSwain Septic Tank Company - Gastonia",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "wrenvironmental.com",
+   "url": "https://www.wrenvironmental.com/gaston-county/residential/septic-system-installation/",
+   "title": "Gastonia Septic Installations | Stanley, A ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/nc/septic-tank-cleaning-gastonia-costs",
+   "title": "Septic Tank Cleaning in Gastonia, NC - Costs 08 / 2026",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Septic+Tank+Installation&find_loc=Gastonia%2C+NC",
+   "title": "TOP 10 BEST Septic Tank Installation in Gastonia, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "septictankpumpinggastonia.com",
+   "url": "https://septictankpumpinggastonia.com/privacy-policy/",
+   "title": "Privacy Policy - Septic Tank Pumping in Gastonia, NC",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Septic Blue of Gastonia",
+   "domain": "septicbluecharlotte.com",
+   "rating": 4.8,
+   "reviews": 61
+  },
+  {
+   "title": "ProSite & Septic | Best Septic System Service | Septic Pumping | Gastonia, NC",
+   "domain": "prositeandseptic.com",
+   "rating": 5,
+   "reviews": 23
+  },
+  {
+   "title": "Ray's Well and Septic",
+   "domain": "",
+   "rating": 4,
+   "reviews": 251
+  }
+ ],
+ "fetched": "2026-10-25"
+}

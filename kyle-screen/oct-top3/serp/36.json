@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Rapid City",
+ "state": "SD",
+ "pop": 70812,
+ "vol": 480,
+ "cpc": 5.56,
+ "lead_value": 2669,
+ "query": "window tinting rapid city",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 6.5,
+ "top5_pages_min": 4,
+ "top10_pages_med": 6,
+ "top10_pages_min": 4,
+ "winner_words_med": 692,
+ "winners_measured": 2,
+ "score": 82.8,
+ "state_full": "South Dakota",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tophattinting.com",
+   "url": "https://tophattinting.com/",
+   "title": "Tophat Tinting Inc",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/RapidCity/comments/1lepm6v/window_tinting/",
+   "title": "Window tinting : r/RapidCity",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Window+Tint&find_loc=Rapid+City%2C+SD",
+   "title": "TOP 10 BEST Window Tint in Rapid City, SD - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "independentwindowtinting.com",
+   "url": "https://www.independentwindowtinting.com/",
+   "title": "Truck Tinting | Independent Window Tinting | Rapid City, SD",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/RapidTinting/",
+   "title": "Rapid Window Tinting | Rapid City SD",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "635038d4bdb00.site123.me",
+   "url": "https://635038d4bdb00.site123.me/",
+   "title": "Infinity Tint & Wrap LLC - LET US KEEP OUT THE SUNSHINE",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "drivegranite.com",
+   "url": "https://www.drivegranite.com/tint/",
+   "title": "Granite Tint",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/diamondtinting/",
+   "title": "Diamond Tinting LLC | Rapid City SD",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "rapidtinting.com",
+   "url": "https://rapidtinting.com/",
+   "title": "Rapid Window Tinting",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Infinity Tint & Wrap",
+   "domain": "635038d4bdb00.site123.me",
+   "rating": 4.9,
+   "reviews": 145
+  },
+  {
+   "title": "Rapid Window Tinting",
+   "domain": "rapidtinting.com",
+   "rating": 4.5,
+   "reviews": 332
+  },
+  {
+   "title": "Elite Auto and Glass",
+   "domain": "eliteautoandglass.com",
+   "rating": 4.7,
+   "reviews": 50
+  }
+ ],
+ "fetched": "2026-10-25"
+}

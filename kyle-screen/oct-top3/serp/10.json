@@ -1,0 +1,107 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Winter Garden",
+ "state": "FL",
+ "pop": 37711,
+ "vol": 170,
+ "cpc": 39.4,
+ "lead_value": 6698,
+ "query": "dryer vent cleaning winter garden",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 18,
+ "top5_pages_min": 17,
+ "top10_pages_med": 18,
+ "top10_pages_min": 17,
+ "winner_words_med": 1205,
+ "winners_measured": 3,
+ "score": 93,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/Vent/",
+   "title": "/r/Vent: The original venting subreddit since 2008",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "merriam-webster.com",
+   "url": "https://www.merriam-webster.com/dictionary/vent",
+   "title": "VENT Definition & Meaning",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "emergency-vent.mit.edu",
+   "url": "https://emergency-vent.mit.edu/",
+   "title": "MIT Emergency Ventilator \u2013 Design Toolbox",
+   "kind": "gov/edu"
+  },
+  {
+   "pos": 4,
+   "domain": "forum.formlabs.com",
+   "url": "https://forum.formlabs.com/t/4l-vent-at-back-of-machine/44611",
+   "title": "4L Vent at back of machine? - General Discussion",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "forum.prusa3d.com",
+   "url": "https://forum.prusa3d.com/forum/prusa-core-one-assembly-and-first-prints-troubleshooting/petg-best-printed-vent-closed/",
+   "title": "PETG \u2013 Best printed vent closed? - Prusa Forum",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "kitchenprojects.substack.com",
+   "url": "https://kitchenprojects.substack.com/p/kitchen-project-161-vol-au-vent",
+   "title": "Vol-Au-Vent - by Nicola Lamb - Kitchen Project #161",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "randsinrepose.com",
+   "url": "https://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/",
+   "title": "The Update, The Vent, and The Disaster",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "community.ceramicartsdaily.org",
+   "url": "https://community.ceramicartsdaily.org/topic/5167-should-i-turn-off-my-vent/",
+   "title": "Should I Turn Off My Vent? - Ceramic Arts Daily Community",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "h-b.com",
+   "url": "https://www.h-b.com/products/qv-quadro-vent",
+   "title": "QV - Quadro-Vent",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Express Air Duct Cleaning Winter Garden",
+   "domain": "express-wintergarden.com",
+   "rating": 4.9,
+   "reviews": 41
+  },
+  {
+   "title": "VentPinnacle Air Vent Cleaning",
+   "domain": "",
+   "rating": 5,
+   "reviews": 4
+  },
+  {
+   "title": "Air Cleaning USA",
+   "domain": "airductcleaningwintergardenfl.com",
+   "rating": 5,
+   "reviews": 150
+  }
+ ],
+ "fetched": "2026-10-25"
+}

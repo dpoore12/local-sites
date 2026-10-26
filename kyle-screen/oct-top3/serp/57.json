@@ -1,0 +1,107 @@
+{
+ "niche": "roof cleaning",
+ "city": "Bellingham",
+ "state": "WA",
+ "pop": 82631,
+ "vol": 170,
+ "cpc": 24.01,
+ "lead_value": 4082,
+ "query": "roof cleaning bellingham",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 49,
+ "top5_pages_min": 40,
+ "top10_pages_med": 49,
+ "top10_pages_min": 12,
+ "winner_words_med": 1220,
+ "winners_measured": 5,
+ "score": 76,
+ "state_full": "Washington",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/wa/bellingham/roof-cleaning.htm",
+   "title": "Top 10 Best Roof cleaners in Bellingham, WA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/Bellingham/comments/1t16ybf/roof_cleaning_company_recommendationscost/",
+   "title": "Roof cleaning company recommendations/cost : r/Bellingham",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "bellinghamgutter.com",
+   "url": "https://www.bellinghamgutter.com/ferndalewaguttercleaning",
+   "title": "Ferndale, WA Gutter Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "roofgutterbellingham.com",
+   "url": "https://www.roofgutterbellingham.com/post/soft-wash-roof-cleaning-in-bellingham-wa-why-it-s-the-preferred-method",
+   "title": "Soft Wash Roof Cleaning in Bellingham, WA: Why It's the ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1039984813129224/posts/2069887740138921/",
+   "title": "Roof cleaning and treatment services in Bellingham",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "bellinghamexteriorcleaning.com",
+   "url": "https://www.bellinghamexteriorcleaning.com/blog/roof-cleaning-cost-bellingham-wa-2026/",
+   "title": "How Much Does Roof Cleaning Cost in Bellingham, WA ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "rainlifewashing.com",
+   "url": "https://www.rainlifewashing.com/services/roof-cleaning/",
+   "title": "Roof Cleaning in Bellingham, WA | Moss & Algae Removal",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/green-roof-and-gutter-cleaning-bellingham-bellingham-wa/",
+   "title": "Green Roof and Gutter Cleaning, Bellingham",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/bellingham-roof-and-gutter-cleaning-bellingham-4",
+   "title": "Bellingham Roof & Gutter Cleaning - Pressure Washers",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Peak Roof and Gutter Cleaning",
+   "domain": "peakroofandguttercleaning.com",
+   "rating": 5,
+   "reviews": 52
+  },
+  {
+   "title": "Green Roof and Gutter Cleaning, Bellingham",
+   "domain": "roofgutterbellingham.com",
+   "rating": 5,
+   "reviews": 319
+  },
+  {
+   "title": "WHATCOM GUTTER & ROOF CLEANING",
+   "domain": "whatcomgrc.com",
+   "rating": 4.7,
+   "reviews": 115
+  }
+ ],
+ "fetched": "2026-10-25"
+}

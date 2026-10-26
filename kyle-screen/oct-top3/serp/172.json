@@ -1,0 +1,107 @@
+{
+ "niche": "chimney sweep",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 260,
+ "cpc": 8.87,
+ "lead_value": 2306,
+ "query": "chimney sweep marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 693,
+ "top5_pages_min": 209,
+ "top10_pages_med": 693,
+ "top10_pages_min": 209,
+ "winner_words_med": 1053,
+ "winners_measured": 3,
+ "score": 28.4,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "sweepyhollow.net",
+   "url": "https://www.sweepyhollow.net/",
+   "title": "Sweepy Hollow Inc: Chimney Company Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=chimneysweeps&find_loc=Marietta%2C+GA",
+   "title": "THE BEST 10 CHIMNEY SWEEPS IN MARIETTA, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "chimneysolutions.com",
+   "url": "https://www.chimneysolutions.com/marietta-chimney-sweep/",
+   "title": "Chimney Sweeps in Marietta GA",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "chimneyprocleaners.com",
+   "url": "https://chimneyprocleaners.com/chimney-cleaning-marietta/",
+   "title": "Chimney Cleaning Marietta | Starting @ $189",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "madhatterservices.com",
+   "url": "https://madhatterservices.com/chimney-sweeping-cleaning-marietta-georgia/",
+   "title": "Chimney Sweeping & Cleaning | Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/Marietta/comments/x6mz9c/chimney_sweeps_in_marietta/",
+   "title": "Chimney sweeps in Marietta",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "smokealert.net",
+   "url": "https://smokealert.net/chimney-sweep-marietta-ga/?srsltid=AYCX9vIHhUddDWm-Jh6fLp94P2A9RlpKqLl5yk6IRD_fiFhdjJR1XLZb",
+   "title": "Chimney Cleaning & Repair in Marietta, GA | Smoke Alert",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "advancedchimneysinc.com",
+   "url": "https://www.advancedchimneysinc.com/",
+   "title": "Advanced Chimney Sweeps: Chimney Maintenance & Repair",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/chimney-sweep",
+   "title": "Chimney sweepers near Marietta, GA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "American Chimney Gutter & Roofing, Inc.",
+   "domain": "americancgr.com",
+   "rating": 4.7,
+   "reviews": 291
+  },
+  {
+   "title": "Archer Chimneys & Exteriors",
+   "domain": "archerchimneys.com",
+   "rating": 4.9,
+   "reviews": 42
+  },
+  {
+   "title": "Sweepy Hollow Inc",
+   "domain": "sweepyhollow.net",
+   "rating": 5,
+   "reviews": 239
+  }
+ ],
+ "fetched": "2026-10-25"
+}

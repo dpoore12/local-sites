@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Fort Smith",
+ "state": "AR",
+ "pop": 87650,
+ "vol": 320,
+ "cpc": 5.12,
+ "lead_value": 1638,
+ "query": "window tinting fort smith",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 31.0,
+ "top5_pages_min": 21,
+ "top10_pages_med": 41,
+ "top10_pages_min": 21,
+ "winner_words_med": 790,
+ "winners_measured": 3,
+ "score": 73.9,
+ "state_full": "Arkansas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/ar/fort-smith/category/car-window-tinting",
+   "title": "Car Window Tinting near Fort Smith, AR",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/397165520651572/posts/1998886587146116/",
+   "title": "Looking for recommendations in Van Buren/Fort Smith ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/classic-tint-usa-fort-smith",
+   "title": "CLASSIC TINT USA - 1514 Towson Ave, Fort Smith, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/arkansas/precision-tint-accessories-448861768",
+   "title": "Precision Tint & Accessories - Fort Smith",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/tint-works-mobile-fort-smith",
+   "title": "TINT WORKS MOBILE - Updated October 2026 - 59 Photos",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/retail-shopping/window-treatments/ar/fort-smith/",
+   "title": "Window Treatments in Fort Smith, AR",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Auto+Window+Tinting&find_loc=Fort+Smith%2C+AR",
+   "title": "TOP 10 BEST Auto Window Tinting in Fort Smith, AR",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/arkansas/solar-shield-llc-429411807",
+   "title": "Solar Shield LLC - Fort Smith",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/61594563226821/posts/-fort-smith-ar-mobile-tint-give-your-car-the-clean-look-it-deserves-professional/122107672989485440/",
+   "title": "FORT SMITH, AR MOBILE TINT \ud83d\udd25 Give your car the clean ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Solar Shield",
+   "domain": "solarshieldfortsmith.com",
+   "rating": 4.3,
+   "reviews": 125
+  },
+  {
+   "title": "Classic Tint USA",
+   "domain": "",
+   "rating": 3.9,
+   "reviews": 69
+  },
+  {
+   "title": "California Customs",
+   "domain": "calcustoms.net",
+   "rating": 4.6,
+   "reviews": 246
+  }
+ ],
+ "fetched": "2026-10-25"
+}

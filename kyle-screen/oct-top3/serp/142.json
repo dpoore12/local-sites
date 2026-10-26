@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Miami Beach",
+ "state": "FL",
+ "pop": 91026,
+ "vol": 140,
+ "cpc": 89.18,
+ "lead_value": 12485,
+ "query": "dumpster rental miami beach",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 233,
+ "top5_pages_min": 80,
+ "top10_pages_med": 233,
+ "top10_pages_min": 80,
+ "winner_words_med": 803,
+ "winners_measured": 5,
+ "score": 41,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "sourgum.com",
+   "url": "https://www.sourgum.com/service-areas/florida/miami-fl-dumpster-rental/",
+   "title": "Dumpster Rentals in Miami, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "redboxplus.com",
+   "url": "https://www.redboxplus.com/miami/",
+   "title": "Roll-off Dumpster Services in Miami",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/miami-beach-fl/dumpster-rental-services",
+   "title": "Best Dumpster Rental Services in Miami Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "lopefra.com",
+   "url": "https://www.lopefra.com/miami-roll-off-dumpster-rental.php",
+   "title": "Miami Roll-Off Dumpster: Commercial & Residential Services",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/garbage-dumpster-rental-north-miami-beach-fl/",
+   "title": "Garbage Dumpster Rental North Miami Beach Fl",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "wastelinesolutions.com",
+   "url": "https://www.wastelinesolutions.com/locations/miami-beach-dumpster-rental/",
+   "title": "Reliable Dumpster Rental Services in Miami Beach, FL | WLS",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "zters.com",
+   "url": "https://www.zters.com/dumpster-rental/miami-fl",
+   "title": "Dumpster Rental in Miami, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Miami+Beach%2C+FL",
+   "title": "TOP 10 BEST Dumpster Rental in Miami Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "redboxplus.com",
+   "url": "https://www.redboxplus.com/north-miami/miami-fl/",
+   "title": "Roll Off Dumpster Rental in Miami, FL | redbox+",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Miami Beach City Dumpster Rentals Company",
+   "domain": "",
+   "rating": 5,
+   "reviews": 2
+  },
+  {
+   "title": "Miami Beach Roll Off Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Dumpster Rentals Miami Beach",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  }
+ ],
+ "fetched": "2026-10-25"
+}

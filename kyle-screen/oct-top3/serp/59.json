@@ -1,0 +1,107 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Hendersonville",
+ "state": "TN",
+ "pop": 54068,
+ "vol": 90,
+ "cpc": 24.47,
+ "lead_value": 2202,
+ "query": "septic tank pumping hendersonville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 29.0,
+ "top5_pages_min": 26,
+ "top10_pages_med": 32,
+ "top10_pages_min": 26,
+ "winner_words_med": 638,
+ "winners_measured": 3,
+ "score": 75.7,
+ "state_full": "Tennessee",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/roberts-plumbing-and-septic-service-hendersonville",
+   "title": "ROBERTS' PLUMBING & SEPTIC SERVICE",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "septictank.com",
+   "url": "https://septictank.com/tennessee/hendersonville",
+   "title": "Septic Service in Hendersonville, TN | Pumping and Repair",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/tn/hendersonville/septic-tank.htm",
+   "title": "Top 10 Best Septic tank pros in Hendersonville, TN",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/nc/hendersonville/septic-tank.htm",
+   "title": "Top 10 Best Septic tank pros in Hendersonville, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "appalachiansepticandgrading.com",
+   "url": "https://www.appalachiansepticandgrading.com/",
+   "title": "Appalachian septic and grading | septic tank work near me",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/search?find_desc=Grease+Trap+Pumping&find_loc=Hendersonville%2C+TN",
+   "title": "Best Grease Trap Pumping near Hendersonville, TN",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/aaa-septic-tank-cleaning-service-hendersonville-nc/",
+   "title": "AAA Septic Service, Inc. - Hendersonville, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/nc/septic-pumping-hendersonville-costs",
+   "title": "Septic Pumping in Hendersonville, NC - Costs 08 / 2026",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "septicandwell.com",
+   "url": "https://septicandwell.com/listings/worley-grading-and-septic",
+   "title": "Worley Grading And Septic",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Hometown Septic",
+   "domain": "septicpumpinghendersonville.lovable.app",
+   "rating": 5,
+   "reviews": 6
+  },
+  {
+   "title": "Michael Shaver Plumbing, Septic, and Dirt Works",
+   "domain": "michaelshaverplumbing.com",
+   "rating": 4.9,
+   "reviews": 184
+  },
+  {
+   "title": "B&D Septic Service",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 41
+  }
+ ],
+ "fetched": "2026-10-25"
+}

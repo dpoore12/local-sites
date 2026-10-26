@@ -1,0 +1,88 @@
+{
+ "niche": "chimney sweep",
+ "city": "Franklin",
+ "state": "TN",
+ "pop": 68886,
+ "vol": 90,
+ "cpc": 36.69,
+ "lead_value": 3302,
+ "query": "chimney sweep franklin",
+ "name_conflict": "clean",
+ "local_in_top10": 8,
+ "directories_in_top10": 2,
+ "top5_pages_med": 135,
+ "top5_pages_min": 31,
+ "top10_pages_med": 302,
+ "top10_pages_min": 1,
+ "winner_words_med": 865,
+ "winners_measured": 6,
+ "score": 52,
+ "state_full": "Tennessee",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "ashbusters.net",
+   "url": "https://ashbusters.net/locations/franklin/",
+   "title": "Chimney Sweep & Fireplace Repair Near Me - Franklin TN",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=chimneysweeps&find_loc=Franklin%2C+TN",
+   "title": "THE BEST 10 CHIMNEY SWEEPS IN FRANKLIN, TN",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "chimneykleen.com",
+   "url": "https://chimneykleen.com/about-us/service-area/franklin-tn/",
+   "title": "Franklin TN - Chimney Sweep & Services",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/tn/franklin/chimney-sweep.htm",
+   "title": "Top 10 Best Chimney sweeps in Franklin, TN",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "chimneysweep-franklin.us",
+   "url": "https://www.chimneysweep-franklin.us/",
+   "title": "Chimney Sweep & Cleaning Franklin (615) 931-5704 Call us ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "nashvilleschimneysweep.com",
+   "url": "https://nashvilleschimneysweep.com/franklin/",
+   "title": "Chimney Sweeps in Franklin, TN | Williamson County",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "chimneysweepfranklin-tn.com",
+   "url": "https://www.chimneysweepfranklin-tn.com/contact",
+   "title": "Contact Our Chimney Sweep Team in Franklin, TN",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/AllAboutChimneysLLC/",
+   "title": "All About Chimneys LLC | Franklin NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "chimneysweepfranklintn.com",
+   "url": "https://www.chimneysweepfranklintn.com/",
+   "title": "Chimney Sweep Franklin TN - We Explain Our Process Clearly!",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

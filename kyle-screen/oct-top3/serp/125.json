@@ -1,0 +1,107 @@
+{
+ "niche": "septic tank pumping",
+ "city": "North Miami",
+ "state": "FL",
+ "pop": 61007,
+ "vol": 260,
+ "cpc": 215.13,
+ "lead_value": 55934,
+ "query": "septic tank pumping north miami",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 77.0,
+ "top5_pages_min": 66,
+ "top10_pages_med": 77,
+ "top10_pages_min": 66,
+ "winner_words_med": 1647,
+ "winners_measured": 2,
+ "score": 51,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "caraballoexpress.com",
+   "url": "https://caraballoexpress.com/",
+   "title": "Caraballo Express - Septic Tank Service Miami-Dade & Broward",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Grease+Trap+Pumping&find_loc=North+Miami%2C+FL",
+   "title": "TOP 10 BEST Grease Trap Pumping in North Miami, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "septictank.com",
+   "url": "https://septictank.com/florida/north-miami-beach/septic-inspection",
+   "title": "North Miami Beach, FL Septic System Inspections",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "abetteraimseptic.com",
+   "url": "https://abetteraimseptic.com/",
+   "title": "Septic Tank Cleaning Miami: Repairs Pumping Emergency ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/north-miami-fl/mip/joes-septic-tank-service-496135063",
+   "title": "Joe's Septic Tank Service - North Miami, FL 33168",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Septic&find_loc=Miami%2C+FL",
+   "title": "Top 10 Best Septic Near Miami, Florida (Updated 2026)",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "septictankservicemiamifl.com",
+   "url": "https://www.septictankservicemiamifl.com/",
+   "title": "First Call Septic Tank Service | Miami | Broward | Emergency ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/Septic-Service-of-NMB-106824141747866",
+   "title": "Septic Service of NMB",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "alligatorseptic.com",
+   "url": "https://www.alligatorseptic.com/septic-tank-cleaning/miami",
+   "title": "Miami Septic Tank Pumping Service",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Champion Septic Tank - Drain Field, Grease Trap, Storm Drain",
+   "domain": "championseptictank.com",
+   "rating": 5,
+   "reviews": 187
+  },
+  {
+   "title": "Ez Plumbing Septic & Grease Trap",
+   "domain": "septicservicesmiami.com",
+   "rating": 4.8,
+   "reviews": 39
+  },
+  {
+   "title": "On My Way Septic Grease Trap Storm Drains Lift Station",
+   "domain": "onmywayseptic.com",
+   "rating": 4.7,
+   "reviews": 77
+  }
+ ],
+ "fetched": "2026-10-25"
+}

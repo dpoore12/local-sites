@@ -1,0 +1,100 @@
+{
+ "niche": "chimney sweep",
+ "city": "Roanoke",
+ "state": "VA",
+ "pop": 98465,
+ "vol": 170,
+ "cpc": 13.47,
+ "lead_value": 2290,
+ "query": "chimney sweep roanoke",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 252.0,
+ "top5_pages_min": 64,
+ "top10_pages_med": 64,
+ "top10_pages_min": 60,
+ "winner_words_med": 869,
+ "winners_measured": 3,
+ "score": 36.3,
+ "state_full": "Virginia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "chimneyfireplaceroanoke.com",
+   "url": "https://www.chimneyfireplaceroanoke.com/chimney-repair-roanoke/",
+   "title": "Chimney Repair Roanoke, Virginia",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1115795212736192/posts/1618408992474809/",
+   "title": "What are affordable chimney sweeps in Roanoke?",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "instagram.com",
+   "url": "https://www.instagram.com/chimneyworksroanoke/",
+   "title": "Chimney Works (@chimneyworksroanoke)",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "m.yelp.com",
+   "url": "https://m.yelp.com/biz/affordable-sweeps-chimney-service-roanoke",
+   "title": "Affordable Sweeps Chimney Service - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "chimneyfireplaceroanoke.com",
+   "url": "https://www.chimneyfireplaceroanoke.com/chimney-experts-roanoke/",
+   "title": "Chimney Experts Roanoke, Virginia",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/roanoke-chimney-sweep-services/?locale=cx_PH",
+   "title": "Roanoke Chimney Sweep Services",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yonnschimneyservices.com",
+   "url": "https://yonnschimneyservices.com/",
+   "title": "Reliable Chimney Services for Your Home",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/virginia/chimney-works-651929751",
+   "title": "Chimney Works, 1633 Peters Creek Rd NW, Roanoke, VA ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Potomac Chimney & Masonry Services",
+   "domain": "potomacservices.net",
+   "rating": 5,
+   "reviews": 444
+  },
+  {
+   "title": "Chimney Works!",
+   "domain": "chimneyworksva.com",
+   "rating": 4.8,
+   "reviews": 80
+  },
+  {
+   "title": "Yonn's Chimney Services",
+   "domain": "yonnschimneyservices.com",
+   "rating": 5,
+   "reviews": 46
+  }
+ ],
+ "fetched": "2026-10-25"
+}

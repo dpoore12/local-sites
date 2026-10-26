@@ -1,0 +1,106 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Appleton",
+ "state": "WI",
+ "pop": 73596,
+ "vol": 170,
+ "cpc": 22.57,
+ "lead_value": 3837,
+ "query": "air duct cleaning appleton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 24.5,
+ "top5_pages_min": 6,
+ "top10_pages_med": 36,
+ "top10_pages_min": 6,
+ "winner_words_med": 850,
+ "winners_measured": 6,
+ "score": 91,
+ "state_full": "Wisconsin",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "mrpowerclean.com",
+   "url": "https://mrpowerclean.com/",
+   "title": "Mr. Power CleanVent and Duct Cleaning Northeast WI | 59 ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "foxvalleycleanair.com",
+   "url": "https://www.foxvalleycleanair.com/",
+   "title": "Fox Valley Clean Air | Air Duct Cleaning | Appleton, WI",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Appleton%2C+WI",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN APPLETON, WI",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "qualityductpros.com",
+   "url": "https://www.qualityductpros.com/",
+   "title": "Quality Duct Pros: Air Duct & Dryer Vent Cleaning in Appleton ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "whatsinyourducts.com",
+   "url": "https://www.whatsinyourducts.com/",
+   "title": "Wisconsin Air Duct Cleaning & Dryer Vent Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "radtkechimneys.com",
+   "url": "https://www.radtkechimneys.com/ductcleaning",
+   "title": "Duct Cleaning Company Appleton, Air Duct Cleaners ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/wi/appleton/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Appleton, WI",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mrductcleaner.com",
+   "url": "https://mrductcleaner.com/the-fox-cities/",
+   "title": "The Fox Cities",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Quality Duct Pros",
+   "domain": "qualityductpros.com",
+   "rating": 5,
+   "reviews": 137
+  },
+  {
+   "title": "Mr. Power Clean, Inc.",
+   "domain": "mrpowerclean.com",
+   "rating": 5,
+   "reviews": 841
+  },
+  {
+   "title": "Wisconsin Natural Air Duct Cleaning Appleton",
+   "domain": "whatsinyourducts.com",
+   "rating": 4.9,
+   "reviews": 81
+  },
+  {
+   "title": "Central Heating LLC        My Ad Center",
+   "domain": "google.com",
+   "rating": 5,
+   "reviews": 12
+  }
+ ],
+ "fetched": "2026-10-25"
+}

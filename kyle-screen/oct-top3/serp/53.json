@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Kissimmee",
+ "state": "FL",
+ "pop": 65173,
+ "vol": 260,
+ "cpc": 26.67,
+ "lead_value": 6934,
+ "query": "junk removal kissimmee",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 28,
+ "top5_pages_min": 28,
+ "top10_pages_med": 28,
+ "top10_pages_min": 2,
+ "winner_words_med": 891,
+ "winners_measured": 3,
+ "score": 78,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "gsjunk.com",
+   "url": "https://www.gsjunk.com/kissimmee-fl-junk-removal/",
+   "title": "Junk Removal in Kissimmee, FL ~ Fast & Free Estimates",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/kissimmee-fl/junk-removal-businesses-kissimmee-fl-same-day-couch/4gDeuMwkHJTip_9H3VzhzQ",
+   "title": "Any junk removal businesses in Kissimmee, FL that do ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/kissimmee/trash-removal",
+   "title": "The 10 Best Trash Removal Services in Kissimmee, FL 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/kissimmee/couch-removal/?srsltid=AYCX9vJIlyLT4aic2XmL1qYOD-CplOpVXfYeBh6s2yTgoSTRf8n3fBiz",
+   "title": "Couch Removal in Kissimmee, FL ~ Instant Pricing",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/kissimmee-fl/moving-heavy-appliances-couch-apartment-kissimmee-fl/eRQv7E5WS0bbNX_n-iBzqA",
+   "title": "Best Furniture Removal Services in Kissimmee, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/junk-removal-services-in-kissimmee-florida/",
+   "title": "Junk Removal Services in Kissimmee, Florida",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "wasteville.com",
+   "url": "https://www.wasteville.com/blog/2026/what-is-the-minimum-price-for-junk-removal-in-kissimmee-fl.html",
+   "title": "Junk Removal Prices in Kissimmee: What is the Minimum Cost?",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/orlando",
+   "title": "Junk Removal in Orlando, FL",
+   "kind": "national"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/caribbean-junk-removal-kissimmee",
+   "title": "CARIBBEAN JUNK REMOVAL - Updated October 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Junk Monkey Removal",
+   "domain": "junkmonkeyremoval.com",
+   "rating": 5,
+   "reviews": 124
+  },
+  {
+   "title": "The Junk Boys",
+   "domain": "junkboysusa.com",
+   "rating": 5,
+   "reviews": 340
+  },
+  {
+   "title": "Caribbean Junk Removal",
+   "domain": "caribbeanjunkremoval.com",
+   "rating": 4.9,
+   "reviews": 191
+  }
+ ],
+ "fetched": "2026-10-25"
+}

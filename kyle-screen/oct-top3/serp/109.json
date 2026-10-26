@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Warner Robins",
+ "state": "GA",
+ "pop": 72531,
+ "vol": 480,
+ "cpc": 8.95,
+ "lead_value": 4296,
+ "query": "dumpster rental warner robins",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 216.5,
+ "top5_pages_min": 7,
+ "top10_pages_med": 67,
+ "top10_pages_min": 7,
+ "winner_words_med": 899,
+ "winners_measured": 3,
+ "score": 56,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bintheredumpthat.com",
+   "url": "https://www.bintheredumpthat.com/middle-georgia-dumpster-rentals/service-areas/warner-robins/",
+   "title": "Dumpster Rentals in Warner Robins | Same Day Delivery!",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "budgetdumpster.com",
+   "url": "https://www.budgetdumpster.com/warner-robins-ga-dumpster-rental-georgia.php",
+   "title": "Dumpster Rentals in Warner Robins, GA",
+   "kind": "national"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/robinstogo/posts/2048822175846779/",
+   "title": "cheapest dumpster rental for 24 hours? | Warner Robins, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=dumpsterrental&find_loc=Warner+Robins%2C+GA",
+   "title": "THE BEST 10 DUMPSTER RENTAL IN WARNER ROBINS ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "rylandenvironmental.us",
+   "url": "https://www.rylandenvironmental.us/warner-robins-dumpster-rental-and-waste-management/",
+   "title": "Warner Robins Dumpster Rental",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "middlegadumpsters.com",
+   "url": "https://www.middlegadumpsters.com/",
+   "title": "Middle Georgia Dumpsters",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "lowes.com",
+   "url": "https://www.lowes.com/store/0483-warner-robins-ga/dumpster-rental",
+   "title": "Dumpster Rental in Warner Robins, GA, 31093",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "witbros.com",
+   "url": "https://witbros.com/",
+   "title": "WIT Bros Dumpster Rentals Macon and Warner Robins. \u2013 WIT ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/dumpthatjunkllc/",
+   "title": "Dump That Junk, LLC | Warner Robins GA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Warner Robins Dumpster Rentals",
+   "domain": "",
+   "rating": 5,
+   "reviews": 1
+  },
+  {
+   "title": "Jr's Mini Roll Off Dumpster Service",
+   "domain": "jrsminirolloff.com",
+   "rating": 5,
+   "reviews": 114
+  },
+  {
+   "title": "WIT Bros Dumpster Rentals",
+   "domain": "witbros.com",
+   "rating": 5,
+   "reviews": 232
+  }
+ ],
+ "fetched": "2026-10-25"
+}

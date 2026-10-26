@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Apex",
+ "state": "NC",
+ "pop": 42214,
+ "vol": 720,
+ "cpc": 15.39,
+ "lead_value": 11081,
+ "query": "air duct cleaning apex",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 83.0,
+ "top5_pages_min": 11,
+ "top10_pages_med": 148,
+ "top10_pages_min": 11,
+ "winner_words_med": 725,
+ "winners_measured": 6,
+ "score": 74,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/nc/apex/category/air-duct-cleaning",
+   "title": "Air Duct Cleaning near Apex, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "airductcleaningapex.com",
+   "url": "https://airductcleaningapex.com/eco-safe-dryer-vent-cleaning-apex-nc/",
+   "title": "Professional Eco-Safe Dryer Vent Cleaning in Apex, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "airductcleaningapex.com",
+   "url": "https://airductcleaningapex.com/duct-cleaning-for-leed-homes-apex-nc/",
+   "title": "Duct Cleaning for LEED Homes in Apex, NC | Eco HVAC Care",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/nc/apex/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Apex, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "airductcleaningapex.com",
+   "url": "https://airductcleaningapex.com/mold-resistant-duct-treatment-apex-nc/",
+   "title": "Mold-Resistant Duct Treatment in Apex, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "airductcleaningapex.com",
+   "url": "https://airductcleaningapex.com/seasonal-allergy-air-duct-cleaning-apex-nc/",
+   "title": "Seasonal Allergy Air Duct Cleaning Apex, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dryer+Vent+Cleaning&find_loc=Apex%2C+NC",
+   "title": "TOP 10 BEST Dryer Vent Cleaning in Apex, NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "airductcleaningapex.com",
+   "url": "https://airductcleaningapex.com/air-duct-rat-removal-apex-nc/",
+   "title": "Air Duct Rat Removal Apex, NC | Safe & Sanitary HVAC ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/apexsirducts/",
+   "title": "Apex Air Duct Cleaning (@apexsirducts)",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "VentPrevent Air Duct & Dryer Vent Cleaning",
+   "domain": "ventprevent.com",
+   "rating": 5,
+   "reviews": 562
+  },
+  {
+   "title": "JNJ Dryer Vent Cleaning",
+   "domain": "jnjdryerventcleaning.com",
+   "rating": 5,
+   "reviews": 3200
+  },
+  {
+   "title": "Tom's Dryer Vent Cleaning",
+   "domain": "tomsdryerventcleaning.com",
+   "rating": 5,
+   "reviews": 174
+  }
+ ],
+ "fetched": "2026-10-25"
+}

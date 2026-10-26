@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 260,
+ "cpc": 33.71,
+ "lead_value": 8765,
+ "query": "air duct cleaning fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 155,
+ "top5_pages_min": 11,
+ "top10_pages_med": 155,
+ "top10_pages_min": 11,
+ "winner_words_med": 644,
+ "winners_measured": 3,
+ "score": 61,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "duct-cleaning.promatcher.com",
+   "url": "https://duct-cleaning.promatcher.com/cost/fort-myers-fl-duct-cleaning-costs-prices.aspx",
+   "title": "Fort Myers Duct Cleaning Costs & Prices",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/fort-myers/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "mrappliance.com",
+   "url": "https://www.mrappliance.com/lee-county/residential/laundry/dryer-vent-cleaning/",
+   "title": "Dryer Vent Cleaning in Fort Myers",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/The-Duct-Doctor-61558747228141/",
+   "title": "The Duct Doctor | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/fl/air-duct-cleaning-fort-myers-costs",
+   "title": "Air Duct Cleaning in Fort Myers, FL - Costs 10 / 2026 - Homeyou",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "superiorairductcleaning.pro",
+   "url": "https://superiorairductcleaning.pro/",
+   "title": "Fort Myers Air Duct Cleaning | (239) 990-3459 Call Us",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Duct+Repair&find_loc=Fort+Myers%2C+FL",
+   "title": "TOP 10 BEST Air Duct Repair in Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/absolute-air-duct-cleaning-793928004",
+   "title": "Absolute Air Duct Cleaning - Fort Myers",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "adkinsductcleaning.com",
+   "url": "https://www.adkinsductcleaning.com/service-areas/fort-myers-air-duct-and-dryer-vent-cleaning",
+   "title": "Fort Myers, FL Air Duct & Dryer Vent Cleaning",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Lint Out Dryer Vent & Air Duct Cleaning",
+   "domain": "lintoutinc.com",
+   "rating": 5,
+   "reviews": 1100
+  },
+  {
+   "title": "Just Air Solutions, LLC",
+   "domain": "justairsolutions.com",
+   "rating": 5,
+   "reviews": 413
+  },
+  {
+   "title": "Gulf Shore Cooling, LLC",
+   "domain": "gulfshorecooling.com",
+   "rating": 4.9,
+   "reviews": 4200
+  }
+ ],
+ "fetched": "2026-10-25"
+}

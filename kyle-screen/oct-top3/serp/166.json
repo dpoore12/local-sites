@@ -1,0 +1,88 @@
+{
+ "niche": "fence installation",
+ "city": "Boca Raton",
+ "state": "FL",
+ "pop": 89407,
+ "vol": 210,
+ "cpc": 17.41,
+ "lead_value": 3656,
+ "query": "fence installation boca raton",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 610,
+ "top5_pages_min": 100,
+ "top10_pages_med": 355,
+ "top10_pages_min": 23,
+ "winner_words_med": 2595,
+ "winners_measured": 4,
+ "score": 33,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "mrhandyman.com",
+   "url": "https://www.mrhandyman.com/boca-raton-fl/carpentry/fence-installation-repair/",
+   "title": "Fence Installation & Repair in Boca Raton, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "bulldogfencecompany.com",
+   "url": "https://www.bulldogfencecompany.com/cities/boca-raton/",
+   "title": "Boca Raton Fence Company | (561) 278-1717",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=fencesgates&find_loc=Boca+Raton%2C+FL",
+   "title": "THE BEST 10 FENCES & GATES IN BOCA RATON, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "fenceinstallationboca.com",
+   "url": "https://www.fenceinstallationboca.com/",
+   "title": "Fence Builders Boca Raton - Custom Fences Boca Raton, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "standstrongfencing.com",
+   "url": "https://www.standstrongfencing.com/boynton-beach-fl/areas-we-serve/boca-raton/",
+   "title": "Boca Raton | Stand Strong Fencing of Boynton Beach",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/boca-raton/fences/adrian-fence/service/483123445793087488?spotlightWebMarkupEnabled=1",
+   "title": "Adrian fence - Fence and Gate Installation in Boca Raton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "powerfenceinc.com",
+   "url": "https://powerfenceinc.com/service-areas/boca-raton/",
+   "title": "Best Fence Company Boca Raton",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "bocaratonfenceco.com",
+   "url": "https://bocaratonfenceco.com/guides/fence-installation-boca-raton/",
+   "title": "Boca Raton Fence Installation: Materials, Costs & What Lasts",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "houzz.com",
+   "url": "https://www.houzz.com/professionals/fencing-and-gates/boca-raton-fl-us-probr0-bo~t_11833~r_4148411",
+   "title": "Best 15 Fence Companies & Installers in Boca Raton, FL",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,64 @@
+{
+ "_rules": "WRITER-BRIEF step 4: photorealistic documentary photography, real work, regionally correct architecture and light, no text/logos/brand names, faces turned away or out of frame. Hero = wide establishing shot (2K, 16:9 -> 1800 wide); work-1..3 = close on the first three services (1K, 16:9 -> 900 wide). Model gpt-image-2.5-sunburst on ElevenLabs creative, 25 Oct 2026.",
+ "_suffix": " Photorealistic documentary photograph, natural light, 35mm lens, unposed. No text, no lettering, no numbers, no logos, no brand or company names anywhere, including on trucks, vans, equipment, containers, clothing and packaging. Any people are seen from behind or cropped out of frame, no faces.",
+ "bentonvilledumpsterrentalpros.com": {
+  "hero": "Wide establishing shot, early morning in a new-construction subdivision in Bentonville, Arkansas, in the Ozark foothills: a plain dark green 20-yard steel roll-off dumpster on plywood runners at the curb beside a framed two-story house going up with stone and board-and-batten siding, red-orange clay soil, rolling wooded hills behind, soft spring light.",
+  "work-1": "Close on a plain steel roll-off dumpster at a new-home job site in Northwest Arkansas: lumber offcuts, OSB scraps, torn house wrap and flattened cardboard filling the open container, framed walls and a stack of roof trusses behind, red clay mud on the ground.",
+  "work-2": "A worker seen from behind tossing torn-out kitchen cabinets and broken drywall into a plain roll-off dumpster parked on plywood boards in the driveway of a 1990s brick ranch house in Bentonville, Arkansas.",
+  "work-3": "A plain roll-off dumpster half full of household cleanout items, an old recliner, boxes, a mattress and broken shelving, in the driveway of a brick home with its two-car garage open and partly emptied, oak trees, Northwest Arkansas autumn."
+ },
+ "dryerventcleaningocala.com": {
+  "hero": "Wide establishing shot of a single-story stucco concrete-block home in Ocala, Florida, with a gray shingle roof and live oaks hung with Spanish moss, a plain white work van parked in the drive, a technician seen from behind carrying a coiled rotary vent-cleaning brush toward the dryer vent hood on the side wall, warm late-afternoon Florida light.",
+  "work-1": "Close-up of a technician's gloved hands pulling a thick mat of gray lint out of a disconnected 4-inch foil dryer duct behind a laundry-room dryer, a rotary brush rod and a shop vacuum hose on the tile floor, lint piled in a bin.",
+  "work-2": "On a gray asphalt shingle roof in central Florida, a technician in a safety harness seen from behind kneeling beside a roof dryer vent cap with its cover removed, lint packed in the opening and a cleaning brush rod coming out of it, live oak canopy and blue sky behind.",
+  "work-3": "Close-up of a dryer vent hood on a stucco exterior wall with the flap held open while gloved hands pull out a bird nest of twigs, dry grass and lint, a small pile of nest material on the mulch below, Florida shrubs."
+ },
+ "mariettaairductcleaningpros.com": {
+  "hero": "Wide establishing shot of a two-story red-brick traditional home with white columns on a tree-lined street in Marietta, Georgia, tall pines and dogwoods, a plain white service van in the driveway with a large flexible gray vacuum hose running from it through the front door, soft spring morning, a faint dusting of yellow pine pollen on the driveway.",
+  "work-1": "Close-up of a ceiling supply register removed from a white ceiling, a technician's gloved hand feeding a spinning rotary brush whip into the dusty sheet-metal duct, a clean register beside a dirty one on a drop cloth below.",
+  "work-2": "A technician seen from behind cleaning the dryer vent in the laundry room of a Georgia home, the dryer pulled away from the wall, a long flexible brush rod running into the wall vent, lint collecting in a clear vacuum canister.",
+  "work-3": "Close-up of an indoor HVAC air handler in a utility closet with the access panel off, a gloved hand spraying foam coil cleaner onto a dusty evaporator coil, half of the coil fins already clean bright aluminum."
+ },
+ "windowtintingbradenton.com": {
+  "hero": "Wide establishing shot of a bright, clean automotive window tint bay in Bradenton, Florida, the roll-up door open to palm trees and hard Gulf Coast sunshine, a dark gray sedan inside under strong work lights, a technician seen from behind squeegeeing film onto a rear side window, unlabeled rolls of film on a wall rack.",
+  "work-1": "Close-up of gloved hands using a hard card squeegee to push water out from under freshly applied window film on the inside of a car's side window, the film slightly darker than the glass, water droplets running down.",
+  "work-2": "Close-up of a technician heat-shrinking a sheet of ceramic window film laid over the outside of a car's curved rear windshield with a heat gun, soft shop-light reflections on the glass.",
+  "work-3": "Inside a Florida living room with tall sliding glass doors to a pool deck and palms, a technician seen from behind applying a large sheet of solar window film to the glass with a squeegee, a spray bottle on the floor, the harsh sun visibly softened on the filmed panel."
+ },
+ "wellingtondumpsterrentalpros.com": {
+  "hero": "Wide establishing shot in Wellington, Florida: a plain dark green 30-yard roll-off dumpster on plywood boards in the paver driveway of a Mediterranean-style stucco home with a red barrel-tile roof, royal palms, white horse fencing and a grass paddock in the background, bright subtropical morning.",
+  "work-1": "A plain roll-off dumpster in the driveway of a South Florida stucco home filled with household cleanout items, rolled-up carpet, an old dresser, patio furniture and boxes, the garage door open, palms behind.",
+  "work-2": "Roofers seen from behind on a red barrel-tile roof of a Florida home, dropping broken clay tiles and old underlayment down a debris chute into a plain roll-off dumpster below, clear blue sky.",
+  "work-3": "A plain roll-off dumpster beside a horse barn in Wellington, Florida, holding old rubber stall mats, broken fence boards and torn feed bags, a wheelbarrow beside it, the barn aisle and stall doors in soft morning light, palms and oaks."
+ },
+ "biloxidumpsterrentalpros.com": {
+  "hero": "Wide establishing shot on a street in Biloxi, Mississippi: a plain dark green 20-yard roll-off dumpster at the curb in front of a raised Gulf Coast cottage on concrete piers with a wide front porch and white siding, under a large live oak, a glimpse of open water in the distance, humid golden evening light.",
+  "work-1": "A plain roll-off dumpster at the renovation of an elevated Gulf Coast home, filled with torn-out drywall, old cabinets and lumber, a worker seen from behind carrying damaged paneling down the stairs from the raised porch.",
+  "work-2": "Roofers seen from behind tearing old asphalt shingles off a steep roof on the Mississippi Gulf Coast, shingle debris sliding into a plain roll-off dumpster parked against the house, a tarp on the ground, live oaks.",
+  "work-3": "Close-up of a plain low-sided roll-off dumpster loaded with broken concrete slabs and chunks of an old driveway, a skid-steer bucket beside it, sandy coastal soil and a Biloxi neighborhood behind."
+ },
+ "schaumburgairductcleaningpros.com": {
+  "hero": "Wide establishing shot of a 1970s two-story suburban home with tan brick and vinyl siding in Schaumburg, Illinois, mature maple trees in autumn color, a plain white service van in the driveway with a large gray vacuum hose running into the house through the front door, overcast Midwestern fall day.",
+  "work-1": "Close-up of a floor supply register lifted out of a hardwood floor, the dusty sheet-metal boot exposed, a technician's gloved hand guiding a rotary brush into the duct.",
+  "work-2": "Close-up in an unfinished basement of a gas furnace with its front panels off, a technician's gloved hands lifting out a dusty blower wheel, a vacuum nozzle and brush beside it, concrete floor, ductwork overhead.",
+  "work-3": "A technician seen from behind on a short stepladder outside a vinyl-sided Illinois home, cleaning a dryer vent hood with a rotary brush rod, a pile of gray lint on the mulch below, fallen leaves."
+ },
+ "northmiamiseptictankpumpingpros.com": {
+  "hero": "Wide establishing shot of a 1950s single-story concrete-block home painted pale yellow in North Miami, Florida, low flat roof and jalousie windows, royal palms and a bright green St. Augustine lawn, a plain white vacuum pump truck at the curb with a thick black suction hose running across the lawn to an open septic tank lid, strong tropical sun.",
+  "work-1": "Close-up of a technician's gloved hands guiding a thick black vacuum suction hose into an open concrete septic tank access hole dug out of a green lawn, the round concrete lid set aside on the grass.",
+  "work-2": "Night in a South Florida backyard: a septic technician seen from behind with a headlamp, a work light on a tripod, a pump hose running into an open septic tank, a wet patch on the lawn, palm silhouettes against the sky.",
+  "work-3": "A small excavator digging a trench in a sandy South Florida yard to expose drain field pipes, perforated white PVC pipe and gravel visible in the trench, a worker seen from behind with a shovel, palms and a concrete-block house behind."
+ },
+ "wheatonairductcleaningpros.com": {
+  "hero": "Wide establishing shot of an older two-story home with a front porch and clapboard siding on a tree-lined street in Wheaton, Illinois, big oak trees, a plain white service van at the curb with a large gray vacuum hose running up the front steps and through the door, crisp autumn morning.",
+  "work-1": "Close-up of a technician's gloved hand holding a dirty return air grille just removed from a living room wall, the dusty return duct opening behind it fitted with a vacuum hose, a clean grille leaning against the wall.",
+  "work-2": "Close-up in a basement utility room of a gas furnace with its panels off, a technician vacuuming dust out of the blower compartment with a brush attachment, galvanized ductwork overhead, concrete floor.",
+  "work-3": "A freshly remodeled basement in an Illinois home with new drywall and a fine layer of white drywall dust, a technician seen from behind vacuuming out a floor register while plastic sheeting still covers the stairs."
+ },
+ "pensacoladumpsterrentalpros.com": {
+  "hero": "Wide establishing shot on a street in Pensacola, Florida: a plain dark green 30-yard roll-off dumpster at the curb in front of a raised wood-frame cottage with a wide porch and metal roof, longleaf pines, white sandy soil, piles of storm-downed branches, a blue tarp on a neighbor's roof, clear post-storm sky.",
+  "work-1": "A plain roll-off dumpster filled with storm debris, broken limbs, soaked carpet, ruined fence panels and torn siding, in front of a Gulf Coast home after a hurricane, a worker seen from behind dragging a branch across the sandy yard.",
+  "work-2": "Roofers seen from behind tearing off old shingles and wet decking from a hurricane-damaged roof in Pensacola, debris dropping into a plain roll-off dumpster parked in the driveway, a blue tarp folded on the ridge.",
+  "work-3": "A plain roll-off dumpster at a home renovation in an older Pensacola neighborhood, filled with old wood flooring, plaster and lath and window frames, a worker seen from behind wheeling a barrow of debris up a plank ramp, live oaks overhead."
+ }
+}

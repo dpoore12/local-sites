@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Rockwall",
+ "state": "TX",
+ "pop": 40922,
+ "vol": 140,
+ "cpc": 83.78,
+ "lead_value": 11729,
+ "query": "air duct cleaning rockwall",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 140,
+ "top5_pages_min": 36,
+ "top10_pages_med": 100,
+ "top10_pages_min": 36,
+ "winner_words_med": 842,
+ "winners_measured": 4,
+ "score": 59,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "callmilestone.com",
+   "url": "https://callmilestone.com/rockwall/indoor-air-quality/duct-cleaning/",
+   "title": "Duct Cleaning in Rockwall",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Rockwall%2C+TX",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN ROCKWALL, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "rasmussencleaningservicedfw.com",
+   "url": "https://rasmussencleaningservicedfw.com/rockwall-air-duct-and-carpet-cleaning-services/",
+   "title": "Rockwall Air Duct and Carpet Cleaning Services",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "rockwallairductcleaning.com",
+   "url": "https://rockwallairductcleaning.com/",
+   "title": "Professional Air Duct Cleaning & Repair Services in Rockwall ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "guardiandallas.com",
+   "url": "https://www.guardiandallas.com/rockwall-tx/",
+   "title": "Expert HVAC Duct & Kitchen Exhaust Cleaning in Rockwall TX",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/tx/rockwall/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Rockwall, TX 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "acrescue.net",
+   "url": "https://acrescue.net/services/duct-cleaning-sealing",
+   "title": "Air Duct Cleaning & Sealing in Royse City & Rockwall",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "acrepairsrockwall.com",
+   "url": "https://www.acrepairsrockwall.com/indoor-air-quality/air-duct-cleaning/",
+   "title": "Air Duct Cleaning Rockwall, TX",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/tx/rockwall/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Rockwall, TX",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Doigg's Restoration & Cleaning",
+   "domain": "doiggs.com",
+   "rating": 5,
+   "reviews": 250
+  },
+  {
+   "title": "The Giants Air Duct Cleaners",
+   "domain": "airductcleaningroysecity.pro",
+   "rating": 4.8,
+   "reviews": 103
+  },
+  {
+   "title": "Aire Serv of Rockwall",
+   "domain": "aireserv.com",
+   "rating": 5,
+   "reviews": 84
+  }
+ ],
+ "fetched": "2026-10-25"
+}

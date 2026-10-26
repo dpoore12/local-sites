@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Fort Myers",
+ "state": "FL",
+ "pop": 68190,
+ "vol": 590,
+ "cpc": 9.04,
+ "lead_value": 5334,
+ "query": "pressure washing fort myers",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 39,
+ "top5_pages_min": 5,
+ "top10_pages_med": 60,
+ "top10_pages_min": 5,
+ "winner_words_med": 1193,
+ "winners_measured": 5,
+ "score": 84,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "accuratepressurecleaning.net",
+   "url": "https://accuratepressurecleaning.net/pressure-washing-contractors-naples-bonita-springs-fort-myers/",
+   "title": "Paver Pressure Washing and Sealing | Naples, Fort Myers",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/fl/north-fort-myers/pressure-washing.htm",
+   "title": "Top 10 Best Pressure washers in North Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "clearlyamazing.com",
+   "url": "https://www.clearlyamazing.com/locations/fort-myers-florida-soft-washing/",
+   "title": "Fort Myers Florida Soft Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/fl/fort-myers/category/pressure-washing",
+   "title": "Pressure Washing near Fort Myers, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/pressurewashingftmyers/",
+   "title": "Residential Pressure Washing of Ft Myers | Fort Myers FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "aquaproxcs.com",
+   "url": "https://www.aquaproxcs.com/near-me/fort-myers-fl-pressure-washing",
+   "title": "Trusted Fort Myers Pressure Washing Service",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/fresh-finish-pressure-washing-fort-myers",
+   "title": "Fresh Finish Pressure Washing",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/next-level-pressure-washing-429156740",
+   "title": "Next Level Pressure Washing, Fort Myers, FL 33912, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "fortmyerspressurewashingservices.com",
+   "url": "https://fortmyerspressurewashingservices.com/exterior-cleaning/",
+   "title": "Top Exterior Cleaning",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Sparkleen Pressure Washing & Window Cleaning",
+   "domain": "sparkleen.us",
+   "rating": 5,
+   "reviews": 60
+  },
+  {
+   "title": "Birdies Pressure Cleaning",
+   "domain": "birdiespressurecleaning.com",
+   "rating": 5,
+   "reviews": 238
+  },
+  {
+   "title": "MillerTime Pressure Washing",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 61
+  }
+ ],
+ "fetched": "2026-10-25"
+}

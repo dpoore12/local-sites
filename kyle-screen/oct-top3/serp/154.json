@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Frederick",
+ "state": "MD",
+ "pop": 66893,
+ "vol": 390,
+ "cpc": 27.1,
+ "lead_value": 10569,
+ "query": "junk removal frederick",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 422.0,
+ "top5_pages_min": 46,
+ "top10_pages_med": 202,
+ "top10_pages_min": 46,
+ "winner_words_med": 580,
+ "winners_measured": 3,
+ "score": 38,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "isoproshaulingremovalsolutions.com",
+   "url": "https://isoproshaulingremovalsolutions.com/",
+   "title": "Junk Removal in Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1621709304656307/posts/3631728790321005/",
+   "title": "Junk removal services for dresser, mattresses, couch, and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/frederickmd/comments/1g9mwvs/bulk_junk_trash_removal/",
+   "title": "Bulk junk / trash removal : r/frederickmd",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1526606057829980/posts/2024956261328288/",
+   "title": "Frederick Junk Removal offers same-day service in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/md/frederick/junk-removal",
+   "title": "The 10 Best Junk Removal Services in Frederick, MD 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "collegehunkshaulingjunk.com",
+   "url": "https://www.collegehunkshaulingjunk.com/junk-removal/frederick-county-md/",
+   "title": "Junk Removal near Frederick County, MD",
+   "kind": "national"
+  },
+  {
+   "pos": 7,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/frederickmd/comments/1vs3nbg/junk_removal/",
+   "title": "junk removal : r/frederickmd",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/2930162863712843/posts/27164909523144839/",
+   "title": "Hauling Assets Solutions offers junk removal services in ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "ecocityjunk.com",
+   "url": "https://ecocityjunk.com/junk-removal-frederick-md",
+   "title": "Residential Junk Removal in Frederick, MD",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "GM Junk Removal",
+   "domain": "gmjunk.com",
+   "rating": 5,
+   "reviews": 220
+  },
+  {
+   "title": "Always Recovering Junk LLC",
+   "domain": "alwaysrecoveringjunk.com",
+   "rating": 5,
+   "reviews": 178
+  },
+  {
+   "title": "Two Men and a Junk Truck",
+   "domain": "twomenandajunktruck.com",
+   "rating": 5,
+   "reviews": 6
+  }
+ ],
+ "fetched": "2026-10-25"
+}

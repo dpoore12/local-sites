@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Alpharetta",
+ "state": "GA",
+ "pop": 62298,
+ "vol": 390,
+ "cpc": 24.19,
+ "lead_value": 9434,
+ "query": "junk removal alpharetta",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 1631.0,
+ "top5_pages_min": 789,
+ "top10_pages_med": 789,
+ "top10_pages_min": 182,
+ "winner_words_med": 1121,
+ "winners_measured": 3,
+ "score": 30,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "junkluggers.com",
+   "url": "https://www.junkluggers.com/north-atlanta/alpharetta-junk-removal/",
+   "title": "Alpharetta, GA Junk Removal & Hauling Services",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "jdogjunkremoval.com",
+   "url": "https://www.jdogjunkremoval.com/locations/georgia/alpharetta-junk-removal/",
+   "title": "Alpharetta Junk Removal",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=junkremovalandhauling&find_loc=Alpharetta%2C+GA",
+   "title": "THE BEST 10 JUNK REMOVAL & HAULING IN ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "alpharetta.ga.us",
+   "url": "https://www.alpharetta.ga.us/bulky-waste-pickup",
+   "title": "Bulky Waste Pickup | Alpharetta, GA - Official Website",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/DumpTheJunkGA/",
+   "title": "Dump The Junk, Junk Removal & Hauling | Alpharetta GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/alpharetta/junk-removal",
+   "title": "The 10 Best Junk Removal Services in Alpharetta, GA 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "peachtreejunkremoval.com",
+   "url": "https://www.peachtreejunkremoval.com/service-areas/alpharetta",
+   "title": "Alpharetta Junk Removal",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "1800gotjunk.com",
+   "url": "https://www.1800gotjunk.com/us_en/locations/Georgia/junk-removal-alpharetta",
+   "title": "Alpharetta's Same-Day Junk Removal",
+   "kind": "national"
+  },
+  {
+   "pos": 9,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/atlanta/alpharetta-ga",
+   "title": "Junk Removal in Alpharetta, GA | Same-Day Service",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "LoadUp Junk Removal",
+   "domain": "goloadup.com",
+   "rating": 4.8,
+   "reviews": 581
+  },
+  {
+   "title": "Express Junk Removal Georgia",
+   "domain": "expressjunkremovalga.com",
+   "rating": 5,
+   "reviews": 163
+  },
+  {
+   "title": "The Junkluggers of North Atlanta",
+   "domain": "junkluggers.com",
+   "rating": 5,
+   "reviews": 798
+  }
+ ],
+ "fetched": "2026-10-25"
+}

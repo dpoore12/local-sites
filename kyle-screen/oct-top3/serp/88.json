@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Ogden",
+ "state": "UT",
+ "pop": 84249,
+ "vol": 110,
+ "cpc": 38.64,
+ "lead_value": 4250,
+ "query": "air duct cleaning ogden",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 70,
+ "top5_pages_min": 38,
+ "top10_pages_med": 65,
+ "top10_pages_min": 38,
+ "winner_words_med": 1722,
+ "winners_measured": 4,
+ "score": 64,
+ "state_full": "Utah",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "dustabductors.com",
+   "url": "https://dustabductors.com/",
+   "title": "Dust Abductors: Ogden Air Duct Cleaning & HVAC Services",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "clearairutah.com",
+   "url": "https://www.clearairutah.com/",
+   "title": "Air Duct Cleaning Ogden Utah | Clean Air Co",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Ogden%2C+UT",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN OGDEN, UT",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "sanitairllc.com",
+   "url": "https://www.sanitairllc.com/service-areas/air-duct-cleaning-services-in-ogden-utah/",
+   "title": "Ogden's Trusted Air Duct Cleaners - Sanitair",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/ut/air-duct-cleaning-ogden-costs",
+   "title": "Air Duct Cleaning in Ogden, UT - Costs 08 / 2026 - Homeyou",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "ogdenductcleaning.com",
+   "url": "https://ogdenductcleaning.com/",
+   "title": "Air Duct Cleaning in Ogden Utah",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "anderson-hvac.com",
+   "url": "https://anderson-hvac.com/duct-cleaning-north-ogden-ut/",
+   "title": "North Ogden Duct Cleaning: Anderson HVAC's Expert Service",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/ut/ogden/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Ogden, UT",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "ogdenairductcleaning.com",
+   "url": "https://ogdenairductcleaning.com/",
+   "title": "Professional Air Duct Cleaning & Repair Services in Ogden ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dust Abductors",
+   "domain": "dustabductors.com",
+   "rating": 4.9,
+   "reviews": 846
+  },
+  {
+   "title": "Fresh Ducts",
+   "domain": "freshducts.com",
+   "rating": 4.9,
+   "reviews": 319
+  },
+  {
+   "title": "Clear Air Co",
+   "domain": "clearairutah.com",
+   "rating": 5,
+   "reviews": 55
+  }
+ ],
+ "fetched": "2026-10-25"
+}

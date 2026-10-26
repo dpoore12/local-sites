@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Loveland",
+ "state": "CO",
+ "pop": 71334,
+ "vol": 170,
+ "cpc": 29.2,
+ "lead_value": 4964,
+ "query": "air duct cleaning loveland",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 175,
+ "top5_pages_min": 21,
+ "top10_pages_med": 153,
+ "top10_pages_min": 21,
+ "winner_words_med": 1245,
+ "winners_measured": 5,
+ "score": 61,
+ "state_full": "Colorado",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "ductworks.com",
+   "url": "https://ductworks.com/colorado-air-duct-cleaning/loveland-air-duct-cleaning-services/",
+   "title": "Loveland Air Duct Cleaning Services",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "lionhomeservice.com",
+   "url": "https://lionhomeservice.com/duct-cleaning-loveland-co/",
+   "title": "Air Duct Cleaning Loveland CO",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Loveland%2C+CO",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN LOVELAND, CO",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "tip-tophomeservices.com",
+   "url": "https://tip-tophomeservices.com/air-duct-loveland",
+   "title": "Tip Top Air Duct Cleaning of Loveland",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "windsorduct.com",
+   "url": "https://windsorduct.com/",
+   "title": "Windsor Duct Cleaning \u2014 Northern Colorado's Most Trusted",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "docssupervac.com",
+   "url": "https://docssupervac.com/",
+   "title": "Doc's Super Vac",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "freshsweeps.com",
+   "url": "https://www.freshsweeps.com/locations/co/loveland-chimney-sweep/air-duct-cleaning-loveland-co/",
+   "title": "Loveland Air Duct Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/co/loveland/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Loveland, CO 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "ductcleaning-co.com",
+   "url": "https://ductcleaning-co.com/",
+   "title": "Bee's Air Duct Cleaning",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Tip Top Air Duct Cleaning",
+   "domain": "tip-tophomeservices.com",
+   "rating": 4.9,
+   "reviews": 100
+  },
+  {
+   "title": "Windsor Duct Cleaning",
+   "domain": "windsorduct.com",
+   "rating": 5,
+   "reviews": 444
+  },
+  {
+   "title": "Pure air duct cleaning services",
+   "domain": "",
+   "rating": 4.9,
+   "reviews": 7
+  }
+ ],
+ "fetched": "2026-10-25"
+}

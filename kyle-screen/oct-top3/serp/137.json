@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 880,
+ "cpc": 11.54,
+ "lead_value": 10155,
+ "query": "window tinting sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 31086.0,
+ "top5_pages_min": 12,
+ "top10_pages_med": 22,
+ "top10_pages_min": 12,
+ "winner_words_med": 1108,
+ "winners_measured": 3,
+ "score": 46,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/sarasota/comments/1svuibl/looking_for_a_good_car_tint_installer/",
+   "title": "Looking for a good car tint installer : r/sarasota",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "sharkeysdetailingandtint.com",
+   "url": "https://sharkeysdetailingandtint.com/window-tint/",
+   "title": "Window Tinting in Sarasota, FL | Sharkey's Detailing & Tint",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/TheSarasotaLife/posts/1837134843763715/",
+   "title": "What are good window tinting services in Sarasota?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/store-content/tint-near-me-in-sarasota-fl-auto-window-tinting-retail-service/",
+   "title": "Tint Near Me in Sarasota, FL | Auto Window Tinting",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/sarasota/comments/1degibj/anyone_know_a_good_place_locally_to_get_some/",
+   "title": "Anyone know a good place locally to get some tints on my ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Bee+Ridge+Rd%2C+Sarasota%2C+FL",
+   "title": "THE BEST 10 CAR WINDOW TINTING NEAR BEE RIDGE ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "tommytintssrq.com",
+   "url": "https://tommytintssrq.com/window-tint/",
+   "title": "Window Tint",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/BlackoutTintingPA/videos/theres-a-new-tint-shop-in-sarasota/2371454536643521/",
+   "title": "There's a new tint shop in Sarasota! XPEL PRIME Window Film ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/sarasota/window-tinting",
+   "title": "The 10 Best Window Tinting Services in Sarasota, FL 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Tint World",
+   "domain": "tintworld.com",
+   "rating": 5,
+   "reviews": 137
+  },
+  {
+   "title": "Richie Window Tint",
+   "domain": "",
+   "rating": 5,
+   "reviews": 122
+  },
+  {
+   "title": "CERAMIC TINT PROS AND DETAILING LLC",
+   "domain": "sarasotaceramictint.com",
+   "rating": 5,
+   "reviews": 177
+  }
+ ],
+ "fetched": "2026-10-25"
+}

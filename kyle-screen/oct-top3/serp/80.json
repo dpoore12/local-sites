@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Sugar Land",
+ "state": "TX",
+ "pop": 83860,
+ "vol": 260,
+ "cpc": 6.27,
+ "lead_value": 1630,
+ "query": "pressure washing sugar land",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 37,
+ "top5_pages_min": 26,
+ "top10_pages_med": 50,
+ "top10_pages_min": 26,
+ "winner_words_med": 1668,
+ "winners_measured": 4,
+ "score": 66.9,
+ "state_full": "Texas",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/sugarland/comments/1tsyi0i/home_pressure_washing_services/",
+   "title": "Home Pressure Washing Services : r/sugarland",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "shine-windowcleaning.com",
+   "url": "https://shine-windowcleaning.com/houston-tx/service-areas/sugar-land/",
+   "title": "Sugar Land Window Cleaning and Pressure Washing",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/tx/power-washing-sugar-land-costs",
+   "title": "Power Washing in Sugar Land, TX - Costs 10 / 2026 - Homeyou",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/houstonrealestate/posts/10156398786344983/",
+   "title": "Pressure washing services in Sugar Land area? - Houston",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "zpowerwashing.net",
+   "url": "https://www.zpowerwashing.net/",
+   "title": "Pressure Washing Sugarland Services for Homes, Roofs ...",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/600404576788960/posts/2735423359953727/",
+   "title": "What are good power washing companies in Sugarland, TX?",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/questions/loc/sugar-land-tx/soft-wash-services",
+   "title": "Best Soft Wash Services in Sugar Land, TX",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/pressure-washing-sugar-land-tx-sugar-land-tx/",
+   "title": "Pressure Washing Sugar Land Tx",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "tiptoppressurewasher.com",
+   "url": "https://tiptoppressurewasher.com/sugar-land/",
+   "title": "Professional pressure washing Services Expert s in Sugar ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Pressure Washing Sugar Land",
+   "domain": "pressurewashingsugarland.com",
+   "rating": 5,
+   "reviews": 28
+  },
+  {
+   "title": "Revive Power Washing Services",
+   "domain": "revivepowerwashingservices.com",
+   "rating": 5,
+   "reviews": 381
+  },
+  {
+   "title": "Power Pressure Wash & Striping",
+   "domain": "keepingtexasclean.com",
+   "rating": 5,
+   "reviews": 823
+  }
+ ],
+ "fetched": "2026-10-25"
+}

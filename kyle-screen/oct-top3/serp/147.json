@@ -1,0 +1,88 @@
+{
+ "niche": "chimney sweep",
+ "city": "Spartanburg",
+ "state": "SC",
+ "pop": 37647,
+ "vol": 90,
+ "cpc": 28.92,
+ "lead_value": 2603,
+ "query": "chimney sweep spartanburg",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 308.0,
+ "top5_pages_min": 217,
+ "top10_pages_med": 217,
+ "top10_pages_min": 185,
+ "winner_words_med": 748,
+ "winners_measured": 3,
+ "score": 40.4,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "blessyourhearth.com",
+   "url": "https://blessyourhearth.com/light-my-fire/",
+   "title": "Lighting Gas Logs - Spartanburg SC",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/sc/spartanburg/category/chimney-service",
+   "title": "Chimney Services near Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/sc/spartanburg/chimney-caps.htm",
+   "title": "Top 10 Best Chimney cap pros in Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "chimneycleaningspartanburgsc.com",
+   "url": "https://chimneycleaningspartanburgsc.com/fireplace-cleaning/",
+   "title": "We Respect Your Home! - Fireplace Cleaning Spartanburg SC",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Fireplace+Services&find_loc=Spartanburg%2C+SC",
+   "title": "TOP 10 BEST Fireplace Services in Spartanburg, SC",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/south-carolina/a-clean-sweep-by-stricklands-354589145",
+   "title": "A Clean Sweep By Stricklands - Spartanburg",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "advancedchimneysweep.com",
+   "url": "https://advancedchimneysweep.com/greenville/chimney-cleaning/",
+   "title": "Chimney Cleaning In Greenville, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "local.yahoo.com",
+   "url": "https://local.yahoo.com/info-13416278-spartanburg-air-duct-chimney-cleaning-spartanburg",
+   "title": "Spartanburg Air Duct Cleaning",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/south-carolina/md-chimney-sweeps-365439393",
+   "title": "MD Chimney Sweeps, 315 Fort Shoals Rd, Woodruff, SC ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [],
+ "fetched": "2026-10-25"
+}

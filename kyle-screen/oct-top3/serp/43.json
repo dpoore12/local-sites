@@ -1,0 +1,107 @@
+{
+ "niche": "paintless dent repair",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 390,
+ "cpc": 9.36,
+ "lead_value": 3650,
+ "query": "paintless dent repair marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 77,
+ "top5_pages_min": 8,
+ "top10_pages_med": 52,
+ "top10_pages_min": 8,
+ "winner_words_med": 757,
+ "winners_measured": 4,
+ "score": 81,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=mobiledentrepair&find_loc=Marietta%2C+GA",
+   "title": "THE BEST 10 MOBILE DENT REPAIR IN MARIETTA, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "finishprosautopaint.com",
+   "url": "https://finishprosautopaint.com/paintless-dent-repair/",
+   "title": "Paintless Dent Repair in Marietta & Dallas | Finish Pros",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "dentvanishatlanta.com",
+   "url": "https://dentvanishatlanta.com/",
+   "title": "Dent Vanish Atlanta: Home",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/dentvanishatlanta/",
+   "title": "Dent Vanish | Marietta GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "carstar.com",
+   "url": "https://www.carstar.com/locations/ga/marietta-15826/paintless-dent-repair/",
+   "title": "Paintless Dent Repair in Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "goldentouchrepair.com",
+   "url": "https://goldentouchrepair.com/",
+   "title": "Golden Touch PDR, Paintless Dent Repair, Marietta GA",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "atlantadings.com",
+   "url": "https://atlantadings.com/marietta-ga/",
+   "title": "Marietta, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/premier-dent-removal-marietta",
+   "title": "PREMIER DENT REMOVAL - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "carwise.com",
+   "url": "https://www.carwise.com/auto-body-shops/finish-pros-marietta-marietta-ga-30067/572695",
+   "title": "Finish Pros Marietta - Auto Body Shops",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dent Vanish",
+   "domain": "dentvanishatlanta.com",
+   "rating": 5,
+   "reviews": 435
+  },
+  {
+   "title": "Premier Dent Removal",
+   "domain": "premierdentremoval.com",
+   "rating": 5,
+   "reviews": 92
+  },
+  {
+   "title": "Dent Magician",
+   "domain": "",
+   "rating": 5,
+   "reviews": 63
+  }
+ ],
+ "fetched": "2026-10-25"
+}

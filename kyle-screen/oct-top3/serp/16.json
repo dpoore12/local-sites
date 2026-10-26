@@ -1,0 +1,100 @@
+{
+ "niche": "window tinting",
+ "city": "Bradenton",
+ "state": "FL",
+ "pop": 51763,
+ "vol": 480,
+ "cpc": 11.75,
+ "lead_value": 5640,
+ "query": "window tinting bradenton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 14.5,
+ "top5_pages_min": 11,
+ "top10_pages_med": 14,
+ "top10_pages_min": 7,
+ "winner_words_med": 936,
+ "winners_measured": 4,
+ "score": 91,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworxfl.com",
+   "url": "https://www.tintworxfl.com/",
+   "title": "Car Window Tint & Truck Accessories Shop | Tint Worx ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Bradenton%2C+FL",
+   "title": "THE BEST 10 CAR WINDOW TINTING IN BRADENTON, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "mjtint.com",
+   "url": "https://mjtint.com/",
+   "title": "MJ Tint \u2013 Sarasota's Premier Vehicle Tinting and Protection ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "dmwintint.com",
+   "url": "https://dmwintint.com/",
+   "title": "Window Tinting Bradenton FL | Ceramic & Carbon Tint ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "windowgenie.com",
+   "url": "https://www.windowgenie.com/bradenton/window-tinting/home-window-tinting/",
+   "title": "Home Window Tinting Bradenton",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "cuttingedgewindowtinting.com",
+   "url": "https://cuttingedgewindowtinting.com/",
+   "title": "Cutting Edge Window Tinting | Bradenton FL - Home",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "vibemobiletinting.com",
+   "url": "https://www.vibemobiletinting.com/",
+   "title": "Vibe mobile tinting V.M.T",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "totaleclipsetint.com",
+   "url": "https://www.totaleclipsetint.com/",
+   "title": "Total Eclipse LLC | Window Tinting in Bradenton Florida ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dark Mode Window Tint",
+   "domain": "dmwintint.com",
+   "rating": 5,
+   "reviews": 164
+  },
+  {
+   "title": "WindowTinting941",
+   "domain": "facebook.com",
+   "rating": 5,
+   "reviews": 108
+  },
+  {
+   "title": "Tint Worx of Florida",
+   "domain": "tintworxfl.com",
+   "rating": 4.9,
+   "reviews": 210
+  }
+ ],
+ "fetched": "2026-10-25"
+}

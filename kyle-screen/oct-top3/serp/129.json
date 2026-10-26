@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Sanford",
+ "state": "FL",
+ "pop": 56002,
+ "vol": 110,
+ "cpc": 15.92,
+ "lead_value": 1751,
+ "query": "pressure washing sanford",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 183,
+ "top5_pages_min": 44,
+ "top10_pages_med": 183,
+ "top10_pages_min": 44,
+ "winner_words_med": 1146,
+ "winners_measured": 3,
+ "score": 50.7,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "hobbieprofessionalservices.com",
+   "url": "https://www.hobbieprofessionalservices.com/sanford-florida-pressure-washing",
+   "title": "Sanford Florida Pressure Washing | Hobbie Services",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "jimmysbincleaning.com",
+   "url": "https://jimmysbincleaning.com/pressure-washing-sanford-fl",
+   "title": "Sanford Pressure Washing & Soft Wash - Jimmy's Bin Cleaning",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/topics/pressure-washing/sanford/fl",
+   "title": "Pressure Washing in Sanford, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "eddiespressurewashing.com",
+   "url": "https://eddiespressurewashing.com/house-washing-in-sanford-1",
+   "title": "House Washing in Sanford, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/283705025423581/posts/2079620452498687/",
+   "title": "What is a good pressure washer company in the Sanford ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "yellowpages.com",
+   "url": "https://www.yellowpages.com/sanford-fl/d-n-k-inc-pressure-cleaning",
+   "title": "D nk inc pressure cleaning in Sanford, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "falconexteriorsolutions.com",
+   "url": "https://falconexteriorsolutions.com/pages/pressure-washing-sanford-fl",
+   "title": "Pressure Washing & Soft Wash Sanford",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/total-works-pressure-cleaning-sanford",
+   "title": "TOTAL WORKS PRESSURE CLEANING - Sanford, Florida",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "jbcpressurewashings.com",
+   "url": "https://jbcpressurewashings.com/pressure-washing-sanford-fl/",
+   "title": "Pressure Washing Sanford FL | Historic Downtown | JBC",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Eddie's Pressure Washing LLC",
+   "domain": "eddiespressurewashing.com",
+   "rating": 5,
+   "reviews": 341
+  },
+  {
+   "title": "The Wash Experts | Pressure Washing & Window Cleaning",
+   "domain": "thewashexpertsllc.com",
+   "rating": 4.9,
+   "reviews": 102
+  },
+  {
+   "title": "Simple Solutions Exterior Cleaning",
+   "domain": "neilsoncleaning.com",
+   "rating": 5,
+   "reviews": 222
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "dumpster rental",
+ "city": "Sarasota",
+ "state": "FL",
+ "pop": 53326,
+ "vol": 480,
+ "cpc": 13.73,
+ "lead_value": 6590,
+ "query": "dumpster rental sarasota",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 136.0,
+ "top5_pages_min": 26,
+ "top10_pages_med": 136,
+ "top10_pages_min": 26,
+ "winner_words_med": 1001,
+ "winners_measured": 4,
+ "score": 59,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "sarasotadumpsterrental.com",
+   "url": "https://sarasotadumpsterrental.com/how-it-works-rent-a-dumpster/",
+   "title": "Rent A Dumpster in Sarasota | Quick & Easy ...",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Residential+Dumpster+Rental&find_loc=Sarasota%2C+FL",
+   "title": "TOP 10 BEST Residential Dumpster Rental in Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/sarasotadumpsterrental/",
+   "title": "Sarasota Dumpster Rental",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "sarasotadumpsterrental.com",
+   "url": "https://sarasotadumpsterrental.com/residential-dumpster-rental/roll-off-dumpster-sizes-sarasota/",
+   "title": "Roll-Off Dumpster Sizes Sarasota | Affordable Pricing",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/dumpstermaxx-sarasota-376425587",
+   "title": "Dumpstermaxx - Sarasota, 2123 University Pkwy, Ste 103, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "nationwidewasteservice.com",
+   "url": "https://nationwidewasteservice.com/sarasota-dumpster-rental/",
+   "title": "Dumpster Rental Sarasota, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Dumpster+Rental&find_loc=Sarasota%2C+FL",
+   "title": "TOP 10 BEST Dumpster Rental in Sarasota, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/dumpster-rental-prices-sarasota/",
+   "title": "Dumpster Rental Prices Sarasota",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "dumpstercontrols.io",
+   "url": "https://dumpstercontrols.io/directory/florida/sarasota",
+   "title": "Dumpster Rental Companies in Sarasota, FL",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Sarasota Dumpster Rental",
+   "domain": "sarasotadumpsterrental.com",
+   "rating": 5,
+   "reviews": 69
+  },
+  {
+   "title": "Alpha Dumpsters",
+   "domain": "alphadumpsters.com",
+   "rating": 4.9,
+   "reviews": 10
+  },
+  {
+   "title": "VaVia Dumpster Rental Sarasota",
+   "domain": "govavia.com",
+   "rating": 5,
+   "reviews": 16
+  }
+ ],
+ "fetched": "2026-10-25"
+}

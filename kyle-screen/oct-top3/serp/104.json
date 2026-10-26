@@ -1,0 +1,107 @@
+{
+ "niche": "junk removal",
+ "city": "Palm Coast",
+ "state": "FL",
+ "pop": 78740,
+ "vol": 590,
+ "cpc": 13.1,
+ "lead_value": 7729,
+ "query": "junk removal palm coast",
+ "name_conflict": "clean",
+ "local_in_top10": 5,
+ "directories_in_top10": 5,
+ "top5_pages_med": 398.0,
+ "top5_pages_min": 7,
+ "top10_pages_med": 7,
+ "top10_pages_min": 6,
+ "winner_words_med": 464,
+ "winners_measured": 3,
+ "score": 58,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "goloadup.com",
+   "url": "https://goloadup.com/palm-coast/debris-removal/?srsltid=AYCX9vIfRSRwcNZfUmcrmBpi-VX0v67SYHLjkbbVfYWVLWZVmsqb4Cy6",
+   "title": "Debris Removal in Palm Coast, FL | Pickup & Disposal",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/extremejunkremoval/posts/-who-said-junk-removal-has-to-be-a-huge-jobcall-or-text-386-627-4071-at-extreme-/1955040769276493/",
+   "title": "Junk removal in Palm Coast and Daytona Beach",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1041868839159818/posts/24635134456073258/",
+   "title": "SLS Junk Removal Services in Palm Coast and Flagler ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "palmcoast.gov",
+   "url": "https://www.palmcoast.gov/helpcenter/home/details/how-do-i-get-white-goods-and-bulk-disposal-picked-up",
+   "title": "How do I get white goods and bulk disposal picked up?",
+   "kind": "gov/edu"
+  },
+  {
+   "pos": 5,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/sam-baums-junk-removal-377706155",
+   "title": "Sam Baum's Junk Removal, Palm Coast, FL 32137, US",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/palm-coast/debris-removal-companies",
+   "title": "Debris removal professionals near Palm Coast, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/603252770445269/posts/2357165095054019/",
+   "title": "Palm Coast junk removal services for clutter and hoarding",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/fl/palm-coast/junk-removal/extreme-junk-removal/service/265827516538184771",
+   "title": "Extreme Junk Removal | Palm Coast, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "collegehunkshaulingjunk.com",
+   "url": "https://www.collegehunkshaulingjunk.com/locations/junk-removal/florida/palm-coast/",
+   "title": "Junk Removal Companies in Palm Coast, FL",
+   "kind": "national"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Extreme Junk Removal",
+   "domain": "extremejunkremoval.com",
+   "rating": 5,
+   "reviews": 270
+  },
+  {
+   "title": "A1A Junk Removal",
+   "domain": "a1ajunkremoval.com",
+   "rating": 5,
+   "reviews": 104
+  },
+  {
+   "title": "Surfside Junk Solutions LLC",
+   "domain": "surfsidejunksolutions.com",
+   "rating": 5,
+   "reviews": 336
+  }
+ ],
+ "fetched": "2026-10-25"
+}

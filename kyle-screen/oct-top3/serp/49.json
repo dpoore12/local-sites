@@ -1,0 +1,107 @@
+{
+ "niche": "septic tank pumping",
+ "city": "Hesperia",
+ "state": "CA",
+ "pop": 92147,
+ "vol": 110,
+ "cpc": 101.86,
+ "lead_value": 11205,
+ "query": "septic tank pumping hesperia",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 29,
+ "top5_pages_min": 16,
+ "top10_pages_med": 44,
+ "top10_pages_min": 16,
+ "winner_words_med": 1710,
+ "winners_measured": 4,
+ "score": 79,
+ "state_full": "California",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Septic+Tank+Pumping&find_loc=Hesperia%2C+CA+92345",
+   "title": "Best Septic Tank Pumping near Hesperia, CA 92345",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "aoseptic.com",
+   "url": "https://www.aoseptic.com/",
+   "title": "Alpha Omega Plumbing & Septic Service",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "usaseptic.com",
+   "url": "https://www.usaseptic.com/lucerne-valley/service-areas/hesperia-ca-septic-company",
+   "title": "Superior Hesperia Septic Company",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "855gotclog.com",
+   "url": "https://www.855gotclog.com/plumbing/septic-pump-out/",
+   "title": "Septic Pump Out Hesperia, CA",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/mineo-brothers-septic-service-hesperia-3",
+   "title": "MINEO BROTHERS SEPTIC SERVICE - Yelp",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "honestjohnsseptic.com",
+   "url": "https://www.honestjohnsseptic.com/septic-service-in-hesperia/",
+   "title": "Septic Service In Hesperia | Pumping, Repair & Install",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "thompsonfamilyplumbing.com",
+   "url": "https://www.thompsonfamilyplumbing.com/septic-tank-cleaning/",
+   "title": "Septic Tank Cleaning: 7 Important Maintenance Benefits",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "hesperiaseptic.com",
+   "url": "https://hesperiaseptic.com/guides/",
+   "title": "Complete Guides | Hesperia Septic",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/ca/septic-pumping-hesperia-costs",
+   "title": "Septic Pumping in Hesperia, CA - Costs 09 / 2026 - Homeyou",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Johnny Boys Pumping",
+   "domain": "johnnyboyspumpingca.com",
+   "rating": 4.8,
+   "reviews": 75
+  },
+  {
+   "title": "Alpha Omega Plumbing & Septic Services",
+   "domain": "aoseptic.com",
+   "rating": 4.6,
+   "reviews": 210
+  },
+  {
+   "title": "Roto-Rooter Plumbers and Septic Service",
+   "domain": "rotorooterhighdesert.com",
+   "rating": 4.9,
+   "reviews": 773
+  }
+ ],
+ "fetched": "2026-10-25"
+}

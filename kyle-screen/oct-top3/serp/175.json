@@ -1,0 +1,100 @@
+{
+ "niche": "dryer vent cleaning",
+ "city": "Frederick",
+ "state": "MD",
+ "pop": 66893,
+ "vol": 110,
+ "cpc": 27.03,
+ "lead_value": 2973,
+ "query": "dryer vent cleaning frederick",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 4869.0,
+ "top5_pages_min": 119,
+ "top10_pages_med": 335,
+ "top10_pages_min": 119,
+ "winner_words_med": 869,
+ "winners_measured": 3,
+ "score": 27.8,
+ "state_full": "Maryland",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "atlanticductcleaning.com",
+   "url": "https://atlanticductcleaning.com/commercial/air-duct-cleaning-frederick/",
+   "title": "Commercial Air Duct Cleaning in Frederick, MD",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "duct-cleaning.promatcher.com",
+   "url": "https://duct-cleaning.promatcher.com/cost/frederick-md-duct-cleaning-costs-prices.aspx",
+   "title": "Frederick Duct Cleaning Costs & Prices - ProMatcher.com",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "pureairllc.com",
+   "url": "https://www.pureairllc.com/frederick-county",
+   "title": "Air Duct Cleaning & Dryer Vent Cleaning in Frederick County ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "modernize.com",
+   "url": "https://modernize.com/near-me?find=dryer-vent-cleaning&location=Frederick,MD",
+   "title": "Top Dryer Vent Cleaning Pros In Frederick, MD",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "eesservicesllc.com",
+   "url": "https://www.eesservicesllc.com/dryer-vent-cleaning-frederick-mount-airy-md",
+   "title": "Dryer Vent Cleaning in Frederick & Mount Airy MD",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Air+Cleaning&find_loc=Frederick%2C+MD",
+   "title": "TOP 10 BEST Air Cleaning in Frederick, MD - Updated 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "airductcleaningfrederick.com",
+   "url": "https://airductcleaningfrederick.com/duct-cleaning-behind-drywall-frederick-md/",
+   "title": "Duct Cleaning Behind Drywall in Frederick, MD| Hidden Vent ...",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/md/prince-frederick/dryer-vent-cleaning.htm",
+   "title": "Top 10 Best Dryer vent cleaners in Prince Frederick, MD",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Dryer Vent Wizard of Greater Frederick & Columbia",
+   "domain": "dryerventwizard.com",
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "title": "Urbana Dryer Vent Cleaning",
+   "domain": "urbanadryerventcleaning.com",
+   "rating": null,
+   "reviews": null
+  },
+  {
+   "title": "Star Dryer Vent Cleaning Services & Painting Service Frederick, MD",
+   "domain": "",
+   "rating": null,
+   "reviews": null
+  }
+ ],
+ "fetched": "2026-10-25"
+}

@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Panama City",
+ "state": "FL",
+ "pop": 36877,
+ "vol": 390,
+ "cpc": 5.07,
+ "lead_value": 1977,
+ "query": "window tinting panama city",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 10,
+ "top5_pages_min": 5,
+ "top10_pages_med": 10,
+ "top10_pages_min": 5,
+ "winner_words_med": 483,
+ "winners_measured": 4,
+ "score": 89.2,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "exzactwindowtinting.com",
+   "url": "https://exzactwindowtinting.com/tesla-window-tinting-panama-city-fl/",
+   "title": "Tesla & EV Window Tinting Panama City Beach",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/2831427897174629/posts/3786882451629164/",
+   "title": "What are good reliable places to tint cars in Panama City ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/florida-window-tinting-panama-city-beach",
+   "title": "Florida Window Tinting - Panama City Beach, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "xpel.com",
+   "url": "https://www.xpel.com/installers/United_States/Florida/Panama_City?srsltid=AYCX9vJznrsSuBSvRluP8eP61f7lm08Qj_AH-JffAMGzXFZ5VdGO-Xsz",
+   "title": "XPEL Installers - Panama City, Florida - United States",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "exzactwindowtinting.com",
+   "url": "https://exzactwindowtinting.com/ceramic-coating-panama-city-fl/",
+   "title": "Ceramic Coating Panama City Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "ceramicpropcb.com",
+   "url": "https://ceramicpropcb.com/window-tint/",
+   "title": "Window Tinting in Panama City Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/TheCuttingEdgeWindowTinting/posts/2221020858707565/",
+   "title": "Professional window tinting in Panama City FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/johnnys-tint-station-panama-city",
+   "title": "JOHNNY'S TINT STATION - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/TopTintPC/posts/-were-officially-open-hey-panama-city-were-excited-to-announce-the-launch-of-top/122100326643262077/",
+   "title": "your local window tinting specialists. Whether you're ...",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "The Cutting Edge Window Tinting",
+   "domain": "tintpanamacity.com",
+   "rating": 5,
+   "reviews": 758
+  },
+  {
+   "title": "Tinted Up 850",
+   "domain": "tintedup850.com",
+   "rating": 5,
+   "reviews": 191
+  },
+  {
+   "title": "Tintopia",
+   "domain": "tntopia.com",
+   "rating": 5,
+   "reviews": 105
+  }
+ ],
+ "fetched": "2026-10-25"
+}

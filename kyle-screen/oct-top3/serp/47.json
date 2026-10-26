@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Bradenton",
+ "state": "FL",
+ "pop": 51763,
+ "vol": 320,
+ "cpc": 6.17,
+ "lead_value": 1974,
+ "query": "pressure washing bradenton",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 1,
+ "top5_pages_min": 1,
+ "top10_pages_med": 1,
+ "top10_pages_min": 1,
+ "winner_words_med": "",
+ "winners_measured": 1,
+ "score": 79.2,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "hooverpressure.com",
+   "url": "https://www.hooverpressure.com/service-areas/bradenton/",
+   "title": "Pressure Washing Services in Bradenton, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/pressurewashingbradenton.us/",
+   "title": "Pressure Washing Bradenton",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/c.powerwashing.Bradenton.FL.-14980.html",
+   "title": "Pressure Washing Services - Bradenton",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/422893276479017/posts/1357194386382230/",
+   "title": "Exterior house pressure washing services in Bradenton, FL",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "moldmunchersllc.com",
+   "url": "https://moldmunchersllc.com/articles/pressure-washing-bradenton-cost-guide-2026.html",
+   "title": "Bradenton Pressure Washing Price Guide \u2014 2026",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1014470046126448/posts/2030673344506108/",
+   "title": "Pressure washing services in Manatee County, Bradenton, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Power+Washing&find_loc=Palmetto%2C+FL+34221",
+   "title": "Best Power Washing near Palmetto, FL 34221",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "mapquest.com",
+   "url": "https://www.mapquest.com/us/florida/bradenton-pressure-washing-426837496",
+   "title": "Bradenton Pressure Washing, 3453 Estrada St, Sarasota, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "homeyou.com",
+   "url": "https://www.homeyou.com/fl/power-washing-bradenton-costs",
+   "title": "Power Washing in Bradenton, FL - Costs 08 / 2026 - Homeyou",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "ProClean Pressure Washing of Bradenton",
+   "domain": "bradentonpowerwashing.com",
+   "rating": 4.9,
+   "reviews": 51
+  },
+  {
+   "title": "Paradise Pressure Washing",
+   "domain": "paradisepressurewashing.com",
+   "rating": 4.9,
+   "reviews": 143
+  },
+  {
+   "title": "Precision Pressure Washing and Paver Sealing",
+   "domain": "precisionpressurewashingfl.com",
+   "rating": 5,
+   "reviews": 98
+  }
+ ],
+ "fetched": "2026-10-25"
+}

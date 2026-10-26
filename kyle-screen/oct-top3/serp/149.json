@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Bowling Green",
+ "state": "KY",
+ "pop": 61488,
+ "vol": 210,
+ "cpc": 8.42,
+ "lead_value": 1768,
+ "query": "window tinting bowling green",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 31080.5,
+ "top5_pages_min": 1,
+ "top10_pages_med": 32,
+ "top10_pages_min": 1,
+ "winner_words_med": 1188,
+ "winners_measured": 3,
+ "score": 39.8,
+ "state_full": "Kentucky",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "bgtintstudio.com",
+   "url": "https://bgtintstudio.com/",
+   "title": "Tint Studio | Best Window Tinting in Bowling Green, Kentucky",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/ky/bowling-green-118/",
+   "title": "Bowling Green, KY",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Bowling+Green%2C+KY",
+   "title": "THE BEST 10 CAR WINDOW TINTING IN BOWLING ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "apollowindowtint.com",
+   "url": "https://apollowindowtint.com/",
+   "title": "Apollo Window Tint | Automotive, Residential, Commercial ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Tint-Studio-100095232735002/",
+   "title": "Tint Studio | Bowling Green KY",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "retrodetailing.com",
+   "url": "https://www.retrodetailing.com/window-tinting",
+   "title": "Car Window Tinting Bowling Green, OH",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/asc.windowtinting/",
+   "title": "Asc Windowtinting",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/tint-world-bowling-green",
+   "title": "Tint World - Bowling Green, Kentucky",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/ky/bowling-green-118/car-window-tinting/",
+   "title": "Window Tinting | Bowling Green, Kentucky",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Tint Studio",
+   "domain": "bgtintstudio.com",
+   "rating": 5,
+   "reviews": 213
+  },
+  {
+   "title": "Tint World",
+   "domain": "tintworld.com",
+   "rating": 4.9,
+   "reviews": 336
+  },
+  {
+   "title": "ASC window tinting",
+   "domain": "",
+   "rating": 4.8,
+   "reviews": 66
+  }
+ ],
+ "fetched": "2026-10-25"
+}

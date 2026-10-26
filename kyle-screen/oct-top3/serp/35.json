@@ -1,0 +1,100 @@
+{
+ "niche": "junk removal",
+ "city": "Marietta",
+ "state": "GA",
+ "pop": 59089,
+ "vol": 720,
+ "cpc": 18.47,
+ "lead_value": 13298,
+ "query": "junk removal marietta",
+ "name_conflict": "clean",
+ "local_in_top10": 4,
+ "directories_in_top10": 6,
+ "top5_pages_med": 49,
+ "top5_pages_min": 49,
+ "top10_pages_med": 49,
+ "top10_pages_min": 7,
+ "winner_words_med": 606,
+ "winners_measured": 3,
+ "score": 83,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/ga/marietta/hauling.htm",
+   "title": "Top 10 Best Haulers in Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/320524347292287/posts/1021261133885268/",
+   "title": "Junk removal services available in Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "junkremovalguysofmarietta.com",
+   "url": "https://junkremovalguysofmarietta.com/contact-us/",
+   "title": "Contact Us - Junk Removal Marietta",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "junk-king.com",
+   "url": "https://www.junk-king.com/locations/cobb-county/garbage-and-trash-removal",
+   "title": "Garbage and Trash Removal Services in Marietta, GA",
+   "kind": "national"
+  },
+  {
+   "pos": 5,
+   "domain": "justjunk.com",
+   "url": "https://justjunk.com/dumpster-services-marietta",
+   "title": "Dumpster Services Marietta",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/ga/marietta/waste-and-junk-removal",
+   "title": "Junk removal professionals near Marietta, GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/678-rid-junk-marietta-ga/",
+   "title": "678 Rid Junk | Friendly & Affordable Junk Removal",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?find_desc=Waste+Removal+Companies&find_loc=Marietta%2C+GA",
+   "title": "TOP 10 BEST Waste Removal Companies in Marietta, GA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "EZ Junk Removal of Marietta",
+   "domain": "junkremovalguysofmarietta.com",
+   "rating": 5,
+   "reviews": 123
+  },
+  {
+   "title": "Stand Up Guys Junk Removal",
+   "domain": "standupguys.com",
+   "rating": 4.9,
+   "reviews": 2000
+  },
+  {
+   "title": "Junk King Cobb County",
+   "domain": "junk-king.com",
+   "rating": 4.9,
+   "reviews": 978
+  }
+ ],
+ "fetched": "2026-10-25"
+}

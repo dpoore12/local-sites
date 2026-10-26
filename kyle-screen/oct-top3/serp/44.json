@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Hilton Head Island",
+ "state": "SC",
+ "pop": 39412,
+ "vol": 90,
+ "cpc": 27.36,
+ "lead_value": 2462,
+ "query": "pressure washing hilton head island",
+ "name_conflict": "clean",
+ "local_in_top10": 7,
+ "directories_in_top10": 3,
+ "top5_pages_med": 43,
+ "top5_pages_min": 23,
+ "top10_pages_med": 33,
+ "top10_pages_min": 7,
+ "winner_words_med": 606,
+ "winners_measured": 4,
+ "score": 80.4,
+ "state_full": "South Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "windowgenie.com",
+   "url": "https://www.windowgenie.com/beaufort-county/pressure-washing-hilton-head/",
+   "title": "Pressure Washing Hilton Head",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "southerncleansc.com",
+   "url": "https://southerncleansc.com/the-best-time-to-pressure-wash/",
+   "title": "The Best Time to Pressure Wash in Hilton Head, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "suncosc.com",
+   "url": "https://suncosc.com/residential-pressure-washing-hilton-head-island-sc/",
+   "title": "Hiring a Residential Pressure Washing in Hilton Island, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/southern-shine-hilton-head-island",
+   "title": "SOUTHERN SHINE - Updated September 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/61580846564052/posts/this-is-what-we-work-with-before-the-softwash-works-its-magic-the-crew-walks-the/122125753137028218/",
+   "title": "Driveway pressure washing in Hilton Head Island and ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "southernstylesoftwash.com",
+   "url": "https://southernstylesoftwash.com/hilton-head/soft-washing/",
+   "title": "House Washing & Soft Washing Hilton Head Island, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "rollingsudspowerwashing.com",
+   "url": "https://www.rollingsudspowerwashing.com/home-pressure-washing-services-near-me-hilton-head-island-sc/",
+   "title": "Pressure Washing Services Near Me | Hilton Head Island, SC",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "nextdoor.com",
+   "url": "https://nextdoor.com/pages/prime-time-pressure-washing-hilton-head-island-sc/",
+   "title": "Prime Time Pressure Washing",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/r-cleaning-hilton-head-island",
+   "title": "R Cleaning - Hilton Head Island, SC",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Herman's Pressure Washing",
+   "domain": "hermanspressurewashing.com",
+   "rating": 5,
+   "reviews": 165
+  },
+  {
+   "title": "HHI Pressure Washing Guys",
+   "domain": "hhipressurewashingguys.com",
+   "rating": 5,
+   "reviews": 19
+  },
+  {
+   "title": "Prime Time Pressure Washing",
+   "domain": "primetimepressurewashing.co",
+   "rating": 5,
+   "reviews": 58
+  }
+ ],
+ "fetched": "2026-10-25"
+}

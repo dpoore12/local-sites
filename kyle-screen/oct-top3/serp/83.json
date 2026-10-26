@@ -1,0 +1,107 @@
+{
+ "niche": "pressure washing",
+ "city": "Asheville",
+ "state": "NC",
+ "pop": 87236,
+ "vol": 320,
+ "cpc": 10.38,
+ "lead_value": 3322,
+ "query": "pressure washing asheville",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 194,
+ "top5_pages_min": 5,
+ "top10_pages_med": 127,
+ "top10_pages_min": 5,
+ "winner_words_med": 319,
+ "winners_measured": 4,
+ "score": 66,
+ "state_full": "North Carolina",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "dabpaintingllc.com",
+   "url": "https://dabpaintingllc.com/services/power-washing-soft-washing-asheville-nc/",
+   "title": "Power Washing & Soft Washing | Paint Preperation Asheville",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "pressurewashingresource.com",
+   "url": "https://pressurewashingresource.com/community/t/newbie-from-asheville-hello/17169",
+   "title": "Newbie from Asheville. Hello!",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "homeadvisor.com",
+   "url": "https://www.homeadvisor.com/c.powerwashing.Asheville.NC.-14980.html",
+   "title": "Top-Rated Pressure Washing Services Experts in Asheville ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/fb-answers/power-washing-services-asheville-nc/",
+   "title": "Power Washing Services Asheville NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "triplewideavl.com",
+   "url": "https://www.triplewideavl.com/pressure-washing-tips/choosing-an-asheville-pressure-washing-company",
+   "title": "Choosing an Asheville Pressure Washing Company",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "wncsoftwash.com",
+   "url": "https://wncsoftwash.com/residential-pressure-washing/",
+   "title": "Residential Pressure Washing Asheville, NC",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/pressley-pressure-washing-asheville",
+   "title": "PRESSLEY PRESSURE WASHING - Updated October 2026",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/HDPWA/",
+   "title": "High Definition Pressure Washing | Asheville NC",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "valpak.com",
+   "url": "https://www.valpak.com/services/the-cleaning-dude-145733",
+   "title": "Soft Wash Roof Cleaning Asheville | Driveway Pressure ...",
+   "kind": "site"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "WNC Wash Pro's",
+   "domain": "wncwashpros.com",
+   "rating": 4.9,
+   "reviews": 2000
+  },
+  {
+   "title": "JD Power Washing of Asheville",
+   "domain": "jdpowerwashingofasheville.com",
+   "rating": 5,
+   "reviews": 67
+  },
+  {
+   "title": "Kospa Clean Power Washing",
+   "domain": "ashevillepressurewash.com",
+   "rating": 5,
+   "reviews": 257
+  }
+ ],
+ "fetched": "2026-10-25"
+}

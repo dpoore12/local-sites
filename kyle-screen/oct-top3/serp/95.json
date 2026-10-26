@@ -1,0 +1,107 @@
+{
+ "niche": "air duct cleaning",
+ "city": "Schaumburg",
+ "state": "IL",
+ "pop": 74907,
+ "vol": 260,
+ "cpc": 32.1,
+ "lead_value": 8346,
+ "query": "air duct cleaning schaumburg",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 95,
+ "top5_pages_min": 59,
+ "top10_pages_med": 169,
+ "top10_pages_min": 59,
+ "winner_words_med": 667,
+ "winners_measured": 4,
+ "score": 61,
+ "state_full": "Illinois",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "staronductcleaning.com",
+   "url": "https://staronductcleaning.com/",
+   "title": "#1 Staron Duct Cleaning | Improving indoor air quality in IL",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "cleanairwerks.com",
+   "url": "https://www.cleanairwerks.com/$199-Air-Duct-Cleaning-In-Schaumburg-Illinois-p643234634",
+   "title": "$199 Air Duct Cleaning In Schaumburg Illinois",
+   "kind": "site"
+  },
+  {
+   "pos": 3,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=airductcleaning&find_loc=Schaumburg%2C+IL",
+   "title": "THE BEST 10 AIR DUCT CLEANING IN SCHAUMBURG, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "180066ducts.com",
+   "url": "https://www.180066ducts.com/",
+   "title": "Home - Indoor Air Duct Cleaning - Chicagoland and Suburbs",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "wrightwayairductcleaning.com",
+   "url": "https://www.wrightwayairductcleaning.com/home-air-duct-cleaning-schaumburg-area/",
+   "title": "Home Air Duct Cleaning Schaumburg | Residential",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "djrcleaning.com",
+   "url": "https://www.djrcleaning.com/air-duct-cleaning/",
+   "title": "Air Duct Cleaning Schaumburg | Done Just Right, Inc ...",
+   "kind": "site"
+  },
+  {
+   "pos": 7,
+   "domain": "angi.com",
+   "url": "https://www.angi.com/companylist/us/il/schaumburg/air-duct-cleaning.htm",
+   "title": "Top 10 Best Air duct cleaners in Schaumburg, IL",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "topairhvac.com",
+   "url": "https://www.topairhvac.com/air-duct-cleaning-schaumburg-il/?srsltid=AYCX9vLMPsOO_wzOp0kfRnyUnIC9rsumq3et-TLKfTAsrY9bGpXH3BkQ",
+   "title": "Air Duct Cleaning Schaumburg IL | Flat $399 Per System",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "thumbtack.com",
+   "url": "https://www.thumbtack.com/il/schaumburg/duct-cleaning",
+   "title": "The 10 Best Duct Cleaning Services in Schaumburg, IL 2026",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "AAA Cleaning Services INC",
+   "domain": "aaacleaningservicesinc.com",
+   "rating": 5,
+   "reviews": 422
+  },
+  {
+   "title": "Indoor Air \u2013 Air Duct Cleaning - Schaumburg",
+   "domain": "180066ducts.com",
+   "rating": 4.9,
+   "reviews": 64
+  },
+  {
+   "title": "Staron Duct Cleaning LLC",
+   "domain": "staronductcleaning.com",
+   "rating": 5,
+   "reviews": 126
+  }
+ ],
+ "fetched": "2026-10-25"
+}

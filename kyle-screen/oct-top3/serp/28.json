@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Daytona Beach",
+ "state": "FL",
+ "pop": 62316,
+ "vol": 320,
+ "cpc": 6.54,
+ "lead_value": 2093,
+ "query": "window tinting daytona beach",
+ "name_conflict": "clean",
+ "local_in_top10": 6,
+ "directories_in_top10": 4,
+ "top5_pages_med": 15.5,
+ "top5_pages_min": 6,
+ "top10_pages_med": 25,
+ "top10_pages_min": 6,
+ "winner_words_med": 486,
+ "winners_measured": 3,
+ "score": 87.0,
+ "state_full": "Florida",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/212009669322949/posts/2205879869935909/",
+   "title": "Recommendations for affordable car tints | Daytona Beach, ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 2,
+   "domain": "reddit.com",
+   "url": "https://www.reddit.com/r/DaytonaBeach/comments/1gcsb43/bestworst_tint_in_the_area/",
+   "title": "Best/Worst Tint in the Area? : r/DaytonaBeach",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "ceramictouchdetailing.com",
+   "url": "https://ceramictouchdetailing.com/post/car-window-tinting-daytona-beach-ceramic-tint-protects-interiors",
+   "title": "Car Window Tinting Daytona Beach: Ceramic Tint Protects ...",
+   "kind": "site"
+  },
+  {
+   "pos": 4,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/sunblockers-daytona-beach",
+   "title": "SUNBLOCKERS - Updated October 2026 - Request a Quote",
+   "kind": "directory"
+  },
+  {
+   "pos": 5,
+   "domain": "daytonaautotint.com",
+   "url": "https://daytonaautotint.com/about",
+   "title": "Tom's Certified LLumar Shop | Daytona Beach, FL",
+   "kind": "site"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/61556532510836/?locale=en_GB",
+   "title": "Tint Monkeys Daytona Beach",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1712253085744352/posts/3425565951079715/",
+   "title": "What are good auto window tint shops in Daytona, South ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 8,
+   "domain": "tintxdesign.com",
+   "url": "https://www.tintxdesign.com/",
+   "title": "TintX Design Window Tinting | window tint | 1629 Ridgewood ...",
+   "kind": "site"
+  },
+  {
+   "pos": 9,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/1712253085744352/posts/3219439105025735/",
+   "title": "Who's the best auto tint in Ormond/Daytona area?",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Florida Tint Studio",
+   "domain": "",
+   "rating": 5,
+   "reviews": 404
+  },
+  {
+   "title": "The Window Tint Shoppe",
+   "domain": "thewindowtintshoppe.com",
+   "rating": 4.8,
+   "reviews": 180
+  },
+  {
+   "title": "Magic Tint LLC",
+   "domain": "facebook.com",
+   "rating": 4.8,
+   "reviews": 68
+  }
+ ],
+ "fetched": "2026-10-25"
+}

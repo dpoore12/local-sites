@@ -1,0 +1,107 @@
+{
+ "niche": "window tinting",
+ "city": "Warner Robins",
+ "state": "GA",
+ "pop": 72531,
+ "vol": 320,
+ "cpc": 5.44,
+ "lead_value": 1741,
+ "query": "window tinting warner robins",
+ "name_conflict": "clean",
+ "local_in_top10": 3,
+ "directories_in_top10": 7,
+ "top5_pages_med": 31086.0,
+ "top5_pages_min": 12,
+ "top10_pages_med": 924,
+ "top10_pages_min": 12,
+ "winner_words_med": 583,
+ "winners_measured": 3,
+ "score": 36.6,
+ "state_full": "Georgia",
+ "organic": [
+  {
+   "pos": 1,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/locations/ga/warner-robins-137/",
+   "title": "About Tint World\u00ae Warner Robins, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 2,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/biz/sun-shield-warner-robins",
+   "title": "Sun Shield - Warner Robins, Georgia",
+   "kind": "directory"
+  },
+  {
+   "pos": 3,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/groups/robinstogo/posts/2031612397567757/",
+   "title": "Best auto window tinting in Warner Robins?",
+   "kind": "directory"
+  },
+  {
+   "pos": 4,
+   "domain": "shadeofday.com",
+   "url": "https://www.shadeofday.com/",
+   "title": "Shade of Day Window Tinting: Window Tinting in Warner ...",
+   "kind": "site"
+  },
+  {
+   "pos": 5,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/PrivacyProTinting/",
+   "title": "Privacy Pro Tinting | Warner Robins GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 6,
+   "domain": "facebook.com",
+   "url": "https://www.facebook.com/p/Mirror-Image-Window-Tint-100088563360630/",
+   "title": "Mirror Image Window Tint | Kathleen GA",
+   "kind": "directory"
+  },
+  {
+   "pos": 7,
+   "domain": "tintworld.com",
+   "url": "https://www.tintworld.com/retail-service-for-window-tinting-warner-robins-ga/",
+   "title": "Retail Service for Window Tinting | Warner Robins, GA",
+   "kind": "site"
+  },
+  {
+   "pos": 8,
+   "domain": "yelp.com",
+   "url": "https://www.yelp.com/search?cflt=carwindowtinting&find_loc=Warner+Robins%2C+GA",
+   "title": "THE BEST 10 CAR WINDOW TINTING IN WARNER ...",
+   "kind": "directory"
+  },
+  {
+   "pos": 9,
+   "domain": "bbb.org",
+   "url": "https://www.bbb.org/us/ga/warner-robins/category/window-tinting/accredited",
+   "title": "BBB Accredited Window Tinting near Warner Robins, GA",
+   "kind": "directory"
+  }
+ ],
+ "map_pack": [
+  {
+   "title": "Sun Shield Auto Trim",
+   "domain": "",
+   "rating": 4.6,
+   "reviews": 165
+  },
+  {
+   "title": "Tint Pro",
+   "domain": "facebook.com",
+   "rating": 4.9,
+   "reviews": 336
+  },
+  {
+   "title": "Privacy Pro Tinting",
+   "domain": "facebook.com",
+   "rating": 4.9,
+   "reviews": 75
+  }
+ ],
+ "fetched": "2026-10-25"
+}
