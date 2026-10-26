@@ -1,0 +1,166 @@
+[
+  {
+    "index": 36,
+    "domain": "curbwaste.com",
+    "add_url": "none (no add/claim/edit link on profiles or on /network; only 'Get Demo'/'Get Started' to https://www.curbwaste.com/contact-us)",
+    "free": "unclear",
+    "street_address": "not asked",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "no",
+    "notes": "Directory is built by CurbWaste (hauler software vendor) itself; profiles include landfills and government districts plus employee counts, and the sample shows a Yelp URL, so data looks pulled from Yelp/business-data sources. Some profiles show city-only addresses (e.g. Integrated Botanics: 'Mansfield, Texas'), but there is no self-serve way to add or edit one.",
+    "evidence": [
+      "https://www.curbwaste.com/company-profiles-network/fort-lauderdale-dumpsters-by-precision-disposal",
+      "https://www.curbwaste.com/network",
+      "https://curbwaste.com/company-profiles-network/integrated-botanics"
+    ]
+  },
+  {
+    "index": 37,
+    "domain": "wastebits.com",
+    "add_url": "https://locator.wastebits.com/listing-request",
+    "free": "yes",
+    "street_address": "required",
+    "hide_address": "no",
+    "verification": "manual review ('We review every request before anything is published'); method not described",
+    "needs_account": "no",
+    "notes": "The add form says Wastebits NO LONGER ACCEPTS businesses that mainly offer dumpster rental or junk removal, so a dumpster SAB is likely refused. Sample listing URL returned 404 to fetch; edits go through a separate update-request form.",
+    "evidence": [
+      "https://locator.wastebits.com/listing-request",
+      "https://locator.wastebits.com/listing-request/update/49764",
+      "https://locator.wastebits.com/",
+      "https://go.wastebits.com/new-listing"
+    ]
+  },
+  {
+    "index": 38,
+    "domain": "wasterecyclingworkersweek.org",
+    "add_url": "https://wasterecyclingworkersweek.org/get-listed/",
+    "free": "no (only option shown is a Featured Listing at $99/service/month, paid at checkout; no free tier stated)",
+    "street_address": "required",
+    "hide_address": "no",
+    "verification": "unclear (form collects email, phone and SMS consent; no claim/verification process described)",
+    "needs_account": "no",
+    "notes": "The 'Claim Your Listing' link on listings goes to the same paid get-listed form. Existing unpaid listings (like the sample) show full street address; the page does not say where that data came from.",
+    "evidence": [
+      "https://wasterecyclingworkersweek.org/get-listed/",
+      "https://wasterecyclingworkersweek.org/business-directory/palm-bay-dumpster-rentals-by-precision-disposal/",
+      "https://wasterecyclingworkersweek.org/listing/"
+    ]
+  },
+  {
+    "index": 39,
+    "domain": "dumpster.co",
+    "add_url": "none on dumpster.co (no add/claim/partner link in header, footer, listing or terms); site is 'Powered by ZTERS', whose hauler route is the Premier Service Provider program at https://zters.com/premier-service-provider (call or quote form), but no link between that and dumpster.co profiles is stated",
+    "free": "unclear",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "Lead-gen site that routes callers to its own number (866-946-8519). Sample profile shows a PO Box (PO Box 884, Gulf Breeze) instead of a street address, so street address does not appear mandatory for display; data source not stated.",
+    "evidence": [
+      "https://dumpster.co/coastal-container/",
+      "https://dumpster.co/",
+      "https://dumpster.co/terms-conditions/",
+      "https://zters.com/premier-service-provider"
+    ]
+  },
+  {
+    "index": 40,
+    "domain": "findtrashremoval.com",
+    "add_url": "claim only: https://dashboard.findtrashremoval.com/claim?listing=<id> (no add-new-listing option found; Contact Us at https://findtrashremoval.com/contact/)",
+    "free": "freemium (Basic free: name, address, phone, hours; Premium $10/mo: priority placement, photos, offers, no competitor ads on page)",
+    "street_address": "unclear (not asked on any visible form; Basic plan description lists 'business name and address')",
+    "hide_address": "unclear",
+    "verification": "email only (4-digit code to email to sign in/create account); no ownership check described",
+    "needs_account": "yes",
+    "notes": "Listings appear auto-created from Google Maps data (Google category 'Garbage dump', Google Maps coordinates), though the site does not state a source. Only route for a business not already listed is the contact page.",
+    "evidence": [
+      "https://findtrashremoval.com/Florida/East-Milton-C--D-Landfill-43235954114/",
+      "https://dashboard.findtrashremoval.com/claim?listing=43235954114",
+      "https://findtrashremoval.com/advertise/",
+      "https://findtrashremoval.com/"
+    ]
+  },
+  {
+    "index": 41,
+    "domain": "dumpsterrentalguide.com",
+    "add_url": "none ('For Providers' and 'List Your Business' links both point to '#', dead placeholders)",
+    "free": "unclear",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "Listings show street address, star rating, review count and a Google Maps search link, so data looks pulled from Google, but no source is stated. No working way to add or claim a listing.",
+    "evidence": [
+      "https://www.dumpsterrentalguide.com/dumpster-rental/fl/port-orange",
+      "https://www.dumpsterrentalguide.com/"
+    ]
+  },
+  {
+    "index": 42,
+    "domain": "dumpstercomparison.com",
+    "add_url": "https://www.dumpstercomparison.com/operators (Exclusive Territory application form at /#apply; profiles show 'Owner? Claim This Listing' text but no link was visible)",
+    "free": "freemium (Free: DCS score, name, address, phone; Pro $149/mo: verified badge, photos, service area map; Exclusive Territory $999/mo + $45-60 per lead)",
+    "street_address": "not asked on the application form (no street field); free tier description says it shows address",
+    "hide_address": "unclear (Pro includes a 'service area map'; no hide-address option mentioned)",
+    "verification": "unclear (says team will 'verify your business details'; method not stated)",
+    "needs_account": "unclear",
+    "notes": "Listings are auto-built from Google: profile URLs are Google place IDs (e.g. /hauler/ChIJcVtmhM1nZIgRtvGpuU_pldk) and ratings are Google reviews, so getting in for free likely needs a Google Maps listing. Only visible self-serve form is the paid territory application.",
+    "evidence": [
+      "https://www.dumpstercomparison.com/dumpster-rental/tennessee/nashville",
+      "https://www.dumpstercomparison.com/operators",
+      "https://www.dumpstercomparison.com/hauler/ChIJcVtmhM1nZIgRtvGpuU_pldk"
+    ]
+  },
+  {
+    "index": 43,
+    "domain": "needsdirt.com",
+    "add_url": "no directory add/claim page found; https://needsdirt.com/register (account) and https://needsdirt.com/post are for posting dirt jobs (Dirt Available / Dump Site / Dirt Needed), not directory listings",
+    "free": "freemium (account and posts free; paid featured placement at top of city page for haulers, dump sites, suppliers; price not shown)",
+    "street_address": "unclear (directory entries sometimes show no address; registration form not visible to fetch)",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "yes",
+    "notes": "City pages say businesses are 'Listed from public business records'; website links carry utm_campaign=gmb, so entries look pulled from Google Business Profiles. No claim link on entries.",
+    "evidence": [
+      "https://needsdirt.com/florida/pensacola",
+      "https://needsdirt.com/subscribe",
+      "https://needsdirt.com/register",
+      "https://needsdirt.com/post"
+    ]
+  },
+  {
+    "index": 44,
+    "domain": "rentadumpster.co",
+    "add_url": "https://rentadumpster.co/for-haulers/ (sign up at https://rentadumpster.co/haulers/login/?signup=1, then claim or add)",
+    "free": "yes to claim/list ('Free to list', 'Claiming a listing is free'); paid model unstated (FAQ shows an unfilled '[PRICING_MODEL]' placeholder)",
+    "street_address": "unclear (new listings ask for 'Company name, phone, yard location'; not stated whether that must be a street address)",
+    "hide_address": "unclear (no toggle mentioned, but public listings show only city plus service-area towns, no street; haulers set the ZIP codes they serve)",
+    "verification": "phone (new listing 'Live once we have confirmed the number'; claims checked against the listing's phone and address); email confirmation for the account",
+    "needs_account": "yes",
+    "notes": "Most SAB-friendly of this batch: matching is by service ZIP codes and the sample listing shows no street address. Unclaimed listings are pre-loaded (8,000+ haulers), source not stated.",
+    "evidence": [
+      "https://rentadumpster.co/companies/coastal-container-37099/",
+      "https://rentadumpster.co/for-haulers/",
+      "https://rentadumpster.co/haulers/login/?signup=1"
+    ]
+  },
+  {
+    "index": 45,
+    "domain": "dumpsterlocate.com",
+    "add_url": "unclear (site blocks fetches; search snippets show an 'Add Your Business' link and 'Listing Login' under 'For Businesses' on the homepage, and a 'Claim This Listing' button on listing pages; exact URLs not visible)",
+    "free": "unclear",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear (snippets say verifying lets a company add sizes and certifications; method not shown)",
+    "needs_account": "unclear (a 'Listing Login' exists)",
+    "notes": "COULD NOT CHECK: both the sample listing and homepage returned HTTP 503 with Retry-After 604800 (bot block). Everything here comes from search-result snippets only.",
+    "evidence": [
+      "https://dumpsterlocate.com/florida/pensacola/coastal-container-pensacola",
+      "https://dumpsterlocate.com/",
+      "https://dumpsterlocate.com/colorado/brighton/blue-box-waste-service-brighton",
+      "https://dumpsterlocate.com/arizona/queen-creek/dumpster-relief-queen-creek"
+    ]
+  }
+]

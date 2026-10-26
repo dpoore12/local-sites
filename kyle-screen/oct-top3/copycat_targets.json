@@ -1,0 +1,212 @@
+[
+ {
+  "site": "bentonvilledumpsterrentalpros.com",
+  "competitor": "dumpsterrentalcrewbentonville.com",
+  "target": "dumpsterrentalcrewbentonville.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/dumpsterrentalcrewbentonville.com.json"
+ },
+ {
+  "site": "bentonvilledumpsterrentalpros.com",
+  "competitor": "martinsstucco.com",
+  "target": "martinsstucco.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/martinsstucco.com.json"
+ },
+ {
+  "site": "bentonvilledumpsterrentalpros.com",
+  "competitor": "gravitydumpsterrentals.com",
+  "target": "gravitydumpsterrentals.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/gravitydumpsterrentals.com.json"
+ },
+ {
+  "site": "dryerventcleaningocala.com",
+  "competitor": "airfreshexperts.com",
+  "target": "airfreshexperts.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/airfreshexperts.com.json"
+ },
+ {
+  "site": "dryerventcleaningocala.com",
+  "competitor": "budsairocala.com",
+  "target": "budsairocala.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/budsairocala.com.json"
+ },
+ {
+  "site": "dryerventcleaningocala.com",
+  "competitor": "ocaladrymaster.com",
+  "target": "ocaladrymaster.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/ocaladrymaster.com.json"
+ },
+ {
+  "site": "mariettaairductcleaningpros.com",
+  "competitor": "airductcleaningga.com",
+  "target": "airductcleaningga.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/airductcleaningga.com.json"
+ },
+ {
+  "site": "mariettaairductcleaningpros.com",
+  "competitor": "ductorcleanair.com",
+  "target": "ductorcleanair.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/ductorcleanair.com.json"
+ },
+ {
+  "site": "mariettaairductcleaningpros.com",
+  "competitor": "advantaclean.com",
+  "target": "https://www.advantaclean.com/marietta-ga/",
+  "mode": "prefix",
+  "file": "copycat_raw/advantaclean.com.json"
+ },
+ {
+  "site": "windowtintingbradenton.com",
+  "competitor": "tintworxfl.com",
+  "target": "tintworxfl.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/tintworxfl.com.json"
+ },
+ {
+  "site": "windowtintingbradenton.com",
+  "competitor": "mjtint.com",
+  "target": "mjtint.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/mjtint.com.json"
+ },
+ {
+  "site": "windowtintingbradenton.com",
+  "competitor": "dmwintint.com",
+  "target": "dmwintint.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/dmwintint.com.json"
+ },
+ {
+  "site": "wellingtondumpsterrentalpros.com",
+  "competitor": "wellingtondumpsterrental.com",
+  "target": "wellingtondumpsterrental.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/wellingtondumpsterrental.com.json"
+ },
+ {
+  "site": "wellingtondumpsterrentalpros.com",
+  "competitor": "langleydumpsters.com",
+  "target": "langleydumpsters.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/langleydumpsters.com.json"
+ },
+ {
+  "site": "wellingtondumpsterrentalpros.com",
+  "competitor": "precisiondisposal.us",
+  "target": "precisiondisposal.us",
+  "mode": "subdomains",
+  "file": "copycat_raw/precisiondisposal.us.json"
+ },
+ {
+  "site": "biloxidumpsterrentalpros.com",
+  "competitor": "gulfwidewaste.com",
+  "target": "gulfwidewaste.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/gulfwidewaste.com.json"
+ },
+ {
+  "site": "biloxidumpsterrentalpros.com",
+  "competitor": "rubleinvestments.com",
+  "target": "rubleinvestments.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/rubleinvestments.com.json"
+ },
+ {
+  "site": "biloxidumpsterrentalpros.com",
+  "competitor": "alphadumpsters.com",
+  "target": "alphadumpsters.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/alphadumpsters.com.json"
+ },
+ {
+  "site": "schaumburgairductcleaningpros.com",
+  "competitor": "staronductcleaning.com",
+  "target": "staronductcleaning.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/staronductcleaning.com.json"
+ },
+ {
+  "site": "schaumburgairductcleaningpros.com",
+  "competitor": "cleanairwerks.com",
+  "target": "cleanairwerks.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/cleanairwerks.com.json"
+ },
+ {
+  "site": "schaumburgairductcleaningpros.com",
+  "competitor": "180066ducts.com",
+  "target": "180066ducts.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/180066ducts.com.json"
+ },
+ {
+  "site": "northmiamiseptictankpumpingpros.com",
+  "competitor": "caraballoexpress.com",
+  "target": "caraballoexpress.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/caraballoexpress.com.json"
+ },
+ {
+  "site": "northmiamiseptictankpumpingpros.com",
+  "competitor": "septictank.com",
+  "target": "septictank.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/septictank.com.json"
+ },
+ {
+  "site": "northmiamiseptictankpumpingpros.com",
+  "competitor": "abetteraimseptic.com",
+  "target": "abetteraimseptic.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/abetteraimseptic.com.json"
+ },
+ {
+  "site": "wheatonairductcleaningpros.com",
+  "competitor": "djrcleaning.com",
+  "target": "djrcleaning.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/djrcleaning.com.json"
+ },
+ {
+  "site": "wheatonairductcleaningpros.com",
+  "competitor": "saiairductclean.com",
+  "target": "saiairductclean.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/saiairductclean.com.json"
+ },
+ {
+  "site": "wheatonairductcleaningpros.com",
+  "competitor": "airductcleaningwheaton.com",
+  "target": "airductcleaningwheaton.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/airductcleaningwheaton.com.json"
+ },
+ {
+  "site": "pensacoladumpsterrentalpros.com",
+  "competitor": "coastalcontainer.com",
+  "target": "coastalcontainer.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/coastalcontainer.com.json"
+ },
+ {
+  "site": "pensacoladumpsterrentalpros.com",
+  "competitor": "dumpsterwerks.com",
+  "target": "dumpsterwerks.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/dumpsterwerks.com.json"
+ },
+ {
+  "site": "pensacoladumpsterrentalpros.com",
+  "competitor": "ecosouthservices.com",
+  "target": "ecosouthservices.com",
+  "mode": "subdomains",
+  "file": "copycat_raw/ecosouthservices.com.json"
+ }
+]

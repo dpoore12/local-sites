@@ -1,0 +1,194 @@
+[
+  {
+    "index": 24,
+    "domain": "prosonrecord.com",
+    "add_url": "unclear",
+    "free": "unclear",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "NOT CHECKED: the site returned HTTP 429 (Too Many Requests) on both fetch attempts of the sample listing. Web search (including site:prosonrecord.com) returned no indexed pages from the domain.",
+    "evidence": ["https://www.prosonrecord.com/pro/sai-air-duct-glenview-il"]
+  },
+  {
+    "index": 25,
+    "domain": "hvacservice.io",
+    "add_url": "https://hvacservice.io/list-your-business",
+    "free": "yes (claim is free, 'No credit card required'; terms say paid listing tiers 'may' be offered, none priced)",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear (claims 'approved within 1 business day'; method not stated)",
+    "needs_account": "unclear (terms: 'you may need to create an account' for certain features)",
+    "notes": "Listings are auto-built from Google Maps (About page: a business 'appears automatically if it's listed on Google Maps'; sample links Google placeid). The claim/add form loads by JavaScript, so its fields could not be read; the claim page shows the full street address and has no hide option visible.",
+    "evidence": [
+      "https://hvacservice.io/fl/ocala/air-fresh-dryer-vent-and-duct-cleaning",
+      "https://hvacservice.io/list-your-business",
+      "https://hvacservice.io/about",
+      "https://hvacservice.io/terms-of-service"
+    ]
+  },
+  {
+    "index": 26,
+    "domain": "homeservicebase.com",
+    "add_url": "none",
+    "free": "n/a (not a directory; paid market-intelligence SaaS, $39-$599/mo for subscribers)",
+    "street_address": "not asked",
+    "hide_address": "n/a (mirrors Google: profiles that hide their street address on Google show as 'without listed address' service-area businesses)",
+    "verification": "none (no add or claim process)",
+    "needs_account": "n/a",
+    "notes": "Data is crawled from Google Business Profiles (plus websites, WHOIS, ad libraries). The sample URL is a subscriber keyword-research page, not a listing; the only business-facing action is a 'Contribute' button for data corrections.",
+    "evidence": [
+      "https://homeservicebase.com/air-duct-cleaning-business/keywords?state=georgia&city=marietta",
+      "https://homeservicebase.com/help/business-profiles",
+      "https://homeservicebase.com/help/company-pages"
+    ]
+  },
+  {
+    "index": 27,
+    "domain": "hvacservicefast.com",
+    "add_url": "https://hvacservicefast.com/register-as-pro?new=1 (claim: https://hvacservicefast.com/register-as-pro?claim=<id>)",
+    "free": "yes ('Listing is free')",
+    "street_address": "optional (in the section marked 'Optional', no asterisk)",
+    "hide_address": "no hide toggle, but address can be left blank and a Service Area picker (cities or whole state) is built in",
+    "verification": "captcha + manual review ('Your application is reviewed before it appears'); no phone/email/document check described",
+    "needs_account": "no (no password field)",
+    "notes": "Required fields: first/last name, email, phone, services, captcha, terms consent. Existing listings come from Overture Maps/OpenStreetMap plus Google reviews and show the street address (prefilled in claim form).",
+    "evidence": [
+      "https://hvacservicefast.com/pro/72458/air-fresh-dryer-vent-and-duct-cleaning",
+      "https://hvacservicefast.com/register-as-pro?new=1",
+      "https://hvacservicefast.com/register-as-pro?claim=72458",
+      "https://hvacservicefast.com/terms"
+    ]
+  },
+  {
+    "index": 28,
+    "domain": "localcleaning.net",
+    "add_url": "no self-serve add form; new businesses via contact form https://localcleaning.net/contact/ ; claim via https://dashboard.localcleaning.net/claim?listing=<id>",
+    "free": "freemium (Basic free: name, address, phone, hours; Premium $10/mo)",
+    "street_address": "unclear (Basic listing described as 'Business name and address')",
+    "hide_address": "unclear (no option mentioned anywhere)",
+    "verification": "email 4-digit code to log in to dashboard; claim then manually 'approved' (method not stated)",
+    "needs_account": "yes for claiming (email-code dashboard account); no for the contact-form add request",
+    "notes": "Listings look auto-built from Google Business Profile data (website link carries utm_medium=google_business_profile; sample shows a mailbox-style 'STE 260-332' street address). Same network and listing IDs as localac.net and localcleaner.net.",
+    "evidence": [
+      "https://localcleaning.net/Georgia/Ductor-Clean-Air-99654709200/",
+      "https://localcleaning.net/advertise/",
+      "https://localcleaning.net/contact/",
+      "https://dashboard.localcleaning.net/"
+    ]
+  },
+  {
+    "index": 29,
+    "domain": "localac.net",
+    "add_url": "no self-serve add form; new businesses via contact form https://localac.net/contact/ ; claim via https://dashboard.localac.net/claim?listing=<id>",
+    "free": "freemium (Basic free: name, address, phone, hours; Premium $10/mo)",
+    "street_address": "unclear (Basic listing described as 'Business name and address')",
+    "hide_address": "unclear (no option mentioned anywhere)",
+    "verification": "email 4-digit code to log in to dashboard; claim then manually 'approved' (method not stated)",
+    "needs_account": "yes for claiming (email-code dashboard account); no for the contact-form add request",
+    "notes": "Same platform as localcleaning.net/localcleaner.net. Sample listing shows a mailbox-style street address ('Unit 200-96'); no data-source note on the page.",
+    "evidence": [
+      "https://localac.net/Florida/Buds-Heating-And-Air-LLC-63913998311/",
+      "https://localac.net/advertise/",
+      "https://localac.net/contact/",
+      "https://dashboard.localac.net/claim?listing=63913998311"
+    ]
+  },
+  {
+    "index": 30,
+    "domain": "localcleaner.net",
+    "add_url": "no self-serve add form; new businesses via contact form https://localcleaner.net/contact/ (assumed same as sister sites) ; claim via https://dashboard.localcleaner.net/claim?listing=<id>",
+    "free": "freemium (Basic free: name, address, phone, hours; Premium $10/mo)",
+    "street_address": "unclear (Basic listing described as 'Business name and address')",
+    "hide_address": "unclear (no option mentioned anywhere)",
+    "verification": "email 4-digit code dashboard login (same platform as localcleaning.net); claim approval method not stated",
+    "needs_account": "yes for claiming",
+    "notes": "Near-duplicate of localcleaning.net (same listing ID 99654709200, same template, same $10/mo Premium). No data-source note on the page.",
+    "evidence": [
+      "https://localcleaner.net/Georgia/Ductor-Clean-Air-99654709200/",
+      "https://localcleaner.net/advertise/"
+    ]
+  },
+  {
+    "index": 31,
+    "domain": "cleanerin.com",
+    "add_url": "https://www.cleanerin.com/signup",
+    "free": "no ($19.95 one-time listing fee; featured upgrades +$5 to +$30; 60-day money-back)",
+    "street_address": "not asked (form is only business name, website, email, password)",
+    "hide_address": "n/a (no option, but the sample listing shows only city + ZIP, no street address)",
+    "verification": "none described (paid signup; staff build the profile from your website within 1 business day)",
+    "needs_account": "yes (password on signup form)",
+    "notes": "Paid, website-based profile; sample shows 'Ocala, FL 34482' only. Same template and pricing as reputablecleaners.com.",
+    "evidence": [
+      "https://www.cleanerin.com/6351/air-fresh-dryer-vent-duct-cleaning",
+      "https://www.cleanerin.com/signup"
+    ]
+  },
+  {
+    "index": 32,
+    "domain": "reputablecleaners.com",
+    "add_url": "https://www.reputablecleaners.com/signup",
+    "free": "no ($19.95 one-time listing fee; featured upgrades +$5 to +$30; 60-day money-back)",
+    "street_address": "not asked (form is only business name, website, email, password)",
+    "hide_address": "n/a (no option, but the sample listing shows only city + ZIP, no street address)",
+    "verification": "none described (paid signup; profile built from your website)",
+    "needs_account": "yes (password on signup form)",
+    "notes": "Sister site of cleanerin.com (same template, same pricing). Sample page title says 'Miranda City, FL' while contact shows Ocala, FL 34482.",
+    "evidence": [
+      "https://www.reputablecleaners.com/7632/air-fresh-dryer-vent-duct-cleaning",
+      "https://www.reputablecleaners.com/signup"
+    ]
+  },
+  {
+    "index": 33,
+    "domain": "powerwashmaps.com",
+    "add_url": "https://powerwashmaps.com/add",
+    "free": "unclear (no price on the add form; site says paid placements exist and are labeled)",
+    "street_address": "optional (Address Line 1 has no asterisk; required: business name, category, city, state, plus email or phone)",
+    "hide_address": "unclear (no hide/service-area toggle on the form; lat/long can be set manually)",
+    "verification": "manual review 1-3 business days; submitter 'agree[s] to be contacted for verification'; license/insurance check 'when required'",
+    "needs_account": "no (form has no login; separate 'Pro Login' exists)",
+    "notes": "Existing listings appear built from Google Business Profile ('Real-time status from Google Business Profile', googleusercontent photos) and show street address. Submissions start 'unverified' until reviewed.",
+    "evidence": [
+      "https://powerwashmaps.com/carpet-floor-cleaning/clean-air-werks",
+      "https://powerwashmaps.com/add",
+      "https://powerwashmaps.com/about/verification",
+      "https://powerwashmaps.com/about/how-we-rank"
+    ]
+  },
+  {
+    "index": 34,
+    "domain": "licensedhvacnearme.com",
+    "add_url": "https://licensedhvacnearme.com/add-listing/ (requires WordPress login; claim/correct/remove also by contacting the site)",
+    "free": "unclear (FAQ: site makes money 'from providers who choose to feature or claim their listing'; no prices shown)",
+    "street_address": "unclear (form hidden behind login)",
+    "hide_address": "unclear (no option visible; sample listing shows only 'Based in Silver Springs, Marion County', no street)",
+    "verification": "listing must match an active Florida DBPR A/C contractor license (CAC/RA); claim method not stated",
+    "needs_account": "yes ('You must login to post')",
+    "notes": "Florida-only, license-gated: built from the DBPR licensee roster plus Google Maps data (Google Place ID on listing). A business without a Florida CAC/RA license can't be listed.",
+    "evidence": [
+      "https://licensedhvacnearme.com/places/buds-heating-and-air-llc/",
+      "https://licensedhvacnearme.com/add-listing/",
+      "https://licensedhvacnearme.com/faq/",
+      "https://licensedhvacnearme.com/about/",
+      "https://licensedhvacnearme.com/terms/"
+    ]
+  },
+  {
+    "index": 35,
+    "domain": "chimscout.com",
+    "add_url": "none (claim/correct only via contact form https://chimscout.com/contact/)",
+    "free": "yes ('corrections and claims are free'; no payments taken)",
+    "street_address": "not asked (no add form)",
+    "hide_address": "n/a (no option, but listings show no street address, only 'Serves Arlington Heights, IL and surrounding areas')",
+    "verification": "unclear (contact form; method not stated)",
+    "needs_account": "no",
+    "notes": "Listings auto-compiled from public Google Business Profile data 'through a commercial data feed', city by city; to get on it you need a Google Business Profile in a covered city.",
+    "evidence": [
+      "https://chimscout.com/il/arlington-heights/sai-air-duct-arlington-heights/",
+      "https://chimscout.com/about/",
+      "https://chimscout.com/contact/"
+    ]
+  }
+]

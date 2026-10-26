@@ -1,0 +1,204 @@
+[
+  {
+    "index": 12,
+    "domain": "localhomeservicepros.com",
+    "add_url": "unclear",
+    "free": "unclear",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "NOT CHECKED: the site returned HTTP 403 for both the sample listing and the homepage. Web search (exact name and site:) found no indexed pages from the domain.",
+    "evidence": [
+      "http://www.localhomeservicepros.com/mobile-al-36693/home-improvement/ecosouth-services",
+      "https://www.localhomeservicepros.com/"
+    ]
+  },
+  {
+    "index": 13,
+    "domain": "contractorsup.com",
+    "add_url": "https://www.contractorsup.com/signup",
+    "free": "no ($19.95 one-time listing fee; featured upgrade +$5 for 1 yr up to +$30 permanent; 'no subscription plans')",
+    "street_address": "not asked (signup form has only business name, website, email and password)",
+    "hide_address": "unclear (no option shown; they build the profile from your website and the sample listing shows a full street address)",
+    "verification": "none stated ('Within 1 business day we will create a ... profile for your business. All we need is your website.')",
+    "needs_account": "yes (signup takes a password; 'Sign In' and 'My Account' links)",
+    "notes": "Part of the businessesup.com network (same template as reputablebusinesses.com). The address is whatever their staff take from your website, so a site with no street address should, in principle, give a listing with no address, but that isn't confirmed. 'Update Listing' links are dead javascript links.",
+    "evidence": [
+      "https://www.contractorsup.com/22954/done-just-right",
+      "https://www.contractorsup.com/signup",
+      "https://www.contractorsup.com/contact"
+    ]
+  },
+  {
+    "index": 14,
+    "domain": "procore.com (network.procore.com)",
+    "add_url": "https://network.procore.com/signup (redirect from procore.com/network/signup); existing unclaimed pages have a 'Claim this Free Business Page' button",
+    "free": "yes (free Procore company account and business page; paid Procore software is separate)",
+    "street_address": "required (support docs: 'Address must be a street address and not a P.O. Box'; Address must be completed before Business Page Visibility settings can be managed)",
+    "hide_address": "no (no hide-address option documented; service area is set only as a list of states)",
+    "verification": "email verification for the account, then a manual 24-48 hour Procore review that the business is real, in the US or Canada, not a duplicate, and accurately described",
+    "needs_account": "yes",
+    "notes": "Unclaimed pages are pre-built from Procore customers, data vendors and public business/government filings. The sample page shows a full street address with a Google Maps link, and there is a 'make my company searchable' checkbox, but no documented way to show the page without a street address.",
+    "evidence": [
+      "https://network.procore.com/p/alpha-dumpsters-usa-llc-sarasota",
+      "https://v2.support.procore.com/product-manuals/free-procore-account/tutorials/create-a-free-procore-company-account",
+      "https://v2.support.procore.com/product-manuals/procore-construction-network/tutorials/complete-your-company-profile-for-the-procore-construction-network",
+      "https://v2.support.procore.com/en-au/product-manuals/admin-company/tutorials/manage-company-information",
+      "https://v2.support.procore.com/en-gb/faq-how-are-businesses-approved-to-be-listed-on-the-procore-construction-network",
+      "https://v2.support.procore.com/faq-where-does-business-page-data-come-from-on-the-procore-construction-network",
+      "https://v2.support.procore.com/en-gb/product-manuals/free-procore-account/tutorials/claim-your-business-on-the-procore-construction-network"
+    ]
+  },
+  {
+    "index": 15,
+    "domain": "ibegin.com",
+    "add_url": "https://www.ibegin.com/business-center/submit/ (claim: https://www.ibegin.com/business-center/claim/)",
+    "free": "yes (account is 'free'; third-party profile calls it a free directory; no prices seen)",
+    "street_address": "unclear (the submit page returned HTTP 403, so its form fields could not be read)",
+    "hide_address": "unclear",
+    "verification": "automated phone call that reads out a 4-digit code (per 2017 LocalSearchForum reports, with many complaints that it failed); not confirmed on a current official page",
+    "needs_account": "yes (Business Center pages are login-gated: 'You must be logged in before you can access this page')",
+    "notes": "The sample listing shows a full street address and carries Yext tracking pixels, so some listings are probably fed by Yext (the page doesn't say so). A data-broker opt-out site advises home-based owners to use a P.O. box on iBegin, which suggests no hide option, but this isn't confirmed.",
+    "evidence": [
+      "https://www.ibegin.com/directory/us/florida/pensacola/coastal-container-408-ditmar-street/",
+      "https://www.ibegin.com/help/",
+      "https://www.ibegin.com/business-center/claim/",
+      "https://localsearchforum.com/threads/problems-with-ibegin-phone-verification.52451/latest",
+      "https://www.optery.com/?p=26679"
+    ]
+  },
+  {
+    "index": 16,
+    "domain": "bizhwy.com",
+    "add_url": "https://www.bizhwy.com/addlisting.php",
+    "free": "freemium (free basic listing; paid 'enhancement options' offered during signup, prices not shown; paid banner ads and press releases are separate)",
+    "street_address": "required, per a 2013 Advice Local guide ('required to enter address, telephone, email, and a password' in step 2 of the form); the live step 1 only asks name, category and state",
+    "hide_address": "unclear (2013 guide says you can choose not to display the map; live listings show 'P.O. Box ...' or the word 'Serving' in place of a street, so the street line looks like free text)",
+    "verification": "email link activates the listing (per the 2013 guide); site says listings are owner-added, with no review described",
+    "needs_account": "yes (password set at signup; edits through My Account / Login)",
+    "notes": "One live Alabama listing reads 'Serving / Athens, Alabama 35614' with no street, and seven show only a P.O. Box, so a no-street listing appears possible in practice. The form steps come from a 2013 guide and may be out of date.",
+    "evidence": [
+      "https://alabama.bizhwy.com/businesses.php?c=324",
+      "https://www.bizhwy.com/addlisting.php",
+      "https://www.bizhwy.com/about.php",
+      "https://www.advicelocal.com/blog/add-business-listing-biz-hwy/"
+    ]
+  },
+  {
+    "index": 17,
+    "domain": "techdirectory.io",
+    "add_url": "https://www.techdirectory.io/get-listed (also https://www.techdirectory.io/join)",
+    "free": "unclear (homepage has an 'Account Upgrade' link at /account/upgrade, which suggests paid tiers; plan pages returned 403)",
+    "street_address": "unclear",
+    "hide_address": "yes per BrightLocal's citation list (Oct 2025: TechDirectory 'Hide Address? YES', 'Set Service Area? YES', in its UK, Canada and Australia lists); not confirmed on techdirectory.io itself",
+    "verification": "unclear",
+    "needs_account": "yes (join and login flow)",
+    "notes": "The sample listing, /get-listed and /join all returned HTTP 403; only the homepage loaded. The hide-address 'yes' rests only on BrightLocal's third-party table, and TechDirectory is not in its USA list.",
+    "evidence": [
+      "https://www.techdirectory.io/united-states/glenview/home-services/sai-air-duct",
+      "https://www.techdirectory.io/",
+      "https://www.brightlocal.com/resources/citation-sites-allow-hide-address/"
+    ]
+  },
+  {
+    "index": 18,
+    "domain": "whatsyourhours.com",
+    "add_url": "unclear",
+    "free": "unclear",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "NOT CHECKED: the site returned HTTP 403 for both the sample listing and the homepage. Web search found no indexed pages. Its URL pattern (/united-states/<city>/<category>/<slug>) matches techdirectory.io's, so it may run on the same software, but that is unconfirmed.",
+    "evidence": [
+      "https://www.whatsyourhours.com/united-states/mobile/business-services/ecosouth-services",
+      "https://www.whatsyourhours.com/"
+    ]
+  },
+  {
+    "index": 19,
+    "domain": "qdexx.com",
+    "add_url": "https://www.qdexx.com/Identity/Account/Register ('get listed'; register, then create a business profile once logged in)",
+    "free": "freemium ('All Qdexx profiles are free and ad-supported'; premium removes ads and adds a follow link and top placement, price not shown)",
+    "street_address": "unclear (the profile form is behind login; the register page asks only email, first and last name, and password)",
+    "hide_address": "unclear",
+    "verification": "unclear (none described; only visitor 'recommendations' are email-confirmed)",
+    "needs_account": "yes",
+    "notes": "Two sampled Mobile, AL profiles show full street addresses; the category page shows names only. No data-source note, so listings appear to be self-created.",
+    "evidence": [
+      "https://www.qdexx.com/US/AL/Mobile/Business%20Services/",
+      "https://www.qdexx.com/Identity/Account/Register",
+      "https://www.qdexx.com/The/Scoop/On/Qdexx",
+      "https://www.qdexx.com/US/AL/Mobile/Business%20Services/US-AL-Mobile-Business-Services-The-Port-City-Foundation-Repair-Co-The-Port-City-Foundation-Repair-Co/"
+    ]
+  },
+  {
+    "index": 20,
+    "domain": "thebuildermarket.com",
+    "add_url": "https://thebuildermarket.com/signup?type=PRO (from https://thebuildermarket.com/for-pros, 'Activate your free listing')",
+    "free": "freemium (basic listing 'zero cost. Forever.'; optional paid AI tools and premium, prices not shown)",
+    "street_address": "unclear (pro signup form fields not visible to the fetcher)",
+    "hide_address": "unclear (the company blog tells pros to fill in 'service areas', but says nothing on hiding an address)",
+    "verification": "optional VETTED badge (upload licence and insurance proof, then pass their verification); basic listing verification method not stated; signup has reCAPTCHA",
+    "needs_account": "yes",
+    "notes": "The sample category page returned HTTP 403, but the homepage and for-pros page loaded. The site claims '2+ Million Pros', and BBB reviews complain of businesses listed without consent, so listings look pre-built from an unstated source, with 'activate' acting as a claim.",
+    "evidence": [
+      "https://thebuildermarket.com/for-pros",
+      "https://thebuildermarket.com/signup?type=PRO",
+      "https://thebuildermarket.com/",
+      "https://blog.thebuildermarket.com/blog/getting-vetted-badge",
+      "https://blog.thebuildermarket.com/blog/turn-listing-into-lead-machine",
+      "https://www.bbb.org/us/ca/sonoma/profile/project-management-software/the-builder-market-1116-448053"
+    ]
+  },
+  {
+    "index": 21,
+    "domain": "myfavoritebuilder.com",
+    "add_url": "https://listings.neotecmedia.com/add-to-site/myfavoritebuilder.com (update: /update-listing/myfavoritebuilder.com; remove: /remove-listing/myfavoritebuilder.com)",
+    "free": "no ($45 one-time per listing to add or update; removal is free)",
+    "street_address": "asked (form has Street Address, City, State and Zip fields); whether it is required is not marked",
+    "hide_address": "no (no hide or service-area option on the form)",
+    "verification": "manual review 'typically within 3 business days'; payment by PayPal or card; removal needs a business-domain email (no Gmail or Outlook)",
+    "needs_account": "no (contact email only, 'for order communication only')",
+    "notes": "Run by Neotec Media (the same form serves a home-builder directory). US businesses only. Paid listings get a 'dofollow' website link. The sample listing shows a full street address and suite.",
+    "evidence": [
+      "https://www.myfavoritebuilder.com/water-damage-restoration/listing_1a47765b0ac515629a1216274c52d1a3.shtml",
+      "https://www.myfavoritebuilder.com/water-damage-restoration/",
+      "https://listings.neotecmedia.com/add-to-site/myfavoritebuilder.com"
+    ]
+  },
+  {
+    "index": 22,
+    "domain": "allthehomeservices.online",
+    "add_url": "https://allthehomeservices.online/directory/claim/ (one form for both 'Claim or update an existing listing' and 'Create a new business listing')",
+    "free": "freemium (claiming and factual listings free; paid promotion GBP 49, 149 or 299 a month)",
+    "street_address": "asked ('Business address' field; the form says 'Leave optional fields blank when no change is needed', but doesn't mark which fields are required)",
+    "hide_address": "unclear (no hide or service-area option; the data page mentions 'unsafe-public-field controls' without detail, and the free plan lists 'correction privacy and takedown routes')",
+    "verification": "manual review of a work email plus an 'evidence or official profile URL' ('We review ownership and evidence before anything changes publicly'); no phone or postcard",
+    "needs_account": "unclear (no account mentioned; the free plan includes a 'basic owner dashboard')",
+    "notes": "Listings are auto-built from unnamed 'public or approved source datasets' ('Public place listings, checked to 2026-06-17'); no Google place ID shown. It is a UK operator ('Powered by The DMA', prices in GBP), and the sample listing shows a full street address.",
+    "evidence": [
+      "https://allthehomeservices.online/directory/listings/sai-air-duct-glenview-60025-3597-us-f9e4000b/",
+      "https://allthehomeservices.online/directory/claim/",
+      "https://allthehomeservices.online/directory/data-sources/",
+      "https://allthehomeservices.online/directory/pricing/",
+      "https://allthehomeservices.online/directory/terms/"
+    ]
+  },
+  {
+    "index": 23,
+    "domain": "reputablebusinesses.com",
+    "add_url": "https://www.reputablebusinesses.com/signup",
+    "free": "no ($19.95 one-time listing fee; featured upgrade +$5 for 1 yr up to +$30 permanent)",
+    "street_address": "not asked (signup form has only business name, website, email and password)",
+    "hide_address": "unclear (no option shown; they build the profile from your website and the sample listing shows a full street address)",
+    "verification": "none stated ('Within 1 business day we will create a ... profile for your business. All we need is your website.')",
+    "needs_account": "yes (signup takes a password; 'By registering you are agreeing to our privacy and return policy')",
+    "notes": "Same businessesup.com template and pricing as contractorsup.com. The address comes from what their staff take off your website. 'Update Listing' links are dead javascript links; there is no claim link.",
+    "evidence": [
+      "https://www.reputablebusinesses.com/3841/coastal-container",
+      "https://www.reputablebusinesses.com/signup"
+    ]
+  }
+]

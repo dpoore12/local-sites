@@ -1,0 +1,27 @@
+{
+ "backlinks": [
+  {
+   "url_from": "https://www.provenexpert.com/en-us/dh-dumpster-rentals/",
+   "domain_rating_source": 91.0
+  },
+  {
+   "url_from": "https://www.curbwaste.com/company-profiles-network/d-h-dumpster-rentals",
+   "domain_rating_source": 50.0
+  },
+  {
+   "url_from": "https://www.ontimedumpsters.com/dumpster-rental/vancleave-ms/",
+   "domain_rating_source": 3.4
+  },
+  {
+   "url_from": "https://www.dandhdumpsterrental.com/dumpster-rental-pascagoula-ms/",
+   "domain_rating_source": 0.2
+  }
+ ],
+ "cost": {
+  "rows": 4,
+  "units-cost-row": 3,
+  "units-cost-total-actual": 50,
+  "units-cost-total": 50,
+  "cache": "miss"
+ }
+}

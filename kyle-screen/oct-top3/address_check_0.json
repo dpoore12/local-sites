@@ -1,0 +1,201 @@
+[
+  {
+    "index": 0,
+    "domain": "yellowpages.com",
+    "add_url": "https://www.yellowpages.com/claim-your-listing",
+    "free": "yes (basic listing free per third-party guides; paid ad products exist)",
+    "street_address": "unclear (third-party guide lists 'Business address' among the form fields but does not say it is mandatory)",
+    "hide_address": "unclear on YP's own free form; yes via listing-sync tools (Yext and Semrush both list 'Hidden Address' as supported for YP.com; Whitespark says Yellowpages lets you hide your address)",
+    "verification": "phone call with on-screen code (YP calls the number on the listing / the number you give)",
+    "needs_account": "yes",
+    "notes": "yellowpages.com returned HTTP 403 to every fetch (sample page and claim page), so the form itself was not seen; answers come from Synup's guide plus Yext/Semrush/Whitespark. Old free-signup URL adsolutions.yp.com no longer resolves.",
+    "evidence": [
+      "https://www.synup.com/how-to/claim-add-yellowpages-listing",
+      "https://www.yext.com/integrations/publishers/yp",
+      "https://www.semrush.com/kb/961-hide-my-address",
+      "https://whitespark.ca/blog/how-to-build-citations-if-you-want-to-hide-your-address/"
+    ]
+  },
+  {
+    "index": 1,
+    "domain": "bbb.org",
+    "add_url": "https://www.bbb.org/get-listed/business",
+    "free": "yes (free profile and account; accreditation is the paid product)",
+    "street_address": "required (form field 'Business street address' has no optional label; only suite/apt is optional)",
+    "hide_address": "no option on the form; but the sample profile shows only 'Mobile, AL 36610' with a blank streetAddress, so BBB does suppress street addresses on some profiles (policy not found)",
+    "verification": "unclear on the page (reCAPTCHA only); BrightLocal says BBB reps may call the business to verify before publishing and may suggest an address correction",
+    "needs_account": "yes (submitting the form creates a BBB account; claiming an existing profile goes through business login)",
+    "notes": "Form also asks contact first/last name, phone, business email, up to 3 categories. Existing profiles are claimed via 'Own this business?' -> https://www.bbb.org/all/business-resources/business-login.",
+    "evidence": [
+      "https://www.bbb.org/get-listed/business",
+      "https://www.bbb.org/get-listed",
+      "https://www.bbb.org/us/al/mobile/profile/waste-management/ecosouth-services-of-mobile-llc-0463-1000031704",
+      "https://www.brightlocal.com/learn/how-to-add-or-claim-your-better-business-bureau-listing/"
+    ]
+  },
+  {
+    "index": 2,
+    "domain": "bestprosintown.com",
+    "add_url": "https://www.bestprosintown.com/addbusiness.php",
+    "free": "freemium (add page: 'Free Basic listing - no credit card required'; paid tiers $149/yr Trusted Profile, $169/yr AI Profile with service areas, $469/yr AI Profile Plus)",
+    "street_address": "unclear ('Business Address' is a required single field; not split, so unclear whether a street line is needed or city alone is accepted)",
+    "hide_address": "no (no option on the form; 'Service areas' only appears in the paid AI Profile tier)",
+    "verification": "unclear (listing is approved by the site; method not stated; 'Approved'/'Verified' badges tied to paid tiers)",
+    "needs_account": "unclear (form asks only name, country, address, phone, website, your email; no login shown)",
+    "notes": "No data-source note on listings; existing listings have a 'Suggest an Edit' link but no claim link.",
+    "evidence": [
+      "https://www.bestprosintown.com/fl/pensacola/coastal-container-/",
+      "https://www.bestprosintown.com/addbusiness.php",
+      "https://www.bestprosintown.com/pricing.php",
+      "https://www.bestprosintown.com/ai-profile.php"
+    ]
+  },
+  {
+    "index": 3,
+    "domain": "birdeye.com",
+    "add_url": "none found for adding a new business; existing profiles are claimed with the 'Own this business' / 'Claim your free profile' button on the profile page",
+    "free": "yes (free profiles; Birdeye's paid product is its reputation/listings software)",
+    "street_address": "not asked in the claim flow (claim asks full name, phone, email, then confirm business details); sample profile shows full street address pulled from Google",
+    "hide_address": "unclear (nothing found for free profiles; a third-party help page describes a 'Hide Business Address' checkbox in what may be Birdeye's paid listings tool, not confirmed)",
+    "verification": "none found in the documented claim flow (enter name/phone/email, confirm details, 'Yes, claim now'); a Birdeye specialist may then call (sales)",
+    "needs_account": "unclear (claim flow collects name/phone/email; no separate account step documented)",
+    "notes": "Profiles appear auto-built from Google: reviews labeled 'on Google' (Google 1,488 / Birdeye 0), page carries a Google place ID link, and Birdeye's press release says profiles use the Google Places API. So a business likely needs a Google listing first to have a Birdeye profile.",
+    "evidence": [
+      "https://reviews.birdeye.com/sai-air-duct-169754944353794",
+      "https://birdeye.com/au/press/birdeye-enhances-business-profiles-by-integrating-google-reviews/",
+      "https://birdeye.helpjuice.com/review-marketing/1205233-what-are-free-profiles (HTTP 402 to fetch; claim steps read from search snippet)",
+      "https://mycrmsupport.helpjuice.com/en_US/how-to-add-service-areas-hide-address-in-listings"
+    ]
+  },
+  {
+    "index": 4,
+    "domain": "nearspotusa.com",
+    "add_url": "https://nearspotusa.com/add-business",
+    "free": "yes ('It's free to list your business')",
+    "street_address": "optional (required: business name, category, ZIP, your name, your email; street address has no asterisk)",
+    "hide_address": "no explicit option, but street address is optional, so a listing can be submitted with ZIP only",
+    "verification": "manual review before going live; contact email 'used to verify this submission' (method not stated)",
+    "needs_account": "no (submit with name + email; sign-in and 'My listings' exist for managing later)",
+    "notes": "Existing listings are auto-built from open data: footer and /about credit Overture Maps Foundation, OpenStreetMap, and the IRS Exempt Organizations file (no Google place ID). 'Claim this listing' goes to the same add-business form.",
+    "evidence": [
+      "https://nearspotusa.com/business/emerald-coast-utilities-authority-pensacola",
+      "https://nearspotusa.com/add-business",
+      "https://nearspotusa.com/about"
+    ]
+  },
+  {
+    "index": 5,
+    "domain": "provenexpert.com",
+    "add_url": "https://www.provenexpert.com/en-us/register/ (sign-up; no claim/add button on profiles)",
+    "free": "freemium (Free $0 plan: 10 displayed reviews, 100 ratings/mo; Basic $39.99/mo, Plus $79.99/mo, Premium $149.99/mo; 30-day Premium trial reverts to Free)",
+    "street_address": "unclear (register page did not render for fetch; sample profile shows full street address)",
+    "hide_address": "unclear (no help page found on address visibility)",
+    "verification": "unclear (terms describe no business verification, only that ProvenExpert may refuse registration; 'verification' on the site refers to reviews)",
+    "needs_account": "yes",
+    "notes": "Self-serve review-profile platform: profiles are created by the business itself, not scraped (sample shows 'Profile active since 09/25/2024'). Terms limit registration to companies and require truthful, complete data.",
+    "evidence": [
+      "https://www.provenexpert.com/en-us/ecosouth-services/",
+      "https://www.provenexpert.com/en-us/features-pricing/",
+      "https://www.provenexpert.com/en-us/terms-and-conditions-of-use/"
+    ]
+  },
+  {
+    "index": 6,
+    "domain": "freelistingusa.com",
+    "add_url": "https://www.freelistingusa.com/create-listing",
+    "free": "yes for basic ('You can list your business or service for free'); terms mention paid plans/featured listings that rank higher",
+    "street_address": "unclear (listing form is behind login; sample listing shows full street address)",
+    "hide_address": "unclear",
+    "verification": "unclear (claims go through login + 'claim request'; review method not stated)",
+    "needs_account": "yes ('Please login to your account to create a listing'; Google sign-in or email registration)",
+    "notes": "No data-source note on listings. Claiming an existing listing also needs login/registration first.",
+    "evidence": [
+      "https://www.freelistingusa.com/listings/ecosouth-services",
+      "https://www.freelistingusa.com/create-listing",
+      "https://www.freelistingusa.com/pre-register",
+      "https://www.freelistingusa.com/terms-conditions"
+    ]
+  },
+  {
+    "index": 7,
+    "domain": "citysquares.com",
+    "add_url": "'Add Your Business' link at the bottom of citysquares.com after sign-up (exact URL not seen; site blocks fetches)",
+    "free": "freemium (free basic listing; paid enhanced listings / priority placement, per Synup)",
+    "street_address": "required per Synup's guide (lists address among required fields)",
+    "hide_address": "unclear on the native form; yes via listing-sync tools (Yext lists 'Hidden Address' for CitySquares; Semrush lists CitySquares as a site where address can be hidden)",
+    "verification": "email confirmation of the account, then CitySquares reviews the listing (up to 24 hours)",
+    "needs_account": "yes",
+    "notes": "citysquares.com returned HTTP 403 on both fetch attempts, so the form was not seen; answers are from Synup, Advice Local, Yext and Semrush.",
+    "evidence": [
+      "https://synup.com/how-to/add-your-business-listing-citysquares/",
+      "https://www.advicelocal.com/blog/how-to-submit-a-business-listing-to-city-squares/",
+      "https://www.yext.com/integrations/publishers/citysquares",
+      "https://www.semrush.com/kb/961-hide-my-address"
+    ]
+  },
+  {
+    "index": 8,
+    "domain": "bizidex.com",
+    "add_url": "https://bizidex.com/register (then https://bizidex.com/account-profile/listing/new)",
+    "free": "freemium (Free $0 includes business address, hours, logo; Lite $5 adds map + Google indexing; Basic $99; Advanced $199)",
+    "street_address": "unclear (add form loads by JavaScript and is behind registration; Free plan lists 'Business Address' as a feature)",
+    "hide_address": "unclear (not mentioned on plans or FAQ)",
+    "verification": "email only (FAQ: activate account by clicking the link in the activation email)",
+    "needs_account": "yes",
+    "notes": "No data-source note; sample listing is marked 'Claimed' with no claim link. Bizidex homepage /en returned 404.",
+    "evidence": [
+      "https://bizidex.com/en/ecosouth-services-waste-management-598137",
+      "https://bizidex.com/plans",
+      "https://bizidex.com/faq"
+    ]
+  },
+  {
+    "index": 9,
+    "domain": "mylocalservices.com",
+    "add_url": "https://www.mylocalservices.com/list_your_business",
+    "free": "no ($2 one-time listing; first 3 categories free, extra $3 each/yr; upgrades from $3/yr; free only for charities/community groups)",
+    "street_address": "unclear (step 2 'Address and categories' not visible without submitting step 1; rate card says the $2 listing includes 'Business address' and search radius is 2 miles from it)",
+    "hide_address": "unclear on the native form; Semrush lists 'My Local Services' as a site where address can be hidden via its sync tool",
+    "verification": "moderator review before going live (about 1 business day); annual email confirmation to stay live; no phone/postcard check mentioned",
+    "needs_account": "unclear (login exists for the listing editor; not stated as required to start)",
+    "notes": "The sample listing is 'managed by Yext Inc.' and its correction page sends you to Yext, so many listings arrive via Yext feeds; a Yext pixel is on the page.",
+    "evidence": [
+      "https://www.mylocalservices.com/Coastal+Container-Pensacola-Florida-24590331.html",
+      "https://www.mylocalservices.com/list_your_business",
+      "https://www.mylocalservices.com/rate_card",
+      "https://www.mylocalservices.com/faq",
+      "https://www.mylocalservices.com/correct_business_details?originalID=24590331",
+      "https://www.semrush.com/kb/961-hide-my-address"
+    ]
+  },
+  {
+    "index": 10,
+    "domain": "bizlistusa.com",
+    "add_url": "unclear",
+    "free": "unclear (a Wytlabs citation list marks its city subdomains as free)",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "NOT CHECKED: the site is HTTP-only and WebFetch forces HTTPS, so the connection was refused (128.136.93.155:443). No search results describe its add process. Same IP and same listing ID (5428958) as businesslistus.com, so the two look like one network with one database.",
+    "evidence": [
+      "http://mobile.bizlistusa.com/business/5428958.htm (fetch refused)",
+      "https://wytlabs.com/top-citation-sites/location/us-states/"
+    ]
+  },
+  {
+    "index": 11,
+    "domain": "businesslistus.com",
+    "add_url": "unclear",
+    "free": "unclear (a Wytlabs citation list marks its city subdomains as free)",
+    "street_address": "unclear",
+    "hide_address": "unclear",
+    "verification": "unclear",
+    "needs_account": "unclear",
+    "notes": "NOT CHECKED: HTTP-only site; HTTPS connection refused (same IP 128.136.93.155 as bizlistusa.com, same listing ID 5428958). No search results describe its add process.",
+    "evidence": [
+      "http://mobilecounty.businesslistus.com/business/5428958.htm (fetch refused)",
+      "https://wytlabs.com/top-citation-sites/location/us-states/"
+    ]
+  }
+]
