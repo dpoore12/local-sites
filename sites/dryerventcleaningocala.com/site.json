@@ -18,6 +18,7 @@
   ],
   "phone_display": "(352) 723-0197",
   "phone_tel": "+13527230197",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304028530434). In the market's own area code. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -277,5 +278,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-often-should-you-clean-your-dryer-vent",
+      "h1": "How Often Should You Clean Your Dryer Vent",
+      "accent": "Once a Year, Sooner in Horse Country",
+      "photo": "assets/work-1.jpg",
+      "icon": "check",
+      "keyword": "how often to clean dryer vent",
+      "volume": 1100
+    },
+    {
+      "slug": "how-long-can-a-dryer-vent-be",
+      "h1": "How Long Can a Dryer Vent Be",
+      "accent": "Florida's 35-Foot Math",
+      "photo": "assets/work-2.jpg",
+      "icon": "wrench",
+      "keyword": "how long can a dryer vent be",
+      "volume": 450
+    }
+  ]
 }

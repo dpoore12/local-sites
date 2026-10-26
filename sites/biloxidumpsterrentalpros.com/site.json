@@ -18,6 +18,7 @@
   ],
   "phone_display": "(228) 250-0380",
   "phone_tel": "+12282500380",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number in 228, the market's own area code, bought 2026-10-25 (order 8f5ea477, number id 3078845303986587392). Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -299,5 +300,23 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-much-weight-can-a-dumpster-hold",
+      "h1": "How Much Weight Can a Dumpster Hold",
+      "accent": "Tons, Not Yards",
+      "photo": "assets/work-2.jpg",
+      "icon": "ruler",
+      "keyword": "how much weight can a dumpster hold"
+    },
+    {
+      "slug": "do-i-need-a-permit-for-a-dumpster",
+      "h1": "Do I Need a Permit for a Dumpster",
+      "accent": "The Biloxi Answer",
+      "photo": "assets/work-1.jpg",
+      "icon": "cal",
+      "keyword": "do i need a permit for a dumpster"
+    }
+  ]
 }

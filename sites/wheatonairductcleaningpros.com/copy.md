@@ -358,6 +358,8 @@ A price far below the posted local range usually means supply registers only, no
 
 Posted Chicago-area prices for one furnace system cluster from the low hundreds into the mid hundreds, with full packages that include the blower running higher. The pricing page on this site lays out the bands with the companies that published them, so you can see whether a quote is inside the range and what scope the range assumes.
 
+Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/) and [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/)
+
 ## svc_furnace_blower_cleaning_lede
 
 Furnace blower and coil cleaning in Wheaton, for the air handler that moves every cubic foot of air through the house from October into April. A caked wheel costs airflow in every room.
@@ -465,3 +467,79 @@ Because the crew and equipment are already on site, a dryer vent is commonly cle
 ### What it costs
 
 Posted Chicago-area prices for a dryer vent cleaning are mostly flat figures for any normal length, in the low hundreds. Roof exits, crushed sections and new hoods are quoted on top. The pricing page shows the posted range with the companies that published it.
+
+## q_how_long_does_duct_cleaning_take_lede
+
+Plan on a good part of the day: published estimates for a typical single-system house run from about two to five hours, and a thorough job on a larger or older Wheaton house can stretch to six to eight hours or more.
+
+## q_how_long_does_duct_cleaning_take_body
+
+### The numbers that are published
+
+NADCA, the duct cleaning trade association, does not publish a fixed time. It says the hours depend on the size of the home, the number of systems, how contaminated they are and how many technicians are on the job, and it suggests asking for a time estimate for your own system. Industry sources that do give a number land in two camps. HVAC.com puts an average cleaning at roughly two to five hours, with a small apartment taking a couple of hours and a multi-story house most of the day. An HVAC School podcast with a duct cleaning contractor put a typical residential job at six to eight hours, done properly with two people. The gap between those figures is mostly the difference between a quick pass and a whole-system cleaning.
+
+### Why a fast job should raise a question
+
+A crew that is in and out in an hour has almost certainly not cleaned the whole system. NADCA's list of what belongs in a cleaning starts with the blower motor and its housing, the heat exchanger, the cooling coil and its drain pan, then moves out through the plenum, every duct, and each register and grille. Setting up the vacuum, opening access points, working every supply and return run, pulling the blower, and then closing up and testing all takes time. Speed is not proof of skill here; it is usually proof of a smaller scope.
+
+### What adds hours in a Wheaton house
+
+**Age and layout.** Census figures put the median Wheaton home at 1976, with about 62 percent of houses built before 1980. A system that has run through around fifty heating seasons often has extra branches, abandoned runs, panned returns between floor joists and several generations of patched joints. Each of those takes longer to reach and clean than a short modern run.
+
+**Finished basements.** When the main trunk sits above a drywall ceiling, access is limited to registers and any service openings, and technicians may need to cut and later seal access holes. That slows every step.
+
+**The furnace blower.** Wheaton's nearest official weather station logs close to six thousand heating degree days in a normal year, so the blower runs much of the year and its wheel is often caked with dust. Removing and cleaning it can add a meaningful block of time on its own, which is why [furnace blower cleaning](../furnace-blower-cleaning/) is often listed separately.
+
+**A second system.** Larger houses with two furnaces are, in effect, two jobs on one visit.
+
+**Remodel dust.** After a basement or kitchen project, drywall dust packs into the return side and the blower and takes longer to remove than ordinary household dust. [Post-renovation duct cleaning](../post-renovation-duct-cleaning/) usually takes longer than a routine visit for that reason.
+
+### What the day looks like at home
+
+Expect the heating and cooling to be off while the crew works, since the system is opened and connected to the vacuum. Clear access to the furnace, every register and any return grilles before the crew arrives; moving furniture eats into the time. Ask how they will protect floors and furnishings, which the EPA says a provider should do. If someone has to be home the whole time, plan for the longer estimate rather than the shorter one.
+
+### Booking around Wheaton weather
+
+Because the system is off during the work, a cold January morning is a poor time for an all-day cleaning. Spring and early fall are easier: the house stays comfortable with the furnace down, and cleaning before the heating season means the blower starts winter clean. If the cleaning is after a remodel, book it after the sanding is finished so the work is not undone.
+
+### Getting a real estimate
+
+Ask anyone quoting the job how long they expect to be there and what that time covers: supplies only or returns too, the main trunks, the blower, the coil. A time estimate is a good check on scope, and a quote that covers the full system is easier to compare against the sourced ranges on the [pricing page](../pricing/). For the full method and what is included, see [air duct cleaning](../air-duct-cleaning/).
+
+## q_is_air_duct_cleaning_necessary_lede
+
+Not as routine upkeep, according to the EPA, which recommends cleaning ducts only when there is a reason to; in a Wheaton house those reasons do come up, most often after a remodel, with an old furnace, or when something has moved into the ductwork.
+
+## q_is_air_duct_cleaning_necessary_body
+
+### The baseline answer
+
+The EPA's position is that ducts do not need cleaning on a schedule, and that cleaning has never been shown to prevent health problems. Normal yearly maintenance, by its account, is changing filters, cleaning the coil and drain pan, and having the heating system inspected. Cleaning becomes necessary when there is something in the system that should not be there. NADCA, the trade association for duct cleaners, puts it in nearly the same terms: inspect at least once a year and clean as needed. The useful question, then, is not whether cleaning is necessary in general but whether it is necessary in this house right now. Here is how that sorts out in common Wheaton situations.
+
+### 1. Debris blowing out of the registers: necessary
+
+The EPA lists ducts clogged with excessive dust and debris, with particles released into the house from the supply registers, as one of its reasons to clean. If dust visibly puffs out when the system starts, or shows up on surfaces near the vents within a day of dusting, that is a real trigger. A dusty return grille alone is not; the EPA calls that normal, since returns pull in room air.
+
+### 2. Mice, insects or nesting material: necessary
+
+Vermin in the ducts is the second EPA trigger. Fix how they got in first, or the cleaning will not last. Droppings and nesting material call for a full [air duct cleaning](../air-duct-cleaning/) rather than a spot vacuum.
+
+### 3. Mold you can see on hard surfaces: necessary, after confirmation
+
+Substantial visible mold inside metal ducts or on other parts of the system is the third trigger. The EPA says the growth should be confirmed, that wet or moldy insulation needs to be replaced rather than cleaned, and that the moisture source must be fixed or the mold returns.
+
+### 4. A basement remodel just finished: usually necessary
+
+This is the most common Wheaton case. The city's basement remodeling guideline runs inspections through framing, rough mechanical, electrical and plumbing, insulation and a final, but taping and sanding happen after the rough inspections, and nothing on that list looks inside the ductwork. If the furnace ran while joint compound was sanded, the return side pulled the powder in, and it stays in the return trunk, blower and coil until removed. The EPA itself advises sealing registers and not running the system during dusty construction. When that did not happen, [post-renovation duct cleaning](../post-renovation-duct-cleaning/) is warranted.
+
+### 5. An old furnace and a burning-dust smell: maybe
+
+With roughly six thousand heating degree days in a normal year at O'Hare, a Wheaton blower runs most of the winter, and dust collects on the wheel. A burning smell for a few minutes on the first cold night is often that dust. Cleaning the blower may be all that is necessary, through [furnace blower cleaning](../furnace-blower-cleaning/). If the inspection instead shows a furnace near the end of its life, replacement in Wheaton is a permitted job, and the city's code requires carbon monoxide alarms when permitted work happens in a home with a fuel-fired appliance. That is a reason not to pay for a full duct cleaning right before the furnace is swapped.
+
+### 6. Allergies, or just an older house: not necessary on its own
+
+About 62 percent of Wheaton's homes were built before 1980, and their ductwork is often original, with old panned returns and patched joints. Age alone is not a reason to clean, and neither is a family member with allergies; the EPA warns against anyone promising health benefits from duct cleaning. An older system does justify an inspection, though, because its returns and abandoned branches are where problems hide.
+
+### What is necessary in every house
+
+Whatever the answer on cleaning, a few things always pay off: the highest-efficiency filter the system allows, changed on schedule, with no gaps for air to slip around it; a dry, clean drain pan; and repairs to any leaky duct joints in unconditioned spaces. Those keep the reasons for cleaning from showing up at all. If a reason does appear, the sourced cost ranges on the [pricing page](../pricing/) show what a whole-system job runs in the Chicago suburbs.

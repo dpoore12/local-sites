@@ -18,6 +18,7 @@
   ],
   "phone_display": "(941) 557-1022",
   "phone_tel": "+19415571022",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304120805127). In the market's own area code. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -309,5 +310,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-long-does-window-tinting-take",
+      "h1": "How Long Does Window Tinting Take",
+      "accent": "Hours to Install, Days to Dry",
+      "photo": "assets/work-1.jpg",
+      "icon": "shield",
+      "keyword": "how long does window tinting take",
+      "volume": 800
+    },
+    {
+      "slug": "what-is-ceramic-window-tint",
+      "h1": "What Is Ceramic Window Tint",
+      "accent": "Heat Control Without the Dark",
+      "photo": "assets/work-2.jpg",
+      "icon": "bolt",
+      "keyword": "what is ceramic window tint",
+      "volume": 600
+    }
+  ]
 }

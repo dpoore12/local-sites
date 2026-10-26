@@ -354,6 +354,8 @@ A gut job produces most of its debris in the first week, when walls, floors and 
 
 Size, rental window, tons included and the per-ton overage set the price. Renovation debris is mixed and moderately heavy, so the allowance matters more than it does on a cleanout and less than on a roof. The pricing page lays out published ranges from Coast companies alongside the local rules that move the total.
 
+Common questions: [How Much Weight Can a Dumpster Hold?](../how-much-weight-can-a-dumpster-hold/) and [Do I Need a Permit for a Dumpster?](../do-i-need-a-permit-for-a-dumpster/)
+
 ## svc_roofing_dumpster_rental_lede
 
 Dumpsters for Biloxi roof tear-offs: shingles, felt, flashing and rotten decking, sized for weight and set where the roofers can throw straight into them.
@@ -465,3 +467,82 @@ Landlords and property managers often need a container more than once a year, an
 ### What it costs
 
 Cleanouts are priced by container size and rental window more than by weight, since furniture rarely reaches the allowance. The pricing page shows the published ranges for Biloxi and the Coast, along with overage and extra-day rates for the jobs that run long.
+
+## q_how_much_weight_can_a_dumpster_hold_lede
+
+A dumpster can hold as much weight as the rental agreement includes, which on the Mississippi Coast runs from about one and a half tons on a 10-yard box to somewhere between two and five tons on the larger ones. The yardage tells you how much space you have; the included tons tell you how much of that space a heavy load can actually use.
+
+## q_how_much_weight_can_a_dumpster_hold_body
+
+### Two limits, and the one that bites first
+
+Every roll-off carries two caps. One is volume, the cubic yards printed on the side of the box. The other is weight, the tons the rental includes before an overage applies, and beyond that the load the truck is built to lift safely. For light debris, such as furniture, carpet, cardboard and cabinets, the box fills to the rim long before weight becomes a concern. For dense debris the order flips, and the weight limit arrives while most of the box is still empty.
+
+Posted allowances from haulers serving Biloxi, Gulfport and Ocean Springs show how much this varies. One Gulfport list includes about a ton and a half on its 10-yard box. An Ocean Springs list includes three tons on a 15-yard. Across the 20-yard lists the included weight runs from about two and a half tons to five, and on 30-yard boxes from two tons to three and a half. A bigger box does not always mean a bigger allowance, so compare the tons, not just the yards.
+
+### Which Biloxi jobs run heavy
+
+Three kinds of work on this coast hit the weight cap more often than anything else.
+
+**Concrete, brick and slab removal.** Breaking up a driveway, a patio or a slab foundation produces the densest load a homeowner will ever fill. One Harrison County hauler sells a 7.5-yard box, 6 feet wide and only 3 feet tall, specifically for concrete and fill material. The low walls are the point: a box that small cannot be overloaded by volume alone. More on these jobs is on the [concrete and heavy debris dumpsters](../concrete-dumpster-rental/) page.
+
+**Roof tear-offs.** Shingles are heavy for their bulk, and a wave of them is coming. From July 1, 2026 the Mississippi Insurance Department is funding roofs built to the FORTIFIED standard for eligible wind-pool policyholders, with grants up to $10,000, and every one of those roofs starts with stripping the old one. See [roofing dumpster rental](../roofing-dumpster-rental/) for sizing a tear-off.
+
+**Flood-zone elevation work.** Nearly half the land in Biloxi sits in a special flood hazard area. When repairs or improvements cost half or more of a building's market value, the city requires the whole structure to meet new-construction rules, including elevation. Those jobs often mean plaster, tile, masonry and slab coming out together, which is heavy work by any measure.
+
+### Katrina showed how much of storm debris is heavy
+
+The city's own Katrina records make the point. Six months after the storm, 1,625,112 of the 2,078,194 cubic yards hauled from Biloxi streets and rights-of-way were unburnable debris rather than vegetation. Wrecked houses are mostly masonry, drywall and fixtures, which weigh far more per yard than limbs and leaves. A storm cleanout here should be planned around weight from the start, not volume.
+
+### Clean loads weigh the same but cost less to place
+
+Mississippi rubbish rules split disposal sites into two classes. A Class II site accepts only natural vegetation and inert material such as brick, mortar, concrete, stone and asphalt. A Class I site takes mixed construction and demolition debris. Biloxi has a Class II site on Road 510 and a Class I rubbish landfill on Hudson-Krohn Road. A box of nothing but broken concrete qualifies for the simpler site; the same box with a bag of drywall scraps tossed on top does not. Keeping heavy loads clean does not make them lighter, but it keeps more disposal options open.
+
+### Loading so the truck can lift it
+
+- Spread heavy material evenly across the floor instead of piling it at one end.
+- Fill dense debris only to the line the hauler marks, even if the box looks half empty.
+- Never load above the rim; the full box still has to travel on public roads.
+- Keep the box off the ditch line, since dumping into ditches and streams violates city ordinance.
+
+### What an overweight load means for the bill
+
+Weight past the included allowance is billed per ton from the scale ticket after the box is dumped. Per-ton rates and the included tons for each size are laid out on the [pricing page](../pricing/), and larger mixed jobs are covered under [construction and renovation dumpsters](../construction-dumpster-rental/).
+
+## q_do_i_need_a_permit_for_a_dumpster_lede
+
+A roll-off set on your own driveway or lot in Biloxi is generally a private arrangement between you and the hauler, and the city's published trash and floodplain guidance names no separate container permit. The permit that usually matters is the building permit for the work producing the debris, and a box that has to sit in the street is a question to settle with the city before delivery day.
+
+## q_do_i_need_a_permit_for_a_dumpster_body
+
+### Start with the project, not the box
+
+Biloxi handles construction permits through the Community Development Department's Building Division at 676 Dr. Martin Luther King Jr. Boulevard, reachable at (228) 435-6270. Its residential building permit application covers new construction, additions and repair or renovation work, and asks for the estimated cost and the contractor's name and city license number. Staff also record the property's FEMA flood zone on the same form.
+
+That last line is why the permit question carries so much weight here. Nearly half the land in Biloxi lies in a special flood hazard area, and under the city's floodplain rules, once improvements, additions or repairs cost at least half the structure's market value, materials and labor counted, the whole building has to meet new-construction requirements, including elevation one foot above base flood. A modest remodel and a substantial improvement can look similar from the driveway, and the permit desk is where the difference is decided. Larger jobs of this kind are described on the [construction and renovation dumpsters](../construction-dumpster-rental/) page.
+
+### When the box lands in the street
+
+Not every lot in Biloxi has room for a roll-off. When the only open spot is the street or the shoulder, the box sits in public right-of-way rather than on private property. Haulers serving Biloxi generally advise that permits come into play when a container goes in the right-of-way, and that the city should be asked for the specifics. Make that call before scheduling the drop, and give the city the address, the box size and how long it will stay.
+
+### The ditch is off-limits
+
+Roadside ditches carry street runoff, and in a city this low they matter in every heavy rain. City ordinance Sec. 9-1-15 makes dumping into ditches and streams a violation. A roll-off set across a ditch line, or debris that spills from an overloaded box into one, puts the owner on the wrong side of that rule. Choose a spot on firm, level ground clear of the ditch, and keep the load inside the walls.
+
+### Why the curb is not a substitute
+
+Some owners hope to avoid a container entirely by piling debris at the curb. Biloxi's trash guide closes that door: garbage, recycling and yard trash are collected under a contract through the Harrison County Utility Authority, but construction debris generated by a contractor will not be picked up, and neither will concrete, asphalt, dirt or tires. Nothing placed in the right-of-way in front of an empty lot is collected either. If the work produces debris, it needs its own container and a proper disposal site.
+
+### After a storm, the paperwork piles up
+
+Permits and debris arrive together after a hurricane. Following Katrina, the city had issued more than 3,984 building permits for storm repairs by August 2007, and public crews hauled more than 2.94 million cubic yards of debris from streets and rights-of-way. Public contracts clear the street. What comes out of a damaged house is the owner's or the contractor's to remove, and the same placement rules apply even when every hauler on the coast is busy. Roofs after a storm are covered on [roofing dumpster rental](../roofing-dumpster-rental/), and storm-damaged contents on [cleanout dumpster rental](../cleanout-dumpster-rental/).
+
+### A short checklist
+
+- Ask the Building Division whether the work needs a permit, and get one before the tear-out starts.
+- If the job is in a flood zone, ask how close the cost runs to the half-value line.
+- Keep the box on your own property where possible; call the city first if it must sit in the street.
+- Leave ditches and drainage clear.
+- Confirm where the hauler will dump the load.
+
+Sizes and typical Biloxi-area rental rates are listed on the [pricing page](../pricing/).

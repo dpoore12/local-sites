@@ -18,6 +18,7 @@
   ],
   "phone_display": "(479) 415-5328",
   "phone_tel": "+14794155328",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477). In the market's own area code. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -290,5 +291,24 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "what-size-dumpster-do-i-need",
+      "h1": "What Size Dumpster Do I Need",
+      "accent": "Match the Box to the Load",
+      "photo": "assets/work-2.jpg",
+      "icon": "house",
+      "keyword": "what size dumpster do i need"
+    },
+    {
+      "slug": "how-big-is-a-10-yard-dumpster",
+      "h1": "How Big Is a 10 Yard Dumpster",
+      "accent": "Small Box, Heavy Loads",
+      "photo": "assets/work-1.jpg",
+      "icon": "ruler",
+      "keyword": "how big is a 10 yard dumpster",
+      "volume": 1400
+    }
+  ]
 }

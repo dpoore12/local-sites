@@ -353,6 +353,8 @@ Photos of the same runs before and after, a visibly clean blower wheel, sealed a
 
 Metro Atlanta price lists put a single system in a fairly tight band, with NADCA's national figure for an average-sized home running higher, and a two-system house costing close to double. The pricing page lays out those ranges with their sources, so you can tell whether the number you are hearing is inside the market or suspiciously far below it.
 
+Common questions: [Is Air Duct Cleaning Worth It?](../is-air-duct-cleaning-worth-it/) and [How Often Should Air Ducts Be Cleaned?](../how-often-should-air-ducts-be-cleaned/)
+
 ## svc_dryer_vent_cleaning_lede
 
 Dryer vent cleaning in Marietta for side-wall, roof and long upstairs runs: lint cleared from the drum to the outside hood, the transition hose checked, and airflow measured when the job is done.
@@ -448,3 +450,71 @@ When a system needs both, sealing usually comes first or on the same visit. Ther
 ### What it costs
 
 Sealing and repair are priced by what the inspection finds: how many joints, how much replacement duct, and whether a leakage test is included. That is quoted separately, with photos of each problem, before any of it is done. The pricing page covers the cleaning side of the visit, with market ranges and their sources.
+
+## q_is_air_duct_cleaning_worth_it_lede
+
+Sometimes, and less often than the ads suggest: a Marietta duct cleaning earns its cost when there is something specific in the ducts to remove, and it mostly wastes money when it is sold as a yearly habit or a cure for allergies.
+
+## q_is_air_duct_cleaning_worth_it_body
+
+### The short verdict
+
+The EPA does not recommend cleaning ducts routinely, only as needed, and it says plainly that duct cleaning has never been shown to prevent health problems. It also says a cleaning done properly does no harm, so paying for one is a reasonable choice when there is a real reason. Whether it is worth it in a given house depends on what is actually inside the system and on whether whatever put it there has been fixed first.
+
+### When the money is well spent
+
+Three situations justify the cost on the EPA's own list. The first is substantial mold you can see growing inside hard metal ducts or on other parts of the system, confirmed by someone who knows what they are looking at. The second is rodents or insects living in the ductwork. The third is ducts so clogged with dust and debris that it puffs out of the supply registers. Add to that a house where drywall was sanded with the system running, and a move into a home whose previous owners kept several shedding pets. In each case there is a load of material to take out, and taking it out changes something.
+
+### When it is mostly wasted
+
+A dusty return grille on its own does not mean dirty ducts; the EPA says that is normal. Neither does a spring when everyone in the house is sneezing. In March 2025 Atlanta Allergy & Asthma counted 14,801 pollen grains per cubic meter in a single day, nearly ten times the 1,500 level classed as extreme. A house cleaned in the middle of a season like that refills within weeks. In Marietta the better order is to fix the filter fit first, wait for tree pollen to fall off, and only then decide whether the ducts still need attention.
+
+### The leak question comes before the cleaning question
+
+Georgia has required duct leakage testing on new systems since mid-2011, when ducts or the air handler sit in an unconditioned attic or crawlspace. Houses built before that were never tested, and many of them have return ducts pulling air from the attic or crawlspace through loose joints. That air brings insulation fibers, dust and humidity with it. Cleaning a leaky return buys a few clean months before the same leak dirties it again. Paying for [duct sealing and repair](../duct-sealing-repair/) on those joints is often the better use of the same budget, and a good inspection should tell you which problem you actually have.
+
+### Humidity changes what is worth paying for
+
+University of Georgia Extension guidance names oversized air conditioners, duct leaks, dirty coils and condensation among the sources of excess moisture in a house, and it suggests keeping indoor humidity below 60 percent. In a long Georgia cooling season the indoor coil and its drain pan stay wet for months, and that is where musty smells usually start. If the complaint is odor rather than dust, [HVAC coil cleaning](../hvac-coil-cleaning/) addresses the likelier source, and a duct-only job can leave it untouched.
+
+### Older Marietta houses are a different job
+
+The city's National Register districts, among them Whitlock Avenue and Northwest Marietta, are full of houses built long before central air. Their ductwork was added later and threaded around plaster walls, through closets and under floors, often in a mix of metal and flexible duct of different ages. In houses like these, finding where every run goes is part of the work, and a quote that assumes a simple modern layout is likely to change once a crew is inside.
+
+### How to tell if a quote is worth it
+
+NADCA, the industry's trade association, recommends cleaning the whole system: ducts, registers and grilles, the plenum, the blower motor and assembly, the coil, the drain pan and the heat exchanger. A price that covers only the supply vents leaves the dirtiest parts behind. NADCA also tells homeowners to steer clear of bargain whole-house specials, including the ones posted in neighborhood social media groups. Be wary of chemical add-ons too: the EPA says no biocide is registered for use in fiberglass duct board or fiberglass-lined ducts, and that duct sealants should be allowed only under unusual circumstances. The [pricing page](../pricing/) lists the sourced Marietta ranges for whole-system work, so a quote can be checked against something real before anyone opens a register. When there is a genuine reason, [air duct cleaning](../air-duct-cleaning/) done to that standard is the version worth paying for.
+
+## q_how_often_should_air_ducts_be_cleaned_lede
+
+There is no fixed calendar for it, whatever a mailer says; the honest schedule for a Marietta house is a yearly look at the system and a cleaning only when that look finds something worth removing.
+
+## q_how_often_should_air_ducts_be_cleaned_body
+
+### What the two main sources actually say
+
+The EPA does not recommend cleaning ducts on a routine schedule, only as needed, and it lists duct cleaning outside of normal yearly maintenance. NADCA, the duct cleaning trade association, recommends having the system inspected at least once a year and cleaned as needed. Those two positions fit together better than they first appear: the interval that matters is the inspection, not the cleaning. Any number of years quoted as a rule, whether two, three or five, is a rule of thumb, and the EPA tells homeowners to be wary of anyone who sells cleaning as routine maintenance.
+
+### What a yearly check should cover
+
+A useful annual look goes past shining a flashlight into one register. It should cover the filter and whether air slips around it, the blower and its housing, the indoor coil and drain pan, and a sample of supply and return runs, including the main return. If those come up clean, the answer for this year is no cleaning. If they show heavy buildup, debris, water damage or pests, that is the point at which [air duct cleaning](../air-duct-cleaning/) belongs on the list.
+
+### Things that move the next cleaning closer
+
+NADCA names several conditions that shorten the gap: smokers in the house, residents with allergies or asthma, pets that shed heavily, water or other damage, and recent renovations. The EPA adds visible mold on hard surfaces inside the system, vermin, and dust blowing out of the supply registers. Moving into a house with an unknown history is a fair reason for a first inspection, since there is no record of what the previous owners did or did not do.
+
+### How Marietta's seasons shape the timing
+
+Timing matters as much as frequency here. Atlanta's tree pollen season set a record on 29 March 2025, when the count reached 14,801 grains per cubic meter. Cleaning in the middle of that brings no lasting benefit, because the house is pulling pollen back in through doors, windows and any leaky return. Late spring, once counts drop, or fall before the heating season starts, are the more sensible windows. Summer brings the other local pressure: long stretches of air conditioning keep the coil and drain pan wet, and University of Georgia Extension advises keeping indoor humidity below 60 percent to discourage mold. A musty smell in July is a reason to check the coil before it is a reason to clean the ducts, and [HVAC coil cleaning](../hvac-coil-cleaning/) may be the only work that is due.
+
+### Houses that need checking more often
+
+Two kinds of Marietta homes deserve a closer interval for inspection, if not for cleaning. The first is a house built before Georgia began requiring duct leakage tests on new systems in mid-2011, especially one with its air handler or returns in an attic or crawlspace, where loose joints pull dusty, humid air straight into the ducts. The second is an older house in one of the city's historic districts, where ductwork was added decades after construction and often runs through spaces nobody looks at. In both, a leak can dirty a freshly cleaned system quickly, and [duct sealing and repair](../duct-sealing-repair/) may do more to stretch the time between cleanings than the cleaning itself.
+
+### What keeps the interval long
+
+The cheapest way to need fewer cleanings is to stop dust from getting in. The EPA's list is plain: use the most efficient filter the system's manufacturer allows, change it on schedule, and make sure no air bypasses it. Cover registers and shut the system off during dusty remodeling work, and keep moisture under control by repairing leaks and keeping the drain pan sloped toward the drain. A household that does those things may go many years without a cleaning being justified at all.
+
+### Checking a recommendation
+
+If someone recommends a cleaning after an inspection, ask what they found and where, and ask to see it with a camera or photos from inside the runs. NADCA advises getting quotes from more than one contractor, and the sourced ranges on the [pricing page](../pricing/) show what whole-system work in the Marietta area typically runs, so a recommendation can be weighed against both evidence and cost.

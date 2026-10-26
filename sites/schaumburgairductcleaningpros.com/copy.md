@@ -361,6 +361,8 @@ Matching before-and-after pictures of each run that was opened, a blower wheel y
 
 Chicagoland companies post single-furnace prices from a few hundred dollars up to around a thousand for large systems, with each additional furnace adding close to the cost of another system. The pricing page lays out those ranges, the EPA's own figure, and the Illinois contract rule, with sources.
 
+Common questions: [Is Duct Cleaning a Waste of Money?](../is-duct-cleaning-a-waste-of-money/) and [How Does Duct Cleaning Work?](../how-does-duct-cleaning-work/)
+
 ## svc_furnace_blower_cleaning_lede
 
 Furnace and blower cleaning in Schaumburg: the blower wheel, the cabinet and the burner area cleaned before the heating season, so the first cold night does not smell scorched and the furnace moves the air it was built to move.
@@ -468,3 +470,81 @@ In a 1970s house, the ductwork being cleaned after a remodel may be the original
 ### What it costs
 
 The cleaning itself is priced like any other duct cleaning, per furnace, with extras for heavy debris or repairs. The pricing page shows the Chicagoland per-furnace range and its sources, and a written scope and total should come first, as Illinois law expects on larger home repair jobs.
+
+## q_is_duct_cleaning_a_waste_of_money_lede
+
+Often it is, when it is bought on a schedule, on a health promise or on a bargain flyer; it stops being a waste when there is debris, pests or real growth in a Schaumburg system and the whole system, furnace included, gets cleaned.
+
+## q_is_duct_cleaning_a_waste_of_money_body
+
+### Where the "waste of money" reputation comes from
+
+The skepticism is earned. The EPA does not recommend cleaning ducts as a matter of routine, says duct cleaning has never been shown to actually prevent health problems, and notes that studies have not shown dirty ducts raise dust levels in a home. A household that pays for a cleaning every year, or because a salesperson promised fewer allergies, is spending money on something the evidence does not back. That is the first way to waste it.
+
+### The four ways the money gets thrown away
+
+**Paying for the vents and not the system.** NADCA, the industry trade association, says the whole system needs cleaning: ducts, registers, the plenum, the coil, the drain pan, the heat exchanger and the blower motor and assembly. The EPA warns that skipping components can recontaminate what was just cleaned. A job that vacuums supply registers and leaves the furnace alone has skipped the dirtiest part.
+
+**Falling for the low teaser price.** NADCA tells homeowners to avoid whole-house specials at bargain prices. Those numbers cannot cover hours of work with real equipment, so the bill either grows once the crew is inside or the cleaning is too shallow to matter.
+
+**Buying chemicals nobody needed.** The EPA says no biocide is registered for fiberglass duct board or fiberglass-lined ducts, and it advises against sealants sprayed inside ducts except under unusual circumstances. Fogging add-ons without a documented reason are money for nothing.
+
+**Paying for mold that was never there.** The EPA's guidance is that mold in ducts is a reason to clean only when it can actually be seen, and that a sample sent to a lab is the way to confirm it. A claim of mold made from a photo on the technician's phone deserves a second opinion before it becomes a line on an invoice.
+
+### When it is money well spent
+
+The EPA names three reasons to consider a cleaning: substantial mold growing on hard surfaces inside the ducts or other parts of the system, an infestation of rodents or insects, and ducts clogged with dust and debris to the point that particles come out of the supply registers. To those, add a remodel where drywall dust went through a running furnace. In each of those cases there is a load of material to remove, and [post-renovation duct cleaning](../post-renovation-duct-cleaning/) or a standard [air duct cleaning](../air-duct-cleaning/) does something measurable.
+
+### Why a Schaumburg furnace changes the math
+
+Heating dominates here. National Weather Service normals at O'Hare show 5,974 heating degree days a year against 1,003 cooling degree days, so the furnace blower runs for most of October through April. Over a winter, dust builds up on the blower wheel and slows it, and the burning-dust smell on the first cold night of fall is the usual sign. In many local systems that wheel holds more dirt than the duct runs. If the budget only allows for one thing, [furnace blower cleaning](../furnace-blower-cleaning/) is frequently where the money does the most.
+
+### Older houses, older ductwork
+
+Most of Schaumburg's housing went up between 1960 and 1990, as the village grew from under a thousand people to well over sixty thousand. That puts the typical duct system somewhere around thirty-five to sixty years old, with original returns and joints that have loosened. In parts of Weathersfield, houses were built with hot-water heat, so any ductwork may be a later add-on for central air. Leaky joints in a basement pull dust back in after a cleaning, and Nicor Gas's 2026 efficiency program includes a duct sealing rebate through approved contractors. Sealing the leaks can do more for a dusty house than cleaning alone.
+
+### Protecting yourself before paying
+
+Illinois law helps here. The Home Repair and Remodeling Act requires a written contract or work order stating the total cost before a contractor starts home repair work over $1,000, and it requires the state consumer rights pamphlet for any contract. Asking for the full scope and total in writing, even on a smaller job, is the simplest defense against a growing bill. The [pricing page](../pricing/) lists sourced Chicagoland ranges for whole-system work, which makes it easier to spot a quote that is either too thin to be real or padded with extras.
+
+## q_how_does_duct_cleaning_work_lede
+
+A proper duct cleaning puts the whole heating and cooling system under suction, knocks the dirt loose with brushes or air tools, and pulls it out of the house, starting at the furnace and working outward through every supply and return run.
+
+## q_how_does_duct_cleaning_work_body
+
+### The principle: source removal
+
+NADCA, the duct cleaning trade association, calls the method source removal. Two things happen at once. A powerful vacuum holds the system under continuous negative pressure so that loosened dust is drawn toward the collection hose instead of drifting into the rooms, and agitation tools break the dust free from the inside surfaces of the ducts. NADCA lists brushes, air whips, compressed air nozzles and so-called skipper balls as agitation devices, along with hand brushing and contact vacuuming. Without both halves the job does not work: suction alone leaves stuck dust behind, and agitation without suction blows it into the house.
+
+### Step one: look before anything is opened
+
+A sound job starts with an inspection of the furnace, the coil, the main trunks and a sample of branch runs, ideally with a camera so the homeowner can see what is there. The EPA also says the service provider should check for asbestos in the system before cleaning, which matters in older houses. This is also the moment to agree on scope and price. In Illinois, the Home Repair and Remodeling Act requires a written contract or work order with the total cost before home repair work over $1,000 begins.
+
+### Step two: connect the vacuum and protect the house
+
+The vacuum may be truck-mounted or portable; NADCA says either can be used to contain the dust. The EPA says vacuums that exhaust indoors should use HEPA filtration, and that carpets and furnishings should be protected. The vacuum is usually connected to the main supply or return trunk near the furnace, and registers are covered so the suction concentrates on the ducts being cleaned.
+
+### Step three: open access points
+
+Technicians use existing openings such as registers, grilles and service panels wherever they can. Sometimes they need to cut access holes in the ductwork to reach inside. NADCA notes that making and closing those openings takes real skill, and the EPA says any holes cut should be sealed and insulated again afterward. Ask where holes will go and how they will be closed.
+
+### Step four: agitate run by run
+
+With suction pulling, each supply branch and return is worked with brushes or whips until the inside surfaces are clean. Flexible duct and fiberglass-lined duct need gentler tools than bare metal; the EPA recommends soft-bristled brushes for fiberglass to avoid tearing it. Returns matter as much as supplies, because they carry the household's dust back to the furnace.
+
+### Step five: clean the equipment, not just the ducts
+
+NADCA recommends cleaning the entire system: ducts, registers and grilles, the plenum, the coil, the drain pan, the heat exchanger, the air cleaner and the blower motor and assembly. In a Schaumburg house that last item deserves particular attention. O'Hare averages close to six thousand heating degree days a year, so the furnace blower moves air through the house for most of the cold season, and its wheel collects dust faster than most duct runs. Pulling and cleaning that wheel is a job of its own, covered in [furnace blower cleaning](../furnace-blower-cleaning/).
+
+### Step six: chemicals only after cleaning, if at all
+
+NADCA says antimicrobial products should be considered only after mechanical cleaning and only if registered with the EPA. The EPA adds that no biocides are registered for fiberglass duct board or fiberglass-lined ducts. A cleaning does not need a spray to be complete.
+
+### Step seven: close up and check
+
+Access holes get patched and sealed, registers go back, a fresh filter goes in, and the system is run to confirm it heats and cools normally. The EPA's checklist says every cleaned surface should be free of debris you can see, the coil should be clean, and the drain pan should drain. Before-and-after photos from inside the same runs are the easiest proof.
+
+### What varies in Schaumburg houses
+
+Much of the village was built between 1960 and 1990, so duct systems are often decades old, with basement trunks that may have been patched or extended over the years. In a Weathersfield house that started with hot-water heat, ducts may have been added later for central air, which changes where the runs go. Leaky joints found during the inspection are a separate repair, and Nicor Gas's 2026 program offers a duct sealing rebate through approved contractors. Typical costs for the full process, and for a cleaning after a remodel through [post-renovation duct cleaning](../post-renovation-duct-cleaning/), are listed with sources on the [pricing page](../pricing/).

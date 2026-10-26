@@ -19,6 +19,7 @@
   ],
   "phone_display": "(331) 600-8021",
   "phone_tel": "+13316008021",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304011753217). In 331, the overlay of the market's own 630 area code. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -285,5 +286,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-long-does-duct-cleaning-take",
+      "h1": "How Long Does Duct Cleaning Take",
+      "accent": "Hours, Not Minutes",
+      "photo": "assets/work-2.jpg",
+      "icon": "gear",
+      "keyword": "how long does duct cleaning take",
+      "volume": 300
+    },
+    {
+      "slug": "is-air-duct-cleaning-necessary",
+      "h1": "Is Air Duct Cleaning Necessary",
+      "accent": "Six Wheaton Situations Sorted",
+      "photo": "assets/work-3.jpg",
+      "icon": "house",
+      "keyword": "is air duct cleaning necessary",
+      "volume": 600
+    }
+  ]
 }

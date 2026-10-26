@@ -20,6 +20,7 @@
   ],
   "phone_display": "(943) 271-6154",
   "phone_tel": "+19432716154",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304137582344). In 943, the newest metro-Atlanta overlay. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -326,5 +327,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "is-air-duct-cleaning-worth-it",
+      "h1": "Is Air Duct Cleaning Worth It",
+      "accent": "When It Pays and When It Doesn't",
+      "photo": "assets/work-1.jpg",
+      "icon": "search",
+      "keyword": "is duct cleaning worth it",
+      "volume": 700
+    },
+    {
+      "slug": "how-often-should-air-ducts-be-cleaned",
+      "h1": "How Often Should Air Ducts Be Cleaned",
+      "accent": "Inspect Yearly, Clean as Needed",
+      "photo": "assets/work-2.jpg",
+      "icon": "gear",
+      "keyword": "how often should air ducts be cleaned",
+      "volume": 800
+    }
+  ]
 }

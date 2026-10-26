@@ -354,6 +354,8 @@ Most household contents are light, but a few items are not. A slate pool table, 
 
 Price is set by the container size, the rental days and the tons included. Cleanouts rarely go over on weight unless one of those heavy items is in the mix. The pricing page lists published ranges from roll-off companies serving Palm Beach County, and the Solid Waste Authority rate behind them, so the number you hear can be checked against the market.
 
+Before booking, two quick reads: [whether a Wellington box needs a permit](../do-i-need-a-permit-for-a-dumpster/) and [what is allowed in the container](../what-can-you-put-in-a-dumpster/).
+
 ## svc_remodel_roofing_dumpster_rental_lede
 
 Dumpsters for Wellington remodels and roof tear-offs: drywall, cabinets, tile and concrete roof tile, sized by weight as much as volume and hauled to the sites that can take it.
@@ -461,3 +463,90 @@ A container that is half full when a storm is forecast is a hazard, because loos
 ### What it costs
 
 After a storm the same factors apply as at any other time, the container size, rental days, included tons and the per-ton rate over that, along with demand. The pricing page shows the published ranges for Palm Beach County and the Solid Waste Authority rates the loads are charged at, so a post-storm quote can be checked against the normal market.
+
+## q_do_i_need_a_permit_for_a_dumpster_lede
+
+In Wellington the permission that matters most belongs to the hauler, not the homeowner: the village tells residents to rent a roll-off only from a company permitted to work inside Wellington. Beyond that, the work itself may need a building permit, your HOA may have its own say, and manure containers on equestrian properties follow a separate code section.
+
+## q_do_i_need_a_permit_for_a_dumpster_body
+
+### The permit the village actually talks about
+
+Wellington's construction and demolition debris page is direct about it. Curbside service takes no more than 2 cubic yards of building debris a week, never concrete or rock, and anyone with a construction or demolition project is told to lease a roll-off container from a hauler permitted in Wellington. The village links a list of those companies from the same page.
+
+That is a different list from the county's. The Solid Waste Authority of Palm Beach County publishes its own roll-off hauler list, but the document says it covers unincorporated Palm Beach County and tells anyone needing service inside a city, town or village to ask that municipality for its own list. A company appearing on the county list is therefore not proof it may set a container down on a Wellington driveway. Ask which permit the company holds before talking size or price.
+
+### Whether the project needs a building permit
+
+The container and the project are separate questions. The village's debris page sends residents to the Building Department to find out whether the construction or demolition work itself needs a permit. Take a plain description of the job to that office; emptying a garage involves no construction at all, while tearing off a roof or opening walls is the kind of work to ask about. If a permit is pulled, the debris plan is part of running a tidy site, and a roll-off from a permitted hauler is the plan the village itself recommends. Roofing and remodel jobs are covered on the [remodeling and roof tear-off dumpsters](../remodel-roofing-dumpster-rental/) page.
+
+### HOAs and gated communities
+
+About half of Wellington lives in gated communities, and many of them set their own rules about what can sit in a driveway and for how long. Those rules are private covenants rather than village law, so the answer comes from the association's management office, not from Village Hall. Asking before delivery prevents a violation letter while the box is half full, and it also tells you whether the gate needs to be told a truck is coming.
+
+### Where a container must never go
+
+Placement matters more than paperwork. Wellington's debris page warns that material left on property the generator does not own, on vacant parcels, or on village rights-of-way such as canal banks may be treated as illegal dumping under the Florida Litter Law and referred to the Palm Beach County Sheriff's Office. A roll-off belongs on your own driveway or pad, with the load kept inside it, not spilling onto the swale or a neighbor's lot.
+
+### Barns and manure: the rule with real teeth
+
+Equestrian properties face the most specific requirements in the village. Section 30-153 of the Land Development Code requires every livestock facility to have an approved manure storage area. A roll-off or dumpster holding manure must sit on a concrete or asphalt pad with a lip around it, at least 5 feet from any roof overhang, 50 feet from a public drainage inlet, 100 feet from any water body and 150 feet from a potable well. Since 2013 the village has also required manure haulers to register and keep records that staff can audit. Fencing, mats and old stall boards can go in an ordinary roll-off; manure cannot. See [barn, stable and farm cleanout dumpsters](../barn-cleanout-dumpster-rental/) for how those jobs are split.
+
+### After a hurricane
+
+Storm cleanup changes who handles what. After Irma, Wellington crews and contractors hauled 168,602 cubic yards of vegetative debris in a month, but FEMA required each association's approval before public crews could enter gated streets, and those approvals slowed the work. Public collection starts with limbs. Wet drywall, carpet and broken screen enclosures are a private job, and the same permitted-hauler rule applies. The [hurricane and storm debris dumpsters](../storm-debris-dumpster-rental/) page covers that work.
+
+### A quick checklist before delivery
+
+- Confirm the hauler is permitted inside Wellington, not only in unincorporated county.
+- Ask the Building Department whether the project needs its own permit.
+- Check HOA rules on driveway containers and gate access.
+- Keep the box on your own property, off canal banks and the swale.
+- For manure, use a compliant pad and a registered hauler.
+
+Container sizes and what they typically cost in the Wellington area are on the [pricing page](../pricing/).
+
+## q_what_can_you_put_in_a_dumpster_lede
+
+A roll-off in Wellington can take almost everything a remodel, a roof or a household cleanout produces: furniture, cabinets, drywall, flooring, roofing, lumber, fencing and yard debris. What it cannot take are household chemicals, batteries, propane tanks, tires and manure, and in Palm Beach County each of those has its own drop-off.
+
+## q_what_can_you_put_in_a_dumpster_body
+
+### The short list of what goes in
+
+Think of a roll-off as the home for solid, dry, non-hazardous debris. In a Wellington house that usually means:
+
+- old furniture, mattresses, rugs and carpet pad;
+- kitchen cabinets, countertops, vanities and fixtures;
+- drywall, tile, flooring, doors and trim from a remodel;
+- shingles, underlayment and roof tile from a tear-off;
+- fence panels, shed walls, pool-cage framing and pallets;
+- tree limbs, hedge cuttings and other yard waste.
+
+Several of these are items the village will not take at the curb. Wellington's curbside construction debris service stops at 2 cubic yards a week and refuses concrete, rock, fencing and pallets outright, which is exactly why those materials end up in a container.
+
+### Why the mix inside the box changes the bill
+
+Everything in the box is weighed when it reaches the Solid Waste Authority, and what is mixed together decides the rate. The authority's schedule effective October 1, 2026 charges $95 a ton for construction debris and large vegetation, $42 for garbage and trash and $35 for yard vegetation, and it states that open-top roll-off containers are generally charged the construction rate. A mixed load pays the higher category. Throwing kitchen trash on top of a box of palm fronds does not save space; it turns the whole load into the more expensive kind.
+
+Heavy materials also limit where the truck can unload. The county's transfer stations, including the Royal Palm Beach station on Weisman Way, cannot accept concrete, block, tile, roofing material, construction lumber, fencing or dirt. Those loads ride out to the landfill complex on Jog Road. Concrete and roof tile are dense, so they belong in a smaller box filled only part way.
+
+### What has to go somewhere else
+
+Some things should never be in a roll-off, both because the landfill rejects them and because they can injure the driver or the people sorting the load:
+
+- **Paint, solvents, pesticides, pool chemicals and cleaners.** Palm Beach County residents can drop these off for free at any of the Solid Waste Authority's seven Home Chemical and Recycling Centers, at the transfer stations and the Jog Road campus.
+- **Batteries and propane cylinders.** The same centers take automotive, marine, lithium and rechargeable batteries and compressed gas cylinders.
+- **Old televisions and computers.** Electronics are accepted at the chemical and recycling centers as well.
+- **Tires.** The chemical and recycling centers list tires among the items they refuse, so ask the hauler how to handle them before they go anywhere near the container.
+- **Liquids of any kind**, including leftover paint that is still wet.
+
+Pool chemicals deserve a special mention in a village with this many backyard pools: a half-used bucket of chlorine tablets dropped into a box of debris is a fire and fume risk, not just a rule violation.
+
+### Manure is its own category
+
+On the equestrian side of Wellington, the big exception is livestock waste. Manure, together with the bedding and feed mixed into it, is charged at $35 a ton but accepted only at Renewable Energy Facility No. 2 on Jog Road, and the transfer stations never take animal waste. Village code also requires manure containers to sit on a lipped concrete or asphalt pad set back from drains, water and wells, hauled by a registered hauler. So a barn cleanout needs two plans: an ordinary roll-off for mats, fencing and broken stall boards, and a compliant bin for the manure. The [barn, stable and farm cleanout dumpsters](../barn-cleanout-dumpster-rental/) page explains how that split works.
+
+### Before the box arrives
+
+Walk the house or the barn and pull out anything from the "somewhere else" list first; a load that arrives at the scale with a car battery or a gas can in it costs time for everyone. For a garage, an estate or a whole-house clear-out, start with [home and garage cleanout dumpsters](../home-cleanout-dumpster-rental/). Sizes, included weight and typical Wellington-area rates are set out on the [pricing page](../pricing/).

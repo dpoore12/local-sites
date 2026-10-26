@@ -5,6 +5,10 @@ adds only the files in dist/<domain>/ that the live manifest doesn't have yet, a
 any file that IS live would change. Before sending, it fetches each domain's home page and
 checks the bytes still match the manifest, so a stale data/manifest.json can't roll anything back.
 
+With --update, files that are already live on the named domains may change too (new pages
+add links to the home page and sitemap). Files of every other domain are still carried over
+untouched, and the script checks that.
+
 Projects: `local-sites` (data/manifest.json, written back on success) and `local-sites-2`
 (Pensacola only; its manifest is that domain's slice of data/manifest.json, and the new one is
 saved to data/manifest-local-sites-2.json).
@@ -12,6 +16,7 @@ saved to data/manifest-local-sites-2.json).
 usage (from the repo root; token value is the part after '=' in ~/.local-sites-token):
   uv run --with blake3 --with requests python3 add_assets_deploy.py DOMAIN ... [--project P]               # dry run
   uv run --with blake3 --with requests python3 add_assets_deploy.py DOMAIN ... [--project P] --push TOKEN
+  add --update to either to allow changed files on the named domains
 """
 import base64, json, mimetypes, os, subprocess, sys
 import blake3
@@ -26,6 +31,9 @@ def h(content, ext):
 
 
 args = sys.argv[1:]
+update = '--update' in args
+if update:
+    args.remove('--update')
 token, P = None, 'local-sites'
 if '--push' in args:
     i = args.index('--push'); token = args[i + 1]; del args[i:i + 2]
@@ -59,13 +67,19 @@ for d in domains:
             files[hv] = (fp, body)  # also lets a project's store be topped up with bytes it never got
             if key in live:
                 if live[key] != hv:
-                    sys.exit(f'ABORT: {key} differs from live; this script only adds files')
+                    if not update:
+                        sys.exit(f'ABORT: {key} differs from live; this script only adds files (use --update)')
+                    new[key] = hv
                 continue
             new[key] = hv
 added = sorted(k for k in new if k not in live)
-print(f'{P}: {len(added)} files added; {len(live)} live files unchanged.')
+changed = sorted(k for k in live if new[k] != live[k])
+assert all(any(k.startswith('/' + d + '/') for d in domains) for k in changed), 'a file outside the named domains changed'
+print(f'{P}: {len(added)} files added, {len(changed)} changed; {len(live) - len(changed)} live files unchanged.')
 for k in added:
     print('  +', k)
+for k in changed:
+    print('  ~', k)
 if not token:
     print('DRY RUN: nothing sent.')
     sys.exit(0)

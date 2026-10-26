@@ -349,6 +349,8 @@ Most homeowner rates around Bentonville include a week. Builders running a box f
 
 Posted thirty-yard rates around Bentonville sit in a band only about twenty dollars wide, with four tons included and a per-ton overage above that. The pricing page lays out each size with the sources behind it, so a builder can check whether a quote sits where Northwest Arkansas prices actually are.
 
+Common questions: [What Size Dumpster Do I Need?](../what-size-dumpster-do-i-need/) and [How Big Is a 10 Yard Dumpster?](../how-big-is-a-10-yard-dumpster/)
+
 ## svc_remodeling_dumpster_rental_lede
 
 Roll-off dumpsters for Bentonville kitchens, baths, floors, decks and roofs, sized by the room and the weight of what is coming out.
@@ -456,3 +458,83 @@ Spread the weight evenly across the floor, never piled at one end, so the truck 
 ### What it costs
 
 The flat rate for a small box around Bentonville is on the pricing page, along with the per-ton overage posted by Northwest Arkansas haulers. For concrete and dirt, that overage figure matters more than the box price, so get both before the first slab is broken.
+
+## q_what_size_dumpster_do_i_need_lede
+
+For most Bentonville projects the answer is a 15- or 20-yard box, with a small 8- to 11-yard box for one room or anything heavy and a 30-yard box for framing waste or a whole-house remodel. The deciding factor is usually weight, not volume, so the material matters as much as the size of the job.
+
+## q_what_size_dumpster_do_i_need_body
+
+### Start with the job, then check the material
+
+Roll-off boxes are sold by cubic yard, and the sizes posted by Northwest Arkansas haulers fall into four bands. A small box of 8 to 11 yards suits one bathroom, a closet-and-garage purge, or a modest pile of broken concrete. A 15-yard box takes a kitchen or a single room of flooring. A 20-yard box is the size most people end up renting, because it swallows a big cleanout or a mid-size remodel without crowding the driveway. A 30-yard box is for the framing and drywall phases of a new house, or a remodel that touches every room.
+
+That is only half the decision. Each box comes with an included weight, and the posted allowances around Bentonville climb from about one ton on the smallest boxes to roughly four tons on a 30-yard. Light, bulky loads such as furniture, cabinets, carpet and packaging fill the box long before they reach the limit. Shingles, tile, plaster, concrete and dirt do the opposite: they hit the weight allowance while the box still looks half empty.
+
+### Why heavy jobs get a smaller box
+
+A homeowner breaking out a patio slab who orders a 30-yard box pays for space that cannot be used, because a full box of concrete would weigh far more than the included tons and more than the truck is set up to lift. The right call for concrete, brick, rock and soil is the smallest box, filled only part way, with the load spread evenly across the floor. Several Benton County haulers keep separate clean-fill boxes for exactly this reason, and dirt is usually accepted only in one of those. The details are on the [concrete and dirt dumpster rental](../concrete-dirt-dumpster-rental/) page.
+
+### What the 2024 numbers say about Bentonville jobs
+
+The city's own development report explains why the larger sizes come up so often here. The average new single-family house permitted in 2024 was 3,115 square feet, up from 2,175 the year before, and planned residential units nearly doubled to 2,907. Bigger houses throw off more lumber offcuts, drywall scraps and cardboard per lot, which is why a builder often swaps a 30-yard box more than once during a build. The same report counted 234 residential remodel and addition permits, the steady stream of kitchens and baths that fit a 15- or 20-yard box. Builders should look at [new construction dumpster rental](../new-construction-dumpster-rental/), and owners redoing part of a house at [remodeling dumpster rental](../remodeling-dumpster-rental/).
+
+### Rules of thumb that save a second haul
+
+- Count the rooms. One room of tear-out is usually a 10 or 15; two or three rooms is a 20; a whole house is a 30 or a second swap.
+- Count the pickup loads. A 10-yard box holds roughly four pickup loads by one local hauler's comparison, and a 20-yard about twice that.
+- Break furniture down and fill gaps. Unbroken couches and dressers waste half a box.
+- When torn between two sizes, the larger one is usually cheaper than a second delivery, unless the load is heavy.
+
+### Where the box will sit decides the size too
+
+A box parked on a driveway or a job-site lot is private property. A box set on a street, curb, gutter or sidewalk is in the public right-of-way, and Bentonville requires a right-of-way permit for any work there, applied for through the city's eTrakit system with five business days of review. The bigger boxes are longer, so a narrow driveway sometimes forces either a smaller size or a street permit. Measure the driveway before choosing, and if the box has to go on the street, start the permit a week ahead.
+
+### Timing matters for the swap
+
+Construction debris from Bentonville goes to the Class 4 cell at Eco-Vista Landfill in Springdale, which is open to the public on weekdays only. A box that fills on a Friday afternoon may not be hauled and swapped until Monday, so a weekend cleanout should start with a size that leaves room to spare. Homeowners clearing a house rather than building one will find more detail on the [cleanout dumpster rental](../cleanout-dumpster-rental/) page.
+
+### Checking the price for each size
+
+Rates for every size, the included tons and the per-ton charge past that allowance are on the [pricing page](../pricing/). Compare the weight allowance alongside the headline price, because on a heavy job the overage often costs more than the step up in size.
+
+## q_how_big_is_a_10_yard_dumpster_lede
+
+A 10-yard dumpster holds ten cubic yards, which is 270 cubic feet, or roughly four pickup-truck loads of debris. Around Bentonville the boxes closest to that size are listed at about 8 feet wide and 4 feet tall, with a length somewhere between 8 and 12 feet depending on the hauler.
+
+## q_how_big_is_a_10_yard_dumpster_body
+
+### The measurements, and what they mean
+
+The yardage is a volume: ten cubic yards equals 270 cubic feet of space inside the box. Haulers in Northwest Arkansas do not all build the same box, and several do not offer a true 10-yard at all. One Benton County hauler lists an 8-yard box at 8 by 8 by 4 feet and an 11-yard box at 12 by 8 by 4 feet, which bracket the 10-yard size from either side. Another Springdale and Bentonville hauler posts a 10-yard box and describes it as about four pickup-truck loads, or roughly 21 household trash bins.
+
+What stays constant is the shape. A small roll-off is about 8 feet across, with walls around 4 feet high, and it is shorter end to end than a full-size pickup truck. The low walls are the point: debris goes in over the side by hand, without a ladder, and heavy material such as broken concrete can be dropped in from a wheelbarrow tipped against the rim. Listed dimensions are usually outside measurements, so the space inside is a little smaller.
+
+### What actually fits in one
+
+In practical terms, a 10-yard box takes:
+
+- one bathroom gutted to the studs, including the tub, vanity, tile and drywall;
+- a single-car garage cleared of old shelving, boxes and broken furniture;
+- a small deck or a short run of wooden fence, cut into manageable lengths;
+- a patio slab or a stretch of old sidewalk, broken up and filled only part way.
+
+It is too small for a kitchen remodel with cabinets, a roof on anything bigger than a shed, or a whole-house cleanout. Those jobs belong in a 15- or 20-yard box.
+
+### Why the small box is the heavy-debris box
+
+The included weight on a 10-yard box around Bentonville is about one ton, and the 8- and 11-yard boxes that sit on either side of it come with one to one and a half tons. Broken concrete and wet soil are among the densest things a household ever throws out, which means a small box loaded with them reaches its limit long before it reaches the rim. That is why the small size is the standard choice for concrete, brick, dirt and rock. Spread the load across the floor instead of piling it at one end, and stop at the fill line the hauler gives. More on this kind of job is on the [concrete and dirt dumpster rental](../concrete-dirt-dumpster-rental/) page.
+
+### Driveway fit and the Bentonville permit question
+
+The short length is the other reason people pick a 10-yard: it fits on driveways that cannot take a 20 or 30. One Bentonville hauler suggests laying 4-by-8 sheets of plywood under the rails and wheels to keep the steel from scratching concrete or asphalt, and warns that a box set on a lawn can leave ruts or crush sprinkler lines.
+
+If even the small box will not fit on private property and has to go on the street, the curb or the sidewalk, it sits in the public right-of-way. The City of Bentonville requires a right-of-way permit for work there, applied for through eTrakit with a site plan and reviewed over five business days, with the approved permit posted where it can be seen from the street. The Street Department handles it at 479-271-3130.
+
+### Where the load goes, and what stays out
+
+A 10-yard load of construction debris from Bentonville ends up in the construction and demolition cell at Eco-Vista Landfill in Springdale, which takes no hazardous materials. Tires, paint, batteries, electronics and refrigerant appliances go instead to the Benton County Solid Waste District's drop-off sites in Centerton and Rogers, where fees and limits apply. Leaving them out of the box avoids a charge when the load is checked.
+
+### Is a 10-yard the right size?
+
+For one room of tear-out or a heavy patio job, usually yes; for a household clearing years of storage, see [cleanout dumpster rental](../cleanout-dumpster-rental/), and for a bathroom or flooring job, [remodeling dumpster rental](../remodeling-dumpster-rental/). The included tons and the charge for each ton over are listed by size on the [pricing page](../pricing/).

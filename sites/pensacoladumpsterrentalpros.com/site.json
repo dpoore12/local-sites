@@ -19,6 +19,7 @@
   ],
   "phone_display": "(448) 216-5186",
   "phone_tel": "+14482165186",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477). In 448, the overlay on the market's 850 area code. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -253,5 +254,23 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "what-can-you-put-in-a-dumpster",
+      "h1": "What Can You Put in a Dumpster",
+      "accent": "Load by Load in Escambia",
+      "photo": "assets/work-3.jpg",
+      "icon": "house",
+      "keyword": "what can you put in a dumpster"
+    },
+    {
+      "slug": "how-big-is-a-20-yard-dumpster",
+      "h1": "How Big Is a 20 Yard Dumpster",
+      "accent": "Same Footprint, Taller Walls",
+      "photo": "assets/work-1.jpg",
+      "icon": "shield",
+      "keyword": "how big is a 20 yard dumpster"
+    }
+  ]
 }

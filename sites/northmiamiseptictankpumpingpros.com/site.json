@@ -20,6 +20,7 @@
   ],
   "phone_display": "(645) 654-0839",
   "phone_tel": "+16456540839",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845304087250693). Area code 645 is the newer Miami-Dade overlay for 305/786. Rings the call-desk voicemail until a renter is found.",
   "emergency": true,
@@ -262,5 +263,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "how-often-should-a-septic-tank-be-pumped",
+      "h1": "How Often Should a Septic Tank Be Pumped",
+      "accent": "Three to Five Years, Measured",
+      "photo": "assets/work-1.jpg",
+      "icon": "wrench",
+      "keyword": "how often to pump septic tank",
+      "volume": 2500
+    },
+    {
+      "slug": "how-does-a-septic-tank-work",
+      "h1": "How Does a Septic Tank Work",
+      "accent": "Tank, Layers, Drainfield",
+      "photo": "assets/work-2.jpg",
+      "icon": "house",
+      "keyword": "how does a septic tank work",
+      "volume": 3100
+    }
+  ]
 }

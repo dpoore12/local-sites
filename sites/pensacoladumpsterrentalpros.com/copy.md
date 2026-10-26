@@ -357,6 +357,8 @@ Driveways are the usual spot, and a hard surface matters more than ever when the
 
 Local list prices for the common sizes, and the per-ton charge that applies when wet debris runs past the allowance, are laid out on the pricing page with their sources, alongside the county's posted landfill rates.
 
+Common questions: [What Can You Put in a Dumpster?](../what-can-you-put-in-a-dumpster/) and [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/)
+
 ## svc_roof_tear_off_dumpster_rental_lede
 
 Roll-off boxes for Pensacola roof tear-offs, sized by roofing squares and layers, placed at the eave, and loaded with the heaviest debris on any residential job.
@@ -468,3 +470,96 @@ A couch and a few bags are not a dumpster rental. The City of Pensacola's sanita
 ### What it costs
 
 Cleanouts rarely hit the weight allowance, so the box size and the rental days set the price. Local list prices for the common sizes are on the pricing page with sources, along with the per-ton charge that applies if the pile turns out heavier than it looked.
+
+## q_what_can_you_put_in_a_dumpster_lede
+
+Most of what a Pensacola remodel, roof job or storm cleanout produces can go in a roll-off: drywall, carpet, furniture, lumber, shingles, fencing and limbs. The exceptions are household hazardous waste, asbestos, and anything liquid, and around Escambia County it pays to keep clean concrete and yard trash in their own loads because the landfill prices them differently.
+
+## q_what_can_you_put_in_a_dumpster_body
+
+### Sort it by where it ends up
+
+Escambia County's Perdido Landfill in Cantonment sets the public gate rates that waste from Pensacola is priced against, and its fee schedule sorts debris into a few categories. Thinking about a load the same way the landfill does answers most "can this go in?" questions before they come up.
+
+### Mixed debris: the everyday load
+
+Solid waste at Perdido is charged $45.06 a ton. That category covers the ordinary contents of a renovation or a house clear-out:
+
+- drywall, insulation, carpet, pad and flooring;
+- cabinets, doors, trim, fixtures and old furniture;
+- lumber, fencing and shed parts;
+- shingles and roofing underlayment;
+- the soaked contents of a room after a flood.
+
+This is the material a [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/) is built around, and it is what most people picture when they order a box.
+
+### Clean concrete: keep it pure
+
+The county accepts clean fill, clean dirt and clean concrete with no fee, as long as the concrete carries no rebar and no welded wire. That makes broken patio slabs, old sidewalk and block worth handling separately. One Pensacola hauler rents a concrete-only box under the condition of clean concrete only, with no mixed debris permitted. A single bag of household trash thrown on top turns a free load into a weighed one, so a concrete job should get its own container and nothing else should go in it.
+
+### Yard trash and storm limbs
+
+Yard trash is cheaper than solid waste at Perdido, at $27.62 a ton. After Hurricane Isaias came ashore near Destin on 9 October 2026, the City of Pensacola asked residents to keep tree limbs and leaves separate from construction and demolition debris such as building materials, fencing, carpet, furniture and plumbing, because the two are collected on different passes. The same logic applies to a roll-off. A box of nothing but limbs is cheaper to tip than a box of limbs with a gutted bathroom underneath. The [storm debris dumpster rental](../storm-debris-dumpster-rental/) page covers how to split a storm cleanout.
+
+### What stays out of the box entirely
+
+Some materials should not go in a roll-off at all.
+
+**Household hazardous waste.** Paint, paint removers, solvents, pesticides, pool chemicals, household cleaners, used oil, antifreeze, gasoline and fluorescent bulbs all go to the household hazardous waste drop-off at Perdido Landfill. It is open Monday through Saturday, 8 a.m. to 3:30 p.m., and free year-round for Escambia County residents, though it takes nothing from businesses.
+
+**Batteries and gas cylinders.** Car, marine and motorcycle batteries, propane tanks and scuba tanks are accepted at the same drop-off.
+
+**Electronics.** Televisions, computers, monitors, printers and phones are taken there at no charge, year-round.
+
+**Asbestos.** Old floor tile, pipe wrap or siding that may contain asbestos is special waste at the county landfill. It is charged $235.47 a ton and must be reviewed, approved and scheduled in advance, so it can never simply be tossed into a mixed box.
+
+**Liquids.** Wet paint, fuel, oil and anything that can leak belong in their own sealed containers at the hazardous waste site, not in a steel box that may sit in the rain.
+
+### Covering the load
+
+The county also charges $35.12 on uncovered commercial loads. A roll-off on the road to the landfill needs to be loaded below the rim so it can be covered, with nothing loose on top that can blow off on the way.
+
+### Inside city limits, check the hauler too
+
+What goes in the box is only half the rule inside Pensacola. City code requires any company collecting other people's solid waste to hold a city franchise, and a construction site using a non-franchised provider can face an immediate stop work order. Ask the hauler for its franchise status when you book.
+
+For a house full of contents rather than construction debris, see [home cleanout dumpster rental](../home-cleanout-dumpster-rental/). Box sizes, included weight and the per-ton rate past that allowance are on the [pricing page](../pricing/).
+
+## q_how_big_is_a_20_yard_dumpster_lede
+
+A 20-yard dumpster holds twenty cubic yards, or 540 cubic feet, and one Pensacola hauler lists it at 14 feet long, 8 feet wide and 6 feet tall on the outside. That works out to roughly eight pickup-truck loads of debris in a box that needs no more driveway than a 10-yard; it is simply taller.
+
+## q_how_big_is_a_20_yard_dumpster_body
+
+### Same footprint, more height
+
+The surprising thing about the 20-yard box is that it is not longer or wider than the small ones. The same Pensacola price list gives the 10-yard as 8 feet wide, 4 feet tall and 14 feet long, the 15-yard as 8 by 5 by 14, and the 20-yard as 8 by 6 by 14. Only the walls change. A driveway that can take the smallest box can usually take the 20, and the trade-off is the height you have to lift debris over: about six feet, which is chest height or higher for most adults.
+
+The figures are outside dimensions, and other haulers build their boxes a little differently, so ask for the measurements when booking if the driveway is tight.
+
+### How much fits
+
+By the same hauler's comparisons, a 20-yard box holds about eight pickup-truck loads, or roughly twenty washing machines' worth of bulk. In Pensacola terms that is:
+
+- the gutted contents of one or two rooms after a storm, with soaked drywall, carpet and pad;
+- a mid-size remodel, such as a kitchen with its cabinets and flooring;
+- a full garage and attic clear-out;
+- the roofing from a modest house, if the material is light enough to stay under the weight limit.
+
+It is the usual size for a gutted room after a storm, because soaked contents fill a smaller box before the job is half done. The [storm debris dumpster rental](../storm-debris-dumpster-rental/) page goes into that work.
+
+### Weight is the real ceiling
+
+Size tells you how much space there is, not how much weight the rental includes. One Pensacola list includes two tons on its 20-yard box. Past that, overage is billed by the ton, and the county's Perdido Landfill gate rate of $45.06 a ton for solid waste is the floor under that charge. A 20-yard box of soaked carpet and drywall gets heavy much faster than the same box of dry furniture, and a box of roofing shingles can reach the limit while the walls still show plenty of space. For shingles, see [roof tear-off dumpster rental](../roof-tear-off-dumpster-rental/); for concrete, a smaller box is the better fit, because Perdido takes clean concrete with no rebar or wire at no fee as long as it stays unmixed.
+
+### Rental time after Isaias
+
+Hurricane Isaias reached the coast near Destin on 9 October 2026 and blew the roof off a hotel in Pensacola. The city estimated its own cleanup at $16 million and expected the first collection pass to take four to five weeks. Demand for boxes moves with that: one Pensacola hauler has temporarily cut its standard seven-day rental to up to three days while storm work lasts. Ask how many days come with the box before planning a slow weekend-by-weekend fill.
+
+### What the city adds to every pull
+
+Inside city limits, a hauler needs a franchise from the City of Pensacola and pays the city $1.50 per cubic yard of container capacity every time a container is collected. On a 20-yard box that is $30 per pull, built into what the hauler charges. For comparison, the Emerald Coast Utilities Authority's commercial roll-off schedule lists $197.04 per pull on a 20-yard box, plus delivery and disposal by weight, which shows how many parts sit behind a single headline price.
+
+### Is 20 yards the right size?
+
+For one to three rooms of debris or a mid-size remodel, usually. A whole-house gut or a long build may need a larger box or several swaps; see [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/). For a house full of belongings rather than building materials, [home cleanout dumpster rental](../home-cleanout-dumpster-rental/) covers sizing. Current 20-yard rates in the Pensacola area are on the [pricing page](../pricing/).

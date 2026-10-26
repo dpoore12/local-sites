@@ -19,6 +19,7 @@
   ],
   "phone_display": "(728) 226-7144",
   "phone_tel": "+17282267144",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number in 728, the overlay on 561 for Palm Beach County, bought 2026-10-25 (order 8f5ea477, number id 3078845304104027910). Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -312,5 +313,23 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "do-i-need-a-permit-for-a-dumpster",
+      "h1": "Do I Need a Permit for a Dumpster",
+      "accent": "What the Village Checks",
+      "photo": "assets/work-1.jpg",
+      "icon": "pin",
+      "keyword": "do i need a permit for a dumpster"
+    },
+    {
+      "slug": "what-can-you-put-in-a-dumpster",
+      "h1": "What Can You Put in a Dumpster",
+      "accent": "And What Goes Elsewhere",
+      "photo": "assets/work-3.jpg",
+      "icon": "house",
+      "keyword": "what can you put in a dumpster"
+    }
+  ]
 }

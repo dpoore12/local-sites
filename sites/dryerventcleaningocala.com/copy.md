@@ -358,6 +358,8 @@ The USFA's dryer flyer gives the basics: empty the lint screen before and after 
 
 Operators serving Ocala post standard cleanings from under a hundred dollars to the mid two hundreds, depending on the house and what is included. The pricing page carries the posted figures and names every operator behind them.
 
+Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/) and [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/)
+
 ## svc_roof_dryer_vent_cleaning_lede
 
 Roof dryer vent cleaning in Ocala for single-story houses whose dryer duct crosses the attic to a cap on the roof. The run is cleared from the cap end and from the dryer end.
@@ -465,3 +467,71 @@ A dryer duct must end outside the building with a backdraft damper and no screen
 ### What it costs
 
 Repairs are priced after the run has been seen, because the scope varies so much: a new transition hose is small, while rebuilding an attic run or extending a mobile home duct past the skirting is a bigger job. The pricing page explains what the posted cleaning figures cover and how repair quotes fit around them.
+
+## q_how_often_should_you_clean_your_dryer_vent_lede
+
+Plan on having the dryer vent cleaned once a year, and sooner the moment a normal load starts needing a second cycle; the lint screen inside the dryer is a different job and gets emptied every single load.
+
+## q_how_often_should_you_clean_your_dryer_vent_body
+
+### The once-a-year figure, and where it comes from
+
+The yearly interval is the National Fire Protection Association's own advice. Its clothes dryer safety sheet says to clean lint out of the vent pipe once a year, or more often if drying takes longer than normal, and to clean the lint filter before or after each use. The reason it bothers to say so is in the federal fire numbers: the U.S. Fire Administration's study of 2008 to 2010 found failure to clean was the leading factor behind residential dryer fires, at 34 percent. A screen catches most lint. The rest rides the airflow into the duct and stays there.
+
+### The calendar is a floor, not a target
+
+A year is the longest a typical household should go, and plenty of Ocala homes should not wait that long. The signals that the duct needs attention now are practical ones: towels still damp after a full cycle, a dryer cabinet that feels hotter than usual, a laundry room that turns humid while the machine runs, or an outside flap that barely lifts when the drum is turning. Any of those means airflow has already dropped, and the date on the last receipt stops mattering.
+
+### Barn laundry clogs a duct faster
+
+Marion County holds roughly 75,000 horses, more than any other county in the nation, and a lot of that work comes home in the laundry basket. Saddle pads, barn towels and work jeans carry hair, hay chaff and arena dust that slips past the screen and sticks to the inside of the duct. A household washing barn clothes several times a week falls squarely under the "more often" half of the fire association's advice, and so does a home with several shedding dogs.
+
+### Long attic runs and mobile homes
+
+How the house is vented changes the schedule too. A single-story Ocala home with the laundry in the middle of the floor plan often sends its duct through the attic to a roof cap, and Florida's residential code trims the 35-foot length allowance by 5 feet for every mitered 90-degree elbow. Long, bent runs are where lint settles first, so a roof exit tends to need cleaning more often than a short wall run in a garage. In a manufactured home, about one Marion County housing unit in six, federal standards say the duct must not end beneath the home; one that stops under the floor never really gets clean, because the lint simply piles up in the crawl space.
+
+### The cooler months
+
+The USFA study also found residential dryer fires ran higher in fall and winter, peaking in January at 11 percent of the year's total. That makes late summer or early fall a sensible time to book the yearly cleaning, before the heavier bedding and longer drying cycles of the cooler season.
+
+### An outlet you can check from the ground
+
+Nearly three in ten Marion County residents are 65 or older, and ladders and roof caps are where vent maintenance goes wrong. Between cleanings, the easiest test is to stand at the outside hood while the dryer runs and feel for a strong, warm stream of air. A weak stream is the cue, whatever the calendar says.
+
+### Where this leads
+
+A routine yearly job is [dryer vent cleaning](../dryer-vent-cleaning/). A duct that exits through the roof is [roof dryer vent cleaning](../roof-dryer-vent-cleaning/), and a crushed hose or a run that ends under a mobile home is [dryer vent repair](../dryer-vent-repair/). The [pricing page](../pricing/) shows what Marion County operators post for each.
+
+## q_how_long_can_a_dryer_vent_be_lede
+
+In Florida a dryer duct can run 35 feet from the transition duct connection to the outside outlet, minus 5 feet for each mitered 90-degree elbow and 2 feet 6 inches for each mitered 45, unless the dryer maker's installation instructions set a different limit.
+
+## q_how_long_can_a_dryer_vent_be_body
+
+### Doing the subtraction
+
+The 35-foot figure comes from Section M1502 of the 2023 Florida Building Code, Residential, and it shrinks quickly once the duct starts turning. Three 90-degree elbows take away 15 feet, which leaves only 20 feet of straight pipe. Two 45-degree bends cost another 5. The short flexible hose between the dryer and the wall, which the code calls the transition duct, is not counted toward the 35 feet, but it has its own rules: a single listed length no longer than 8 feet, and never hidden inside a wall or floor.
+
+### When the dryer manual sets the number
+
+The code offers a second route. Under M1502.4.5.2, the size and maximum length can be taken from the dryer manufacturer's installation instructions instead, and the fitting table applies only if those instructions give no fitting calculations. Those instructions have to be handed to the building inspector at the concealment inspection, before the duct disappears behind drywall. That is why the same 30-foot attic run can pass for one dryer and fail for another: the manual for the machine actually installed is the document that counts.
+
+### Booster fans for runs that cannot be shortened
+
+Where a duct genuinely has to be long, the code allows a dryer exhaust duct power ventilator, a booster fan installed in the run. It must conform to UL 705 and be installed to its maker's instructions, and the maximum length then follows the fan manufacturer's figures rather than the 35-foot table. A booster is a fix for a duct that cannot be rerouted, not a reason to skip measuring.
+
+### A label belongs near the dryer
+
+When a duct's equivalent length is over 35 feet, the code requires that length to be written on a permanent label or tag within 6 feet of where the exhaust duct connects. A missing label on an obviously long run is worth noticing during a home purchase, because it suggests nobody checked the length when the duct went in.
+
+### The rest of the rules for the run
+
+Length is only part of it. The duct must be metal with a smooth interior, at least 28 gauge, 4 inches nominal, supported at least every 12 feet and never joined with screws or similar fasteners. It has to end outside the building with a backdraft damper and no screen, and, if the dryer maker does not say otherwise, at least 3 feet from any opening into the house.
+
+### Why Ocala ducts run long
+
+Ocala's single-story homes with central laundry rooms are the classic over-length case: the duct climbs into the attic, crosses it with two or three elbows, and exits through the roof. Manufactured homes have the opposite problem. Federal standards at 24 CFR 3280.708 forbid a dryer duct from ending beneath the home, so a duct that stops under the floor needs extending past the skirting, which adds length that has to be counted.
+
+### What to do with a duct that is too long
+
+Measure it, count the elbows, and check the dryer manual. If the run is over, the choices are rerouting to a shorter exit, swapping sharp elbows for gentler bends, or a listed booster fan. That work is [dryer vent repair](../dryer-vent-repair/); a long run that is merely dirty is [dryer vent cleaning](../dryer-vent-cleaning/) or, through the roof, [roof dryer vent cleaning](../roof-dryer-vent-cleaning/). The [pricing page](../pricing/) explains how repairs are quoted.

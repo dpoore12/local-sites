@@ -21,8 +21,8 @@
     </div>
     <div class="answer-box">
       <p><strong>{{ q.h1 }}</strong> If the answer here points at a repair, call
-        {{ s.phone_display }} and a technician is dispatched with the parts on the truck.
-        You get the price before the work starts.</p>
+        {{ s.phone_display }}{% if s.answer_line %} {{ s.answer_line }}{% else %} and a technician is dispatched with the parts on the truck.
+        You get the price before the work starts.{% endif %}</p>
       <a class="cta-button" href="tel:{{ s.phone_tel }}">{{ ico_phone | safe }}Call {{ s.phone_display }}</a>
     </div>
   </div>

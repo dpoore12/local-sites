@@ -352,6 +352,8 @@ Miami-Dade required every septic system in the county to be registered with its 
 
 A routine pump-out is priced per visit, with lid access, tank size and the hour moving it within the range. The pricing page shows the ranges posted by South Florida septic operators, alongside the county and state rules that apply to bigger jobs.
 
+Common questions: [How Often Should a Septic Tank Be Pumped?](../how-often-should-a-septic-tank-be-pumped/) and [How Does a Septic Tank Work?](../how-does-a-septic-tank-work/)
+
 ## svc_emergency_septic_service_lede
 
 Emergency septic service in North Miami for sewage backing up into the house, a tank overflowing after heavy rain, or a smell that will not go away, dispatched ahead of routine calls.
@@ -455,3 +457,75 @@ Research from Florida International University found that Miami-Dade homes on se
 ### What it costs
 
 Abandonment is priced after a look at the tank and its access, and the permit fee is separate. The pricing page shows the published range for a full conversion and the county assistance available.
+
+## q_how_often_should_a_septic_tank_be_pumped_lede
+
+A household septic tank is typically pumped every three to five years and inspected at least every three, with the exact interval set by the tank's size and how much water and solids the household sends into it.
+
+## q_how_often_should_a_septic_tank_be_pumped_body
+
+### The standard answer, from the people who regulate it
+
+The Environmental Protection Agency says household tanks are typically pumped every three to five years and that the average system should be inspected by a septic professional at least every three. Miami-Dade County gives North Miami owners the same three-to-five-year guidance, with the instruction to go sooner if problems are suspected and to use a hauler holding a county Liquid Waste Transporter permit. The county is also blunt that a tank is not something to open yourself, because it holds dangerous gases and bacteria.
+
+### What moves your number
+
+The EPA lists four things that set the interval: household size, the total wastewater generated, the volume of solids in it, and the tank's size. A couple in a house with a large tank can sit at the long end. A family of five with a garbage disposal on the same tank will be at the short end or below it. Water volume counts as much as solids, and the EPA's own figures show why: indoor use can reach 70 gallons per person per day, and one running toilet can add as much as 200 gallons a day on its own. Miami-Dade puts an average family of four at about 300 gallons daily.
+
+### The measurement that actually decides it
+
+The calendar is a stand-in for a measurement. According to the EPA, a tank is due when the bottom of the floating scum layer is within six inches of the outlet, when the top of the settled sludge is within 12 inches of it, or when sludge and scum together take up more than a quarter of the liquid depth. A contractor who checks those layers at each visit can tell you whether the next pump-out belongs at three years or five.
+
+### Newer Miami-Dade systems need yearly attention
+
+Since 1 January 2023, Ordinance 22-83 has meant that a new system, or a full replacement, cannot be a conventional Type 1 tank in Miami-Dade; it has to be one of the performance-based types. The EPA says alternative systems with mechanized parts should generally be inspected once a year rather than every three. If a North Miami property has had its system replaced recently, it likely falls in that group, and its maintenance schedule is set by the system design rather than the old three-to-five rule.
+
+### Timing around the wet season
+
+Miami-Dade's Connect 2 Protect program notes that South Florida groundwater sits only a few feet below the surface and usually peaks around September or October, and that about 9,000 county systems are already vulnerable to rising groundwater. A tank sitting close to its pumping threshold going into that season is the one most likely to back up. Booking the routine pump-out before the end of the rainy season, rather than after the first gurgle, is the practical North Miami adjustment.
+
+### When the schedule ends
+
+If written notice arrives that public sewer is available, the job changes from routine pumping to a final pump-out and proper abandonment. Keep that timing in mind before booking a regular service shortly ahead of a hookup.
+
+### Where to go from here
+
+A scheduled visit is [septic tank pumping](../septic-tank-pumping/); a backup or overflow is [emergency septic service](../emergency-septic-service/). Wet ground that stays wet after a pump-out points to [drain field repair](../drain-field-repair/), and a sewer hookup means [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) shows ranges posted by South Florida operators.
+
+## q_how_does_a_septic_tank_work_lede
+
+A septic tank is a buried, watertight box that holds a home's wastewater long enough for solids to sink and grease to float, then sends the clearer middle layer out to a drainfield, where the soil does the rest of the treatment.
+
+## q_how_does_a_septic_tank_work_body
+
+### Two parts, one pipe in
+
+The EPA describes a typical septic system as two main parts: the tank and the drainfield, also called a soil absorption field. Every drain in the house, toilets, showers, the kitchen sink and the washing machine, feeds one main pipe that runs into the tank. Tanks are usually concrete, fiberglass or polyethylene. In Florida, the Department of Health says septic systems serve about 30 percent of the state's population.
+
+### Three layers inside the tank
+
+Wastewater slows down once it enters the tank, and it separates. Oil and grease float to the top as scum. Heavier solids settle to the bottom as sludge. The liquid in between, called effluent, is the only part meant to leave. Compartments and a T-shaped outlet keep the scum and sludge from following it out, and bacteria in the tank digest some of the organic matter. They never digest all of it, which is why sludge builds up and why tanks need pumping.
+
+### What happens in the drainfield
+
+The effluent flows from the tank into a shallow, covered excavation in unsaturated soil. Perforated pipes release it, and it filters down through the ground. On the way, the soil removes harmful coliform bacteria, viruses and some nutrients, and the treated water eventually reaches groundwater. The word that matters is unsaturated: the system depends on dry soil between the pipes and the water table.
+
+### Why that is hard in North Miami
+
+That gap is thin here. Miami-Dade's 2022 ordinance memo notes that a drainfield's bottom typically sits 6 to 24 inches above the Biscayne Aquifer, and the county's Connect 2 Protect program says groundwater is only a few feet down and usually peaks in September or October. When the water table rises into the drainfield, the soil cannot treat or absorb effluent, and the EPA warns a flooded drainfield can push sewage to the surface or back into toilets and sinks. The county estimates about 9,000 local systems are already vulnerable to that today.
+
+### What a conventional system cannot remove
+
+University of Florida extension educators point out that conventional tank-and-drainfield systems remove pathogens well but not nutrients such as nitrogen. That matters for Biscayne Bay. During the August 2020 fish kill, which ran from North Miami south to Virginia Key, coverage listed septic effluent among the nutrient pollutants that worsen low-oxygen conditions. It is the reason Miami-Dade's Ordinance 22-83 now requires performance-based systems, with added treatment steps, for every new or fully replaced system since 2023.
+
+### Alternative systems add a stage
+
+The EPA notes that alternative designs use pumps or gravity to move effluent through sand, peat, constructed wetlands or other media, targeting nitrogen, phosphorus and pathogens before the water reaches the soil. They do more, and they need more frequent inspection as a result.
+
+### Keeping it working
+
+The county's homeowner guidance boils down to a few rules: pump every three to five years, keep grease and wipes out of the drains, never drive or park over the system, and keep trees away from the drainfield. Slow drains, gurgling pipes, odors or wet spots over the field are the warning signs.
+
+### Where to go from here
+
+Routine maintenance is [septic tank pumping](../septic-tank-pumping/), and soggy ground over the field is [drain field repair](../drain-field-repair/). A backup is [emergency septic service](../emergency-septic-service/), and a sewer connection leads to [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) lists posted ranges for each.

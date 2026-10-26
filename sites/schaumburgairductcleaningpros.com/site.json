@@ -18,6 +18,7 @@
   ],
   "phone_display": "(224) 524-0789",
   "phone_tel": "+12245240789",
+  "answer_line": "with the address and what the job is, and ask for the price before anything is booked.",
   "phone_status": "LIVE",
   "phone_note": "Telnyx local number, bought 2026-10-25 (order 8f5ea477, number id 3078845303944644351). In 224, the overlay on the 847 northwest suburbs. Rings the call-desk voicemail until a renter is found.",
   "emergency": false,
@@ -317,5 +318,25 @@
         ]
       }
     ]
-  }
+  },
+  "questions": [
+    {
+      "slug": "is-duct-cleaning-a-waste-of-money",
+      "h1": "Is Duct Cleaning a Waste of Money",
+      "accent": "How to Tell Before You Pay",
+      "photo": "assets/work-1.jpg",
+      "icon": "search",
+      "keyword": "is duct cleaning a waste of money",
+      "volume": 3600
+    },
+    {
+      "slug": "how-does-duct-cleaning-work",
+      "h1": "How Does Duct Cleaning Work",
+      "accent": "Step by Step, Furnace Included",
+      "photo": "assets/work-2.jpg",
+      "icon": "gear",
+      "keyword": "how does duct cleaning work",
+      "volume": 250
+    }
+  ]
 }
