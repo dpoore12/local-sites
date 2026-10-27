@@ -182,3 +182,7 @@ Everything needed to file the 10 batch 1 sites on the only four free directories
 
 The towns are the ones each site names in its own "where we serve" copy. ZIPs are from the Census Bureau's 2020 ZIP-to-town relationship file: a ZIP is listed if it covers at least 3% of the town's land or a quarter of the ZIP lies inside the town, which drops P.O.-box-only ZIPs and keeps the edges. Added by mailing name, because Census doesn't treat them as places: 30068 (East Cobb) and 32533 (Cantonment). Perdido Key falls in 32507. Dropped: 34240, the Sarasota County side of Lakewood Ranch, since the Bradenton site serves Manatee County. Data: `kyle-screen/oct-top3/site_zips_census2020.json`.
 
+
+## Filing log
+
+- **26 Oct, NearSpotUSA:** Bentonville and Ocala were submitted through Dan's Chrome (Cloudflare's check passed on its own there) and are in review. The third submission was refused: "This email domain has already submitted several unrelated businesses. If you manage listings for clients, contact us instead." Stopped there. The other 8 aren't filed. Getting around this with other email domains would be dodging their spam rule, so we won't. The only clean route is writing to them as a listings manager, which needs Dan's OK because it's outreach.
