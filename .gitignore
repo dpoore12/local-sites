@@ -13,3 +13,6 @@ dist/
 research_*.json
 tools/
 deploy-manifest.json
+
+# Kyle video transcripts are other people's content: keep local
+kyle-screen/kyle-videos/
