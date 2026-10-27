@@ -16,3 +16,11 @@ deploy-manifest.json
 
 # Kyle video transcripts are other people's content: keep local
 kyle-screen/kyle-videos/
+
+# Prospect lists (business contact data): keep local
+outreach/
+
+# Raw research pulls: rebuildable, keep local
+kyle-screen/trades2/serp/
+kyle-screen/trades2/vol/
+kyle-screen/trades2/grid2.json
