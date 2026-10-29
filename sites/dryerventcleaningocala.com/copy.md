@@ -358,7 +358,7 @@ The USFA's dryer flyer gives the basics: empty the lint screen before and after 
 
 Operators serving Ocala post standard cleanings from under a hundred dollars to the mid two hundreds, depending on the house and what is included. The pricing page carries the posted figures and names every operator behind them.
 
-Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/) and [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/)
+Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/), [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/), [Signs Your Dryer Vent Is Clogged](../signs-your-dryer-vent-is-clogged/) and [Why Is My Dryer Taking So Long to Dry?](../why-is-my-dryer-taking-so-long-to-dry/)
 
 ## svc_roof_dryer_vent_cleaning_lede
 
@@ -535,3 +535,101 @@ Ocala's single-story homes with central laundry rooms are the classic over-lengt
 ### What to do with a duct that is too long
 
 Measure it, count the elbows, and check the dryer manual. If the run is over, the choices are rerouting to a shorter exit, swapping sharp elbows for gentler bends, or a listed booster fan. That work is [dryer vent repair](../dryer-vent-repair/); a long run that is merely dirty is [dryer vent cleaning](../dryer-vent-cleaning/) or, through the roof, [roof dryer vent cleaning](../roof-dryer-vent-cleaning/). The [pricing page](../pricing/) explains how repairs are quoted.
+
+## q_signs_your_dryer_vent_is_clogged_lede
+
+The surest sign is an ordinary load of towels that needs a second cycle. Close behind it come a dryer top or laundry room that gets hotter than it used to, a weak breath of air at the outside hood, a burning or musty smell, and lint turning up behind the machine or around the outlet.
+
+## q_signs_your_dryer_vent_is_clogged_body
+
+### 1. Loads take longer than they used to
+
+The Consumer Product Safety Commission's dryer safety alert names this one first: clothing still damp at the end of a typical cycle, or drying that needs more time than normal, may mean the lint screen or the exhaust duct is blocked. What matters is change: jeans that took fifty minutes last spring and now need eighty.
+
+### 2. Little or no air at the outside
+
+The CPSC also tells owners to check the outside vent while the dryer runs and make sure exhaust air is escaping; if it is not, the vent or duct may be blocked. A garage laundry in a block house usually vents through a low wall hood that is easy to test by hand; a central utility room often vents to a roof cap nobody can check safely, so the sign gets missed.
+
+### 3. Heat where it should not be
+
+A restricted duct traps hot air in the drum. The top of the cabinet gets hot to the touch, clothes come out scorching, and the laundry room warms up in a way it did not before. Ocala makes this sign harder to read, because a garage laundry in July is already hot: the Ocala weather station's 1991 to 2020 normals show daily highs of 91 to 92 degrees from June through August and about 110 days a year at 90 or above. Compare the dryer against itself on similar days.
+
+### 4. A smell
+
+A scorched or burning smell while the dryer runs is a stop sign. Turn it off and do not use it again until the duct and the machine have been checked. A musty or sour smell is different: it usually means damp lint is sitting in a low spot of the duct, often a sag in an attic run, and staying wet. Ocala's normals put about 28 inches of rain into June through September alone, and moist air from a struggling dryer has nowhere to go but onto that lint.
+
+### 5. Lint in the wrong places
+
+Lint collecting on the floor behind the dryer, around the screen slot, or on the wall below the outside hood means air is escaping where it should not or backing up. The CPSC advises cleaning behind the dryer and having a qualified service person clean the inside of the dryer's cabinet periodically, because lint builds up there too.
+
+### 6. The hose behind the machine
+
+Pull the dryer out and look. White plastic or thin foil accordion hose is a sign in itself. The CPSC says that kind of duct traps lint more easily and kinks or crushes more readily, and recommends rigid or corrugated semi-rigid metal instead. A metal hose flattened against the wall chokes airflow too.
+
+### 7. A flap that will not move
+
+The hood flap should lift while the drum turns and fall shut when it stops. A flap stuck open lets in rain, lizards and insects; one stuck shut, or a hood packed with twigs and grass, is the beginning of a bird nest. Florida's residential code requires a backdraft damper at the termination and forbids screens there, so a screen someone added to keep animals out is a blockage waiting to happen.
+
+### Why the signs are worth acting on
+
+The National Fire Protection Association's figures for 2010 to 2014 put home fires involving clothes dryers or washers at about 15,970 a year, with 13 deaths, 440 injuries and $238 million in direct damage. Dryers were involved in 92 percent of them, failure to clean was the leading cause at 31 percent, and dust, fiber or lint was the item that caught first in 27 percent of the dryer fires.
+
+### A two-minute check from the ground
+
+Nearly three in ten Marion County residents are 65 or older, so here is a test that needs no ladder. Run the dryer on high heat with a load in it. Go outside to the hood and hold a hand in front of it. A firm, warm stream that pushes the flap wide open is healthy. A faint, lukewarm puff, or nothing, means the duct needs attention whatever the date of the last cleaning. A roof exit is better left to someone with the right equipment.
+
+### What each sign points to
+
+- Slow drying, weak flow or a musty smell: [dryer vent cleaning](../dryer-vent-cleaning/) of the whole run.
+- Any of the above on a roof exit: [roof dryer vent cleaning](../roof-dryer-vent-cleaning/).
+- Twigs, grass or chirping at the hood: [dryer vent bird nest removal](../dryer-vent-bird-nest-removal/).
+- A crushed or foil hose, or an outlet that ends under a mobile home: [dryer vent repair](../dryer-vent-repair/).
+
+The [pricing page](../pricing/) lists what operators serving Ocala post for each of these.
+
+## q_why_is_my_dryer_taking_so_long_to_dry_lede
+
+In most homes it is airflow: lint packed into the duct, a crushed hose behind the machine, or an outside flap that will not open, so the hot, wet air has nowhere to go. Less often the dryer itself is failing, with a weak heating element, a tired gas igniter or a coated moisture sensor, or the load is simply too big or too wet when it goes in.
+
+## q_why_is_my_dryer_taking_so_long_to_dry_body
+
+### How a dryer gets clothes dry
+
+A dryer heats air and pushes it through the tumbling clothes and out of the house. Heat turns the water in the fabric into vapor, but the vapor only leaves if fresh air keeps replacing it. Cut the airflow and the drum fills with saturated air that cannot take on more water. That is why airflow trouble shows up first as long drying times.
+
+### Rule out the easy causes first
+
+- **The lint screen.** Empty it every load. If it looks clean but water beads on the mesh instead of passing through, dryer-sheet residue may be coating it; a wash with warm soapy water and a soft brush clears that.
+- **The load.** An overstuffed drum cannot tumble.
+- **The washer.** Clothes that come out of a weak final spin dripping will take far longer to dry.
+- **The setting.** An automatic cycle on "less dry," or a delicate setting chosen by mistake, ends early and leaves things damp.
+
+### Problems in the duct
+
+If those check out, look at the path the air takes. Lint that slips past the screen builds up on the duct walls, at every elbow and at the outlet, shrinking the opening a little at a time. The National Fire Protection Association advises clearing lint from the vent pipe once a year, or sooner if drying is taking longer than normal, which is exactly the symptom in question. Florida's residential code also limits how far the air can travel: 35 feet from the transition connection to the outlet, reduced 5 feet for each mitered 90-degree elbow. A long attic run from a central laundry room can exceed that, and an over-length duct drags however recently it was cleaned.
+
+The hose right behind the dryer is the other usual suspect. The code allows a listed transition duct no longer than 8 feet that is not hidden in a wall, and the CPSC warns that plastic and foil accordion hose crushes and traps lint easily.
+
+### Problems at the outlet
+
+The outside end matters as much as the duct. A flap painted shut, warped by sun or held closed by a wasp nest, a screen someone added even though Florida's code forbids one at the termination, or a bird nest in the hood can all cut flow to a trickle. Manufactured homes have their own version: federal standards at 24 CFR 3280.708 say the dryer duct may not end beneath the home, yet some still stop under the floor, where lint piles up against the skirting and the air backs up.
+
+### Problems in the dryer itself
+
+When the duct is clear and air blows strong at the outlet, look at the machine. An electric dryer that tumbles but barely warms may have a failing element; a gas dryer whose flame drops out may have weak igniter or valve coils. Many dryers use metal sensor bars inside the drum to judge dryness, and residue from dryer sheets can confuse them so the cycle ends early; the owner's manual usually explains how to wipe them. Dryers also carry a thermal cutoff that shuts off heat when the cabinet overheats, and a restricted vent is a common reason it trips. So the vent gets checked before anyone replaces parts; elements and gas valves are work for an appliance technician.
+
+### Ocala's air does not help
+
+A dryer pulls its air from the room it sits in. In Ocala that room is often a garage or a utility closet, and the Ocala station's 1991 to 2020 normals show 51.6 inches of rain a year and more than 3,100 cooling degree days. Warm, muggy intake air is already carrying moisture when it enters the drum, so the machine has less room to absorb water from the clothes. A closed closet with no louvers starves it of air. Both help explain why a marginal duct shows symptoms here sooner than somewhere dry.
+
+### A short diagnosis, in order
+
+1. Clean the lint screen and dry a normal-sized load on the usual setting.
+2. Stand at the outside outlet while it runs and feel for a strong, warm stream.
+3. Pull the dryer out and check the hose for crushing, foil or plastic.
+4. Open the closet door or garage and see if drying improves.
+5. If air is weak, the duct needs cleaning or repair; if air is strong but there is no heat, call an appliance technician.
+
+### Where to go from here
+
+A clogged run is [dryer vent cleaning](../dryer-vent-cleaning/), or [roof dryer vent cleaning](../roof-dryer-vent-cleaning/) when it exits through the roof. A crushed hose, an over-length run or an outlet under a mobile home is [dryer vent repair](../dryer-vent-repair/). The [pricing page](../pricing/) shows the posted figures for each.

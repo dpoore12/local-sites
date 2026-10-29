@@ -317,6 +317,22 @@
       "photo": "assets/work-1.jpg",
       "icon": "cal",
       "keyword": "do i need a permit for a dumpster"
+    },
+    {
+      "slug": "can-you-put-a-dumpster-on-the-street",
+      "h1": "Can You Put a Dumpster on the Street",
+      "accent": "Driveway First in Biloxi",
+      "photo": "assets/work-3.jpg",
+      "icon": "house",
+      "keyword": "can you put a dumpster on the street"
+    },
+    {
+      "slug": "what-cant-you-put-in-a-dumpster",
+      "h1": "What Can't You Put in a Dumpster",
+      "accent": "What the Rubbish Sites Refuse",
+      "photo": "assets/hero.jpg",
+      "icon": "wrench",
+      "keyword": "what can't you put in a dumpster"
     }
   ]
 }

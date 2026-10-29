@@ -337,6 +337,22 @@
       "icon": "gear",
       "keyword": "how does duct cleaning work",
       "volume": 250
+    },
+    {
+      "slug": "can-dirty-air-ducts-make-you-sick",
+      "h1": "Can Dirty Air Ducts Make You Sick",
+      "accent": "Dust, Mold and the Furnace",
+      "photo": "assets/work-3.jpg",
+      "icon": "warn",
+      "keyword": "can dirty air ducts make you sick"
+    },
+    {
+      "slug": "signs-your-air-ducts-need-cleaning",
+      "h1": "Signs Your Air Ducts Need Cleaning",
+      "accent": "What Counts and What Does Not",
+      "photo": "assets/hero.jpg",
+      "icon": "house",
+      "keyword": "signs your air ducts need cleaning"
     }
   ]
 }

@@ -358,7 +358,7 @@ A price far below the posted local range usually means supply registers only, no
 
 Posted Chicago-area prices for one furnace system cluster from the low hundreds into the mid hundreds, with full packages that include the blower running higher. The pricing page on this site lays out the bands with the companies that published them, so you can see whether a quote is inside the range and what scope the range assumes.
 
-Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/) and [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/)
+Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/), [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/), [Does Duct Cleaning Help With Allergies?](../does-duct-cleaning-help-with-allergies/) and [What Is in Your Air Ducts?](../what-is-in-your-air-ducts/)
 
 ## svc_furnace_blower_cleaning_lede
 
@@ -543,3 +543,87 @@ About 62 percent of Wheaton's homes were built before 1980, and their ductwork i
 ### What is necessary in every house
 
 Whatever the answer on cleaning, a few things always pay off: the highest-efficiency filter the system allows, changed on schedule, with no gaps for air to slip around it; a dry, clean drain pan; and repairs to any leaky duct joints in unconditioned spaces. Those keep the reasons for cleaning from showing up at all. If a reason does appear, the sourced cost ranges on the [pricing page](../pricing/) show what a whole-system job runs in the Chicago suburbs.
+
+## q_does_duct_cleaning_help_with_allergies_lede
+
+Usually not on its own. The EPA says duct cleaning has never been shown to prevent health problems, and in a Wheaton house most allergy relief comes from the furnace filter, basement humidity and keeping ragweed outdoors. Cleaning earns its place for an allergic household in narrower cases: mouse droppings in a return, mold growing on metal ducts, or drywall powder pulled in during a remodel.
+
+## q_does_duct_cleaning_help_with_allergies_body
+
+### What the EPA actually found
+
+EPA's consumer page on duct cleaning says studies have not conclusively shown that dust levels inside a home rise because the ducts are dirty, because most of what settles in ductwork sticks to the metal and stays there. It adds that there is no evidence a light layer of household dust in the ducts poses any health risk. The same page lists mold, rodents and insects, and heavy debris as things that can trigger reactions in some people. A cleaning helps when one of those is present and does little when none is.
+
+### What Wheaton noses are reacting to
+
+The Asthma and Allergy Foundation of America counts more than 106 million people in the U.S. with some kind of allergy each year, and more than 82 million diagnosed with seasonal allergic rhinitis in 2024. Seasonal means pollen, and the closest official count to Wheaton comes from the Loyola Medicine Allergy Count, sampled on the roof of the Gottlieb Professional Building in Melrose Park every weekday morning from March to October. Its calendar: trees from March to May, grass in May and June, weeds and ragweed from mid-August until the first freeze, and mold spores peaking in damp spring and fall weather.
+
+That calendar explains why so many people suspect the ducts. The National Weather Service puts the normal first freeze at O'Hare, the official station about 13 miles from Wheaton, at October 19. Ragweed season ends around then, and the furnace usually starts up within weeks of it. Windows shut, the blower starts moving the same indoor air all winter, and the American College of Allergy, Asthma and Immunology points out that a heating system recirculates whatever triggers are already inside. Symptoms that linger into November usually trace to dust mites, pet dander or pollen carried in on September clothes.
+
+### Where the ducts genuinely matter
+
+**Mice.** Illinois Extension notes that mice move into buildings for shelter during cold Illinois winters, can squeeze through gaps of about half an inch, and spread allergens in their urine and droppings. A basement return or a panned joist cavity is an easy route. The CDC says not to sweep or vacuum droppings or nesting material, which is why this calls for a sealed, negative-pressure [air duct cleaning](../air-duct-cleaning/) after the entry holes are closed, not a shop vacuum at the register.
+
+**Mold on hard surfaces.** Visible growth inside sheet-metal ducts, on the coil or in the drain pan is a real reason to clean. EPA says the moisture source has to be found and fixed first, and that wet or moldy insulation is replaced rather than cleaned.
+
+**Remodel dust.** Fine joint-compound powder is not an allergen, but a furnace running during sanding packs it into the return trunk and blower, and the system keeps circulating it until someone removes it. That is the job [post-renovation duct cleaning](../post-renovation-duct-cleaning/) exists for.
+
+### The filter does more than the cleaning
+
+ACAAI's household advice is to use a furnace filter rated MERV 11 or 12 and change it every three months. EPA's wording is the highest efficiency the system's manufacturer recommends, changed regularly, with no gaps that let air slip around the filter. Both points matter in older Wheaton basements, where the median house dates from 1976 and the filter slot on a replacement furnace is often a loose fit cut into an old return. A filter with daylight around its edges does far less than its rating suggests.
+
+### Humidity in a DuPage basement
+
+ACAAI recommends keeping indoor humidity below 60 percent to discourage mold, and says dust mites multiply in warm, humid places. Summer basements here run damp, and a dehumidifier does more for an allergic family than any duct service. In winter, run any furnace-mounted humidifier exactly as its maker says, since EPA names a poorly kept one as a route for moisture into ductwork.
+
+### Claims to treat with suspicion
+
+Be wary of any pitch promising allergy relief from duct cleaning, especially when it comes with a fog, spray or sealant. EPA has registered no biocide for use in internally insulated ducts, notes that little research supports most biocides or ozone used inside ducts, and warns that some people react badly to them.
+
+### When cleaning is the right call
+
+If an inspection turns up droppings, visible growth or construction debris, a full-system cleaning is worth booking, and a caked blower wheel is handled through [furnace blower cleaning](../furnace-blower-cleaning/). If it turns up only ordinary dust, spend the money on filters and a dehumidifier instead. The [pricing page](../pricing/) shows the sourced ranges for a whole-system job in the Chicago suburbs.
+
+## q_what_is_in_your_air_ducts_lede
+
+Mostly ordinary household dust that has stuck to the inside of the metal: skin flakes, carpet and clothing fibers, pet hair, and pollen that came in through doors and windows. In Wheaton houses the list often adds drywall powder from a basement finish, and now and then something more serious, like mouse droppings, mold on a damp section, or scraps a contractor dropped into a floor boot.
+
+## q_what_is_in_your_air_ducts_body
+
+### The ordinary layer
+
+Every forced-air system pulls room air through its returns, past the filter, across the blower and coil, and back out the supply runs. Whatever is floating in a room gets a chance to land inside. EPA's guidance says most of that dirt clings to duct surfaces and does not necessarily come back out into the living space, and that a light coating of household dust in the ducts has not been shown to carry any health risk. A gray film inside a register boot is normal and, on its own, no reason to spend money.
+
+### Returns and supplies are not the same
+
+The return side sits upstream of the filter, so it collects the most. A return grille fuzzed with lint is what EPA calls expected. The supply side is downstream of the filter and should stay comparatively clean. Heavy dust on a supply register usually means air is getting around the filter, through a loose filter door, a gap at the slot, or a leaky return joint in an unfinished basement pulling in dirt from the laundry area. Cleaning the supplies without fixing that leak only resets the clock.
+
+### Drywall and construction leftovers
+
+Wheaton's basement remodeling guideline runs inspections through the rough-ins, insulation and a final, but none of them look inside the ductwork, and taping and sanding happen after the rough inspections are signed off. If the furnace ran while joint compound was being sanded, the returns pulled the powder in and it packed onto the blower wheel and into the return trunk. Remodels also leave solid debris: drywall screws, wire nuts, wood shims and chunks of compound that fell into floor boots before the registers went back on. This is the case [post-renovation duct cleaning](../post-renovation-duct-cleaning/) is built for.
+
+### Mice and their leftovers
+
+Mice look for warm places once Illinois nights turn cold. Illinois Extension says they get through openings of about half an inch, and that their urine and droppings carry viruses, bacteria and allergens; a dropping the size of a grain of rice is the usual sign. In a duct system they favor basement returns, panned joist cavities and abandoned branches left from an old furnace swap. The CDC says not to sweep or vacuum droppings or nesting material, and to soak them first with a disinfectant such as 1.5 cups of bleach in a gallon of water. Inside ductwork that means sealing entry points, then a full [air duct cleaning](../air-duct-cleaning/) with the system held under negative pressure so nothing is blown back into the rooms.
+
+### Moisture and mold
+
+EPA says moisture should not be present in ducts at all, and that controlling it is the most effective way to prevent mold. In a Wheaton house the summer air conditioner is the usual source. O'Hare's normals list about a thousand cooling degree days a year, enough for the coil to sweat for months, and a clogged condensate pan or an uninsulated supply run through a damp crawlspace can keep a section of duct wet. Visible growth on sheet metal or the coil is one of EPA's three reasons to clean, after the water problem is fixed.
+
+### Old materials in an old house
+
+About 62 percent of Wheaton's homes were built before 1980, and some of the oldest still hold parts of their first heating systems. EPA lists oil and coal furnaces with asbestos insulation and pipes covered with asbestos blankets or tape among the places asbestos turns up in homes. Its advice is to leave undamaged material alone and not touch anything suspect. A competent crew that finds old wrapped piping or furnace insulation near the work stops and says so rather than brushing through it.
+
+### Checking for yourself
+
+With a screwdriver and a phone, remove a supply register in a bedroom and photograph down the boot with the flash on. Do the same at a return grille near the floor. Pull the filter and look at the slot for gaps. Then compare:
+
+- Gray, even dust on the return side and a cleaner supply: normal, and a filter question.
+- Dust caked on supplies too: look for air bypassing the filter.
+- Dark specks the size of rice, shredded paper or insulation: mice.
+- Fuzzy or spotted growth on bare metal, or a wet drain pan: moisture first, then cleaning.
+- White powder or hardware in the boots: remodel debris.
+
+### What to do with what you find
+
+Ordinary dust calls for a good filter, not a crew. Droppings, growth or construction debris call for a cleaning that reaches every return, supply and trunk, and a dusty blower wheel is handled through [furnace blower cleaning](../furnace-blower-cleaning/). The [pricing page](../pricing/) lists the posted Chicago-area ranges and the scope each range assumes.

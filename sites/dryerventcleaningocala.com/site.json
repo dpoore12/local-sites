@@ -297,6 +297,22 @@
       "icon": "wrench",
       "keyword": "how long can a dryer vent be",
       "volume": 450
+    },
+    {
+      "slug": "signs-your-dryer-vent-is-clogged",
+      "h1": "Signs Your Dryer Vent Is Clogged",
+      "accent": "Seven Things to Notice",
+      "photo": "assets/work-3.jpg",
+      "icon": "eye",
+      "keyword": "signs your dryer vent is clogged"
+    },
+    {
+      "slug": "why-is-my-dryer-taking-so-long-to-dry",
+      "h1": "Why Is My Dryer Taking So Long to Dry",
+      "accent": "Airflow First, Then the Machine",
+      "photo": "assets/hero.jpg",
+      "icon": "wrench",
+      "keyword": "why is my dryer taking so long to dry"
     }
   ]
 }

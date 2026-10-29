@@ -329,6 +329,22 @@
       "icon": "bolt",
       "keyword": "what is ceramic window tint",
       "volume": 600
+    },
+    {
+      "slug": "florida-window-tint-law",
+      "h1": "Florida Window Tint Law",
+      "accent": "28, 15 and 6 Percent",
+      "photo": "assets/work-3.jpg",
+      "icon": "shield",
+      "keyword": "florida window tint law"
+    },
+    {
+      "slug": "does-window-tint-reduce-heat",
+      "h1": "Does Window Tint Reduce Heat",
+      "accent": "Rejection, Not Darkness",
+      "photo": "assets/work-1.jpg",
+      "icon": "bolt",
+      "keyword": "does window tint reduce heat"
     }
   ]
 }

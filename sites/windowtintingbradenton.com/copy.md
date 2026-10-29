@@ -352,7 +352,7 @@ The glass is cleaned inside and out, the film is cut to each window and heat-shr
 
 The price is set by how many pieces of glass the vehicle has, the film line, and whether old film has to come off. The pricing page shows full-car ranges posted by installers working Bradenton and Sarasota for carbon and ceramic film, with the Florida limits beside them.
 
-Common questions: [How Long Does Window Tinting Take?](../how-long-does-window-tinting-take/) and [What Is Ceramic Window Tint?](../what-is-ceramic-window-tint/)
+Common questions: [How Long Does Window Tinting Take?](../how-long-does-window-tinting-take/), [What Is Ceramic Window Tint?](../what-is-ceramic-window-tint/), [Florida Window Tint Law](../florida-window-tint-law/) and [Does Window Tint Reduce Heat?](../does-window-tint-reduce-heat/)
 
 ## svc_ceramic_window_tint_lede
 
@@ -541,3 +541,102 @@ Florida allows only a transparent strip above the AS-1 line on a windshield. Dar
 ### Where to go from here
 
 Film for heat control on a vehicle is [ceramic window tint](../ceramic-window-tint/), while a full car in any film line is [car window tinting](../car-window-tinting/). Ceramic-type films for houses fall under [residential window tinting](../residential-window-tinting/). The [pricing page](../pricing/) sets ceramic ranges posted around Bradenton next to carbon film.
+
+## q_florida_window_tint_law_lede
+
+Florida window tint law is set by Florida Statutes 316.2951 through 316.2957: front side windows must pass at least 28 percent of visible light, the glass behind the driver at least 15 percent on a car or 6 percent on an SUV or van, and the windshield may only carry a clear strip above the AS-1 line. Reflectance is capped too, and every reading gets 3 percentage points of tolerance.
+
+## q_florida_window_tint_law_body
+
+### The limits, glass by glass
+
+- **Windshield (316.2952):** film only along the top strip above the AS-1 line, and it must be transparent.
+- **Front side windows (316.2953):** at least 28 percent of visible light through, no more than 25 percent reflected.
+- **Rear side windows and back glass on a car (316.2954):** at least 15 percent through, no more than 35 percent reflected.
+- **The same glass on a multipurpose passenger vehicle (316.2954):** at least 6 percent through, no more than 35 percent reflected.
+
+Section 316.2955 gives every one of those percentages a tolerance of plus or minus 3. A front door reading 26 on a roadside meter in Bradenton is inside the law; a reading of 24 is not.
+
+### Car or multipurpose vehicle
+
+The 6 percent figure is the one people misapply. Section 316.2951 defines a multipurpose passenger vehicle as one designed to carry 10 persons or fewer that is built on a truck chassis or has special features for occasional off-road use. Many SUVs and vans qualify; sedans and coupes do not. The federal certification sticker on the driver's door frame states the vehicle type, and "MPV" there settles it.
+
+### Factory glass plus film
+
+Section 316.2957 exempts glazing a manufacturer installs when it meets federal standard FMVSS 205, which is why the dark rear glass on a new SUV off a Manatee County lot needs no label. Film added on top is different. The statutes test sunscreening as applied to that vehicle's glass, so a 20 percent film laid over factory privacy glass reads far darker than 20 percent on the meter. On the front doors, which usually leave the factory close to clear, it is why the number on the box and the number on the meter are not the same.
+
+### What the windshield can carry
+
+Section 316.2952 bars anything on the windshield except a short list: paperwork required by law, transparent sunscreening along the top strip that stays out of the driver's direct forward view (the AS-1 portion marked on the glass), a toll-payment device such as a SunPass transponder, and a GPS or similar satellite receiver.
+
+### Options behind the driver
+
+The rear section of the statute covers more than film:
+
+- **Perforated material** must transmit at least 30 percent of light and reflect no more than 35 percent.
+- **Louvers** may cut the driver's view by no more than half, and curtains or blinds must be open and secured while driving.
+- **A blacked-out back window** requires outside mirrors on both sides of the vehicle.
+
+### How a stop or a sale plays out
+
+The state approves the light meters used to test glass, and a reading from an approved device is presumed accurate and can be used as evidence. For the driver, film installed after 20 June 1984 that fails the limits is a noncriminal nonmoving infraction under 316.2956; replacing or repairing material that was legal when installed is not a violation. For whoever sold or installed the film, the same section makes it a second-degree misdemeanor. Every installation must also carry a pressure-sensitive label that destroys itself if peeled, fixed inside the left door jamb, naming the film's trade name and the installer's business and stating that the material complies.
+
+### The medical exemption, step by step
+
+Section 316.29545 lets the Department of Highway Safety and Motor Vehicles exempt a vehicle for a rider with lupus, another autoimmune disease, or a condition requiring limited light exposure. Form HSMV 83390 (revision 07/25) lists lupus with a positive ANA titer, dermatomyositis, albinism, total or facial vitiligo and xeroderma pigmentosum, plus an "other" box that needs a written diagnosis.
+
+- **Who signs:** a physician or dermatologist licensed in Florida, a physician at a military facility, state hospital or federal prison, a physician assistant, or an advanced practice registered nurse working under a physician's protocol.
+- **What goes with it:** a copy of a current driver license or ID card, and $6.50 per vehicle.
+- **Where it goes:** the application is mailed to the department in Tallahassee rather than handled at a Manatee County tag office counter; FLHSMV's procedure RS-48 says the department processes all sunscreening requests.
+- **What you get:** a certificate in the registered owner's name, kept in the glove compartment. The patient need not be on the title.
+- **How long it lasts:** it has no expiration date, but it cannot be transferred and becomes void once the car is sold.
+
+The registered owner must also remove the exempt film before selling the car, worth remembering before a trade-in on US-41.
+
+### Where to go from here
+
+Film at a legal shade for a full vehicle is [car window tinting](../car-window-tinting/), and heat-rejecting film that stays light enough for the front doors is [ceramic window tint](../ceramic-window-tint/). Homes are not covered by these statutes at all; see [residential window tinting](../residential-window-tinting/). The [pricing page](../pricing/) lists what installers around Bradenton post per vehicle.
+
+## q_does_window_tint_reduce_heat_lede
+
+Yes, window film reduces the heat that comes through glass, but how much depends on the film's published solar energy rejection, not on how dark it looks. In Bradenton, the gain is largest on glass that takes direct morning or afternoon sun, and on cars where a legal front-door shade still has to carry most of the heat control.
+
+## q_does_window_tint_reduce_heat_body
+
+### Darkness and heat are separate numbers
+
+Visible light transmission, the 5, 20 or 35 percent printed on a tint sample, measures only how much light gets through. The International Window Film Association's guidance is that heat control follows total solar energy rejection, or TSER: the better the TSER, the better the heat control. For house glass, the U.S. Department of Energy's Energy Saver guidance points to the solar heat gain coefficient, or SHGC, a number between 0 and 1 where lower means less solar heat let in.
+
+Ultraviolet protection is a third, separate claim. The IWFA puts UV at only about 3 percent of the energy in normal sunlight, so a film blocking 99 percent of UV protects skin and upholstery but tells you almost nothing about heat.
+
+### How film actually cuts heat
+
+The IWFA describes films as changing a window's SHGC by reflecting, absorbing or transmitting solar energy. On houses, reflective films can bounce a large share away. On cars in Florida, reflection is capped by statute: no more than 25 percent on the front doors and 35 percent behind the driver. That leaves absorption of infrared, the band you feel as warmth, doing most of the work on a legal front window, and it is why film chemistry matters more here than in states that allow mirror-like glass.
+
+### The Bradenton sun problem
+
+Bradenton sits near 27.5 degrees north latitude. At the June solstice the noon sun there climbs to about 86 degrees above the horizon, almost straight overhead. That has two consequences. At midday, the roof, the windshield and the sloped back glass of a car take the direct load, while side windows meet the sun at a glancing angle. Morning and late afternoon are different: a low sun drives straight through east and west glass. For a house in Manatee County, the west-facing slider or bedroom window that turns a room unusable after 3 p.m. is usually the best first candidate for film.
+
+The heat stacks up fast. On 5 July 2023, the National Weather Service put Manatee County under a heat advisory with heat index values of 108 to 112 forecast near I-75 and the coast, according to the Bradenton Herald.
+
+### In a parked car
+
+NHTSA warns that a closed car's interior can rise about 20 degrees in 10 minutes. Good film slows how fast the cabin and the seats load up with solar heat and lets the air conditioning catch up sooner after you get in. It does not make a parked car safe for a child or a pet on a Bradenton afternoon, and no installer should suggest it does.
+
+### In a house
+
+The Department of Energy says window films are best used in climates with long cooling seasons, because they also block the sun's heat in winter. That trade-off barely registers in Bradenton, where winter sun through the glass is rarely wanted for heating. A 2024 National Renewable Energy Laboratory study of solar control film across modeled buildings reached the same conclusion: films that sharply cut SHGC save more energy in hot climates, while the same cut works against buildings that rely on winter solar gain. The IWFA's own pitch to homeowners is film at roughly one-tenth the cost and time of replacement windows; treat that as an industry figure, and judge a specific job by the film's SHGC against the glass already in place.
+
+### Check the glass first
+
+Film that absorbs heat also raises the temperature of the pane, and the IWFA notes that thermal stress is the one form of glass stress film can affect. Manufacturers publish film-to-glass tables for that reason. Low-E windows add another variable: whether film helps depends on the type of low-E coating and which surface it sits on. On a Bradenton house with newer insulated or impact glass, both questions should be answered before a dark film goes up.
+
+### What to ask for
+
+- The published TSER for automotive film, or SHGC for house film, for the exact shade on each window.
+- Visible light transmission per pane, so a car's front doors stay at or above 28 percent on the meter.
+- The manufacturer's glass compatibility guidance for any insulated, laminated or low-E glass.
+
+### Where to go from here
+
+Heat-focused film for a car is [ceramic window tint](../ceramic-window-tint/), and a full vehicle in any film line is [car window tinting](../car-window-tinting/). West-facing house glass is [residential window tinting](../residential-window-tinting/), and storefronts are [commercial window tinting](../commercial-window-tinting/). The [pricing page](../pricing/) puts the per-vehicle and per-square-foot ranges side by side.

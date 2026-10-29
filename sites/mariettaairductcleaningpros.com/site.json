@@ -346,6 +346,22 @@
       "icon": "gear",
       "keyword": "how often should air ducts be cleaned",
       "volume": 800
+    },
+    {
+      "slug": "mold-in-air-ducts",
+      "h1": "Mold in Air Ducts",
+      "accent": "Find the Water Before the Spray",
+      "photo": "assets/work-3.jpg",
+      "icon": "warn",
+      "keyword": "mold in air ducts"
+    },
+    {
+      "slug": "air-duct-cleaning-scams",
+      "h1": "Air Duct Cleaning Scams",
+      "accent": "Bait Prices, Mold Scares, Health Promises",
+      "photo": "assets/hero.jpg",
+      "icon": "wrench",
+      "keyword": "air duct cleaning scams"
     }
   ]
 }

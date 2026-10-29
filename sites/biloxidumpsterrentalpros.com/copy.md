@@ -354,7 +354,7 @@ A gut job produces most of its debris in the first week, when walls, floors and 
 
 Size, rental window, tons included and the per-ton overage set the price. Renovation debris is mixed and moderately heavy, so the allowance matters more than it does on a cleanout and less than on a roof. The pricing page lays out published ranges from Coast companies alongside the local rules that move the total.
 
-Common questions: [How Much Weight Can a Dumpster Hold?](../how-much-weight-can-a-dumpster-hold/) and [Do I Need a Permit for a Dumpster?](../do-i-need-a-permit-for-a-dumpster/)
+Common questions: [How Much Weight Can a Dumpster Hold?](../how-much-weight-can-a-dumpster-hold/), [Do I Need a Permit for a Dumpster?](../do-i-need-a-permit-for-a-dumpster/), [Can You Put a Dumpster on the Street?](../can-you-put-a-dumpster-on-the-street/) and [What Can't You Put in a Dumpster?](../what-cant-you-put-in-a-dumpster/)
 
 ## svc_roofing_dumpster_rental_lede
 
@@ -546,3 +546,108 @@ Permits and debris arrive together after a hurricane. Following Katrina, the cit
 - Confirm where the hauler will dump the load.
 
 Sizes and typical Biloxi-area rental rates are listed on the [pricing page](../pricing/).
+
+## q_can_you_put_a_dumpster_on_the_street_lede
+
+Sometimes, but in Biloxi the street is public right-of-way, and a roll-off parked on it is an obstruction the renter answers for, so the driveway or the yard is the default spot. If the street truly is the only option, clear it with the city before the truck comes, and on Beach Boulevard, which is U.S. 90, expect the state highway department rather than the city to have the say.
+
+## q_can_you_put_a_dumpster_on_the_street_body
+
+### Measure the driveway first
+
+The common roll-off sizes take up less ground than most people expect. One Harrison County hauler lists its 10, 15 and 20-yard boxes at the same exterior footprint, 8 feet wide and 14 feet long, and describes them as fitting in a standard parking spot; only the wall height changes. Its 7.5-yard box for concrete and fill is smaller again, 6 feet by 12. So the real question on most Biloxi lots is not whether the box fits but whether the truck can reach the spot: a straight run to back in, firm ground, and nothing low overhead when the bed tilts to set the container down.
+
+If a driveway, gravel pad or side yard gives the truck that, put the box there. On private ground the box is between you and the hauler; in the street, whoever maintains the road has a say too.
+
+### Who has a say over the street in front of you
+
+**City streets.** Biloxi's Engineering Department reviews requests to dig in city rights-of-way under Sec. 17-2-10 of the city code, and fill permits under the flood damage prevention rules. The department says those two are the only permits it has a role in, and it sends everything else to the Community Development Department to confirm what applies before work starts on public or private property. A container that will sit on a city street belongs in that second category, so Community Development is the first call.
+
+**Beach Boulevard and the interstate spur.** U.S. 90 along the beach and I-110 are state routes maintained by the Mississippi Department of Transportation. A roll-off parked on a state highway shoulder is not something a city office can approve on its own, and a beachfront address with no driveway space needs that question answered before booking.
+
+**Outside the city line.** Some addresses north of the Back Bay sit inside D'Iberville or on Harrison County roads rather than Biloxi streets. Check which government maintains the road, because that is the office to ask.
+
+### What state law says about blocking a road
+
+Mississippi's criminal code has a short, old section on this. Under Miss. Code Sec. 97-15-37, anyone who obstructs a public highway in any manner and does not remove the obstruction immediately commits a misdemeanor, punishable by a fine of up to $50, a week in jail, or both. An approved, marked container is not a pile left in the lane, but an unapproved box blocking traffic is exactly what the statute describes.
+
+### The city's curbside rules point the same way
+
+Biloxi's solid waste collection guide sets placement rules for curbside pickup that make a good test for a container too. Waste should sit three to five feet from the curb and should not block the roadway. Piles should not go under power lines or tree limbs, and should stay clear of mailboxes, fire hydrants, and gas and electric meters. If a 14-foot box would cover a hydrant, crowd a meter, or put the truck's cables into a line or a live oak limb, it is in the wrong place, street or not.
+
+### Ditches, sidewalks and storm season
+
+Many Biloxi streets drain to an open roadside ditch rather than a curb and gutter. A box set across it can crush the edge, dam the runoff or let debris wash in, and the city treats dumping into ditches as an ordinance violation. Keep the box on the yard side, and keep sidewalks open.
+
+Hurricane season, June 1 through November 30, adds one more reason to keep the street clear. After a storm the right-of-way is where residents stage limbs and wrecked contents for public debris crews. A private container in the lane slows that sweep for the whole block.
+
+### If the street is the only spot
+
+- Call Community Development before booking, and give the address, the box size and the number of days it will stay. For a state route, ask MDOT.
+- Choose the shortest rental window the job allows, and schedule the haul the day the box is full.
+- Keep the box clear of hydrants, meters, mailboxes, driveways and the ditch line.
+- Mark it so drivers can see it at night; a dark steel box on an unlit street is easy to hit.
+- Load nothing above the rim, so nothing blows into the lane.
+
+### Related pages
+
+Paperwork is covered on [Do I Need a Permit for a Dumpster?](../do-i-need-a-permit-for-a-dumpster/), remodel sizing on [construction and renovation dumpsters](../construction-dumpster-rental/), eave placement on [roofing dumpster rental](../roofing-dumpster-rental/), and estate jobs on [cleanout dumpster rental](../cleanout-dumpster-rental/). Biloxi-area rates are on the [pricing page](../pricing/).
+
+## q_what_cant_you_put_in_a_dumpster_lede
+
+In Biloxi, anything a Mississippi rubbish site is not allowed to take should stay out of the dumpster: household garbage and food, liquids, paint and chemical containers, batteries, tires in any form, refrigerators and engines, asbestos, and hazardous or medical waste. Most of those items still have a legal route in Harrison County; it just is not the roll-off.
+
+## q_what_cant_you_put_in_a_dumpster_body
+
+### The landfill's list becomes your list
+
+A roll-off from a Biloxi job usually ends up at a Class I rubbish site, such as the one on Hudson Krohn Road in north Biloxi. The Mississippi Department of Environmental Quality publishes what those sites may and may not accept, and it puts the burden on the operator: anything prohibited that slips in has to be pulled out and disposed of properly at the site's expense. That is why haulers inspect loads, why a refused item can come back to you as a charge, and why the state list is the practical answer to this question.
+
+The MDEQ list of prohibited wastes at a Class I site includes:
+
+- household garbage, and food or drink waste;
+- liquids, sludges and contaminated soils;
+- paint, paint buckets, oil containers and chemical containers;
+- engines and motors;
+- refrigerators;
+- whole tires, and cut or shredded tires without specific approval;
+- batteries;
+- toxic or hazardous waste;
+- asbestos and anything containing it;
+- medical waste.
+
+The same list adds a few that surprise people. Metal, glass, plastic and paper containers, loose fabric and bulk paper waste are all barred unless the state's Office of Pollution Control approves them case by case. Appliances are allowed only once the motor is out, and refrigerators not at all.
+
+### Food waste, Coast style
+
+Biloxi's collection guide lists crawfish and shrimp hulls among the things its curbside haulers will not pick up, and they are just as unwelcome in a roll-off. Food waste is prohibited at rubbish sites, and a box of construction debris that smells like last weekend's boil after three days in August heat draws flies, gulls and complaints. Keep the shells out of the box entirely.
+
+### Tires
+
+State law bars landfilling waste tires in any form, whole, split or shredded, unless the environmental commission grants an exception, under Miss. Code Sec. 17-17-407. Biloxi's 2021 guide said the household hazardous waste collection took up to 25 tires per household; a D'Iberville collection day in April 2026 capped them at five per resident. Tire shops also take old tires when they sell new ones.
+
+### Batteries
+
+Under Miss. Code Sec. 17-17-429, a lead-acid battery from a car, boat or golf cart may not go into mixed municipal solid waste. It goes back to a retailer, a wholesaler or an authorized recycler. Lithium-ion batteries from tools, scooters and phones are a fire risk in a steel box full of dry lumber, and even the April 2026 D'Iberville collection day refused them, so ask a battery retailer or recycler instead.
+
+### Refrigerators, freezers and window units
+
+These carry refrigerant, and federal rules under 40 CFR 82.155 require it to be recovered before the appliance is scrapped or disposed of. Biloxi's guide says refrigerators with Freon still inside will not be collected, and that a licensed contractor must remove it and tag the unit. A rubbish site will not take a refrigerator even then, so plan on a scrap dealer or the county's hazardous waste route.
+
+### Paint, oil and household chemicals
+
+Harrison County runs the Rocko-McFarland Household Hazardous Waste Site at 10076 Lorraine Road in Gulfport, open the second Saturday of every month from 8 a.m. to noon, according to an April 2026 WLOX report. The city's 2021 guide listed what the county program accepted: latex and oil-based paint, used cooking and motor oil, antifreeze, car and marine batteries, aerosol cans, flammable liquids such as gasoline, fluorescent bulbs, computers, phones and televisions. Hours have changed over the years, so check before loading the car.
+
+Even a dried-out paint can is still a container under the state list, so the collection day is the cleaner route.
+
+### Asbestos
+
+Old floor tile, pipe wrap, textured ceilings and some siding can contain asbestos. It is banned at both classes of rubbish site, so a remodel of an older Biloxi house should have suspect material tested before it is torn out. If it tests positive, removal and disposal follow their own rules and never involve a standard roll-off.
+
+### Heavy but allowed
+
+Concrete, brick, block and asphalt are welcome, and a box of nothing else can go to a Class II site as well as a Class I. They are limited by weight rather than by rules, which is covered on [How Much Weight Can a Dumpster Hold?](../how-much-weight-can-a-dumpster-hold/) and on the [concrete and heavy debris dumpsters](../concrete-dumpster-rental/) page.
+
+### A quick sort before the box arrives
+
+Goes in: drywall, lumber, cabinets, flooring, carpet, shingles, fencing, furniture, cardboard, and appliances with the motor removed. Stays out: the household trash, the seafood shells, anything that pours, anything with a battery, tires, refrigerators and anything that might be asbestos. Remodel debris is covered on [construction and renovation dumpsters](../construction-dumpster-rental/), house contents on [cleanout dumpster rental](../cleanout-dumpster-rental/), and sizes and published rates on the [pricing page](../pricing/).

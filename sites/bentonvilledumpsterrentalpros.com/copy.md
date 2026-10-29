@@ -349,7 +349,7 @@ Most homeowner rates around Bentonville include a week. Builders running a box f
 
 Posted thirty-yard rates around Bentonville sit in a band only about twenty dollars wide, with four tons included and a per-ton overage above that. The pricing page lays out each size with the sources behind it, so a builder can check whether a quote sits where Northwest Arkansas prices actually are.
 
-Common questions: [What Size Dumpster Do I Need?](../what-size-dumpster-do-i-need/) and [How Big Is a 10 Yard Dumpster?](../how-big-is-a-10-yard-dumpster/)
+Common questions: [What Size Dumpster Do I Need?](../what-size-dumpster-do-i-need/), [How Big Is a 10 Yard Dumpster?](../how-big-is-a-10-yard-dumpster/), [How Long Can You Keep a Dumpster?](../how-long-can-you-keep-a-dumpster/) and [Dumpster Rental vs Junk Removal](../dumpster-rental-vs-junk-removal/)
 
 ## svc_remodeling_dumpster_rental_lede
 
@@ -538,3 +538,91 @@ A 10-yard load of construction debris from Bentonville ends up in the constructi
 ### Is a 10-yard the right size?
 
 For one room of tear-out or a heavy patio job, usually yes; for a household clearing years of storage, see [cleanout dumpster rental](../cleanout-dumpster-rental/), and for a bathroom or flooring job, [remodeling dumpster rental](../remodeling-dumpster-rental/). The included tons and the charge for each ton over are listed by size on the [pricing page](../pricing/).
+
+## q_how_long_can_you_keep_a_dumpster_lede
+
+Around Bentonville a homeowner can usually keep a roll-off dumpster for seven days at the posted price, and most Northwest Arkansas haulers let it stay longer for a flat charge per extra day. One Benton and Washington County operator includes fourteen days, and builders on commercial terms run thirty-day periods, so the real limit is the price per day rather than a hard deadline.
+
+## q_how_long_can_you_keep_a_dumpster_body
+
+### The window built into a Bentonville quote
+
+Every posted roll-off price in this corner of Arkansas includes a rental window, and for homeowners that window is almost always a week. Four haulers serving Bentonville list seven days in their standard rates, from the small 8-yard box up to the 30-yard, and all four publish the same $15 charge for each day past the seventh. A fifth, working Benton and Washington counties, quotes its 20-yard box with fourteen days and three tons included, and asks for a custom quote on anything longer.
+
+So the honest answer to how long you can keep a dumpster is: as long as you are willing to pay the daily rate. One Bentonville hauler states that there is no hard maximum on a residential rental as long as a card is on file, and that extra days can be paid in advance or billed when the box leaves.
+
+### What happens when the week runs out
+
+Nothing dramatic. The daily charge starts on day eight and runs until you call for the pickup. One local operator commits to collecting within 48 hours of that call, which matters for the arithmetic: two days of waiting after the call can be two more billed days if the call comes late. Call for the haul the day you stop loading, not the day you want the driveway back.
+
+A Gentry hauler that serves Bentonville asks anyone whose project is running long to get in touch so it can check availability and adjust the rental. That is the polite version of a real constraint: boxes are a fleet, and a full box parked on one driveway is a box that cannot be dropped on the next job.
+
+### Builders run on a different clock
+
+Contractors on a Bentonville lot rarely want a week. They want a box on site from the first wall to the final clean, and the commercial terms reflect that. One Bentonville hauler sets commercial accounts on thirty-day periods and charges a $150 inactivity fee for each further thirty days a box sits past that. When a box fills, a swap brings an empty one and starts a fresh rental at the regular rate. The [new construction dumpster rental](../new-construction-dumpster-rental/) page covers how swaps are usually budgeted across a build.
+
+The city's own numbers explain why long rentals are common here. Bentonville issued 1,354 building permits in 2024, including 234 residential remodel and addition permits, and the average new single-family house permitted that year was 3,115 square feet. A big house framed over several months is a long rental almost by definition.
+
+### Weekdays, weather and the landfill
+
+Two local facts can stretch a rental without anyone deciding to. Construction debris from Bentonville goes to the Class 4 cell at Eco-Vista Landfill in Springdale, open to the public 7 a.m. to 3 p.m. on weekdays and closed on weekends. A box filled on a Saturday morning waits until Monday at the earliest.
+
+Rain is the other. Bentonville averages 47.3 inches of precipitation a year across about 85 wet days, by NOAA's 1991 to 2020 normals. An open box collects water, and drywall, carpet and insulation soak it up. That water is weighed at the scale along with the debris, so a box left uncovered for three wet weeks can cost more in tonnage than the extra days themselves. Cover a long-term box with a tarp between loads.
+
+### When the street is involved
+
+Time on a driveway is a matter between you and the hauler. Time in the street is not. A box set on a Bentonville street, curb, gutter or sidewalk needs a right-of-way permit applied for through the city's eTrakit system, which takes five business days to review, and the approved permit must be posted where it can be seen from the street. A long rental in the street means asking the Street Department, at 479-271-3130, for a permit that covers the whole period rather than just the delivery day.
+
+### Planning the length before the box arrives
+
+- **One room or a garage purge:** seven days is almost always enough. Schedule delivery for the morning you start, not the week before.
+- **A remodel waiting on inspections:** ask whether the hauler will pick up and return the same box later rather than billing idle days. See [remodeling dumpster rental](../remodeling-dumpster-rental/).
+- **An estate or a whole-house clear-out:** a second week is common when family members sort as they go. The [cleanout dumpster rental](../cleanout-dumpster-rental/) page has more on pacing those.
+
+### Checking the total
+
+The included days, the daily rate past them and the weight allowance belong in the same sentence when a quote is given. Rates by size, with the days and tons each includes, are on the [pricing page](../pricing/).
+
+## q_dumpster_rental_vs_junk_removal_lede
+
+Rent a dumpster in Bentonville when you have a lot of debris and the time to load it yourself; hire junk removal when you have a handful of heavy items, little time, or things a roll-off will not take, such as televisions and refrigerators. The crossover comes sooner than most people expect, because Northwest Arkansas junk crews price by the item or by truck space while a roll-off is one flat price for a week.
+
+## q_dumpster_rental_vs_junk_removal_body
+
+### Two different things you are paying for
+
+A roll-off rental buys a container, a set number of days and a set weight. You do the carrying. Posted Bentonville-area prices for an 8- to 11-yard box run from about $340 to $375 for a week with one to one and a half tons included, and a 20-yard box from about $459 to $515 with three tons.
+
+Junk removal buys labor. A crew arrives, carries everything out of the house, loads its own truck and leaves. One national app-based service that books Bentonville jobs posts per-item starting prices: $80 for a first item including the pickup fee, furniture and mattresses from $95 plus $30 for each additional piece, appliances from $80 plus $15, and construction debris from $415 plus $350 for each additional unit. The franchise junk hauler covering Northwest Arkansas prices two or more items by how much of its truck they fill, and gives a firm number only after seeing the pile.
+
+### Where the line usually falls
+
+The arithmetic is not complicated. A couch, a mattress and a dresser cost less to have carried out than a week of a small box, and nobody has to drag them down the stairs. A garage holding twenty years of shelving, lumber scraps and boxes is the opposite: by per-item pricing it runs past the cost of a 20-yard roll-off long before the garage is empty, and the box gives you seven days to work through it instead of an hour with a crew waiting.
+
+Construction debris tips the scales hardest. Per-item pricing for building debris starts above the posted price of a whole small roll-off, which is why kitchens, baths and floors almost always go in a box. See [remodeling dumpster rental](../remodeling-dumpster-rental/) for sizing those.
+
+### What a roll-off cannot take, and junk crews can
+
+This is the part that settles many Bentonville jobs. Local roll-off haulers list a long set of items banned from their boxes, and one Bentonville operator's list includes televisions and computer monitors, refrigerators, freezers and air conditioners that hold freon, tires, batteries, railroad ties and liquids of any kind. Loading them earns a cleanup fee.
+
+Junk crews take several of those. The app-based service above lists appliances and electronics among its standard items and says freon appliances can be hauled without a separate tag. The City of Bentonville's own electronics page notes that the compost facility on NW A Street no longer accepts electronics, and points residents to the Benton County Solid Waste District or to a private junk hauler instead.
+
+### The do-it-yourself third option
+
+For people with a pickup and a free weekday, the county district runs special waste drop-off sites at 5702 Brookside Road in Centerton, open Tuesday through Saturday, and at 2307 North Arkansas Street in Rogers, open Tuesday through Friday and on the second and fourth Saturdays. Both take furniture, appliances, electronics, metal items, tires and household hazardous materials, close from 11 a.m. to noon, and charge fees with material limits.
+
+Brush and limbs from a yard can go to the city compost facility at 2000 NW A Street, open Monday through Saturday, as long as no piece is over 24 inches across or eight feet long. Lumber, stumps, root balls, dirt and household trash are refused there.
+
+### Mixing the two
+
+Many Bentonville cleanouts use both. The box takes the bulk: broken furniture, carpet, paneling, boxes of old paper. The items a box cannot take, or the couple of heavy pieces nobody can lift, go with a junk crew or to the Centerton drop-off. One Bentonville roll-off company says its own junk removal team can finish a job when a box overflows, which is cheaper than ordering a second box for a quarter of a load. The [cleanout dumpster rental](../cleanout-dumpster-rental/) page walks through planning that kind of clear-out.
+
+### Questions that decide it
+
+- **How many items, and how heavy?** Five pieces of furniture at the posted per-item rates come to about $215, still under the price of the smallest box. Past that, the box starts to win.
+- **Who is lifting?** A box saves money only if someone can load it.
+- **Is there building debris, concrete or dirt?** Then it is a roll-off job; heavy material belongs in a small box, covered on the [concrete and dirt dumpster rental](../concrete-dirt-dumpster-rental/) page.
+- **Are there banned items?** Pull them out first and send them elsewhere.
+- **Where will the box sit?** A driveway needs nothing from the city; a street placement needs a right-of-way permit through eTrakit.
+
+Posted roll-off rates by size, with included days and tons, are on the [pricing page](../pricing/).

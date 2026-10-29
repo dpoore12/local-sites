@@ -353,7 +353,7 @@ Photos of the same runs before and after, a visibly clean blower wheel, sealed a
 
 Metro Atlanta price lists put a single system in a fairly tight band, with NADCA's national figure for an average-sized home running higher, and a two-system house costing close to double. The pricing page lays out those ranges with their sources, so you can tell whether the number you are hearing is inside the market or suspiciously far below it.
 
-Common questions: [Is Air Duct Cleaning Worth It?](../is-air-duct-cleaning-worth-it/) and [How Often Should Air Ducts Be Cleaned?](../how-often-should-air-ducts-be-cleaned/)
+Common questions: [Is Air Duct Cleaning Worth It?](../is-air-duct-cleaning-worth-it/), [How Often Should Air Ducts Be Cleaned?](../how-often-should-air-ducts-be-cleaned/), [Mold in Air Ducts](../mold-in-air-ducts/) and [Air Duct Cleaning Scams](../air-duct-cleaning-scams/)
 
 ## svc_dryer_vent_cleaning_lede
 
@@ -518,3 +518,87 @@ The cheapest way to need fewer cleanings is to stop dust from getting in. The EP
 ### Checking a recommendation
 
 If someone recommends a cleaning after an inspection, ask what they found and where, and ask to see it with a camera or photos from inside the runs. NADCA advises getting quotes from more than one contractor, and the sourced ranges on the [pricing page](../pricing/) show what whole-system work in the Marietta area typically runs, so a recommendation can be weighed against both evidence and cost.
+
+## q_mold_in_air_ducts_lede
+
+Mold in air ducts does happen in Marietta, but far less often than a sales pitch implies: it usually begins at the cold, wet indoor coil, its drain pan, or a supply duct sweating in a hot attic or damp crawlspace, and it only needs professional removal once real growth is confirmed and the moisture feeding it has been stopped.
+
+## q_mold_in_air_ducts_body
+
+### What counts as mold, and who gets to say so
+
+Plenty of dark dust inside a duct only looks like mold. The EPA says only an expert can make a positive determination, that a tape sample sent to a lab can settle it for roughly $50, and that homeowners should ask any contractor claiming mold to show it to them.
+
+NADCA's 2021 ACR standard sorts indoor mold into three conditions taken from the IICRC S520 standard. Condition 1 is the normal background of settled spores in every Cobb County house. Condition 2 is spores spread from a growth site elsewhere. Condition 3 is actual growth. Only the last two are reasons to clean.
+
+### Where it starts in a Cobb County system
+
+Mold needs water, and in a Marietta air conditioner the water comes from the coil, which pulls moisture out of the house all through the long humid cooling season. The EPA calls condensation near the cooling coils a major factor in moisture contamination, and it treats standing water or debris in a drain pan as a problem needing immediate attention.
+
+The EPA adds that an oversized unit short-cycles and removes moisture poorly, and that ducts in unconditioned space must be sealed and insulated or they will sweat. That describes a lot of local houses: air handlers in vented attics, supply runs across crawlspaces, and returns that were never leak-tested because the house went up before Georgia began requiring duct tightness checks in mid-2011.
+
+### What to do first if you suspect it
+
+The EPA's brief guide to mold gives the first step plainly: do not run the heating and cooling system if you know or suspect it is contaminated, because the blower can carry spores through every room. If a pan overflowed or a duct got soaked, dry the wet materials within 24 to 48 hours, which is the window the EPA gives for preventing growth. Then check indoor humidity with an inexpensive meter. The EPA and University of Georgia Extension both put the target below 60 percent, and ideally between 30 and 50.
+
+### How it gets cleaned properly
+
+Hard metal ducts with surface growth can be cleaned under negative pressure, with the debris leaving the house through a filtered collector. NADCA's standard says remediation should follow IICRC S520 alongside its own cleaning rules.
+
+Fiberglass duct board, internal liner and flex duct insulation are different. The EPA says wet or moldy insulation should be removed and replaced, and NADCA recommends the same for porous parts with Condition 3 growth. A quote that promises to clean moldy duct board in place deserves a hard question.
+
+The coil gets wet cleaning. Under the ACR standard, any suspect microbial growth on a coil or drain pan calls for Type 2 wet cleaning, not just a vacuum pass, and the pan and condensate line should drain freely when the job is finished. That work is covered on the [HVAC coil cleaning](../hvac-coil-cleaning/) page, and the duct side of it under [air duct cleaning](../air-duct-cleaning/).
+
+### Sprays, foggers and sealants
+
+Chemical treatment is where mold jobs get padded. The EPA notes that no biocide is currently registered for use in internally insulated duct systems, and that research has not shown these products to work in duct cleaning. Any antimicrobial belongs after mechanical cleaning, never instead of it. The EPA also says duct sealants should never be sprayed over wet liner, over actively growing mold, or over debris.
+
+NADCA's post-job cleanliness check confirms surfaces are free of loose debris, and the standard says it does not determine microbial contamination. Visibly clean is not a mold clearance; after extensive growth, an independent indoor environmental professional should confirm the result.
+
+### Marietta houses where it tends to show up
+
+Three patterns account for most of the real cases here. Attic air handlers on second floors, where a slow condensate drain lets the primary pan stay wet for weeks. Crawlspace ductwork, especially flex duct lying on bare soil or uninsulated metal that drips through August. And the older homes in the city's historic districts, where central air was added long after the house was built and the runs pass through crawlspaces and closets that nobody inspects. In each, the leak or drainage problem is the real fault, and [duct sealing and repair](../duct-sealing-repair/) is what stops the mold from returning.
+
+### What to ask before paying for mold work
+
+Ask to see the growth from inside the run, and whether a lab sample was taken. Ask the contractor to name the moisture source and how it will be fixed, which components will be replaced rather than cleaned, and whether any chemical used is EPA-registered for that surface. Then compare the total with the sourced ranges on the [pricing page](../pricing/). A same-day mold finding that multiplies the bill is a reason to slow down.
+
+## q_air_duct_cleaning_scams_lede
+
+The air duct cleaning scams that reach Marietta homeowners follow three scripts: a whole-house price of $100 or less that balloons once the crew is inside, a sudden discovery of mold, and a promise that cleaning will cure allergies; each one falls apart when the full scope and total are written down before work starts and the homeowner asks to see what was found.
+
+## q_air_duct_cleaning_scams_body
+
+### The bait price
+
+The most common scheme starts with a number too small to be real. NADCA, the duct cleaning trade association, warns homeowners away from whole-house offers at $100 or less, including the ones that appear in neighborhood social media groups. The EPA puts a legitimate cleaning at about $450 to $1,000 per heating and cooling system, and metro Atlanta price lists for a single system start well above any flyer. The bait price buys a foot in the door, and the bill then grows by the vent, the return, a "heavy contamination" surcharge or an unrequested sanitizer.
+
+### The mold scare
+
+The second script arrives mid-visit, with a phone photo from the attic. The EPA's guidance is the best defense: only an expert can positively determine whether something is mold, many duct sections cannot be seen easily, and homeowners should ask the provider to show them any mold they claim to have found. A lab can check a tape sample for around $50. NADCA's own standard treats a background of settled spores as normal in every house. Real growth is a real problem, but it should be proved before it is priced, and the moisture source behind it should be named. The page on [mold in air ducts](../mold-in-air-ducts/) covers what genuine growth looks like and how it is removed.
+
+### The health promise
+
+The third script sells cleaning as medicine. The EPA says it has never been shown to prevent health problems and warns against sweeping health claims. In Marietta the pitch peaks in March with the tree pollen, which comes straight back in through doors and leaky returns.
+
+### Credentials that mean nothing
+
+The EPA does not certify duct cleaners, so a claim of "EPA certification" is false on its face. NADCA membership is real and can be checked on the association's website. In Georgia, the Attorney General's consumer protection office notes that air conditioning contractors are licensed by a separate board from general contractors, so if a duct cleaning visit turns into a pitch to replace equipment, ask for that license and look it up before agreeing.
+
+### Upsells worth questioning
+
+Biocide fogging is the most common. The EPA says no biocide is registered for use in internally insulated ducts and that research has not shown these products work in duct cleaning. Sealants sprayed inside ducts should be used only in unusual circumstances, and never over wet liner or active mold. Then there is the "blow-and-go" job: a shop vacuum at the registers with no negative air on the trunk. The EPA warns that an inadequate vacuum system can release more contaminants into the house than it removes. If the quote does not mention negative pressure, the returns and the air handler, it is not a whole-system cleaning.
+
+### What Georgia and federal rules give you
+
+Georgia's consumer protection office, now the Consumer Protection Division of the Attorney General, handles complaints about unfair and deceptive practices in consumer transactions. Its home repair advice translates directly to duct work: get written estimates from several companies for the same specifications, insist that every promise and warranty is in the contract, do not pay for work that is incomplete, and treat door-to-door solicitation, pressure for an immediate decision and demands for full payment up front as red flags.
+
+The FTC's Cooling-Off Rule adds a federal backstop. For a sale of $25 or more made at your home, you can cancel for a full refund until midnight of the third business day, and the seller must give you two copies of a cancellation form. The rule does not cover a repair or maintenance visit you requested yourself, but the FTC says other purchases sold to you during that visit are covered. A sanitizer or a "mold package" sold on the spot during a cleaning you booked can fall into that category.
+
+### How to check the work before paying
+
+Under the EPA's post-cleaning checklist, coils, drain pans, the blower and plenums should all have been reached and left free of visible debris, access doors should be secured with more than tape, and the system should run normally in heating and cooling. NADCA's ACR standard calls a surface visibly clean when nothing loose is left on it. Before-and-after photos of the same runs are the easiest proof, and a legitimate crew will offer them. For a job done to that standard, see [air duct cleaning](../air-duct-cleaning/) and [HVAC coil cleaning](../hvac-coil-cleaning/).
+
+### Where to report a problem
+
+Complaints go to the Georgia Attorney General's Consumer Protection Division, online at consumer.georgia.gov or at (404) 651-8600, or (800) 869-1123 toll-free within Georgia. Keep the flyer, estimate, invoice and photos. Before the next quote, compare it with the sourced Marietta ranges on the [pricing page](../pricing/), which makes both the bait price and the padded bill easy to spot.

@@ -357,7 +357,7 @@ Driveways are the usual spot, and a hard surface matters more than ever when the
 
 Local list prices for the common sizes, and the per-ton charge that applies when wet debris runs past the allowance, are laid out on the pricing page with their sources, alongside the county's posted landfill rates.
 
-Common questions: [What Can You Put in a Dumpster?](../what-can-you-put-in-a-dumpster/) and [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/)
+Common questions: [What Can You Put in a Dumpster?](../what-can-you-put-in-a-dumpster/), [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), [What Size Dumpster for a Roof](../what-size-dumpster-for-a-roof/) and [How Many Tons in a 20 Yard Dumpster?](../how-many-tons-in-a-20-yard-dumpster/)
 
 ## svc_roof_tear_off_dumpster_rental_lede
 
@@ -563,3 +563,98 @@ Inside city limits, a hauler needs a franchise from the City of Pensacola and pa
 ### Is 20 yards the right size?
 
 For one to three rooms of debris or a mid-size remodel, usually. A whole-house gut or a long build may need a larger box or several swaps; see [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/). For a house full of belongings rather than building materials, [home cleanout dumpster rental](../home-cleanout-dumpster-rental/) covers sizing. Current 20-yard rates in the Pensacola area are on the [pricing page](../pricing/).
+
+## q_what_size_dumpster_for_a_roof_lede
+
+For a single layer of shingles off a typical Pensacola house, a 10 to 15-yard box has more than enough room, and a 20-yard suits a large roof, two layers or a job that replaces decking too. Space is rarely the problem on a roof. Weight is, so size the box by roofing squares and the tons the rental includes, not by how big the house looks from the street.
+
+## q_what_size_dumpster_for_a_roof_body
+
+### Start with weight per square
+
+A roofing square is 100 square feet of roof surface, and it is the unit every roofer's estimate uses. GAF packs its widely sold Timberline HDZ architectural shingle three bundles to the square, and a big-box retailer lists one bundle at about 70 pounds, which puts a square of new shingles near 210 pounds. A tear-off adds underlayment, nails, drip edge, flashing and whatever rain the old roof is holding.
+
+That gives a working range for one layer:
+
+- **15 squares**, a small cottage or a garage roof: roughly 1.5 to 2 tons.
+- **25 squares**, a common single-story house: roughly 2.5 to 3 tons.
+- **35 squares**, a larger or more cut-up roof: roughly 3.5 to 4 tons.
+- **Two layers**: double those figures.
+
+The roofer's square count is on the estimate. Multiply it out before booking the box.
+
+### Then check the volume
+
+The EPA's volume-to-weight conversion factors put loose composition roofing at about 731 pounds per cubic yard. Turned around, a 25-square, one-layer tear-off at around 5,000 to 6,000 pounds fills only seven or eight cubic yards of box. Even the smallest boxes Pensacola haulers list have room for that. Filled to the rim with shingles, a 20-yard box would pass seven tons, far beyond any local allowance.
+
+So the yardage choice is about the extras: plywood decking being replaced, a porch roof added to the job, or a crew that throws loosely and wastes space. A 15-yard handles most single-layer jobs with decking repairs. A 20 makes sense for big roofs, two layers, or a roof plus gutters, fascia and a rotted soffit.
+
+### The allowance decides the bill
+
+Local price lists show why the tonnage matters more than the size. One Pensacola hauler includes one ton on its 12 and 15-yard boxes and two tons on its 20-yard, with $65 for each ton over. Another lists 10, 15 and 20-yard boxes at flat weekly prices and says fees may apply past the weight limit without posting the limit, so ask for it in writing. Run the 25-square example against the first list: a 15-yard box would come back about one and a half to two tons over, a 20-yard box about half a ton to a ton over. Neither is wrong, but the cost difference belongs in the quote before the tear-off, not on the invoice after it.
+
+### When Florida code says the old roof must all come off
+
+The Florida Building Code's existing-building volume, Section 706.3, does not allow new roofing over an existing roof that already has two or more applications of any covering. Those layers have to come off down to the deck. In older Pensacola neighborhoods, a house reroofed once without a tear-off decades ago is now a two-layer job, and the box has to carry both.
+
+State law also changes what a replacement involves. Under Florida Statute 553.844, a roof replacement must incorporate a secondary water barrier and the code's roof-deck attachment and fastener techniques. Re-nailing the deck often turns up soft plywood, and replaced sheets go in the box too.
+
+Partial jobs can shrink. If the roof dates from the 2007 code edition or later, the same statute limits current-code work to the section actually being fixed, even past the 25 percent mark, so one storm-torn slope on a newer house may need only a 10-yard box.
+
+### Permits set the calendar
+
+Escambia County requires a permit for re-roofs larger than two squares, and a certified, recorded Notice of Commencement for work costing $5,000 or more. Inside city limits, the City of Pensacola's Building Inspections Division enforces the Florida Building Code and handles the permit. Book the box for the day before tear-off is scheduled, and let the permit date drive that schedule rather than the other way around.
+
+### Metal and low-slope roofs
+
+Metal panels are bulky and light, and many crews pull them for scrap. Built-up and modified-bitumen roofs on flat porches are heavy; give the hauler the material type along with the squares.
+
+### Getting the order right
+
+Tell the hauler the square count, the number of layers, the shingle type, whether decking is coming off, and the tear-off date. Ask how many tons the box includes and what each ton over costs. For placement at the eave and loading during the tear-off, see [roof tear-off dumpster rental](../roof-tear-off-dumpster-rental/). For a roof that comes off as part of a storm cleanup, see [storm debris dumpster rental](../storm-debris-dumpster-rental/), and for a roof that is one piece of a larger remodel, [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/). Box dimensions are on [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), and local rates with the per-ton charge on the [pricing page](../pricing/).
+
+## q_how_many_tons_in_a_20_yard_dumpster_lede
+
+A full 20-yard dumpster can weigh anywhere from about a ton and a half to more than eight tons, depending on what is in it: carpet and furniture sit at the light end, shingles and broken concrete at the heavy end. Most Pensacola rentals include about two tons, and anything past that allowance is weighed and billed per ton.
+
+## q_how_many_tons_in_a_20_yard_dumpster_body
+
+### Three numbers, not one
+
+People asking how many tons a 20-yard box holds usually want one of three different figures. There is the weight a full box of their debris will actually reach. There is the weight the rental includes before overage starts. And there is the weight the truck can legally lift and carry down the road. They are rarely the same, and the gap between the first two is what turns up on the invoice.
+
+### What a full box weighs, by material
+
+The EPA publishes volume-to-weight conversion factors for loose waste, drawn from state studies including Florida's own work on construction and demolition debris. Multiplying the per-cubic-yard figure by 20 gives a rough full-box weight:
+
+- **Carpet**: 147 lb per cubic yard, about 1.5 tons for a full box. Carpet pad alone is far lighter.
+- **Clean dimensional lumber**: 169 lb, about 1.7 tons.
+- **Branches and stumps**: 127 lb, about 1.3 tons. Mixed loose yard waste runs heavier, near 2.5 tons.
+- **Mixed construction and demolition debris**: 484 lb, a figure the EPA credits to the Florida Department of Environmental Protection, about 4.8 tons.
+- **Drywall**: 467 lb, about 4.7 tons.
+- **Asphalt roofing**: 731 lb, about 7.3 tons.
+- **Concrete**: 860 lb, about 8.6 tons.
+- **Dirt and sand**: 929 lb, about 9.3 tons.
+
+These are averages for dry, loosely loaded material. Real loads vary, and two things in Pensacola push them up: water and compaction. Carpet, pad and drywall pulled from a flooded room after a storm can weigh far more than the table suggests, and a crew that stomps debris down fits more pounds into the same yards.
+
+### What the rental includes
+
+Pensacola price lists put the included weight well below most of those figures. One local hauler includes two tons with its 20-yard box and charges $65 for each ton over. Another prices its 20-yard flat for a week, notes that fees may apply for exceeding the weight limit, and does not post the limit, so get the number in writing before delivery. Either way, a box of light household contents usually finishes under two tons, and a box of remodel debris often does not.
+
+### Why the scale is the final word
+
+Every load from a Pensacola box crosses a scale, usually at Escambia County's Perdido Landfill in Cantonment or the county's Palafox Transfer Station. The county charges by the ton, and its rate schedule prices yard trash lower than general solid waste and takes clean concrete, dirt and fill at no fee when the concrete has no rebar or wire. That is why the material mix matters twice: once for the weight, and again for the rate each ton is charged at. A box of nothing but clean broken patio can be the heaviest load on this list and still one of the cheapest to tip, while the same box with a bag of shingles on top is weighed and billed as mixed debris.
+
+### Why a full box of dirt is a problem
+
+Florida limits the weight any single axle can put on the road to 20,000 pounds under Statute 316.535, and caps most trucks at 80,000 pounds gross. A 20-yard box full of dirt, at more than 18,000 pounds of material before the steel container is counted, puts that load on the truck's rear axles. Haulers handle heavy material by limiting how full the box can be loaded or by sending a smaller box built for it. If the debris is mostly concrete, block or soil, ask for the concrete box, and do not fill a 20-yard past the line the hauler marks.
+
+### Estimating your own job
+
+- List the main materials and the rough volume of each.
+- Use the per-yard figures above to turn yards into pounds.
+- Add a margin for wet material if the debris has been rained on or flooded.
+- Compare the total to the tons the quote includes, then multiply any overage by the per-ton rate.
+
+For remodel debris, see [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/); for shingles, [What Size Dumpster for a Roof](../what-size-dumpster-for-a-roof/) and [roof tear-off dumpster rental](../roof-tear-off-dumpster-rental/); and for soaked storm contents, [storm debris dumpster rental](../storm-debris-dumpster-rental/). The physical dimensions are on [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), and current tonnage allowances with overage rates on the [pricing page](../pricing/).

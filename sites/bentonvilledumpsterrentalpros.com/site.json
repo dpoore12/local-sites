@@ -309,6 +309,22 @@
       "icon": "ruler",
       "keyword": "how big is a 10 yard dumpster",
       "volume": 1400
+    },
+    {
+      "slug": "how-long-can-you-keep-a-dumpster",
+      "h1": "How Long Can You Keep a Dumpster",
+      "accent": "Seven Days, Then by the Day",
+      "photo": "assets/work-3.jpg",
+      "icon": "cal",
+      "keyword": "how long can you keep a dumpster"
+    },
+    {
+      "slug": "dumpster-rental-vs-junk-removal",
+      "h1": "Dumpster Rental vs Junk Removal",
+      "accent": "Who Does the Lifting",
+      "photo": "assets/work-1.jpg",
+      "icon": "wrench",
+      "keyword": "dumpster rental vs junk removal"
     }
   ]
 }

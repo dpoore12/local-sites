@@ -282,6 +282,22 @@
       "icon": "house",
       "keyword": "how does a septic tank work",
       "volume": 3100
+    },
+    {
+      "slug": "signs-your-septic-tank-is-full",
+      "h1": "Signs Your Septic Tank Is Full",
+      "accent": "Solids, Not Water",
+      "photo": "assets/work-3.jpg",
+      "icon": "warn",
+      "keyword": "signs your septic tank is full"
+    },
+    {
+      "slug": "how-long-does-it-take-to-pump-a-septic-tank",
+      "h1": "How Long Does It Take to Pump a Septic Tank",
+      "accent": "Lids, Hose, Lids Again",
+      "photo": "assets/work-1.jpg",
+      "icon": "wrench",
+      "keyword": "how long does it take to pump a septic tank"
     }
   ]
 }

@@ -305,6 +305,22 @@
       "icon": "house",
       "keyword": "is air duct cleaning necessary",
       "volume": 600
+    },
+    {
+      "slug": "does-duct-cleaning-help-with-allergies",
+      "h1": "Does Duct Cleaning Help With Allergies",
+      "accent": "Filter First, Ducts When Warranted",
+      "photo": "assets/work-1.jpg",
+      "icon": "house",
+      "keyword": "does duct cleaning help with allergies"
+    },
+    {
+      "slug": "what-is-in-your-air-ducts",
+      "h1": "What Is in Your Air Ducts",
+      "accent": "Dust, Drywall and the Odd Mouse",
+      "photo": "assets/hero.jpg",
+      "icon": "warn",
+      "keyword": "what is in my air ducts"
     }
   ]
 }

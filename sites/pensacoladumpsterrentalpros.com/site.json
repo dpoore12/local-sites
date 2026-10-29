@@ -271,6 +271,22 @@
       "photo": "assets/work-1.jpg",
       "icon": "shield",
       "keyword": "how big is a 20 yard dumpster"
+    },
+    {
+      "slug": "what-size-dumpster-for-a-roof",
+      "h1": "What Size Dumpster for a Roof",
+      "accent": "Count Squares, Then Tons",
+      "photo": "assets/work-2.jpg",
+      "icon": "house",
+      "keyword": "what size dumpster for roof replacement"
+    },
+    {
+      "slug": "how-many-tons-in-a-20-yard-dumpster",
+      "h1": "How Many Tons in a 20 Yard Dumpster",
+      "accent": "Depends on the Debris",
+      "photo": "assets/work-3.jpg",
+      "icon": "gear",
+      "keyword": "how many tons in a 20 yard dumpster"
     }
   ]
 }

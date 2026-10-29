@@ -330,6 +330,22 @@
       "photo": "assets/work-3.jpg",
       "icon": "house",
       "keyword": "what can you put in a dumpster"
+    },
+    {
+      "slug": "will-a-dumpster-damage-my-driveway",
+      "h1": "Will a Dumpster Damage My Driveway",
+      "accent": "Pavers, Heat and Wet Ground",
+      "photo": "assets/work-2.jpg",
+      "icon": "warn",
+      "keyword": "will a dumpster damage my driveway"
+    },
+    {
+      "slug": "how-big-is-a-30-yard-dumpster",
+      "h1": "How Big Is a 30 Yard Dumpster",
+      "accent": "Big Volume, Same Weight Limit",
+      "photo": "assets/work-1.jpg",
+      "icon": "house",
+      "keyword": "how big is a 30 yard dumpster"
     }
   ]
 }

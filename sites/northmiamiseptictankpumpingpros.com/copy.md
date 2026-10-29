@@ -352,7 +352,7 @@ Miami-Dade required every septic system in the county to be registered with its 
 
 A routine pump-out is priced per visit, with lid access, tank size and the hour moving it within the range. The pricing page shows the ranges posted by South Florida septic operators, alongside the county and state rules that apply to bigger jobs.
 
-Common questions: [How Often Should a Septic Tank Be Pumped?](../how-often-should-a-septic-tank-be-pumped/) and [How Does a Septic Tank Work?](../how-does-a-septic-tank-work/)
+Common questions: [How Often Should a Septic Tank Be Pumped?](../how-often-should-a-septic-tank-be-pumped/), [How Does a Septic Tank Work?](../how-does-a-septic-tank-work/), [Signs Your Septic Tank Is Full](../signs-your-septic-tank-is-full/) and [How Long Does It Take to Pump a Septic Tank?](../how-long-does-it-take-to-pump-a-septic-tank/)
 
 ## svc_emergency_septic_service_lede
 
@@ -529,3 +529,88 @@ The county's homeowner guidance boils down to a few rules: pump every three to f
 ### Where to go from here
 
 Routine maintenance is [septic tank pumping](../septic-tank-pumping/), and soggy ground over the field is [drain field repair](../drain-field-repair/). A backup is [emergency septic service](../emergency-septic-service/), and a sewer connection leads to [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) lists posted ranges for each.
+
+## q_signs_your_septic_tank_is_full_lede
+
+A septic tank is full, in the sense that matters, when sludge on the bottom and scum on top have grown close enough to the outlet that solids start to leave with the water. In a North Miami house that shows up first as every drain slowing at once, gurgling when the washer empties, a sewer smell near the lids, and ground over the drainfield that will not dry out.
+
+## q_signs_your_septic_tank_is_full_body
+
+### A tank is always full of water
+
+This is the part that confuses most owners. A working septic tank sits full of liquid right up to the outlet pipe all the time; that is how it is designed. Florida's onsite rule, Chapter 62-6 of the Florida Administrative Code, requires each compartment of a new septic tank to hold a liquid depth of at least 40 inches, with airspace of 15 percent above it. What fills up over the years is the solid material. When the sludge and scum crowd the outlet, the tank stops separating anything and starts passing solids to the drainfield, which is where the expensive damage happens.
+
+### Signs inside the house
+
+- **Every fixture is slow, not just one.** A single slow sink is usually a clog in that sink. Tubs, showers and toilets all draining slowly together points past the house to the tank or the line feeding it.
+- **The lowest drain acts up first.** A shower or tub on the ground floor of a slab house in North Miami is often the first place water rises or sits.
+- **Gurgling when other water runs.** Air pushed back through a sink or toilet while the washing machine drains or the dishwasher empties is a sign the water has nowhere to go.
+- **A sewage smell at the drains,** especially after a lot of water has been used in a short time.
+
+### Signs in the yard
+
+Sewage odor near the tank lids on a still day. Grass over the drainfield that stays soft or puddled several days after rain has stopped. A strip of lawn growing faster and greener than the rest. Ground that has settled or sunk above the tank or the lines. UF/IFAS Extension lists a system that has settled, never drains properly, or keeps the soil around it soggy among the signs that call for a septic professional.
+
+### When the real cause is groundwater
+
+North Miami has a complication most of Florida does not: the same symptoms can come from the water table rather than a full tank. UF/IFAS guidance says a drainfield needs at least 60 centimeters, about two feet, of unsaturated soil beneath it to treat wastewater, and that disease-causing bacteria and viruses are hard to remove when that soil is waterlogged. Miami-Dade's 2018 septic study, as summarized by Miami Waterkeeper, found 58,349 county systems periodically compromised by high groundwater after heavy rain or wet years. The county's 2020 report, using average October groundwater instead, counted about 9,000 persistently vulnerable systems.
+
+So a slow house in late October may be a full tank, a drowned drainfield, or both. Pumping fixes the first. It does nothing to the second except buy a few days, because the field still cannot accept water until the table drops.
+
+### Do not open it in saturated ground
+
+If the yard is flooded after a tropical storm or a run of heavy rain, the UF/IFAS advice is to wait until the floodwater is gone before opening or pumping the tank, because opening it while the soil is waterlogged lets mud and soil wash in. The EPA's flood guidance adds that pumping a tank in saturated ground can make it try to float out of the ground and damage the inlet and outlet pipes. Until then, cut water use hard and keep floodwater out of the sinks and toilets.
+
+### What a pump-out confirms
+
+Pumping answers the question properly. Florida's rule, at 62-6.010, requires the contents of every chamber of a tank to be removed in their entirety when it is pumped, with access through the lid or manholes, never through the inlet or outlet. If the person pumping decides a complete pumpout would cause a problem, they must tell the owner in writing why, how many gallons were removed, and what was left in the tank. While it is open, the depth of sludge and scum, the condition of the baffles, and whether liquid flows back in from the drainfield all show which of the problems you actually have. A tank that refills from the outlet side with clear water, with only modest sludge, is pointing at the drainfield rather than the tank.
+
+### Where to go from here
+
+A tank showing these signs on schedule needs [septic tank pumping](../septic-tank-pumping/), and sewage already in the tub is [emergency septic service](../emergency-septic-service/). A yard that stays wet after pumping is [drain field repair](../drain-field-repair/). The [pricing page](../pricing/) lists the ranges South Florida operators post for each.
+
+## q_how_long_does_it_take_to_pump_a_septic_tank_lede
+
+Pumping a household septic tank is normally done in one visit lasting a few hours at most, and the hose time is the short part. Most of the appointment in North Miami goes to finding and opening the lids, emptying every compartment, checking the tank, and sealing it again.
+
+## q_how_long_does_it_take_to_pump_a_septic_tank_body
+
+### What the visit is made of
+
+A pump-out is a short sequence of jobs, and each one takes its own time:
+
+1. **Finding the tank.** Easy when the lids are visible, slower when the only clue is an old permit drawing or the direction the main drain leaves the slab.
+2. **Uncovering and opening each lid.** Every compartment has its own manhole, and each one is opened.
+3. **Pumping.** The vacuum hose empties the tank, with the sludge broken up so it comes out rather than staying stuck to the floor of the tank.
+4. **Looking inside.** Baffles, the outlet filter if there is one, the inlet, and any sign of water running back from the drainfield.
+5. **Closing up.** Lids sealed, soil put back, and a written note of what was found.
+
+One Central Florida septic operator says most routine residential pumping is finished within a few hours, depending on tank size, access and the condition of the system. Tank size is rarely what stretches it.
+
+### How much is in the tank
+
+Florida sizes residential tanks from a table in Rule 62-6.008. A three-bedroom house of 1,201 to 2,250 square feet is assigned 300 gallons a day of design flow and a minimum 900-gallon tank; a four-bedroom house of 2,251 to 3,300 square feet gets 400 gallons a day and 1,050 gallons. Haulers, meanwhile, must show the state a tank truck with a liquid capacity of at least 1,500 gallons to get their septage permit. A standard North Miami household tank comes out in one load, without a trip away and back.
+
+### Every compartment, all the way
+
+The state rule, at 62-6.010, says the contents of a tank, including all chambers of a multi-chambered tank, are to be removed in their entirety. Each chamber has to be reached through its own manhole or a sectional lid, and pumping through the inlet or outlet pipe is not allowed. If the pumper leaves material behind for a good reason, the owner gets a written explanation with the gallons removed. That rule is why a two-compartment tank takes longer than a single hose drop into the first lid, and why a quick visit that only opens one lid is not a complete pump-out.
+
+### The lids decide most of the clock
+
+Under Rule 62-6.013, a new tank's access manholes must have a minimum area of 225 square inches and extend to within 8 inches of finished grade over the first inlet and the last outlet. Many tanks in North Miami's older single-family streets were set long before that, and since then they have collected pavers, patios, driveway widenings and decades of sod. Digging out a lid buried two feet under a paver walkway can take longer than pumping the tank. When lids are found deep, a riser brings the access up to the surface; the rule requires riser joints to be sealed watertight so groundwater cannot seep into the tank, which matters on a lot where the water table is never far down.
+
+### When the ground says wait
+
+In the wettest weeks of the year, the job can be postponed rather than lengthened. UF/IFAS Extension advises against opening or pumping a tank while the surrounding soil is still saturated, because mud and soil get into the tank. If water is standing over the yard after a storm, the right answer to how long it takes may be several dry days plus the visit itself.
+
+### After the truck leaves
+
+The septage does not stay local. Florida does not allow untreated domestic septage to be spread on land, so it goes to a treatment facility approved by the Department of Environmental Protection, which took over the state's onsite sewage program from the Department of Health on 1 July 2021. The hauler keeps a log for five years with the address, the estimated gallons and the facility's acknowledgment that it received the load.
+
+### How soon the house is back to normal
+
+Immediately. The drains can be used as soon as the lids are closed. The tank then refills with liquid to the outlet level from ordinary use: at the 300 gallons a day the state assigns a three-bedroom house, a 900-gallon tank is back at its working level in about three days, which is normal and not a sign that anything went wrong. Solids are what take years to return.
+
+### Where to go from here
+
+A routine visit is [septic tank pumping](../septic-tank-pumping/), and a backup that cannot wait is [emergency septic service](../emergency-septic-service/). If the tank is being taken out of service for a sewer hookup, that is [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) shows what lid access and timing do to the posted ranges.

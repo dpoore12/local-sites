@@ -1,0 +1,550 @@
+{
+ "https://bentonvilledumpsterrentalpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:43:32Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/cleanout-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:49:02Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/concrete-dirt-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:19:31Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:44:38Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/how-big-is-a-10-yard-dumpster/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:28:31Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T01:03:29Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/new-construction-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:37:31Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:14:40Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/remodeling-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:01:31Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:02:44Z"
+ },
+ "https://bentonvilledumpsterrentalpros.com/what-size-dumpster-do-i-need/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:10:31Z"
+ },
+ "https://dryerventcleaningocala.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:49:40Z"
+ },
+ "https://dryerventcleaningocala.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:56:35Z"
+ },
+ "https://dryerventcleaningocala.com/dryer-vent-bird-nest-removal/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:30:10Z"
+ },
+ "https://dryerventcleaningocala.com/dryer-vent-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:18:12Z"
+ },
+ "https://dryerventcleaningocala.com/dryer-vent-repair/": {
+  "error": "HTTP Error 500: Internal Server Error"
+ },
+ "https://dryerventcleaningocala.com/how-long-can-a-dryer-vent-be/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:42:10Z"
+ },
+ "https://dryerventcleaningocala.com/how-often-should-you-clean-your-dryer-vent/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:54:08Z"
+ },
+ "https://dryerventcleaningocala.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:11:49Z"
+ },
+ "https://dryerventcleaningocala.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:54:10Z"
+ },
+ "https://dryerventcleaningocala.com/roof-dryer-vent-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:13:40Z"
+ },
+ "https://dryerventcleaningocala.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:06:11Z"
+ },
+ "https://mariettaairductcleaningpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:57:59Z"
+ },
+ "https://mariettaairductcleaningpros.com/air-duct-cleaning/": {
+  "verdict": "NEUTRAL",
+  "coverage": "URL is unknown to Google",
+  "crawled": null
+ },
+ "https://mariettaairductcleaningpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:02:15Z"
+ },
+ "https://mariettaairductcleaningpros.com/dryer-vent-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:02:19Z"
+ },
+ "https://mariettaairductcleaningpros.com/duct-sealing-repair/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T14:36:31Z"
+ },
+ "https://mariettaairductcleaningpros.com/how-often-should-air-ducts-be-cleaned/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T12:03:22Z"
+ },
+ "https://mariettaairductcleaningpros.com/hvac-coil-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:26:48Z"
+ },
+ "https://mariettaairductcleaningpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:43:46Z"
+ },
+ "https://mariettaairductcleaningpros.com/is-air-duct-cleaning-worth-it/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T13:06:19Z"
+ },
+ "https://mariettaairductcleaningpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:33:01Z"
+ },
+ "https://mariettaairductcleaningpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T13:37:10Z"
+ },
+ "https://windowtintingbradenton.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-26T14:03:22Z"
+ },
+ "https://windowtintingbradenton.com/car-window-tinting/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-28T10:17:08Z"
+ },
+ "https://windowtintingbradenton.com/ceramic-window-tint/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T23:47:05Z"
+ },
+ "https://windowtintingbradenton.com/commercial-window-tinting/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-26T14:38:41Z"
+ },
+ "https://windowtintingbradenton.com/contact/": {
+  "verdict": "NEUTRAL",
+  "coverage": "Discovered - currently not indexed",
+  "crawled": null
+ },
+ "https://windowtintingbradenton.com/how-long-does-window-tinting-take/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T11:47:20Z"
+ },
+ "https://windowtintingbradenton.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T01:03:37Z"
+ },
+ "https://windowtintingbradenton.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-26T14:10:26Z"
+ },
+ "https://windowtintingbradenton.com/residential-window-tinting/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-26T14:45:45Z"
+ },
+ "https://windowtintingbradenton.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-26T14:17:30Z"
+ },
+ "https://windowtintingbradenton.com/what-is-ceramic-window-tint/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:17:33Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:57:51Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/barn-cleanout-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:06:34Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T13:33:53Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/do-i-need-a-permit-for-a-dumpster/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:35:33Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/home-cleanout-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:23:22Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:50:30Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T21:11:18Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/remodel-roofing-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:23:40Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:32:24Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/storm-debris-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:47:18Z"
+ },
+ "https://wellingtondumpsterrentalpros.com/what-can-you-put-in-a-dumpster/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:54:18Z"
+ },
+ "https://biloxidumpsterrentalpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:44:59Z"
+ },
+ "https://biloxidumpsterrentalpros.com/cleanout-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:48:33Z"
+ },
+ "https://biloxidumpsterrentalpros.com/concrete-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:49:54Z"
+ },
+ "https://biloxidumpsterrentalpros.com/construction-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:20:58Z"
+ },
+ "https://biloxidumpsterrentalpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:03:51Z"
+ },
+ "https://biloxidumpsterrentalpros.com/do-i-need-a-permit-for-a-dumpster/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:07:53Z"
+ },
+ "https://biloxidumpsterrentalpros.com/how-much-weight-can-a-dumpster-hold/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:06:32Z"
+ },
+ "https://biloxidumpsterrentalpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:24:32Z"
+ },
+ "https://biloxidumpsterrentalpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T14:50:32Z"
+ },
+ "https://biloxidumpsterrentalpros.com/roofing-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T15:29:10Z"
+ },
+ "https://biloxidumpsterrentalpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:54:38Z"
+ },
+ "https://schaumburgairductcleaningpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:50:14Z"
+ },
+ "https://schaumburgairductcleaningpros.com/air-duct-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:52:51Z"
+ },
+ "https://schaumburgairductcleaningpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T11:47:19Z"
+ },
+ "https://schaumburgairductcleaningpros.com/dryer-vent-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:26:34Z"
+ },
+ "https://schaumburgairductcleaningpros.com/furnace-blower-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:54:42Z"
+ },
+ "https://schaumburgairductcleaningpros.com/how-does-duct-cleaning-work/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:34:00Z"
+ },
+ "https://schaumburgairductcleaningpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T12:33:34Z"
+ },
+ "https://schaumburgairductcleaningpros.com/is-duct-cleaning-a-waste-of-money/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T11:08:56Z"
+ },
+ "https://schaumburgairductcleaningpros.com/post-renovation-duct-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:11:48Z"
+ },
+ "https://schaumburgairductcleaningpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T11:00:29Z"
+ },
+ "https://schaumburgairductcleaningpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:00:17Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:19:43Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:32:32Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/drain-field-repair/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:55:42Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/emergency-septic-service/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:53:15Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/how-does-a-septic-tank-work/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:03:49Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/how-often-should-a-septic-tank-be-pumped/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:30:16Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:38:21Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:49:13Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/septic-tank-abandonment/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:32:15Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/septic-tank-pumping/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:27:28Z"
+ },
+ "https://northmiamiseptictankpumpingpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:54:22Z"
+ },
+ "https://wheatonairductcleaningpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:51:28Z"
+ },
+ "https://wheatonairductcleaningpros.com/air-duct-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:54:22Z"
+ },
+ "https://wheatonairductcleaningpros.com/contact/": {
+  "verdict": "NEUTRAL",
+  "coverage": "Discovered - currently not indexed",
+  "crawled": null
+ },
+ "https://wheatonairductcleaningpros.com/dryer-vent-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:12:22Z"
+ },
+ "https://wheatonairductcleaningpros.com/furnace-blower-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:17:45Z"
+ },
+ "https://wheatonairductcleaningpros.com/how-long-does-duct-cleaning-take/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:27:27Z"
+ },
+ "https://wheatonairductcleaningpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T01:04:41Z"
+ },
+ "https://wheatonairductcleaningpros.com/is-air-duct-cleaning-necessary/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:30:21Z"
+ },
+ "https://wheatonairductcleaningpros.com/post-renovation-duct-cleaning/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:09:29Z"
+ },
+ "https://wheatonairductcleaningpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T05:46:52Z"
+ },
+ "https://wheatonairductcleaningpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T06:53:45Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/about/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T07:48:41Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/construction-renovation-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:25:07Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/contact/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T10:50:19Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/home-cleanout-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:25:01Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/how-big-is-a-20-yard-dumpster/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:02:38Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:11:02Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/pricing/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:39:56Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/roof-tear-off-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:08:16Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/services/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:05:47Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/storm-debris-dumpster-rental/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T08:22:52Z"
+ },
+ "https://pensacoladumpsterrentalpros.com/what-can-you-put-in-a-dumpster/": {
+  "verdict": "PASS",
+  "coverage": "Submitted and indexed",
+  "crawled": "2026-10-27T09:19:30Z"
+ }
+}

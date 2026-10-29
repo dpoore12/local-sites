@@ -361,7 +361,7 @@ Matching before-and-after pictures of each run that was opened, a blower wheel y
 
 Chicagoland companies post single-furnace prices from a few hundred dollars up to around a thousand for large systems, with each additional furnace adding close to the cost of another system. The pricing page lays out those ranges, the EPA's own figure, and the Illinois contract rule, with sources.
 
-Common questions: [Is Duct Cleaning a Waste of Money?](../is-duct-cleaning-a-waste-of-money/) and [How Does Duct Cleaning Work?](../how-does-duct-cleaning-work/)
+Common questions: [Is Duct Cleaning a Waste of Money?](../is-duct-cleaning-a-waste-of-money/), [How Does Duct Cleaning Work?](../how-does-duct-cleaning-work/), [Can Dirty Air Ducts Make You Sick?](../can-dirty-air-ducts-make-you-sick/) and [Signs Your Air Ducts Need Cleaning](../signs-your-air-ducts-need-cleaning/)
 
 ## svc_furnace_blower_cleaning_lede
 
@@ -548,3 +548,93 @@ Access holes get patched and sealed, registers go back, a fresh filter goes in, 
 ### What varies in Schaumburg houses
 
 Much of the village was built between 1960 and 1990, so duct systems are often decades old, with basement trunks that may have been patched or extended over the years. In a Weathersfield house that started with hot-water heat, ducts may have been added later for central air, which changes where the runs go. Leaky joints found during the inspection are a separate repair, and Nicor Gas's 2026 program offers a duct sealing rebate through approved contractors. Typical costs for the full process, and for a cleaning after a remodel through [post-renovation duct cleaning](../post-renovation-duct-cleaning/), are listed with sources on the [pricing page](../pricing/).
+
+## q_can_dirty_air_ducts_make_you_sick_lede
+
+Ordinary dust in the ducts is unlikely to make anyone in a Schaumburg house sick, and the EPA has found no proof that it does; a heating system becomes a health problem when it holds real mold growth, rodent waste or remodeling dust, or when the furnace attached to it leaks carbon monoxide.
+
+## q_can_dirty_air_ducts_make_you_sick_body
+
+### What the evidence actually shows
+
+The EPA says duct cleaning has never been shown to prevent health problems, and that studies have not conclusively shown that dust levels in a home rise because the ducts are dirty or fall after they are cleaned. Much duct dirt simply sticks to the inside surfaces. The EPA also points out that a light layer of household dust in ducts is normal, and that everyday sources such as cooking, cleaning, smoking and outdoor pollution can account for more of what a family breathes than a dusty supply run does.
+
+### When the system can be part of the problem
+
+**Mold growing inside the system.** The EPA's mold guidance says breathing or touching mold and its spores can trigger allergic reactions in sensitive people and asthma attacks in people with asthma who are allergic to mold, and that it can irritate the eyes, nose, throat and lungs even in people without allergies. A system with actual growth on the coil, in the drain pan or on hard duct surfaces can spread that through every room. The EPA's advice is not to run the system at all if you know or suspect it is contaminated, until it has been dealt with.
+
+**Rodents and insects.** Mice nesting in a basement trunk or return cavity leave droppings in the airstream, which is a removal job.
+
+**Construction dust.** Sanding drywall or cutting tile with the furnace running sends fine dust through the returns and into every branch. For a household with asthma, that dust is worth getting out, which is what [post-renovation duct cleaning](../post-renovation-duct-cleaning/) is for.
+
+### The furnace matters more than the ducts
+
+In this climate the appliance at the center of the system deserves more attention than the sheet metal. National Weather Service normals for O'Hare show close to 6,000 heating degree days a year, roughly six times the cooling load, so a gas furnace in a Schaumburg basement may run for most of seven months. The Illinois State Fire Marshal describes carbon monoxide as an odorless, colorless gas produced when fuels such as natural gas burn incompletely, and names heating equipment as a potential source. Unlike dust, CO can make people seriously ill.
+
+Illinois has required carbon monoxide alarms since 1 January 2007. Under the Carbon Monoxide Alarm Detector Act, a home that burns fossil fuel for heat or hot water, or has an attached garage, needs a working, approved alarm within 15 feet of every room used for sleeping. If an alarm sounds, get everyone outside and call for help before thinking about the ducts.
+
+The burning-dust smell on the first cold night is different: summer dust on the heat exchanger and blower, usually gone after a few cycles. A smell that lingers for days, or one that comes with headaches, is a reason to have the furnace checked. Cleaning the blower wheel and cabinet is covered under [furnace and blower cleaning](../furnace-blower-cleaning/).
+
+### Winter in a closed-up house
+
+From October to April most Schaumburg homes stay sealed, which makes the filter the key part of the system for anyone with allergies. The EPA recommends using the highest-efficiency filter the furnace manufacturer allows, changing it on schedule, and making sure no air slips around its edges. Keeping indoor humidity below 60 percent, ideally between 30 and 50, is the EPA's guidance for preventing mold, and it applies to houses with humidifiers mounted on the furnace as much as anywhere.
+
+### Allergies that cleaning will not fix
+
+Dust mites, pet dander and pollen tracked in on clothes are household problems that a duct cleaning will not change. The EPA also cautions against any provider who makes sweeping claims about health benefits, because those claims are unsupported.
+
+### Signs the system really is involved
+
+Dust or debris puffing out of the supply registers when the blower starts. A musty smell that appears every time the system runs and fades when it stops. Visible growth on the coil, the drain pan or the inside of a metal duct. Droppings, nesting material or a dead-animal odor near a register. Symptoms that ease when the household is away and return a day after coming home. Any of those justifies a camera inspection.
+
+### Getting it checked without overpaying
+
+A good inspection checks the furnace, coil and drain pan, then a sample of runs, with photos. If cleaning is justified, a whole-system [air duct cleaning](../air-duct-cleaning/) covers the returns, trunks and blower, not just the vents. Illinois requires a written contract with the total before home repair work over $1,000, and a written scope helps on smaller jobs too. The [pricing page](../pricing/) lists sourced Chicagoland ranges so you can judge whether a quote is realistic.
+
+## q_signs_your_air_ducts_need_cleaning_lede
+
+The signs that really mean a Schaumburg duct system needs cleaning are specific: dust or debris blowing out of the supply registers, mold you can see on hard surfaces inside the system, droppings or nests from mice or insects, and drywall dust left by a remodel; a dusty return grille, a mailer or a sneezy household are not, by themselves, on the list.
+
+## q_signs_your_air_ducts_need_cleaning_body
+
+### The three signs the EPA names
+
+The EPA's homeowner guidance keeps the list short. Consider cleaning when there is substantial mold growing on hard surfaces inside the ducts or other parts of the heating and cooling system. Consider it when rodents or insects have infested the ducts. And consider it when the ducts are clogged with excessive dust and debris, or when particles are actually released into the house from the supply registers. Each describes material that can actually be removed.
+
+### The longer list in NADCA's standard
+
+NADCA's 2021 ACR standard, which sets the minimum rules for professional duct work, gives a broader set of conditions that justify cleaning. They include components that are a source of unacceptable odors, components discharging visible dirt into the rooms, contamination from fire, smoke or water damage, infestation by birds, rodents or insects, contamination with construction dust or debris, mold at the level of settled spores or actual growth, and deterioration of fiberglass duct liner or duct board. Almost every item is something you can see, smell or point to.
+
+### Signs that show up in Schaumburg houses
+
+**A burning smell that does not go away.** On the first cold night of fall a furnace that sat all summer often smells of burning dust for a few cycles. That is normal. In a climate where O'Hare logs close to 6,000 heating degree days a year, though, a smell that keeps coming back weeks into the heating season usually points to a dirty blower wheel or heat exchanger area. [Furnace and blower cleaning](../furnace-blower-cleaning/) addresses that directly.
+
+**Debris in the basement trunk lines.** Most houses in the village were built between 1960 and 1990, so the main trunks and returns have had decades to collect dust and, in some cases, pieces of old construction material. If a flashlight at a return shows matted gray buildup rather than a light film, the system is a candidate.
+
+**Evidence of mice.** Droppings near a return grille or a smell at a register in winter justify a camera inspection.
+
+**A remodel with the furnace running.** Drywall sanding, flooring removal or tile cutting without the registers covered sends fine dust into every branch. That is one of the clearest cases for a cleaning.
+
+**Ductwork added to an older heating system.** In Weathersfield houses first built with hot-water heat, ducts were often added later for central air. Those retrofitted runs can be harder to reach and may never have been cleaned.
+
+### Things that look like signs but usually are not
+
+**A dusty return grille.** The EPA treats dust on return registers as normal. The grille catches dust because air is pulled through it, and it can usually be vacuumed or taken off and washed.
+
+**Dust on the furniture.** Household dust has many sources, from fabrics and pets to cooking and outdoor air, and the EPA has not found that cleaning ducts lowers it. Cleaned ducts will not stop it from settling.
+
+**Rooms that will not heat evenly.** That is usually a leak, a closed damper or an undersized run, not dirt. Loose basement joints pull dust in and push heat out, and Nicor Gas's 2026 efficiency program includes a duct sealing rebate through approved contractors.
+
+**Weak airflow everywhere.** Check the filter first, then the blower. A clogged filter or a matted blower wheel causes that far more often than dirty duct runs.
+
+**A dryer that takes two cycles.** That is the dryer vent, a separate system entirely, handled under [dryer vent cleaning](../dryer-vent-cleaning/).
+
+### How often to look
+
+NADCA's standard gives a minimum inspection schedule for homes: the furnace and air handler once a year, and the supply and return ducts every two years. It recommends looking more often when conditions call for it, such as pets, a remodel, or water damage. Inspection is the routine part. Cleaning follows only when the inspection finds one of the signs above.
+
+### Confirming a sign before paying
+
+Ask to see what was found, with photos or a camera feed from inside the actual runs. The Illinois Attorney General's home repair guidance applies well here: get more than one estimate in writing, be wary of high-pressure tactics and prices that look too good to be true, and avoid paying in full or in cash before the work is done. If the sale is made and signed at your home, you have three business days to cancel, and homeowners over 65 have up to fifteen.
+
+When the signs are real, a whole-system [air duct cleaning](../air-duct-cleaning/) should cover the supply runs, returns, trunk lines and furnace cabinet. The sourced Chicagoland ranges on the [pricing page](../pricing/) show what that typically costs, which makes an inflated or suspiciously cheap quote easier to spot.

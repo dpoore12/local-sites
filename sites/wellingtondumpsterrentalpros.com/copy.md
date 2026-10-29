@@ -354,7 +354,7 @@ Most household contents are light, but a few items are not. A slate pool table, 
 
 Price is set by the container size, the rental days and the tons included. Cleanouts rarely go over on weight unless one of those heavy items is in the mix. The pricing page lists published ranges from roll-off companies serving Palm Beach County, and the Solid Waste Authority rate behind them, so the number you hear can be checked against the market.
 
-Before booking, two quick reads: [whether a Wellington box needs a permit](../do-i-need-a-permit-for-a-dumpster/) and [what is allowed in the container](../what-can-you-put-in-a-dumpster/).
+Before booking, four quick reads: [whether a Wellington box needs a permit](../do-i-need-a-permit-for-a-dumpster/), [what is allowed in the container](../what-can-you-put-in-a-dumpster/), [Will a Dumpster Damage My Driveway?](../will-a-dumpster-damage-my-driveway/) and [How Big Is a 30 Yard Dumpster?](../how-big-is-a-30-yard-dumpster/)
 
 ## svc_remodel_roofing_dumpster_rental_lede
 
@@ -550,3 +550,100 @@ On the equestrian side of Wellington, the big exception is livestock waste. Manu
 ### Before the box arrives
 
 Walk the house or the barn and pull out anything from the "somewhere else" list first; a load that arrives at the scale with a car battery or a gas can in it costs time for everyone. For a garage, an estate or a whole-house clear-out, start with [home and garage cleanout dumpsters](../home-cleanout-dumpster-rental/). Sizes, included weight and typical Wellington-area rates are set out on the [pricing page](../pricing/).
+
+## q_will_a_dumpster_damage_my_driveway_lede
+
+A roll-off dumpster can mark a Wellington driveway, but serious damage is uncommon when the box sits on boards, on firm ground, with the load spread evenly. The risks here are specific to South Florida: pavers that shift under a point load, asphalt softened by summer heat, and lawns and swales that turn soft in the wet season.
+
+## q_will_a_dumpster_damage_my_driveway_body
+
+### Where the weight actually lands
+
+A roll-off is a steel box on two long rails, often with rollers at one end. The truck tilts its bed and slides the box off, so the rollers touch first and the rails drag a short way before settling. Most marks come from that moment, and from the rails sitting in one spot for a week.
+
+Weight then concentrates on those rails. Palm Beach County haulers include one to four tons of debris in their posted prices depending on the size, and a box loaded unevenly, with roof tile piled at one end, presses much harder on that end than on the other.
+
+### Pavers, concrete and asphalt behave differently
+
+Wellington driveways come in all three, and each fails in its own way.
+
+- **Concrete** resists the weight but scuffs where the rails slide, and an already cracked slab can open further.
+- **Pavers** spread a load well across a solid base, but a rail sitting on a few bricks can push them down into the sand bed or shift them sideways, especially near the edge of the drive where the edge restraint is weakest.
+- **Asphalt** softens in heat, and the rails of a box loaded in a Palm Beach County summer can leave dents that stay after the box is gone.
+
+### Boards are the main defense
+
+The fix is simple and cheap: lumber under the rails and rollers. One West Palm Beach franchise says its drivers lay protective boards on the driveway before setting a box down, so the container never rests directly on the surface. Not every company does this, so ask whether boards are included or whether you should have plywood waiting. Boards matter most on pavers, where they turn a narrow rail load into a broad one.
+
+A Royal Palm Beach-area hauler lists what its truck needs to set a box down: a straight approach, firm ground, and no low branches or wires overhead. Those three conditions are also the checklist for avoiding damage. A driver forced to angle in around a mailbox or a palm is more likely to scrape a curb, a paver border or a sprinkler head.
+
+### Lawns, swales and wet-season ground
+
+West Palm Beach averages 61.8 inches of rain a year by NOAA's 1991 to 2020 normals, most of it in the summer wet season. Turf that feels firm in March can rut under a loaded truck in August, and buried irrigation lines crush easily, so a lawn is no safer than the drive.
+
+The grass strip between a lot and the road is a separate question. Wellington's debris page treats village rights-of-way such as canal banks as public land where dumped material can be referred to the Palm Beach County Sheriff's Office, so keep the box and its spillover on your own property rather than out by the road.
+
+### Gated communities and HOA rules
+
+About half of Wellington lives in gated communities, and an association's covenants may limit how long a container can stay out front or where a heavy truck may turn. Ask the management office before delivery, and tell the gate a roll-off truck is coming so it arrives at a time when it can back in without a line of cars behind it.
+
+### Equestrian properties
+
+On a farm or a barn property the question flips: the village already requires a hard surface for one kind of container. Section 30-153 of Wellington's Land Development Code says a roll-off holding manure must sit on a concrete or asphalt pad with a lip around it, set back 5 feet from roof overhangs, 50 feet from drainage inlets, 100 feet from water and 150 feet from a potable well. An ordinary debris box for old fencing and stall boards can usually go on the farm drive, well away from the paddocks. The [barn cleanout dumpster rental](../barn-cleanout-dumpster-rental/) page explains how those two containers are split.
+
+### Filling it without hurting the surface
+
+- Spread heavy material across the floor of the box instead of stacking it at the door end.
+- Keep the load below the rim. The county scale adds a $10 surcharge to any unsecured load, and an overfilled box is hard to tarp.
+- For a tile roof or a slab, choose a smaller box filled part way; the [remodel and roofing dumpster rental](../remodel-roofing-dumpster-rental/) page covers sizing heavy tear-offs.
+
+### If the drive gets marked anyway
+
+Photograph the driveway before delivery and after pickup. Settled pavers can be lifted and reset with fresh sand. Ask any hauler before booking whether it accepts responsibility for surface damage, because at least one local price list calls its boxes driveway-safe without saying what that promise covers.
+
+Longer clear-outs are covered on the [home cleanout dumpster rental](../home-cleanout-dumpster-rental/) page. Sizes, included weight and Wellington-area rates are on the [pricing page](../pricing/).
+
+## q_how_big_is_a_30_yard_dumpster_lede
+
+A 30-yard dumpster holds 30 cubic yards, or 810 cubic feet. The Palm Beach County haulers that publish dimensions list it at roughly 22 to 23 feet long, 8 feet wide and 6 feet high, so it needs a clear, level strip of about 23 feet plus a straight path for the truck to back in.
+
+## q_how_big_is_a_30_yard_dumpster_body
+
+### The measurements
+
+One West Palm Beach hauler lists its 30-yard box at about 23 by 8 by 6 feet. A Royal Palm Beach-area company gives 22 feet long, 8 feet wide and 6 feet high, and describes the capacity as roughly 170 to 190 large trash bags, or about nine pickup-truck loads. Those are outside dimensions; the steel walls and ribs take a little off the inside.
+
+Six-foot walls are the defining feature. A person standing beside the box cannot easily toss debris over the side, so loading usually happens through the swinging rear door or from a ladder, and long items go in first through that door before the walls get in the way.
+
+### What a 30-yard is built for in Wellington
+
+This is the size for volume, not weight. In Wellington it tends to show up on:
+
+- a whole-house clear-out of a large estate home, with furniture, rugs, cabinets and the contents of a three-car garage;
+- a barn or stable teardown, where fence boards, stall fronts, mats and shed panels are bulky but fairly light;
+- storm cleanup of broken screen enclosures, soaked carpet and wet drywall after a hurricane;
+- a full interior remodel touching several rooms at once.
+
+It is the wrong size for a tile roof, a pool deck or a concrete slab. Those materials reach any weight allowance long before the box is a third full.
+
+### The weight allowance is the catch
+
+Posted Palm Beach County prices for a 30-yard include about three to four tons. The lowest published 30-yard price in the area includes three tons and seven days; another company's range includes up to four tons over a five-day rental. Every ton past the allowance is billed after the load crosses the county scale.
+
+That scale is run by the Solid Waste Authority, and its schedule effective October 1, 2026 charges $95 a ton for construction debris and large vegetation, the rate it says open-top roll-offs are generally charged. A mixed load pays the highest category in it, and any load arriving unsecured carries a $10 surcharge. A 30-yard box of storm-soaked drywall and carpet carries all the water those materials absorbed, and the scale weighs it, which is why a big box after a hurricane often costs more in overage than its headline price suggests.
+
+### Where a full one goes
+
+Heavy contents also decide which gate the truck uses. The authority's transfer stations, including Royal Palm Beach on Weisman Way, cannot accept concrete, block, brick, tile, roofing material, construction lumber, trusses, pallets, chain-link fencing or dirt, and a load with more than a small amount of them is rejected. A 30-yard full of remodel or barn debris therefore rides out to the North County Landfill Complex on Jog Road, open 7 a.m. to 5 p.m. Monday through Saturday and closed Sundays. A box filled on a Saturday afternoon is unlikely to leave before Monday.
+
+Palm fronds and branches are charged at the cheaper $35 vegetation rate only when no piece is over 6 feet long or 50 pounds and nothing else is mixed in. Cut limbs down, and keep yard waste out of a box of household debris.
+
+### Fitting it on a Wellington property
+
+Measure from the garage door to the street edge before booking: the box alone needs 22 to 23 feet. The truck also needs a straight run to back in and clearance overhead, and tree canopy and service lines over a driveway often hang lower than they look. Gated communities may require notice before a truck of this size comes through, and some associations limit how long a container can sit in a driveway.
+
+The village itself points residents with a large project to a roll-off from a hauler permitted to work in Wellington, since curbside service stops at 2 cubic yards of construction debris a week. On an equestrian property, keep this box for ordinary debris only: manure needs its own container on a lipped pad under Section 30-153 of the Land Development Code.
+
+### Is a 30-yard the right call?
+
+When the job is big and light, yes. When the volume is uncertain, a 20-yard and a swap can work out better than one oversized box parked for weeks. For a clear-out of a whole house, see [home cleanout dumpster rental](../home-cleanout-dumpster-rental/); for post-storm work, [storm debris dumpster rental](../storm-debris-dumpster-rental/); for barns and stables, [barn cleanout dumpster rental](../barn-cleanout-dumpster-rental/). Wellington-area rates for every size, with included tons and days, are on the [pricing page](../pricing/).
