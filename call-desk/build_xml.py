@@ -74,6 +74,21 @@ def voicemail_body(m):
     )
 
 
+def gate_xml(m):
+    """Press-1 screen (Dan, 29 Oct 2026): robodialers sweep new numbers with silent 15 s
+    calls; they almost never press a key. Only a keypress reaches the voicemail (g/)."""
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n<Response>\n'
+        f'  <Gather action="{BASE}/g/{m["domain"]}.xml" numDigits="1" validDigits="1" timeout="6">\n'
+        f'    <Say voice="{VOICE}">{escape(m["brand"])}. To leave your name and number, press 1.</Say>\n'
+        "  </Gather>\n"
+        f'  <Gather action="{BASE}/g/{m["domain"]}.xml" numDigits="1" validDigits="1" timeout="6">\n'
+        f'    <Say voice="{VOICE}">Press 1 to leave a message.</Say>\n'
+        "  </Gather>\n"
+        "  <Hangup/>\n</Response>\n"
+    )
+
+
 def voice_xml(m, forward):
     parts = ['<?xml version="1.0" encoding="UTF-8"?>', "<Response>"]
     if forward:
@@ -109,7 +124,10 @@ def main():
     routes = {m["domain"]: routes.get(m["domain"]) for m in markets}
     json.dump(routes, open(routes_path, "w"), indent=1, sort_keys=True)
 
-    for sub in ("v", "w"):
+    gate_path = os.path.join(HERE, "gate.json")
+    gated = set(json.load(open(gate_path))) if os.path.exists(gate_path) else set()
+
+    for sub in ("v", "w", "g"):
         os.makedirs(os.path.join(HERE, sub), exist_ok=True)
 
     live = 0
@@ -119,7 +137,12 @@ def main():
             if not re.match(r"^\+1\d{10}$", fwd):
                 raise SystemExit(f"{m['domain']}: forward number must be +1XXXXXXXXXX, got {fwd!r}")
             live += 1
-        open(os.path.join(HERE, "v", m["domain"] + ".xml"), "w").write(voice_xml(m, fwd))
+        body = voice_xml(m, fwd)
+        if m["domain"] in gated and not fwd:
+            # screen first; the message XML moves to g/ and is reached only by pressing 1
+            open(os.path.join(HERE, "g", m["domain"] + ".xml"), "w").write(body)
+            body = gate_xml(m)
+        open(os.path.join(HERE, "v", m["domain"] + ".xml"), "w").write(body)
         open(os.path.join(HERE, "w", m["domain"] + ".xml"), "w").write(whisper_xml(m))
 
     index = {
