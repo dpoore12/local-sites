@@ -173,6 +173,26 @@
       </details>
       {% endfor %}
     </section>
+    {% if s.questions or s.towns %}
+    {# Home links straight to every guide and nearby-town page, so each one sits one
+       click from the strongest page instead of being found only through the sitemap. #}
+    <section class="faqs" aria-label="More {{ s.service | lower }} guides">
+      {% if s.questions %}
+      <h2>More {{ s.service | lower }} answers</h2>
+      <ul>
+        {% for q in s.questions %}<li><a href="{{ q.slug }}/">{{ q.h1 }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if s.towns %}
+      <h2>Also covering</h2>
+      <ul>
+        {% for t in s.towns %}<li><a href="{{ t.slug }}/">{{ s.service }} in {{ t.name }}, {{ s.state }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </section>
+    {% endif %}
   </div>
 </div>
 
