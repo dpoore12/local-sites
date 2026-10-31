@@ -354,5 +354,16 @@
       "icon": "house",
       "keyword": "signs your air ducts need cleaning"
     }
+  ],
+  "towns": [
+    {
+      "slug": "palatine",
+      "name": "Palatine",
+      "nav": "Palatine",
+      "accent": "Seventies Trunks, Newer Furnaces",
+      "photo": "assets/work-2.jpg",
+      "keyword": "air duct cleaning Palatine IL",
+      "icon": "gear"
+    }
   ]
 }

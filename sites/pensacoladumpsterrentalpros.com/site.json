@@ -143,6 +143,17 @@
       "icon": "house"
     }
   ],
+  "towns": [
+    {
+      "slug": "milton",
+      "name": "Milton",
+      "nav": "Milton",
+      "accent": "Blackwater River Town, Still Clearing Isaias",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dumpster rental Milton FL",
+      "icon": "warn"
+    }
+  ],
   "symptom_service": [
     "storm-debris-dumpster-rental",
     "roof-tear-off-dumpster-rental",

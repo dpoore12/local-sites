@@ -358,7 +358,7 @@ The USFA's dryer flyer gives the basics: empty the lint screen before and after 
 
 Operators serving Ocala post standard cleanings from under a hundred dollars to the mid two hundreds, depending on the house and what is included. The pricing page carries the posted figures and names every operator behind them.
 
-Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/), [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/), [Signs Your Dryer Vent Is Clogged](../signs-your-dryer-vent-is-clogged/) and [Why Is My Dryer Taking So Long to Dry?](../why-is-my-dryer-taking-so-long-to-dry/)
+Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/), [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/), [Signs Your Dryer Vent Is Clogged](../signs-your-dryer-vent-is-clogged/) and [Why Is My Dryer Taking So Long to Dry?](../why-is-my-dryer-taking-so-long-to-dry/). Also covering [The Villages](../the-villages/), about 20 miles south.
 
 ## svc_roof_dryer_vent_cleaning_lede
 
@@ -633,3 +633,33 @@ A dryer pulls its air from the room it sits in. In Ocala that room is often a ga
 ### Where to go from here
 
 A clogged run is [dryer vent cleaning](../dryer-vent-cleaning/), or [roof dryer vent cleaning](../roof-dryer-vent-cleaning/) when it exits through the roof. A crushed hose, an over-length run or an outlet under a mobile home is [dryer vent repair](../dryer-vent-repair/). The [pricing page](../pricing/) shows the posted figures for each.
+
+## loc_the_villages_lede
+
+Dryer vent cleaning covers The Villages, about 20 miles south of Ocala, across all three counties it sits in. Most of the community is in Sumter County, a Lady Lake and Lake County section holds the oldest neighborhoods, and part of District 4 lies in Marion County.
+
+## loc_the_villages_body
+
+### Which county you are in
+
+The census-designated place counted 79,077 residents in 2020 and spans Sumter, Marion and Lake counties, with Wildwood to the west and south and Lady Lake and Fruitland Park to the east. The Villages' District Government lists a Lady Lake/Lake County residential district of roughly 5,700 home sites, covering Country Club, Del Mar, El Cortez, Hacienda, La Reynalda, La Zamora, Mira Mesa, Orange Blossom Gardens, Silver Lake and Valle Verde. That area sits outside the numbered community development districts and is served by the Village Center district instead, and the portions inside Lady Lake fall under the town. District 4's deed restriction list includes Marion County units, and the remaining numbered districts are on the Sumter side. Cleaning a vent needs no paperwork on any side of those lines. It matters when a run has to be rerouted, because the building office that handles any permit depends on where the house is.
+
+### Exterior changes go to architectural review
+
+Deed restrictions here are enforced. The District's Community Standards department requires an Architectural Review Application for changes to the outside of a home, reviewed by the Architectural Review Committee or a hearing officer under each district's own rules, and Lady Lake/Lake County has its own review manual. Replacing a hood with the same thing in the same hole is maintenance. Moving the outlet to a new wall or onto the roof is an exterior change, so if [dryer vent repair](../dryer-vent-repair/) means a new termination, plan on the application before the work.
+
+### Newer houses, still twenty years of lint
+
+The American Community Survey's 2020-2024 estimates put the median home in The Villages at 2007. Of 57,822 housing units, 29,314 were built between 2000 and 2009 and 19,026 between 2010 and 2019, and 54,807, nearly 95 percent, are detached single-family houses. A house finished in 2005 has had two decades of loads pushed through the same duct, and builders of that era often ran laundry exhausts through the attic to a cap on the roof. Those runs are long, hot and out of sight, which is the case for [roof dryer vent cleaning](../roof-dryer-vent-cleaning/) from the cap down.
+
+### Seasonal homes and nesting birds
+
+The same survey counts 6,708 homes held for seasonal or occasional use. A dryer that sits idle from April to November leaves a quiet, sheltered duct with a hood that nobody is opening, and that is where birds build. Running the dryer on return with a nest in the outlet sends hot air into a blocked duct. Before heading north, check that the hood flap closes, and when you come back, look at the outlet before the first load. A nest that is already in place calls for [bird nest removal](../dryer-vent-bird-nest-removal/), handled lawfully.
+
+### Getting there from Ocala
+
+The usual route is US 27/441 south through Belleview into Lady Lake, with US 301 along the western edge and State Road 44 and Florida's Turnpike to the south. Golf carts share many of the streets, and four cart overpasses now cross SR 44 and the Turnpike.
+
+### What it costs
+
+The [pricing page](../pricing/) shows what operators serving the Ocala area post for a standard [dryer vent cleaning](../dryer-vent-cleaning/), with every operator named. There is no separate figure for The Villages.

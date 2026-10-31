@@ -354,6 +354,8 @@ Most household contents are light, but a few items are not. A slate pool table, 
 
 Price is set by the container size, the rental days and the tons included. Cleanouts rarely go over on weight unless one of those heavy items is in the mix. The pricing page lists published ranges from roll-off companies serving Palm Beach County, and the Solid Waste Authority rate behind them, so the number you hear can be checked against the market.
 
+Homes north of the village in [Loxahatchee and The Acreage](../loxahatchee/) fall under county rules that limit what a roll-off may carry, so describe the load before booking there.
+
 Before booking, four quick reads: [whether a Wellington box needs a permit](../do-i-need-a-permit-for-a-dumpster/), [what is allowed in the container](../what-can-you-put-in-a-dumpster/), [Will a Dumpster Damage My Driveway?](../will-a-dumpster-damage-my-driveway/) and [How Big Is a 30 Yard Dumpster?](../how-big-is-a-30-yard-dumpster/)
 
 ## svc_remodel_roofing_dumpster_rental_lede
@@ -647,3 +649,77 @@ The village itself points residents with a large project to a roll-off from a ha
 ### Is a 30-yard the right call?
 
 When the job is big and light, yes. When the volume is uncertain, a 20-yard and a swap can work out better than one oversized box parked for weeks. For a clear-out of a whole house, see [home cleanout dumpster rental](../home-cleanout-dumpster-rental/); for post-storm work, [storm debris dumpster rental](../storm-debris-dumpster-rental/); for barns and stables, [barn cleanout dumpster rental](../barn-cleanout-dumpster-rental/). Wellington-area rates for every size, with included tons and days, are on the [pricing page](../pricing/).
+
+## loc_loxahatchee_lede
+
+Loxahatchee and The Acreage begin just north of Wellington, and our dumpster rental covers this unincorporated part of the county, where roll-off work is open to any hauler holding a Solid Waste Authority permit. Lots run an acre or more, many roads are dirt, and nearly every house sits on its own well and septic tank, which shapes where a box can go.
+
+## loc_loxahatchee_body
+
+### Which rules apply out here
+
+The Acreage is a census-designated place, not a city, so there is no town hall
+writing container rules. Roll-off service in unincorporated Palm Beach County
+runs under the Solid Waste Authority's Rule IV. Nobody may provide it without an
+Authority permit, and the work is reserved to permit holders as a group rather
+than handed to one franchise company. Permits renew each year, a permitted hauler
+must keep an equipment yard and an office inside the county, and every load must
+end at an Authority facility.
+
+Rule IV also narrows what a box may hold out here: construction and demolition
+debris from building or remodeling sites, plus yard waste when the customer picks
+a roll-off for it. Garbage is barred from roll-offs and mixing is barred too. A
+garage full of old furniture and household trash belongs with county bulk
+collection rather than in a construction box.
+
+Two neighbors that share Loxahatchee mailing addresses are their own
+municipalities: the Town of Loxahatchee Groves and the City of Westlake, which
+incorporated in 2016. Check their rules before a box is booked inside either one.
+
+### Eighties and nineties houses, nearly all owner-occupied
+
+The Census Bureau's 2020-2024 American Community Survey counts 13,450 homes in
+The Acreage, and 12,805 of them are detached single-family houses. Owners live in
+12,236 of the 13,197 occupied homes. More than half, 7,671, were built between
+1980 and 1999, with another 3,696 added in the 2000s. Population reached 41,654
+at the 2020 Census. A community that went up in two decades now has original
+roofs, kitchens, baths and screen enclosures wearing out on roughly the same
+schedule, which is the core of [remodel and roofing debris](../remodel-roofing-dumpster-rental/)
+work here.
+
+### Dirt roads, swales and drain fields
+
+The Indian Trail Improvement District, created by the Legislature in 1957, keeps
+up the roads and drainage: about 120 miles of paved road, 358 miles of unpaved
+road, roughly 182 miles of canal and close to 1,000 miles of swales. A loaded
+roll-off truck is heavy, and after a wet week a dirt road shoulder or a soft swale
+crossing is where one sinks. The district charges for right-of-way and easement
+permits, so plan the box for your own lot, not the road edge.
+
+Almost every home out here runs on a private well and a septic system. The box
+has to stay off the drain field and clear of the wellhead and the tank lid, and
+the truck needs a firm path that does not cross either. On a lot this size there
+is usually room near the driveway; the useful step is marking that spot for the
+driver before delivery day and asking for boards under the rails.
+
+### Water first, then debris
+
+When Tropical Storm Isaac stalled over the western communities in late August
+2012, more than a foot of rain fell, much of it on The Acreage. The district won
+permission to send water south and to pump into the M-1 Canal, set temporary
+pumps, and warned that quarter-mile roads would take weeks to drain. Most houses
+stayed dry inside; yards, roads and fences did not. Afterward, wet drywall,
+torn-out flooring, roofing and broken fence panels are construction debris that
+suits a [storm debris container](../storm-debris-dumpster-rental/). Fallen limbs
+and fronds go in a separate yard-waste load, because Rule IV does not allow the
+two to share a box.
+
+### From Wellington out, and on to the scale
+
+From Wellington, trucks head north on Seminole Pratt Whitney Road or up Royal
+Palm Beach Boulevard toward Orange Boulevard and Northlake. The nearest Authority
+transfer station, on Weisman Way in Royal Palm Beach, turns away concrete,
+roofing, lumber, fencing and dirt, so a construction load from The Acreage rides
+east to the North County complex on Jog Road and is weighed at the construction
+debris rate. Sizes, included tons and rental days are laid out on the
+[pricing page](../pricing/).

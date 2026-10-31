@@ -358,7 +358,7 @@ A price far below the posted local range usually means supply registers only, no
 
 Posted Chicago-area prices for one furnace system cluster from the low hundreds into the mid hundreds, with full packages that include the blower running higher. The pricing page on this site lays out the bands with the companies that published them, so you can see whether a quote is inside the range and what scope the range assumes.
 
-Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/), [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/), [Does Duct Cleaning Help With Allergies?](../does-duct-cleaning-help-with-allergies/) and [What Is in Your Air Ducts?](../what-is-in-your-air-ducts/)
+Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/), [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/), [Does Duct Cleaning Help With Allergies?](../does-duct-cleaning-help-with-allergies/) and [What Is in Your Air Ducts?](../what-is-in-your-air-ducts/). Also covering [Carol Stream](../carol-stream/), just north of Wheaton.
 
 ## svc_furnace_blower_cleaning_lede
 
@@ -627,3 +627,33 @@ With a screwdriver and a phone, remove a supply register in a bedroom and photog
 ### What to do with what you find
 
 Ordinary dust calls for a good filter, not a crew. Droppings, growth or construction debris call for a cleaning that reaches every return, supply and trunk, and a dusty blower wheel is handled through [furnace blower cleaning](../furnace-blower-cleaning/). The [pricing page](../pricing/) lists the posted Chicago-area ranges and the scope each range assumes.
+
+## loc_carol_stream_lede
+
+Air duct cleaning service covers Carol Stream, the DuPage County village just north of Wheaton, where the Census puts the median home at 1984 and the busiest building decade was the 1980s. Most of its forced-air systems are on their second or third furnace and have never had the ductwork itself opened.
+
+## loc_carol_stream_body
+
+### A village that was built in about twenty years
+
+Carol Stream was incorporated on January 5, 1959, by Jay Stream, a builder who bought farmland outside Wheaton in 1957 after a fight over a subdivision in Naperville. The village had 836 residents in 1960, 15,472 by 1980 and 31,716 by 1990. The American Community Survey's 2020-2024 estimates count 15,052 housing units, and 4,809 of them went up between 1980 and 1989, the largest single decade. Another 3,428 date from the 1970s and 3,077 from the 1990s. That compresses most of the town's ductwork into one generation of sheet metal, flex branches and panned joist returns, all now thirty to fifty years old.
+
+### Gas heat, long winters, a lot of air moved
+
+The same survey finds 11,420 of the 14,487 occupied homes heat with utility gas, about 79 percent, and another 2,708 with electricity. In a northern Illinois heating season that blower runs for months, and every hour it runs it drags basement and living-room dust through the returns. Furnaces from the 1980s have mostly been replaced since, and each swap tends to leave a new transition, a cut-in return or an abandoned stub behind the unit. Those are the spots that get opened and checked first, along with the [furnace blower and coil](../furnace-blower-cleaning/), since a dirty wheel puts the dust straight back into clean ducts.
+
+### Detached houses, townhomes and buildings
+
+Carol Stream is not all single-family. The survey counts 7,175 detached houses, 2,648 attached units such as townhomes, and roughly 4,650 homes in buildings with five or more units. About two thirds of occupied homes are owner-occupied and 4,743 are rented. In a detached house the whole system is yours to clean. In a townhome or a condominium building, ducts can pass through shared walls or ceilings, so check with the association or the landlord before booking, and ask what part of the system belongs to the unit.
+
+### Getting there from Wheaton
+
+Wheaton and Carol Stream share a border, and a crew heading north takes Gary Avenue or County Farm Road. North Avenue (Illinois Route 64) is the village's main east-west road, with Army Trail Road and Geneva Road the other crossings. Parts of the south and southeast side are even zoned to Wheaton's Community Unit School District 200.
+
+### When it is worth doing here
+
+The rule is the same as anywhere: EPA does not recommend cleaning on a timer. Book a [whole-house air duct cleaning](../air-duct-cleaning/) for visible mold on hard ducts or system parts, droppings or nests, or dust that actually blows out of the registers. In a house that has been through a basement finish or a kitchen remodel since the 1980s, drywall powder in the returns is the usual find. If none of that fits, a better filter is the honest answer. While the crew is there, the [dryer vent](../dryer-vent-cleaning/) is a sensible add-on in an older laundry room.
+
+### What it costs
+
+There is no separate Carol Stream price list. The [pricing page](../pricing/) lists the posted Chicago-area ranges with the companies that published them, so a Carol Stream quote can be checked against the same bands.

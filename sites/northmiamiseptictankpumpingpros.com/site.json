@@ -299,5 +299,16 @@
       "icon": "wrench",
       "keyword": "how long does it take to pump a septic tank"
     }
+  ],
+  "towns": [
+    {
+      "slug": "north-miami-beach",
+      "name": "North Miami Beach",
+      "nav": "North Miami Beach",
+      "accent": "Tanks on Blocks the Sewer Is Reaching",
+      "photo": "assets/work-2.jpg",
+      "keyword": "septic tank pumping North Miami Beach FL",
+      "icon": "house"
+    }
   ]
 }

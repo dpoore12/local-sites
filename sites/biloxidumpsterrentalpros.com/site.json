@@ -143,6 +143,17 @@
       "icon": "cal"
     }
   ],
+  "towns": [
+    {
+      "slug": "gulfport",
+      "name": "Gulfport",
+      "nav": "Gulfport",
+      "accent": "Seabee Moves, Beach Lots, North of I-10",
+      "photo": "assets/work-1.jpg",
+      "keyword": "dumpster rental Gulfport MS",
+      "icon": "wrench"
+    }
+  ],
   "symptom_service": [
     "construction-dumpster-rental",
     "roofing-dumpster-rental",

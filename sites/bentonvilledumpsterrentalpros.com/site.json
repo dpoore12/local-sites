@@ -326,5 +326,16 @@
       "icon": "wrench",
       "keyword": "dumpster rental vs junk removal"
     }
+  ],
+  "towns": [
+    {
+      "slug": "rogers",
+      "name": "Rogers",
+      "nav": "Rogers",
+      "accent": "Nineties Houses, a Contract That Skips Debris",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dumpster rental Rogers AR",
+      "icon": "wrench"
+    }
   ]
 }

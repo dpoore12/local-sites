@@ -356,6 +356,8 @@ Size, rental window, tons included and the per-ton overage set the price. Renova
 
 Common questions: [How Much Weight Can a Dumpster Hold?](../how-much-weight-can-a-dumpster-hold/), [Do I Need a Permit for a Dumpster?](../do-i-need-a-permit-for-a-dumpster/), [Can You Put a Dumpster on the Street?](../can-you-put-a-dumpster-on-the-street/) and [What Can't You Put in a Dumpster?](../what-cant-you-put-in-a-dumpster/)
 
+Gulfport, the next city west along the beach, is covered too: see [dumpster rental in Gulfport](../gulfport/).
+
 ## svc_roofing_dumpster_rental_lede
 
 Dumpsters for Biloxi roof tear-offs: shingles, felt, flashing and rotten decking, sized for weight and set where the roofers can throw straight into them.
@@ -651,3 +653,41 @@ Concrete, brick, block and asphalt are welcome, and a box of nothing else can go
 ### A quick sort before the box arrives
 
 Goes in: drywall, lumber, cabinets, flooring, carpet, shingles, fencing, furniture, cardboard, and appliances with the motor removed. Stays out: the household trash, the seafood shells, anything that pours, anything with a battery, tires, refrigerators and anything that might be asbestos. Remodel debris is covered on [construction and renovation dumpsters](../construction-dumpster-rental/), house contents on [cleanout dumpster rental](../cleanout-dumpster-rental/), and sizes and published rates on the [pricing page](../pricing/).
+
+## loc_gulfport_lede
+
+Roll-off dumpster rental in Gulfport covers the whole city, from the beachfront blocks along U.S. 90 to the newer subdivisions north of I-10, with the box sized to the debris and the dump site picked before delivery. Gulfport counted 74,632 people in the Census Bureau's 2024 estimate, and its remodels, roofs and military moves fill containers all year.
+
+## loc_gulfport_body
+
+### What Gulfport's own trucks will not take
+
+Gulfport's garbage and debris service runs through city contracts with Waste Pro and H2O Innovation, starting October 2023. Under the debris plan the city put in place in March 2023, each household paying for city service gets one debris pickup a month, south of I-10 in the first two full weeks and north of I-10 in the last two. The approved list is vegetation: limbs, twigs, shrubbery and leaves, in piles no bigger than six feet by six feet by six feet, kept clear of trees, mailboxes, hydrants and overhead lines. Contractor and commercial debris, furniture, mattresses, appliances, tires and hazardous waste are all on the not-collected list, and the city told residents to hire a local company for anything outside the approved list. A pile of old drywall and cabinets at the curb is a code enforcement problem, not a pickup.
+
+### Where a Gulfport load goes
+
+Harrison County's disposal sites sit on both sides of the city. The Class I rubbish landfill and transfer station on Hudson Krohn Road in north Biloxi is a short run east on I-10. The county's municipal solid waste landfill at Pecan Grove and other Class I rubbish sites near Pass Christian are to the west, with another Class I site near Saucier to the north. Mississippi's rubbish rules decide which one a box can go to: mixed renovation debris needs a Class I site, a clean load of concrete or brick can also go to a Class II site, and household garbage belongs in a landfill rather than a rubbish site. Tell us what is going in before the box is set down, because that decides both the route and what is allowed in it.
+
+### Housing that is due for work
+
+Census figures put Gulfport's median home at a 1986 build, with roughly 9,400 of its 33,800 housing units built before 1970 and another 6,800 built from 2000 to 2009, much of that the post-Katrina rebuild. The two halves need different boxes. An older house in east or central Gulfport tends to produce plaster, old wiring, cast-iron drain lines and layers of flooring under the flooring. A house from the rebuild years is now at the age when original roofs and builder-grade kitchens come out together. Roof tear-offs are covered on [roofing dumpster rental](../roofing-dumpster-rental/), and full gut jobs on [construction and renovation dumpsters](../construction-dumpster-rental/).
+
+### Flood zones and the permit office
+
+Gulfport takes part in the National Flood Insurance Program, and its Building Code Services office in the Hardy Building on 24th Avenue keeps the flood map panels, base flood elevations and elevation certificates for properties in the city. Under the program's substantial improvement test, work on a flood-zone house that costs half or more of its market value has to bring the whole structure up to current flood rules. Ask that office where your project lands before demolition starts, since an elevation job produces far more debris than a remodel.
+
+### Moves around the Seabee base
+
+Naval Construction Battalion Center Gulfport is the home base of the Atlantic Fleet Seabees, about 1,100 acres with 561 government housing units on it, and the off-base neighborhoods around it turn over with every set of orders. A move-out, a rental turnover or an estate cleanout is light, bulky material that fills a box by volume long before it reaches the weight allowance. The [cleanout dumpster rental](../cleanout-dumpster-rental/) page covers sizing those jobs.
+
+### Placement on a Gulfport lot
+
+A driveway is the first choice. Older lots near the beach are often narrow, with raised houses and low limbs, so the truck needs a straight back-in path and clearance overhead. Keep the box off the drainage ditch along the street and out from under service drops. If the street is the only option, ask the city first.
+
+### Storm season
+
+Isaias reached the Gulf in October 2026 and made landfall in the western Florida Panhandle, and the National Weather Service in New Orleans recorded tropical storm force gusts along coastal Mississippi from the edges of the storm. Gulfport declared a state of emergency for it. A near miss like that still brings down fences, gutters and shingles, and the city's monthly vegetation pass does not take any of it.
+
+### What sets the price
+
+Box size, rental days, the tons included and the per-ton overage decide the total. The [pricing page](../pricing/) lists published Coast figures and the local rules behind them.

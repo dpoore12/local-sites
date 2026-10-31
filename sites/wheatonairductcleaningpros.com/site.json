@@ -322,5 +322,16 @@
       "icon": "warn",
       "keyword": "what is in my air ducts"
     }
+  ],
+  "towns": [
+    {
+      "slug": "carol-stream",
+      "name": "Carol Stream",
+      "nav": "Carol Stream",
+      "accent": "Eighties Furnaces, Forty Years On",
+      "photo": "assets/work-2.jpg",
+      "keyword": "air duct cleaning Carol Stream IL",
+      "icon": "gear"
+    }
   ]
 }

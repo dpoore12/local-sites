@@ -363,5 +363,16 @@
       "icon": "wrench",
       "keyword": "air duct cleaning scams"
     }
+  ],
+  "towns": [
+    {
+      "slug": "kennesaw",
+      "name": "Kennesaw",
+      "nav": "Kennesaw",
+      "accent": "Nineties Ductwork, Never Leak-Tested",
+      "photo": "assets/work-1.jpg",
+      "keyword": "air duct cleaning Kennesaw GA",
+      "icon": "search"
+    }
   ]
 }

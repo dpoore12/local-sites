@@ -354,6 +354,8 @@ The price is set by how many pieces of glass the vehicle has, the film line, and
 
 Common questions: [How Long Does Window Tinting Take?](../how-long-does-window-tinting-take/), [What Is Ceramic Window Tint?](../what-is-ceramic-window-tint/), [Florida Window Tint Law](../florida-window-tint-law/) and [Does Window Tint Reduce Heat?](../does-window-tint-reduce-heat/)
 
+The same car tint work also covers [Sarasota](../sarasota/), just south down the Tamiami Trail.
+
 ## svc_ceramic_window_tint_lede
 
 Ceramic window tint in Bradenton for drivers who want the heat gone, not just the glare: high infrared rejection at shades light enough to stay legal on Florida's front doors.
@@ -640,3 +642,33 @@ Film that absorbs heat also raises the temperature of the pane, and the IWFA not
 ### Where to go from here
 
 Heat-focused film for a car is [ceramic window tint](../ceramic-window-tint/), and a full vehicle in any film line is [car window tinting](../car-window-tinting/). West-facing house glass is [residential window tinting](../residential-window-tinting/), and storefronts are [commercial window tinting](../commercial-window-tinting/). The [pricing page](../pricing/) puts the per-vehicle and per-square-foot ranges side by side.
+
+## loc_sarasota_lede
+
+Window tinting in Sarasota, FL covers cars, houses, condos and storefronts across the city, from mid-century homes built around walls of jalousie windows to bayfront towers with whole floors of glass. The work is the same on both sides of the county line, but the buildings in Sarasota are older and more varied than most people expect.
+
+## loc_sarasota_body
+
+### Older glass than the skyline suggests
+
+Census figures for 2020 to 2024 count about 32,300 housing units in the city of Sarasota, with a median build year of 1976. Some 58 percent were built before 1980, and about 1,700 date from 1939 or earlier. A lot of that glass is single-pane in aluminum or wood frames. Before film goes on an older pane, the installer should identify the glass, check the edges for chips and match the film to it, because a dark, heat-absorbing film on a large older window makes the glass run hotter in the sun than a lighter or more reflective one does.
+
+### The jalousie houses
+
+Sarasota gave its name to a school of modern architecture built for this climate. Paul Rudolph's Umbrella House on Lido Shores, drawn in 1953, was laid out on a 32-inch module, the width of a standard 1952 Sears jalousie window, and houses of that era were often wrapped in operable louvers and big sheets of glass. Film can be applied to jalousie slats, but each louver is its own small piece, the edges must sit clear of the frame so the louvers still close, and a reflective film will change how the facade reads. On a house people care about for its architecture, a clear spectrally selective film is usually the better answer. That work is [residential window tinting](../residential-window-tinting/).
+
+### Towers, condos and associations
+
+About 39 percent of the city's housing units are detached houses, and some 6,700, roughly one in five, sit in buildings of fifty or more units. In a condominium the glass is part of the building's exterior, and associations commonly set rules on film color and reflectivity so the tower looks uniform from the street. Get the association's approval in writing before booking. Offices and storefronts are covered under [commercial window tinting](../commercial-window-tinting/).
+
+### What Milton showed about film
+
+On the night of 9 October 2024 the eye of Hurricane Milton came ashore near Siesta Key, a few miles from downtown, as a Category 3 storm with sustained winds around 120 mph, according to the National Hurricane Center's landfall bulletin. Safety film helps keep shattered glass in one piece, which matters indoors. It does not turn a window into hurricane protection, and anyone selling it that way in Florida needs a state product approval to do so.
+
+### Cars in Sarasota
+
+The state limits are the same here as in Bradenton: the front side windows have to read at least 28 percent visible light on the meter, with darker shades allowed behind the driver. Cars garaged near the beaches sit in strong sun and salt air most of the year, which is where a ceramic film earns its price by cutting heat without going darker. See [car window tinting](../car-window-tinting/) and [ceramic window tint](../ceramic-window-tint/).
+
+### Getting to the job
+
+From Bradenton the van comes south on US-41, the Tamiami Trail, or on US-301 or I-75, depending on where in Sarasota the job is. Film choice, glass size and any old film to strip set the price; the [pricing page](../pricing/) shows ranges posted by local installers.

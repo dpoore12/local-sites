@@ -361,6 +361,8 @@ Matching before-and-after pictures of each run that was opened, a blower wheel y
 
 Chicagoland companies post single-furnace prices from a few hundred dollars up to around a thousand for large systems, with each additional furnace adding close to the cost of another system. The pricing page lays out those ranges, the EPA's own figure, and the Illinois contract rule, with sources.
 
+The same full cleaning covers Palatine, just north up Roselle Road, where much of the housing dates from the 1960s and 1970s; the [Palatine page](../palatine/) covers what is different about the systems there.
+
 Common questions: [Is Duct Cleaning a Waste of Money?](../is-duct-cleaning-a-waste-of-money/), [How Does Duct Cleaning Work?](../how-does-duct-cleaning-work/), [Can Dirty Air Ducts Make You Sick?](../can-dirty-air-ducts-make-you-sick/) and [Signs Your Air Ducts Need Cleaning](../signs-your-air-ducts-need-cleaning/)
 
 ## svc_furnace_blower_cleaning_lede
@@ -638,3 +640,34 @@ NADCA's standard gives a minimum inspection schedule for homes: the furnace and 
 Ask to see what was found, with photos or a camera feed from inside the actual runs. The Illinois Attorney General's home repair guidance applies well here: get more than one estimate in writing, be wary of high-pressure tactics and prices that look too good to be true, and avoid paying in full or in cash before the work is done. If the sale is made and signed at your home, you have three business days to cancel, and homeowners over 65 have up to fifteen.
 
 When the signs are real, a whole-system [air duct cleaning](../air-duct-cleaning/) should cover the supply runs, returns, trunk lines and furnace cabinet. The sourced Chicagoland ranges on the [pricing page](../pricing/) show what that typically costs, which makes an inflated or suspiciously cheap quote easier to spot.
+
+
+## loc_palatine_lede
+
+Air duct cleaning in Palatine, IL is covered from Schaumburg, a short drive north on Roselle Road or Route 53. Palatine's housing is older than Schaumburg's, with a median build year of 1977, so many furnaces here push air through ductwork that is now fifty or sixty years old.
+
+## loc_palatine_body
+
+### Older ductwork than the neighbors
+
+Palatine had 4,079 residents in 1950, 11,504 in 1960 and 26,050 by 1970, and 67,908 at the 2020 census. Census estimates for 2020 to 2024 count about 28,470 homes in the village, with a median year built of 1977. The 1970s were the biggest decade by far, with roughly 7,730 homes, and the 1960s added another 4,500. Close to 4,400 more were built before 1960. In houses that age the furnace has usually been replaced at least once while the original sheet-metal trunks and branch runs stayed put, so the ducts carry every decade of dust, pet hair and remodeling debris since they went in. The panned returns between floor joists in a basement ceiling are often the dirtiest part of the whole system.
+
+### Condos, townhouses and small buildings
+
+Only about 42 percent of Palatine's homes are detached houses. Roughly 4,400 are townhouses or other attached units, and about 4,600 sit in buildings of five to nine units, the low-rise condo blocks found across the village. A unit like that usually has one small furnace in a utility closet feeding short runs, which changes how the negative-air machine is set up. The building's own rules matter too. The village notes that homeowner associations can have covenants stricter than its code and leaves HOA approval to the owner, so check with the association before booking work in a shared building.
+
+### What the village expects on a furnace
+
+Cleaning a furnace and its ducts is not permitted work, but replacing the furnace is. Palatine's 2026 furnace replacement handout requires a contractor registered and bonded with the village, at least 30 inches of working space in front of the unit, and a note on the application if a humidifier is going in, with attic humidifiers protected from freezing. Condo owners can pull that permit for a furnace serving only their unit. If a cleaning reveals a furnace near the end of its life, that is a separate decision with its own paperwork. [Furnace and blower cleaning](../furnace-blower-cleaning/) covers what is done when the unit is staying.
+
+### After a basement flood
+
+On 23 July 2011, O'Hare recorded 6.86 inches of rain, the most ever measured in a single calendar day at Chicago's official station, and basements flooded across the northwest suburbs, Palatine included. Where water reached a basement furnace or a low return, the ducts need more than dust removal. Wet insulation and duct board have to come out, and metal runs get cleaned and dried before the system is put back in use. If a basement has taken water at any point, mention it when describing the house.
+
+### Remodels in a 1970s house
+
+Houses from that era are exactly the ones getting new kitchens, finished basements and opened-up walls. Drywall and sanding dust travel straight into the returns if the furnace runs during the work. [Post-renovation duct cleaning](../post-renovation-duct-cleaning/) is the job for that, done after the dust-making stops, along with a full [air duct cleaning](../air-duct-cleaning/) of every run if the system has never been opened up.
+
+### What it costs in Palatine
+
+The Palatine price is the same Chicagoland per-furnace range shown on the [pricing page](../pricing/), with a small condo system often landing at a minimum charge and a second furnace priced close to a second job. Ask for the scope and total in writing before work starts.

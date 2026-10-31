@@ -51,6 +51,8 @@
   </div>
 </section>
 
+{% set others = (s.towns | rejectattr('slug', 'equalto', loc.slug) | list)[:3] %}
+{% if others %}
 <section class="band band-navy">
   <div class="band-inner">
     <div class="band-head">
@@ -58,7 +60,7 @@
       <h2>Other {{ s.counties[0] }} County towns</h2>
     </div>
     <div class="service-cards">
-      {% for o in (s.towns | rejectattr('slug', 'equalto', loc.slug) | list)[:3] %}
+      {% for o in others %}
       <a class="service-card" href="{{ base }}{{ o.slug }}/">
         <span class="card-icon">{{ ico_pin | safe }}</span>
         <h3 class="service-card-title">{{ o.name }}</h3>
@@ -68,6 +70,7 @@
     </div>
   </div>
 </section>
+{% endif %}
 
 <section class="bottom-cta">
   <div class="band-inner">

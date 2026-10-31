@@ -353,6 +353,8 @@ Photos of the same runs before and after, a visibly clean blower wheel, sealed a
 
 Metro Atlanta price lists put a single system in a fairly tight band, with NADCA's national figure for an average-sized home running higher, and a two-system house costing close to double. The pricing page lays out those ranges with their sources, so you can tell whether the number you are hearing is inside the market or suspiciously far below it.
 
+The same whole-system cleaning covers Kennesaw, seven miles up Cobb Parkway, where most houses date from the 1990s and 2000s; the [Kennesaw page](../kennesaw/) explains what differs there.
+
 Common questions: [Is Air Duct Cleaning Worth It?](../is-air-duct-cleaning-worth-it/), [How Often Should Air Ducts Be Cleaned?](../how-often-should-air-ducts-be-cleaned/), [Mold in Air Ducts](../mold-in-air-ducts/) and [Air Duct Cleaning Scams](../air-duct-cleaning-scams/)
 
 ## svc_dryer_vent_cleaning_lede
@@ -602,3 +604,34 @@ Under the EPA's post-cleaning checklist, coils, drain pans, the blower and plenu
 ### Where to report a problem
 
 Complaints go to the Georgia Attorney General's Consumer Protection Division, online at consumer.georgia.gov or at (404) 651-8600, or (800) 869-1123 toll-free within Georgia. Keep the flyer, estimate, invoice and photos. Before the next quote, compare it with the sourced Marietta ranges on the [pricing page](../pricing/), which makes both the bait price and the padded bill easy to spot.
+
+
+## loc_kennesaw_lede
+
+Air duct cleaning in Kennesaw, GA is covered from Marietta, seven miles up Cobb Parkway. Most Kennesaw homes went up between 1990 and 2009, so the typical system here is twenty to thirty-five years old and was installed before Georgia began testing new ductwork for leaks.
+
+## loc_kennesaw_body
+
+### A city built in twenty years
+
+Kennesaw had 8,936 residents at the 1990 census and 21,675 by 2000, and it counted 33,036 in 2020. The houses tell the same story. Census estimates for 2020 to 2024 put the median year built at 1998, and 8,907 of the city's roughly 14,380 homes date from 1990 through 2009. That puts thousands of air handlers, flex duct runs and return plenums at the same age together. Flexible duct jackets from that period go brittle after years of attic heat, and returns from that era were often framed out of building cavities instead of sheet metal, which leaves a rough inside surface that holds dust far longer than a metal duct does.
+
+### Most of it predates the leak test
+
+Georgia started requiring leakage testing on new duct systems in 2011, and only about 1,950 Kennesaw homes were built in 2010 or later. Close to nine in ten were finished before the test applied. In an untested system the return side often draws air from the attic, a wall cavity or the garage, and that air brings its dust along. A cleaning tends to show where the leaks are, and [duct sealing and repair](../duct-sealing-repair/) is how they get closed. Cleaning is not alteration work, but replacing or re-routing ductwork is treated as mechanical work that needs a permit, so ask whether any repair quote includes it.
+
+### Townhouses, apartments and rentals
+
+The mix is wider than a typical subdivision town. Of those 14,380 homes, 8,335 are detached houses, about 2,400 are townhouses or other attached units, and roughly 1,235 sit in buildings with fifty or more units. Kennesaw State University, the third-largest public university in Georgia, keeps renters moving in and out every year, and the owner-occupancy rate is about 68.5 percent. Between tenants is a sensible time to clean a rental's ducts, before the new carpet goes down, with the owner or manager signing off on the scope.
+
+### Manufactured homes
+
+The Census also counts about 449 mobile homes in Kennesaw. Their supply duct runs in the belly under the floor, with the furnace or air handler in a hall closet. Those systems are cleaned through the floor registers, and the visit often finds a torn belly wrap or a crushed crossover duct letting crawl-space air in.
+
+### Humid summers and wooded ridges
+
+Kennesaw's climate is humid subtropical, with about 55 inches of rain a year. Kennesaw Mountain National Battlefield Park, close to 3,000 acres of wooded ridge between Kennesaw and Marietta, sits right beside the city, and spring tree pollen lands on everything nearby. That makes late spring the better time for a full [air duct cleaning](../air-duct-cleaning/), and it makes the coil and drain pan worth a look while the air handler is open, since a damp coil is where a musty smell usually starts. [Coil cleaning](../hvac-coil-cleaning/) is priced separately.
+
+### Getting there and what it costs
+
+Cobb Parkway (US 41) runs straight from Marietta into Kennesaw, and I-75 runs along the city's northeast edge with exits 269, 271 and 273, so a Kennesaw address is an ordinary stop on the same routes. Prices follow the metro Atlanta ranges on the [pricing page](../pricing/), with a two-system house costing close to double and a dryer vent quoted as its own line.

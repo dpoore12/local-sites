@@ -359,6 +359,8 @@ Local list prices for the common sizes, and the per-ton charge that applies when
 
 Common questions: [What Can You Put in a Dumpster?](../what-can-you-put-in-a-dumpster/), [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), [What Size Dumpster for a Roof](../what-size-dumpster-for-a-roof/) and [How Many Tons in a 20 Yard Dumpster?](../how-many-tons-in-a-20-yard-dumpster/)
 
+Storm cleanups across the bay in Santa Rosa County are covered too: see [dumpster rental in Milton](../milton/).
+
 ## svc_roof_tear_off_dumpster_rental_lede
 
 Roll-off boxes for Pensacola roof tear-offs, sized by roofing squares and layers, placed at the eave, and loaded with the heaviest debris on any residential job.
@@ -658,3 +660,37 @@ Florida limits the weight any single axle can put on the road to 20,000 pounds u
 - Compare the total to the tons the quote includes, then multiply any overage by the per-ton rate.
 
 For remodel debris, see [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/); for shingles, [What Size Dumpster for a Roof](../what-size-dumpster-for-a-roof/) and [roof tear-off dumpster rental](../roof-tear-off-dumpster-rental/); and for soaked storm contents, [storm debris dumpster rental](../storm-debris-dumpster-rental/). The physical dimensions are on [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), and current tonnage allowances with overage rates on the [pricing page](../pricing/).
+
+## loc_milton_lede
+
+Roll-off dumpster rental covers Milton, on the Blackwater River in Santa Rosa County, for storm tear-outs, roofs, remodels and cleanouts. Hurricane Isaias damaged roughly 60 percent of the city's structures in October 2026, and most of what comes out of those houses is not something the curbside passes will take.
+
+## loc_milton_body
+
+### Where Milton stands after Isaias
+
+By 21 October 2026 the city estimated about 400,000 cubic yards of vegetative debris and another 35,000 cubic yards of construction debris inside city limits, with 40 debris haulers working seven days a week and the first pass still unfinished. Officials put debris removal at about $25 million, roughly a third of the city's operating budget, and expected collection to run into November and possibly December. About 5 percent of buildings were described as destroyed or unlivable. A first pass built around limbs and leaves will not empty a house of wet drywall, carpet, insulation and cabinets, and that material should not sit in a damp garage for another month. The [storm debris dumpster rental](../storm-debris-dumpster-rental/) page covers how to photograph, sort and load a storm tear-out.
+
+### A different county, a different landfill
+
+Milton is in Santa Rosa County, not Escambia, so a box filled here does not go to the Perdido Landfill. It goes to Santa Rosa County's Central Landfill on Da Lisa Road in Milton itself, open Monday through Saturday from 7 a.m. to 5 p.m., with the last loads in by 4:30. The county's schedule effective 1 January 2026 sets Class III construction and demolition debris, such as shingles and wood furniture, at $50 a ton, the same as household garbage, with a $10 minimum on every transaction. Clean masonry, meaning concrete without trash or rebar, brick and asphalt, is accepted free, while masonry mixed with trash is charged the Class III rate. Asbestos needs a special waste permit and an appointment. A short haul to an in-county site is one of the advantages of working in Milton, and keeping concrete separate from everything else keeps a heavy load from becoming an expensive one.
+
+### Older houses close to the river
+
+Census figures put the median Milton home at a 1987 build, but the town is older than that number suggests: about 1,580 of its 5,179 housing units went up before 1970, and only about 60 have been built since 2020. Roughly half of households own their home. Older frame houses near downtown and the river tend to give up plaster, old flooring and layers of roofing when they are opened, and an older roof that took wind in Isaias often comes off down to the deck. Shingle loads are covered on [roof tear-off dumpster rental](../roof-tear-off-dumpster-rental/).
+
+### Flood rules and the city office
+
+The City of Milton enforces its own floodplain and stormwater regulations and asks owners to contact its Planning and Development Department before they build. The city's flood page says you do not have to live near the water to flood, and points to the April 2014 storm, which was not a hurricane but caused heavy damage and localized flooding. Elevation certificate data is available through the Santa Rosa County Property Appraiser, and the county floodplain manager also keeps certificate information. Settle the permit question for a storm repair or remodel with the city first, since a repair that grows in scope changes how much debris the job produces.
+
+### Placement on a Milton lot
+
+A paved driveway is the best spot, especially when the ground is still soft after a storm. The city asks residents to keep debris and trash out of its canals and drainage, and illegal dumping is reported to City Code Enforcement, so the box should sit well back from any ditch or drain inlet. Low limbs and loose wires left over from the storm need to be cleared before the truck can set a container down. If the street is the only spot available, ask the city before delivery.
+
+### Getting there from Pensacola
+
+Trucks cross Escambia Bay on I-10 or come through Pace on U.S. 90, and in the weeks after Isaias every hauler on both sides of the bay is working the same backlog. Have the material cut out and staged when the box arrives, fill it in a day or two, and call for the haul when it is full.
+
+### What it costs
+
+The size, the days, the tons included and the overage rate set the total. The [pricing page](../pricing/) lays out local list prices with their sources, and [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/) covers remodel debris.

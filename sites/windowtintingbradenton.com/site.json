@@ -346,5 +346,16 @@
       "icon": "bolt",
       "keyword": "does window tint reduce heat"
     }
+  ],
+  "towns": [
+    {
+      "slug": "sarasota",
+      "name": "Sarasota",
+      "nav": "Sarasota",
+      "accent": "Jalousies, Towers and Gulf Sun",
+      "photo": "assets/work-3.jpg",
+      "keyword": "window tinting Sarasota FL",
+      "icon": "shield"
+    }
   ]
 }

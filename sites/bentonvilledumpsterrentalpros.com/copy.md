@@ -349,6 +349,8 @@ Most homeowner rates around Bentonville include a week. Builders running a box f
 
 Posted thirty-yard rates around Bentonville sit in a band only about twenty dollars wide, with four tons included and a per-ton overage above that. The pricing page lays out each size with the sources behind it, so a builder can check whether a quote sits where Northwest Arkansas prices actually are.
 
+Builds across the line in [Rogers](../rogers/) run on the same plan, with a few city differences.
+
 Common questions: [What Size Dumpster Do I Need?](../what-size-dumpster-do-i-need/), [How Big Is a 10 Yard Dumpster?](../how-big-is-a-10-yard-dumpster/), [How Long Can You Keep a Dumpster?](../how-long-can-you-keep-a-dumpster/) and [Dumpster Rental vs Junk Removal](../dumpster-rental-vs-junk-removal/)
 
 ## svc_remodeling_dumpster_rental_lede
@@ -626,3 +628,77 @@ Many Bentonville cleanouts use both. The box takes the bulk: broken furniture, c
 - **Where will the box sit?** A driveway needs nothing from the city; a street placement needs a right-of-way permit through eTrakit.
 
 Posted roll-off rates by size, with included days and tons, are on the [pricing page](../pricing/).
+
+## loc_rogers_lede
+
+Rogers runs straight into Bentonville's eastern edge, and our dumpster rental covers Rogers addresses from the brick streets downtown to the lots around Pinnacle Hills. The county district, the landfill run and the trucks are the same on both sides of the line; the city trash contract, the street rules and the age of the houses are not.
+
+## loc_rogers_body
+
+### A city of nineties and two-thousands houses
+
+The Census Bureau's 2020-2024 American Community Survey counts 28,579 housing
+units in Rogers. About two in three are detached single-family houses, and
+12,468 of them, roughly 44 percent, were built between 1990 and 2009. Another
+6,838 went up after 2010. That first group is now due for its first full kitchen,
+its first tear-off roof and its second round of flooring, which is the steady
+work a [remodeling dumpster](../remodeling-dumpster-rental/) is sized for.
+
+Rogers is older at its core. The Frisco railroad founded the town in 1881, and
+the Rogers Commercial Historic District still carries downtown streets paved in
+1924. Fewer than 5,000 of the city's housing units predate 1980, but on those
+lots plaster, lath and two layers of shingles come out far heavier than modern
+drywall, so the box should be chosen by tonnage before volume.
+
+### Rentals, move-outs and estates
+
+Of the 26,265 occupied homes in the same survey, 11,231 are rented, a little over
+four in ten. Tenant turnover, landlord refreshes and estate clear-outs produce
+furniture, carpet and boxes faster than any curbside schedule can take them,
+which is where [cleanout dumpsters](../cleanout-dumpster-rental/) earn their place.
+
+### What the city's trash contract will not take
+
+GFL is the city's contracted provider for residential trash, recycling and bulky
+pickup. Bulky pickup runs once a month, must be booked 48 hours ahead, and
+includes two items before a per-item charge applies. The city's own GFL page is
+blunt about remodel waste: toilets, boards, plywood and cabinets count as
+construction and demolition debris, not bulky waste, and GFL will not collect
+them. Anything bagged is treated as household trash. Residents can drive bulk
+loads to the Customer Convenience Center transfer station at 848 Highway 264 in
+Springdale with a current water bill and photo ID, paying by the car or truck
+load. For a gutted bathroom, that becomes several trips.
+
+Chapter 46 of the Rogers code requires every household to subscribe to city
+solid waste service, but we found nothing in it that reserves roll-off boxes for
+a single hauler. A box from a district-licensed hauler can go to a Rogers address.
+
+### Driveway first, street only with notice
+
+A box on your own driveway sits on private property. A box in a street or a
+public lot is a different matter. The city's street and parking lot closure
+request asks for 45 days' notice and routes construction closures to a separate
+city contact, so a street placement in Rogers is a plan for weeks ahead, not the
+morning of delivery. If the house sits under an HOA, read the covenants on how
+long a container may stay in view before the truck is booked.
+
+### Storm cleanup on this side of the line
+
+Early on May 26, 2024, an EF2 tornado tracked 7.4 miles from south of
+Bentonville to northeast of Rogers, at points close to 3,000 yards wide. It
+damaged hundreds of homes and businesses and snapped or uprooted thousands of
+trees. Cleanups like that mix shingles, siding, fence panels and limbs. Brush is
+better kept out of the box and handled separately; roofing, framing and ruined
+contents go in.
+
+### Where a Rogers load goes
+
+Every roll-off hauler working here needs a Benton County Solid Waste District
+license. The regional destination for mixed construction debris is the Eco-Vista
+Landfill southwest of Tontitown, with a 60-acre Class 4 cell for construction
+and demolition waste, so each swap is a run south on I-49 through Springdale and
+back. Eco-Vista is closed on weekends. Paint, tires, batteries and appliances go
+instead to the district's special waste site at 2307 North Arkansas Street, inside
+Rogers itself. Concrete, brick and soil belong in a smaller box, covered on the
+[concrete and dirt page](../concrete-dirt-dumpster-rental/), and posted sizes,
+tons and days are on the [pricing page](../pricing/).

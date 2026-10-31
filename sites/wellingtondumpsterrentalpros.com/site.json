@@ -347,5 +347,16 @@
       "icon": "house",
       "keyword": "how big is a 30 yard dumpster"
     }
+  ],
+  "towns": [
+    {
+      "slug": "loxahatchee",
+      "name": "Loxahatchee",
+      "nav": "Loxahatchee",
+      "accent": "Dirt Roads, Wells and County Rules",
+      "photo": "assets/work-2.jpg",
+      "keyword": "dumpster rental Loxahatchee FL",
+      "icon": "pin"
+    }
   ]
 }

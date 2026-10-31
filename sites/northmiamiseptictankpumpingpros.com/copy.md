@@ -354,6 +354,8 @@ A routine pump-out is priced per visit, with lid access, tank size and the hour 
 
 Common questions: [How Often Should a Septic Tank Be Pumped?](../how-often-should-a-septic-tank-be-pumped/), [How Does a Septic Tank Work?](../how-does-a-septic-tank-work/), [Signs Your Septic Tank Is Full](../signs-your-septic-tank-is-full/) and [How Long Does It Take to Pump a Septic Tank?](../how-long-does-it-take-to-pump-a-septic-tank/)
 
+The same pump-out service also covers [North Miami Beach](../north-miami-beach/), where the city's own sewer projects are reaching some streets first.
+
 ## svc_emergency_septic_service_lede
 
 Emergency septic service in North Miami for sewage backing up into the house, a tank overflowing after heavy rain, or a smell that will not go away, dispatched ahead of routine calls.
@@ -614,3 +616,29 @@ Immediately. The drains can be used as soon as the lids are closed. The tank the
 ### Where to go from here
 
 A routine visit is [septic tank pumping](../septic-tank-pumping/), and a backup that cannot wait is [emergency septic service](../emergency-septic-service/). If the tank is being taken out of service for a sewer hookup, that is [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) shows what lid access and timing do to the posted ranges.
+
+## loc_north_miami_beach_lede
+
+Septic tank pumping in North Miami Beach, FL covers the single-family and small apartment lots that still drain to a tank, a group the city has been shrinking street by street. North Miami Beach runs its own utility, NMB Water, so whether a sewer main has reached your block is a question for the city before it is a question for the county.
+
+## loc_north_miami_beach_body
+
+### A city with its own sewer projects
+
+North Miami Beach is a separate city from North Miami, and its conversions are planned by NMB Water rather than by the county alone. In a 2019 request for state money, the city described western Corona del Mar as about 35 acres bounded by NE 163rd Street, NE 18th Avenue, NE 159th Street and NE 21st Avenue, a mix of houses, small apartment buildings and a few homes turned into offices, all on septic tanks. The plan was roughly 7,700 feet of 8-inch gravity main and a new lift station. By January 2023 the Biscayne Times reported crews laying PVC pipe along several blocks there, with the city planning to connect 130 properties and paying the connection fee, the contractor and the removal of the old tanks. A larger 2023 request to the Florida Senate described converting 969 homes, about 4,000 residents, with 44,300 feet of new gravity sewer, 146 manholes and two lift stations.
+
+What that means for an owner: if your street is inside one of these projects, the last pump-out should be timed to the hookup, and the tank then has to be taken out of service properly. That job is [septic tank abandonment](../septic-tank-abandonment/), not a routine visit.
+
+### Houses built around the tank
+
+Census figures for 2020 to 2024 count about 17,500 housing units in the city with a median build year of 1967. Roughly 5,400 of them went up in the 1950s alone, more than half were built between 1950 and 1969, and about four in five predate 1980. Only around 6,700 are detached single-family houses, while some 5,200 sit in buildings of fifty or more units on sewer. The tanks that remain are mostly on those older house lots and on duplexes and small walk-ups, where one tank can carry several households and fill faster than a family home's.
+
+A tank installed in the late 1950s has usually outlived the yard it was put in. Lids end up under a carport slab, a room addition or a paver drive, and finding them is part of the visit.
+
+### Groundwater and nearby water
+
+The county's 2022 septic ordinance bars a new conventional tank on any full replacement and requires a Type 3 or Type 4 system on lots within 1,000 feet of a surface water body. If your lot is near a canal, a lake or the bay, a failed system here is an engineered replacement, which is why the cheaper fix, a pump-out or a [drain field repair](../drain-field-repair/), gets ruled out first. The water table also climbs late in the rainy season, so a slow drain in October deserves a look at the ground as well as the tank.
+
+### What a North Miami Beach visit covers
+
+The truck comes up from North Miami on NE 163rd Street, Biscayne Boulevard or I-95. On site the lids are found, both compartments are emptied, the baffles and outlet are checked, and you get a written note of sludge depth and condition. If you have had a notice from the city about sewer service on your street, say so up front, because it changes what should be done. Routine work is [septic tank pumping](../septic-tank-pumping/), and the [pricing page](../pricing/) shows what South Florida operators post for it.
