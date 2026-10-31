@@ -354,7 +354,7 @@ Most household contents are light, but a few items are not. A slate pool table, 
 
 Price is set by the container size, the rental days and the tons included. Cleanouts rarely go over on weight unless one of those heavy items is in the mix. The pricing page lists published ranges from roll-off companies serving Palm Beach County, and the Solid Waste Authority rate behind them, so the number you hear can be checked against the market.
 
-Homes north of the village in [Loxahatchee and The Acreage](../loxahatchee/) fall under county rules that limit what a roll-off may carry, so describe the load before booking there.
+Homes north of the village in [Loxahatchee and The Acreage](../dumpster-rental-loxahatchee-fl/) fall under county rules that limit what a roll-off may carry, so describe the load before booking there.
 
 Before booking, four quick reads: [whether a Wellington box needs a permit](../do-i-need-a-permit-for-a-dumpster/), [what is allowed in the container](../what-can-you-put-in-a-dumpster/), [Will a Dumpster Damage My Driveway?](../will-a-dumpster-damage-my-driveway/) and [How Big Is a 30 Yard Dumpster?](../how-big-is-a-30-yard-dumpster/)
 
@@ -650,11 +650,11 @@ The village itself points residents with a large project to a roll-off from a ha
 
 When the job is big and light, yes. When the volume is uncertain, a 20-yard and a swap can work out better than one oversized box parked for weeks. For a clear-out of a whole house, see [home cleanout dumpster rental](../home-cleanout-dumpster-rental/); for post-storm work, [storm debris dumpster rental](../storm-debris-dumpster-rental/); for barns and stables, [barn cleanout dumpster rental](../barn-cleanout-dumpster-rental/). Wellington-area rates for every size, with included tons and days, are on the [pricing page](../pricing/).
 
-## loc_loxahatchee_lede
+## loc_dumpster_rental_loxahatchee_fl_lede
 
 Loxahatchee and The Acreage begin just north of Wellington, and our dumpster rental covers this unincorporated part of the county, where roll-off work is open to any hauler holding a Solid Waste Authority permit. Lots run an acre or more, many roads are dirt, and nearly every house sits on its own well and septic tank, which shapes where a box can go.
 
-## loc_loxahatchee_body
+## loc_dumpster_rental_loxahatchee_fl_body
 
 ### Which rules apply out here
 

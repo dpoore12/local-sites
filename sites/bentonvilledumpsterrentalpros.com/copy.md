@@ -349,7 +349,7 @@ Most homeowner rates around Bentonville include a week. Builders running a box f
 
 Posted thirty-yard rates around Bentonville sit in a band only about twenty dollars wide, with four tons included and a per-ton overage above that. The pricing page lays out each size with the sources behind it, so a builder can check whether a quote sits where Northwest Arkansas prices actually are.
 
-Builds across the line in [Rogers](../rogers/) run on the same plan, with a few city differences.
+Builds across the line in [Rogers](../dumpster-rental-rogers-ar/) run on the same plan, with a few city differences.
 
 Common questions: [What Size Dumpster Do I Need?](../what-size-dumpster-do-i-need/), [How Big Is a 10 Yard Dumpster?](../how-big-is-a-10-yard-dumpster/), [How Long Can You Keep a Dumpster?](../how-long-can-you-keep-a-dumpster/) and [Dumpster Rental vs Junk Removal](../dumpster-rental-vs-junk-removal/)
 
@@ -629,11 +629,11 @@ Many Bentonville cleanouts use both. The box takes the bulk: broken furniture, c
 
 Posted roll-off rates by size, with included days and tons, are on the [pricing page](../pricing/).
 
-## loc_rogers_lede
+## loc_dumpster_rental_rogers_ar_lede
 
 Rogers runs straight into Bentonville's eastern edge, and our dumpster rental covers Rogers addresses from the brick streets downtown to the lots around Pinnacle Hills. The county district, the landfill run and the trucks are the same on both sides of the line; the city trash contract, the street rules and the age of the houses are not.
 
-## loc_rogers_body
+## loc_dumpster_rental_rogers_ar_body
 
 ### A city of nineties and two-thousands houses
 

@@ -358,7 +358,7 @@ A price far below the posted local range usually means supply registers only, no
 
 Posted Chicago-area prices for one furnace system cluster from the low hundreds into the mid hundreds, with full packages that include the blower running higher. The pricing page on this site lays out the bands with the companies that published them, so you can see whether a quote is inside the range and what scope the range assumes.
 
-Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/), [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/), [Does Duct Cleaning Help With Allergies?](../does-duct-cleaning-help-with-allergies/) and [What Is in Your Air Ducts?](../what-is-in-your-air-ducts/). Also covering [Carol Stream](../carol-stream/), just north of Wheaton.
+Common questions: [How Long Does Duct Cleaning Take?](../how-long-does-duct-cleaning-take/), [Is Air Duct Cleaning Necessary?](../is-air-duct-cleaning-necessary/), [Does Duct Cleaning Help With Allergies?](../does-duct-cleaning-help-with-allergies/) and [What Is in Your Air Ducts?](../what-is-in-your-air-ducts/). Also covering [Carol Stream](../air-duct-cleaning-carol-stream-il/), just north of Wheaton.
 
 ## svc_furnace_blower_cleaning_lede
 
@@ -628,11 +628,11 @@ With a screwdriver and a phone, remove a supply register in a bedroom and photog
 
 Ordinary dust calls for a good filter, not a crew. Droppings, growth or construction debris call for a cleaning that reaches every return, supply and trunk, and a dusty blower wheel is handled through [furnace blower cleaning](../furnace-blower-cleaning/). The [pricing page](../pricing/) lists the posted Chicago-area ranges and the scope each range assumes.
 
-## loc_carol_stream_lede
+## loc_air_duct_cleaning_carol_stream_il_lede
 
 Air duct cleaning service covers Carol Stream, the DuPage County village just north of Wheaton, where the Census puts the median home at 1984 and the busiest building decade was the 1980s. Most of its forced-air systems are on their second or third furnace and have never had the ductwork itself opened.
 
-## loc_carol_stream_body
+## loc_air_duct_cleaning_carol_stream_il_body
 
 ### A village that was built in about twenty years
 

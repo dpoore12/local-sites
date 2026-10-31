@@ -354,7 +354,7 @@ A routine pump-out is priced per visit, with lid access, tank size and the hour 
 
 Common questions: [How Often Should a Septic Tank Be Pumped?](../how-often-should-a-septic-tank-be-pumped/), [How Does a Septic Tank Work?](../how-does-a-septic-tank-work/), [Signs Your Septic Tank Is Full](../signs-your-septic-tank-is-full/) and [How Long Does It Take to Pump a Septic Tank?](../how-long-does-it-take-to-pump-a-septic-tank/)
 
-The same pump-out service also covers [North Miami Beach](../north-miami-beach/), where the city's own sewer projects are reaching some streets first.
+The same pump-out service also covers [North Miami Beach](../septic-tank-pumping-north-miami-beach-fl/), where the city's own sewer projects are reaching some streets first.
 
 ## svc_emergency_septic_service_lede
 
@@ -617,11 +617,11 @@ Immediately. The drains can be used as soon as the lids are closed. The tank the
 
 A routine visit is [septic tank pumping](../septic-tank-pumping/), and a backup that cannot wait is [emergency septic service](../emergency-septic-service/). If the tank is being taken out of service for a sewer hookup, that is [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) shows what lid access and timing do to the posted ranges.
 
-## loc_north_miami_beach_lede
+## loc_septic_tank_pumping_north_miami_beach_fl_lede
 
 Septic tank pumping in North Miami Beach, FL covers the single-family and small apartment lots that still drain to a tank, a group the city has been shrinking street by street. North Miami Beach runs its own utility, NMB Water, so whether a sewer main has reached your block is a question for the city before it is a question for the county.
 
-## loc_north_miami_beach_body
+## loc_septic_tank_pumping_north_miami_beach_fl_body
 
 ### A city with its own sewer projects
 

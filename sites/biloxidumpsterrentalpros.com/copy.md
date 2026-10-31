@@ -356,7 +356,7 @@ Size, rental window, tons included and the per-ton overage set the price. Renova
 
 Common questions: [How Much Weight Can a Dumpster Hold?](../how-much-weight-can-a-dumpster-hold/), [Do I Need a Permit for a Dumpster?](../do-i-need-a-permit-for-a-dumpster/), [Can You Put a Dumpster on the Street?](../can-you-put-a-dumpster-on-the-street/) and [What Can't You Put in a Dumpster?](../what-cant-you-put-in-a-dumpster/)
 
-Gulfport, the next city west along the beach, is covered too: see [dumpster rental in Gulfport](../gulfport/).
+Gulfport, the next city west along the beach, is covered too: see [dumpster rental in Gulfport](../dumpster-rental-gulfport-ms/).
 
 ## svc_roofing_dumpster_rental_lede
 
@@ -654,11 +654,11 @@ Concrete, brick, block and asphalt are welcome, and a box of nothing else can go
 
 Goes in: drywall, lumber, cabinets, flooring, carpet, shingles, fencing, furniture, cardboard, and appliances with the motor removed. Stays out: the household trash, the seafood shells, anything that pours, anything with a battery, tires, refrigerators and anything that might be asbestos. Remodel debris is covered on [construction and renovation dumpsters](../construction-dumpster-rental/), house contents on [cleanout dumpster rental](../cleanout-dumpster-rental/), and sizes and published rates on the [pricing page](../pricing/).
 
-## loc_gulfport_lede
+## loc_dumpster_rental_gulfport_ms_lede
 
 Roll-off dumpster rental in Gulfport covers the whole city, from the beachfront blocks along U.S. 90 to the newer subdivisions north of I-10, with the box sized to the debris and the dump site picked before delivery. Gulfport counted 74,632 people in the Census Bureau's 2024 estimate, and its remodels, roofs and military moves fill containers all year.
 
-## loc_gulfport_body
+## loc_dumpster_rental_gulfport_ms_body
 
 ### What Gulfport's own trucks will not take
 

@@ -353,7 +353,7 @@ Photos of the same runs before and after, a visibly clean blower wheel, sealed a
 
 Metro Atlanta price lists put a single system in a fairly tight band, with NADCA's national figure for an average-sized home running higher, and a two-system house costing close to double. The pricing page lays out those ranges with their sources, so you can tell whether the number you are hearing is inside the market or suspiciously far below it.
 
-The same whole-system cleaning covers Kennesaw, seven miles up Cobb Parkway, where most houses date from the 1990s and 2000s; the [Kennesaw page](../kennesaw/) explains what differs there.
+The same whole-system cleaning covers Kennesaw, seven miles up Cobb Parkway, where most houses date from the 1990s and 2000s; the [Kennesaw page](../air-duct-cleaning-kennesaw-ga/) explains what differs there.
 
 Common questions: [Is Air Duct Cleaning Worth It?](../is-air-duct-cleaning-worth-it/), [How Often Should Air Ducts Be Cleaned?](../how-often-should-air-ducts-be-cleaned/), [Mold in Air Ducts](../mold-in-air-ducts/) and [Air Duct Cleaning Scams](../air-duct-cleaning-scams/)
 
@@ -606,11 +606,11 @@ Under the EPA's post-cleaning checklist, coils, drain pans, the blower and plenu
 Complaints go to the Georgia Attorney General's Consumer Protection Division, online at consumer.georgia.gov or at (404) 651-8600, or (800) 869-1123 toll-free within Georgia. Keep the flyer, estimate, invoice and photos. Before the next quote, compare it with the sourced Marietta ranges on the [pricing page](../pricing/), which makes both the bait price and the padded bill easy to spot.
 
 
-## loc_kennesaw_lede
+## loc_air_duct_cleaning_kennesaw_ga_lede
 
 Air duct cleaning in Kennesaw, GA is covered from Marietta, seven miles up Cobb Parkway. Most Kennesaw homes went up between 1990 and 2009, so the typical system here is twenty to thirty-five years old and was installed before Georgia began testing new ductwork for leaks.
 
-## loc_kennesaw_body
+## loc_air_duct_cleaning_kennesaw_ga_body
 
 ### A city built in twenty years
 

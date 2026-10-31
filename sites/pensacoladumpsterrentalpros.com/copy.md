@@ -359,7 +359,7 @@ Local list prices for the common sizes, and the per-ton charge that applies when
 
 Common questions: [What Can You Put in a Dumpster?](../what-can-you-put-in-a-dumpster/), [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), [What Size Dumpster for a Roof](../what-size-dumpster-for-a-roof/) and [How Many Tons in a 20 Yard Dumpster?](../how-many-tons-in-a-20-yard-dumpster/)
 
-Storm cleanups across the bay in Santa Rosa County are covered too: see [dumpster rental in Milton](../milton/).
+Storm cleanups across the bay in Santa Rosa County are covered too: see [dumpster rental in Milton](../dumpster-rental-milton-fl/).
 
 ## svc_roof_tear_off_dumpster_rental_lede
 
@@ -661,11 +661,11 @@ Florida limits the weight any single axle can put on the road to 20,000 pounds u
 
 For remodel debris, see [construction and renovation dumpster rental](../construction-renovation-dumpster-rental/); for shingles, [What Size Dumpster for a Roof](../what-size-dumpster-for-a-roof/) and [roof tear-off dumpster rental](../roof-tear-off-dumpster-rental/); and for soaked storm contents, [storm debris dumpster rental](../storm-debris-dumpster-rental/). The physical dimensions are on [How Big Is a 20 Yard Dumpster?](../how-big-is-a-20-yard-dumpster/), and current tonnage allowances with overage rates on the [pricing page](../pricing/).
 
-## loc_milton_lede
+## loc_dumpster_rental_milton_fl_lede
 
 Roll-off dumpster rental covers Milton, on the Blackwater River in Santa Rosa County, for storm tear-outs, roofs, remodels and cleanouts. Hurricane Isaias damaged roughly 60 percent of the city's structures in October 2026, and most of what comes out of those houses is not something the curbside passes will take.
 
-## loc_milton_body
+## loc_dumpster_rental_milton_fl_body
 
 ### Where Milton stands after Isaias
 

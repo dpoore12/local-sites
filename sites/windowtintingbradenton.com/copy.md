@@ -354,7 +354,7 @@ The price is set by how many pieces of glass the vehicle has, the film line, and
 
 Common questions: [How Long Does Window Tinting Take?](../how-long-does-window-tinting-take/), [What Is Ceramic Window Tint?](../what-is-ceramic-window-tint/), [Florida Window Tint Law](../florida-window-tint-law/) and [Does Window Tint Reduce Heat?](../does-window-tint-reduce-heat/)
 
-The same car tint work also covers [Sarasota](../sarasota/), just south down the Tamiami Trail.
+The same car tint work also covers [Sarasota](../window-tinting-sarasota-fl/), just south down the Tamiami Trail.
 
 ## svc_ceramic_window_tint_lede
 
@@ -643,11 +643,11 @@ Film that absorbs heat also raises the temperature of the pane, and the IWFA not
 
 Heat-focused film for a car is [ceramic window tint](../ceramic-window-tint/), and a full vehicle in any film line is [car window tinting](../car-window-tinting/). West-facing house glass is [residential window tinting](../residential-window-tinting/), and storefronts are [commercial window tinting](../commercial-window-tinting/). The [pricing page](../pricing/) puts the per-vehicle and per-square-foot ranges side by side.
 
-## loc_sarasota_lede
+## loc_window_tinting_sarasota_fl_lede
 
 Window tinting in Sarasota, FL covers cars, houses, condos and storefronts across the city, from mid-century homes built around walls of jalousie windows to bayfront towers with whole floors of glass. The work is the same on both sides of the county line, but the buildings in Sarasota are older and more varied than most people expect.
 
-## loc_sarasota_body
+## loc_window_tinting_sarasota_fl_body
 
 ### Older glass than the skyline suggests
 

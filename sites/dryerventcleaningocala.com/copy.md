@@ -358,7 +358,7 @@ The USFA's dryer flyer gives the basics: empty the lint screen before and after 
 
 Operators serving Ocala post standard cleanings from under a hundred dollars to the mid two hundreds, depending on the house and what is included. The pricing page carries the posted figures and names every operator behind them.
 
-Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/), [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/), [Signs Your Dryer Vent Is Clogged](../signs-your-dryer-vent-is-clogged/) and [Why Is My Dryer Taking So Long to Dry?](../why-is-my-dryer-taking-so-long-to-dry/). Also covering [The Villages](../the-villages/), about 20 miles south.
+Common questions: [How Often Should You Clean Your Dryer Vent?](../how-often-should-you-clean-your-dryer-vent/), [How Long Can a Dryer Vent Be?](../how-long-can-a-dryer-vent-be/), [Signs Your Dryer Vent Is Clogged](../signs-your-dryer-vent-is-clogged/) and [Why Is My Dryer Taking So Long to Dry?](../why-is-my-dryer-taking-so-long-to-dry/). Also covering [The Villages](../dryer-vent-cleaning-the-villages-fl/), about 20 miles south.
 
 ## svc_roof_dryer_vent_cleaning_lede
 
@@ -634,11 +634,11 @@ A dryer pulls its air from the room it sits in. In Ocala that room is often a ga
 
 A clogged run is [dryer vent cleaning](../dryer-vent-cleaning/), or [roof dryer vent cleaning](../roof-dryer-vent-cleaning/) when it exits through the roof. A crushed hose, an over-length run or an outlet under a mobile home is [dryer vent repair](../dryer-vent-repair/). The [pricing page](../pricing/) shows the posted figures for each.
 
-## loc_the_villages_lede
+## loc_dryer_vent_cleaning_the_villages_fl_lede
 
 Dryer vent cleaning covers The Villages, about 20 miles south of Ocala, across all three counties it sits in. Most of the community is in Sumter County, a Lady Lake and Lake County section holds the oldest neighborhoods, and part of District 4 lies in Marion County.
 
-## loc_the_villages_body
+## loc_dryer_vent_cleaning_the_villages_fl_body
 
 ### Which county you are in
 

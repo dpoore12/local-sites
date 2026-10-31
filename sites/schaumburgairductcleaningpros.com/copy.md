@@ -361,7 +361,7 @@ Matching before-and-after pictures of each run that was opened, a blower wheel y
 
 Chicagoland companies post single-furnace prices from a few hundred dollars up to around a thousand for large systems, with each additional furnace adding close to the cost of another system. The pricing page lays out those ranges, the EPA's own figure, and the Illinois contract rule, with sources.
 
-The same full cleaning covers Palatine, just north up Roselle Road, where much of the housing dates from the 1960s and 1970s; the [Palatine page](../palatine/) covers what is different about the systems there.
+The same full cleaning covers Palatine, just north up Roselle Road, where much of the housing dates from the 1960s and 1970s; the [Palatine page](../air-duct-cleaning-palatine-il/) covers what is different about the systems there.
 
 Common questions: [Is Duct Cleaning a Waste of Money?](../is-duct-cleaning-a-waste-of-money/), [How Does Duct Cleaning Work?](../how-does-duct-cleaning-work/), [Can Dirty Air Ducts Make You Sick?](../can-dirty-air-ducts-make-you-sick/) and [Signs Your Air Ducts Need Cleaning](../signs-your-air-ducts-need-cleaning/)
 
@@ -642,11 +642,11 @@ Ask to see what was found, with photos or a camera feed from inside the actual r
 When the signs are real, a whole-system [air duct cleaning](../air-duct-cleaning/) should cover the supply runs, returns, trunk lines and furnace cabinet. The sourced Chicagoland ranges on the [pricing page](../pricing/) show what that typically costs, which makes an inflated or suspiciously cheap quote easier to spot.
 
 
-## loc_palatine_lede
+## loc_air_duct_cleaning_palatine_il_lede
 
 Air duct cleaning in Palatine, IL is covered from Schaumburg, a short drive north on Roselle Road or Route 53. Palatine's housing is older than Schaumburg's, with a median build year of 1977, so many furnaces here push air through ductwork that is now fifty or sixty years old.
 
-## loc_palatine_body
+## loc_air_duct_cleaning_palatine_il_body
 
 ### Older ductwork than the neighbors
 
