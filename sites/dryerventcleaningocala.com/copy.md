@@ -634,6 +634,91 @@ A dryer pulls its air from the room it sits in. In Ocala that room is often a ga
 
 A clogged run is [dryer vent cleaning](../dryer-vent-cleaning/), or [roof dryer vent cleaning](../roof-dryer-vent-cleaning/) when it exits through the roof. A crushed hose, an over-length run or an outlet under a mobile home is [dryer vent repair](../dryer-vent-repair/). The [pricing page](../pricing/) shows the posted figures for each.
 
+## q_how_to_clean_a_dryer_vent_lede
+
+In an Ocala house where the dryer vents through a low wall hood near the laundry, most of the job is a homeowner job: unplug the dryer, pull it out, take off the hose, run a rotary brush through the duct, clear the hood outside, then put it all back and test the airflow. A vent that leaves through the roof, or a long attic run, is the point to stop and hand it over.
+
+## q_how_to_clean_a_dryer_vent_body
+
+### Before you start
+
+Lint goes two places: into the screen you empty every load, and past it into the cabinet and the duct. The National Fire Protection Association advises clearing lint out of the vent pipe once a year, or sooner when drying starts to drag, and says you can do it yourself or have a lint removal service do it. Its report on dryer fires mentions the long, thin brushes sold for the purpose. A kit of flexible rods that spin from a cordless drill, a shop vacuum, a nut driver for the clamps and a flashlight cover most homes.
+
+Unplug an electric dryer before moving it. A gas dryer is a different matter: the flexible gas connector behind it should not be bent hard or pulled loose, and the NFPA recommends having a professional inspect gas dryers to make sure the line and connection are intact and not leaking. If you smell gas at any point, stop, leave the house and call the gas utility from outside.
+
+### Step 1: The screen and the floor behind the machine
+
+Pull the lint screen and clean it. Then slide the dryer out and vacuum the floor and the wall behind it. The Consumer Product Safety Commission notes that lint builds up back there too, and recommends having a qualified service person clean the inside of the cabinet from time to time.
+
+### Step 2: Take off the transition hose
+
+Loosen the clamp at the back of the dryer and at the wall, and pull the short hose free. Look at it honestly. White vinyl or thin foil accordion hose should go in the trash; the CPSC says that kind of duct traps lint and crushes more easily, and recommends rigid or semi-rigid metal in its place. Florida's residential code allows a single listed transition duct no longer than 8 feet and never hidden inside a wall.
+
+### Step 3: Brush the duct
+
+Feed the brush into the wall opening, spin it in the direction that keeps the rod sections tight, and work it out to the far end a section at a time, then back. Pull lint out with the vacuum as it loosens. If the brush meets something solid it will not pass, do not force it: that can be a crushed section, a separated joint inside a wall, or a nest.
+
+### Step 4: The outside hood
+
+Go outside and clear the hood by hand, removing lint, grass and leaves. Check that the flap swings freely and closes on its own. Florida's code wants a backdraft damper at the outlet and no screen there, because a screen catches lint; if someone has added one, take it off. Twigs or grass packed into the hood, or chirping inside, are signs of a bird nest. If there may be eggs or chicks, leave it alone and read the [bird nest removal](../dryer-vent-bird-nest-removal/) page before doing anything.
+
+### Step 5: Put it back and test it
+
+Reconnect the hose at both ends with the clamps, without kinks, and push the dryer back without crushing it. The CPSC reminds owners to reconnect the duct to the dryer and the outside vent before running the machine again. Then run a load on high heat and stand at the hood: a strong, warm stream that pushes the flap wide open means the job worked. Don't add screws to the duct joints when reassembling; the code forbids fasteners that poke into the airflow and catch lint.
+
+### When this is not a homeowner job
+
+- **The vent leaves through the roof.** Many single-story Ocala homes with a central laundry run the duct across the attic to a roof cap. The cap has to be opened and cleared from above, and the work needs a ladder and secure footing on a hot, often steep roof. Nearly three in ten Marion County residents are 65 or older, and no clean duct is worth a fall. That job is [roof dryer vent cleaning](../roof-dryer-vent-cleaning/).
+- **The run is long or the brush will not go through.** A long run with several elbows, or a blockage that will not move, is better cleaned from both ends with professional equipment.
+- **The duct ends under a manufactured home.** Federal standards at 24 CFR 3280.708 forbid that termination, so the duct needs extending, not just cleaning.
+- **The duct is crushed, split or plastic inside a wall.** That is [dryer vent repair](../dryer-vent-repair/).
+
+### What a pro adds
+
+A professional cleaning covers the whole run from the drum to the outlet, opens the roof cap if there is one, and ends with an airflow check. The [dryer vent cleaning](../dryer-vent-cleaning/) page explains what that visit covers, and the [pricing page](../pricing/) shows what operators serving Marion County post for it.
+
+## q_can_a_clogged_dryer_vent_cause_a_fire_lede
+
+Yes. Lint is light, dry and burns easily, and a clogged duct traps it in the hottest part of the system while choking off the airflow that carries heat away. National fire data have named failure to clean as the leading factor behind home dryer fires for years. In Ocala the risk sits mostly in long attic runs to a roof cap and in ducts nobody has looked at since the house changed hands.
+
+## q_can_a_clogged_dryer_vent_cause_a_fire_body
+
+### How a clog becomes a fire
+
+A dryer works by blowing heated air through the drum and pushing the moist air out through the duct. The Consumer Product Safety Commission puts the problem simply: lint that collects in the dryer or the exhaust duct can block the flow of air, cause heat to build up and, in some dryers, start a fire. As the duct narrows, the air leaving the drum slows, the cabinet runs hotter, and lint that slipped past the screen settles near the heater and along the duct walls. Everything that burns in that picture was put there by ordinary laundry.
+
+### What the national numbers show
+
+The National Fire Protection Association's 2012 report on dryer and washer fires estimated 16,950 home structure fires a year from 2006 to 2010, with 34 civilian deaths, 430 injuries and $209 million in direct property damage annually. Dryers accounted for 92 percent of those fires and 87 percent of the deaths. Failure to clean was the leading factor contributing to ignition in dryer fires, at 33 percent, and dust, fiber or lint was the most common item first ignited, at 29 percent, just ahead of clothing. Most of the fires, 81 percent, started in a laundry room or laundry area. The report also found the fire risk roughly equal for gas and electric dryers, so neither type gets a pass.
+
+The U.S. Fire Administration counts these fires differently and reaches a much smaller total, about 2,900 residential dryer fires a year for 2008 to 2010. The two agencies use different methods, but they agree on the main point: in the federal agency's figures too, failure to clean leads, at 34 percent.
+
+### A clogged vent is not the only cause
+
+The NFPA report notes that many other dryer fires come from mechanical or electrical failures recorded with little detail. Laundry itself can be a fuel. The CPSC warns about clothes soiled with gasoline, cooking oil, cleaning agents, or finishing oils and stains. Its advice is to wash such items more than once, hang them to dry if possible, use low heat with a cool-down cycle if not, and never leave them warm and piled in the drum or a basket afterward. Rags from staining a fence or oiling a deck fall in that group.
+
+### Marion County has seen it
+
+Dryer fires here are not hypothetical. In October 2014, Marion County Fire Rescue responded to a house in Summerfield where a dryer had started a fire in the laundry room. The homeowners were already outside when crews arrived within eight minutes, and the fire was under control in under ten, with no one hurt. A fast call helped that day; a clean duct is the cheaper fix, and it comes earlier.
+
+### Why Ocala ducts are at risk
+
+The hard cases in this area are the long ones. A single-story house with the laundry in the middle of the floor plan usually sends its duct up through the attic and out a roof cap, where lint collects at every elbow and nobody checks the outlet from the ground. Manufactured homes are the other pattern: federal standards at 24 CFR 3280.708 say the duct may not end under the home, yet some still do, piling lint against the skirting. Barn laundry adds hair and chaff that passes the screen.
+
+### What actually lowers the risk
+
+- Empty the lint screen every load, and never run the dryer without it.
+- Have the vent pipe cleared at least once a year, and sooner if loads take longer than they used to.
+- Use rigid or semi-rigid metal duct instead of plastic or foil.
+- Keep boxes, clothes and cleaning supplies away from the dryer.
+- Turn the dryer off before you leave the house or go to bed, as the NFPA advises.
+- Have a gas dryer's line and connection checked by a professional.
+- Keep working smoke alarms in the house; the laundry room is where these fires begin.
+
+### Signs to act on now
+
+Clothes still damp after a normal cycle, a cabinet that is hot to the touch, a burning smell, or weak air at the outside hood all mean the duct needs attention. The [signs your dryer vent is clogged](../signs-your-dryer-vent-is-clogged/) page walks through each one. A routine fix is [dryer vent cleaning](../dryer-vent-cleaning/); a roof exit is [roof dryer vent cleaning](../roof-dryer-vent-cleaning/). The [pricing page](../pricing/) shows posted figures for both.
+
 ## loc_dryer_vent_cleaning_the_villages_fl_lede
 
 Dryer vent cleaning covers The Villages, about 20 miles south of Ocala, across all three counties it sits in. Most of the community is in Sumter County, a Lady Lake and Lake County section holds the oldest neighborhoods, and part of District 4 lies in Marion County.

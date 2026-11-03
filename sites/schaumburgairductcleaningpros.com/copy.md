@@ -641,6 +641,89 @@ Ask to see what was found, with photos or a camera feed from inside the actual r
 
 When the signs are real, a whole-system [air duct cleaning](../air-duct-cleaning/) should cover the supply runs, returns, trunk lines and furnace cabinet. The sourced Chicagoland ranges on the [pricing page](../pricing/) show what that typically costs, which makes an inflated or suspiciously cheap quote easier to spot.
 
+## q_how_often_should_air_ducts_be_cleaned_lede
+
+There is no fixed number of years. The EPA recommends cleaning ducts only when needed, never on a schedule, and NADCA's standard sets an inspection rhythm instead: the furnace and air handler yearly, the duct runs every two years. For most Schaumburg houses that means a look each fall before heating season and a cleaning only when that look turns something up.
+
+## q_how_often_should_air_ducts_be_cleaned_body
+
+### Why no honest calendar exists
+
+Mailers and door hangers often suggest a cleaning every two to three years. That interval does not come from the EPA, which says duct cleaning is not a necessary part of yearly maintenance and should be done only as needed. It does not come from NADCA's standard either, which schedules inspections and lets what the inspection finds decide whether cleaning is due. A fixed interval treats every house alike, and Schaumburg houses are not alike: a 1970s split-level with a basement trunk line and two dogs is a different case from a newer townhome with a tight-fitting filter and no pets.
+
+### The schedule that does exist
+
+NADCA's ACR standard gives minimum inspection intervals for homes: the furnace or air handler once a year, and the supply and return ductwork every two years, with more frequent checks when the household or the house calls for them. Separately, the EPA recommends that fuel-burning furnaces be inspected and serviced before each heating season to protect against carbon monoxide. In a Schaumburg house both can happen on the same autumn visit. Ask the technician to look into the blower compartment, the coil above the furnace if there is one, the main return and a couple of branch runs, and to tell you, with photos, what they saw.
+
+### Why autumn is the natural checkpoint here
+
+National Weather Service normals for O'Hare show about 5,974 heating degree days a year against roughly 1,003 cooling degree days. In practice the furnace fan carries most of the year's airflow between October and April. Checking the system in September or early October catches whatever built up over the past year before the longest run of the season begins, and it lines up with the furnace service the EPA already recommends. The part that most often needs attention at that visit is the blower wheel rather than the duct runs, which is the work covered by [furnace blower cleaning](../furnace-blower-cleaning/).
+
+### What moves the next cleaning closer
+
+**A remodel.** Kitchen, bath or basement work with the furnace running is the most common reason a cleaning comes due early. Drywall dust packs into returns and the blower, and [post-renovation duct cleaning](../post-renovation-duct-cleaning/) is built for exactly that.
+
+**A new furnace or air conditioner on old ducts.** The Village of Schaumburg handles residential furnace and air conditioner replacement as express permit work that still requires a permit and a final inspection. A replacement is a sensible moment to have the existing ductwork inspected, so new equipment does not start out pushing air through runs nobody has looked at in decades.
+
+**Mice.** Droppings near a return grille or nesting material in a basement trunk justify cleaning regardless of the calendar, once the entry point is closed.
+
+**People and pets.** NADCA names smokers, heavy-shedding pets, and residents with allergies or asthma as reasons to inspect more often.
+
+**Water.** A basement that flooded, or a furnace humidifier that leaked onto the ductwork.
+
+### Why the age of the house matters
+
+Most of the village's housing went up between 1960 and 1990. Ductwork of that age has had decades for joints to loosen, and loose basement joints pull dust in from unfinished spaces. A house with leaky returns can need inspection more often than a newer one, but sealing those joints usually does more to stretch the interval than cleaning does.
+
+### What keeps the gap long
+
+Most of the work happens before air reaches the ducts. Change the filter on the schedule its maker gives and make sure it fits the slot with no gaps. Seal off supply and return registers and shut the system down during dusty projects. Keep any furnace humidifier clean and draining. A house that does those things can go a long time without a cleaning being justified at all.
+
+### When the inspection says yes
+
+If the check turns up a real load, the cleaning should include the furnace, the blower, the trunks and the returns along with every supply branch; that full scope is described under [air duct cleaning](../air-duct-cleaning/). Ask to see the photos before agreeing to anything. For help telling a genuine finding from a sales pitch, see [signs your air ducts need cleaning](../signs-your-air-ducts-need-cleaning/), and the [pricing page](../pricing/) for sourced Chicagoland ranges.
+
+## q_is_air_duct_cleaning_worth_it_lede
+
+It is worth it in a Schaumburg house when an inspection finds something to remove: remodel dust, signs of mice, heavy debris in the returns, or dust blowing out of the registers. It is rarely worth it as a yearly habit or as a fix for dusty shelves, and in many homes the same budget does more when it goes to the blower, the filter or the basement joints first.
+
+## q_is_air_duct_cleaning_worth_it_body
+
+### Worth it compared with what
+
+The useful version of this question is not whether duct cleaning is good or bad, but whether it is the best use of the money in your particular house right now. The EPA sets the frame. It does not recommend cleaning ducts routinely and says cleaning has never been shown to prevent health problems, yet it also says that when the work is done properly, no evidence suggests it does harm. So the value depends on two things: whether there is something in the system a cleaning would remove, and whether another fix would solve the complaint for less.
+
+### Where it usually pays
+
+**You finished a remodel with the furnace running.** Fine drywall dust is heavy and settles in the return ducts and on the blower. This is the clearest case for paying, and [post-renovation duct cleaning](../post-renovation-duct-cleaning/) is designed for it.
+
+**You found droppings near a return or a nest in a trunk line.** The EPA names rodent and insect infestation as a reason to consider cleaning. Close the entry point first, or the problem comes back.
+
+**Registers puff dust when the blower starts.** That matches the EPA's third reason: ducts so clogged with dust and debris that particles are released into the rooms.
+
+**You bought a house with an unknown history.** Earlier owners' pets, smoking or projects can leave material you cannot see from a register. A camera inspection tells you whether paying for a cleaning makes sense.
+
+### Where something else is the better buy
+
+**A burning-dust smell that lasts weeks into heating season.** O'Hare averages close to six thousand heating degree days a year, so the furnace fan here works hard from fall to spring, and a coated blower wheel is the usual culprit. [Furnace blower cleaning](../furnace-blower-cleaning/) goes straight at it and often does more per dollar than duct work.
+
+**Allergy season.** A better filter comes first. The EPA's filter guidance suggests at least MERV 13 when upgrading, or as high as the system's fan and filter slot can handle.
+
+**Cold rooms.** Uneven heat points to airflow and leakage, not dirt. Basement joints in houses built between 1960 and 1990 have had decades to loosen, and sealing them addresses comfort and dust together.
+
+**A dryer that needs two cycles.** That is the dryer vent, a separate system handled under [dryer vent cleaning](../dryer-vent-cleaning/).
+
+### Three questions that decide it
+
+Before paying, ask these. Is there something specific in the system, and can you see it in a photo taken inside the actual runs? Will the job cover the whole system, with the furnace, blower and returns included, rather than only the supply vents? Has whatever caused the problem been fixed, so it does not come straight back? If all three answers are yes, a cleaning is likely money well spent. If any answer is no, deal with that first.
+
+### Timing changes the value
+
+Spring and early fall are the best windows. The furnace can be off for a working day without the house getting cold, and a cleaning just before heating season means the blower starts winter clean. If a furnace or air conditioner replacement is coming, the village requires a permit and a final inspection for that work; having the old ducts inspected around the same time means the new equipment does not start life on dirty runs.
+
+### Reading the quote
+
+A quote worth paying names the components it covers: supply and return runs, trunk lines, the blower assembly, the heat exchanger area and any coil, with the total in writing before work starts. Compare it with the sourced Chicagoland ranges on the [pricing page](../pricing/). If you are still unsure, [is duct cleaning a waste of money](../is-duct-cleaning-a-waste-of-money/) walks through the most common ways homeowners overpay.
 
 ## loc_air_duct_cleaning_palatine_il_lede
 

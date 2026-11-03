@@ -321,6 +321,22 @@
       "photo": "assets/hero.jpg",
       "icon": "warn",
       "keyword": "what is in my air ducts"
+    },
+    {
+      "slug": "how-does-air-duct-cleaning-work",
+      "h1": "How Does Air Duct Cleaning Work",
+      "accent": "Suction Plus Agitation",
+      "photo": "assets/work-1.jpg",
+      "icon": "tool",
+      "keyword": "how does air duct cleaning work"
+    },
+    {
+      "slug": "signs-your-air-ducts-need-cleaning",
+      "h1": "Signs Your Air Ducts Need Cleaning",
+      "accent": "A Twenty-Minute Walk-Through",
+      "photo": "assets/work-2.jpg",
+      "icon": "eye",
+      "keyword": "signs your air ducts need cleaning"
     }
   ],
   "towns": [

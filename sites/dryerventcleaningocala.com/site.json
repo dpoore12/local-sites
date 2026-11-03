@@ -313,6 +313,22 @@
       "photo": "assets/hero.jpg",
       "icon": "wrench",
       "keyword": "why is my dryer taking so long to dry"
+    },
+    {
+      "slug": "how-to-clean-a-dryer-vent",
+      "h1": "How to Clean a Dryer Vent",
+      "accent": "Brush, Hood, Airflow Test",
+      "photo": "assets/work-2.jpg",
+      "icon": "tool",
+      "keyword": "how to clean a dryer vent"
+    },
+    {
+      "slug": "can-a-clogged-dryer-vent-cause-a-fire",
+      "h1": "Can a Clogged Dryer Vent Cause a Fire",
+      "accent": "Yes, and Lint Is the Fuel",
+      "photo": "assets/work-3.jpg",
+      "icon": "warn",
+      "keyword": "can a clogged dryer vent cause a fire"
     }
   ],
   "towns": [

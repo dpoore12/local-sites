@@ -298,6 +298,22 @@
       "photo": "assets/work-1.jpg",
       "icon": "wrench",
       "keyword": "how long does it take to pump a septic tank"
+    },
+    {
+      "slug": "how-to-find-your-septic-tank",
+      "h1": "How to Find Your Septic Tank",
+      "accent": "Records First, Then the Probe",
+      "photo": "assets/work-2.jpg",
+      "icon": "search",
+      "keyword": "how to find your septic tank"
+    },
+    {
+      "slug": "how-long-does-a-septic-tank-last",
+      "h1": "How Long Does a Septic Tank Last",
+      "accent": "Decades, If the Ground Allows",
+      "photo": "assets/work-3.jpg",
+      "icon": "clock",
+      "keyword": "how long does a septic tank last"
     }
   ],
   "towns": [

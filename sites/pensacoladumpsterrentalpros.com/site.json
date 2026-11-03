@@ -298,6 +298,22 @@
       "photo": "assets/work-3.jpg",
       "icon": "gear",
       "keyword": "how many tons in a 20 yard dumpster"
+    },
+    {
+      "slug": "do-i-need-a-permit-for-a-dumpster",
+      "h1": "Do I Need a Permit for a Dumpster",
+      "accent": "Driveway, Street or State Road",
+      "photo": "assets/work-2.jpg",
+      "icon": "cal",
+      "keyword": "do i need a permit for a dumpster"
+    },
+    {
+      "slug": "will-a-dumpster-damage-my-driveway",
+      "h1": "Will a Dumpster Damage My Driveway",
+      "accent": "Rails, Rain and Boards",
+      "photo": "assets/work-1.jpg",
+      "icon": "shield",
+      "keyword": "will a dumpster damage my driveway"
     }
   ]
 }

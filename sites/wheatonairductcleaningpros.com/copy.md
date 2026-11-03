@@ -628,6 +628,92 @@ With a screwdriver and a phone, remove a supply register in a bedroom and photog
 
 Ordinary dust calls for a good filter, not a crew. Droppings, growth or construction debris call for a cleaning that reaches every return, supply and trunk, and a dusty blower wheel is handled through [furnace blower cleaning](../furnace-blower-cleaning/). The [pricing page](../pricing/) lists the posted Chicago-area ranges and the scope each range assumes.
 
+## q_how_does_air_duct_cleaning_work_lede
+
+Air duct cleaning works by pairing two things: a strong vacuum that holds the ductwork under negative pressure, and tools that scrub stuck dust loose so the moving air can carry it away. In a Wheaton house the crew works from the furnace outward through trunks, branches and returns, then cleans the blower and coil and shows you the result.
+
+## q_how_does_air_duct_cleaning_work_body
+
+### The two halves of the method
+
+Every legitimate method rests on one idea, which NADCA, the duct cleaning trade association, calls source removal. A vacuum on its own cannot clean a duct, because much of the dust clings to the metal. A brush on its own cannot either, because dust knocked loose without suction just blows into the rooms. The process works only when the two run together: the collection equipment draws air steadily toward one exit point, and the agitation tools release what is stuck to the walls into that moving air.
+
+### The vacuum: truck-mounted or portable
+
+Two kinds of collection equipment are common. A truck-mounted unit stays in the driveway and runs a wide hose into the house, usually to a main trunk near the furnace, and exhausts outdoors. A portable unit comes inside and sits closer to the runs being cleaned. NADCA accepts either one when it is used to contain the dust. The EPA's guidance is to use equipment that exhausts particles outside the home, or HEPA-filtered equipment if the vacuum exhausts indoors. Ask which type is coming, and if it is portable, how its exhaust is filtered.
+
+### The agitation tools
+
+Once suction is running, technicians work the inside surfaces. NADCA lists rotating brushes on flexible cables, air whips and nozzles driven by compressed air, skipper balls that bounce through a run, hand brushing and contact vacuuming. Bare sheet metal tolerates the most aggressive tools. Flexible duct and fiberglass-lined duct do not, and the EPA says to use only soft-bristled brushes on fiberglass duct board and lined metal ducts. A careful crew changes tools as the duct type changes.
+
+### Getting inside the system
+
+The crew uses existing openings wherever it can: registers, return grilles, furnace service panels and any access doors. Where a long trunk has none, a technician may cut an access hole, and the EPA expects it to be sealed and re-insulated afterward. Wheaton houses add two wrinkles. Census figures put the median home at 1976, and older systems often use panned returns, where a sheet of metal fastened across the floor joists turns a joist bay into a duct. Those bays are rough inside and need patient work. Finished basements hide the main trunk above drywall, which limits access to the registers and the openings near the furnace.
+
+### The equipment, not just the ducts
+
+NADCA's idea of a complete cleaning reaches well past the ductwork: the blower motor and housing, the heat exchanger, the cooling coil and its drain pan, the plenums, and every register and grille. In Wheaton the blower deserves extra attention. The area logs close to six thousand heating degree days in a normal year, and from October into spring the furnace fan runs cycle after cycle, so its curved blades gather a thick gray coat. Pulling it and cleaning it properly is often a line item of its own, explained under [furnace blower cleaning](../furnace-blower-cleaning/).
+
+### Chemicals are optional, and often unnecessary
+
+NADCA treats antimicrobial products as something to consider only after the system has been mechanically cleaned, and only with products registered for that use. The EPA notes that no products are registered as biocides for fiberglass duct board or fiberglass-lined ducts. A cleaning is complete without any spray. If one is proposed, ask what problem it is meant to solve and ask to read the label.
+
+### How you know it worked
+
+The EPA calls a thorough visual inspection the best way to confirm the result: every cleaned part of the system should be visibly clean, with no debris you can spot with the naked eye. In practice, ask for before-and-after photos taken inside the same runs, look into the blower compartment yourself once the panel is back on its hinges, and check that the coil drain pan is clean and draining. If something on that list fails, the EPA treats it as a sign of a problem with the job.
+
+### What it means for your day
+
+The heat and air conditioning are off while the system is open, and a whole-system job takes a good part of a day; [how long does duct cleaning take](../how-long-does-duct-cleaning-take/) covers the timing in detail. After a remodel the method is the same, but the return side and the blower take longer, which is why [post-renovation duct cleaning](../post-renovation-duct-cleaning/) is treated as its own service. For the standard whole-system service, see [air duct cleaning](../air-duct-cleaning/), and the [pricing page](../pricing/) for sourced Wheaton-area ranges.
+
+## q_signs_your_air_ducts_need_cleaning_lede
+
+The signs that justify cleaning in a Wheaton house are physical and easy to point to: dust or debris blowing out of supply registers, droppings or nesting material in the ductwork, visible mold growth on hard surfaces inside the system, and fine construction dust after a remodel. A dusty return grille, a sneezy spring or a sales visit with no photos does not count.
+
+## q_signs_your_air_ducts_need_cleaning_body
+
+### A walk-through you can do in twenty minutes
+
+You do not need special equipment to look for the signs that matter. A flashlight, a screwdriver for one register cover and a phone camera are enough. Start at the furnace and work outward, because that is where trouble collects first.
+
+### At the furnace
+
+Switch the system off and open the blower compartment door, if the manufacturer's instructions allow it. Look at the fan wheel. A thin gray film is normal. Blades so caked that the curved vanes look flat mean the blower needs cleaning, and in an area with close to six thousand heating degree days a year, that buildup arrives sooner than most people expect. That job is described under [furnace blower cleaning](../furnace-blower-cleaning/). Check the filter slot too: a loose or wrong-size filter means dust has been going around it, and the fix may be as simple as the right filter.
+
+### At the main return
+
+The return is the side of the system that pulls room air back to the furnace, and it carries the most dust. Census figures put about 62 percent of Wheaton homes as built before 1980, and in many of them at least part of the return is a panned joist bay rather than a sheet-metal duct. Shine a light through the return grille. Matted gray material, insulation fluff, bits of drywall or wood, or anything that looks like a nest is a real sign. A soft layer of dust on the grille itself is not; the EPA calls that normal.
+
+### At the supply registers
+
+Lift off one register in a room far from the furnace and look a foot or two into the duct. Then turn the fan on and watch the opening. If dust or debris blows out when the blower starts, that matches one of the three conditions the EPA lists as reasons to consider cleaning. Dark specks or fuzzy growth on the metal, especially near the coil or on ducts that sweat in summer, need a closer look, and the EPA notes that only a lab test confirms whether it is mold.
+
+### Signs that come from events, not appearances
+
+**A remodel.** The City of Wheaton publishes permit guidelines for basement, kitchen and interior remodeling, and many of those projects involve sanding drywall or cutting tile. If the furnace ran during the work and the registers were not sealed, plan on a cleaning afterward; see [post-renovation duct cleaning](../post-renovation-duct-cleaning/).
+
+**New equipment on old ducts.** The city also publishes guidelines for residential furnace and air conditioner work. When the equipment is replaced, having the existing ducts inspected keeps the new unit from pushing air through decades of buildup.
+
+**Mice.** Droppings near a floor register, scratching in the walls in late fall, or a sour smell when the furnace starts.
+
+**Water.** A basement that took on water, a humidifier that leaked, or a condensate line that spilled onto the ductwork.
+
+### Things people mistake for signs
+
+**Dust on furniture.** The EPA says studies have not shown that dirty ducts raise dust levels in homes.
+
+**Allergy flare-ups.** Filter first; [does duct cleaning help with allergies](../does-duct-cleaning-help-with-allergies/) covers what the evidence supports.
+
+**A burning smell for the first few cycles each fall.** That is dust burning off the heat exchanger after a summer of sitting, and it usually fades on its own.
+
+**Uneven room temperatures.** Those point to airflow and leaks rather than dirt.
+
+**A salesperson who "found mold" without showing a photo or offering a test.**
+
+### What to do when you find a sign
+
+Photograph what you found, then ask any contractor to show you the same spot on their camera before quoting. If cleaning is warranted, it should cover the whole system, returns and blower included, as described under [air duct cleaning](../air-duct-cleaning/), with the price stated before work begins. The [pricing page](../pricing/) lists sourced ranges for the Wheaton area.
+
 ## loc_air_duct_cleaning_carol_stream_il_lede
 
 Air duct cleaning service covers Carol Stream, the DuPage County village just north of Wheaton, where the Census puts the median home at 1984 and the busiest building decade was the 1980s. Most of its forced-air systems are on their second or third furnace and have never had the ductwork itself opened.

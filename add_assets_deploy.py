@@ -46,6 +46,9 @@ if not domains or P not in ('local-sites', 'local-sites-2'):
 main = json.load(open(os.path.join(REPO, 'data', 'manifest.json')))
 if P == 'local-sites':
     live = main
+elif os.path.exists(os.path.join(REPO, 'data', 'manifest-local-sites-2.json')):
+    # local-sites-2 deploys never write back to manifest.json, so its own file is the live truth
+    live = json.load(open(os.path.join(REPO, 'data', 'manifest-local-sites-2.json')))
 else:
     live = {k: v for k, v in main.items() if any(k.startswith('/' + d + '/') for d in domains)}
 new, files = dict(live), {}

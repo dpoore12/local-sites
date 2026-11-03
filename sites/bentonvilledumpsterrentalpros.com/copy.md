@@ -629,6 +629,91 @@ Many Bentonville cleanouts use both. The box takes the bulk: broken furniture, c
 
 Posted roll-off rates by size, with included days and tons, are on the [pricing page](../pricing/).
 
+## q_can_you_put_dirt_in_a_dumpster_lede
+
+Yes, you can put dirt in a dumpster around Bentonville, but usually only in a small box set aside for soil, rock and concrete, and only up to a fill line well below the rim. Clean dirt is weighed, not measured, so the tonnage allowance runs out fast. Keep trash, roots and lumber out of it, because a mixed load is billed as debris rather than handled as fill.
+
+## q_can_you_put_dirt_in_a_dumpster_body
+
+### Why a box of dirt is a different rental
+
+Most roll-off jobs are a question of room. Dirt is a question of weight. Soil packs tight, with almost no air in it, so a few feet of it in the bottom of a box can weigh as much as a whole houseful of furniture stacked to the top. The posted allowances around Bentonville start at roughly one ton on the smallest boxes, and every ton over that is billed from the landfill scale ticket. That is why haulers here send soil out in an 8- or 10-yard box, and why a bigger box does not let you put more dirt in it. The details of those heavy-duty boxes are on the [concrete and dirt dumpster rental](../concrete-dirt-dumpster-rental/) page.
+
+### Clean fill and mixed loads
+
+Arkansas treats clean soil differently from household debris. The state's solid waste rules list uncontaminated soil or dirt, along with brick, concrete, asphalt and ceramics, as beneficial fill, meaning material that can go toward filling low ground, improving drainage or stabilizing a slope. Several Benton County haulers keep separate boxes for that kind of material, and dirt is often accepted only in one of them.
+
+The catch is purity. A soil box that also holds a bag of trash, a few boards, a roll of sod netting or a cracked plastic planter is no longer fill. It becomes mixed debris, and it rides to the construction and demolition cell at Eco-Vista Landfill in Springdale with everything else. Before loading, ask the hauler exactly what it allows in the soil box: some take rock and broken concrete with the dirt, some want concrete in its own load, and some will not take reinforced concrete at all.
+
+### What does not count as clean dirt
+
+- **Soil with fuel, oil or chemicals in it.** The state rules define contaminated soil separately, and it does not belong in a roll-off. Dirt dug up around an old fuel tank or a garage floor drain should be tested and handled as a special case.
+- **Sod, stumps and big root balls.** These are closer to yard waste than to fill. The City of Bentonville compost facility on NW A Street takes brush and limbs, but it refuses dirt, stumps and root balls, so heavy roots usually go in the soil box only if the hauler agrees.
+- **Anything buried in the yard.** Old fence posts set in concrete, chunks of a forgotten patio, wire and pipe show up in Bentonville dirt more often than people expect. Pull them out or tell the hauler before the box is booked.
+
+### Rain changes the weight
+
+Bentonville averages about 47 inches of precipitation a year by NOAA's long-term normals, and an open box of soil holds every bit of rain that falls into it. Wet dirt weighs noticeably more than dry dirt, and the scale does not care where the weight came from. On a dig that runs several days, cover the box between loads, and try to finish the heavy loading before a front moves through rather than after.
+
+### Where the box can sit
+
+A loaded soil box can crack thin concrete or rut a soft yard, so ask for boards under the rails and keep it off fresh concrete. A box on the street or curb sits in the public right-of-way, which needs a city permit through eTrakit with five business days of review; a driveway needs nothing from the city.
+
+### When the dirt is part of a bigger job
+
+Regrading a large lot is not only a disposal question. Bentonville's grading code, Section 1100.08 in the version the city has posted, requires a grading permit for filling, excavation or land alteration on a site of a quarter acre or more when the work is not already covered by an approved plat, large-scale development, building permit or demolition permit. The City Engineer approves the grading plan in writing. A backyard patio dig is far below that threshold, but a homeowner leveling a big lot should ask the city first, since keeping the soil on site may be cheaper than hauling it.
+
+### Loading tips that keep the bill down
+
+- Spread the soil evenly across the floor of the box instead of heaping it at one end.
+- Stop at the line the hauler marks, even if the box looks mostly empty.
+- Keep a second, ordinary box or a trash pile for everything that is not soil.
+
+### Checking the numbers first
+
+The included tons and the per-ton charge past them matter more on a dirt job than the price of the box itself. Both are listed by size on the [pricing page](../pricing/), and the [what size dumpster do I need](../what-size-dumpster-do-i-need/) page explains how the heavy-debris boxes compare with the larger sizes.
+
+## q_what_size_dumpster_for_kitchen_remodel_lede
+
+For most Bentonville kitchen remodels a 15-yard box is the right size, with a 10-yard box for a small galley kitchen and a 20-yard box for a large open-plan kitchen, a kitchen plus dining room, or a gut that takes out walls and flooring together. Tile, plaster and stone counters push the weight up fast, so name those materials before the box is chosen.
+
+## q_what_size_dumpster_for_kitchen_remodel_body
+
+### What actually comes out of a kitchen
+
+A kitchen tear-out is a mix of bulky and dense material. Upper and lower cabinets, the sink base, a pantry unit and old appliances take up most of the room in the box but weigh little for their size. Countertops, backsplash tile, floor tile with its mortar bed, plaster walls and any subfloor that comes up with them take little room but weigh a great deal. Most of a Bentonville kitchen job is decided by how much of the second group there is.
+
+### Matching the size to the kitchen
+
+- **10-yard box:** a small galley or condo kitchen where the cabinets come out but the floor and walls stay. The short box also fits narrow driveways. See [how big is a 10 yard dumpster](../how-big-is-a-10-yard-dumpster/) for its measurements.
+- **15-yard box:** the usual kitchen. A full set of cabinets, laminate or stone tops, a tile backsplash, the old appliances that the box is allowed to take, and one floor.
+- **20-yard box:** a large kitchen in one of the bigger houses going up around Bentonville, a kitchen opened up into the dining or family room, or a job that also strips drywall to the studs.
+- **30-yard box:** only when the kitchen is one part of a whole-floor or whole-house remodel. For a kitchen alone it is usually more box than the driveway can spare.
+
+The city's own figures show why the larger sizes come up. The average new single-family house permitted in Bentonville in 2024 was 3,115 square feet, and a kitchen in a house that size has more cabinet runs, a bigger island and more square feet of tile than one in an older, smaller house near downtown.
+
+### Weight is the hidden limit
+
+Posted allowances around Bentonville put about two tons on a 15-yard box and roughly three on a 20-yard. Cabinets and appliance boxes rarely get close. A tiled floor torn up with its mortar, a plaster ceiling, or two slabs of granite can. If the floor is coming up, tell the hauler what is under it. On a heavy kitchen, the overage per ton can cost more than stepping up a size would have, and the [pricing page](../pricing/) lists both figures side by side.
+
+### What stays out of the box
+
+At least one Bentonville roll-off hauler bars refrigerators, freezers and air conditioners that hold refrigerant, along with televisions, batteries and liquids of any kind, and loading them brings a cleanup charge. The Benton County Solid Waste District takes appliances, electronics, metal items and household hazardous materials at its drop-off sites at 5702 Brookside Road in Centerton and 2307 North Arkansas Street in Rogers, with fees and limits. Plan where the old refrigerator goes before demolition day.
+
+### Older houses and painted surfaces
+
+Some of the kitchens coming out of Bentonville's older neighborhoods were built before 1978. Federal rules require anyone paid to disturb painted surfaces in homes of that age to be EPA-certified and to follow lead-safe practices. That affects how a contractor bags and handles the debris, so ask about it before the cabinets start coming off the walls.
+
+### Timing the rental
+
+Kitchen demolition usually produces most of its debris in the first few days, then very little while plumbing, wiring and cabinets go in. Book the box for the demolition window, call for the pickup when demo is done, and order a second small box at the end if the install throws off a lot of packaging. Construction debris from Bentonville goes to Eco-Vista Landfill in Springdale, which is open to the public on weekdays only, so a box filled on Saturday sits until Monday. The [how long can you keep a dumpster](../how-long-can-you-keep-a-dumpster/) page covers rental windows and extra days.
+
+### Where the box goes
+
+Most kitchen boxes sit on the driveway, close to the door the debris will come out of. Ask for boards under the rails to protect the concrete. A box on the street, curb or sidewalk needs a right-of-way permit from the city's Street Department, applied for through eTrakit with five business days of review. Bentonville issued 234 residential remodel and addition permits in 2024, and the city's building permit for your remodel is a separate question from where the box can sit.
+
+For the wider picture on bath, flooring and whole-house jobs, see [remodeling dumpster rental](../remodeling-dumpster-rental/).
+
 ## loc_dumpster_rental_rogers_ar_lede
 
 Rogers runs straight into Bentonville's eastern edge, and our dumpster rental covers Rogers addresses from the brick streets downtown to the lots around Pinnacle Hills. The county district, the landfill run and the trucks are the same on both sides of the line; the city trash contract, the street rules and the age of the houses are not.

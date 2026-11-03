@@ -325,6 +325,22 @@
       "photo": "assets/work-1.jpg",
       "icon": "wrench",
       "keyword": "dumpster rental vs junk removal"
+    },
+    {
+      "slug": "can-you-put-dirt-in-a-dumpster",
+      "h1": "Can You Put Dirt in a Dumpster",
+      "accent": "Yes, in a Small Box",
+      "photo": "assets/work-2.jpg",
+      "icon": "warn",
+      "keyword": "can you put dirt in a dumpster"
+    },
+    {
+      "slug": "what-size-dumpster-for-kitchen-remodel",
+      "h1": "What Size Dumpster for a Kitchen Remodel",
+      "accent": "Usually a Fifteen",
+      "photo": "assets/work-3.jpg",
+      "icon": "ruler",
+      "keyword": "what size dumpster for kitchen remodel"
     }
   ],
   "towns": [

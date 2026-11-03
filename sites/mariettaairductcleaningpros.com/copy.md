@@ -605,6 +605,85 @@ Under the EPA's post-cleaning checklist, coils, drain pans, the blower and plenu
 
 Complaints go to the Georgia Attorney General's Consumer Protection Division, online at consumer.georgia.gov or at (404) 651-8600, or (800) 869-1123 toll-free within Georgia. Keep the flyer, estimate, invoice and photos. Before the next quote, compare it with the sourced Marietta ranges on the [pricing page](../pricing/), which makes both the bait price and the padded bill easy to spot.
 
+## q_how_long_does_air_duct_cleaning_take_lede
+
+For one heating and cooling system in a typical Marietta house, plan on most of a morning and possibly the whole working day. One published contractor estimate is two and a half to three hours for a single system with two technicians, and an attic air handler, a crawlspace return, a second system or heavy buildup each push the clock later.
+
+## q_how_long_does_air_duct_cleaning_take_body
+
+### What the published guidance says
+
+NADCA, the duct cleaning trade association, does not put a number of hours on the job. It names what drives the time instead: the size of the home, how many systems it has, how easy those systems are to reach, how much contamination is inside, and how many technicians do the work. One NADCA member company publishes an estimate of two and a half to three hours for a single system with a two-person crew. The EPA gives no figure at all; its advice is that when a provider charges by the hour, you should ask up front for an estimate of the hours or days involved. Treat any number as a starting point that can change once the panels come off.
+
+### Where the hours actually go
+
+A whole-system visit has several stages, and each takes its share. First comes setup: floor protection, covering registers and connecting the collection vacuum to a main trunk. Next is opening access, either through existing service panels or through holes that are cut and later sealed. The longest stretch is working each supply branch and return run under suction. After that comes the equipment itself, meaning the blower assembly, the indoor coil, the drain pan and the plenum. The last part is closing up, fitting a new filter and running the system to confirm it heats and cools. A crew that finishes in an hour has usually skipped the equipment, so a very short estimate is worth a question about what is left out. The full scope is laid out under [air duct cleaning](../air-duct-cleaning/).
+
+### Attics and crawlspaces are slow places to work
+
+Many Cobb County houses keep the air handler in the attic or run ductwork through a crawlspace rather than a basement, and both slow a crew down. A Georgia attic in summer is brutal: the National Weather Service recorded 100 degrees at Atlanta on 29 July 2025, and the space under a sunny roof is hotter than the outdoor reading. Technicians working up there need breaks, and flexible duct buried in loose insulation takes care to reach without tearing it. Crawlspaces bring tight clearance and often damp ground. If your system lives in either place, ask how that changes the estimate, and consider a spring or fall date, or at least an early start.
+
+### Things that add an hour or more
+
+**A second system.** A two-story house with a separate unit for the upstairs is effectively two cleanings in one visit.
+
+**A wet coil and pan.** Through a long cooling season the indoor coil stays damp and can build up a film that takes time to remove properly. When that is the main complaint, [HVAC coil cleaning](../hvac-coil-cleaning/) may be scoped as its own task.
+
+**Leaky returns.** Georgia began requiring duct leakage testing on new systems in mid-2011 where ducts or the air handler sit in an unconditioned attic or crawlspace. Older houses were never tested, and loose return joints are common. Sealing them adds time but keeps the cleaning from being undone, which is the job of [duct sealing and repair](../duct-sealing-repair/).
+
+**Retrofitted layouts.** In older homes where central air came decades after the house, tracing every run is part of the work.
+
+**The dryer vent.** Adding it to the same visit is a separate task with its own time.
+
+### Getting ready so the crew can start
+
+Clear a path to the air handler, whether that means the attic hatch, a hall closet or the crawlspace door. Pull furniture back from registers and return grilles. The heating and cooling will be off while the system is open, which in July or August means the house warms up as the day goes on. Keep pets shut in a room away from hoses and open doors.
+
+### Using the estimate to compare quotes
+
+A time estimate is one of the simplest checks on scope. Ask each contractor how long they expect to be in the house and what that time covers: supply runs only, or the returns, trunks, blower, coil and pan as well. Two quotes with similar totals and very different hours are usually describing different jobs. The sourced Marietta ranges on the [pricing page](../pricing/) help you judge whether scope, time and price line up.
+
+## q_does_air_duct_cleaning_help_with_dust_lede
+
+Sometimes, but less than most people hope. If dust is blowing out of the supply registers in a Marietta house, or the ducts are packed with debris, a cleaning removes that load. If the complaint is the ordinary film that settles on shelves, the EPA says studies have not shown that dirty ducts raise household dust levels, and a better filter or a sealed return usually does more.
+
+## q_does_air_duct_cleaning_help_with_dust_body
+
+### What the evidence says
+
+The EPA's homeowner guide on duct cleaning is careful on this point. It says studies do not conclusively show that dust levels in homes rise because the ducts are dirty, and it gives the reason: much of the dirt in air ducts sticks to the duct surfaces and does not necessarily reach the living space. The same guide does list one dust-related reason to consider cleaning, which is ducts clogged with so much dust and debris that particles are actually released into rooms from the supply registers. That is the dividing line between dust a cleaning can fix and dust it cannot.
+
+### Where the dust on your shelves comes from
+
+Most of what settles on a Marietta bookshelf starts in the rooms or comes in from outdoors: fibers from carpet, bedding and clothing, pet dander, and soil and pollen tracked in on shoes or blown through open doors. Spring makes this obvious. On 29 March 2025 the Atlanta pollen count reached 14,801 grains per cubic meter. None of that begins in the ductwork. The system moves it around, and a filter catches some of it each time air passes through, but scrubbing the inside of the ducts does not change how much is being produced or carried in.
+
+### Three checks before paying for a cleaning
+
+**Look at a supply register after the system has run.** A light film on the louvers is ordinary. Visible puffs when the fan starts, or a gray layer just inside the duct, point to a real load.
+
+**Check the filter and how it sits.** A filter that is bent, loose or the wrong size lets air slip around it, and that air carries dust straight into the ducts. The EPA says to use the most efficient filter the system's manufacturer recommends and to keep air from bypassing it. Its guidance on filter ratings suggests choosing at least MERV 13 when upgrading, or as high a rating as the fan and filter slot can handle, with a technician confirming what fits.
+
+**Find out where the return air comes from.** In this part of Georgia, that question often explains the whole problem.
+
+### The return leak that keeps the dust coming
+
+Georgia has required duct leakage testing on new systems with ducts or an air handler in an unconditioned attic or crawlspace since mid-2011. Many Marietta houses are older than that rule, and their return ducts can draw air through loose joints and torn flexible connections from the attic or crawlspace. That air brings insulation fibers, attic dust and crawlspace dirt with it, and if the leak sits after the filter, nothing stops it. In a house like that, a cleaning removes the current layer and the leak lays down a new one. Sealing the returns through [duct sealing and repair](../duct-sealing-repair/) is the step that actually reduces the dust; a cleaning makes sense after that, not instead of it.
+
+### When cleaning does help with dust
+
+**Construction dust.** Sanding drywall, cutting tile or refinishing floors with the system running packs fine powder into the returns and the blower.
+
+**A house with an unknown past.** Moving in after owners who smoked or kept several shedding pets is a fair reason for a camera look.
+
+**Debris you can see.** Insulation pieces, droppings, or matted buildup in the main return.
+
+**Dust blowing from registers when the blower starts.**
+
+In those cases, a whole-system [air duct cleaning](../air-duct-cleaning/) that covers the blower, the coil and every return is the version worth buying. A pass that only vacuums supply vents leaves the dirtiest parts behind.
+
+### A realistic expectation afterward
+
+Dust will still settle on furniture after a cleaning, because the rooms keep making it. What should change is anything that came from the system itself: puffs at startup, debris in the grilles, a dusty smell when the fan kicks on. If someone promises less dusting overall, ask what that promise rests on, and see the [air duct cleaning scams](../air-duct-cleaning-scams/) page for other claims to question. The [pricing page](../pricing/) shows sourced Marietta-area ranges for whole-system work, so the cost can be weighed against that realistic benefit.
 
 ## loc_air_duct_cleaning_kennesaw_ga_lede
 

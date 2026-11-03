@@ -353,6 +353,22 @@
       "photo": "assets/hero.jpg",
       "icon": "house",
       "keyword": "signs your air ducts need cleaning"
+    },
+    {
+      "slug": "how-often-should-air-ducts-be-cleaned",
+      "h1": "How Often Should Air Ducts Be Cleaned",
+      "accent": "Inspect Each Fall",
+      "photo": "assets/work-1.jpg",
+      "icon": "cal",
+      "keyword": "how often should air ducts be cleaned"
+    },
+    {
+      "slug": "is-air-duct-cleaning-worth-it",
+      "h1": "Is Air Duct Cleaning Worth It",
+      "accent": "Compared With What",
+      "photo": "assets/work-3.jpg",
+      "icon": "check",
+      "keyword": "is air duct cleaning worth it"
     }
   ],
   "towns": [

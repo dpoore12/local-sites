@@ -345,6 +345,22 @@
       "photo": "assets/work-1.jpg",
       "icon": "bolt",
       "keyword": "does window tint reduce heat"
+    },
+    {
+      "slug": "how-to-remove-window-tint",
+      "h1": "How to Remove Window Tint",
+      "accent": "Steam First, Scrape Last",
+      "photo": "assets/work-2.jpg",
+      "icon": "tool",
+      "keyword": "how to remove window tint"
+    },
+    {
+      "slug": "how-long-after-tint-can-you-roll-down-windows",
+      "h1": "How Long After Tinting Can You Roll Down Windows",
+      "accent": "Two to Four Days Up",
+      "photo": "assets/work-3.jpg",
+      "icon": "clock",
+      "keyword": "how long after tint can you roll down windows"
     }
   ],
   "towns": [

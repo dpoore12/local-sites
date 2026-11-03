@@ -650,6 +650,94 @@ The village itself points residents with a large project to a roll-off from a ha
 
 When the job is big and light, yes. When the volume is uncertain, a 20-yard and a swap can work out better than one oversized box parked for weeks. For a clear-out of a whole house, see [home cleanout dumpster rental](../home-cleanout-dumpster-rental/); for post-storm work, [storm debris dumpster rental](../storm-debris-dumpster-rental/); for barns and stables, [barn cleanout dumpster rental](../barn-cleanout-dumpster-rental/). Wellington-area rates for every size, with included tons and days, are on the [pricing page](../pricing/).
 
+## q_how_much_weight_can_a_dumpster_hold_lede
+
+A Wellington dumpster can physically hold more than you will want to pay for. The limit that matters is the weight included in the rental, which published Palm Beach County price lists put at about one ton on a small container and two or three tons on the larger ones. Past that, every ton is billed, because every roll-off load in the county is weighed on a scale.
+
+## q_how_much_weight_can_a_dumpster_hold_body
+
+### Two limits, not one
+
+There are really two answers to the question. The first is the hauler's included weight, the tonnage folded into the flat price. Published lists from companies serving Palm Beach County commonly include around one ton with a 10-yard container and two to three tons with a 20- or 30-yard can, though some leave the figure unstated at the middle sizes. Ask for it in plain numbers before booking.
+
+The second is what the truck can safely lift and carry on the road. A driver can refuse to haul a container that is too heavy or loaded past the top rail, and the fix is unloading part of it by hand on your driveway. You almost never reach that second limit with household goods. You can reach it with concrete, tile or dirt in a large container.
+
+### Every load meets the county scale
+
+The Solid Waste Authority's tipping fee schedule, effective October 1, 2026, requires every customer to weigh out, and it bills by volume only when its scales are not working. So a Wellington roll-off is priced by the actual weight of what went in it, not by how full it looks. The same schedule charges $95 a ton for construction debris and says open-top roll-off containers are generally charged at that rate, while trash such as furniture is $42 a ton. A mixed load pays the higher category. That is why the published overage rates in the [pricing](../pricing/) table sit close to $95.
+
+### What heavy looks like
+
+Weight follows the material, not the job. A few comparisons help:
+
+- **Furniture, boxes, carpet and toys** from a move-out fill a container to the rim long before they approach the allowance.
+- **Drywall, cabinets and lumber** from a remodel land in the middle; wet drywall is far heavier than dry.
+- **Roofing** depends on the roof. A trade reference puts standard concrete roof tile at about 9.5 to 12 pounds per square foot, against 2.5 to 4 pounds for asphalt shingles, so a tile tear-off can weigh three times as much as a shingle roof of the same size.
+- **Concrete, pavers, rock and dirt** are the densest things a household throws out. They belong in a small container filled part way.
+
+### Rain is weight you pay for
+
+An open container in a Wellington summer collects afternoon storm water, and carpet, mattresses, insulation and drywall soak it up. The scale weighs the water along with the debris. Keep a tarp on the container between loads, and load the absorbent material last if storms are coming. The county also adds a surcharge to any load that arrives at its facilities without a tarp, rope or cover holding it in.
+
+### Where heavy loads have to go
+
+The authority's transfer stations, including the one at 9743 Weisman Way in Royal Palm Beach, cannot accept concrete, block, brick, tile, roofing material, construction lumber, dirt or fill. Heavy roll-offs from Wellington ride instead to the North County Landfill Complex at 6330 North Jog Road, open 7 a.m. to 5 p.m. Monday through Saturday, or to an SWA-permitted private recycler. The landfill's Saturday hours help a weekend project, but authority facilities are closed on Sundays, so a container filled on Saturday night waits for Monday.
+
+### Loading so the weight is legal and even
+
+- Put heavy material on the floor first, spread from end to end.
+- Never load above the top rail; debris sticking out will not be hauled until it is cut down.
+- Keep household garbage out of a construction container; it does not lower the rate.
+- If the driveway is pavers or the ground is soft, ask for boards. The [driveway damage](../will-a-dumpster-damage-my-driveway/) page explains why a loaded container is hard on both.
+
+### Picking a size with the weight in mind
+
+A bigger container does not raise the practical weight limit, it only adds room. For heavy jobs, a smaller container with a clear allowance often costs less than a large one that gets billed for three extra tons. The [30-yard dumpster](../how-big-is-a-30-yard-dumpster/) page shows what the largest size is good for, and the [remodel and roofing dumpster rental](../remodel-roofing-dumpster-rental/) page covers heavy debris in more depth.
+
+## q_what_size_dumpster_for_a_roof_lede
+
+For a shingle roof on a typical Wellington house, a 15- or 20-yard dumpster usually holds the whole tear-off. A concrete or clay tile roof is different: it fills the weight allowance long before the container is full, so it is better handled with a smaller container and more than one haul. The roof's square count, its material and whether decking is coming off decide the size.
+
+## q_what_size_dumpster_for_a_roof_body
+
+### Start with squares and material
+
+Roofers measure in squares, and one square is 100 square feet of roof surface. Ask your roofer for the count, because it is the most useful single number for sizing the container. Then give the material, the number of layers, and whether any plywood sheathing is being replaced. A Wellington roof can be shingle, metal, concrete tile or clay tile, and those four produce very different loads.
+
+### What the weight looks like
+
+A trade reference used by builders puts standard-weight concrete roof tile at roughly 9.5 to 12 pounds per square foot, lightweight concrete tile at 5.5 to 7, and asphalt shingles at 2.5 to 4. Run those figures for a 30-square roof and the gap is plain:
+
+- **Asphalt shingles, one layer:** about 7,500 to 12,000 pounds, or roughly four to six tons.
+- **Standard concrete tile:** about 28,500 to 36,000 pounds, or roughly fourteen to eighteen tons, before underlayment, battens and any mortar or foam.
+
+Published price lists for Palm Beach County include about one to three tons per container. A shingle roof usually runs a few tons past it. A tile roof will pass it many times over, and it may weigh more than one truck should carry in a single haul.
+
+### Sizes that usually work
+
+- **Shingle roof, up to about 20 squares:** a 15-yard container.
+- **Shingle roof, 20 to 35 squares, or two layers:** a 20-yard container.
+- **Large or complex shingle roof with decking replacement:** a 20-yard with a planned swap, or a 30-yard where the driveway allows.
+- **Tile roof:** a small container, often a 10-yard, swapped as each load reaches the weight line, with the number of hauls planned from the square count.
+
+These are starting points. The roofer's estimate of the tear-off, and the hauler's stated allowance, settle it.
+
+### Where roofing debris is allowed to go
+
+The Solid Waste Authority's tipping fee schedule lists roofing material among the items its transfer stations cannot accept, and that includes the station on Weisman Way in Royal Palm Beach. Roofing loads from Wellington go to the North County Landfill Complex on Jog Road or to an SWA-permitted recycler, at the county's construction debris rate of $95 a ton. The schedule also excludes roofing and ceramic tile from its lower trash rate, so tossing old furniture into a roofing container never makes the load cheaper. Keep the roof container to roofing.
+
+### Permits, the HOA and the season
+
+The village's construction debris page tells residents to check with the Wellington Building Department about permits for their work, and a full re-roof is building work, so the roofer will normally pull the permit. The container is a separate matter. Many Wellington associations want notice before a truck that size comes through a gate, and some limit how long a container may stay. Atlantic hurricane season runs from June 1 to November 30, and after a storm, demand for roofers and containers can climb across the county at the same moment, so book early. If storm damage is what forced the new roof, the [storm debris dumpster rental](../storm-debris-dumpster-rental/) page covers the rest of the cleanup.
+
+### Placing it for a tear-off
+
+Roofers want the container as close to the eave as the truck can set it, so shingles and tile can drop straight in from the roof. On a paver driveway, ask for boards under the rails, since a loaded tile container is heavy enough to shift pavers. Keep it clear of the septic drain field and sprinkler heads on lots that have them, and leave a straight path for the truck to back in and winch it out.
+
+### Checking the price
+
+On a roof, the included tons and the per-ton rate past them matter more than the box price. Both are on the [pricing page](../pricing/), and the [how much weight can a dumpster hold](../how-much-weight-can-a-dumpster-hold/) page explains how the county scale turns weight into the bill. The [remodel and roofing dumpster rental](../remodel-roofing-dumpster-rental/) page covers how tile and shingle jobs are usually scheduled.
+
 ## loc_dumpster_rental_loxahatchee_fl_lede
 
 Loxahatchee and The Acreage begin just north of Wellington, and our dumpster rental covers this unincorporated part of the county, where roll-off work is open to any hauler holding a Solid Waste Authority permit. Lots run an acre or more, many roads are dirt, and nearly every house sits on its own well and septic tank, which shapes where a box can go.

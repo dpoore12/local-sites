@@ -617,6 +617,87 @@ Immediately. The drains can be used as soon as the lids are closed. The tank the
 
 A routine visit is [septic tank pumping](../septic-tank-pumping/), and a backup that cannot wait is [emergency septic service](../emergency-septic-service/). If the tank is being taken out of service for a sewer hookup, that is [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) shows what lid access and timing do to the posted ranges.
 
+## q_how_to_find_your_septic_tank_lede
+
+Start with the paperwork, then follow the pipe. Miami-Dade publishes the Health Department's septic permit records as a public map, and the permit file for your lot may include a site sketch. On the ground, the tank sits downstream of where the main drain leaves the house, and Florida's rules keep it at least five feet from the foundation. Probe gently, call 811 before you dig, and leave the lids closed.
+
+## q_how_to_find_your_septic_tank_body
+
+### First, confirm the house is on septic
+
+Plenty of North Miami owners are not sure, especially after the city's phased conversions put some streets on sewer. The Florida Department of Health runs the Florida Water Management Inventory, a statewide parcel map showing whether each developed property is on central sewer or a septic system, with each answer graded known, likely or somewhat likely. Miami-Dade's Water and Sewer Department has its own viewer for checking a connection, but it covers unincorporated areas, so inside North Miami the city's utility is the better source. A monthly sewer charge on the water bill is a strong clue as well.
+
+### Look up the permit record
+
+Miami-Dade's Open Data Hub carries a layer called DOH Septic System, built from Health Department records and holding about 80,800 entries. Each one carries an application number, a system type such as new, existing, repair, modification or abandonment, and an approval date. Two cautions: the points are placed by folio number, coordinates or address, so a dot marks the lot rather than the tank, and the county states plainly that the data will contain inaccuracies.
+
+The application number is what makes the next step easy. Florida's onsite rules moved from the Department of Health to the Department of Environmental Protection on 1 July 2021, and county environmental records are open to the public under Chapter 119 of the Florida Statutes, with an online request system run by the county's records staff. Ask for the permit file for your address. A repair permit on the state's certification form includes an as-built installation sketch, and an original construction permit may show the tank on a site plan. Very old systems may have little or nothing on file.
+
+### Follow the drain out of the house
+
+With or without a drawing, the plumbing points the way. Find the main cleanout, usually a capped pipe near the foundation on the side facing the yard, or look for where the main drain leaves the slab. The tank sits in line with that pipe, a short distance out.
+
+Florida's rule on location, 62-6.005, helps narrow the search. A system may not sit under a building or within 5 feet of a foundation, a pool wall, a mobile home wall or a property line, with limited exceptions for easements. It must be at least 10 feet from potable water lines unless they are sleeved or heavy-wall pipe, and 75 feet from the edge of surface water such as a canal. Older tanks can predate the current setbacks, and later additions, carports and pool decks sometimes went over the top of them.
+
+### Probe, then dig carefully
+
+Push a thin metal soil probe into the ground every foot or so along the line of the drain, gently, until you strike a flat, solid surface a short way down. Tanks are concrete, fiberglass or polyethylene, so a hard top with the right footprint is a good sign. Look for the lids over the inlet end and the outlet end. Newer tanks have their access openings brought to within 8 inches of finished grade; older ones in North Miami can be deeper under sod, pavers or fill.
+
+Before you put a shovel in, contact Sunshine 811 at least two full business days ahead. Florida law requires it, and member utilities mark their own public lines. They do not mark your septic tank or the pipe feeding it, so dig by hand and slowly near the drain line.
+
+### Do not open the tank
+
+Finding the lid is as far as a homeowner should go. Miami-Dade tells owners never to open a septic tank themselves because of the dangerous gases and bacteria inside, and a lid already cracked can give way underfoot. Opening, pumping and hauling are work for someone holding a county Liquid Waste Transporter permit.
+
+### Make the next visit easier
+
+Once the lids are found, write down measurements from two fixed corners of the house and keep them with your records. A riser that brings each lid up to grade saves digging at every pump-out, and the [time a pump-out takes](../how-long-does-it-take-to-pump-a-septic-tank/) has more on why buried lids add to the visit. Miami-Dade also requires owners to register new and existing septic systems with the county.
+
+### Where to go from here
+
+A tank you have just located and cannot date is due for [septic tank pumping](../septic-tank-pumping/) and an inspection. If sewer has reached your street, the job becomes [septic tank abandonment](../septic-tank-abandonment/). The [pricing page](../pricing/) shows how lid access affects posted pump-out ranges.
+
+## q_how_long_does_a_septic_tank_last_lede
+
+With proper use and regular pumping, a conventional septic system typically lasts 20 to 30 years, according to University of Florida extension guidance. In North Miami the limit is usually set less by the concrete box than by the ground around it: a high water table, older installation rules and Miami-Dade's 2023 replacement ordinance all shape how long a system really has.
+
+## q_how_long_does_a_septic_tank_last_body
+
+### The 20 to 30 year figure
+
+UF/IFAS Extension puts the typical life of a conventional system at 20 to 30 years, and it names the things that cut that short: poor siting, heavy household water use and skipped pumping. That range covers the whole system, the tank and the drainfield together. They wear differently, and it helps to think of them separately.
+
+### The tank itself
+
+Florida's rule for tank construction, 62-6.013, allows only concrete, fiberglass or polyethylene. Concrete must reach a 28-day compressive strength of at least 4,000 psi, every tank must meet a watertightness standard, and materials must resist the corrosive liquid in sewage and normal household chemicals. A well-built tank is the sturdiest part of the system. The pieces that give out first tend to be smaller: the baffles that hold back scum and sludge, the outlet filter on newer tanks, and lids that crack when a car or mower runs over them. Miami-Dade warns that driving over a tank can break its lid.
+
+### The drainfield, and the water table
+
+The drainfield is where most systems in this county reach the end. It only works with dry soil between the pipes and the groundwater, and North Miami has little to spare. Miami-Dade's 2022 ordinance memo puts the bottom of a typical drainfield 6 to 24 inches above the Biscayne Aquifer, and groundwater usually peaks around September or October. When the soil stays wet, effluent is not treated or absorbed, solids clog the field faster, and the system fails early.
+
+Age makes it worse. The Miami Herald, reporting on the county's 2018 study, noted that older rules required one foot of soil beneath a system while newer ones call for double that, so many older North Miami systems were built with less margin than today's. The same study projected that by 2040, 64 percent of the county's septic tanks, more than 67,000, could have problems every year as the sea rises.
+
+### How old is yours?
+
+Two public records help. Miami-Dade's DOH Septic System map lists permit applications with an approval date, and the county property appraiser shows the year the house was built. If the tank is original to a 1950s or 1960s house and has never been replaced, it is well past the typical range, even if the drains still run. The [how to find your septic tank](../how-to-find-your-septic-tank/) page explains how to pull the permit file.
+
+### When it does wear out
+
+Replacement in Miami-Dade is not what it used to be. Under Ordinance 22-83, since 1 January 2023 a new system, or the replacement of a whole system, cannot be a conventional tank and drainfield; it must be a performance-based Type 2, 3 or 4, and lots within 1,000 feet of surface water need a Type 3 or 4. Where public sewer is available in the street next to the lot, the county does not allow the system to be replaced at all, and Florida law gives the owner 365 days after written notice to connect. The EPA says systems with mechanical parts generally need inspection once a year, so a new system also brings a new schedule.
+
+### Making the one you have last
+
+- Pump every three to five years, sooner if an inspection finds the layers building fast, as Miami-Dade advises. [How often to pump](../how-often-should-a-septic-tank-be-pumped/) covers the detail.
+- Fix running toilets; the EPA says one can waste up to 200 gallons a day.
+- Spread laundry across the week instead of one big day.
+- Keep roof gutters draining away from the drainfield, a point UF/IFAS stresses.
+- Do not drive, park or build over the system, and keep trees and large shrubs away.
+- Flush only toilet paper and keep paint solvents and drain cleaners out.
+
+### Where to go from here
+
+An older system that has not been opened in years needs [septic tank pumping](../septic-tank-pumping/) and an honest look at the baffles. Soggy ground over the field points to [drain field repair](../drain-field-repair/). The [pricing page](../pricing/) explains what replacement costs under the county's current rules.
+
 ## loc_septic_tank_pumping_north_miami_beach_fl_lede
 
 Septic tank pumping in North Miami Beach, FL covers the single-family and small apartment lots that still drain to a tank, a group the city has been shrinking street by street. North Miami Beach runs its own utility, NMB Water, so whether a sewer main has reached your block is a question for the city before it is a question for the county.

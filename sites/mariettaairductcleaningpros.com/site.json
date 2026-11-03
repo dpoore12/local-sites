@@ -362,6 +362,22 @@
       "photo": "assets/hero.jpg",
       "icon": "wrench",
       "keyword": "air duct cleaning scams"
+    },
+    {
+      "slug": "how-long-does-air-duct-cleaning-take",
+      "h1": "How Long Does Air Duct Cleaning Take",
+      "accent": "Attics Add Hours",
+      "photo": "assets/work-2.jpg",
+      "icon": "clock",
+      "keyword": "how long does air duct cleaning take"
+    },
+    {
+      "slug": "does-air-duct-cleaning-help-with-dust",
+      "h1": "Does Air Duct Cleaning Help With Dust",
+      "accent": "Check the Return First",
+      "photo": "assets/work-3.jpg",
+      "icon": "search",
+      "keyword": "does air duct cleaning help with dust"
     }
   ],
   "towns": [
