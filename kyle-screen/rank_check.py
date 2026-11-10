@@ -25,6 +25,16 @@ def searches(d):
     return [(d, q, loc) for q in dict.fromkeys(qs)]
 
 
+def real_domain(x):
+    # Since Nov 2026 Google wraps result links (google.com/goto?url=...), so DataForSEO reports
+    # domain google.com for every result; the breadcrumb still starts with the real site.
+    dom = (x.get('domain') or '').removeprefix('www.')
+    if dom == 'google.com':
+        crumb = (x.get('breadcrumb') or '').split(' ')[0]
+        dom = crumb.removeprefix('https://').removeprefix('http://').split('/')[0].removeprefix('www.')
+    return dom
+
+
 def run(job):
     d, q, loc = job
     body = json.dumps([{'keyword': q, 'location_name': loc, 'language_code': 'en', 'device': 'desktop', 'depth': 100}]).encode()
@@ -36,11 +46,13 @@ def run(job):
             if t.get('status_code') != 20000:
                 raise RuntimeError(t.get('status_message'))
             items = t['result'][0].get('items') or []
-            pos = next((x.get('rank_group') for x in items if x.get('type') == 'organic'
-                        and (x.get('domain') or '').removeprefix('www.') == d), None)
-            url = next((x.get('url') for x in items if x.get('type') == 'organic'
-                        and (x.get('domain') or '').removeprefix('www.') == d), None)
-            return {'site': d, 'query': q, 'position': pos, 'url': url, 'cost': t.get('cost')}
+            hit = next((x for x in items if x.get('type') == 'organic' and real_domain(x) == d), None)
+            if hit is None:
+                return {'site': d, 'query': q, 'position': None, 'url': None, 'cost': t.get('cost')}
+            url = hit.get('url') or ''
+            if url.startswith('https://google.com/goto'):
+                url = (hit.get('breadcrumb') or '').replace(' › ', '/')
+            return {'site': d, 'query': q, 'position': hit.get('rank_group'), 'url': url, 'cost': t.get('cost')}
         except Exception as e:
             err = str(e)
             time.sleep(3)
