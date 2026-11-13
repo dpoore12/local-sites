@@ -342,6 +342,36 @@ ${showPitches ? `<td class="why">${esc(r.spam_reason)}</td>` : ""}
 // -------------------------------------------------------------------- router
 export default { fetch: onRequest };
 
+// Cloudflare Pages' own trailing-slash handler can emit a 308 whose Location
+// leaks the router's internal "/<host>/..." path. Clients follow it, double the
+// host segment, and 404. Present from 24 Aug–7 Sep 2026 on every domain.
+// Strip that prefix from any Location we pass through before the browser sees it.
+function unprefix(res, host) {
+  const loc = res.headers.get("Location");
+  if (!loc) return res;
+  const needle = "/" + host;
+  let fixed = loc;
+  if (fixed.startsWith(needle + "/") || fixed === needle) {
+    fixed = fixed.slice(needle.length) || "/";
+  } else {
+    try {
+      const u = new URL(fixed, "https://" + host);
+      if (u.pathname === needle || u.pathname.startsWith(needle + "/")) {
+        u.pathname = u.pathname.slice(needle.length) || "/";
+        fixed = u.toString();
+      } else {
+        return res;
+      }
+    } catch (_) {
+      return res;
+    }
+  }
+  if (fixed === loc) return res;
+  const headers = new Headers(res.headers);
+  headers.set("Location", fixed);
+  return new Response(res.body, { status: res.status, statusText: res.statusText, headers });
+}
+
 async function onRequest(request, env) {
   const url = new URL(request.url);
   const host = url.hostname.toLowerCase().replace(/^www\./, "");
@@ -396,7 +426,7 @@ async function onRequest(request, env) {
   let res = await at(url.pathname);
   if (res.status === 404 && !url.pathname.endsWith("/")) {
     const retry = await at(url.pathname + "/");
-    if (retry.status !== 404) return retry;
+    if (retry.status !== 404) return unprefix(retry, host);
   }
   if (res.status === 404) {
     const home = await at("/");
@@ -404,5 +434,5 @@ async function onRequest(request, env) {
       return new Response(home.body, { status: 404, headers: home.headers });
     }
   }
-  return res;
+  return unprefix(res, host);
 }
